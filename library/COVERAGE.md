@@ -1,6 +1,6 @@
 # Ingestion coverage
 
-Snapshot: 2026-09-09T16:02:09.580607+00:00
+Snapshot: 2026-09-09T16:12:12.550069+00:00
 
 The publisher RSS feed is the starting inventory. Airtable entries with a public publisher link can extend it. Episode numbering is preserved, including legacy titles with a parenthetical number and duplicates. Source matching uses exact public URLs, exact normalized titles, or a matching episode number with a title similarity check. Ambiguous matches are listed below rather than silently merged.
 
@@ -15,31 +15,6 @@ Duplicate numbered labels: {"263": 2, "219": 2}.
 ## Entries still missing a transcript
 
 - [CQAD - Christmas Bonus "Episode"](https://soundcloud.com/collectors-quest/cqad-christmas-bonus-episode) — 2025-12-20
-- [CQ 280 - Video Games Fell Off](https://soundcloud.com/collectors-quest/cq-280-video-games-fell-off) — 2025-09-15
-- [CQ 264 - Collecting the 1980s (as old Nintendo tapes)](https://soundcloud.com/collectors-quest/cq-264-collecting-the-1980s-as-old-nintendo-tapes) — 2025-01-13
-- [CQ 263 - A 2024 Market Recap for your Holiday Car Trip](https://soundcloud.com/collectors-quest/cq-263-a-2024-market-recap-for-your-holiday-car-trip-1) — 2024-12-24
-- [CQ 263 - 2024 recap (Old upload, broke on Spotify)](https://soundcloud.com/collectors-quest/cq-263-a-2024-market-recap-for-your-holiday-car-trip) — 2024-12-19
-- [CQ 262 - What are "Indie" games and are they worth collecting?](https://soundcloud.com/collectors-quest/cq-262-collecting-physical-indie-games) — 2024-12-09
-- [CQ 261 - The Worst Gift Ideas 2024](https://soundcloud.com/collectors-quest/cq-261-the-worst-gift-ideas-2024) — 2024-11-28
-- [CQ 260 - CQ Before Dark](https://soundcloud.com/collectors-quest/cq-260-cq-before-dark) — 2024-11-12
-- [CQ 259 - Historic Halloween Firsts](https://soundcloud.com/collectors-quest/cq-259-historic-halloween-firsts) — 2024-10-28
-- [CQ 258 - The Official Set of NES Halloween Games](https://soundcloud.com/collectors-quest/cq-258-the-official-set-of-nes-halloween-games) — 2024-10-15
-- [CQ 257 - Stephen King's Games (of the books you didn't read)](https://soundcloud.com/collectors-quest/cq-257-stephen-kings-games-of-the-books-you-didnt-read) — 2024-09-30
-- [CQ 256 - Are games without skill ceilings eternally collectible?](https://soundcloud.com/collectors-quest/cq-256-are-games-without-skill-ceilings-eternally-collectible) — 2024-09-18
-- [CQ 255 - Reacting to Recent Ridiculous Sales](https://soundcloud.com/collectors-quest/cq-255-reacting-to-recent-ridiculous-sales) — 2024-09-01
-- [CQ 253 - So You Want to Collect Nintendo 64](https://soundcloud.com/collectors-quest/cq-253-so-you-want-to-collect-nintendo-64) — 2024-08-03
-- [CQ 251 - Video Games NOBODY Collects](https://soundcloud.com/collectors-quest/cq-251-video-games-nobody-collects) — 2024-07-09
-- [CQ 250 - The most CONTROVERSIAL cartridge tier list](https://soundcloud.com/collectors-quest/cq-250-the-most-controversial-cartridge-tier-list) — 2024-06-28
-- [CQ 249 - Every Pokemon Game.](https://soundcloud.com/collectors-quest/cq-249-every-pokemon-game) — 2024-06-11
-- [CQ 247 - Collecting Boxes Tier List](https://soundcloud.com/collectors-quest/cq-247-collecting-boxes-tier-list) — 2024-05-10
-- [CQ 246 - The Worst Insert: Temporary Tattoos](https://soundcloud.com/collectors-quest/cq-246-the-worst-insert-temporary-tattoos) — 2024-04-29
-- [CQ 245 - Games Are Affordable When You Don't Buy Nonsense](https://soundcloud.com/collectors-quest/cq-245-games-are-affordable-when-you-dont-buy-nonsense) — 2024-04-14
-- [CQ 244 - Are Game Conventions Even Worth It?](https://soundcloud.com/collectors-quest/cq-244-are-game-conventions-even-worth-it) — 2024-03-23
-- [CQ 243 - The Best Non-Game VG Collectibles](https://soundcloud.com/collectors-quest/cq-243-the-best-non-game-vg-collectibles) — 2024-03-07
-- [CQ 242 - Collecting Controversy](https://soundcloud.com/collectors-quest/cq-242-collecting-controversy) — 2024-02-19
-- [CQ 241 - Modern Games You'll NEVER Regret Owning](https://soundcloud.com/collectors-quest/cq-241-modern-games-youll-never-regret-owning) — 2024-02-09
-- [CQ 240 - Old Men Complain About Collecting Rereleases, Reissues, and Rehashes](https://soundcloud.com/collectors-quest/cq-240-old-men-complain-about-collecting-rereleases-reissues-and-rehashes) — 2024-01-22
-- [CQ 239 - Rating "THE RAREST" Collectible Games](https://soundcloud.com/collectors-quest/cq-239-rating-the-rarest-collectible-games) — 2024-01-08
 - [CQ 238 - The Goals, Trends, and Prices of 2023](https://soundcloud.com/collectors-quest/cq-238-the-goals-trends-and-prices-of-2023) — 2023-12-30
 - [CQ 237 - Collecting the EARLY History of Platformers](https://soundcloud.com/collectors-quest/cq-237-collecting-the-early-history-of-platformers) — 2023-12-11
 - [CQ 235 - Gifts you can ACTUALLY ask Santa for](https://soundcloud.com/collectors-quest/cq-235-presents-you-can-actually-ask-santa-for) — 2023-11-14
@@ -98,29 +73,8 @@ Duplicate numbered labels: {"263": 2, "219": 2}.
 - [CQ 183 - Anything Interesting in that Wata Pop Report?](https://soundcloud.com/collectors-quest/cq-183-anything-interesting-in-that-wata-pop-report) — 2021-12-03
 - [CQ 182 - Collecting 10/10 Games for $10 Each](https://soundcloud.com/collectors-quest/cq-182-collecting-1010-games-for-10-each) — 2021-11-26
 - [CQ 181 - Are the "Holy Grails" Even Worth It?](https://soundcloud.com/collectors-quest/cq-181-are-the-holy-grails-even-worth-it) — 2021-11-15
-- [CQ 180 - Collecting the History of Survival Horror](https://soundcloud.com/collectors-quest/cq-180-collecting-the-history-of-survival-horror) — 2021-10-31
-- [CQ 179 - So You Want to Collect Halloween Games #4](https://soundcloud.com/collectors-quest/cq-179-collecting-13-halloween-games-for-2021) — 2021-10-18
-- [CQ 178 - Documenting Compulsive Collectors with Director Edward Payson](https://soundcloud.com/collectors-quest/cq-178-documenting-compulsive-collectors-with-director-edward-payson) — 2021-10-05
-- [CQ 177 - Games Based on the Best Cartoon Ever Made](https://soundcloud.com/collectors-quest/cq-177-games-based-on-the-best-cartoon-ever-made) — 2021-09-19
-- [CQ 175 - Talking Karl Jobst's SCAM ALERT (also are pop reports an answer?)](https://soundcloud.com/collectors-quest/cq-175-talking-karl-jobsts-scam-alert-also-are-pop-reports-an-answer) — 2021-08-29
-- [Episode 174 - So you want to collect Turbografx-16](https://soundcloud.com/collectors-quest/cq-174-so-you-want-to-collect-turbografx-16) — 2021-08-16
-- [Episode 173 - You've completed "The Set". What now?](https://soundcloud.com/collectors-quest/cq-173-what-to-do-when-youre-done-with-your-set) — 2021-08-01
-- [Episode 172 - Who's Buying Million Dollar Mario 64s?](https://soundcloud.com/collectors-quest/episode-172-whos-buying-million-dollar-marios) — 2021-07-18
 - [Update: CQ is going back to an explicit rating](https://soundcloud.com/collectors-quest/update-cq-is-going-back-to-an-explicit-rating) — 2021-07-18
-- [Episode 171 - Collecting the History of Mario Games](https://soundcloud.com/collectors-quest/episode-171-collecting-the-history-of-mario-games) — 2021-07-10
-- [Episode 170 - E3 and Summer Announcements for Game Collectors](https://soundcloud.com/collectors-quest/cq-170-e3-and-summer-announcements-for-game-collectors) — 2021-06-24
-- [Episode 169 - Collecting Light Gun Games (and some you can't collect)](https://soundcloud.com/collectors-quest/episode-169-collecting-light-gun-games-and-some-you-cant-collect) — 2021-06-14
-- [Episode 168 - Six RPGs that Might Be Worth Collecting Right Now](https://soundcloud.com/collectors-quest/episode-168-six-rpgs-that-might-be-worth-collecting-right-now) — 2021-05-29
-- [Episode 167 - The Market is Euphoric, Should You Sell Out?](https://soundcloud.com/collectors-quest/episode-167-the-market-is-euphoric-should-you-sell-out) — 2021-05-18
-- [Episode 166 - How Many Collectible Video Games Beat Inflation?](https://soundcloud.com/collectors-quest/episode-166-how-many-collectible-video-games-beat-inflation) — 2021-05-09
-- [Episode 165 - What happens if all our physical Playstation games become coasters?](https://soundcloud.com/collectors-quest/episode-165-what-happens-if-all-our-physical-playstation-games-become-coasters) — 2021-04-24
-- [Episode 164 - NES Games Based on R-rated Movies](https://soundcloud.com/collectors-quest/cq-164-nes-games-based-on-r-rated-movies) — 2021-04-11
-- [Episode 163 - The CQ Cut: Collecting DC Comics Games](https://soundcloud.com/collectors-quest/episode-163-the-cq-cut-collecting-dc-comics-games) — 2021-03-28
-- [Episode 162 - Collector's Questions #1](https://soundcloud.com/collectors-quest/episode-162-collectors-questions-1) — 2021-03-21
-- [Episode 161 - Rare and Collectible Zelda Games](https://soundcloud.com/collectors-quest/episode-161-rare-and-collectible-zelda-games) — 2021-03-07
-- [Episode 160 - Early Video Game Pack-ins](https://soundcloud.com/collectors-quest/episode-160-early-video-game-pack-ins) — 2021-02-23
 - [Episode 154 - Don't Collect Video Game Food... but if you do...](https://soundcloud.com/collectors-quest/episode-154-dont-collect-video-game-food-but-if-you-do) — 2020-12-16
-- [Side Quest 3 - Collecting and Finishing the PS1 Set](https://soundcloud.com/collectors-quest/side-quest-3-collecting-and-finishing-the-ps1-set) — 2020-03-31
 - [Episode 140 - Coronavirus Impact on the Video Game Market](https://soundcloud.com/collectors-quest/episode-140-coronavirus-impact-on-the-video-game-market) — 2020-03-27
 - [SideQuest 2 - Social Strategies](https://soundcloud.com/collectors-quest/side-quest-2-social-strategies) — 2020-03-22
 - [SideQuest 1 - The Wide World Of Aftermarket Games](https://soundcloud.com/collectors-quest/sidequest-1-the-wide-world-of-aftermarket-games) — 2020-03-16
@@ -169,48 +123,20 @@ Duplicate numbered labels: {"263": 2, "219": 2}.
 - [Episode 99 - The Biggest Wastes of Money in Game Collecting](https://soundcloud.com/collectors-quest/episode-99-the-biggest-wastes-of-money-in-game-collecting) — 2018-08-29
 - [Episode 98 - Homie Hook-ups, Back Door Deals, and More...](https://soundcloud.com/collectors-quest/episode-98-homie-hook-ups-back-door-deals-and-more) — 2018-08-09
 - [Episode 97 - So You Want to Collect for the Original Xbox](https://soundcloud.com/collectors-quest/episode-98-so-you-want-to-collect-for-the-original-xbox) — 2018-07-16
-- [Episode 96 - Is It Better To Collect The Most Expensive Games First?](https://soundcloud.com/collectors-quest/episode-96-is-collecting-full-sets-top-down-economical) — 2018-07-02
-- [Episode 95 - So You Want to Collect for the Sega Genesis](https://soundcloud.com/collectors-quest/episode-95-so-you-want-to-collect-for-the-sega-genesis) — 2018-06-10
-- [Episode 94 - Our Top Pet Peeves With Collecting Video Games](https://soundcloud.com/collectors-quest/episode-94-our-top-pet-peeves-with-collecting-video-games) — 2018-05-28
-- [MicroCast 9 - Did The Video Game Collectors Market Crash?](https://soundcloud.com/collectors-quest/microcast-9-did-the-video-game-collectors-market-crash) — 2018-05-15
-- [Episode 93 - Did Johnny Buy a $100 Reproduction of Mega Man X!?](https://soundcloud.com/collectors-quest/episode-93-did-johnny-buy-a-100-reproduction-of-mega-man-x) — 2018-05-08
-- [Episode 92 - Moving Past "Retro" and "Modern" With Special Guest Excitebyte Games](https://soundcloud.com/collectors-quest/episode-92-moving-past-retro-and-modern-with-special-guest-excitebyte-games) — 2018-05-01
-- [Episode 91 - Johnny and Tyler Lay the Smackdown on Wrestling Games](https://soundcloud.com/collectors-quest/episode-91-johnny-and-tyler-lay-the-smackdown-on-wrestling-games) — 2018-04-19
-- [Episode 90 - Dead Digital Games. Limited print game publishers and the Wii Shop shutdown.](https://soundcloud.com/collectors-quest/episode-90-dead-digital-games-the-wiiware-shutdown-and-limited-print-game-publishers) — 2018-04-01
-- [Episode 89 - Collecting The Full Set of 3DO Games with Industry Veteran Stephan Reese](https://soundcloud.com/collectors-quest/episode-89-collecting-the-full-set-of-3do-games-with-industry-veteran-stephan-reese) — 2018-03-26
-- [Episode 88 - What We Talk About Before We Record (Limited Run Games, Dragon Warrior, and More).mp3](https://soundcloud.com/collectors-quest/episode-89-what-we-talk-about-before-we-record-limited-run-games-dragon-warrior-and-moremp3) — 2018-03-21
-- [Episode 87 - Tips to Protect Your Collection, and Things to Never Do.](https://soundcloud.com/collectors-quest/episode-87-tips-to-protect-your-collection-and-things-to-never-do) — 2018-03-13
-- [Episode 86 - Licensed Food Games? Dominos, McDonalds, 7-Up M&Ms???](https://soundcloud.com/collectors-quest/episode-86-licensed-food-games) — 2018-02-27
-- [Episode 85 - Is The Nintendo Switch Killing the Collectiblity of the Wii-U](https://soundcloud.com/collectors-quest/episode-84-switch-ports-and-the-wii-u-collectibility) — 2018-02-20
-- [Episode 84 - Special Edition Consoles...They Suck](https://soundcloud.com/collectors-quest/episode-84-special-edition-consoles) — 2018-02-07
-- [MicroCast 8 - How To Save Money On Modern Games](https://soundcloud.com/collectors-quest/microcast-8-how-to-save-money-on-modern-games) — 2018-01-31
-- [Episode 83 - Aftermarket Reproductions (The legal kind)](https://soundcloud.com/collectors-quest/episode-83-aftermarket-reproductions-the-legal-kind) — 2018-01-24
-- [Episode 82 - Building a Retro Gaming Convention: Retro City Festival 2018](https://soundcloud.com/collectors-quest/episode-82-building-a-retro-gaming-convention-retro-city-festival-2018) — 2018-01-09
-- [Episode 81 - Video Game Collectors 2017 Recap](https://soundcloud.com/collectors-quest/video-game-collectors-2017-recap) — 2018-01-04
-- [Episode 80 - Mario Games](https://soundcloud.com/collectors-quest/episode-80-mario-games) — 2017-11-30
-- [Episode 79 - Holiday Price Spike and Dip](https://soundcloud.com/collectors-quest/episode-79-holiday-price-spike-and-dip) — 2017-11-14
-- [Episode 78 - Halloween Games That Came With Cool Pack In Items](https://soundcloud.com/collectors-quest/episode-78-halloween-games-that-came-with-cool-pack-in-items) — 2017-10-31
-- [Episode 77 - Scooby Doo Console Game Retrospective](https://soundcloud.com/collectors-quest/episode-77-scooby-doo-console-game-retrospective) — 2017-10-16
-- [Episode 76 - Family Friendly Halloween Games](https://soundcloud.com/collectors-quest/episode-76-family-friendly-halloween-games) — 2017-10-09
-- [Episode 75 - Most and Least Expensive System to Collect For](https://soundcloud.com/collectors-quest/episode-75-most-and-least-expensive-system-to-collect-for) — 2017-09-25
-- [Episode 74 - Words and Phrases That Shouldn't Make Games More Expensive](https://soundcloud.com/collectors-quest/episode-74-words-and-phrases-that-shouldnt-make-games-more-expensive) — 2017-09-19
-- [Microcast 7 - Another New Host, Tyler Joins The Fray](https://soundcloud.com/collectors-quest/microcast-7-another-new-host-tyler-joins-the-fray) — 2017-09-11
-- [Microcast 6 - Being An Opportunistic Buyer, Thoughts on VGA, and Games That Were Destroyed](https://soundcloud.com/collectors-quest/microcast-6-being-an-opportunistic-buyer-thoughts-on-vga-and-games-that-were-destroyed) — 2017-08-29
-- [Microcast 5 - Collecting Tips for the Nintendo DS](https://soundcloud.com/collectors-quest/microcast-5-collecting-tips-for-the-nintendo-ds) — 2017-08-21
-- [Episode 73 - Collecting Tips (Fixed)](https://soundcloud.com/collectors-quest/episode-73-collecting-tips) — 2017-08-14
-- [Episode 72 - Gaming Vs Collecting](https://soundcloud.com/collectors-quest/episode-72-gaming-vs-collecting) — 2017-08-01
-- [Episode 71 - Collecting For Modern Sytems and Completing Sets](https://soundcloud.com/collectors-quest/ep-71-collecting-for-modern-sytems-and-completing-sets) — 2017-07-25
-- [MicroCast 4 - What Does Rare Mean?](https://soundcloud.com/collectors-quest/microcast-4-what-does-rare-mean) — 2017-07-18
-- [Episode 70 - SNES Classic Announced](https://soundcloud.com/collectors-quest/snes-classic-announced) — 2017-07-03
-- [MicroCast 3 - Is The Video Game Bubble Bursting](https://soundcloud.com/collectors-quest/microcast-3-is-the-video-game-bubble-bursting) — 2017-06-29
-- [MicroCast 2 - Should You Already Be Collecting For The Nintendo Switch](https://soundcloud.com/collectors-quest/microcast-2) — 2017-06-26
-- [MicroCast 1 - What is a MicroCast and What System Had the Best Game Boxes](https://soundcloud.com/collectors-quest/microcast-1-what-is-a-microcast-and-what-system-had-the-best-game-boxes) — 2017-06-22
-- [Episode 69 - What Pirate Games Arrr Worth Collecting?](https://soundcloud.com/collectors-quest/episode-69-what-pirate-games-arrr-worth-collecting) — 2017-05-30
-- [Episode 68 - Is It a Good Time To Collect For the Wii-U](https://soundcloud.com/collectors-quest/episode-68-is-it-a-good-time-to-collect-for-the-wii-u) — 2017-05-23
-- [Episode 67 - Is The N64 Garbage?](https://soundcloud.com/collectors-quest/is-the-n64-garbage) — 2017-05-09
-- [Episode 66 - NES Classic Discontinued, Collecting Slowing Down?](https://soundcloud.com/collectors-quest/episode-66-nes-classic-discontinued-collecting-slowing-down) — 2017-05-01
-- [Episode 65 - Pornography in Video Games](https://soundcloud.com/collectors-quest/episode-65-pornography-in-video-games) — 2017-04-11
-- [Episode 64 - 8 Reasons Your Games Aren't Worth What You Think](https://soundcloud.com/collectors-quest/episode-64-8-reasons-your-games-arent-worth-what-you-think) — 2017-03-27
-- [Episode 63 - Interview with JayBaam and Helping Brooklynn](https://soundcloud.com/collectors-quest/episode-63-interview-with-jaybaam-and-helping-brooklynn) — 2017-03-13
 - [Episode 2 (6) -Speed Racer Mountain Bike Rally Combo Cart For Super Nintendo](https://soundcloud.com/collectors-quest/collectors-quest-episode-6-srmbr) — 2015-11-11
 - [Episode 1 (5)  - A New Host - Katselvania](https://soundcloud.com/collectors-quest/collectors-quest-episode-5-a-new-host) — 2015-10-27
+
+## Numbered series coverage
+
+Distinct regular episode numbers with transcripts: **194 of 300**. Bonus entries, CQ 0, CQ 219X and duplicate uploads do not inflate this count.
+
+| Episode range | Represented | Transcript captured |
+| --- | ---: | ---: |
+| 1–50 | 46 / 50 | 44 / 50 |
+| 51–100 | 50 / 50 | 46 / 50 |
+| 101–150 | 50 / 50 | 10 / 50 |
+| 151–200 | 50 / 50 | 29 / 50 |
+| 201–250 | 50 / 50 | 15 / 50 |
+| 251–300 | 50 / 50 | 50 / 50 |
+
+Primary transcript sources: YouTube captions: 104; local audio transcription: 1; Airtable attachment: 100.

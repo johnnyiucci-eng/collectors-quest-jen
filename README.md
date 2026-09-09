@@ -17,16 +17,20 @@ To rehearse the introduction, say “Jen, let's rehearse the opening.” To work
 
 Public links let a client request the files without GitHub authentication. Whether a particular chat can fetch them depends on its available tools. Pasting the bundle gives it the content directly. This repository publishes the profile; it does not itself create a custom GPT, select a voice, or automatically synchronize future conversations.
 
+For direct file loading, use the [downloadable knowledge package](downloads/README.md). It contains the profile and the captured archive split into bounded Markdown files, with source links and coverage information. Extract the ZIP before loading the files into your chat or supported knowledge workspace.
+
 ## Files
 
 | File | Purpose |
 | --- | --- |
 | [Cohost profile](persona/DEFAULT_JEN.md) | Identity, modes, opening, turn taking, and evidence rules |
 | [Show context](SHOW_CONTEXT.md) | Dated show context and recurring conversation mechanics |
+| [Johnny's collecting context](JOHNNY_COLLECTING_CONTEXT.md) | Source-backed experience, goals, and collecting habits for Jen's conversations |
 | [Episode library](library/README.md) | Source-linked episode catalog and captured transcripts |
 | [Library guide](LIBRARY_GUIDE.md) | How Jen retrieves, compares, and cites past discussions |
 | [Coverage report](library/COVERAGE.md) | Missing text, numbering issues, and source-matching gaps |
 | [Topic discovery](library/topics/README.md) | Search leads across collecting subjects and platforms |
+| [Knowledge download](downloads/README.md) | Portable profile and archive files for direct loading |
 | [Conversation style](style/CONVERSATION_STYLE.md) | Original handoff's performance notes |
 | [Rehearsal prompts](style/REHEARSAL.md) | Short scenarios for checking the profile in conversation |
 | [Episode 001](episodes/001-five-ways-ai-can-help-you-collect/EPISODE.md) | Five Ways AI Can Help You Collect: developed material and open fifth tip |
@@ -34,6 +38,7 @@ Public links let a client request the files without GitHub authentication. Wheth
 | [YouTube findings](research/YOUTUBE_STYLE_FINDINGS.md) | Twelve-episode study with timestamped evidence and coverage limits |
 | [Archive findings](research/ARCHIVE_FINDINGS.md) | Airtable and podcast inventory, transcript close reading, and summary-quality checks |
 | [Early archive findings](research/EARLY_ARCHIVE_FINDINGS.md) | Kat and Johnny's convention discussion and its relation to later collecting goals |
+| [Audio transcription provenance](research/AUDIO_INGESTION.md) | SoundCloud-only coverage, local model settings, and quality limits |
 | [Single-file chat bundle](JEN_START_HERE.md) | Generated profile and Episode 001 for loading into a chat |
 | [Handoff provenance](SOURCE_NOTES.md) | What came from the original handoff and what was added |
 

@@ -20,6 +20,7 @@ import xml.etree.ElementTree as ET
 ROOT = Path(__file__).resolve().parents[1]
 ITUNES = "{http://www.itunes.com/dtds/podcast-1.0.dtd}"
 REVIEWED = {7, 142, 146, 176, 204, 222, 236, 248, 252, 254, 271, 281, 288, 299, 300}
+FULLY_READ = {"sc-234461881", "sc-787918894", "sc-1878380403"}
 TOPICS = {
     "variants-and-completeness": ("Variants and completeness", ["variant", "insert", "complete in box", "cib", "first print", "greatest hits", "packaging", "reissue"]),
     "collecting-goals-and-psychology": ("Collecting goals and psychology", ["collecting goals", "empty slot", "sunk cost", "collecting sets", "full set", "burnout", "fomo", "collection envy"]),
@@ -145,7 +146,7 @@ def main():
             "duration": item.findtext(ITUNES + "duration"),
             "description": text(item.findtext("description")),
             "path": "episodes/" + filename, "transcript_status": "missing",
-            "analysis_status": "selected passages studied" if number in REVIEWED else "not closely analyzed",
+            "analysis_status": "one full captured transcript read" if key in FULLY_READ else ("selected passages studied" if number in REVIEWED else "not closely analyzed"),
             "transcript_words": 0, "video_urls": [], "transcript_sources": [],
         }
         entries.append(entry)
@@ -186,6 +187,7 @@ def main():
     airtable = read_json(source / "airtable-transcripts.json", [])
     if isinstance(airtable, dict):
         airtable = airtable.get("records", airtable.get("entries", []))
+    airtable.extend(read_json(source / "airtable-parent-transcripts.json", []))
     for number in (248, 252, 254):
         filename = source / f"airtable-cq{number}.txt"
         if filename.exists():
@@ -279,15 +281,27 @@ def main():
                 topic_matches[topic_id].append((entry, title_hit, hits[:2]))
 
     available = [e for e in entries if e["transcript_status"] == "available"]
+    def regular_number(entry):
+        n = entry["episode_number"]
+        return n if n and 1 <= n <= 300 and not re.match(r"CQ\s*[0-9]+X\b", entry["title"], re.I) else None
+    represented = {regular_number(e) for e in entries} - {None}
+    transcribed = {regular_number(e) for e in available} - {None}
+    primary_counts = Counter("local audio transcription" if e.get("transcription_method") else ("YouTube captions" if "youtube.com" in e["primary_transcript_source"] else "Airtable attachment") for e in available)
     count = Counter(e["episode_number"] for e in entries if e["episode_number"] is not None)
     absent_numbers = [n for n in range(1, 301) if n not in count]
     manifest = {"built_at": datetime.now(timezone.utc).isoformat(), "publisher_feed": "https://feeds.soundcloud.com/users/soundcloud:users:183077381/sounds.rss", "entries": entries, "coverage": {"publisher_entries": publisher_count, "combined_entries": len(entries), "transcripts_available": len(available), "transcripts_missing": len(entries)-len(available), "transcript_words": sum(e["transcript_words"] for e in available), "numbered_episodes_not_in_inventory": absent_numbers, "duplicate_episode_numbers": {str(n): c for n, c in count.items() if c > 1}, "unmatched_transcript_sources": unmatched}}
+    manifest["coverage"].update(regular_numbered_episodes_in_inventory=len(represented), regular_numbered_episodes_with_transcripts=len(transcribed), regular_numbered_episode_transcript_gaps=sorted(set(range(1, 301))-transcribed), primary_transcript_sources=dict(primary_counts))
     write(library / "manifest.json", json.dumps(manifest, ensure_ascii=False, indent=2))
     index = ["# Collector's Quest episode library", "", f"Combined inventory: **{len(entries)} entries** ({publisher_count} from the publisher feed). Transcripts ingested: **{len(available)}**. Still missing: **{len(entries)-len(available)}**. Transcript words: **{manifest['coverage']['transcript_words']:,}**.", "", "This library includes numbered episodes and bonus/special entries. A transcript being available does not mean every passage has been closely analyzed. See [coverage](COVERAGE.md), [topic discovery](topics/README.md), and [the full manifest](manifest.json).", "", "| Episode | Date | Transcript |", "| --- | --- | --- |"]
     index += [f"| [{e['title'].replace('|', '/')} ]({e['path']}) | {e['date']} | {e['transcript_status']} |" for e in entries]
     write(library / "README.md", "\n".join(index))
     coverage = ["# Ingestion coverage", "", f"Snapshot: {manifest['built_at']}", "", "The publisher RSS feed is the starting inventory. Airtable entries with a public publisher link can extend it. Episode numbering is preserved, including legacy titles with a parenthetical number and duplicates. Source matching uses exact public URLs, exact normalized titles, or a matching episode number with a title similarity check. Ambiguous matches are listed below rather than silently merged.", "", f"Numbered episodes 1–300 not represented in the combined inventory: {', '.join(map(str, absent_numbers)) or 'none'}.", "", f"Duplicate numbered labels: {json.dumps(manifest['coverage']['duplicate_episode_numbers'])}.", "", "## Sources awaiting a match", "", json.dumps(unmatched, ensure_ascii=False, indent=2), "", "## Entries still missing a transcript", ""]
     coverage += [f"- [{e['title']}]({e['source_url']}) — {e['date']}" for e in entries if e["transcript_status"] == "missing"]
+    coverage += ["", "## Numbered series coverage", "", f"Distinct regular episode numbers with transcripts: **{len(transcribed)} of 300**. Bonus entries, CQ 0, CQ 219X and duplicate uploads do not inflate this count.", "", "| Episode range | Represented | Transcript captured |", "| --- | ---: | ---: |"]
+    for start in range(1, 301, 50):
+        span = set(range(start, start + 50))
+        coverage.append(f"| {start}–{start+49} | {len(span & represented)} / 50 | {len(span & transcribed)} / 50 |")
+    coverage += ["", "Primary transcript sources: " + "; ".join(f"{name}: {count}" for name, count in primary_counts.items()) + "."]
     write(library / "COVERAGE.md", "\n".join(coverage))
     topic_index = ["# Topic discovery", "", "These indexes are generated keyword leads, not verified semantic summaries. Title/description matches are prioritized. Transcript matches require at least three paragraph hits, but a mention can still be incidental. Open the source passage and surrounding context before answering.", ""]
     for topic_id, (name, terms) in TOPICS.items():
@@ -302,7 +316,7 @@ def main():
             lines.append("")
         write(library / "topics" / (topic_id + ".md"), "\n".join(lines))
     write(library / "topics" / "README.md", "\n".join(topic_index))
-    print(json.dumps(manifest["coverage"], indent=2))
+    print(json.dumps({key: value for key, value in manifest["coverage"].items() if key != "regular_numbered_episode_transcript_gaps"}, indent=2))
 
 
 if __name__ == "__main__":

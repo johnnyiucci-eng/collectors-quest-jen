@@ -25,28 +25,38 @@ Search terms: convention, ebay, buying, selling, shipping, reproduction, counter
 
 ## [Episode 82 - Building a Retro Gaming Convention: Retro City Festival 2018](../episodes/cq-082-sc-381157055.md)
 
-2018-01-09 · Title or publisher description match · Transcript missing
+2018-01-09 · Title or publisher description match · Transcript available
 
+- Untimed passage: Welcome to episode 82 of collector’s quest on this episode We talked to Steve Torres owner of multiple video game stores and the man who’s bringing video game conventions back to Southern California Especially the retro city festival happening at the Pomona fairgrounds in just under two weeks But he gives us a lot of insight on what it ta…
+- Untimed passage: what is this convention and how did we get here? Hey Johnny, I can’t believe 82 already. Wow, that’s awesome Thanks. Well retro city festival 2018 is is a really special show. So we’ve had a huge team put this together. I have so much support and Thankfully I’ve learned how to ask for help. So that was amazing But it’s been a true journey…
 
 ## [Episode 90 - Dead Digital Games. Limited print game publishers and the Wii Shop shutdown.](../episodes/cq-090-sc-423296268.md)
 
-2018-04-01 · Title or publisher description match · Transcript missing
+2018-04-01 · Title or publisher description match · Transcript available
 
+- Untimed passage: Hey, welcome to episode 90 of Collector’s Quest. This week we are talking about a lot, but for the most part we are talking about what happens to our digital games. And this was prompted because WeWare is shutting down, and those games seem like they might be lost to time. We’re also talking about limited print game companies that are tak…
+- Untimed passage: this now or are we talking about? Yeah. Let’s, no, let’s, let’s get into the general concept and we’ll talk more about what, what happened, what we did with We Wear. But yeah, how do you feel about piracy then? I mean, I think I would land on the side that most people are, that it is obviously not an ideal situation. But for this kind of…
 
 ## [Episode 91 - Johnny and Tyler Lay the Smackdown on Wrestling Games](../episodes/cq-091-sc-431931915.md)
 
-2018-04-19 · Title or publisher description match · Transcript missing
+2018-04-19 · Title or publisher description match · Transcript available
 
+- Untimed passage: game on NES anymore, is there? - No, not really. Let’s see. What do you think it is in the box, muscle Nintendo in box? - I think it’s $50. - You think it’s $50? - I mean, I think that because I’m looking at price charting. Also, it’s kind of an early release ’cause it has that kind of-- - Right. - It has the transparent Nintendo seal of…
+- Untimed passage: then as the newer releases of them came, it was like purple, like muscle was like a huge fat here for a little while. - I probably, I probably wasn’t alive. I was born in Kina. - Yeah, you weren’t alive, but they were-- - I was into crazy bones and pogs. - Yeah, this was like an 80s thing. But yeah, these little pink muscle figures were e…
 
 ## [Episode 93 - Did Johnny Buy a $100 Reproduction of Mega Man X!?](../episodes/cq-093-sc-440884842.md)
 
-2018-05-08 · Title or publisher description match · Transcript missing
+2018-05-08 · Title or publisher description match · Transcript available
 
+- Untimed passage: are coming from the bottom of my heart. No, don’t ask me questions yet. Let’s talk about the news that has happened, the wonderful news in the world of game collecting. Is it wonderful? It is not. Really, the bunch of bullshit that just happened in the world of game collecting. Okay, why don’t you inform people? I mean, everybody knows, b…
+- Untimed passage: think Mega Man is more popular than Street Fighter? In the world of game collecting, sure, it is. It’s not people are going to pay $100 for it, more attractive than Street Fighter. Do you think, okay, because they released two of them. Well, let’s give some basic rundowns. So they did the stupid thing they did last time, which is they rel…
 
 ## [Episode 96 - Is It Better To Collect The Most Expensive Games First?](../episodes/cq-096-sc-466143843.md)
 
-2018-07-02 · Title or publisher description match · Transcript missing
+2018-07-02 · Title or publisher description match · Transcript available
 
+- Untimed passage: Hey, welcome to episode 96 of the Collector’s Quest podcast, and we’ve got a numbers episode. No, but it’s fun. It’s fun. So what we did here today is a sort of case study. So, one way people think about collecting games is collecting them top-down, buying the most expensive things first. Or as Johnny might say, that is the conventional w…
+- Untimed passage: right, Johnny. Johnny, I always go into like something that I talk about now. So I’m just gonna throw it back at you. How are you doing, Johnny? You know, I’m super, super actually really annoyed. Yeah, I’m annoyed. It’s been a... It’s been a day, you know? It’s been a day. eBay. I got two items today. Nothing of like wild significance. B…
 
 ## [Episode 99 - The Biggest Wastes of Money in Game Collecting](../episodes/cq-099-sc-492160860.md)
 
@@ -79,8 +89,10 @@ Search terms: convention, ebay, buying, selling, shipping, reproduction, counter
 
 ## [Episode 172 - Who's Buying Million Dollar Mario 64s?](../episodes/cq-172-sc-1089797359.md)
 
-2021-07-18 · Title or publisher description match · Transcript missing
+2021-07-18 · Title or publisher description match · Transcript available
 
+- 00:03:05: $900,000 there's a new Grading Company cgc is grading and wada got bought out so lots going on in the sealed world and graded world and I'm sorry we're going to be talking about a lot of sealed games and [ __ ] in this episode yeah investing well but I don't want to spend too much time on I I know our investors are more collectors I know…
+- 00:06:19: actively buying into games that they think will just make them money right like they they there are you know inroads for both to be tied together you can be a little bit of both and people who have been both for a long time but you know really it's two separate Hobbies at this point that's sure we we can use our context clues to figure ou…
 
 ## [CQ 197 - Enjoying Collecting Games More](../episodes/cq-197-sc-1291821400.md)
 
@@ -99,8 +111,10 @@ Search terms: convention, ebay, buying, selling, shipping, reproduction, counter
 
 ## [CQ 255 - Reacting to Recent Ridiculous Sales](../episodes/cq-255-sc-1907940866.md)
 
-2024-09-01 · Title or publisher description match · Transcript missing
+2024-09-01 · Title or publisher description match · Transcript available
 
+- 00:01:01: mean if we're going to talk about Roi I think this is probably the episode you caught it you almost didn't catch it but you caught it I got it I got there I got there so I do are we just jumping in are we done with small talk you didn't even tell me what's going on with you what's going on with I'll tell you what I'm what I'm buying and p…
+- 00:11:41: aware of and everybody younger than us is not aware of no Tyler it's pce Works they did it to us I I'm just sorry we're going let's do a little early look I'm going to bring up just price charting for Turbo Graphics does price Char even like track turbo Graphics is it under like other platforms they do I don't know if they have it broken…
 
 ## [Episode 3 (7) - Conventions](../episodes/cq-007-sc-234461881.md)
 
@@ -375,6 +389,202 @@ Search terms: convention, ebay, buying, selling, shipping, reproduction, counter
 - Untimed passage: point comes up is when you’re selling a system to kids, you know, and younger people who are invested in AAA titles and your system is then underpowered. While the graphics may not make for a great game, it limits the selection of games you can get on the system, which can be a problem. Okay, well that makes sense. So that’s when it matte…
 - Untimed passage: of obviously phasing its way out. So it, you know, it might not be worth anything to keep sealed, but it wasn’t that expensive. So anyway, I have two copies, one to play and one to leave sealed on the shelf. Nice. And I don’t have my second copy of Zelda yet, though I will have a second copy of Zelda. I did pre-order it for the Wii U and…
 
+## [Episode 64 - 8 Reasons Your Games Aren't Worth What You Think](../episodes/cq-064-sc-314662990.md)
+
+2017-03-27 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: can go and get information that’s going to tell me, "Well, this is a good condition game." And the flaw is that it doesn’t take that into effect. It could be a game that had a torn label versus a game that had a mint label or, as Johnny liked to say, a squashed or stepped on box versus a really nice condition box. So that’s kind of a prob…
+- Untimed passage: consideration is on a Tony Hawk Pro Skater two, if there are like 75 of them on eBay over the last three months, and, you know, they keep recycling through these auctions. So like a hundred auctions for this game is cycled through. There’s 10 completed as sold, you know, 10 sold listings, 90 complete completed without sales, a hundred auc…
+
+## [Episode 65 - Pornography in Video Games](../episodes/cq-065-sc-317200139.md)
+
+2017-04-11 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: But if we go to Atari, they just had a fleet of them, right? Yes. And I think those are the ones that for a lot of people are maybe the most iconic in terms of the most well-known. Maybe it’s a better way to phrase it. Yes. And also the most hilarious. Yeah. Well, yeah, because I mean, really, some crude pixels and proportions might be a…
+- Untimed passage: Yeah, the US version goes for several hundred dollars. If you get it complete in box. I saw some cartridge only Atari ones. I mean German ones for Atari that were like a hundred and fifty. But wow, like seven hundred dollars. Somebody’s got a crazy price up there on eBay now. They’ve got like a graded one and want like eighteen thousand d…
+
+## [Episode 66 - NES Classic Discontinued, Collecting Slowing Down?](../episodes/cq-066-sc-320301722.md)
+
+2017-05-01 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: long ago, distant past. And they actually had one there, which I bought, which I could not believe because I have not seen one. Actually, that was the first time I’ve ever seen one in a store. Yeah, so that’s pretty awesome. Yeah, which was odd with all of this going on. Yeah. So they can still be found. But I guess the last shipments hav…
+- Untimed passage: pretty on the mark. He, he didn’t come out and just like issue a statement that gaming is ending. Like game collecting is over. Stop it. It’s the end. He was asked a question and he answered. And he, you know, obviously he picked the question was just didn’t come out randomly. He wanted to address it. So he, he read this question said, do…
+
+## [Episode 68 - Is It a Good Time To Collect For the Wii-U](../episodes/cq-068-sc-324062056.md)
+
+2017-05-23 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: most expensive games aren’t that expensive. But people have already started to identify it, you know, as a collector’s system, which I think is weird, right? Yes. So, yeah, I think if you really wanted to collect for the Wii U, you probably should have got in about a year ago, six months ago, before the library was completely dead, becaus…
+- Untimed passage: such in it. Not necessarily to play it, though I would be pleasantly surprised if I pop it in and it is fun. Cool. Reasonable. Reasonable pickups this week. Yes. Well, one anyway. So what about you? What have you been playing and I know you’ve bought stuff. So that’s not even a question. Well, I mean, there’s been times when I didn’t buy…
+
+## [Episode 71 - Collecting For Modern Sytems and Completing Sets](../episodes/cq-071-sc-334716969.md)
+
+2017-07-25 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: "No big deal to this. You don’t have to buy them all." And here’s a confession for you. If I make a list, it pretty much is a surefire way to trick myself into buying games. I don’t like to look at uncompleted lists. It is a punch right to my OCD and pretty much drives me to action. Creating the list for the Harry Potter game was harder t…
+- Untimed passage: like I was talking about include movie tickets. But this didn’t happen on every console. That prisoner of Azkaban that had a movie ticket? Well Gamecube got it for Goblin of Fire and the Wii and the DS got it for Order of the Phoenix. But none of them got movie ticket variants at the same time or for the same game. So what is the reasonin…
+
+## [Episode 72 - Gaming Vs Collecting](../episodes/cq-072-sc-335752880.md)
+
+2017-08-01 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: a while ago I would have said I’m definitely a collector, but now I feel like I really don’t collect anymore. It’s not like I buy things to add to the collection. I’m not actively trying to collect. I’m not actively trying to finish anything. Actually, as of late, I’ve been buying things to actually play them because I want to play them n…
+- Untimed passage: other process that goes on that they might enjoy. They might enjoy finding a good deal. They might enjoy hunting for them. They might enjoy the haggling, the searching, the finding and the acquiring. Those are all legitimate things that people can enjoy. You can enjoy about you can enjoy trolling eBay. You can enjoy the research of it. Yo…
+
+## [Episode 73 - Collecting Tips (Fixed)](../episodes/cq-073-sc-337784076.md)
+
+2017-08-14 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: can see them and you’re just kind of you’re just kind of gathering games. You don’t have your goal. You’re a little less focused right now. You know, just games are awesome. So you’re getting them and we agree and we’ve all been there. So don’t don’t beat yourself up about that. But the next step is once you’ve acquired this stuff and eve…
+- Untimed passage: face out that you put on the top of the shelf or on one row of the shelf as opposed to just trying to get the one row of the shelf as opposed to just trying to put everything everywhere because it’s hard to make something that’s aesthetically pleasing. But like you said, it’s also hard to know what you have and then you want to have a sys…
+
+## [Microcast 5 - Collecting Tips for the Nintendo DS](../episodes/sc-338793329.md)
+
+2017-08-21 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: Welcome to the collectors quest podcast. This is a microcast it goes for less than 15 minutes and talks about one topic real quick Stay tuned All right welcome back to the collectors quest podcast this is microcast number five and today we are talking DS collecting now I’m not going super deep on this obviously because it’s a microcast Bu…
+- Untimed passage: or two that I missed So just be very aware. That’s the first thing and this is especially true on your Mario’s your pokemons anything that’s relatively popular and You know kind of expensive If it’s in that cross section of popular and kind of expensive like over $20 Good chance. It’s gonna be fake if you’re buying on eBay Can be careful,…
+
+## [Episode 74 - Words and Phrases That Shouldn't Make Games More Expensive](../episodes/cq-074-sc-343014330.md)
+
+2017-09-19 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: a good enough explanation? I think you did good. Thanks. Tyler, are you good? I’m pretty good with that. Yeah, let’s do it. What’s begin with one from you? What is one word or phrase that does not add any value to an auction and people can pretty much just ignore it when they see it? I guess the first one would be rare or holy grail becau…
+- Untimed passage: So don’t worry, it’s rare. Super grail here, guys. Never seen one like it except for those 12 others I’m competing with. No, those 12 others must be totally different. Yeah, well, they’re not grails or rare. Actually, it’s really funny when you open up an auction page and there’s like 20 of the same item and they all say rare in the descr…
+
+## [Episode 75 - Most and Least Expensive System to Collect For](../episodes/cq-075-sc-343883458.md)
+
+2017-09-25 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: I do want to say I appreciate that there are sites that do collect data and they are just doing what they can because there’s not perfect information coming out of eBay or sales and they have to create all kinds of weird rules to get the best they can. And we understand that. So, knowing that, so when you hear us talk about how this data…
+- Untimed passage: back then when Nintendo was selling it as a mail away promotion, that was a different thing. Anyways, that’s really digging down the rabbit hole if you want to fight on specifics, which I like to do, but don’t worry about it. It counts. And if you think it doesn’t count, guess what? Fine, it doesn’t count. Move on. You obviously aren’t on…
+
+## [Episode 76 - Family Friendly Halloween Games](../episodes/cq-076-sc-346021102.md)
+
+2017-10-09 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: more expensive if you are looking to stay on the budget side. This might not be the right pick on eBay for around $90 loose right now. That’s Canadian, obviously. I don’t know. You guys figure out your own crap down there with your U.S. money. Yeah. And if you want a if you want a box cut copy for Super Nintendo, be prepared to shell out.…
+- Untimed passage: in digital art on the box. When it’s not the actual art from the game, it’s like a representation of what they kind of try to fit it into. This is what the game does look like, but we’re we’re fudging it with a different program to make the art. It just looks bad. They always look bad. Like Nintendo 64 was really bad about that stuff. I m…
+
+## [Episode 78 - Halloween Games That Came With Cool Pack In Items](../episodes/cq-078-sc-349518307.md)
+
+2017-10-31 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: not in my collection. If we want to put any kind of perspective on that. Okay. Cool. That’s just crazy. I know. Even though things exist that aren’t in your collection. There are lots of them. Lots of things. I’ve heard that that little monster in my pocket figures not in your collection. It isn’t. But there’s one on eBay. You can go get…
+- Untimed passage: enough. Anything else you want to say on that one? No, I think that’s it. Definitely try and track down a picture of it. It is really neat to see. Cool. Tyler. All right. So let’s start the show with the show stopper here, which is the Darkwatch coffin edition. It might be called coffin limited edition, something like that, which if there…
+
+## [Episode 79 - Holiday Price Spike and Dip](../episodes/cq-079-sc-355496906.md)
+
+2017-11-14 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: be aware of some buying and spending trends that happen right now. Just to give you guys an idea of how to advise any of your significant others, your mother, your sister, or a brother. People who aren’t game collectors, Tyler, who might be out in the world and on eBay and in video game stores buying video games right now. Yeah. Buying th…
+- Untimed passage: every single year. People are like, this is it. Look, I have the little graph and it shows the slight trend downward. That means this is the top guys. Yeah. Well, we’ll see. There’s, if you look at video game pricing throughout history, you will see that it is full of just peaks and valleys. And then what you won’t notice is the gradual r…
+
+## [Episode 80 - Mario Games](../episodes/cq-080-sc-362816366.md)
+
+2017-11-30 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: excited. So, on this episode, guys, I just wanted to kind of go over some of the Mario games that are out there. There are a lot. So, we’re not going to go through all of them. We have a list if you need it. We’ll just talk generally about them. Some of the weird ones that are rare and expensive, mostly boxed. And they’re expensive, dispr…
+- Untimed passage: and cart. So look for that. If you have got a box. My manual is not correct, and I’m real sad about that. Yeah, I bought one that was incorrect as well, and then I got it and I was pretty annoyed because I think that on the pictures it was correct, and then the guy must have switched it. Maybe he was trying to, thought he was putting the…
+
+## [Episode 81 - Video Game Collectors 2017 Recap](../episodes/cq-081-sc-378768386.md)
+
+2018-01-04 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: This is Collector’s Quest, episode 81 on this episode. Cat Tyler and I just kind of recapped 2017 and all the things that happened. I know it’s been a while, but we’re back in the full swing. You can expect episodes to be kind of coming in at a more regular pace on their Monday or Tuesday slots, even though this one’s coming out a little…
+- Untimed passage: price, but not so much that I was like going on eBay and paying $300 for it or something. And then we walked into EB games, which is probably very similar to your GameStop. I assume I don’t know. They’re the same company. I have no idea. GameStop. The story I’m at is GameStop bought EB games out and then it was like a ton of money to swit…
+
+## [Episode 83 - Aftermarket Reproductions (The legal kind)](../episodes/cq-083-sc-388300934.md)
+
+2018-01-24 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: out? We’re talking about these types of games. And what do they mean for collectors? Our opinion on that anyways. So I didn’t know what to call it because when you say repro or reproduction, what you immediately think of is like a counterfeit game. But these are, a lot of these at least, are just reproductions of old games, but they’re no…
+- Untimed passage: Are those the ones that are trilogy? I don’t think it’s Tough Enough. Is it Brawl Brothers? I don’t know. There’s a Jalco Fighter trilogy and it doesn’t look like it just by the boxes. I have to, now I have to look. Anyways, and the Joe and Matt collection, which is weird, is Kongo Kaper a Joe and Matt game? And I just never knew. This is…
+
+## [MicroCast 8 - How To Save Money On Modern Games](../episodes/sc-392286414.md)
+
+2018-01-31 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: Welcome to the Collectors Quest podcast. This is a microcast. It goes for less than 15 minutes and talks about one topic real quick. Stay tuned Welcome to Collectors Quest, this is microcast number eight. In this episode It’s just me and I’m talking about how to get deals on modern games I know a lot of people they ask me I post a few you…
+- Untimed passage: got that from Target One know all of your big box stores around you and know where they’re having sales It does take time to start doing comparison shopping. That’s the first thing Comparison shop if you are looking for a game. I mean not just to click but to buy and play You should be looking at the price all around you should be checkin…
+
+## [Episode 84 - Special Edition Consoles...They Suck](../episodes/cq-084-sc-395702904.md)
+
+2018-02-07 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: charge you an extra hundred dollars. That’s the trend now, right? You don’t just buy one console and that’s it for eight years. Like you’re pretty much buying the same console twice in a generation now. Kind of, but they’re also doing similar to what the retro consoles did is that there was well, not the retro consoles. The perceived impr…
+- Untimed passage: It’s like 200 bucks to get one complete. This stupid PS4. No one’s going to want this in an era where a new limited edition rare thing comes out every month now. And I think they made 6,000 of them and they gave them away in a sweepstakes. Yeah, the special edition console thing is getting a little saturated. And 6,000 is a lot of console…
+
+## [Episode 85 - Is The Nintendo Switch Killing the Collectiblity of the Wii-U](../episodes/cq-085-sc-402327105.md)
+
+2018-02-20 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: from Call Me Maybe and mix it with Run DMC. Is it’s tricky? Like, whoa, mind blown. Please no one go out and buy Drop Mix based on Johnny semi selling it here. It is the most exciting strategy card based music strategy rhythm game available. It’s the next Hyper Scan basically is what it is, which Johnny didn’t know what it was. No one kno…
+- Untimed passage: I wouldn’t know. I’ve got a subscription to our other sponsor, Amazon Prime. Everyone go out and buy an Amazon Prime subscription. So I’m never in freaking Target. Amazon Prime only $99.99. Get free two day shipping with everything. Student discounts. Johnny, what are we actually talking about today? Oh, yeah, not our sponsors who aren’t…
+
+## [Episode 86 - Licensed Food Games? Dominos, McDonalds, 7-Up M&Ms???](../episodes/cq-086-sc-405814233.md)
+
+2018-02-27 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: food. - Yeah, right. So this is a game about dog food. - And it’s a shitty Atari maze game that you’d probably never wanna play. - Yep, cool. - Great. - Well, I don’t wanna play most Atari games, so that’s fair. - You don’t wanna play the Pepsi games, such as Pepsi Invaders. - No, I did not wanna play Pepsi Invaders, but I’ll tell you wha…
+- Untimed passage: proofs of purchases, and you get the game. - Do you have one, and you have one? - Yes. - Is it expensive? - It’s not. - Like under 50 bucks, I’m pretty sure, and there’s only 10,000 of them, which is crazy. When you think of people talking about how rare Panzer Dragoon Saga and that gold punch-out cart are, what system is this for? - Supe…
+
+## [Episode 87 - Tips to Protect Your Collection, and Things to Never Do.](../episodes/cq-087-sc-412882248.md)
+
+2018-03-13 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: thing. So like you can hear about someone else’s hobbies and you can see, okay, I’m not an insane person for having a thousand video games. This guy’s got 2000 of these things like hot wheels or something. You don’t have a thousand video games, Johnny. No, I have 10,000. Yeah. Nothing. I have a few. Do you know, do you know what you can p…
+- Untimed passage: do. We have like a little sticker that says we are clean lyrics. Oh shoot. Yeah. Shuck. Shuckie darn. Anyways, Tyler, let’s talk about part of that maintenance of games. Let’s talk about cleaning games. Can you tell some people some things to do if they plan on cleaning their games? Yeah, well, take them apart. Everyone obviously listenin…
+
+## [Episode 88 - What We Talk About Before We Record (Limited Run Games, Dragon Warrior, and More).mp3](../episodes/cq-088-sc-417155358.md)
+
+2018-03-21 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: now there’s you know if you’re into those games please see Limited Run. Sure I don’t know. Visual novels. All the visual novels they released. The Vita is like king of the visual novel. They just had like my lesbian nurse girlfriend released didn’t they. Something really dumb that I was like I’m not buying that I’m sorry. Oh you gotta buy…
+- Untimed passage: people make sure you don’t die. Nurses are very important to the medical. What the hell are they talking about? But hey. You’re not buying it for the logic. You’re buying it to see adolescent nurse girls kiss each other. Oh I did. Comes out in 10 hours though. Oh we’ll tell. Get your mouse ready. I like that the remaining inventory of thi…
+
+## [Episode 89 - Collecting The Full Set of 3DO Games with Industry Veteran Stephan Reese](../episodes/cq-089-sc-419958968.md)
+
+2018-03-26 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: the thing about 3DO, the 3DO market is super, super squishy because there’s not a lot of people who collect for it. Yeah, there’s no base. Yeah, you can’t solidify a market. So you’ll see a game go for $50 one day and $200 the next day and $25 the next day because there’s just not that you would see that kind of sale, three of them back t…
+- Untimed passage: which I’m not sure what the hell Dennis Miller, that’s news to me, is doing on the 3DO. That’s another CIB more difficult title to find on CIB. Digital Dreamwear is also difficult to find. CIB. CyberDello actually is kind of hard to find either way. You know, because a lot of these aren’t, again, not enough people collect. CyberDello was…
+
+## [Episode 92 - Moving Past "Retro" and "Modern" With Special Guest Excitebyte Games](../episodes/cq-092-sc-437659290.md)
+
+2018-05-01 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: are people you you talk to about collecting just the nature of collecting in general. I’m fortunate because I came from a family of collectors. Most people when they collect as kids, like their parents look at them like, what the hell are you doing with this stuff? Like this is all, you know, they these are toys, throw it away, get rid of…
+- Untimed passage: into my head, not Super Marbles is Bart Simpson versus Space Mutants. I don’t know why. I just thought I’m like, I want to buy that game. Yeah. I love that game when I was a kid and I want to buy it. And back then though, I went, what could I, how could I collect it? And I went, I’m going to collect it exactly how it came in the store, se…
+
+## [MicroCast 9 - Did The Video Game Collectors Market Crash?](../episodes/sc-444202725.md)
+
+2018-05-15 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: up for that. But the truth of the matter is is Nintendo still drives the collector’s market. It’s still the biggest, most dominant force out there for collectors. So I want to look at that first. And before I just go into individual systems, I want to check just two games, you know, the most basic games Mario 3 and Zelda. So Super Mario B…
+- Untimed passage: We take a dip down to 1164. Then it rises right now at our current price, 1199 just under $12. So from a year ago, when we basically did this episode, we did this episode at a low. So back in July, it was 1049. So from that point, it’s actually gone up $1.50. So I don’t know if we have a long enough timeline to talk about trends, but this…
+
+## [Episode 94 - Our Top Pet Peeves With Collecting Video Games](../episodes/cq-094-sc-450425988.md)
+
+2018-05-28 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: Hey, welcome to episode 94 of the Collectors Quest podcast. Does it get on your nerves when people organize their turbo games in color order, or when people parrot satirical YouTuber criticisms of retro games rather than forming their own opinions about it? In this episode we’re going to talk about some of our pet peeves in collecting vid…
+- Untimed passage: the ass. They were just like, just put it next to his thing. Like who gives a shit? We’ll be okay. So but they still never got my name. I’m always telling you, people know you. Best Buy obviously know you. Those people don’t know me for any good reason. Those people are like, oh, fucking this guy again. I walk in and people go, oh, like,…
+
+## [Episode 95 - So You Want to Collect for the Sega Genesis](../episodes/cq-095-sc-456589569.md)
+
+2018-06-10 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: manual. Yeah, well, who cares about that? Like, if you’re trying to keep it nice, that’s the best way to keep it. And also with the boxes, there are a bunch of different kinds. You can’t just swap one case for another. As is the case with many, I’m buying a lot of Genesis games and I freaking hate when I get a game and it’s clearly had a…
+- Untimed passage: the cardboard boxes have a bunch of different types. There’s a bunch of different type of cardboard boxes. The types of inserts in the cardboard boxes are different. There’s a slide tray. There’s flip top boxes. There’s different types of slide trays. There’s so many different box styles on the Genesis. It’s maddening. We have some detail…
+
+## [Side Quest 3 - Collecting and Finishing the PS1 Set](../episodes/sc-787918894.md)
+
+2020-03-31 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: average purchase prices the average value of the games now how long and where I bought them so jumping right in the first thing I want to say is my total collection of PlayStation games and this includes a bunch of variants right now and some greatest hits have 1370 PlayStation games and that the purchase price there I spent ten thousand…
+- Untimed passage: a little over and not all these games have values in there it’s because I need to go through and manually put some in what my database does is it connects to video game price charting and it looks for a price but if the names aren’t exactly lined up then it puts a null symbol in there for value so I’ve got somewhere it’s missing value any…
+
 ## [Episode 141 - All Your Video Game Lists Are Bad](../episodes/cq-141-sc-797285986.md)
 
 2020-04-13 · Multiple transcript paragraph matches · Transcript available
@@ -487,12 +697,145 @@ Search terms: convention, ebay, buying, selling, shipping, reproduction, counter
 - 00:00:00: welcome to episode 158 of the collector's Quest podcast on this episode our goal was to find the most expensive most common game because sometimes you see a game that sells for like $200 and you're like that is bananas there are 10 million of those out there but there is so much demand that that's selling for $200 which is what I always t…
 - 00:15:52: makes total sense everything on Heritage auctions makes total sense the GTA Trilogy games are still selling they're selling for over like $500 now why why because Heritage auctions is the place where people have more money than brains and like they have all the money and none of the knowledge it's like the Gap seems like it's widening as…
 
+## [Episode 160 - Early Video Game Pack-ins](../episodes/cq-160-sc-991075135.md)
+
+2021-02-23 · Multiple transcript paragraph matches · Transcript available
+
+- 00:18:15: one sits in the rafter of my garage and I'm just like should I throw this away am I ever getting to this thing before I die I don't know I use uh I use knockoff toner from AliExpress and I print like I don't know shipping labels and stuff but ad print stuff for work all the time and it's perfect like try buying knockoff inkjet cartridges…
+- 00:33:03: game uh so that's a little bit more disappointing that it's not exclusive and it's not the special edition one I like I want people to understand this is like a big yellow thing because there's also a version of this game that says special edition like in that same area it's not the special edition it does advertise the wallet specificall…
+
+## [Episode 161 - Rare and Collectible Zelda Games](../episodes/cq-161-sc-1000098751.md)
+
+2021-03-07 · Multiple transcript paragraph matches · Transcript available
+
+- 00:03:12: eBay uh you were bidding on a Japanese booster box of the Harry Potter trading card game this game by the way it's so defunct and so like semi-obscure that like Troll and Toad and TCG player don't carry it you don't like go and buy the Harry Potter cards from like places that sell singles uh no so you had me go bid on it wasn't a sealed b…
+- 00:04:15: son and everything's just been uh you know in Flames since then and I I just have had no time so I'm like oh I want to I've got this project I want to do I want to make a cube of this game eventually and like maybe buy a couple booster boxes just to have so I I could you know check this game out I never got to play it I love tcgs I'll try…
+
+## [Episode 162 - Collector's Questions #1](../episodes/cq-162-sc-1012183996.md)
+
+2021-03-21 · Multiple transcript paragraph matches · Transcript available
+
+- 00:27:21: that list actually exists and it could be eBay or whatever because a lot of these lists are just horrible to start out with it's it would be rare to say that there is uh a game that is missing from a list that someone hasn't discussed in a forum so I'm looking for Forum threads on on all these you know like racket boy all these like video…
+- 00:28:25: to pull up that Facebook post again you're not going to remember you saw that eBay thing just keep lists of everything you see I honestly don't think that there's tribal knowledge I don't think that there's this Illuminati that knows everything I think there are lots of individual experts and there's lots of people who like start discussi…
+
+## [Episode 163 - The CQ Cut: Collecting DC Comics Games](../episodes/cq-163-sc-1017685387.md)
+
+2021-03-28 · Multiple transcript paragraph matches · Transcript available
+
+- 00:08:37: Kate talked me out of the uh there's Artis and dice makes a uh a D20 out of human bone uh and she talked me out of buying one why dice used to just all be human bone uh cuz uh essentially like and she has a point like it's it's it's even like even because these are like um retired lab cavers but like even those uh tracing back their legit…
+- 00:10:45: eBay and uh why I was curious about this I'm like huh that is very curious because uh on Yahoo all the time they're just like random American Games listed like I don't know what people in Japan are do and selling like weird sealed Game Boy Color games but I remember I saw one it was like $1,800 1,700 like some ridiculously high number and…
+
+## [Episode 164 - NES Games Based on R-rated Movies](../episodes/cq-164-sc-1027313911.md)
+
+2021-04-11 · Multiple transcript paragraph matches · Transcript available
+
+- 00:16:21: and it's a similarish to Zelda 2 so that kind of sidescrolling action kind of game it's not very expensive I mean we'll we'll talk about this we didn't say with ja Jaws but like a lot of the games this is you can get it for $5 for the cart this is not too bad if you are sitting on waiting in your cart collector it's a $5 cart but a CIB al…
+- 00:22:50: '90s convention yeah and then uh that's usually called the blue label the first print sometimes called the Black Label um and it's got a more artistic uh drawing of the of three characters from the movie and it sells for some premium uh there aren't enough recent sales and prices are so crazy right now I would be hesitant to say What prem…
+
+## [Episode 165 - What happens if all our physical Playstation games become coasters?](../episodes/cq-165-sc-1035655783.md)
+
+2021-04-24 · Multiple transcript paragraph matches · Transcript available
+
+- 00:04:16: but yes uh yeah so uh well I'm glad you you are not taking a bath so I actually I meant to bring this up on the show sometime when during a what are you buying segment I wanted to talk about how terrible it is to buy an nft um to be clear nfts are garbage and I'm not investing in nfts but you're talking about the process of buying an nft…
+- 00:12:34: spike in in PS3 games due to Corona virus everyone you know got the that Corona virus bump and then as news of PSN like started to Rumble games started to spike a little bit and over the last like month it's been going up you know maybe even a month and a half back and then right when the like the news broke several games went to the moon…
+
+## [Episode 166 - How Many Collectible Video Games Beat Inflation?](../episodes/cq-166-sc-1045529761.md)
+
+2021-05-09 · Multiple transcript paragraph matches · Transcript available
+
+- 00:05:21: things there they will not accept them which is where where the interesting the the kind of comes into the story here is that uh it was it was quote unquote made for the queen as a publicity stunt then sent to Buckingham Palace where it was promptly rejected because you can't [ __ ] send to Queen Elizabeth um and then it was then return t…
+- 00:09:36: we're talking about more gold um no one thing that I wanted to bring up though about this Wii is that I have seen a lot of chatter online about people saying that this that the entire listing is is faked um and that it's just trying to capitalize on the like ridiculous [ __ ] prices we're seeing across the board um the the guy I all I can…
+
+## [Episode 167 - The Market is Euphoric, Should You Sell Out?](../episodes/cq-167-sc-1050634423.md)
+
+2021-05-18 · Multiple transcript paragraph matches · Transcript available
+
+- 00:02:11: are you ready for the raid on bungin Bay that's it Johnny are do we actually have a topic this episode that we're gonna talk about yeah I you want to just talk about Commodore 64 games we we don't give them enough love let's uh let's do it uh are you in on night breed or out I've honestly never heard of night breed as a as a movie so I th…
+- 00:03:15: the UK and also like big box PC people don't want that cuz it's not a big box Johnny and the whole point of big box PC games is that they're freaking enormous and they look cool on a shelf uh second secondly the skull box of night breed looks awesome right the other box looks stupid but like here's the beauty of it it's to be clear it's n…
+
+## [Episode 168 - Six RPGs that Might Be Worth Collecting Right Now](../episodes/cq-168-sc-1058151019.md)
+
+2021-05-29 · Multiple transcript paragraph matches · Transcript available
+
+- 00:06:28: of that happens this is a list we came up with that we wanted to share with you and also it's a a repeatable cycle if we decided to do oh hey here's some other collectible RPGs we could do so Final Fantasy what this episode yeah Final Fantasy dragonwar go get them on the nest episode over what's what are you buying what are you playing Ty…
+- 00:08:34: copies of games uh that's just a trend that you'll see moving forward so we've always said condition matters but every day that sentence gets more true and uh hey John do you remember the collector's Quest podcast uh saying for years that the premiums for conditions are not nearly what they should be and you should be buying nice games ye…
+
+## [Episode 169 - Collecting Light Gun Games (and some you can't collect)](../episodes/cq-169-sc-1067905369.md)
+
+2021-06-14 · Multiple transcript paragraph matches · Transcript available
+
+- 00:05:20: it's 10 bucks you can get them on eBay all day because no one knows about it except people who saw super Nintendo's post yeah we're just we're just stealing super Nintendo's Instagram and talking about it on the show yeah and SN like SNK forever thank you to all our patrons for just uh giving us everything we know about video games yeah u…
+- 00:08:34: money so like everything I'm buying is like $100 plus now the one exception to that was when I went ham and just bought like every ZX Spectrum game I thought I would ever want and I got like 15 tapes but other than that uh focusing on on much more expensive much fewer items at once so and you got all those that that expect from games this…
+
+## [Episode 170 - E3 and Summer Announcements for Game Collectors](../episodes/cq-170-sc-1075203214.md)
+
+2021-06-24 · Multiple transcript paragraph matches · Transcript available
+
+- 00:02:12: Stephan we we're really excited to catch up on all the games you purchased while you've been off the show no games but I do I mean you know uh I'm sure there deals you've been working out with like there's this guy in Kazakhstan and he just has the thing and the customs of it is just the logistics working on it for a year a half I I do ha…
+- 00:06:30: bad but everything is a trade-off these days just cuz I feel like you know I don't want prices to increase somewhere that I'm not currently buying stuff right now so uh I would rather put that money towards you know the Vintage copy of the game but honestly I'm not a Mega Man like crazy person I I still I don't have a Mega Man five I don'…
+
+## [Episode 171 - Collecting the History of Mario Games](../episodes/cq-171-sc-1085256322.md)
+
+2021-07-10 · Multiple transcript paragraph matches · Transcript available
+
+- 00:01:02: [Applause] [Music] hey welcome back to another episode of collector's Quest I'm Tyler here with Johnny Johnny if you don't start the show with this I'm gonna be so mad hey welcome back to another episode of collector's Quest I'm Tyler here Johnny and stepan and stepan stepan hey on guys what's going on I don't answer questions Tyler tell…
+- 00:06:29: games it's it's happened in comics and sports cards and toys like so like this hoarder type of of uh collector SL investor who was out there who's just been taking this in waiting for their moment to like pitch them back upon the market yeah absolutely and you know gaming was kind of one that you could see coming so there was a lot of eas…
+
+## [Episode 173 - You've completed "The Set". What now?](../episodes/cq-173-sc-1097970775.md)
+
+2021-08-01 · Multiple transcript paragraph matches · Transcript available
+
+- 00:03:15: ahead I'm just saying it's not any more art than a complete and box copy no no it doesn't make it art that's what that's the joke it it doesn't become a new object get out of here uh also I brought up the $1 144,000 uh doll Tomb Raider this was three days ago because since that's sale like every single day I wake up and I'm like someone b…
+- 00:09:41: wrong uh Johnny uh one set collecting Dead uh did you see the Stadium events that went for 30 grand on eBay did we talk about that already we talked about it privately but we did not talk about it on show oh well so after after 14 Grand which is like about like probably a little bit more than that is what Stadium events is worth right now…
+
+## [Episode 174 - So you want to collect Turbografx-16](../episodes/cq-174-sc-1106790757.md)
+
+2021-08-16 · Multiple transcript paragraph matches · Transcript available
+
+- 00:03:15: buying graded video games to dating women so that that uh what that's a good read I don't know what was going on there why are we talking about my Instagram what what happen because you're the most popping instagrammer on the show yeah and that's that's actually true well cuz I actually post what you talk what stepan stepan's got like a f…
+- 00:34:09: was to find loose so I ended up I ended up buying a sealed copy and opening it yeah so I'm going to skip over the value here and I just want to get your guys's opinion now because we've just talked about this a lot what do you think it it's better to do do you think it's better to collect this system loose cic or complete and then and giv…
+
+## [CQ 175 - Talking Karl Jobst's SCAM ALERT (also are pop reports an answer?)](../episodes/cq-175-sc-1115255617.md)
+
+2021-08-29 · Multiple transcript paragraph matches · Transcript available
+
+- 00:02:05: were talking about this in advance I would have rewatched the video so I could agree with or rebut certain points from what I remember of the video it was a pretty good recap of some of the nonsense going on in graded games to Carl's audience who are not game collectors Carl of course uh not a game collector he is an amazing video game pl…
+- 00:05:16: that's like us saying quick episodes of the podcast three hours later uh you know more warranted to have that 52-minute video than that Seth gu's uh rambling narrative style articles uh but I do want to point out so you you're saying he's going into this with an agenda I will say I think Carl usually makes really excellent videos I don't…
+
 ## [CQ 176 - Finding Value in What the Market Doesn't Value](../episodes/cq-176-sc-1119856444.md)
 
 2021-09-06 · Multiple transcript paragraph matches · Transcript available
 
 - 00:01:06: can I tell you right now uh because I bagged bagging and boarding isn't but like the taping down yeah like my my my thing used to be like after I read it then I would tape it down right and you keep it open until then yeah okay and then like it just became I never had time to read any comics and then if I did I was reading them on my phon…
 - 00:08:14: but I'll buy all these worthless comics and I'd never sell them and I just have boxes and boxes of all these [ __ ] worthless Comics Johnny um and this is why I could never collect Comics because that is how I read Comics so and I'd like to own the stuff I read and now I'm just like all digal because it's it's an absolute nightmare yeah t…
+
+## [CQ 177 - Games Based on the Best Cartoon Ever Made](../episodes/cq-177-sc-1127234284.md)
+
+2021-09-19 · Multiple transcript paragraph matches · Transcript available
+
+- 00:00:00: hey welcome to episode 177 of the collector's Quest podcast it's Batman day right now as I am saying this it is Batman day uh September 18th I am desperately trying to get this out while it is still Batman Day in the United States we're talking about games based on the best cartoon ever made Batman the Animated Series otherwise known as T…
+- 00:02:04: kinds of all the best art that you could imagine is sitting in there from all the best games so yeah it was really nice so that but he was off in like a sequestered Hall as like the art parts of conventions always are so if you go to a convention there's like the main hall where all the vendors are and then there's like usually some side…
+
+## [CQ 178 - Documenting Compulsive Collectors with Director Edward Payson](../episodes/cq-178-sc-1136138623.md)
+
+2021-10-05 · Multiple transcript paragraph matches · Transcript available
+
+- 00:19:02: I had just started like really going down the the rabbit hole with art of Nintendo Power when Edward was there the first time and so uh that and like you know that the whole gamer room renovation that I had done where I like sold 6,000 games and like the the just just the the content of the room had shifted so much and then uh and then of…
+- 00:29:30: documentary be talking head so we had to do some uh reenactments and my favorite reenactment to do is uh Jason who I just mentioned um I know we went off a little bit of a tangent about the movie but uh Jason told us a story about this really sketchy deal and then we had to reenact that sketchy deal and the sketchy deal uh is about this g…
+
+## [CQ 179 - So You Want to Collect Halloween Games #4](../episodes/cq-179-sc-1143555589.md)
+
+2021-10-18 · Multiple transcript paragraph matches · Transcript available
+
+- 00:06:16: hundreds and hundreds and hundreds of games that you could Loosely connect to Halloween I know I'm doing it every single day of my life uh and we're going to talk to you just about 13 of them that we have not previously talked about on a Halloween episode before they may have been mentioned offhandedly other times so don't at me because y…
+- 00:07:19: to buy VHS tape Stan yeah you know I also was talking about October 6 so you know when else is not a good time to buy VHS tapes ever ever ever uh I mean to be fair everyone who bought any of these except for the ones that are selling for thousands of dollars which literally none of them might be selling they all paid 25 cents for them so…
+
+## [CQ 180 - Collecting the History of Survival Horror](../episodes/cq-180-sc-1151496952.md)
+
+2021-10-31 · Multiple transcript paragraph matches · Transcript available
+
+- 00:22:29: open it and there's it there's technically they've engineered a way to reclose it but it's never like amazing no no just yeah just don't do that um and then there's the one you should be buying because uh it's the blackbox r right blackbox variant alert um basically don't call this blackbox it it is the blackbox version because it comes i…
+- 00:23:33: back then and uh it's definitely way rarer than the Atari versions it's not like the rarest game ever but you can go on eBay and there will be multiple Atari versions they're probably won't even be a telegames version yeah so look out for that one but also um they like they have their own label so don't like people might improperly marry…
 
 ## [CQ 204 - Price History is BS](../episodes/cq-204-sc-1350766930.md)
 
@@ -515,6 +858,69 @@ Search terms: convention, ebay, buying, selling, shipping, reproduction, counter
 - 00:01:00: just overthink about it you're like well I I could have missed something I you just assume that you can that you're fallible and uh maybe maybe along the path of doing it forever that you just missed a really basic step you know we don't have this in our show no se should we should we introduce ourselves again is this like a can we reintr…
 - 00:10:16: Konami games and be like oh hey those unlicensed games are cool but you know what I don't need to own them well see I don't own any of those license scams are garbage all right I would call Super collector I I don't know what this category is I'm derailing just the third category I would call the sealed games Market or even there's this n…
 
+## [CQ 239 - Rating "THE RAREST" Collectible Games](../episodes/cq-239-sc-1711235970.md)
+
+2024-01-08 · Multiple transcript paragraph matches · Transcript available
+
+- 00:05:15: don't worry about that guys but NES NES might be collect I don't know if it would reach like 660 or $70 which is what the games were selling for but you know it's probably close to that right it's probably in like the 50s I think so I was looking at Nintendo looked like Nintendo was going to like almost be 100 and Super Nintendo was going…
+- 00:13:54: like a a publicity stunt oh yeah what is it so how do you feel about gam oh yeah so gamma attack it's a it's a 2d space shooter um like a sid scrolling thing it's almost similar to laser blast but I think I might just be saying that because it's a size for what what system Atari 2600 oh I'm sorry what is this Johnny it's gamma attack for…
+
+## [CQ 240 - Old Men Complain About Collecting Rereleases, Reissues, and Rehashes](../episodes/cq-240-sc-1724575866.md)
+
+2024-01-22 · Multiple transcript paragraph matches · Transcript available
+
+- 00:08:26: they just didn't there's a weird number of copies on eBay considering it's a Japanese game there's maybe like five complete in box for like ,000 video game I mean like isn't it probably just fake to ton no there's yeah there's a bunch of fakes too but uh like there's $5,000 $22,000 copies okay yeah it's like for something that is so legen…
+- 00:11:39: of this I think this was actually done by retrobit so just so we oh I didn't even realize it's unlimited Run games but yeah it's one of these retrobit things but you could say about all these cult horror movies that get these expensive blu-ray releases like okay why are you buying you know Basket Case 177 whatever like really obscure cult…
+
+## [CQ 241 - Modern Games You'll NEVER Regret Owning](../episodes/cq-241-sc-1741872345.md)
+
+2024-02-09 · Multiple transcript paragraph matches · Transcript available
+
+- 00:21:11: yeah it's too many Johnny I was thinking of my top 20 games I think I'm putting Diablo I in my top 20 games from the 2000 you would never regret buying and I don't think it's because Diablo I is the Timeless best action RPG action RPG of all time but because I think in this modern era it has finally been surpassed I think it took a very l…
+- 00:22:15: copies of Diablo I in my lifetime and I know other people have bought multiple copies but just a big box copy of this game iconic act RPG of all time it's like $25 for like a nice big box that's how many copies there are how would you ever regret buying a Diablo I like that Johnny I don't know game I just seems uh seems pretty cost effect…
+
+## [CQ 242 - Collecting Controversy](../episodes/cq-242-sc-1752050928.md)
+
+2024-02-19 · Multiple transcript paragraph matches · Transcript available
+
+- 00:22:13: didn't like use all the advertising that was in the game or something no Philip Morris sued Sega over this because Sega showed ads that looked like maror ads in the game so there was some you know know Pixy art of something that was vaguely recognizable as a maror ad and this to me is is hilarious because this is like hot on the heels of…
+- 00:26:36: not try to stop that at all I mean also probably the laws were different in Japan and they probably didn't have a leg to stand on plus like I don't think they want to be dis like cigarette companies do not want to be disruptive in the Japanese Market at all uh they want to just keep selling those things because they uh that that's like yo…
+
+## [CQ 243 - The Best Non-Game VG Collectibles](../episodes/cq-243-sc-1768443759.md)
+
+2024-03-07 · Multiple transcript paragraph matches · Transcript available
+
+- 00:04:18: what it's not worth selling it I mean I'll probably donate a bunch of it to Goodwill but I read somewhere it was probably like some Marie condo article thing the average like household in America has like 300,000 individual items and like you think of like how many like actual things you own it's just like it's not worth your time to like…
+- 00:20:20: about the comic for like 30 bucks it's Super Mario Brothers like whatever I would I would buy that I don't think I have one maybe I should get one I think I have a Zelda one just cuz I have it but uh yeah like the Nintendo comic system you can get those for like 30 bucks I'm sure if it was a graded 9.8 someone's going to want like $1,500…
+
+## [CQ 244 - Are Game Conventions Even Worth It?](../episodes/cq-244-sc-1782158328.md)
+
+2024-03-23 · Multiple transcript paragraph matches · Transcript available
+
+- 00:00:00: [Music] [Applause] [Music] hey welcome back to another episode of collector's Quest I'm Tyler here with Johnny who has a very special collecting tip to start off the episode oh yeah um hey guys remember the 3D s that old Gem of a system you probably used to enjoy playing they had these like pretty cool plates on some editions of them the…
+- 00:03:14: then like yeah sure cuz the box shows the face plate on it but just buying a little three cent piece of plastic is it's I can't handle that yeah well and there was a lot of 3DS's that came with special plates too and some of those they sold into individually so the best value you can actually find is finding someone who's just selling the…
+
+## [CQ 245 - Games Are Affordable When You Don't Buy Nonsense](../episodes/cq-245-sc-1800725035.md)
+
+2024-04-14 · Multiple transcript paragraph matches · Transcript available
+
+- 00:06:26: news so there was a golden Mario band that was only released in Japan but that for the oneyear anniversary of Hollywood they brought the golden band here oh yeah so the golden band's available and that one is slightly more expensive that one starts at $47 did you buy one to keep in his packaging Johnny did I buy one Tyler I just told you…
+- 00:09:39: sisters are there and one's fighting to be Peach and one is being stuck as Daisy and she's pissed about it oh I love that that's why I say cut Daisy and bring in roselina all right it is $341 if you want all seven of these I'm sure that's the marked up Buy It Now price but yes if you if you buy it at that's not even too bad because if you…
+
+## [CQ 246 - The Worst Insert: Temporary Tattoos](../episodes/cq-246-sc-1810156362.md)
+
+2024-04-29 · Multiple transcript paragraph matches · Transcript available
+
+- 00:02:14: all right Johnny before we uh we start going off talking about tattoos while doing the research for this episode uh something I did a lot was type in name of a game tattoo on eBay and something this year flipped on eBay it is actually crazy I don't know if it's like anti- aai or something that they're doing maybe they're trying to foil pr…
+- 00:03:14: instead don't you just want to buy something it's like no I want to buy the thing I'm asking you to look for I do want to buy something this thing specifically please stop oh my God Tyler if you're not putting everything in brackets and parentheses now you can't even use it uh no so I like yeah you put in like parenthesis and stuff it'll…
+
+## [CQ 247 - Collecting Boxes Tier List](../episodes/cq-247-sc-1819221336.md)
+
+2024-05-10 · Multiple transcript paragraph matches · Transcript available
+
+- 00:18:08: course everyone but the idea is like in some sense like what are you doing like playing a modern 3DO game like I don't what game was it was it uh I don't remember what game it was I want to say it was Madden but that doesn't make sense right it was D I think okay yeah like what are you doing you're you're putting a limiter Run game in you…
+- 00:19:13: thousand of these at least right they they sold this money and not one person at limited run games was like should we put this in a 3DO to make sure it works they were just like n it probably works no one's going to actually play this though right what are the chances so you can buy like the jewel case copy for $49 um and then like I saw…
+
 ## [CQ 248 - Easy Inserts You're Missing](../episodes/cq-248-sc-1829470383.md)
 
 2024-05-24 · Multiple transcript paragraph matches · Transcript available
@@ -522,19 +928,117 @@ Search terms: convention, ebay, buying, selling, shipping, reproduction, counter
 - 00:05:06: as a disc so it's just cart instructions box and everything just comes in a box not everything some things come in cases all right cases so exclusively for the turbor graphic 16 we're allowed to say cic which is complete and case but for some reason when you go to like PlayStation it's back to complete and box yeah yeah we doesn't matter…
 - 00:07:09: instructions case shut up that is the worst backronym I don't look I don't know but it's the problem is there's confusion and these words have no consistency and it's not okay and also what people think like so if you if you have cart instruction box people like my game is complete it's CIB it's complete it's cart instruction like they'll…
 
+## [CQ 249 - Every Pokemon Game.](../episodes/cq-249-sc-1844434062.md)
+
+2024-06-11 · Multiple transcript paragraph matches · Transcript available
+
+- 00:12:44: because I think so many Pokemon games are just boring and overpriced and not worth it compared to buying almost anything else Pokemon Black 2 is $160 I literally don't care how quote unquote uncommon it is what the [ __ ] are we doing here oh Tyler we we got some good ones in here um so yeah we we can do this I I mean and if we're talking…
+- 00:14:49: that has a face from its time as a human Johnny let me give you a secret about game freak and I don't know about the people who translate the the American ones cuz I know the Americans have to come up with like their own little funny names and puns and flavor text and all that but game freak is like the laziest most out ofd low effort dev…
+
+## [CQ 250 - The most CONTROVERSIAL cartridge tier list](../episodes/cq-250-sc-1858294431.md)
+
+2024-06-28 · Multiple transcript paragraph matches · Transcript available
+
+- 00:11:32: even though I don't really care about what's coming out yeah you're why we're going to get a we're going to get a lot of stuff including a new Zelda handheld your favorite so I saw that and i' I look at it and it's got It's like the golden switch with that same stupid golden Zelda logo and I can't believe that doesn't already exist for so…
+- 00:20:07: because we're not going to get to selling 150 million ps2's uh if all the games are just built into the console no so what color should we make so we have this fantastic new innovation uh it's the 70s what color should we make it um I don't know should we make it yellow yeah bright yellow that is a choice considering every other cartridge…
+
+## [CQ 251 - Video Games NOBODY Collects](../episodes/cq-251-sc-1866939015.md)
+
+2024-07-09 · Multiple transcript paragraph matches · Transcript available
+
+- 00:01:02: about the end but it's still kind of down right now uh yeah is it like historically down still it's crazy how cheap the end is if you guys aren't buying Japanese video games like get on Zen Market yeah I'm like I'm going to put like $1,000 in my zen Market wallet just cuz and then I'm like oh it went down some more what am I even doing wh…
+- 00:15:57: more collectible people know of Nintendo color TV game 6 is the first console they ever made and it's got like variants it's got color variants it's got a limited edition put out by maxel there's like cool stuff with the color TV game 6 they sold so many of these this this isn't like TV Electro tennis where you just like can't find one fo…
+
 ## [CQ 252 - sharks](../episodes/cq-252-sc-1878380403.md)
 
 2024-07-22 · Multiple transcript paragraph matches · Transcript available
 
-- Untimed passage: I think was like, it was pretty mid. The other end, also there’s a copy with a manual on eBay for $6,000, like whatever. I think you said Racket Boy estimates the price for complete might be around $6,000. I’m sure it doesn’t sell like. Six to $7,000 and someone had a in like 2020, they had a standing offer for it for $6,000. They would b…
-- Untimed passage: a poser at home with your complete Atari collection, which no one has saying my collection is complete, but you don’t have lockjaw, you’re like shark attack covers it incorrect. And so shark attack, it goes for like, I don’t know, just 20 to 50 bucks on on eBay for complete 10 bucks. It’s so funny. Pinch box kit. Yeah. So the earlier box,…
+- 00:32:57: also there's a a copy with a a manual on eBay for $6,000 like whatever uh I think you said uh racket boy estimates the price for complete might be around $6,000 I'm sure it doesn't sell like6 to $7,000 and someone had a in uh like 2020 they had a standing offer for it for $6,000 they would buy complete l so there was a buyer out there wil…
+- 00:34:01: some minor changes made so different games now so if you don't have lock if you've got shark attack if you are just being a poser at home with your complete Atari collection which no one has um saying my collection is complete but you don't have lock jaw you're like shark attack covers it incorrect uh yep and so shark attack it goes for l…
+
+## [CQ 253 - So You Want to Collect Nintendo 64](../episodes/cq-253-sc-1889205429.md)
+
+2024-08-03 · Multiple transcript paragraph matches · Transcript available
+
+- 00:03:08: the show it'll be fine it'll be just like before no you if you leave I think we're done yeah cuz I do all the editing and it sucks uh no I definitely I definitely triggered something because you know what four days ago on four days ago something like that uh final fight CD prolific uh listener of collector's Quest we love you uh he posted…
+- 00:10:31: getting into a cycle of collecting new loot and buying cosmetic microtransactions but have you seen the banner on my horse it's so good you got a cool Banner on your horse yes I do I have a couple I mean I it depends which character I'm on but yeah obviously um back to this cart so this cart doesn't count uh no this cart does not count I…
 
 ## [CQ 254 - The Greatest Greatest Hits](../episodes/cq-254-sc-1900282944.md)
 
 2024-08-19 · Multiple transcript paragraph matches · Transcript available
 
-- Untimed passage: over. I was such a dumb kid, Johnny. I didn’t understand in college, like the point was to like work and learn things. ’Cause I went through all of my schooling just like, oh, the point is to take tests and just to get A’s on tests, right? But I was supposed to be like actually learning stuff in college, not just like getting A’s in the c…
-- Untimed passage: And if you had like a big ticket purchase, you’re buying like a $200 game. You’re like, oh yeah, I could get like $16 off of that if I just wait until the next eBay bucks. - Remember, we would talk about it on the show. We’d be like, oh, look, look at the spike in game prices around the eBay coupon or anything that was on your watch list…
+- 00:05:27: sunk in though man man if I could just go back and do it over I was such a dumb kid Johnny I didn't understand in like college like the point was to like work and learn things because I I went through all of my schooling just like oh the point is to take tests and just to get A's on tests right but I was supposed to be like actually learn…
+- 00:06:35: going to hit it's always like right around the corner yeah like every month so like you had like a big ticket purchase you're buying like a $200 game you're like oh yeah I could get like $16 off that if I just wait until the next eBay Buck remember we would talk about it on the show we'd be like oh look look at the spike in game prices ar…
+
+## [CQ 256 - Are games without skill ceilings eternally collectible?](../episodes/cq-256-sc-1918848494.md)
+
+2024-09-18 · Multiple transcript paragraph matches · Transcript available
+
+- 00:01:03: how was that it was H it was fun I won't say it's like great but I enjoyed it so I I I enjoyed where the characters went and and how it resolved but I could see how people would be put off by it and I wouldn't say it's like an instant classic or anything but I enjoyed it I thought it was a fun movie did they set it up for the obvious sequ…
+- 00:06:24: $300 and then I like looked up like can I like fly to Vegas and Like get a cheaper ticket there cuz it's not sold out no it's like $300 plus anywhere in the stadium uh and like people are just like oh you got to get the tickets for like 150 when they come out you're just buying from resellers now it's like what concerts are expensive dude…
+
+## [CQ 257 - Stephen King's Games (of the books you didn't read)](../episodes/cq-257-sc-1926120251.md)
+
+2024-09-30 · Multiple transcript paragraph matches · Transcript available
+
+- 00:02:10: and one's like a neon green zombie yeah they're they're the best Target Birds I've seen as someone who owns probably 15 Target Birds I'm about to buy like another five Target Birds did you buy them all I I told aah to I don't know if she did but oh you better find out cuz they sell out what do you mean the target sell out what the are the…
+- 00:04:16: Johnny yeah should I get the limited run uh limited run Quake I love Quake yeah yes you should get it's for Xbox uhhuh it's not even PC but they have a li limited edition and it comes with a statue of the Quake Q I feel like that will spark joy for you uh it so it's got it comes in a box like the generic limited run games like shoe box st…
+
+## [CQ 258 - The Official Set of NES Halloween Games](../episodes/cq-258-sc-1935505391.md)
+
+2024-10-15 · Multiple transcript paragraph matches · Transcript available
+
+- 00:01:06: a beak and then they have the mouth so they turned the beak into a nose like they're all Frosty the Snowman and I saw like you know just like a couple one star reviews out of like hundreds of people R viewing these stupid birds andow these guys are a real real nitpicky and then you sent us all of them cuz you just really wanted us to have…
+- 02:04:01: second but I I did have a package that I lost out on an auction for I was like a seller was selling two things and I just I was the under bidder so I was only getting the thing that I was only buying because it was like a good deal if I was getting shipping like with it and it came and I just I knew what it was and I left it in the Box fo…
+
+## [CQ 259 - Historic Halloween Firsts](../episodes/cq-259-sc-1943435095.md)
+
+2024-10-28 · Multiple transcript paragraph matches · Transcript available
+
+- 00:12:42: basically like you go around a house you have to illuminate a bunch of different objects like oh this lamp this candleabra uh it's a stupid game uh you know what if you buy a Magnavox Odyssey you're either going to One play like pong or two just not play it those are the two options you're probably leaning to towards 2 and I still think y…
+- 00:26:18: why the point system exists like it can get a it can get points here there but it doesn't mean it's going to qualify for me if you count it in your own personal list that that that's fine but I would rather put this in science fiction that's my argument uh yeah definitely I mean in video games it would just be 2D space Shooters yeah but J…
+
+## [CQ 260 - CQ Before Dark](../episodes/cq-260-sc-1955770679.md)
+
+2024-11-12 · Multiple transcript paragraph matches · Transcript available
+
+- 00:02:09: this but I had some general stuff I wanted to like knock out before we like get into the teeth of the episode all right yeah what's up just like there some like General kind of news stuff and that's what made me I was like I want to ask Tyler these questions but like this General news stuff when I was thinking about it did you hear about…
+- 00:04:17: error before which is crazy but a new game open without a baggie no I've obviously never SE that so I've seen a couple of those um not not a lot but like I I know that happens I've definitely I mean we we've both gone down the Sega Rabbit Hole where it's just like whatever insert poster you do or don't get is like you know rolling some di…
+
+## [CQ 261 - The Worst Gift Ideas 2024](../episodes/cq-261-sc-1968689139.md)
+
+2024-11-28 · Multiple transcript paragraph matches · Transcript available
+
+- 00:10:33: Stars but I mean yeah I mean lot of all the grading companies do that too because they charge you based on what they think your game is worth based on like res auction shs I I I think I remember just making that argument people were just mad that like it's like well these are the people who were kind of setting the market and like saying…
+- 00:15:44: that was in 20121 sold for 60,000 but then uh Ryan Maine just had a YouTube video where he bought a sealed Stadium events did he spend $170,000 it might have been like the same price man Stadium just way thing to get for the same price I I understand how rare clay fighter is sealed yeah I mean it yes I mean you're like I've got the sealed…
+
+## [CQ 262 - What are "Indie" games and are they worth collecting?](../episodes/cq-262-sc-1977109219.md)
+
+2024-12-09 · Multiple transcript paragraph matches · Transcript available
+
+- 00:36:53: about it but you know like a regular copy of that you know if it's $10 bucks on eBay all day and there's 400 copies that's not super exciting so we are going to decide if any of these are exciting oo okay in chronological order Johnny 2004 I decided only to hit one home brew CU home Bruce really have his own episode but I do think garage…
+- 00:39:00: have uh two tanks on either side of the screen and a random map of hills and you have to like fire shells at each other okay so does that sound great there's one on eBay right now for $42,000 it's been there for a while pass on that one that's a thousand times increase from uh what that cartridge originally sold for uh I think these these…
+
+## [CQ 263 - 2024 recap (Old upload, broke on Spotify)](../episodes/cq-263-sc-1990205799.md)
+
+2024-12-19 · Multiple transcript paragraph matches · Transcript available
+
+- 00:06:17: mileage great car if like if I need a mint condition Keystone Capers I can I'll just set up a save search eventually one will come up for auction and if I bid a crazy amount of money I'll get it if I wanted a Honda Fit with 20,000 mil a car they haven't made in 5 years like I just you just can't get that at any price they just don't exist…
+- 00:12:42: influence on this game that he had on Ultimate Under World I don't think but whatever I'll [ __ ] play it I like immersive Sims you're still going to line up to play it I you know it's nice after I stopped caring about like game announcements and stuff probably I don't know 10 years ago like games just come out and I'm like oh that's cool…
+
+## [CQ 263 - A 2024 Market Recap for your Holiday Car Trip](../episodes/cq-263-sc-1993480675.md)
+
+2024-12-24 · Multiple transcript paragraph matches · Transcript available
+
+- 00:06:24: eventually one will come up for auction and if I bid a crazy amount of money I'll get it if I wanted a Honda Fit with 20,000 miles a car they haven't made in five years like I just you just can't get that at any price they just don't exist cuz if they did exist Whoever has it isn't selling them and if it came to Market it would sell immed…
+- 00:12:51: going to line up to play it you know it's nice after I stopped caring about like game announcements and stuff probably I don't know 10 years ago like games just come out and I'm like oh that's cool I'll just go play that yeah I I don't I don't really think about it well I don't do that anymore cuz games are games are $70 I'll do that with…
+
+## [CQ 264 - Collecting the 1980s (as old Nintendo tapes)](../episodes/cq-264-sc-2008395747.md)
+
+2025-01-13 · Multiple transcript paragraph matches · Transcript available
+
+- 00:15:44: Little People collector I feel like you could have the entire set for like 500 bucks like how many could there possibly be there was a lot Tyler didn't you just hear the list I ran down some of them are you telling me that these are all selling for above MSRP in the used Market no I I did look into it cuz I knew you would ask and they are…
+- 00:16:46: childhood you don't have to go buy merchandise for that [ __ ] thing you could just have those memories you could go on the internet and look at a picture of that thing and be like yeah gremlin I remember that thing that's great you don't have to go buy the Gremlins Game Boy game for $150 you could just have those memories and you certain…
 
 ## [CQ 265 - The $200 modern game situation is crazy](../episodes/cq-265-sc-2019478217.md)
 
@@ -640,6 +1144,13 @@ Search terms: convention, ebay, buying, selling, shipping, reproduction, counter
 
 - 00:01:06: the original concept for After Dark, just the the worst parts of the podcast that get cut and then we had to turn it it turned into like an actual like hour plus long thing that we schedule separate time for. Now, but that's not true. That's not exactly true. we were going to do that, but also it was born out of after the show, we would s…
 - 00:05:25: That's down $2,200 from May this year. And this same grade sold for like $50,000 in 2021. That seems not great. Metroid is trash. The people do not want Metroid games. And I mean like every Metroid game. Metroid 2 I thought was cheap. Metroid Fusion I thought was cheap. Uh Super Metroid was Super Metroid 9.2. 2 A+ $3,750 which is it's fla…
+
+## [CQ 280 - Video Games Fell Off](../episodes/cq-280-sc-2171122380.md)
+
+2025-09-15 · Multiple transcript paragraph matches · Transcript available
+
+- 00:00:00: Hey, welcome back to another episode of Collector's Quest. I'm Tyler here with Johnny. Johnny, you're having a great time. What's going on? Oh, yeah, man. This has been awesome. Hey, Tyler, you know what I like buying, right? Well, if you were to say, what is the thing that I love to spend money on? What would you maybe describe that as?…
+- 00:01:00: So I can talk about them on a YouTube short for four people to listen to. And now, Tyler, I can't even do that because, man, shipping right now is cancelled. Apparently, package traffic to the US is down 80% from other countries, which is a crazy number. I mean, it is because a lot of countries like straight up banned packages to the US.…
 
 ## [CQ 281 - Do you collect too many different things?](../episodes/cq-281-sc-2179646875.md)
 

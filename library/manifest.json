@@ -1,5 +1,5 @@
 {
-  "built_at": "2026-09-09T16:02:09.580607+00:00",
+  "built_at": "2026-09-09T16:12:12.550069+00:00",
   "publisher_feed": "https://feeds.soundcloud.com/users/soundcloud:users:183077381/sounds.rss",
   "entries": [
     {
@@ -925,12 +925,37 @@
       "duration": "02:40:16",
       "description": "We're talking about franchises and genres that fell off, or whether they fell off. Contra is a classic that really isn't in the public consciousness anymore. Baldur's Gate was 90s nostalgia until it came back in a big way. 2D shooters used to be one of the most collectible video game genres until... they weren't.",
       "path": "episodes/cq-280-sc-2171122380.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 27158,
       "video_urls": [],
-      "transcript_sources": [],
-      "topic_leads": []
+      "transcript_sources": [
+        {
+          "kind": "local_audio",
+          "url": "https://soundcloud.com/collectors-quest/cq-280-video-games-fell-off",
+          "method": "Local faster-whisper 1.2.1 large-v3 int8_float16 GPU, batched beam5, English, VAD; no speaker diarization",
+          "audio_sha256": "9e67d92c8dc0c3c259cb49b02594c1dac0fce8a74ca0b60ae2ec1585a63f8663",
+          "source_duration_seconds": 9616.5906875,
+          "last_end_seconds": 9616.53,
+          "coverage_check": "reaches near video end",
+          "quality": "Machine-generated text; proper names and speaker attribution require verification"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/cq-280-video-games-fell-off",
+      "timing": "Machine-generated audio segment timestamps",
+      "capture_check": "reaches near video end",
+      "transcription_method": "Local faster-whisper 1.2.1 large-v3 int8_float16 GPU, batched beam5, English, VAD; no speaker diarization",
+      "topic_leads": [
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions"
+      ]
     },
     {
       "key": "sc-2163130533",
@@ -1612,15 +1637,38 @@
       "duration": "03:00:28",
       "description": "Johnny takes us on a journey of collecting the \"most 1980s\" games, meaning games that embody pop culture of the decade like Knight Rider, Tron, and Smurfs.",
       "path": "episodes/cq-264-sc-2008395747.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 32907,
       "video_urls": [
         "https://www.youtube.com/watch?v=MdHJ2Q6SsiU"
       ],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=MdHJ2Q6SsiU",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 10822,
+          "last_end_seconds": 10822.0,
+          "source_duration_seconds": 10829,
+          "coverage_check": "reaches near video end",
+          "segments": 1353
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=MdHJ2Q6SsiU",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
       "topic_leads": [
-        "nintendo"
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "research-and-documentation",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions"
       ]
     },
     {
@@ -1634,15 +1682,39 @@
       "duration": "03:41:42",
       "description": "We're recapping the price trends, interest trends, big sales, and how we collected in 2024. Grab the aux cable because this is 3 hours of pure, unfiltered hobby entertainment you can subject your family to while you're driving up to grandma's for Christmas in Delaware\n\nThis is a complete re-upload to fix a Spotify issue. If your episode shows as 3:41:42, you already have the right file.",
       "path": "episodes/cq-263-sc-1993480675.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 40263,
       "video_urls": [
         "https://www.youtube.com/watch?v=KbeazuDKitw"
       ],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=KbeazuDKitw",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 13300,
+          "last_end_seconds": 13300.0,
+          "source_duration_seconds": 13303,
+          "coverage_check": "reaches near video end",
+          "segments": 1659
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=KbeazuDKitw",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
       "topic_leads": [
-        "prices-and-the-market"
+        "variants-and-completeness",
+        "collecting-goals-and-psychology",
+        "prices-and-the-market",
+        "research-and-documentation",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions"
       ]
     },
     {
@@ -1656,14 +1728,40 @@
       "duration": "03:41:42",
       "description": "This podcast should be 3:41:42. If it’s 3:42:01, the last hour is out of sync and your app has an out of date file. As far as I know, only Spotify was affected.\n\nI’m keeping this file up in case you have the correct file and you’re mid episode.",
       "path": "episodes/cq-263-sc-1990205799.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 39028,
       "video_urls": [
         "https://www.youtube.com/watch?v=kmB6ZajHI1w"
       ],
-      "transcript_sources": [],
-      "topic_leads": []
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=kmB6ZajHI1w",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 13304,
+          "last_end_seconds": 13304.0,
+          "source_duration_seconds": 13322,
+          "coverage_check": "reaches near video end",
+          "segments": 1635
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=kmB6ZajHI1w",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
+      "topic_leads": [
+        "variants-and-completeness",
+        "collecting-goals-and-psychology",
+        "prices-and-the-market",
+        "research-and-documentation",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions"
+      ]
     },
     {
       "key": "sc-1977109219",
@@ -1676,14 +1774,38 @@
       "duration": "03:04:09",
       "description": "We're looking a physical indie releases from 2004-2019 to find obscure, underappreciated, and usually very cheap releases of some of the most popular games.",
       "path": "episodes/cq-262-sc-1977109219.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 30955,
       "video_urls": [
         "https://www.youtube.com/watch?v=EtCq2mNZNqU"
       ],
-      "transcript_sources": [],
-      "topic_leads": []
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=EtCq2mNZNqU",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 11044,
+          "last_end_seconds": 11044.0,
+          "source_duration_seconds": 11050,
+          "coverage_check": "reaches near video end",
+          "segments": 1383
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=EtCq2mNZNqU",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
+      "topic_leads": [
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "research-and-documentation",
+        "halloween-and-horror",
+        "nintendo",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions"
+      ]
     },
     {
       "key": "sc-1968689139",
@@ -1696,14 +1818,36 @@
       "duration": "02:20:36",
       "description": "We enter the world of gifts for gamer blog posts to discuss how terrible the affiliate link spam has become. It is maybe impossible to find genuine recommendations for gifts anymore.",
       "path": "episodes/cq-261-sc-1968689139.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 24913,
       "video_urls": [
         "https://www.youtube.com/watch?v=wqXHqhRp0k4"
       ],
-      "transcript_sources": [],
-      "topic_leads": []
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=wqXHqhRp0k4",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 8430,
+          "last_end_seconds": 8430.0,
+          "source_duration_seconds": 8437,
+          "coverage_check": "reaches near video end",
+          "segments": 1057
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=wqXHqhRp0k4",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
+      "topic_leads": [
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "nintendo",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions"
+      ]
     },
     {
       "key": "sc-1955770679",
@@ -1716,14 +1860,40 @@
       "duration": "03:08:09",
       "description": "An episode where we discuss common game collecting topics in general without much focus similar to CQ After Dark. Johnny wanted to call this \"Tyler Talk\" but I think everyone would skip an episode named Tyler Talk.",
       "path": "episodes/cq-260-sc-1955770679.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 34439,
       "video_urls": [
         "https://www.youtube.com/watch?v=n8MajwQfagc"
       ],
-      "transcript_sources": [],
-      "topic_leads": []
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=n8MajwQfagc",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 11285,
+          "last_end_seconds": 11285.0,
+          "source_duration_seconds": 11290,
+          "coverage_check": "reaches near video end",
+          "segments": 1418
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=n8MajwQfagc",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
+      "topic_leads": [
+        "variants-and-completeness",
+        "collecting-goals-and-psychology",
+        "prices-and-the-market",
+        "research-and-documentation",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions"
+      ]
     },
     {
       "key": "sc-1943435095",
@@ -1736,15 +1906,36 @@
       "duration": "02:20:21",
       "description": "We're talking the KEY horror and Halloween games from the early days, from interesting survival horror games, to stupid the stupid obscure first appearances of Frankenstein...'s monster.",
       "path": "episodes/cq-259-sc-1943435095.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 25178,
       "video_urls": [
         "https://www.youtube.com/watch?v=q9-Yr9uk40c"
       ],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=q9-Yr9uk40c",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 8417,
+          "last_end_seconds": 8417.0,
+          "source_duration_seconds": 8422,
+          "coverage_check": "reaches near video end",
+          "segments": 1058
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=q9-Yr9uk40c",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
       "topic_leads": [
-        "halloween-and-horror"
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "research-and-documentation",
+        "halloween-and-horror",
+        "nintendo",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "buying-selling-and-conventions"
       ]
     },
     {
@@ -1758,16 +1949,37 @@
       "duration": "02:23:59",
       "description": "We are discussing Johnny's objective* system for separating Halloween games from horror from dark fantasy to determine the official subset of NES Halloween games.",
       "path": "episodes/cq-258-sc-1935505391.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 26217,
       "video_urls": [
         "https://www.youtube.com/watch?v=ibDgvUHjJRs"
       ],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=ibDgvUHjJRs",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 8634,
+          "last_end_seconds": 8634.0,
+          "source_duration_seconds": 8640,
+          "coverage_check": "reaches near video end",
+          "segments": 1082
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=ibDgvUHjJRs",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
       "topic_leads": [
+        "prices-and-the-market",
+        "research-and-documentation",
         "halloween-and-horror",
-        "nintendo"
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions"
       ]
     },
     {
@@ -1781,14 +1993,38 @@
       "duration": "02:19:29",
       "description": "There are a handful of Stephen King games from proto-ebooks to the official Worst Adventure Game Ever Made. They're probably from his books you haven't read for some reason.",
       "path": "episodes/cq-257-sc-1926120251.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 25466,
       "video_urls": [
         "https://www.youtube.com/watch?v=Ee1EAJZmqns"
       ],
-      "transcript_sources": [],
-      "topic_leads": []
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=Ee1EAJZmqns",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 8366,
+          "last_end_seconds": 8366.0,
+          "source_duration_seconds": 8370,
+          "coverage_check": "reaches near video end",
+          "segments": 1053
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=Ee1EAJZmqns",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
+      "topic_leads": [
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "research-and-documentation",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "buying-selling-and-conventions"
+      ]
     },
     {
       "key": "sc-1918848494",
@@ -1801,14 +2037,39 @@
       "duration": "03:25:24",
       "description": "We're talking about games you can devote years to without ever becoming the best, which is largely esports games but also chess and mahjong?",
       "path": "episodes/cq-256-sc-1918848494.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 37813,
       "video_urls": [
         "https://www.youtube.com/watch?v=niad9hvX51s"
       ],
-      "transcript_sources": [],
-      "topic_leads": []
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=niad9hvX51s",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 12317,
+          "last_end_seconds": 12317.0,
+          "source_duration_seconds": 12325,
+          "coverage_check": "reaches near video end",
+          "segments": 1549
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=niad9hvX51s",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
+      "topic_leads": [
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "research-and-documentation",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions"
+      ]
     },
     {
       "key": "sc-1907940866",
@@ -1821,15 +2082,37 @@
       "duration": "03:18:41",
       "description": "We are clicking the drop down menu and selecting Sort By Highest Price and looking at recent sealed market and Ebay sales and discussing what's on top right now.",
       "path": "episodes/cq-255-sc-1907940866.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 37275,
       "video_urls": [
         "https://www.youtube.com/watch?v=Qlhgi8whlyw"
       ],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=Qlhgi8whlyw",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 11913,
+          "last_end_seconds": 11913.0,
+          "source_duration_seconds": 11922,
+          "coverage_check": "reaches near video end",
+          "segments": 1488
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=Qlhgi8whlyw",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
       "topic_leads": [
+        "variants-and-completeness",
         "prices-and-the-market",
+        "research-and-documentation",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
         "buying-selling-and-conventions"
       ]
     },
@@ -1846,11 +2129,21 @@
       "path": "episodes/cq-254-sc-1900282944.md",
       "transcript_status": "available",
       "analysis_status": "selected passages studied",
-      "transcript_words": 36038,
+      "transcript_words": 36256,
       "video_urls": [
         "https://www.youtube.com/watch?v=kvkCzPgiYA4"
       ],
       "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=kvkCzPgiYA4",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 11816,
+          "last_end_seconds": 11816.0,
+          "source_duration_seconds": 11820,
+          "coverage_check": "reaches near video end",
+          "segments": 1478
+        },
         {
           "kind": "airtable",
           "record_id": null,
@@ -1858,9 +2151,9 @@
           "method": "User-provided archive transcript attachment"
         }
       ],
-      "primary_transcript_source": "https://soundcloud.com/collectors-quest/cq-254-greatest-greatest-hits",
-      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
-      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
+      "primary_transcript_source": "https://www.youtube.com/watch?v=kvkCzPgiYA4",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
       "topic_leads": [
         "variants-and-completeness",
         "collecting-goals-and-psychology",
@@ -1887,15 +2180,38 @@
       "duration": "04:05:15",
       "description": "A long episode about collecting a beloved, okay video game console.",
       "path": "episodes/cq-253-sc-1889205429.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 46605,
       "video_urls": [
         "https://www.youtube.com/watch?v=WR77GR0SAjk"
       ],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=WR77GR0SAjk",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 14706,
+          "last_end_seconds": 14706.0,
+          "source_duration_seconds": 14716,
+          "coverage_check": "reaches near video end",
+          "segments": 1840
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=WR77GR0SAjk",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
       "topic_leads": [
-        "nintendo"
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions",
+        "show-history-and-format"
       ]
     },
     {
@@ -1910,12 +2226,22 @@
       "description": "It's CQ Shark Week. That time of year we talk about the electromechanical gun game from Jaws that once sold for $15,000 and Shark! Shark! on Intellivision which once sold for as high as $15.",
       "path": "episodes/cq-252-sc-1878380403.md",
       "transcript_status": "available",
-      "analysis_status": "selected passages studied",
-      "transcript_words": 20666,
+      "analysis_status": "one full captured transcript read",
+      "transcript_words": 21327,
       "video_urls": [
         "https://www.youtube.com/watch?v=BAgtGT3ttxE"
       ],
       "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=BAgtGT3ttxE",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 6805,
+          "last_end_seconds": 6805.0,
+          "source_duration_seconds": 6811,
+          "coverage_check": "reaches near video end",
+          "segments": 853
+        },
         {
           "kind": "airtable",
           "record_id": null,
@@ -1923,12 +2249,11 @@
           "method": "User-provided archive transcript attachment"
         }
       ],
-      "primary_transcript_source": "https://soundcloud.com/collectors-quest/cq-252-sharks",
-      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
-      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
+      "primary_transcript_source": "https://www.youtube.com/watch?v=BAgtGT3ttxE",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
       "topic_leads": [
         "variants-and-completeness",
-        "collecting-goals-and-psychology",
         "prices-and-the-market",
         "research-and-documentation",
         "halloween-and-horror",
@@ -1952,14 +2277,39 @@
       "duration": "01:59:22",
       "description": "It's one of those episodes where we're going to talk about the merits of the View-Master Interactive Vision, HTC Dream cell phone, and that Oregon Trail handheld thing, if those have any merits at all.",
       "path": "episodes/cq-251-sc-1866939015.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 21992,
       "video_urls": [
         "https://www.youtube.com/watch?v=lWqnKGavRJo"
       ],
-      "transcript_sources": [],
-      "topic_leads": []
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=lWqnKGavRJo",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 7160,
+          "last_end_seconds": 7160.0,
+          "source_duration_seconds": 7163,
+          "coverage_check": "reaches near video end",
+          "segments": 895
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=lWqnKGavRJo",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
+      "topic_leads": [
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "research-and-documentation",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions"
+      ]
     },
     {
       "key": "sc-1858294431",
@@ -1972,14 +2322,36 @@
       "duration": "03:40:05",
       "description": "cartridges cartridges cartridges cartridges cartridges cartridges cartridges cartridges cartridges cartridges cartridges cartridges cartridges cartridges cartridges cartridges cartridges cartridges cartridges cartridges cartridges cartridges cartridges cartridges",
       "path": "episodes/cq-250-sc-1858294431.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 41579,
       "video_urls": [
         "https://www.youtube.com/watch?v=oesL5nwWxd0"
       ],
-      "transcript_sources": [],
-      "topic_leads": []
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=oesL5nwWxd0",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 13201,
+          "last_end_seconds": 13201.0,
+          "source_duration_seconds": 13206,
+          "coverage_check": "reaches near video end",
+          "segments": 1653
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=oesL5nwWxd0",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
+      "topic_leads": [
+        "variants-and-completeness",
+        "research-and-documentation",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "buying-selling-and-conventions"
+      ]
     },
     {
       "key": "sc-1844434062",
@@ -1992,16 +2364,37 @@
       "duration": "03:25:31",
       "description": "EVERY Pokemon game. The Windows computer games, the Sega Pico Beena games, the Pokemon Mini games. But yeah, mostly the mainline handheld games that people actually care about.",
       "path": "episodes/cq-249-sc-1844434062.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 37388,
       "video_urls": [
         "https://www.youtube.com/watch?v=EgYi6N6Dq60"
       ],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=EgYi6N6Dq60",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 12327,
+          "last_end_seconds": 12327.0,
+          "source_duration_seconds": 12332,
+          "coverage_check": "reaches near video end",
+          "segments": 1549
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=EgYi6N6Dq60",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
       "topic_leads": [
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "research-and-documentation",
+        "nintendo",
         "sega",
-        "pc-and-obscure-platforms"
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions"
       ]
     },
     {
@@ -2064,15 +2457,38 @@
       "duration": "04:03:40",
       "description": "This is a 4 hour show where we talk about how much we like every console's boxes. That's the show. Odyssey 2's cardboard gatefold boxes up through modern trashy eco-cases. It's four hours of that. Four hours talking about whether we like boxes. Four hours.",
       "path": "episodes/cq-247-sc-1819221336.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 48363,
       "video_urls": [
         "https://www.youtube.com/watch?v=LGTnyTUQfvA"
       ],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=LGTnyTUQfvA",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 14616,
+          "last_end_seconds": 14616.0,
+          "source_duration_seconds": 14621,
+          "coverage_check": "reaches near video end",
+          "segments": 1829
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=LGTnyTUQfvA",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
       "topic_leads": [
-        "pc-and-obscure-platforms"
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "research-and-documentation",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions"
       ]
     },
     {
@@ -2086,16 +2502,37 @@
       "duration": "02:27:25",
       "description": "Hey there. You're about to take a long drive. Maybe you're about to catalog some games. You need to kill the time so we're here with a long episode about a topic you didn't know you didn't want: games that came with temporary tattoo inserts.",
       "path": "episodes/cq-246-sc-1810156362.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 27698,
       "video_urls": [
         "https://www.youtube.com/watch?v=2TPQFZuLczc"
       ],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=2TPQFZuLczc",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 8837,
+          "last_end_seconds": 8837.0,
+          "source_duration_seconds": 8846,
+          "coverage_check": "reaches near video end",
+          "segments": 1108
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=2TPQFZuLczc",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
       "topic_leads": [
         "variants-and-completeness",
-        "research-and-documentation"
+        "prices-and-the-market",
+        "research-and-documentation",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "buying-selling-and-conventions"
       ]
     },
     {
@@ -2109,15 +2546,38 @@
       "duration": "01:58:23",
       "description": "If you've ever said \"Games are getting too expensive\" are you talking about games you care about that matter, random hyped expensive trash, or the cost of trying to own literally every video game? The best games to collect are more affordable than virtually any other hobby, especially if your goal isn't to buy EVERYTHING. You'll never own a Babe Ruth rookie card, Action Comics 1, or 1794 Flowing Hair Silver Dollar, but even the most expensive million dollar games ever sold you can own the exact same thing for a couple hundred bucks CIB.",
       "path": "episodes/cq-245-sc-1800725035.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 23005,
       "video_urls": [
         "https://www.youtube.com/watch?v=Qt1jBaK1XxU"
       ],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=Qt1jBaK1XxU",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 7097,
+          "last_end_seconds": 7097.0,
+          "source_duration_seconds": 7104,
+          "coverage_check": "reaches near video end",
+          "segments": 888
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=Qt1jBaK1XxU",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
       "topic_leads": [
-        "variants-and-completeness"
+        "variants-and-completeness",
+        "collecting-goals-and-psychology",
+        "prices-and-the-market",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions"
       ]
     },
     {
@@ -2131,14 +2591,39 @@
       "duration": "02:05:01",
       "description": "We're talking about game conventions and our thoughts on attending them for both commerce and sociability in preparation for the upcoming Midwest Gaming Classic. Sorry for the late post, I've been very sick this past week!",
       "path": "episodes/cq-244-sc-1782158328.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 26222,
       "video_urls": [
         "https://www.youtube.com/watch?v=Rcq17S-U5VA"
       ],
-      "transcript_sources": [],
-      "topic_leads": []
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=Rcq17S-U5VA",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 7498,
+          "last_end_seconds": 7498.0,
+          "source_duration_seconds": 7502,
+          "coverage_check": "reaches near video end",
+          "segments": 942
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=Rcq17S-U5VA",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
+      "topic_leads": [
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "research-and-documentation",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions"
+      ]
     },
     {
       "key": "sc-1768443759",
@@ -2151,15 +2636,39 @@
       "duration": "03:49:25",
       "description": "We're talking about every collecting category except video games: coins, stamps, comics, toys, cereal, etc. and what the best video game things in those categories are that come to mind. Over 3 minutes of research was done looking up video game related Funko Pop prices for this episode before we couldn't take it anymore.",
       "path": "episodes/cq-243-sc-1768443759.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 41468,
       "video_urls": [
         "https://www.youtube.com/watch?v=P8IAtuQAoFc"
       ],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=P8IAtuQAoFc",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 13762,
+          "last_end_seconds": 13762.0,
+          "source_duration_seconds": 13766,
+          "coverage_check": "reaches near video end",
+          "segments": 1724
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=P8IAtuQAoFc",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
       "topic_leads": [
-        "research-and-documentation"
+        "variants-and-completeness",
+        "collecting-goals-and-psychology",
+        "prices-and-the-market",
+        "research-and-documentation",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions"
       ]
     },
     {
@@ -2173,14 +2682,37 @@
       "duration": "01:56:59",
       "description": "We're talking about a few controversial games we haven't yet discussed to death including perhaps the first controversial video game in 1973's Gotcha to Wolfenstein 3D to whatever Gal Gun is. This episode is banned in Germany for multiple reasons.",
       "path": "episodes/cq-242-sc-1752050928.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 21598,
       "video_urls": [
         "https://www.youtube.com/watch?v=8MEaGlJ8Sok"
       ],
-      "transcript_sources": [],
-      "topic_leads": []
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=8MEaGlJ8Sok",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 7013,
+          "last_end_seconds": 7013.0,
+          "source_duration_seconds": 7020,
+          "coverage_check": "reaches near video end",
+          "segments": 871
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=8MEaGlJ8Sok",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
+      "topic_leads": [
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "research-and-documentation",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "buying-selling-and-conventions"
+      ]
     },
     {
       "key": "sc-1741872345",
@@ -2193,14 +2725,38 @@
       "duration": "02:42:38",
       "description": "We're discussing some of potential \"oh I wish I just got that when it was $8\" games of 2000s and up. And also $3000 World of Warcraft server blades, which are sure to be a timeless collectible as well.",
       "path": "episodes/cq-241-sc-1741872345.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 31696,
       "video_urls": [
         "https://www.youtube.com/watch?v=sdHS_0KAuvE"
       ],
-      "transcript_sources": [],
-      "topic_leads": []
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=sdHS_0KAuvE",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 9754,
+          "last_end_seconds": 9754.0,
+          "source_duration_seconds": 9759,
+          "coverage_check": "reaches near video end",
+          "segments": 1226
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=sdHS_0KAuvE",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
+      "topic_leads": [
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "halloween-and-horror",
+        "nintendo",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions",
+        "show-history-and-format"
+      ]
     },
     {
       "key": "sc-1724575866",
@@ -2213,15 +2769,39 @@
       "duration": "02:48:56",
       "description": "Two out of touch relics who collect old video games debate the merits of whether you should spend $64.99 on a reissued copy of NES Felix the Cat by Limited Run Games. No. No you shouldn't.",
       "path": "episodes/cq-240-sc-1724575866.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 32971,
       "video_urls": [
         "https://www.youtube.com/watch?v=qRa3_TdSPX4"
       ],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=qRa3_TdSPX4",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 10132,
+          "last_end_seconds": 10132.0,
+          "source_duration_seconds": 10137,
+          "coverage_check": "reaches near video end",
+          "segments": 1266
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=qRa3_TdSPX4",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
       "topic_leads": [
-        "nintendo"
+        "variants-and-completeness",
+        "collecting-goals-and-psychology",
+        "prices-and-the-market",
+        "research-and-documentation",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions"
       ]
     },
     {
@@ -2235,14 +2815,38 @@
       "duration": "03:10:58",
       "description": "We are discussing and rating how worth it some of the \"rarest\" hype games are in game collecting from NWC to Pokemon Box to, for some reason, Devil's Third.",
       "path": "episodes/cq-239-sc-1711235970.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 35275,
       "video_urls": [
         "https://www.youtube.com/watch?v=E5lx312P-Pc"
       ],
-      "transcript_sources": [],
-      "topic_leads": []
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=E5lx312P-Pc",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 11453,
+          "last_end_seconds": 11453.0,
+          "source_duration_seconds": 11459,
+          "coverage_check": "reaches near video end",
+          "segments": 1428
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=E5lx312P-Pc",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
+      "topic_leads": [
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "research-and-documentation",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "buying-selling-and-conventions"
+      ]
     },
     {
       "key": "sc-1703893836",
@@ -3638,16 +4242,38 @@
       "duration": "02:47:17",
       "description": "Happy Halloween! We're talking about collecting the history of survival horror from pre-Resident Evil obscure computer games, to the game that changed the genre forever in the 2000s, to RE1 itself!",
       "path": "episodes/cq-180-sc-1151496952.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 31200,
       "video_urls": [
         "https://www.youtube.com/watch?v=s_vQl_au6eM"
       ],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=s_vQl_au6eM",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 10033,
+          "last_end_seconds": 10033.0,
+          "source_duration_seconds": 10038,
+          "coverage_check": "reaches near video end",
+          "segments": 1257
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=s_vQl_au6eM",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
       "topic_leads": [
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "research-and-documentation",
         "halloween-and-horror",
-        "pc-and-obscure-platforms"
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions"
       ]
     },
     {
@@ -3661,15 +4287,38 @@
       "duration": "01:52:39",
       "description": "Number 7 is so spooky you might pass out!! It's our annual Halloween game collecting episode, with some of our most obscure and interesting picks yet. Have you been waiting for the first episode where we talk about a Dragon 32/64 game? Because this is it!",
       "path": "episodes/cq-179-sc-1143555589.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 19966,
       "video_urls": [
         "https://www.youtube.com/watch?v=If1mVAiKQ7U"
       ],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=If1mVAiKQ7U",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 6755,
+          "last_end_seconds": 6755.0,
+          "source_duration_seconds": 6760,
+          "coverage_check": "reaches near video end",
+          "segments": 849
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=If1mVAiKQ7U",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
       "topic_leads": [
-        "halloween-and-horror"
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "research-and-documentation",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions"
       ]
     },
     {
@@ -3683,17 +4332,40 @@
       "duration": "02:21:30",
       "description": "We're talking with director and Sega collector Edward Payson about his upcoming film Rarity: Retro Game Collecting in The Modern Era! We're also picking 3 games we'd keep if we had to start our collections over, talking some Atari porn games, and mooooore.",
       "path": "episodes/cq-178-sc-1136138623.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 26524,
       "video_urls": [
         "https://www.youtube.com/watch?v=DCc0__RIEss"
       ],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=DCc0__RIEss",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 8483,
+          "last_end_seconds": 8483.0,
+          "source_duration_seconds": 8491,
+          "coverage_check": "reaches near video end",
+          "segments": 1059
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=DCc0__RIEss",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
       "topic_leads": [
+        "variants-and-completeness",
+        "collecting-goals-and-psychology",
         "prices-and-the-market",
+        "research-and-documentation",
+        "halloween-and-horror",
+        "nintendo",
         "sega",
-        "pc-and-obscure-platforms"
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions",
+        "show-history-and-format"
       ]
     },
     {
@@ -3707,14 +4379,39 @@
       "duration": "01:53:14",
       "description": "It's Batman day! We're talking games based on Batman: The Animated Series aka The Adventures of Batman and Robin. A bunch of games with a same name that are different games, some have unappreciated collectability, and a couple games with rad music.",
       "path": "episodes/cq-177-sc-1127234284.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 21522,
       "video_urls": [
         "https://www.youtube.com/watch?v=Y-qqIbjWHDI"
       ],
-      "transcript_sources": [],
-      "topic_leads": []
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=Y-qqIbjWHDI",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 6789,
+          "last_end_seconds": 6789.0,
+          "source_duration_seconds": 6795,
+          "coverage_check": "reaches near video end",
+          "segments": 854
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=Y-qqIbjWHDI",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
+      "topic_leads": [
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "research-and-documentation",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions"
+      ]
     },
     {
       "key": "sc-1119856444",
@@ -3773,15 +4470,36 @@
       "duration": "02:12:40",
       "description": "We're mostly talking about the Karl Jobst video on market manipulation and alleged fraud in the graded games market. If you haven't watched that video, go Google him and watch that first.",
       "path": "episodes/cq-175-sc-1115255617.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 25941,
       "video_urls": [
         "https://www.youtube.com/watch?v=bTPxaMUG8WA"
       ],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=bTPxaMUG8WA",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 7953,
+          "last_end_seconds": 7953.0,
+          "source_duration_seconds": 7961,
+          "coverage_check": "reaches near video end",
+          "segments": 999
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=bTPxaMUG8WA",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
       "topic_leads": [
-        "prices-and-the-market"
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "research-and-documentation",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions"
       ]
     },
     {
@@ -3795,15 +4513,36 @@
       "duration": "03:02:13",
       "description": "3 hours of collecting Hu Cards, pumping Soldier Blade, and dunking on Disney's Talespin: CQ attempts to find collecting nuance in a console where most people struggle to put together a library of less than 100 games.",
       "path": "episodes/cq-174-sc-1106790757.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 34484,
       "video_urls": [
         "https://www.youtube.com/watch?v=6M3X6oKTGEE"
       ],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=6M3X6oKTGEE",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 10931,
+          "last_end_seconds": 10931.0,
+          "source_duration_seconds": 10933,
+          "coverage_check": "reaches near video end",
+          "segments": 1365
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=6M3X6oKTGEE",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
       "topic_leads": [
-        "pc-and-obscure-platforms"
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "buying-selling-and-conventions"
       ]
     },
     {
@@ -3817,15 +4556,36 @@
       "duration": "01:41:11",
       "description": "So you finished the NES set (or... the licensed US cart only NES set minus SE). What can you do now in the hobby? We're talking things you can buy to better your set or things you can do to enjoy your collection without spending money once you've reached one of your goals!",
       "path": "episodes/cq-173-sc-1097970775.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 20295,
       "video_urls": [
         "https://www.youtube.com/watch?v=_-q0wA9-f0w"
       ],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=_-q0wA9-f0w",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 6064,
+          "last_end_seconds": 6064.0,
+          "source_duration_seconds": 6072,
+          "coverage_check": "reaches near video end",
+          "segments": 762
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=_-q0wA9-f0w",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
       "topic_leads": [
-        "nintendo"
+        "variants-and-completeness",
+        "collecting-goals-and-psychology",
+        "prices-and-the-market",
+        "research-and-documentation",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "buying-selling-and-conventions"
       ]
     },
     {
@@ -3839,15 +4599,37 @@
       "duration": "02:35:53",
       "description": "As very requested, we're discussing recent insane auction prices for graded games, who might've bought them and with what motivation, and talk high end market trends and how it might affect the real world game collecting market.",
       "path": "episodes/cq-172-sc-1089797359.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 30589,
       "video_urls": [
         "https://www.youtube.com/watch?v=SwoODIiOG4s"
       ],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=SwoODIiOG4s",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 9349,
+          "last_end_seconds": 9349.0,
+          "source_duration_seconds": 9354,
+          "coverage_check": "reaches near video end",
+          "segments": 1177
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=SwoODIiOG4s",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
       "topic_leads": [
+        "variants-and-completeness",
+        "collecting-goals-and-psychology",
         "prices-and-the-market",
+        "research-and-documentation",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "collectibles-beyond-games",
         "buying-selling-and-conventions"
       ]
     },
@@ -3884,15 +4666,37 @@
       "duration": "02:58:11",
       "description": "In this episode we're going over the important and earliest releases, appearances, and ports of Mario games mostly from the early 80s in a new very-Tyler series called \"Collecting the History of\". We're talking arcades to Game & Watch to Colecovision and Atari ports.",
       "path": "episodes/cq-171-sc-1085256322.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 32551,
       "video_urls": [
         "https://www.youtube.com/watch?v=_6aPmcdAl7k"
       ],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=_6aPmcdAl7k",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 10685,
+          "last_end_seconds": 10685.0,
+          "source_duration_seconds": 10692,
+          "coverage_check": "reaches near video end",
+          "segments": 1338
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=_6aPmcdAl7k",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
       "topic_leads": [
-        "pc-and-obscure-platforms"
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "research-and-documentation",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions"
       ]
     },
     {
@@ -3906,16 +4710,39 @@
       "duration": "02:34:07",
       "description": "We're talking about recent announcements that might interest game collectors from new Limited Run Games to the internet's mildest drama of Super Rare Games Shorts to Nintendo Special Editions to... Intellivision Amico? Someone out there is looking for an Amico physical media update, right? Also Tyler gets mad.",
       "path": "episodes/cq-170-sc-1075203214.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 28440,
       "video_urls": [
         "https://www.youtube.com/watch?v=er11io_0YiU"
       ],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=er11io_0YiU",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 9246,
+          "last_end_seconds": 9246.0,
+          "source_duration_seconds": 9247,
+          "coverage_check": "reaches near video end",
+          "segments": 1155
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=er11io_0YiU",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
       "topic_leads": [
+        "variants-and-completeness",
+        "collecting-goals-and-psychology",
+        "prices-and-the-market",
+        "halloween-and-horror",
         "nintendo",
-        "pc-and-obscure-platforms"
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions",
+        "show-history-and-format"
       ]
     },
     {
@@ -3929,17 +4756,36 @@
       "duration": "02:00:36",
       "description": "We're talking light guns from 1970s Nintendo electronic toys and arcades to Justifier variants to the PS2 Guncon set. Maybe we go on a small tangent about a certain \"perfect condition\" Wata game as well. Stephan back next week!",
       "path": "episodes/cq-169-sc-1067905369.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 22456,
       "video_urls": [
         "https://www.youtube.com/watch?v=f5GAdwGwRWQ"
       ],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=f5GAdwGwRWQ",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 7228,
+          "last_end_seconds": 7228.0,
+          "source_duration_seconds": 7237,
+          "coverage_check": "reaches near video end",
+          "segments": 902
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=f5GAdwGwRWQ",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
       "topic_leads": [
+        "variants-and-completeness",
         "prices-and-the-market",
+        "halloween-and-horror",
         "nintendo",
-        "playstation-and-xbox"
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "buying-selling-and-conventions"
       ]
     },
     {
@@ -3953,15 +4799,36 @@
       "duration": "01:43:04",
       "description": "Johnny and Tyler just want to talk about some RPGs. This isn't some top 6 list or in any order, just some RPGs that either have interesting price history to talk about or otherwise might be worth talking about because they're collectible!",
       "path": "episodes/cq-168-sc-1058151019.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 18640,
       "video_urls": [
         "https://www.youtube.com/watch?v=zCcjLoPke8Y"
       ],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=zCcjLoPke8Y",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 6183,
+          "last_end_seconds": 6183.0,
+          "source_duration_seconds": 6185,
+          "coverage_check": "reaches near video end",
+          "segments": 776
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=zCcjLoPke8Y",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
       "topic_leads": [
-        "prices-and-the-market"
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "research-and-documentation",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "buying-selling-and-conventions"
       ]
     },
     {
@@ -3975,15 +4842,37 @@
       "duration": "01:47:51",
       "description": "With prices of many things increasing weekly, should you sell out? Should you try to sell and buy back in after \"the bubble bursts\"? Is there even an overall bubble? Or is it time to trade newly expensive games for bigger wants?",
       "path": "episodes/cq-167-sc-1050634423.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 21130,
       "video_urls": [
         "https://www.youtube.com/watch?v=JPuQCDCKMCc"
       ],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=JPuQCDCKMCc",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 6465,
+          "last_end_seconds": 6465.0,
+          "source_duration_seconds": 6472,
+          "coverage_check": "reaches near video end",
+          "segments": 811
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=JPuQCDCKMCc",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
       "topic_leads": [
-        "prices-and-the-market"
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions"
       ]
     },
     {
@@ -3997,14 +4886,39 @@
       "duration": "02:51:58",
       "description": "If you just bought every game for a console as it came out, how many of those games appreciated to be worth more today even after accounting for inflation? We're talking about this and what consoles have surprising metrics in this week's episode!",
       "path": "episodes/cq-166-sc-1045529761.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 32429,
       "video_urls": [
         "https://www.youtube.com/watch?v=20pKtsVqIpI"
       ],
-      "transcript_sources": [],
-      "topic_leads": []
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=20pKtsVqIpI",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 10315,
+          "last_end_seconds": 10315.0,
+          "source_duration_seconds": 10319,
+          "coverage_check": "reaches near video end",
+          "segments": 1293
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=20pKtsVqIpI",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
+      "topic_leads": [
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "research-and-documentation",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions"
+      ]
     },
     {
       "key": "sc-1035655783",
@@ -4017,15 +4931,37 @@
       "duration": "01:49:42",
       "description": "We're discussing the CMOS battery issue that affects PS4 (and PS5) where in the far flung future it's possible that Playstation consoles won't play physical media unless they're hacked. Will this affect collecting for Playstation? Additionally, the PS3 PSN shut down... or was scheduled to for like a week and Sony since reversed course on that. We're discussing how that affects collecting physical games for the PS3.",
       "path": "episodes/cq-165-sc-1035655783.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 20575,
       "video_urls": [
         "https://www.youtube.com/watch?v=e1n5urr-eVg"
       ],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=e1n5urr-eVg",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 6581,
+          "last_end_seconds": 6581.0,
+          "source_duration_seconds": 6583,
+          "coverage_check": "reaches near video end",
+          "segments": 824
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=e1n5urr-eVg",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
       "topic_leads": [
-        "playstation-and-xbox"
+        "variants-and-completeness",
+        "collecting-goals-and-psychology",
+        "prices-and-the-market",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions"
       ]
     },
     {
@@ -4039,15 +4975,38 @@
       "duration": "02:10:26",
       "description": "Tyler and Johnny are talking about collecting the set of 20-25 NES games that are somewhat inexplicably based on R-rated movies. The most adult stuff you'll see from a company that told congress Night Trap would never be on a Nintendo platform.",
       "path": "episodes/cq-164-sc-1027313911.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 24934,
       "video_urls": [
         "https://www.youtube.com/watch?v=bv-eri6CTN4"
       ],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=bv-eri6CTN4",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 7820,
+          "last_end_seconds": 7820.0,
+          "source_duration_seconds": 7827,
+          "coverage_check": "reaches near video end",
+          "segments": 974
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=bv-eri6CTN4",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
       "topic_leads": [
-        "nintendo"
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "research-and-documentation",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions"
       ]
     },
     {
@@ -4061,14 +5020,38 @@
       "duration": "02:10:25",
       "description": "In honor of Johnny and Stephan's favorite filmmaker Zack Snyder, we're talking some DC comics games, including first appearances, the mostly lack of them up until the late 80s, multiple games based on 1990 TV shows Tyler didn't know existed, and the shocking lack of Wonder Woman games.",
       "path": "episodes/cq-163-sc-1017685387.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 23784,
       "video_urls": [
         "https://www.youtube.com/watch?v=pNuLWFfSP2w"
       ],
-      "transcript_sources": [],
-      "topic_leads": []
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=pNuLWFfSP2w",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 7817,
+          "last_end_seconds": 7817.0,
+          "source_duration_seconds": 7826,
+          "coverage_check": "reaches near video end",
+          "segments": 982
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=pNuLWFfSP2w",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
+      "topic_leads": [
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "research-and-documentation",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions"
+      ]
     },
     {
       "key": "sc-1012183996",
@@ -4081,16 +5064,38 @@
       "duration": "02:40:27",
       "description": "It's a mailbag episode with a slick new title! Is Super Volley Ball the Stadium Events of Sega Genesis? What are our game store pet peeves? Is it better to have a ton of loose carts or very few CIB? These questions and more on this exciting episode of CQP!",
       "path": "episodes/cq-162-sc-1012183996.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 31668,
       "video_urls": [
         "https://www.youtube.com/watch?v=XA143csQP-E"
       ],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=XA143csQP-E",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 9620,
+          "last_end_seconds": 9620.0,
+          "source_duration_seconds": 9628,
+          "coverage_check": "reaches near video end",
+          "segments": 1205
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=XA143csQP-E",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
       "topic_leads": [
         "variants-and-completeness",
-        "sega"
+        "collecting-goals-and-psychology",
+        "prices-and-the-market",
+        "research-and-documentation",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "buying-selling-and-conventions"
       ]
     },
     {
@@ -4104,16 +5109,37 @@
       "duration": "01:59:06",
       "description": "The RAREST! For the 35th Zelda thing, Johnny and Tyler are talking about a few high dollar, low production, or just desirable Zelda releases from obscure PAL big box releases to impossibly rare club Nintendo limited editions to the widely available but endlessly in demand BOTW Master Edition.",
       "path": "episodes/cq-161-sc-1000098751.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 23100,
       "video_urls": [
         "https://www.youtube.com/watch?v=gvwgMJs3fkg"
       ],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=gvwgMJs3fkg",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 7144,
+          "last_end_seconds": 7144.0,
+          "source_duration_seconds": 7147,
+          "coverage_check": "reaches near video end",
+          "segments": 894
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=gvwgMJs3fkg",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
       "topic_leads": [
+        "variants-and-completeness",
+        "prices-and-the-market",
         "nintendo",
-        "pc-and-obscure-platforms"
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions",
+        "show-history-and-format"
       ]
     },
     {
@@ -4127,14 +5153,38 @@
       "duration": "02:19:36",
       "description": "What's the earliest STUFF that ever came with a game? A little bonus that wasn't necessary to include, but they did? In this episode we're looking back at some of the earliest examples of video game pack-ins from the late 70s to the early 90s.",
       "path": "episodes/cq-160-sc-991075135.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 27323,
       "video_urls": [
         "https://www.youtube.com/watch?v=i2Gk326u5rk"
       ],
-      "transcript_sources": [],
-      "topic_leads": []
+      "transcript_sources": [
+        {
+          "kind": "youtube",
+          "url": "https://www.youtube.com/watch?v=i2Gk326u5rk",
+          "method": "YouTube rendered Show transcript panel via supported browser DOM",
+          "last_start_seconds": 8370,
+          "last_end_seconds": 8370.0,
+          "source_duration_seconds": 8377,
+          "coverage_check": "reaches near video end",
+          "segments": 1045
+        }
+      ],
+      "primary_transcript_source": "https://www.youtube.com/watch?v=i2Gk326u5rk",
+      "timing": "YouTube caption timestamps",
+      "capture_check": "reaches near video end",
+      "topic_leads": [
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "research-and-documentation",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions"
+      ]
     },
     {
       "key": "sc-981088471",
@@ -4973,13 +6023,27 @@
       "duration": "00:30:25",
       "description": "In this side quest, Johnny talks about his experience collection for the Playstation and eventually finishing the whole North American set.",
       "path": "episodes/sc-787918894.md",
-      "transcript_status": "missing",
-      "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_status": "available",
+      "analysis_status": "one full captured transcript read",
+      "transcript_words": 5543,
       "video_urls": [],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "recqpjfLB4O6UnlG6",
+          "publisher_url": "https://soundcloud.com/collectors-quest/side-quest-3-collecting-and-finishing-the-ps1-set",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/side-quest-3-collecting-and-finishing-the-ps1-set",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
       "topic_leads": [
-        "playstation-and-xbox"
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "nintendo",
+        "playstation-and-xbox",
+        "buying-selling-and-conventions"
       ]
     },
     {
@@ -5938,13 +7002,30 @@
       "duration": "01:02:54",
       "description": "We're talking prices today, specifically what the most economical way to approach buying a full set is. In this episode we take a look at 3 sample sets of games (top shelf, uncommon, and super common) and see how well you would have made out putting the same amount of money into each type over the course of 18 months. No guessing and conventional wisdom here. We see clear differences not only between the different sample sets, but between cart only and complete games.",
       "path": "episodes/cq-096-sc-466143843.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 12538,
       "video_urls": [],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "recGDiV4VgtqqGCWJ",
+          "publisher_url": "https://soundcloud.com/collectors-quest/episode-96-is-collecting-full-sets-top-down-economical",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/episode-96-is-collecting-full-sets-top-down-economical",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
       "topic_leads": [
         "collecting-goals-and-psychology",
+        "prices-and-the-market",
+        "research-and-documentation",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
         "buying-selling-and-conventions"
       ]
     },
@@ -5959,13 +7040,30 @@
       "duration": "01:34:46",
       "description": "In the first of a new series, Johnny and Tyler are talking about how people collect for the Sega Genesis. We're talking about what's out there, licensed, unlicensed, aftermarket, and otherwise, along with what's expensive, what drives prices, and just an overview in general of collecting the console. Tyler also insists on turning the conversation towards Maniac Mansion and point and click adventures for a while.",
       "path": "episodes/cq-095-sc-456589569.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 17970,
       "video_urls": [],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "recGomPomoyt5GdIv",
+          "publisher_url": "https://soundcloud.com/collectors-quest/episode-95-so-you-want-to-collect-for-the-sega-genesis",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/episode-95-so-you-want-to-collect-for-the-sega-genesis",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
       "topic_leads": [
-        "sega"
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "buying-selling-and-conventions"
       ]
     },
     {
@@ -5979,12 +7077,32 @@
       "duration": "01:22:34",
       "description": "In this episode Johnny and Tyler are talking about the things that just get on their nerves in the world of game collecting, from shady sellers to gatekeeping collectors.",
       "path": "episodes/cq-094-sc-450425988.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 16343,
       "video_urls": [],
-      "transcript_sources": [],
-      "topic_leads": []
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "rec6gIAqCmMDUiLjG",
+          "publisher_url": "https://soundcloud.com/collectors-quest/episode-94-our-top-pet-peeves-with-collecting-video-games",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/episode-94-our-top-pet-peeves-with-collecting-video-games",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
+      "topic_leads": [
+        "variants-and-completeness",
+        "collecting-goals-and-psychology",
+        "prices-and-the-market",
+        "research-and-documentation",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions"
+      ]
     },
     {
       "key": "sc-444202725",
@@ -5997,13 +7115,26 @@
       "duration": "00:13:42",
       "description": "I take a look back at Microcast 3 and Episode 66 to see if the video game collectors market crashed, or to see if it did pretty much what we anticipated.",
       "path": "episodes/sc-444202725.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 2528,
       "video_urls": [],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "recaxwNNTPn9WPDer",
+          "publisher_url": "https://soundcloud.com/collectors-quest/microcast-9-did-the-video-game-collectors-market-crash",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/microcast-9-did-the-video-game-collectors-market-crash",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
       "topic_leads": [
         "prices-and-the-market",
+        "nintendo",
+        "playstation-and-xbox",
+        "buying-selling-and-conventions",
         "show-history-and-format"
       ]
     },
@@ -6018,13 +7149,27 @@
       "duration": "00:50:50",
       "description": "We're back talking about the recent iam8bit $100 Mega Man repros. You all know how much we love the Street Fighter II 30th Anniversary Cart. This is a balanced discussion about a great product that neither of us would ever buy. We also go on a small tangent about forums and collecting communities. Let us know how many copies of Mega Man X you bought chasing the glow in the dark variant!",
       "path": "episodes/cq-093-sc-440884842.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 9887,
       "video_urls": [],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "reclvHS0tKOi3Ab8j",
+          "publisher_url": "https://soundcloud.com/collectors-quest/episode-93-did-johnny-buy-a-100-reproduction-of-mega-man-x",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/episode-93-did-johnny-buy-a-100-reproduction-of-mega-man-x",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
       "topic_leads": [
         "variants-and-completeness",
+        "prices-and-the-market",
+        "research-and-documentation",
+        "halloween-and-horror",
+        "nintendo",
         "buying-selling-and-conventions",
         "show-history-and-format"
       ]
@@ -6040,13 +7185,33 @@
       "duration": "01:53:42",
       "description": "With decades of video game history behind us, the terms retro and modern are losing meaning. We've got world renowned game and comic collector Erik AKA Excitebyte games who's going to talk with us about how we can start to think about periods in video gaming in terms of more meaningful eras.",
       "path": "episodes/cq-092-sc-437659290.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 23805,
       "video_urls": [],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "recsMGh0a3Ndpiuu4",
+          "publisher_url": "https://soundcloud.com/collectors-quest/episode-92-moving-past-retro-and-modern-with-special-guest-excitebyte-games",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/episode-92-moving-past-retro-and-modern-with-special-guest-excitebyte-games",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
       "topic_leads": [
-        "collectibles-beyond-games"
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "research-and-documentation",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions",
+        "show-history-and-format"
       ]
     },
     {
@@ -6060,14 +7225,31 @@
       "duration": "01:23:45",
       "description": "Let me tell you something brother... Finally CQ is about to get Raw on some wrestling games. Also, whatcha gonna do when Johnny runs wild on some recent Sega announcements, Jack? And Tyler has two words for CD-i Ebay sellers: suck it! Ahhhhhhhh, what a rush!",
       "path": "episodes/cq-091-sc-431931915.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 16235,
       "video_urls": [],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "recPi1fEgAipRCzqZ",
+          "publisher_url": "https://soundcloud.com/collectors-quest/episode-91-johnny-and-tyler-lay-the-smackdown-on-wrestling-games",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/episode-91-johnny-and-tyler-lay-the-smackdown-on-wrestling-games",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
       "topic_leads": [
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "research-and-documentation",
+        "nintendo",
         "sega",
-        "buying-selling-and-conventions"
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "buying-selling-and-conventions",
+        "show-history-and-format"
       ]
     },
     {
@@ -6081,13 +7263,29 @@
       "duration": "01:41:12",
       "description": "In this long episode of Collector's Quest, Johnny and Tyler talk about the Wiiware shutdown, digital ownership, Limited Run Games and all of the copycat publishers, a string of significant Ebay sales recently, and a whole bunch more.",
       "path": "episodes/cq-090-sc-423296268.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 19436,
       "video_urls": [],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "recGxmltAfLy4vkgJ",
+          "publisher_url": "https://soundcloud.com/collectors-quest/episode-90-dead-digital-games-the-wiiware-shutdown-and-limited-print-game-publishers",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/episode-90-dead-digital-games-the-wiiware-shutdown-and-limited-print-game-publishers",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
       "topic_leads": [
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "halloween-and-horror",
         "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
         "buying-selling-and-conventions"
       ]
     },
@@ -6102,14 +7300,32 @@
       "duration": "01:35:53",
       "description": "In this marathon episode, we talk with friend of the show Stephan Reese (@Archon1981) about collecting the 3DO Interactive Multiplayer, an overview of Stephan's collection, tips sent to the show from the maintenance episode. and more!",
       "path": "episodes/cq-089-sc-419958968.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 17783,
       "video_urls": [],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "recLBo3xIs5bBSHUY",
+          "publisher_url": "https://soundcloud.com/collectors-quest/episode-89-collecting-the-full-set-of-3do-games-with-industry-veteran-stephan-reese",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/episode-89-collecting-the-full-set-of-3do-games-with-industry-veteran-stephan-reese",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
       "topic_leads": [
+        "variants-and-completeness",
         "collecting-goals-and-psychology",
-        "pc-and-obscure-platforms"
+        "prices-and-the-market",
+        "research-and-documentation",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "collectibles-beyond-games",
+        "buying-selling-and-conventions"
       ]
     },
     {
@@ -6123,12 +7339,27 @@
       "duration": "00:44:32",
       "description": "Tyler and I let you listen in to our prechat before we go live for recording. We talk about limited Run Games, Dragon Warrior, and More.",
       "path": "episodes/cq-088-sc-417155358.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 7296,
       "video_urls": [],
-      "transcript_sources": [],
-      "topic_leads": []
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "recofkJPEdVaZsG1c",
+          "publisher_url": "https://soundcloud.com/collectors-quest/episode-89-what-we-talk-about-before-we-record-limited-run-games-dragon-warrior-and-moremp3",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/episode-89-what-we-talk-about-before-we-record-limited-run-games-dragon-warrior-and-moremp3",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
+      "topic_leads": [
+        "nintendo",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "buying-selling-and-conventions"
+      ]
     },
     {
       "key": "sc-412882248",
@@ -6141,12 +7372,31 @@
       "duration": "01:06:07",
       "description": "Tyler and Johnny give you tips to protect your collection and increase it's value. We also tell you one very important thing not to do.",
       "path": "episodes/cq-087-sc-412882248.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 13344,
       "video_urls": [],
-      "transcript_sources": [],
-      "topic_leads": []
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "reczuLJRMy4F3gRzA",
+          "publisher_url": "https://soundcloud.com/collectors-quest/episode-87-tips-to-protect-your-collection-and-things-to-never-do",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/episode-87-tips-to-protect-your-collection-and-things-to-never-do",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
+      "topic_leads": [
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "buying-selling-and-conventions"
+      ]
     },
     {
       "key": "sc-405814233",
@@ -6159,12 +7409,30 @@
       "duration": "00:47:02",
       "description": "Johnny and Tyler dive into the strangely populated world of games based on licensed 80s and 90s food mascots.",
       "path": "episodes/cq-086-sc-405814233.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 8775,
       "video_urls": [],
-      "transcript_sources": [],
-      "topic_leads": []
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "rec9QN4hviclh01Fs",
+          "publisher_url": "https://soundcloud.com/collectors-quest/episode-86-licensed-food-games",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/episode-86-licensed-food-games",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
+      "topic_leads": [
+        "research-and-documentation",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "buying-selling-and-conventions"
+      ]
     },
     {
       "key": "sc-402327105",
@@ -6177,13 +7445,28 @@
       "duration": "00:57:08",
       "description": "Johnny and Tyler talk about the wave of Wii U to Switch ports and how they affect the desirability of collecting for Wii U in the post-Switch world. Was the Wii U basically replaced, or will anyone actually want one of these years down the line?",
       "path": "episodes/cq-085-sc-402327105.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 11041,
       "video_urls": [],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "recEXoQaRDSOTvQKu",
+          "publisher_url": "https://soundcloud.com/collectors-quest/episode-84-switch-ports-and-the-wii-u-collectibility",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/episode-84-switch-ports-and-the-wii-u-collectibility",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
       "topic_leads": [
-        "nintendo"
+        "prices-and-the-market",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "buying-selling-and-conventions"
       ]
     },
     {
@@ -6197,12 +7480,29 @@
       "duration": "00:50:56",
       "description": "Johnny and Tyler talk about special and limited edition game consoles, the good and the bad.",
       "path": "episodes/cq-084-sc-395702904.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 9931,
       "video_urls": [],
-      "transcript_sources": [],
-      "topic_leads": []
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "reciPEQmhKm8K80hB",
+          "publisher_url": "https://soundcloud.com/collectors-quest/episode-84-special-edition-consoles",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/episode-84-special-edition-consoles",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
+      "topic_leads": [
+        "prices-and-the-market",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "buying-selling-and-conventions"
+      ]
     },
     {
       "key": "sc-392286414",
@@ -6215,12 +7515,26 @@
       "duration": "00:10:05",
       "description": "MicroCast 8 - How To Save Money On Modern Games by Johnny & Tyler",
       "path": "episodes/sc-392286414.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 2032,
       "video_urls": [],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "rec1CyAibPBKNU1m7",
+          "publisher_url": "https://soundcloud.com/collectors-quest/microcast-8-how-to-save-money-on-modern-games",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/microcast-8-how-to-save-money-on-modern-games",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
       "topic_leads": [
+        "prices-and-the-market",
+        "nintendo",
+        "pc-and-obscure-platforms",
+        "buying-selling-and-conventions",
         "show-history-and-format"
       ]
     },
@@ -6235,13 +7549,31 @@
       "duration": "00:55:20",
       "description": "Johnny and Tyler discuss the emerging market of aftermarket reproductions: games that get legally republished for their original platforms. What new ones are out there, how does it affect retro collecting, and the ever important \"Do they count!?\".",
       "path": "episodes/cq-083-sc-388300934.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 10884,
       "video_urls": [],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "recfWBE72xNBEYAQR",
+          "publisher_url": "https://soundcloud.com/collectors-quest/episode-83-aftermarket-reproductions-the-legal-kind",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/episode-83-aftermarket-reproductions-the-legal-kind",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
       "topic_leads": [
-        "prices-and-the-market"
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "research-and-documentation",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "buying-selling-and-conventions"
       ]
     },
     {
@@ -6255,12 +7587,26 @@
       "duration": "00:48:01",
       "description": "I talk to Steve Torres about what it takes to make a gaming convention and what is happening at Retro City Festival",
       "path": "episodes/cq-082-sc-381157055.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 9161,
       "video_urls": [],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "reciyyLfVVxqKyQ45",
+          "publisher_url": "https://soundcloud.com/collectors-quest/episode-82-building-a-retro-gaming-convention-retro-city-festival-2018",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/episode-82-building-a-retro-gaming-convention-retro-city-festival-2018",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
       "topic_leads": [
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
         "buying-selling-and-conventions"
       ]
     },
@@ -6275,12 +7621,29 @@
       "duration": "01:12:40",
       "description": "Kat, Tyler, and I go over the wacky year that was 2017.",
       "path": "episodes/cq-081-sc-378768386.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 14470,
       "video_urls": [],
-      "transcript_sources": [],
-      "topic_leads": []
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "recq7rchARK2yWGvZ",
+          "publisher_url": "https://soundcloud.com/collectors-quest/video-game-collectors-2017-recap",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/video-game-collectors-2017-recap",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
+      "topic_leads": [
+        "prices-and-the-market",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "buying-selling-and-conventions"
+      ]
     },
     {
       "key": "sc-362816366",
@@ -6293,12 +7656,27 @@
       "duration": "00:51:53",
       "description": "We're talking Mario games: Collectible Mario games, good Mario games, bad Mario games, and the nature of what a Mario game even is.",
       "path": "episodes/cq-080-sc-362816366.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 9682,
       "video_urls": [],
-      "transcript_sources": [],
-      "topic_leads": []
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "recr9apHoBx5cBVPj",
+          "publisher_url": "https://soundcloud.com/collectors-quest/episode-80-mario-games",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/episode-80-mario-games",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
+      "topic_leads": [
+        "variants-and-completeness",
+        "nintendo",
+        "pc-and-obscure-platforms",
+        "buying-selling-and-conventions"
+      ]
     },
     {
       "key": "sc-355496906",
@@ -6311,13 +7689,25 @@
       "duration": "00:33:08",
       "description": "Tyler and I talk about the price spike and dip that happens during the holidays, and why it happens. Also White Jesus, and a Final Fantasy Porn game. We went off the rails a bit, enjoy.",
       "path": "episodes/cq-079-sc-355496906.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 6041,
       "video_urls": [],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "rec6GcfWeDUfFhLDa",
+          "publisher_url": "https://soundcloud.com/collectors-quest/episode-79-holiday-price-spike-and-dip",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/episode-79-holiday-price-spike-and-dip",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
       "topic_leads": [
-        "prices-and-the-market"
+        "prices-and-the-market",
+        "nintendo",
+        "buying-selling-and-conventions"
       ]
     },
     {
@@ -6331,13 +7721,29 @@
       "duration": "00:49:55",
       "description": "Halloween Games That Came With Cool Pack In Items",
       "path": "episodes/cq-078-sc-349518307.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 9462,
       "video_urls": [],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "recLOzw98N1ITVMax",
+          "publisher_url": "https://soundcloud.com/collectors-quest/episode-78-halloween-games-that-came-with-cool-pack-in-items",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/episode-78-halloween-games-that-came-with-cool-pack-in-items",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
       "topic_leads": [
-        "halloween-and-horror"
+        "prices-and-the-market",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "buying-selling-and-conventions"
       ]
     },
     {
@@ -6351,12 +7757,27 @@
       "duration": "00:20:15",
       "description": "Tyler and I do an brief retrospective on Scooby Doo Games",
       "path": "episodes/cq-077-sc-347109412.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 3998,
       "video_urls": [],
-      "transcript_sources": [],
-      "topic_leads": []
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "recKMSsqACSOwyxIl",
+          "publisher_url": "https://soundcloud.com/collectors-quest/episode-77-scooby-doo-console-game-retrospective",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/episode-77-scooby-doo-console-game-retrospective",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
+      "topic_leads": [
+        "variants-and-completeness",
+        "nintendo",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms"
+      ]
     },
     {
       "key": "sc-346021102",
@@ -6369,13 +7790,28 @@
       "duration": "00:44:41",
       "description": "We chat about family friendly Halloween games",
       "path": "episodes/cq-076-sc-346021102.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 8943,
       "video_urls": [],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "recm29zfZ67FWh8Cw",
+          "publisher_url": "https://soundcloud.com/collectors-quest/episode-76-family-friendly-halloween-games",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/episode-76-family-friendly-halloween-games",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
       "topic_leads": [
-        "halloween-and-horror"
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "buying-selling-and-conventions"
       ]
     },
     {
@@ -6389,12 +7825,31 @@
       "duration": "01:02:29",
       "description": "Tyler and I discuss the most and least expensive systems to collect for",
       "path": "episodes/cq-075-sc-343883458.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 12950,
       "video_urls": [],
-      "transcript_sources": [],
-      "topic_leads": []
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "rec2pjc6RWMwxIM2n",
+          "publisher_url": "https://soundcloud.com/collectors-quest/episode-75-most-and-least-expensive-system-to-collect-for",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/episode-75-most-and-least-expensive-system-to-collect-for",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
+      "topic_leads": [
+        "collecting-goals-and-psychology",
+        "prices-and-the-market",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "buying-selling-and-conventions"
+      ]
     },
     {
       "key": "sc-343014330",
@@ -6407,13 +7862,29 @@
       "duration": "00:36:42",
       "description": "Kat, Tyler, and I go through words people commonly use when trying to sell games for more than market value. These Terms add no real value, it's just marketing speak to make their item stand out in a sea of similar choices.",
       "path": "episodes/cq-074-sc-343014330.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 6687,
       "video_urls": [],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "rechhjamT1TXTe9FI",
+          "publisher_url": "https://soundcloud.com/collectors-quest/episode-74-words-and-phrases-that-shouldnt-make-games-more-expensive",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/episode-74-words-and-phrases-that-shouldnt-make-games-more-expensive",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
       "topic_leads": [
-        "prices-and-the-market"
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "pc-and-obscure-platforms",
+        "buying-selling-and-conventions"
       ]
     },
     {
@@ -6427,12 +7898,24 @@
       "duration": "00:14:22",
       "description": "Another New Host, Tyler Joins The Fray - In this quick cast Kat and I introduce you to our newest host Tyler.",
       "path": "episodes/sc-341839781.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 2911,
       "video_urls": [],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "rec4CcCbNmRsicN39",
+          "publisher_url": "https://soundcloud.com/collectors-quest/microcast-7-another-new-host-tyler-joins-the-fray",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/microcast-7-another-new-host-tyler-joins-the-fray",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
       "topic_leads": [
+        "nintendo",
+        "sega",
         "show-history-and-format"
       ]
     },
@@ -6447,13 +7930,25 @@
       "duration": "00:10:53",
       "description": "I answer some questions that i have received over the past 3 weeks\n\nHow to Collect without a plan\nThoughts on VGA \nGames I Owned That Were Destroyed",
       "path": "episodes/sc-339952693.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 2069,
       "video_urls": [],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "rec8XZEWYxchkwwJl",
+          "publisher_url": "https://soundcloud.com/collectors-quest/microcast-6-being-an-opportunistic-buyer-thoughts-on-vga-and-games-that-were-destroyed",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/microcast-6-being-an-opportunistic-buyer-thoughts-on-vga-and-games-that-were-destroyed",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
       "topic_leads": [
         "prices-and-the-market",
+        "nintendo",
+        "playstation-and-xbox",
         "show-history-and-format"
       ]
     },
@@ -6468,13 +7963,25 @@
       "duration": "00:14:05",
       "description": "Some quick tips if you are thinking about collecting for the Nintendo DS",
       "path": "episodes/sc-338793329.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 2627,
       "video_urls": [],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "recQoen9A8kOJthwb",
+          "publisher_url": "https://soundcloud.com/collectors-quest/microcast-5-collecting-tips-for-the-nintendo-ds",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/microcast-5-collecting-tips-for-the-nintendo-ds",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
       "topic_leads": [
         "nintendo",
+        "playstation-and-xbox",
+        "buying-selling-and-conventions",
         "show-history-and-format"
       ]
     },
@@ -6489,12 +7996,26 @@
       "duration": "00:36:14",
       "description": "(Warning, Clipped Audio) \nKat and I go over some general collecting Tips, good for both new and established collectors",
       "path": "episodes/cq-073-sc-337784076.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 6987,
       "video_urls": [],
-      "transcript_sources": [],
-      "topic_leads": []
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "recPkbQouisA0auYP",
+          "publisher_url": "https://soundcloud.com/collectors-quest/episode-73-collecting-tips",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/episode-73-collecting-tips",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
+      "topic_leads": [
+        "prices-and-the-market",
+        "nintendo",
+        "buying-selling-and-conventions"
+      ]
     },
     {
       "key": "sc-335752880",
@@ -6507,12 +8028,27 @@
       "duration": "00:35:37",
       "description": "Kat I and Discuss Gaming Vs Collecting and what the differences are if any.",
       "path": "episodes/cq-072-sc-335752880.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 6669,
       "video_urls": [],
-      "transcript_sources": [],
-      "topic_leads": []
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "recCQxHDkCJwvXSNR",
+          "publisher_url": "https://soundcloud.com/collectors-quest/episode-72-gaming-vs-collecting",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/episode-72-gaming-vs-collecting",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
+      "topic_leads": [
+        "prices-and-the-market",
+        "nintendo",
+        "playstation-and-xbox",
+        "buying-selling-and-conventions"
+      ]
     },
     {
       "key": "sc-334716969",
@@ -6525,12 +8061,28 @@
       "duration": "00:24:29",
       "description": "I use my experience completing a full US Harry Potter set to go over what it is like to collect for modern systems, I talk about some pitfalls and things to be aware of. This podcast is also good for anyone wondering what it is like to complete sets or subsets in general.",
       "path": "episodes/cq-071-sc-334716969.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 4238,
       "video_urls": [],
-      "transcript_sources": [],
-      "topic_leads": []
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "rec18UnLljOWylYWH",
+          "publisher_url": "https://soundcloud.com/collectors-quest/ep-71-collecting-for-modern-sytems-and-completing-sets",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/ep-71-collecting-for-modern-sytems-and-completing-sets",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
+      "topic_leads": [
+        "variants-and-completeness",
+        "research-and-documentation",
+        "nintendo",
+        "playstation-and-xbox",
+        "buying-selling-and-conventions"
+      ]
     },
     {
       "key": "sc-333677222",
@@ -6543,13 +8095,24 @@
       "duration": "00:09:57",
       "description": "I talk through some phrases and words used in the video game collecting community - Rare, CIB, Complete, Grail, and give some perspective",
       "path": "episodes/sc-333677222.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 1809,
       "video_urls": [],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "recPYhms6kK3f8YbC",
+          "publisher_url": "https://soundcloud.com/collectors-quest/microcast-4-what-does-rare-mean",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/microcast-4-what-does-rare-mean",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
       "topic_leads": [
         "variants-and-completeness",
+        "prices-and-the-market",
         "show-history-and-format"
       ]
     },
@@ -6564,13 +8127,26 @@
       "duration": "00:40:56",
       "description": "Kat and I discuss the SNES Classic and how we did on predicting what would be on it.",
       "path": "episodes/cq-070-sc-331340147.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 7764,
       "video_urls": [],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "recWo6IlqZjInzS5j",
+          "publisher_url": "https://soundcloud.com/collectors-quest/snes-classic-announced",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/snes-classic-announced",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
       "topic_leads": [
-        "nintendo"
+        "prices-and-the-market",
+        "halloween-and-horror",
+        "nintendo",
+        "show-history-and-format"
       ]
     },
     {
@@ -6584,13 +8160,26 @@
       "duration": "00:14:42",
       "description": "I give my thoughts on the recent price fluctuations in the Video Game market.",
       "path": "episodes/sc-330642981.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 2307,
       "video_urls": [],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "rechHoA4xPQFLtc4C",
+          "publisher_url": "https://soundcloud.com/collectors-quest/microcast-3-is-the-video-game-bubble-bursting",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/microcast-3-is-the-video-game-bubble-bursting",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
       "topic_leads": [
         "prices-and-the-market",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
         "show-history-and-format"
       ]
     },
@@ -6605,13 +8194,25 @@
       "duration": "00:11:05",
       "description": "If you are going to collect for the Switch, I tell you a few games to target.",
       "path": "episodes/sc-330140327.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 1976,
       "video_urls": [],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "recwP9SZoGtmHX55Y",
+          "publisher_url": "https://soundcloud.com/collectors-quest/microcast-2",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/microcast-2",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
       "topic_leads": [
+        "variants-and-completeness",
         "nintendo",
+        "pc-and-obscure-platforms",
         "show-history-and-format"
       ]
     },
@@ -6626,12 +8227,24 @@
       "duration": "00:11:02",
       "description": "What is a MicroCast and What System Had the Best Game Boxes?",
       "path": "episodes/sc-329452908.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 1971,
       "video_urls": [],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "rec4jNnOKd2JVCXGo",
+          "publisher_url": "https://soundcloud.com/collectors-quest/microcast-1-what-is-a-microcast-and-what-system-had-the-best-game-boxes",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/microcast-1-what-is-a-microcast-and-what-system-had-the-best-game-boxes",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
       "topic_leads": [
+        "nintendo",
+        "sega",
         "show-history-and-format"
       ]
     },
@@ -6646,12 +8259,27 @@
       "duration": "00:33:28",
       "description": "On this episode Kat and I answer the question \" Which Pirate Games Arrrrr Worth Collecting?\" and how much they cost.",
       "path": "episodes/cq-069-sc-325161433.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 5979,
       "video_urls": [],
-      "transcript_sources": [],
-      "topic_leads": []
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "recaXrOO0ABieZr2i",
+          "publisher_url": "https://soundcloud.com/collectors-quest/episode-69-what-pirate-games-arrr-worth-collecting",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/episode-69-what-pirate-games-arrr-worth-collecting",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
+      "topic_leads": [
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms"
+      ]
     },
     {
       "key": "sc-324062056",
@@ -6664,13 +8292,28 @@
       "duration": "00:47:53",
       "description": "Is it a good time to collect for the Wii-U? \n\nWhat games should you look out for, and how much do they cost, all this and more",
       "path": "episodes/cq-068-sc-324062056.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 8241,
       "video_urls": [],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "recdHEjHo4mk7xnaW",
+          "publisher_url": "https://soundcloud.com/collectors-quest/episode-68-is-it-a-good-time-to-collect-for-the-wii-u",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/episode-68-is-it-a-good-time-to-collect-for-the-wii-u",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
       "topic_leads": [
-        "nintendo"
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "nintendo",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "buying-selling-and-conventions"
       ]
     },
     {
@@ -6684,12 +8327,26 @@
       "duration": "00:42:45",
       "description": "Kat and I go back and forth about the N64, I also tell you why I Best Buy really grinds my gears",
       "path": "episodes/cq-067-sc-321699918.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 8172,
       "video_urls": [],
-      "transcript_sources": [],
-      "topic_leads": []
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "recP8CRVDrNsr7lZ7",
+          "publisher_url": "https://soundcloud.com/collectors-quest/is-the-n64-garbage",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/is-the-n64-garbage",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
+      "topic_leads": [
+        "halloween-and-horror",
+        "nintendo",
+        "playstation-and-xbox"
+      ]
     },
     {
       "key": "sc-320301722",
@@ -6702,14 +8359,26 @@
       "duration": "00:29:04",
       "description": "Kat and I discuss if Collecting is Slowing Down, what does that mean for the price of games and how people buy them. We also chat about the demise of the NES Classic",
       "path": "episodes/cq-066-sc-320301722.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 5523,
       "video_urls": [],
-      "transcript_sources": [],
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "recOpDLJ2gE2l8uH0",
+          "publisher_url": "https://soundcloud.com/collectors-quest/episode-66-nes-classic-discontinued-collecting-slowing-down",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/episode-66-nes-classic-discontinued-collecting-slowing-down",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
       "topic_leads": [
         "prices-and-the-market",
-        "nintendo"
+        "nintendo",
+        "pc-and-obscure-platforms",
+        "buying-selling-and-conventions"
       ]
     },
     {
@@ -6723,12 +8392,30 @@
       "duration": "00:50:14",
       "description": "Kat and I discuss pornography in video games and if these types of games are collectible",
       "path": "episodes/cq-065-sc-317200139.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 9031,
       "video_urls": [],
-      "transcript_sources": [],
-      "topic_leads": []
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "recosbZXpVlqydZ4q",
+          "publisher_url": "https://soundcloud.com/collectors-quest/episode-65-pornography-in-video-games",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/episode-65-pornography-in-video-games",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
+      "topic_leads": [
+        "prices-and-the-market",
+        "halloween-and-horror",
+        "nintendo",
+        "sega",
+        "playstation-and-xbox",
+        "pc-and-obscure-platforms",
+        "buying-selling-and-conventions"
+      ]
     },
     {
       "key": "sc-314662990",
@@ -6741,12 +8428,27 @@
       "duration": "00:49:59",
       "description": "Kat and I tell you a few reasons your games might not be worth what you think they are,",
       "path": "episodes/cq-064-sc-314662990.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 9599,
       "video_urls": [],
-      "transcript_sources": [],
-      "topic_leads": []
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "recYa1zvAf5o0j4Km",
+          "publisher_url": "https://soundcloud.com/collectors-quest/episode-64-8-reasons-your-games-arent-worth-what-you-think",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/episode-64-8-reasons-your-games-arent-worth-what-you-think",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
+      "topic_leads": [
+        "prices-and-the-market",
+        "research-and-documentation",
+        "nintendo",
+        "buying-selling-and-conventions"
+      ]
     },
     {
       "key": "sc-312110264",
@@ -6759,12 +8461,28 @@
       "duration": "00:43:07",
       "description": "Kat and I talk to @Jaybaam about his amazing collection and the charity event he is hosting for Brooklynn, a six year-old fighting liver cancer. Please follow the links in Jay's IG account to help.",
       "path": "episodes/cq-063-sc-312110264.md",
-      "transcript_status": "missing",
+      "transcript_status": "available",
       "analysis_status": "not closely analyzed",
-      "transcript_words": 0,
+      "transcript_words": 8539,
       "video_urls": [],
-      "transcript_sources": [],
-      "topic_leads": []
+      "transcript_sources": [
+        {
+          "kind": "airtable",
+          "record_id": "recW1Qn06gVQhnDz0",
+          "publisher_url": "https://soundcloud.com/collectors-quest/episode-63-interview-with-jaybaam-and-helping-brooklynn",
+          "method": "User-provided archive transcript attachment"
+        }
+      ],
+      "primary_transcript_source": "https://soundcloud.com/collectors-quest/episode-63-interview-with-jaybaam-and-helping-brooklynn",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "capture_check": "Full attachment text captured; untimed source completeness not independently verified",
+      "topic_leads": [
+        "variants-and-completeness",
+        "prices-and-the-market",
+        "nintendo",
+        "sega",
+        "pc-and-obscure-platforms"
+      ]
     },
     {
       "key": "sc-311116645",
@@ -8597,7 +10315,7 @@
       "description": "In this episode we talk about video game conventions",
       "path": "episodes/cq-007-sc-234461881.md",
       "transcript_status": "available",
-      "analysis_status": "selected passages studied",
+      "analysis_status": "one full captured transcript read",
       "transcript_words": 5918,
       "video_urls": [],
       "transcript_sources": [
@@ -8663,9 +10381,9 @@
   "coverage": {
     "publisher_entries": 316,
     "combined_entries": 316,
-    "transcripts_available": 116,
-    "transcripts_missing": 200,
-    "transcript_words": 2201285,
+    "transcripts_available": 205,
+    "transcripts_missing": 111,
+    "transcript_words": 3920364,
     "numbered_episodes_not_in_inventory": [
       1,
       2,
@@ -8676,6 +10394,121 @@
       "263": 2,
       "219": 2
     },
-    "unmatched_transcript_sources": []
+    "unmatched_transcript_sources": [],
+    "regular_numbered_episodes_in_inventory": 296,
+    "regular_numbered_episodes_with_transcripts": 194,
+    "regular_numbered_episode_transcript_gaps": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      154,
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210,
+      211,
+      212,
+      213,
+      214,
+      215,
+      216,
+      217,
+      218,
+      219,
+      220,
+      221,
+      223,
+      224,
+      225,
+      226,
+      227,
+      228,
+      229,
+      230,
+      231,
+      232,
+      233,
+      234,
+      235,
+      237,
+      238
+    ],
+    "primary_transcript_sources": {
+      "YouTube captions": 104,
+      "local audio transcription": 1,
+      "Airtable attachment": 100
+    }
   }
 }

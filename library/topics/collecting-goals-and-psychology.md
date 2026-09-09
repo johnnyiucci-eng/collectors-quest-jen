@@ -13,12 +13,13 @@ Search terms: collecting goals, empty slot, sunk cost, collecting sets, full set
 
 ## [Episode 89 - Collecting The Full Set of 3DO Games with Industry Veteran Stephan Reese](../episodes/cq-089-sc-419958968.md)
 
-2018-03-26 · Title or publisher description match · Transcript missing
+2018-03-26 · Title or publisher description match · Transcript available
 
+- Untimed passage: the thing about 3DO, the 3DO market is super, super squishy because there’s not a lot of people who collect for it. Yeah, there’s no base. Yeah, you can’t solidify a market. So you’ll see a game go for $50 one day and $200 the next day and $25 the next day because there’s just not that you would see that kind of sale, three of them back t…
 
 ## [Episode 96 - Is It Better To Collect The Most Expensive Games First?](../episodes/cq-096-sc-466143843.md)
 
-2018-07-02 · Title or publisher description match · Transcript missing
+2018-07-02 · Title or publisher description match · Transcript available
 
 
 ## [Episode 141 - All Your Video Game Lists Are Bad](../episodes/cq-141-sc-797285986.md)
@@ -74,6 +75,20 @@ Search terms: collecting goals, empty slot, sunk cost, collecting sets, full set
 - Untimed passage: probably 20 or 30 games away from a full set but what dawned on me was you know the one the quality of the games just wasn’t there and and like I said earlier I’m a gamer first in a collector second so owning all this cool stuff was was great but I wasn’t playing any of it and I kind of got this illusion with like trying to spend big mone…
 - Untimed passage: and everything back into the story like it’s it’s fun to collect on a budget because one of the things I tried to do before I really jumped in and said instead of just picking up a couple games I’m gonna go for a full set I wanted to research and say what is the most expensive game on this system and let’s go from there it’s changed since…
 
+## [Episode 75 - Most and Least Expensive System to Collect For](../episodes/cq-075-sc-343883458.md)
+
+2017-09-25 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: rough introduction. Probably could polish that up, but I didn’t. Sorry. Anyways, Tyler is here with us. He is our new host. Cat has not gone anywhere. I mean, she’s not here, but she’s still part of the cast. And now there’s three of us. So we can get more casts out more reliably. That was my solution to that problem. So Tyler is here and…
+- Untimed passage: have a full Pico set. All right, I just need to get that out there. Great. I do. I do have a full Pico set. It was the last Sega set I completed. Okay. Do you actually have a full set of every Sega game? Every console game. I don’t have a full Game Gear set. I’m a few off from Game Gear. Well, maybe that will come up in the data today. Ma…
+
+## [Episode 94 - Our Top Pet Peeves With Collecting Video Games](../episodes/cq-094-sc-450425988.md)
+
+2018-05-28 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: of my house. Like I have, I need all the room. I can get back. Anyway, I just, I just, I just give a bunch of stuff away because I’m dying here too. Yep. What’s your next one? So it’s again, I like, I like combining a bunch of things and just talking about a general concept. So it’s lists of games, the concept of full sets of games. And a…
+- Untimed passage: that. But I see what you mean. Because if you want to go into it, it’s like, okay, you’ve got every revision, every variant, everything. All right. So are we looking at chips? Do you have the MX chips and the, you know, the Samsung chips? We’re looking at the boards. Oh, you got the Samsung battery and the Duracell battery in there. All r…
+
 ## [Episode 142 - Organic Collectibility vs. Manufactured Collectibility](../episodes/cq-142-sc-812478658.md)
 
 2020-05-03 · Multiple transcript paragraph matches · Transcript available
@@ -123,6 +138,48 @@ Search terms: collecting goals, empty slot, sunk cost, collecting sets, full set
 - 00:17:54: only made you know a few thousand of them I guess it makes me feel bad but I don't know it like I also at the same time like I don't care cuz I know that both not everyone could get one but also there's so many them that they're never going to be rare so it's just kind of this thing that's floating out in ether that I can just never care…
 - 00:21:03: well no they're not making more like I think there's going to be like one more V or two more Vita releases for like ones that were kickstarters that's still coming out but I think they stopped making the shells in the US was the problem got it but uh we'll see like my point is that some of those games there is only like two or 3,000 are t…
 
+## [Episode 162 - Collector's Questions #1](../episodes/cq-162-sc-1012183996.md)
+
+2021-03-21 · Multiple transcript paragraph matches · Transcript available
+
+- 00:10:31: this question comes from peaceful games what's something region system other category that or you know that he didn't think of that you'd like to collect for but you don't because it's too hard or expensive or whatever your reason is so what's something that you don't collect but you you wish you were go ahead what no I'm I have to think…
+- 00:25:17: in the younger version of the of the show she is way too old to be hanging out with those kids um and that's and there's just like some implied grossness and then like uh in the newer shows like the CG show Donatello is actively like in canon in love with her although she is she is aged down a little bit the best Ninja Turtle but uh yeah…
+
+## [Episode 165 - What happens if all our physical Playstation games become coasters?](../episodes/cq-165-sc-1035655783.md)
+
+2021-04-24 · Multiple transcript paragraph matches · Transcript available
+
+- 00:36:52: it's worth twice as what it was two months ago um but that everything right now so yeah like you know the the joke used to be and I would make when people would say oh when was the best time to get in collecting I'm like oh well you know yesterday well the past years ago that was always the best time but now like I used to say years but n…
+- 01:15:12: thing yeah I think I actually didn't there was a $2,000 sale on one but I think I only paid uh 800 so yeah I paid like 550 something like that yeah it's going down um Le going to zero guys went down well I mean there was a time when those like those bundles were sold and I told you to First buy them and you were like no I don't care about…
+
+## [Episode 170 - E3 and Summer Announcements for Game Collectors](../episodes/cq-170-sc-1075203214.md)
+
+2021-06-24 · Multiple transcript paragraph matches · Transcript available
+
+- 00:07:34: the 40 somethings and I'm like it looks okay and then I got the notification like there's 16 hours left in this Kickstarter for this Nintendo game that's never going to have a release anywhere else again and I'm like damn I'll just buy it I'll buy it $65 I'll never see again for this game I'm not that interested in I get caught up in the…
+- 00:32:26: base for the oon games I'm just not I look I'm not saying like I bought the Blaster Master games uh it's not impossible I'm on the fence on those like I heard that the second one is better than the first one and I thought the first one was like ah pretty good so uh like the first one was just a straight remake of blaster Master with a ton…
+
+## [Episode 172 - Who's Buying Million Dollar Mario 64s?](../episodes/cq-172-sc-1089797359.md)
+
+2021-07-18 · Multiple transcript paragraph matches · Transcript available
+
+- 00:46:38: pop reports are going to be very good for the hobby uh because PSA and cgc have been in business for decades NGC all these grading companies and wada has three years they've been in business essentially two years has been when things have been going crazy and they have a small handful of graders there like these grading companies are not…
+- 01:05:50: woo um there was an episode we did back in the day called is the N64 garbage and spoiler alerts the answer is yes it's still yes I don't care if you paid a million dollars for some games it's still a trash system with a bad controller with bad games go you're like oh but these games and you can like sit there and be like Mario party it's…
+
+## [Episode 173 - You've completed "The Set". What now?](../episodes/cq-173-sc-1097970775.md)
+
+2021-08-01 · Multiple transcript paragraph matches · Transcript available
+
+- 00:35:20: but the more you can do as you're going it I mean it is a a hidden cost that hits you at the end when you're just like I mean I did the Super Nintendo set and I had a lot but then like they didn't all fit on the shelves because as I was collecting them uh you know I mapped at my shelves before box protectors were you know quite the thing…
+- 00:47:03: uh a good a good stuff collector the better approach um I believe the word back in the day was a dank collector Johnny okay cool um great thanks Tyler for that Insight uh Tyler do you have any other response to that what else you got but yeah I I don't have a response to CU because selling games is for crazy people when you could just acq…
+
+## [CQ 178 - Documenting Compulsive Collectors with Director Edward Payson](../episodes/cq-178-sc-1136138623.md)
+
+2021-10-05 · Multiple transcript paragraph matches · Transcript available
+
+- 00:06:23: no rhy or Reason and started collecting things from my childhood but then I kind of specifically focused on Sega Genesis and uh decided I want to have the whole Sega Genesis collection and of course that morphs over time because as many of you who have um you know a lot of collections you probably get bored collecting the same thing there…
+- 01:00:26: he's collecting Sega Genesis games Johnny instead of NES which we all know is what he should be collecting don't don't you have a full set of Genesis games hasn't everybody on this Genesis games if Tyler if you're only collecting uh NES you can give me that um uh what what is it Outback Joey if you don't want anymore nope I need everythin…
+
 ## [CQ 236 - A Conversation for New Game Collectors](../episodes/cq-236-sc-1674664860.md)
 
 2023-11-26 · Multiple transcript paragraph matches · Transcript available
@@ -130,19 +187,54 @@ Search terms: collecting goals, empty slot, sunk cost, collecting sets, full set
 - 00:16:21: like that's this is just manufactured collectibility uh manufactured Rarity no one cares about it there's no demand like the demand is because people fomo and are into that but long term I don't know if that holds up also the Advent of collectors edition ver versus just normal editions of games kind of came out and drove some some of that…
 - 01:58:27: copies now 91 known copies traditionally like one of the rarest and most desirable Nintendo cartridges seen as a holy grail of video game collecting multiple copies come up for sale every year now uh new ones are still found like the even something as rare as that that was handmade like there's a bunch of them they come up for sale uh alm…
 
-## [CQ 252 - sharks](../episodes/cq-252-sc-1878380403.md)
+## [CQ 240 - Old Men Complain About Collecting Rereleases, Reissues, and Rehashes](../episodes/cq-240-sc-1724575866.md)
 
-2024-07-22 · Multiple transcript paragraph matches · Transcript available
+2024-01-22 · Multiple transcript paragraph matches · Transcript available
 
-- Untimed passage: a bathroom, please continue to do so. Um, anyways, that’s it for shark episodes. We can, we can move on to the next part of the episode. Tyler, we did it. We did a shark episode. Thank you for indulging me. I certainly have indulged you. Uh, I’m so back down. So, the episode is, is Jaws Unleashed cause it’s a unique-ish game. I realized m…
-- Untimed passage: That’s how I respond. I collect a lot of dumb stuff. So if I’m feeling video game burnout, which does happen, I just move on to one of my other hobbies for a little while until something grabs me. And then nice thing about doing the podcast is we’re not, we don’t, we’re like not bound to some like company that’s telling us what we have to…
+- 01:25:54: again when you get into things like full set collecting like you are spending so much money already that like why are you taking shortcuts yeah so here here's my biggest beef with zero the comicazi squirrels really is it says forever physical on the cart and on the box it's like clearly like can limited run just please [ __ ] drop this sl…
+- 02:09:18: look if you are just a big fan and you like playing them sure don't like again don't let us tell you what to do um but if you if you are thinking that oh man I'm getting this and you know I'm really getting value I'm like I If You Feel Like H I'm really getting some sweet collectible value or I'm saving money the that is those are the two…
+
+## [CQ 243 - The Best Non-Game VG Collectibles](../episodes/cq-243-sc-1768443759.md)
+
+2024-03-07 · Multiple transcript paragraph matches · Transcript available
+
+- 00:44:54: I think are cool the 198 82 World's Fair tokens so 4 same time dve Busters came out 43 years after that Nim champ token there was a World's Fair in Tennessee I think and there was this set of seven tokens that they made because guess what in 1982 they were like technology video games look at all this cool stuff and they had uh the tokens…
+- 01:11:22: something I just like it immediately if I see like multiple people telling me to buy something the last thing I really remember this was uh uh I saw a bunch of people buying like Wii U copies of breath of the Wild on Amazon saying that they were a good investment because of course Wii U is going to be the next Sega Saturn um but I remembe…
+
+## [CQ 245 - Games Are Affordable When You Don't Buy Nonsense](../episodes/cq-245-sc-1800725035.md)
+
+2024-04-14 · Multiple transcript paragraph matches · Transcript available
+
+- 01:04:55: considering it's the rarest PS2 game but are you just into survival horror and like do you have an alone in the dark do you have a longbox Resident Evil like where where are you at your point in your survival horror or PS2 Journey where you decided yeah $600 on rule of Rose is the next thing I should buy because if it's that rare if it's…
+- 01:26:17: not I I can't do it anymore but I love seeing it I love the people who are driven and I One Day D I hope to be drugg into another set I hope something grabs my interest so hard that I'm like yeah I need to go buy 2,000 games PS4 I'm looking at you all right that let me let me uh let me talk to my people for a second Johnny the people who…
 
 ## [CQ 254 - The Greatest Greatest Hits](../episodes/cq-254-sc-1900282944.md)
 
 2024-08-19 · Multiple transcript paragraph matches · Transcript available
 
-- Untimed passage: have the best Nintendo games over trash? - Yeah, no, I’m just curious. Just like, if we’re gonna recommend something, it’s like, okay, it’s like, you could, if you went and bought this set, at least you would have all these good games. And like, I feel like that’s true of Super Nintendo and N64 and Game Boy, PS1, you’re just like, oh, I h…
-- Untimed passage: felt like they were getting a really good deal. - Oh yeah, yeah, I could definitely tell. Yeah, ’cause this is the kind of thing where like, if it just never comes up and like something comes up for $100, I’m like, oh my God, finally. I don’t have to bid against someone. - This was a best offer and it doesn’t indicate that the best offer…
+- 00:17:12: if you count variants for the PS2 I man so I know like there's a couple people out there who really like collecting these like you're asking me like oh which would you rather collect the full set of and like the answer is still neither I think hunting like the rare the rare ones is really interesting but even if I was hunting the rare one…
+- 00:50:16: best offer for that and then in eBay solds it will still show the full price yep you would have never paid $125 for it you'd have been like who's who's looking for super mono GP Mega hit series anymore I'm going to offer this guy 75 I might have yeah and I probably would have been sad but I have my copy still so I'm good all right I I I'm…
+
+## [CQ 260 - CQ Before Dark](../episodes/cq-260-sc-1955770679.md)
+
+2024-11-12 · Multiple transcript paragraph matches · Transcript available
+
+- 00:11:48: will do that cuz it's a lot easier to do that than to actually hunt for a complete and box cardboard game worth grading yeah I I agree with that and I I'm sure that that's what they want I mean that's how they've built their model in comics I can't imagine that that's not what they're trying to get to yeah so guys get get way into those g…
+- 00:26:36: him like like one of the things I did he was going to see some friends today I'm like okay here's a way you can earn it be a good shareer bring your friends a pack of cards and then you'll earn an extra pack of cards for being a Shar good sharer and stuff so um you know I don't he's he's not going to he's going to get a full set of whatev…
+
+## [CQ 263 - 2024 recap (Old upload, broke on Spotify)](../episodes/cq-263-sc-1990205799.md)
+
+2024-12-19 · Multiple transcript paragraph matches · Transcript available
+
+- 00:26:34: things but there's no fomo for this you know in 2020 you know Sega Saturn was going crazy like everything else but there's no no you don't see that Panzer draon Saga for $900 and you're like oh man I got to get that before it's two grand you see it and you're like I don't know is that even going to hit two grand one day I don't think so y…
+- 01:38:32: Cosmic fantasy 2 say the words Cosmic fantasy in the Discord again so I could find you um okay you know what you know what limited run games have uh there is a thing right now if I was like uh a weird I'm not going to say weird cuz we're all weird um if I was like a panicky full set collector and I was collecting the PS VR set they have r…
+
+## [CQ 263 - A 2024 Market Recap for your Holiday Car Trip](../episodes/cq-263-sc-1993480675.md)
+
+2024-12-24 · Multiple transcript paragraph matches · Transcript available
+
+- 00:25:42: 39 and that again there's like loose disc prices but that's still very much up that's like a 25% increase from where it was so that that's still still pretty significant games overall are still up after all of that to look at uh just cuz you're looking at stupid loose prices to look at games that people actually care about uh Panzer draon…
+- 01:38:34: don't know Johnny someone cares about Cosmic fantasy 2 say the words Cosmic fantasy in the Discord again so I could find you um okay you know what you know what limited run games have uh there is a thing right now if I was like uh a weird I'm not going to say weird cuz we're all weird um if I was like a panicky full set collector and I wa…
 
 ## [CQ 265 - The $200 modern game situation is crazy](../episodes/cq-265-sc-2019478217.md)
 
