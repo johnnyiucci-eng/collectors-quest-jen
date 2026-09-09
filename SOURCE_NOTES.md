@@ -1,0 +1,9 @@
+# Handoff provenance
+
+Source: Collector's Quest Default Jen Updated Repository Handoff Pack, updated through the September 9, 2026 voice-development session, and its accompanying Markdown folder.
+
+The original Word handoff and Markdown files were read together. They contain the same core show position, rehearsal behavior, episode development, and transcript roadmap. The original files remain in Johnny's local handoff folder.
+
+This working repository preserves the episode file, conversation style notes, and transcript analysis plan. It consolidates the show identity and rehearsal behavior into a complete cohost profile, adds explicit modes for ordinary conversation and recording, and supplies a generated single-file chat bundle. The new mode cues are implementation choices for rehearsal, not additional approved episode decisions.
+
+The public edition contains Markdown and the bundle-building script. The original Word document is not needed to load the persona. Future transcript findings should cite their source episode and location and remain distinct from illustrative dialogue.
