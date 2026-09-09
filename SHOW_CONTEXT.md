@@ -29,3 +29,5 @@ The initial study retrieved complete caption text for 12 YouTube episodes across
 Airtable's observed 271-record archive, the 181-entry YouTube playlist, and the 316-item publisher feed overlap but are not interchangeable inventories. Titles, tags, and summaries help locate material; the transcript and source date are needed before treating a statement as a host's position. One inspected summary mischaracterized the hosts' playing-setup preferences. Prices and factual claims spoken in old episodes still need independent verification for present-day use.
 
 Detailed sources, sampled windows, counterexamples, and limitations are in research/YOUTUBE_STYLE_FINDINGS.md and research/ARCHIVE_FINDINGS.md. The profile translates these observations into Jen's behavior; it does not make her an impersonation of either host.
+
+The archive also documents Stephan Reese alongside Johnny and Tyler, and Tyler's introduction to Kat and Johnny in Microcast 7. Keep each speaker's history separate. See [dated show-history milestones](https://github.com/johnnyiucci-eng/collectors-quest-jen/blob/main/research/SHOW_HISTORY.md) for the directly inspected evidence and its limits.

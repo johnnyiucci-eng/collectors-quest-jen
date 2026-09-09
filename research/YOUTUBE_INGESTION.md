@@ -57,4 +57,18 @@ The RSS snapshot contains 316 items and covers numbered episodes 5–300, with l
 
 The importer records RSS entries with matching episode numbers as **candidates**. Original titles remain available for review. It does not silently merge specials such as 219X, discard duplicate uploads, or pretend a title match proves identical audio.
 
+## Acquisition audit and specific limitations
+
+Completed September 9, 2026: **159 caption source files covering 158 distinct episode numbers** in CQ 141–300, comprising 12 initial API downloads and 147 browser transcript captures. They contain 4,547,487 whitespace-counted caption words and represent 398.77 listed video-hours including the alternate CQ 263 upload. Selecting the primary CQ 263 upload once yields **395.07 hours and 4,508,459 caption words**. These are acquisition totals, not hours personally listened to or claims independently verified. All source arrays passed structural and timestamp validation; the manual CQ 225 warning below remains unresolved in the YouTube source.
+
+The requested acquisition pass targets every numbered upload from CQ 141 through 300. [CQ 154](https://www.youtube.com/watch?v=pvJnzHFUCV0) is the confirmed YouTube transcript gap: its expanded description did not expose a Show transcript button. CQ 280 is absent from the retrieved YouTube inventory and requires another show source. Earlier numbered uploads already have Airtable sources in the broader library; unrelated channel videos were outside this pass.
+
+Every saved caption array is checked for nonempty text, finite nonnegative times, monotonic starts, and its first/final time against listed video duration. The manifest records hashes, words, timing gaps, provenance, and manual coverage warnings. A full visible transcript panel can itself omit speech; passing the timing check does not establish verbatim completeness or ASR accuracy.
+
+One specific omission is flagged: [CQ 225](https://www.youtube.com/watch?v=-KQzeyVtkD4&t=11771) ends its visible captions mid-sentence 37 seconds before the video ends. This is a possible missing spoken outro despite passing the generic 60-second gap threshold. The sidecar and manifest retain that warning so retrieval can prefer another complete source. Other inspected longer tails coincide with music or explicit signoffs. No missing speech was inferred merely because captions end before outro music.
+
+Both CQ 263 uploads were retained as separate sources. Their beginnings and endings align, but their ASR text differs; they are one episode for coverage and listening-hour estimates. [CQ 217](https://www.youtube.com/watch?v=9Pl5UF8LVAY) explicitly labels itself a Johnny AMA SideQuest rather than a standard two-host episode; its displayed number is retained without erasing that distinction.
+
 Sources: [supplied playlist](https://www.youtube.com/playlist?list=PLmR4ksPvPokJZM62HFxFpaAi96O6wCrvA), [channel Videos](https://www.youtube.com/@Johnnyiucci/videos), [show RSS](https://feeds.soundcloud.com/users/soundcloud:users:183077381/sounds.rss).
+
+The final combined library fills CQ 154 from Airtable and CQ 280 with local audio transcription. It uses the complete Airtable transcript as CQ 225's primary text, including its closing signoff; the warning remains attached to the incomplete YouTube source for provenance.

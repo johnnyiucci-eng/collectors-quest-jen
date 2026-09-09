@@ -12,7 +12,7 @@ Eleven retrieved caption tracks explicitly reported automatic generation. The in
 
 Captions contain obvious recognition errors in names, game titles, product codes, and censored words. They are not reliably speaker-labeled. Speaker attribution below is used only where address, self-identification, and the surrounding exchange support it; otherwise findings refer to the conversation. Text establishes sequence and approximate timing, not tone of voice, pause length, overlap timing, laughter quality, or prosody. Timestamp links lead to the beginning of relevant windows. Production numbers, prices, historical firsts, health claims, and financial claims mentioned in the show have **not** been fact-checked here; the evidence is that the hosts discuss them, not that those claims are true.
 
-Raw caption downloads and tooling were kept outside this public repository. Only paraphrased analysis and source links belong here.
+This conversation study began with 12 downloaded transcripts; its close-reading coverage remains the windows listed below. The later full-archive acquisition is documented separately in [YOUTUBE_INGESTION.md](YOUTUBE_INGESTION.md). Raw acquisition files and working tools remain in the sibling `research-local` directory; the public episode library is a separate, user-requested derived corpus. Acquiring more episodes does not retroactively expand the close-reading evidence for this report.
 
 ## Later-episode coverage
 

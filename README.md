@@ -38,6 +38,7 @@ For direct file loading, use the [downloadable knowledge package](downloads/READ
 | [YouTube findings](research/YOUTUBE_STYLE_FINDINGS.md) | Twelve-episode study with timestamped evidence and coverage limits |
 | [Archive findings](research/ARCHIVE_FINDINGS.md) | Airtable and podcast inventory, transcript close reading, and summary-quality checks |
 | [Early archive findings](research/EARLY_ARCHIVE_FINDINGS.md) | Kat and Johnny's convention discussion and its relation to later collecting goals |
+| [Show-history milestones](research/SHOW_HISTORY.md) | Source-backed host introductions, formats, and the current transition |
 | [Audio transcription provenance](research/AUDIO_INGESTION.md) | SoundCloud-only coverage, local model settings, and quality limits |
 | [Single-file chat bundle](JEN_START_HERE.md) | Generated profile and Episode 001 for loading into a chat |
 | [Handoff provenance](SOURCE_NOTES.md) | What came from the original handoff and what was added |

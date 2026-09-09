@@ -156,6 +156,7 @@ def build_manifest(raw):
                         row["coverage_warnings"].append("Caption timing exceeds listed video duration by more than 10 seconds; verify metadata alignment")
                 if sidecar.exists():
                     row["provenance"] = read_json(sidecar)
+                    row["coverage_warnings"].extend(row["provenance"].get("coverage_warnings", []))
                 elif video_id in {"3EwIIu9_J_s", "7R-Dt60Cle4", "C0m5lrqLTy0", "e6fn8pThdIk", "GmWOpKRCJDw", "HYTX2pHgN7s", "KDKqbERZSxM", "KhDLQQNkZ7Y", "LpD2oLjRLsI", "MxNfxxvjn7M", "xdfcbOe1GX4", "zikFrekchMU"}:
                     row["provenance"] = {
                         "method": "Existing public YouTube transcript API download from September 9, 2026 research session",

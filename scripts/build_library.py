@@ -19,8 +19,8 @@ import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
 ITUNES = "{http://www.itunes.com/dtds/podcast-1.0.dtd}"
-REVIEWED = {7, 142, 146, 176, 204, 222, 236, 248, 252, 254, 271, 281, 288, 299, 300}
-FULLY_READ = {"sc-234461881", "sc-787918894", "sc-1878380403"}
+REVIEWED = {7, 89, 142, 146, 176, 204, 222, 236, 248, 252, 254, 271, 281, 288, 299, 300}
+FULLY_READ = {"sc-234461881", "sc-787918894", "sc-1878380403", "sc-341839781"}
 TOPICS = {
     "variants-and-completeness": ("Variants and completeness", ["variant", "insert", "complete in box", "cib", "first print", "greatest hits", "packaging", "reissue"]),
     "collecting-goals-and-psychology": ("Collecting goals and psychology", ["collecting goals", "empty slot", "sunk cost", "collecting sets", "full set", "burnout", "fomo", "collection envy"]),
@@ -176,9 +176,11 @@ def main():
         meta = read_json(source / (video_id + ".meta.json"), {})
         duration = meta.get("source_duration_seconds") or video.get("duration")
         coverage_check, last_end = caption_coverage(segments, duration)
+        if meta.get("coverage_warnings"):
+            coverage_check = "possible partial capture"
         blocks = caption_paragraphs(segments)
         total_words = sum(len(p.split()) for _, p in blocks)
-        match["transcript_sources"].append({"kind": "youtube", "url": video_url, "method": meta.get("method", "YouTube public caption retrieval"), "last_start_seconds": max(s["start"] for s in segments), "last_end_seconds": last_end, "source_duration_seconds": duration, "coverage_check": coverage_check, "segments": len(segments)})
+        match["transcript_sources"].append({"kind": "youtube", "url": video_url, "method": meta.get("method", "YouTube public caption retrieval"), "last_start_seconds": max(s["start"] for s in segments), "last_end_seconds": last_end, "source_duration_seconds": duration, "coverage_check": coverage_check, "coverage_warnings": meta.get("coverage_warnings", []), "segments": len(segments)})
         if total_words > match["transcript_words"]:
             match.update(transcript_status="available", transcript_words=total_words, primary_transcript_source=video_url, timing="YouTube caption timestamps")
             match["capture_check"] = coverage_check
@@ -249,7 +251,7 @@ def main():
         blocks = caption_paragraphs(segments)
         match["transcript_sources"].append({"kind": "local_audio", "url": record["source_url"], "method": record["method"], "audio_sha256": record.get("audio_sha256"), "source_duration_seconds": record.get("source_duration_seconds"), "last_end_seconds": last_end, "coverage_check": coverage_check, "quality": record.get("quality")})
         if match["transcript_status"] == "missing":
-            match.update(transcript_status="available", transcript_words=sum(len(p.split()) for _, p in blocks), primary_transcript_source=record["source_url"], timing="Machine-generated audio segment timestamps", capture_check=coverage_check, transcription_method=record["method"])
+            match.update(transcript_status="available", transcript_words=sum(len(p.split()) for _, p in blocks), primary_transcript_source=record["source_url"], timing="Machine-generated audio segment timestamps", capture_check=coverage_check, transcription_method=record["method"], transcription_quality=record.get("quality", "Machine-generated; not manually verified"))
             paragraphs[match["key"]] = blocks
 
     library = ROOT / "library"
@@ -265,7 +267,7 @@ def main():
         else:
             lines += [f"Source: {entry['primary_transcript_source']}", "", f"Timing: {entry['timing']}.", "", f"Capture check: {entry.get('capture_check', 'Not independently checked')}.", "", "Transcript wording may contain recognition errors, missing punctuation, or uncertain speaker attribution. Historical statements and prices are not current verified facts. Paragraph grouping is generated for navigation, not speaker labeling.", ""]
             if entry.get("transcription_method"):
-                lines += [f"Transcription method: {entry['transcription_method']}.", ""]
+                lines += [f"Transcription method: {entry['transcription_method']}.", "", f"Quality note: {entry['transcription_quality']}.", ""]
             for i, (seconds, paragraph) in enumerate(blocks, 1):
                 label = f"{stamp(seconds)}" if seconds is not None else f"Paragraph {i}"
                 lines += [f"### {label}", "", paragraph, ""]

@@ -104,6 +104,8 @@ Airtable's observed 271-record archive, the 181-entry YouTube playlist, and the 
 
 Detailed sources, sampled windows, counterexamples, and limitations are in research/YOUTUBE_STYLE_FINDINGS.md and research/ARCHIVE_FINDINGS.md. The profile translates these observations into Jen's behavior; it does not make her an impersonation of either host.
 
+The archive also documents Stephan Reese alongside Johnny and Tyler, and Tyler's introduction to Kat and Johnny in Microcast 7. Keep each speaker's history separate. See [dated show-history milestones](https://github.com/johnnyiucci-eng/collectors-quest-jen/blob/main/research/SHOW_HISTORY.md) for the directly inspected evidence and its limits.
+
 ---
 
 Source: `JOHNNY_COLLECTING_CONTEXT.md`

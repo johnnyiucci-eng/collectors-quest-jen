@@ -13,13 +13,17 @@ Search terms: research, document, database, spreadsheet, catalog, gamefaqs, nint
 
 ## [Episode 119 - So You Want to Collect for the Magnavox Odyssey 2](../episodes/cq-119-sc-627647898.md)
 
-2019-05-28 · Title or publisher description match · Transcript missing
+2019-05-28 · Title or publisher description match · Transcript available
 
+- Untimed passage: who have, you know, I have take care of my wife and my daughter, and Johnny has a brand new baby that he’s now sharing time with. And Tyler, you were traveling. You want to talk about that? That’s actually kind of interesting, I think. I went to Poland for work. I was given some training there to a team. And first, Poland is beautiful. I…
+- Untimed passage: when I was putting together our research list, I was like, "There can’t be that much Homebrew." And then I was like, "Oh, here’s a page of a significant number of Homebrew." Looking through it, I think it’s the... Some of them really painstakingly reproduce the aesthetic of the box art. So as far as things to... Well, I mean, we’ll cover…
 
 ## [Episode 133 - NintendoAge Shutdown and 6 Games with Pack-in Surprises](../episodes/cq-133-sc-709601617.md)
 
-2019-11-08 · Title or publisher description match · Transcript missing
+2019-11-08 · Title or publisher description match · Transcript available
 
+- Untimed passage: Hey welcome to episode 133 of the collector’s quest podcast. On this show we’re talking about the death of Nintendo Age, which I recognize a community for a particular type of collector, but also a very important resource for just about every Nintendo collector. We’re talking about more dumb iam8bit cards, it’s old news, but they’re our s…
+- Untimed passage: seamless transition. Something like that to that effect was promised and I understand Go Collect doesn’t give a s*** about the Nintendo Age forums. They bought the Nintendo Age database. But we joked, we semi-joked last episode that like Nintendo Ages may be getting shut down. And I don’t think anybody thought that it was actually just st…
 
 ## [Episode 141 - All Your Video Game Lists Are Bad](../episodes/cq-141-sc-797285986.md)
 
@@ -30,8 +34,10 @@ Search terms: research, document, database, spreadsheet, catalog, gamefaqs, nint
 
 ## [CQ 199 - We're Making Less-Bad Collecting Lists](../episodes/cq-199-sc-1308237088.md)
 
-2022-07-20 · Title or publisher description match · Transcript missing
+2022-07-20 · Title or publisher description match · Transcript available
 
+- 00:11:35: agree and we are both people who collect the same sets and we're like we have a set I have a set you have a set yeah and then all of a sudden our criteria they do not line up so I think there's some obvious things so video game title uh obviously a big one most people would distinguish games based on their tile okay hold on hold hold on y…
+- 00:13:42: I I'll interrupt you all right so just things I'm thinking about making a list game title obviously publisher which I think are stopping me with game title these are things I'm just no I'm just making these are the so we're looking at a a blank sheet we're looking at columns in Excel or wherever and these are these are your attributes you…
 
 ## [CQ 243 - The Best Non-Game VG Collectibles](../episodes/cq-243-sc-1768443759.md)
 
@@ -46,6 +52,20 @@ Search terms: research, document, database, spreadsheet, catalog, gamefaqs, nint
 
 - 00:00:00: [Music] [Applause] [Music] hey welcome back to another episode of collector's Quest I'm Tyler here with Johnny after a long early morning of research we finally got the insert episode ready to go right we're good yes we we sat down and we were discussing you know episode ideas we wanted to do we want to do some episodes on making your col…
 - 00:02:14: all right Johnny before we uh we start going off talking about tattoos while doing the research for this episode uh something I did a lot was type in name of a game tattoo on eBay and something this year flipped on eBay it is actually crazy I don't know if it's like anti- aai or something that they're doing maybe they're trying to foil pr…
+
+## [Types of Collectors](../episodes/cq-002-archive-89def4108204.md)
+
+2015-01-07 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: And there’s like, there’s one guy in particular who just knows more about game gear than any other individual probably on the planet. He’s such a great resource. I mean, he’s got a huge collected collection of other stuff, Nintendo. He’s a super huge collector, but his knowledge on game gear is second to none. We have people like you who…
+- Untimed passage: I’ve done this like, like, how do you know? I think if you’re speaking of your 5000 game collection, I would be, I would be concerned to you that I would double buy. Let’s face it. I’m not loving and appreciating every single individual title as a whole. Yes, you know, radical wrecks for the Super Nintendo. I’m not like, I cherish you. I…
+
+## [Pre-Order Laments](../episodes/cq-003-archive-1f72a97e0bf5.md)
+
+2015-03-02 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: you set this up do you want my database do you want a collector’s file like what how can I help you sir or ma’am you know what what can I do for you everything as a price that’s interesting I guess I have another question for you I know we’re running a little long but yeah how much do you sit there and think God like I can’t stop I can’t…
+- Untimed passage: get that last gem in there and then I’ll feel good well I was like well after I finished nests though then the only Nintendo system I wouldn’t console not portable but console system I am finished of the classic era is Super Nintendo and then I’m only like 200 games away from that so maybe I should just finish that so in my head right now…
 
 ## [Episode 10 - TheVGDB Nick Morgan Interview](../episodes/cq-010-sc-237478983.md)
 
@@ -151,6 +171,223 @@ Search terms: research, document, database, spreadsheet, catalog, gamefaqs, nint
 
 - Untimed passage: Did you look at if you had bought stadium events? If you would just put all of your money at that, if that would have been a better purchase? I did not, because I know data, even just sales data for that really top end stuff, Nintendo World Championships, Air Raid, all that, it’s not sold on eBay. Right. And the price is so crazy, because…
 - Untimed passage: people say is wrong about video games. So when you, if you are going to go and you’re going to hunt these middle games for your own financial well-being, you really have to do your own research. I’ve said this on the show before once, but I used to take rarity numbers. It doesn’t matter where I got the rarity numbers from. It could be the…
+
+## [Episode 98 - Homie Hook-ups, Back Door Deals, and More...](../episodes/cq-098-sc-483121236.md)
+
+2018-08-09 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: they’re getting rid of it. Those people, I think, is the wild west. I think that’s shitty, but from the buyer’s perspective, you know, you’re just trying to move something on offer up. Like if I’ve got a bed for sale for $100 and someone comes and offers me $200, I’m going to think about that $200 because I’m not a part of the bed selling…
+- Untimed passage: episode’s ideal list that must have 25 different topics in it, including Flush with Plush. Johnny never picks it. That’s why we haven’t done Flush with Plush. It’s always like, "Oh, it’s such a last-minute thing. We don’t have time to do all the research. Let’s just pick one of the easy ones." We pick something that we either know or some…
+
+## [Episode 100 - The $1000 Retro Game Draft](../episodes/cq-100-sc-500380032.md)
+
+2018-09-15 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: capable and smart and had a good collection and would also be able to do the kind of research and look at things the way I did, but not necessarily have my exact perspective. Someone who was maybe a little younger, came into it a little after I did and I found Tyler. We gave up on all your principles and you’re like, "Let’s have this guy…
+- Untimed passage: for the Super Nintendo Cart Only and I am going to take a CAB copy of Rocket Knight Adventures for the Genesis. That’s a little spendy. That’s exciting. What’s that? 30, 40 bucks. Yeah, 33. All right, I will. Shadow Run, I think there’s more. Continue down the path of games that you guys do not care about with Donkey Kong 64. Yep. You’re…
+
+## [Episode 106 - So You Want to Collect for the NES](../episodes/cq-106-sc-533172702.md)
+
+2018-11-21 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: is the reason people started to collect. Sure, other people started to collect some some Sega stuff, some Atari, but the NES was what what really launched it all. Right. It’s what all the collectors came in and said, here’s what it was. The nostalgia driving force, the way it saved video games after the Atari crashes, the same way it laun…
+- Untimed passage: shirt, but I guarantee you that it’s it’s all about Mario, right? That’s why Mario is one of the most known characters in the whole planet up there with Mickey Mouse. Tell me who the Atari mascot is. Go. What’s the Atari? Pitfall Harry, probably. Pitfall Harry? I need to butt in because you’re talking about all this great stuff. How about…
+
+## [Collector's Edition #1 - Harry Potter Book Collecting interview with AllThePrettyBooks](../episodes/sc-536148552.md)
+
+2018-11-27 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: myself. You know, you get a little OCD going on amongst these collector’s types and sometimes we see personalities like that in the hobby that take up like a large check, especially with large collections. Is that something you guys have as well or no? That’s a big question. We have all sorts. We have all sorts. It’s a generalization. We…
+- Untimed passage: don’t know anybody who’s not one knowingly. Everybody I know, it’s like, "Oh, I’ve got to see if it’s on the list." Sometimes I need to actually go through and update my database because I’ve gotten quite a few things recently that I need to just take off. I don’t know anybody who doesn’t have some, even if it’s just a handwritten blah. I…
+
+## [Episode 108 - Twelve Christmas Collectibles... to Ring in the New Year](../episodes/cq-108-sc-552803268.md)
+
+2019-01-01 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: wrong because homebrew is not like a thing, like limited edition stuff. I’ve heard 2008 go for $1,000 plus, and in today’s market, I don’t think it would get there. 2009, which is the first game, also hundreds of dollars, and then once you get to 2010, 2010 maybe a couple hundred dollars plus, and then the other ones are all in the $100 r…
+- Untimed passage: last one on eBay I see went, it was a 2012 that went for 350. But there’s a guy on Nintendo Age that’s trying to sell them for like 180 each. So I don’t know what that’s about. Stefan, when are you buying those? Right now, dude. I just did. Excellent. I’m leaving my set back. So I mean, you gotta have them. Yeah. Official releases. Yeah,…
+
+## [Episode 109 - New Year, New Goals](../episodes/cq-109-sc-558733752.md)
+
+2019-01-14 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: me out. The Saturn set’s not 248. Oh my God. Let’s fight about lists right now. Everyone, make your own list by the way, because internet lists are all terrible. As evidenced by what we’re going to talk about right now. Dreamcast is 248. How are you missing that many games? Is this like when Johnny’s like, why don’t you have Ninja Gaiden…
+- Untimed passage: just bullshit condition because there’s a freaking giant book in it. Yeah. Where in time is the red box or just cut the red line on it, right? Where in the world has green? So, Stephen, you are going to go ahead and you’re trying to complete Saturn and next from your B-list is you’re going to try and complete 32X. We’ve, right? That’s whe…
+
+## [Episode 110 - How do we Organize Our Game Collections?](../episodes/cq-110-sc-569105952.md)
+
+2019-02-02 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: Welcome back to the Collectors Quest podcast. This is episode 110 and on this episode, Stefan, Tyler, and myself talk about organization. Last year we gave you some New Year’s new goal stuff and this year let’s help you get those new goals organized and we talk about what we do. So we are talking about our shelving, how we catalog things,…
+- Untimed passage: course, right? And they have sent us these sample packs of the most stuff Oreo, which has like enough cream for four Oreos. And it’s the best thing that’s happened to me this year so far. Wait, that’s not true, right? I’m not getting jipped out of free samples, am I? I don’t think you can say jipped out of free samples. No, we are not spo…
+
+## [Episode 111 - Collectors Talking About the $100,000 Super Mario Bros.](../episodes/cq-111-sc-576934368.md)
+
+2019-02-17 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: of the 11 or like 9 out of the 11 are completely worthless sealed or opened so a sealed Super Mario Brothers is worth around one to two thousand dollars and All of the opened ones are worthless like sixty dollars except for that first print one if you have an open sticker seal one It’s still worth $1,000 I saw people on Nintendo age sayin…
+- Untimed passage: Co-chairman and a founder of heritage auctions. He’s like a big he was a big coin guy before this He’s built up other auction sites So he came in with a group of investors. They see something in video games and they bought this It was sold by if you a guy named Dan He’s Bronte on Nintendo age and I feel comfortable saying this because he…
+
+## [Episode 113 - Interview with Wata Games President Deniz Kahn](../episodes/cq-113-sc-588685275.md)
+
+2019-03-12 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: this is the special episode, I feel so special. Why are you a special individual Dennis? Well as far as I know, we’re here to talk more than myself about Wata Games, which is a company that I co-founded with some other individuals, and just the state of the hobby and some of the services we provide, I hope that we’ll get the chance to tal…
+- Untimed passage: games or whatever. And I went on the internet and did a little research, went on YouTube, I think, found some channels and like that day I was like, wow, this is a lot bigger than this little tub I have. And I started, I think the first game I bought a game off eBay, it was a Final Fantasy Mystic Quest. Oh, good choice. Yeah, loose cartri…
+
+## [Episode 115 - Does it Count? (for the "complete set")](../episodes/cq-115-sc-598186311.md)
+
+2019-03-30 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: for Japanese collectors. Nintendo age is largely American and Canada. So that’s a big distinction there. The next big distinction and it’s like another thing people do is they talk about if they’re going to collect the licensed or the unlicensed games from a set. And like largely they make that distinction with Nintendo only. And that’s i…
+- Untimed passage: like a mock-up or like a publicity shoot one that was never actually distributed. So like maybe it was a one-up one. That’s the problem, you just don’t know. Yeah, and DreamTR was talking about this on Nintendo-- this came up on Nintendo Age. There’s actually a thread kind of like this topic pretty recently. Really? I did not know that. S…
+
+## [Episode 116 - Where Did the Undiscovered NWC Come From and Other Listener Questions](../episodes/cq-116-sc-606134094.md)
+
+2019-04-15 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: to spend a lot of time in life on regret. Um, so that’s the thing. I mean, it’s like, you’re never going to sell it. So what does it matter? What is worth at this point? Yeah, it does. But also, uh, I know this guy who has a big YouTube channel called Stefan Reese, um, just get him to make a video on new leaf and get more people aware of…
+- Untimed passage: be interesting. All right. And I’m going to see if you both get this question wrong. What’s a great collecting resource you would recommend? That one came from, oh, I missed one. I’m sorry. We’ll come back to that one. The previous one was from Nicholas Mira. But on this one, what’s a great collecting resource you would recommend? This on…
+
+## [Episode 117 - Collector's Quiz](../episodes/cq-117-sc-609401367.md)
+
+2019-04-21 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: do that in eight hours now, probably. So it’s just not even like a big deal to me to keep my saves forever. Like I used to be so protective of things like my never winter nights and my Morrowind saves because, you know, I dozens of hours in them. And now I’m like, what? I’m starting a new game Morrowind. Let’s do it. Okay. Stefan, what di…
+- Untimed passage: time that I would normally have spent playing games, I’ve been making content for that. So. All right. Self-promotion. Shameless. Well, got it. Promotion for the, promotion for the show too. So. Nah, I’m just kidding. Just kidding. All right. What did I buy, guys? I will tell you what I bought. I bought the real Ghostbusters. It was a thi…
+
+## [Episode 118 - Same Name, Different Game](../episodes/cq-118-sc-616334322.md)
+
+2019-05-06 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: well, no, the ultimate thing is like a weird, maybe it is, maybe it isn’t. Some people say Ultima is released in the US. Fun fact. Happy, I don’t have to deal with this. None of these are named Strider though. Yep, none of them are named Strider. Anyways, I’m moving this on and I’m getting to the Adventures of Batman and Robin. This is ba…
+- Untimed passage: on Collector’s Quest. Whatever is more expensive, that’s what you should buy. That’s what you’ve been hawking for the last few episodes, sir. So I don’t know... Why do you get all surprised when I talk about investments when that’s all you talk about? Just tell us about your handle board. Indeed. So you might have noticed that during the…
+
+## [Episode 120 - What is the State of Game Collecting Today?](../episodes/cq-120-sc-631899153.md)
+
+2019-06-05 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: Hey, welcome to episode 120 of the Collector’s Quest podcast. In this episode, we are talking about the state of game collecting. And that means heritage auctions, that means comic book people, that means variants that are worth a whole lot of money now, like first prints and black box games. We got a comic site Go Collect that just bough…
+- Untimed passage: you doing, guys? Good. Hey, guys, I have a little bit of news. As you guys know, I’ve been gone for a little while. I’ve been negotiating a deal about the podcast. We are officially sold. This is now gocollector’squest.com. I’ll be stepping down. There’s a new guy he’ll be coming in and hosting. And you guys answer to him now. Good luck.…
+
+## [Episode 121 - Where Does Game Collecting Go Now?](../episodes/cq-121-sc-637230360.md)
+
+2019-06-15 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: know everything, and here it all is." But uh... They have a book. How could they be wrong? Right. They printed a book. No, I was in the same boat. And it is still a good way to get out ahead of any system, right? Though the landscape has changed quite a bit, and I don’t know how effective people can be on that anymore. But it’s an effecti…
+- Untimed passage: even think of to like want to seek out sealed are like, you know, people are like, oh my god, this is such a rare gem that I found this sealed. And I think like right now there’s just like weird like where if you find anything sealed, it’s like some crazy rare gem. And so I think there’s going to be a bunch of shifting around as to what e…
+
+## [Episode 122 - Games Collectors Overpaid For (That Are Cheaper Now)](../episodes/cq-122-sc-644478861.md)
+
+2019-07-01 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: Where am I putting myself? So I just do a little bit of research before I throw in a bid. Maybe these people didn’t do that. I don’t know. In case you missed it. In case you missed it, everybody, Johnny just dropped some knowledge on you. Take notes. So yeah, anyways, yeah, be better at eBay, I guess. Okay. So let’s start the episode. Yea…
+- Untimed passage: of him. And I forget his name right now, which is real jerk thing for me to do. I should have wrote it down in the notes, written it down the notes. It’s "rotin" is not a word. Yeah, "rotin", "rotin", "totendotin". And then there was a similar thing happened. I got Psychosis, the box for it, all complete for TurboGrafx as well. And I boug…
+
+## [Episode 123 - Bad Games All Collectors Buy... mainly just to post on IG](../episodes/cq-123-sc-651292376.md)
+
+2019-07-15 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: Johnny’s opinion. I’m not calling anyone that. Nor are the opinion of the podcast. But the opinion of Go Collect. Yeah, absolutely. If you guys don’t know, we are still owned by Go Collect. It’s funny because... We’re going to send out a newsletter. Yeah, we are. I’ve actually talked to... Yeah, I did actually. But we might have him on th…
+- Untimed passage: that game. They only cared about it as that it relayed some sort of status. In fact, it is such a game that if you were on Nintendo Age, you could get like when they first added the little like awards that you could put on like under your signature. Earthbound was one of the first awards that you got. I own an Earthbound. Like who gives a…
+
+## [Episode 124 - Xmas in July ("Collectible" Holiday Games)](../episodes/cq-124-sc-655095329.md)
+
+2019-07-23 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: Now you have like a team of people who have already done this with comics here. I’m actually totally for this move. And just for the record, when I say evil overlord, that’s like a throwback to Nintendo Age because Dane was the evil overlord and he sold it. So anyways, just explain that statement. Go ahead, Stefan. I know you got things t…
+- Untimed passage: Age. That seems to be what most people on Nintendo Age who had a problem with it had a problem with is that they were using their data where that’s not really an issue here. Their data that they willingly signed up to have sold. And also, just because Go Collect is trying to be this website that’s super picky about getting things right an…
+
+## [Episode 125 - WTF Sonic 1? Why is CQ Always Wrong About First Prints? And other Q&A!](../episodes/cq-125-sc-661123010.md)
+
+2019-08-04 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: smells like Death of Superman to me. Well, the hobby has always been driven by some amount of speculation. That’s always what it comes in. The minute something gets hot or someone thinks something’s rare, like, do you guys remember on Nintendo Age, anytime like, what’s his name, Mike, Mike, whatever, mornings with Mike or whatever, I forg…
+- Untimed passage: a game is. It’s the worst stock price. That doesn’t really bother me only because, you know, most like if you buy Magic Cards, that’s like vaguely pretty much what they do now. And that’s like just whatever. It would be the price flux is so great on Magic Cards though. Every day, you know, if you just priced them, you would be doing it al…
+
+## [Episode 126 - Should You Collect First Prints or First Editions?](../episodes/cq-126-sc-667368926.md)
+
+2019-08-18 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: collectible version if you already have a cheaper, more collectible version because you’re just that into Star Wars, which I’m not. Shut up, Johnny. This isn’t an attack Tyler on his bad buying habits episode. I did want to go back to something Tyler was talking about earlier. People should want to go and do research to figure out first e…
+- Untimed passage: it or not, a lot of the scene is being driven monetarily. There’s no monetary drive for these people to do the research. They’re just happy to go the lazy route and be like, oh, this is the black label. So it must be the first print when that’s very seldom true. Well, I think I don’t want to say lazy because I don’t know if that is correc…
+
+## [Episode 127 - A Game Heist, Censorship, and Talking to Deniz from Wata Games](../episodes/cq-127-sc-670522865.md)
+
+2019-08-24 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: Hey, welcome to episode 127 of the Collectors Quest podcast. Unfortunately, recently, perhaps the biggest video game burglary ever just took place. So we’re starting this episode talking a little bit about security, specifically securing your video games. Not really that we’re experts on that or anything. And then also I had made a YouTub…
+- Untimed passage: kind of what I want to talk about this week, Carly, called you my wife’s name. Thanks. You’re my podcast wife now, Tyler. I mean, that feels pretty good. Okay, cool. Can I address that? Yeah. I just want to talk about security and video games, security and video game collecting, how we feel about that if we think anything’s changed. I wou…
+
+## [Episode 129 - So You Want to Collect for the Sega Dreamcast](../episodes/cq-129-sc-685944091.md)
+
+2019-09-24 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: of the most iconic. Yeah, definitely. Power Stone is an arcade port, right? No. I’m going to say Power Stone. Question mark. Yeah, I don’t have an answer to that. We’ll correct that in the next episode. Yeah, Tyler versus Stefan, who’s correct? Is Power Stone a arcade port or not? It is. I do know that some people like Power Stone one mor…
+- Untimed passage: with controller support and you would have to go out and buy like a Madcats gun to play with a Light Gun, which I thought was interesting. It is. It’s awful and terrible. But yeah, I mean the Light Guns on probably as a result of this being a launch title, like you can go anywhere and there’s just a pile of Dreamcast Light Guns waiting fo…
+
+## [Episode 130 - So You Want To Collect Halloween Games #2](../episodes/cq-130-sc-694609366.md)
+
+2019-10-12 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: threes So let’s go. I’m down for two hours of this. You’re the one good hold on Hold on you’re the one who’s like we can’t go too long guys. You can’t go too long guys We you’re like 13 games. We have to have 13 games. That’s a cool number Yeah, and I gave you this a week ago Yep, and I had at least one prepared in my mind maybe two that…
+- Untimed passage: it’s not a bad game. It’s not 40 dollars worth of great in my opinion, uh, but it is notoriously difficult So that’s um, that doesn’t also really mesh with virtual boy as a platform because as johnny stated It’s difficult to shove your face in that for more than a few minutes Uh, without getting sick or having your eyes burned out of your…
+
+## [Episode 131 - Spooky Collectible Halloween Imports](../episodes/cq-131-sc-695873995.md)
+
+2019-10-17 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: you can play it in English and it doesn’t matter. Yeah. Speaking of bootlegs, Retro Zone, which is now Retro USB, released a bootleg copy of it that comes in a clear red cart. Don’t buy that. Don’t buy bootlegs. Just buy a real copy of this game. It’s 30 bucks. I think most people here know my stance on repros and stuff like that. I don’t…
+- Untimed passage: make this the episode. I would prefer something spooky. So please do that. Anyways, thanks for listening to us. Guys, where can they find you? Like I said, I’ll be at the Portland Rancher Gaming Expo in the museum and I’m also doing a panel on Saturday at 6... or 6.30? Oh, got it. I don’t remember now. But with some Nintendo Gameplay Coun…
+
+## [Episode 132 - PRGE 2019 & What Is "Collectible"?](../episodes/cq-132-sc-702651109.md)
+
+2019-10-28 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: you know, if I purchase a piece of software from them and I download it locally, that is mine forever. Right. So like I don’t mind digital goods where I get my instance forever. And then if they were to delist it, then if I, since I had already bought it, I’m still able to download it. As long as there’s a permanence to my ability to cont…
+- Untimed passage: that more collectible that just seems so crazy to me? I mean, you’re paying for a little bit of a name there. You’re so. I mean, there’s a copy of Archon right now that’s way more collectible because it’s got my name on it. No, absolutely. It’s a one of one. So that’s right. Yeah, one of one. Do you remember the guy on Nintendo Age who I…
+
+## [Episode 134 - Pawn Stars, the Sonic Movie, and 6 Movie Games](../episodes/cq-134-sc-717984787.md)
+
+2019-11-25 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: this stuff just as a hobby. My hobby is following the weird sealed games market and I had not personally heard of a $300,000 offer. I figured someone would have told me that at some point. I think he knows like it’s a bad kind of look because he just wants to be the objective grader. I don’t think it’s something he would do again. On the…
+- Untimed passage: So it’s easier to see like in the Hallgram now. Yeah, your big grade gets replaced by a big fat IMP. It’s pretty sexy. Yep. So this is something we talked about that we wanted and it’s a thing that they heard from the community and they listened. Speaking of people who listen to the community like the Sonic stuff, they listened to that fe…
+
+## [Episode 136 - A Shameful Review of 2019](../episodes/cq-136-sc-742473217.md)
+
+2020-01-12 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: If we think we kept to those goals, we’re going to like kind of evaluate ourselves like how did we do on some of our purchases? We’ve got some questions we’re going to ask each other. More of a fun episode than like a serious number or crunchy episode. I have some numbers if you want to feel better about yourself and how much you spend on…
+- Untimed passage: always write things in a text document so you guys don’t know what’s coming up. I want to surprise you every time. We all know the only person I care about is myself. That is fair. So question one, why does Johnny hate Max? Why does Johnny hate Max? What does that mean? Oh, Max. I thought you were saying MEX. I’m like, is this a veiled st…
+
+## [Episode 137 - Will Johnny Sell His Collection for $1,000,000, the Future of the Market, and More!](../episodes/cq-137-sc-750080695.md)
+
+2020-01-27 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: part of the gameplay. So I thought maybe like there was a Ninja Gaiden dog because it was definitely not the ninja from Shinobi or the Shinobi from Shinobi. I don’t know. Man. Yeah. Johnny looks. I’ll put that on Instagram so you all can know what we’re talking about. Yeah. Is it like Nintendo power cover sized? Was it like supposed to be…
+- Untimed passage: a picture of that because I have found these really good boxes and I can give some tips if you have trouble storing any of the Game Boy, Game Boy Color or GBA games. And then in the storage and deep storage, I have some Engage stuff, extra consoles, a giant box full of wires, extra Dreamcast, a Japanese Saturn just out in the garage, just…
+
+## [Episode 138 - The Death Effect](../episodes/cq-138-sc-764176999.md)
+
+2020-02-21 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: I keep thinking, as you were talking, I kept thinking about adventure when Ready Player 1 came out, and that spike where it was all of a sudden, it was like $300 or $400, and then it cooled off. I was just thinking to myself, I wonder if there’s any more or less severe of an effect when someone dies versus just any other type of media att…
+- Untimed passage: April of 98. And that’s the first instance of Kobe in a Nintendo game. Nintendo stuff is just retains price better and is usually more collectible. Okay. But in this case, that game is dirt common and no one wants it except for for the next six months. According to scientific research, people will want it. Oh man, the cover of the PC big…
+
+## [Episode 139 - Two For One: Collectible Double Packs](../episodes/cq-139-sc-771616942.md)
+
+2020-03-06 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: but because that’s sort of a console pack in situation, but sure. Yeah, but I mean, along the lines, the way double packs have just been an industry standard and trying to give you two for one, just the idea of this two for one, it’s been very early on in video gaming. I’m sure there’s a bunch of PC stuff that predates this stuff, but we…
+- Untimed passage: you have two different games. This is the only way that you can get either of those games is together for the for Turbo CD. The other thing to know is that there is a manufacturing variant for these games. Both the, so the outer box, I believe we’ve decided is the same, but the jewel case and the disc are different. So you will see them r…
+
+## [SideQuest 1 - The Wide World Of Aftermarket Games](../episodes/sc-776912587.md)
+
+2020-03-16 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: Hey, welcome to Collector’s Quest. This is a side quest or a microcast. I’m not sure what we’re calling these. We might be going back to microcasts. But basically, I’m gonna be busy for most of this month and rather than just leave you for weeks without a podcast, which I recognize we sometimes do, we’re each gonna make an individual podc…
+- Untimed passage: have done But I personally don’t know whether to consider that homebrew or whether to consider it a bigger publisher release And you know, maybe it doesn’t matter. Maybe there’s no point in really drawing a distinction It’s up to you and that’s pretty much it for what’s legal on the illegal side. There’s a There’s a lot more variety Just…
 
 ## [Episode 143 - Everyone is at Home Buying More Video Games!](../episodes/cq-143-sc-820828618.md)
 
@@ -348,6 +585,237 @@ Search terms: research, document, database, spreadsheet, catalog, gamefaqs, nint
 - 00:06:24: obviously once like people there's a display for that for the people who care but then what all the the moms and dads who are going there for just like here's a whole wall of like really cool 1950s artwork and it doesn't matter how rare they are what they're graded this is just here's just like a smattering of what these kind of books loo…
 - 00:16:09: of [ __ ] House of Usher uh Nostromo is on Wikipedia so like if you go to survival horror Wikipedia this is one of the first games that appears on there um I feel like this has probably had enough people talk about it on like those weird obscure hardcore gaming like so many articles have regurgitated in Romo now that it's become more of a…
 
+## [CQ 181 - Are the "Holy Grails" Even Worth It?](../episodes/cq-181-sc-1160173126.md)
+
+2021-11-15 · Multiple transcript paragraph matches · Transcript available
+
+- 00:06:28: and there was an oldtime collector uh the wizard 666 he has an excellent guide to n Box contents on game facts um and he said that in like 25 years of collecting he's never completed a set because it's so hard to save up for the Grail purchases and uh that just made me think like that kind of makes sense because the grils are never worth…
+- 00:15:00: think people will Define them and this is outside of what you want but I think people will Define them as their personal Grails I think there are Grails that are defined by the sets that they are actually in Allah Stadium events I think a personal Grail is an item that you know isn't actually a Holy Grail but for some reason you just want…
+
+## [CQ 182 - Collecting 10/10 Games for $10 Each](../episodes/cq-182-sc-1167475807.md)
+
+2021-11-26 · Multiple transcript paragraph matches · Transcript available
+
+- 01:42:46: podcast okay all right deliver it uh this one blew our while we were doing research for this episode uhow your mind the Legend of Zelda Twilight Princess for the Wii is under $10 yeah that'll stay cheap forever yeah it won't stay cheap forever there's someone will buy out all of the Zelda games one day yeah I can't believe this game is $1…
+- 02:14:29: hero of time actually understands the Zelda Timeline Jeff Pierce he is error Jeff Russell Jeremy Jarvis here for the POG talk Jim Jacobs world record holder of best collection Joe actually plays his game champ pity video game art collector because video games are art Justin Chio lateral movement who's got a Donkey Kong on kill screen comi…
+
+## [CQ 183 - Anything Interesting in that Wata Pop Report?](../episodes/cq-183-sc-1171013329.md)
+
+2021-12-03 · Multiple transcript paragraph matches · Transcript available
+
+- 00:29:43: stuff uh yeah you Stefan uh once it's bought it's gone there's there's no more doing anything with it there you can't hype it you like you can be like this is a one of one you're like yeah it's art cool it's one of one th this is a one of one document great who gives a [ __ ] like I can't do anything about that but you tell me that there'…
+- 02:03:59: Chiara Monty Nick the video game database Morgan Homebrew Mastermind diverto the other guy who collects Korean releases peaceful games dungeon master Reed stuck the promoter retro RPG podcast Tom obscure variant Chaser Chase Savor and he knows all 97 Nintendo games 32 bits or less let's do the math Andrew actually collecting engage o okay…
+
+## [CQ 185 - 2021: The Craziest Year in Game Collecting](../episodes/cq-185-sc-1189178131.md)
+
+2022-01-03 · Multiple transcript paragraph matches · Transcript available
+
+- 01:01:46: last year was your um your stupid laser dis player oh that was yeah but that wasn't a shameful purchase necessarily but that was definitely the worst purchase that you had last year yeah yeah and I I lost so many like hours of Sweat Equity to that stupid thing yep for sure um but do you want me to go right into my most shameful because I…
+- 02:57:19: getting the full PS2 set because Stefan still wanton all caps what a 9.8 A+ plus Benji the actually rare bird dog gaming Brandon Rogers whose favorite episode is the Wrestling episode dropping the Mario 64 penguin off the map Brandon chaker still finding deals in 2021 uh 2022 Colton Murphy I'm going to update that one I mean I assume you'…
+
+## [CQ 186 - Physical Games in the Upcoming Post-Physical Media World](../episodes/cq-186-sc-1197422230.md)
+
+2022-01-16 · Multiple transcript paragraph matches · Transcript available
+
+- 01:44:08: tops 30 years 30 so I would say someone from 1990 to the the mid 2000s is where we're going to build our Mount Rushmore from okay like and and the other thing is I don't have enough knowledge about all the Atari people also we're going to be interrupted here sorry we were talking about who goes on the list all right and you said Dennis Kh…
+- 01:51:30: no but people say the Spanish Flu is a big part of American history and how long did that last but that wouldn't be on on the most important events in American history Mount Rushmore how well we we're talking in a much smaller Spectrum too American history is a much larger you know surface area than last 30 years really colleting is only…
+
+## [CQ 187 - The Surprising Collectability of... the Wii U?](../episodes/cq-187-sc-1206315124.md)
+
+2022-01-30 · Multiple transcript paragraph matches · Transcript available
+
+- 00:12:39: how rare could it possibly be couldn't be that's how I just feel about all modern games but you know what go buy these for $500 one day prove me wrong people speculating on Just Dance games but yeah I've never I've never bought any of these weird late releases uh that like are not garbage I mean I think Just Dance is is fine but uh I'd ne…
+- 01:18:15: seemingly endless supply and then they're gone all of a sudden but I don't just so you guys know there there is on the pcking tournament uh the first print has the uh dark Mew uh amiibo card and it the second print does not reference it or include it Johnny we have so you we're in to uh full disclosure here we are in your spreadsheet whic…
+
+## [CQ 188 - The Worst Parts of Collecting Games](../episodes/cq-188-sc-1214866588.md)
+
+2022-02-13 · Multiple transcript paragraph matches · Transcript available
+
+- 00:25:32: in case anyone's wondering I have done so much research into uh I I tried to find basically someone who has a video game collection specifically insured that had a claim paid out and there's [ __ ] nothing no one has ever had a claim paid out for video games and it doesn't mean that the insurance companies are bad but it means that like t…
+- 00:55:33: working pdp1 computer in the world um maybe I think they might have multiple ones for parts but they keep one up and working the museum that keeps uh PD P1 computer working so they could do like an exhibit where they show off like playing space war on the only original Hardware that still works in the world that's some some video game pre…
+
+## [CQ 189 - The History (and present) of Collector's Editions](../episodes/cq-189-sc-1224721120.md)
+
+2022-03-01 · Multiple transcript paragraph matches · Transcript available
+
+- 00:00:00: hey this is episode 189 of the collector's Quest podcast in this episode we are going over the history of collector's edition and special edition games as far as we could find and we could research we are focused on the earlier stuff from the the 70s 80s and early 90s because there is almost nothing from that era but then we're going to B…
+- 00:19:01: collector's limited okay anyway uh we're moving on to the other part of the show now that we're done babbling at each other where uh we talk about what this episode is Tyler we're doing an episode on the uh like kind of the history of special editions early special editions so why don't you give us uh and our audience the parameters that…
+
+## [CQ 190 - Twenty Types of Game Collectors](../episodes/cq-190-sc-1234327159.md)
+
+2022-03-18 · Multiple transcript paragraph matches · Transcript available
+
+- 00:16:57: dick uh sorry guys if you were on those forms so it like just wasn't like if you think if you think that Nintendo age back in the day was like an elitist group of of [ __ ] like whoa stay away from the Neo Geo forms cuz uh you like you don't know uh so yeah and then I was like you know what I hate this I'm just gonna I'm just going to sel…
+- 00:40:29: like standup suits and uh the Vault boy there was like a like a giant like life-size thing of that but like just shelves and shelves like tiny little Vault boys and like a 100 copies of all the games it was the craziest thing I've ever seen so yes I own every Fallout game but I am not a Fallout collector that like you can take this to unf…
+
+## [CQ 191 - Collecting Games Because You Can't Emulate Them](../episodes/cq-191-sc-1240773535.md)
+
+2022-03-29 · Multiple transcript paragraph matches · Transcript available
+
+- 00:17:57: like what is going to happen to those games I mean the the best case scenario for stuff like that I think would be Roth Thrills goes out of business and then has to sell their catalog to a company like EA who eventually just ports it all but I mean they've made a bunch of cool games like I don't know that that Batman driving game that's a…
+- 00:28:39: cheap cheap games and contact red the game sharp and get your games for cheap So speaking you're speak let's just talk about the the dash consoles for a second so engage and rzone very different things I know I know for history sake for research sake for preservation sake being able to play an engage on your computer is going to be perfec…
+
+## [CQ 192? - So... Does Anyone Want To Collect R-Zone?](../episodes/cq-192-sc-1242943639.md)
+
+2022-04-02 · Multiple transcript paragraph matches · Transcript available
+
+- 00:02:10: bear yeah from FAO Schwarz Johnny tiger handheld LCD games is not a good thing to collect we've made fun of it quite a bit uh I think it might be cool to Collectables oh my God connect Johnny in the uh short amount of research we actually did for this episode I want to say I was very surprised how bad rzone information was like I wasn't e…
+- 00:13:48: Vision oh my God that's something that those Digi press people would think is so cool and you don't even know what it is okay yeah so how many people even know about Digi press That's turbo Express sucks cuz it has no games it's just turbo Graphics games it sucks cool good one game.com is like I don't think is as welln as rzone and I thin…
+
+## [CQ 193 - What Are The Full Set Killers?](../episodes/cq-193-sc-1253431078.md)
+
+2022-04-20 · Multiple transcript paragraph matches · Transcript available
+
+- 00:57:06: you want to add on that yeah no I I did if we're moving on I wanted to bring something up that I noticed about this list sure um and I I would imagine that the reason that it's not here is because a there are a uh of three of us none of us really collect the set but also that there's a crushing amount of set killers and that would be the…
+- 02:06:22: or Binding of Isaac just because I'm so unsure of their status yeah I would do that too I mean all these are I I guess that's not recent that's 10 years ago but finding of Isaac's pretty recent situation so uh the only the last one I want to talk about and we have more on this list that can could be gone into uh another time another episo…
+
+## [CQ 194 - So You Want To Collect Sega CD](../episodes/cq-194-sc-1261901374.md)
+
+2022-05-04 · Multiple transcript paragraph matches · Transcript available
+
+- 00:16:55: then what did a Sega Genesis cost in 1992 I don't know let's let's see seems like we should have came in came in here with that I bet we could find it in a Sears catalog so I'm going to look at the inflation cal calculator real quick $299 in today's money is $600 so this thing was more than a PS5 and it was an add-on so you also needed a…
+- 01:08:02: pick up their catalog if you collect working designs you probably already know that and are already picking those up uh yeah similar to the Saturn they put their their big ass pink logo on the spine of all the games so you could quickly scan your library and be like oh those are those are my working designs games cuz I'm a collector I hav…
+
+## [CQ 195 - Is "THE BUBBLE" Bursting? Time to Buy??](../episodes/cq-195-sc-1270301767.md)
+
+2022-05-17 · Multiple transcript paragraph matches · Transcript available
+
+- 00:38:02: opinion that's all I'm saying all right so like gold and ey $100 complete in box I understand that's going to include the Player's Choice unless price starting filters that out I'm going to say you know even even though like the concept of $100 golden eye is crazy obviously it's an all-time high price but like talk about an iconic game th…
+- 01:22:51: bidding on these games and uh we're just bidding against each other like that's like what was nice about Nintendo age at the time cuz you found those people and you discovered oh you're the guy I fought for that game like right now because I buy dumb weird stuff it's always VG colol it's always he and I it's like oh you been on that dumb…
+
+## [CQ 196 - Ranking The 8 Most Collectible Consoles](../episodes/cq-196-sc-1281166033.md)
+
+2022-06-04 · Multiple transcript paragraph matches · Transcript available
+
+- 00:04:18: to college and he was really obviously socially maladjusted being like four years younger than everyone else and that really explains a lot about Stefan I think well thank you guys you want to get into the episode I I guess we should all right yeah coming at you live from the power of clickable titles we are going to be ranking uh just wh…
+- 00:11:45: about what consoles we're doing sure we decided not to do uh everything under the sun cuz I mean we wouldn't want a 4-Hour podcast so we'll just stick to the three-hour podcast um but we're doing Atari NES SNES Genesis PS1 N64 Saturn and PS2 are there any anything on this list you guys wish we did just out of curiosity like anything that…
+
+## [CQ 197 - Enjoying Collecting Games More](../episodes/cq-197-sc-1291821400.md)
+
+2022-06-21 · Multiple transcript paragraph matches · Transcript available
+
+- 00:03:16: build it I put in a bag I label the bag um but I had a bunch of like when I was out there in the wild buying lots and stuff from kids and you know so I was I've been separating that organizing that and then I wanted to know all the Star Wars minifigures I have cuz I know every Harry Potter minifigure I have but we also have a lot of Star…
+- 01:15:38: so always be overpaying but I think the the point is if there are two games that you could bid $50 on and lose them both versus winning one of them for $75 you will probably be happier if you just win the one you want for $75 and get it out of the [ __ ] way I can't tell you how many times I've lost an auction by like $5 and then had to p…
+
+## [CQ 200 - The History of Our Collecting Goals](../episodes/cq-200-sc-1316628157.md)
+
+2022-08-02 · Multiple transcript paragraph matches · Transcript available
+
+- 00:17:04: whatever it is that to and Stefan and I do now like let's do a bunch of research on [ __ ] no one cares about um you know to sell you want to collects we're we've changed the podcast has changed it's evolved over 200 episodes and one of our favorite topics is goals so we thought it would be interesting to go back and like kind of reflect…
+- 00:22:17: especially on nest because there's so many game overs to be offered I know I know so I literally like even like DuckTales I didn't beat DuckTales when I was a teenager because DuckTales is an easy game but it's not like uh I'm going to put this in and beat it for the first time like like a Wacky Races or something game sorry if you can't…
+
+## [CQ 201 - Reconsidering the List of 677 NES Games](../episodes/cq-201-sc-1327980511.md)
+
+2022-08-21 · Multiple transcript paragraph matches · Transcript available
+
+- 00:07:28: everybody is super comfortable with the idea of 677 or 676 whatever that they're they're always caveat that one like 676 677 but anyways these are the two most famous numbers in video game collecting everybody knows this besides saying what what what is the print run of every game that's rare I heard they only make 500000 or 5,000 like wh…
+- 00:10:37: realize your list is pretty old but like yeah every title I disagree with Johnny then you go to the Nintendo age list the old Nintendo age list for Game Boy [ __ ] like The Adams Family Pugsley scavenger hunt is probably called Adams Family Adams Family pugly scavenger hunt they just like completely just ditch theth it's not like a hidden…
+
+## [CQ 202 - Collecting 6 Rare Dinosaur Games That're Totally Cretaceous!](../episodes/cq-202-sc-1335372241.md)
+
+2022-09-01 · Multiple transcript paragraph matches · Transcript available
+
+- 00:35:08: banjo 3E like I don't know it's well it's got some look I I didn't do I didn't prepare my research for ukulele okay I just we brought no we brought up like some games that they did that had N64 cards and that's like one of the ones they did all right okay that's it that's all was trying to bring up and you're like oh no you don't know you…
+- 01:31:51: stuff but everybody can go anywhere in the summer blah I'm sure people have conventions in certain places for a reason like they live there and they're organizing it I I understand I I get it but I'm just I'm just they could they are organizing they live there but they could also not host it during the hottest month of the year right I'm…
+
+## [CQ 203 - Collecting Games From Dead Genres](../episodes/cq-203-sc-1343296345.md)
+
+2022-09-13 · Multiple transcript paragraph matches · Transcript available
+
+- 01:56:27: like oh my God I found it the promo release of Ultima underworld that was just a budget release that came out in some years after they just slapped that sticker on it to make it seem special H anyway this game what what month did it come out I've got my Ultima Ultimate Collector's guide 2022 Edition in front of me that I was using to rese…
+- 02:05:06: through the maps so okay so maybe maybe you'll be okay with this one then number two The Legend of Zelda I mean the newer games call them dungeons so yeah I say the newer games but like the first games called them labyrinths right yeah I doesn't matter I know I know Dungeon Crawler okay and number one Gauntlet Johnny I just I think this c…
+
+## [CQ 205 - Too Many Horror Movie Games from the '70s to '90s](../episodes/cq-205-sc-1360671826.md)
+
+2022-10-11 · Multiple transcript paragraph matches · Transcript available
+
+- 00:25:34: only reason I'm bringing it up is that it's an Ohio scientific computer game which is a platform I've never even heard of so uh neat you could research that hey Tyler yeah can we go back to shark jaws for a second oh hell yeah shark jaws uh so I was just looking at the Arcade museum stuff uh the the vaps or the kav um I guess it is vaps u…
+- 00:58:07: uh so in my brain Johnny I will tell you I will give you my pre doing research for the podcast answer I thought the last Atari game came out in 1990 in Europe and it was CLA but I am wrong that was the last Atari game to come out for the 2600 what was the last Atari game Johnny is this the last Atari game if it's not [ __ ] has to be this…
+
+## [CQ 207 - Retro Game Collecting is Dead](../episodes/cq-207-sc-1377327931.md)
+
+2022-11-06 · Multiple transcript paragraph matches · Transcript available
+
+- 00:07:24: hang out at all like I there like I found some Nintendo age guys and I had some conversations with them I met actually a lot of people shout out to everyone I met super nice meeting everyone I met more people from the internet than I've ever met at any show I've been to but I don't hang out and talk for like 2 hours I'm there to just like…
+- 00:10:36: go I so all right call me waxon nostalgic about the old days is waxon do I say waxon like that maybe I'm maybe I'm using that word wrong you're fine you're fine go so if you're on like Atari obviously on Atari age but like Digi press game TZ Nintendo age when people had like a game collection like obviously they have all the Nintendo stuf…
+
+## [CQ 208 - CQ Holiday Gift Guide 2022](../episodes/cq-208-sc-1381920739.md)
+
+2022-11-12 · Multiple transcript paragraph matches · Transcript available
+
+- 00:24:31: this detailed on collecting NES or Super Nintendo you'd just be like oh yeah this is the Bible this is the catalog this is the reference everyone must own this book because it is full of information that is not online and it has 100% of everything and by everything I mean this book I think it's like 600 pages long and it has a picture of…
+- 00:31:54: bigger stuff but a lot of the smaller stuff was like here's 20 five copies I released them on Nintendo age there was a thread about it once and if you're going to go try to research that good luck finding it now cuz Nintendo age doesn't even exist anymore so the fact that all that information before Nintendo age died was collected into a…
+
+## [CQ 209 - 10 SNES Games We'd Start Our Collections With](../episodes/cq-209-sc-1391155801.md)
+
+2022-11-27 · Multiple transcript paragraph matches · Transcript available
+
+- 02:26:03: understanding of that uh soon before this year like a a postmortem of a cryptocurrency like a a shitty cryptocurrency that went to zero it's just it'll just have like a spreadsheet and it'll be like this is how I lit my money on fire strategically yeah well I mean you were lighting your money on fire the minute you bought a Wii game yeah…
+- 02:44:15: the hero of time double ugly presents double ugly the official game of the movie actually understands the Zelda Timeline Jeff pierce the actual Shinobi jonic the kid Jeff the Game Boy Ferris he is error Jeff Russell Jeremy Jarvis here for the POG talk Jeremy Matson and the Order of No Quarter Joe actually plays his games champ pity video…
+
+## [CQ 210 - So you want to collect... Nintendo Wii](../episodes/cq-210-sc-1400207374.md)
+
+2022-12-10 · Multiple transcript paragraph matches · Transcript available
+
+- 00:53:08: Princess and smash and and Mario Galaxy which Mario Galaxy despite being like one of the most popular games I don't even know if there is a variant like an outward variant on that one um but yeah I I've never seen any of that until the past 3 years in just the sealed community so if you go into like we veteranary game whatever [ __ ] prob…
+- 00:57:24: Player's Choice the player choice sucks now you know here's like what a product code is on the back of the box and it just does that for every console it goes over like rev a for NES it goes over the circle seal of quality to oval seal of quality on NES and you just look at this document and like half of it I'm like yeah this is like basi…
+
+## [CQ 211 - What Happened and What Did We Collect in 2022?](../episodes/cq-211-sc-1406930341.md)
+
+2022-12-24 · Multiple transcript paragraph matches · Transcript available
+
+- 00:38:53: opened yet but apparently he's going to solve those problems that we have with sites like price charting doesn't exist yet I think it's coming early next year uh so it's something to keep an eye out on but um going back to our busted price charting data complete and box N64 games and loose N64 games took a nose dive at the same time on Ma…
+- 00:52:37: no I what I'm gonna talk it's funny because I'm going to talk about like what part of my goals are for this year and it is not it weirdly it doesn't like some of my goals include the word bu but a lot of them include the word document for me Johnny interesting um so do we want to start to get into it yeah let's get into it okay hold on th…
+
+## [CQ 212 - What Was Cool to Collect in the Mid 2000s?](../episodes/cq-212-sc-1419684073.md)
+
+2023-01-09 · Multiple transcript paragraph matches · Transcript available
+
+- 00:09:32: yeah well what you're just making it look like we didn't do enough research for our show now oh well you know we we did specify the time period as mid-2000s because that's when we started because we can revisit this and then we can talk about the 2015s what were cool and uh and then how that all changed and then like uh I just saw a pictu…
+- 00:12:46: right he I think he did both oh oh yeah yeah yeah I think it was both so I mean Nintendo will I don't think there's anything to say about that we a lot of I didn't see any of them in collections but I mean like people knew who had the Nintendo World championships Golds there was a list remember on Nintendo age there was a list if you had…
+
+## [CQ 213 - Collecting Mail Order Exclusives](../episodes/cq-213-sc-1430232622.md)
+
+2023-01-23 · Multiple transcript paragraph matches · Transcript available
+
+- 00:50:10: mail loader only game and it wasn't just like only mail order they advertised it as you could only get this game if you mail order it from the stupid catalog um but like you go on eBay there's probably at least a couple complete and box copies on eBay and they go for $100 to $300 and I think like the $300 are an outlier I'd say closer to…
+- 01:31:45: could be like internet archive is a little bit free form in its way like you could put up a scan you could put up a dump of a disc you could write a description of it but and if you just collect a bunch of Articles like that it's like having a collection of Wikipedia articles almost it's not the most complete database but I think of the o…
+
+## [CQ 214 - Collecting the Most Influential Games Ever](../episodes/cq-214-sc-1440534046.md)
+
+2023-02-05 · Multiple transcript paragraph matches · Transcript available
+
+- 01:42:14: this was real this is like suddenly you were like a PC Gamer all of a sudden uh yeah I I I don't know enough about multiplayer cuz I only play Call of single player Johnny but I know there are multiplayer aspects of Call of Duty that were introduced in Call of Duty 4 that carry through the series but I don't know exactly what they are the…
+- 03:00:01: the official game of the movie actually understands the Zelda Timeline Jeff pierce the actual Shinobi jonic the kid Jeff the Game Boy Ferris he is eror Jeff Russell Jeremy Jarvis here for the POG talk Jeremy Matson and the Order of No Quarter Joe actually plays his games champ pity video game art collector because video games are art Just…
+
+## [CQ 215 - So You Want To Collect Gamecube](../episodes/cq-215-sc-1451057854.md)
+
+2023-02-20 · Multiple transcript paragraph matches · Transcript available
+
+- 00:06:18: on no no uh you know I we're here Tyler and we've done the thing that people have been asking us to do for quite some time and uh I'm going to tell you of all the soana collects this one has been the most daunting this I already like I mean I'm I'm spoiling a major theme of the episode here right off the bat Johnny in the research for thi…
+- 02:41:53: Age thing what we're going to really need is a major catalist for people to Define what those errors are and I don't know what did that for Comics like maybe it was price guides that split things up like that maybe that happened before price guys I'm not really sure um but like we would need the the Johnny iuchi collecting catalog of here…
+
+## [CQ218 - When Are We Done Collecting?](../episodes/cq-218-sc-1478090170.md)
+
+2023-03-26 · Multiple transcript paragraph matches · Transcript available
+
+- 00:10:36: in the case like I guess that's probably stuff that's not on their website great to know but if you're not interested in want it this isn't cool whereas if you're not interested in cgc cgc guide still super good in fact maybe the best single guide on collecting video games that's ever been assembled compact one document this is collecting…
+- 00:11:39: Marios are we ever really done collecting Johnny um should we ever be done collecting I mean I think some people find a natural end and are normal human beings and they move on with their life they're like ah I had those games I wanted to get I got them that felt cool and then they moved on and they just like oh look my friends come over…
+
+## [CQ 220 - Games You Simply Can't Collect](../episodes/cq-220-sc-1494274609.md)
+
+2023-04-17 · Multiple transcript paragraph matches · Transcript available
+
+- 00:31:58: there's the the entire early history of mobile games you can kind of collect because of this reason there's another popular early history of uh games phone the hogut mt2000 and it has a a hidden version of Tetris in it and it's one of those games that people thought was the first mobile game before they did more research but you know it's…
+- 01:20:37: those were all supposed to be destroyed cool go get these guys they're out there yeah but there there are more games so this were some impossible rares um I said 10 for the Blockbuster challenge I I don't know that's not an exact number it could be as low as like six high as 12 you guys will have to do more research on that one uh and tha…
+
+## [CQ 221 - Disney Games (You've Probably Never Heard Of)](../episodes/cq-221-sc-1503439426.md)
+
+2023-04-30 · Multiple transcript paragraph matches · Transcript available
+
+- 00:20:01: that doesn't matter like this is way less cool than Sorcerer's Apprentice maybe I've looked into this wrong or incorrectly because I I have Mickey in The Great Outdoors but when I looked it up I'm like ah this looks like it's probably the second Disney games so [ __ ] this I still need Sorcerer's Apprentice uh but if you want to go do res…
+- 00:26:31: in okay i' I've got a lot of things to say here um first of all I'm a big Pro on the The Mickey Mouse gaming watch I like it a lot because I like the connection between uh early 80s Nintendo and Disney I find that stuff really interesting and specifically like the Mickey Mouse game and watch the fact that Donkey Kong was going to be a Pop…
+
 ## [CQ 222 - Psychological Effects That Affect Collectors](../episodes/cq-222-sc-1517354524.md)
 
 2023-05-19 · Multiple transcript paragraph matches · Transcript available
@@ -355,12 +823,89 @@ Search terms: research, document, database, spreadsheet, catalog, gamefaqs, nint
 - 00:01:01: putting amusement parks into your brain uh you know planning everything and then like because you're spending so much money it feels like every second there you're like am I optimizing this like I know I did like hours of YouTube research am I doing this the right way I don't know man it's it's a shame that you brought that up there becau…
 - 01:02:11: the space is just zero% worth it to me to do Lego and I still just have Lego sitting around um but metal dice Johnny do you know how hard I was into metal dice like 10 years ago think crazy with video games I think I was the person in the world like checklist spreadsheet of every like commercial metal die that was ever released I bought a…
 
+## [CQ 224 - 3D Glasses: The Metaverse of the 80s/90s](../episodes/cq-224-sc-1537276129.md)
+
+2023-06-12 · Multiple transcript paragraph matches · Transcript available
+
+- 00:45:40: kind of comes up at the screen and every time it goes to the left it goes down below the screen so it looks like it's moving in 3D around your screen um Mo the most shocking thing I found about this game from the Wikipedia article where I did all my research on beyond the black hole Dragon magazine gave this game a five out of five a perf…
+- 00:51:58: thanks Pico and if you don't know about Jim power it's just like a sidescrolling action platformer this is kind of a nothing game there there wasn't a lot of people who were like man gy power is great let's go play this Johnny you put the price at $300 I'm going to say that is like the most wrong price on her spreadsheet right now no no i…
+
+## [CQ 226 - It's Maybe A Good Time To Buy Games](../episodes/cq-226-sc-1559792467.md)
+
+2023-07-09 · Multiple transcript paragraph matches · Transcript available
+
+- 00:21:32: was one more point of like bad data that was helping you cuz game value now had like outdated data that wasn't updating and that might have helped keep prices down um but the thing is a lot of people have recognized that this is a huge problem in the video game collecting market we've got all these startups we've got minty.com that's just…
+- 00:25:41: it'll happen I mean you could be minty or gamer STS that just like oh I work with an AI developer now it does this now we have all this data like those are the companies that want the data because they're the ones who are going to make the money off of it so yeah all right Johnny this is kind of uh this goes hand hand with how we don't ha…
+
+## [CQ 227 - Why YOU, a normal person, might want to collect sports games](../episodes/cq-227-sc-1572866659.md)
+
+2023-07-24 · Multiple transcript paragraph matches · Transcript available
+
+- 00:54:22: a grueling video game that maybe didn't sell well for more reasons than it just being an unpopular sport in America interesting all right let's let's move on to the one I am excited to talk about even though it's soccer because I I have questions damn we just we're doing three soccer games in a row that's nuts I know we we hate people we…
+- 01:25:02: technicality aside maybe he does have some other stupid appearance no one cares about no I you might just be right it I'm I'm reading Bleacher Report and saying it's the first time he'll Grace the cover of a video game and I trust Bleacher Report to do the research what the why okay go on I'm gonna let you talk I'm sorry Tyler no is this…
+
+## [CQ 228 - Western Licenses without Western Releases](../episodes/cq-228-sc-1585063087.md)
+
+2023-08-06 · Multiple transcript paragraph matches · Transcript available
+
+- 00:03:10: because it wasn't like a big name that you would super remember unless maybe you were older than me like the the trs8 game I believe so yeah that is that's one of the first Microsoft games and one of the first box games ever and I believe does it have Caitlyn Jenner in it it might I'm reading that straight off the Wikipedia article doing…
+- 00:07:19: interesting was people asking for a part two and you're right A lot of people who messaged me privately wanted more episodes based on like athletes on the cover of boxes they like wanted to know and people make list and collect around that so that was interesting cuz I was like man there is a whole host of games where they're like I would…
+
+## [CQ 229 - Stop Buying Things You Don't Need](../episodes/cq-229-sc-1598747856.md)
+
+2023-08-22 · Multiple transcript paragraph matches · Transcript available
+
+- 00:42:06: if you have that mentality you have never inherited a collection before if you think that your kid you're going to pass down your collection to your kids your kids don't want your [ __ ] [ __ ] unless you have specifically raised them to be like I love Atari games I played Atari games with my dad all the time throughout my childhood I hav…
+- 01:08:56: have this collection you go on Instagram and you post it and you've got clout uh that's less of a thing especially as like Instagram has moved away from being picture based and more into reals and [ __ ] um you know it uh you're just like less people are going to see your one-off pictures you have to have a whole production and a show abo…
+
+## [CQ 230 - Collecting Very "Adult" Games](../episodes/cq-230-sc-1610486424.md)
+
+2023-09-07 · Multiple transcript paragraph matches · Transcript available
+
+- 00:48:49: poker games that might be a little bit cheaper but probably just get this four in one and uh yeah 200 bucks not bad okay nice um hey Tyler that takes us out of the 80s and yes there there's more in the 80s um you know we didn't look at things like um the turbo Graphics has like a couple they've got like the as we get into more the 16 bit…
+- 01:36:00: weirdo like I'm a sicko so I got all the weirdest kinkiest [ __ ] most controversial games in history if you're that guy and this is just a footnote in your collection sure but for all your regular collectors maybe just pass on this one spend your money on anything no I think everyone's going to judge you if you like have this even in you…
+
+## [CQ 232 - A Very, Very 90s Halloween Episode](../episodes/cq-232-sc-1630343691.md)
+
+2023-10-02 · Multiple transcript paragraph matches · Transcript available
+
+- 00:52:30: played but this is one I think I've seen people collect it and you might know why people collect it it's called The Twilight Zone from 1988 huh and had you not just talked about a freaking Doan game that basically doesn't exist on the internet this is probably the rarest and most obscure game on the list which is crazy considering the pop…
+- 01:14:56: Tyler and he was like I don't want to talk about boring games that have nothing to talk about I'm not interested in that Johnny I don't want to talk I was like okay I was just throwing suggestions out there five minutes into research later Tyler's like this is the best thing I've ever seen I'm buying it right now Told You So I know you Ty…
+
+## [CQ 233 - The MOST Iconic Halloween Game on Each Console](../episodes/cq-233-sc-1641388887.md)
+
+2023-10-15 · Multiple transcript paragraph matches · Transcript available
+
+- 00:02:09: be hearing this uh four months from now it's not four months it's like two months two mon what is it it's July that's the seven no it's August it's days it's days away less than a week away from August 1st all right time keeps moving so this is a Halloween episode it's not an after why do you always disparage our episodes I'm not disparag…
+- 00:03:14: call the so you want to collect Halloween games episodes and then we do one that's like a little more thematic it's like okay uh here's a horror movie timeline or hey here's uh you know here's a Scooby-Doo retrospective or some dumb thing or here's the history of survival horror games even though that one was very research intensive but t…
+
+## [CQ 234 - How Many NES Variants Can One Man Know?](../episodes/cq-234-sc-1652240901.md)
+
+2023-10-30 · Multiple transcript paragraph matches · Transcript available
+
+- 00:03:06: NES video games I like to collect variants and document stuff and I just sit around eBay all day looking at random stuff all right so you just described everyone in the Discord that's cool oh so you've got like what 400 Nintendo cards yeah yeah something like that how many of them Nintendo tapes do you have also just give us a little more…
+- 00:04:06: sent me over to Nintendo age and then that was sort of the beginning of the rest of my life and this this was around 2011 so so your stuff dried up that early yeah yeah uh well it it started to pick up a lot by a lot of uh resellers and I was getting stuff for pennies on the dollar even even back then and uh I I didn't want to pay you kno…
+
 ## [CQ 236 - A Conversation for New Game Collectors](../episodes/cq-236-sc-1674664860.md)
 
 2023-11-26 · Multiple transcript paragraph matches · Transcript available
 
 - 00:05:08: of Tyler and I is that we're and this is something you should be able to do and let me impart this to you now separate what you want from what you find to be interesting they they don't have to be the same thing CU Tyler and I will be like ah let's research and think about something and then we're like that is cool just because something…
 - 00:06:08: for any one man yes we we've already exceeded the enough for one person five people or 10 people phase of our existence so Johnny Let's uh let's get into our show notes now that people know who we are we're a bunch of weird hoarders who have had a podcast for way too long we also have a bunch of full sets we've we also like to research we…
+
+## [CQ 237 - Collecting the EARLY History of Platformers](../episodes/cq-237-sc-1687362771.md)
+
+2023-12-11 · Multiple transcript paragraph matches · Transcript available
+
+- 02:08:45: and he knows so much and everything Joe is out there he knows so much and has so much data but there's not a book we can all just pick up and be like well here's the Nintendo Bible that tells me everything I need to know yeah here here's the super that's my answer yeah I'll agree it's the lack of organized data I do I do think maybe there…
+- 02:09:49: documented two completion the most important game ever made so we will never document everything so to that sense yes we are missing a lot of data but I think organized data is the most important thing we are missing um and yes a lot of people have different projects working on different ways of of uh organizing variant a lot of people ar…
+
+## [CQ 238 - The Goals, Trends, and Prices of 2023](../episodes/cq-238-sc-1703893836.md)
+
+2023-12-30 · Multiple transcript paragraph matches · Transcript available
+
+- 00:19:12: 2023 uh we're complaining about um jard the completionist I think that's what we're complaining about now okay Johnny that this won't even be topical no one's going to remember what this is in a week I know um but about 4 what this I just goes into a wider problem I have with content lately is one everybody just eats everybody's content a…
+- 00:56:21: like a Joe type person to like make the list of what goes with what so I could actually like go and figure out where all this goes because I don't want to do the research of like going through eBay and figuring out what goes with what I already have to like put these all in games somewhere so I think I'm just OGB C uh CIB has a really goo…
 
 ## [CQ 239 - Rating "THE RAREST" Collectible Games](../episodes/cq-239-sc-1711235970.md)
 

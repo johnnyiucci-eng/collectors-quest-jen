@@ -1,6 +1,6 @@
 # Collector's Quest episode library
 
-Combined inventory: **316 entries** (316 from the publisher feed). Transcripts ingested: **205**. Still missing: **111**. Transcript words: **3,920,364**.
+Combined inventory: **318 entries** (316 from the publisher feed). Transcripts ingested: **318**. Still missing: **0**. Transcript words: **6,353,575**.
 
 This library includes numbered episodes and bonus/special entries. A transcript being available does not mean every passage has been closely analyzed. See [coverage](COVERAGE.md), [topic discovery](topics/README.md), and [the full manifest](manifest.json).
 
@@ -20,7 +20,7 @@ This library includes numbered episodes and bonus/special entries. A transcript 
 | [CQ 289 - Weird NES stuff for the REAL ONES ](episodes/cq-289-sc-2259082820.md) | 2026-02-02 | available |
 | [CQ 288 - Set Collecting is (Not) Dead ](episodes/cq-288-sc-2250678095.md) | 2026-01-20 | available |
 | [CQ 287 - We're Going to Collect Video Games in 2026 ](episodes/cq-287-sc-2241677927.md) | 2026-01-05 | available |
-| [CQAD - Christmas Bonus "Episode" ](episodes/sc-2233221167.md) | 2025-12-20 | missing |
+| [CQAD - Christmas Bonus "Episode" ](episodes/sc-2233221167.md) | 2025-12-20 | available |
 | [CQ 286 - Psychology Ruining the Hobby ](episodes/cq-286-sc-2233220897.md) | 2025-12-20 | available |
 | [CQ 285 - The 57 BEST gifts for HARDCORE gamers that DON'T SUCK ](episodes/cq-285-sc-2219725613.md) | 2025-11-27 | available |
 | [CQ 284 - Are giant flops worth collecting? ](episodes/cq-284-sc-2213356145.md) | 2025-11-16 | available |
@@ -70,67 +70,67 @@ This library includes numbered episodes and bonus/special entries. A transcript 
 | [CQ 241 - Modern Games You'll NEVER Regret Owning ](episodes/cq-241-sc-1741872345.md) | 2024-02-09 | available |
 | [CQ 240 - Old Men Complain About Collecting Rereleases, Reissues, and Rehashes ](episodes/cq-240-sc-1724575866.md) | 2024-01-22 | available |
 | [CQ 239 - Rating "THE RAREST" Collectible Games ](episodes/cq-239-sc-1711235970.md) | 2024-01-08 | available |
-| [CQ 238 - The Goals, Trends, and Prices of 2023 ](episodes/cq-238-sc-1703893836.md) | 2023-12-30 | missing |
-| [CQ 237 - Collecting the EARLY History of Platformers ](episodes/cq-237-sc-1687362771.md) | 2023-12-11 | missing |
+| [CQ 238 - The Goals, Trends, and Prices of 2023 ](episodes/cq-238-sc-1703893836.md) | 2023-12-30 | available |
+| [CQ 237 - Collecting the EARLY History of Platformers ](episodes/cq-237-sc-1687362771.md) | 2023-12-11 | available |
 | [CQ 236 - A Conversation for New Game Collectors ](episodes/cq-236-sc-1674664860.md) | 2023-11-26 | available |
-| [CQ 235 - Gifts you can ACTUALLY ask Santa for ](episodes/cq-235-sc-1664414514.md) | 2023-11-14 | missing |
-| [CQ 234 - How Many NES Variants Can One Man Know? ](episodes/cq-234-sc-1652240901.md) | 2023-10-30 | missing |
-| [CQ 233 - The MOST Iconic Halloween Game on Each Console ](episodes/cq-233-sc-1641388887.md) | 2023-10-15 | missing |
-| [CQ 232 - A Very, Very 90s Halloween Episode ](episodes/cq-232-sc-1630343691.md) | 2023-10-02 | missing |
-| [CQ 231 - We'd Start our PS2 Collections with WHAT? ](episodes/cq-231-sc-1619629923.md) | 2023-09-19 | missing |
-| [CQ 230 - Collecting Very "Adult" Games ](episodes/cq-230-sc-1610486424.md) | 2023-09-07 | missing |
-| [CQ 229 - Stop Buying Things You Don't Need ](episodes/cq-229-sc-1598747856.md) | 2023-08-22 | missing |
-| [CQ 228 - Western Licenses without Western Releases ](episodes/cq-228-sc-1585063087.md) | 2023-08-06 | missing |
-| [CQ 227 - Why YOU, a normal person, might want to collect sports games ](episodes/cq-227-sc-1572866659.md) | 2023-07-24 | missing |
-| [CQ 226 - It's Maybe A Good Time To Buy Games ](episodes/cq-226-sc-1559792467.md) | 2023-07-09 | missing |
-| [CQ 225 - The MOST Underrated and Overrated Collectible Games ](episodes/cq-225-sc-1549850767.md) | 2023-06-25 | missing |
-| [CQ 224 - 3D Glasses: The Metaverse of the 80s/90s ](episodes/cq-224-sc-1537276129.md) | 2023-06-12 | missing |
-| [CQ 223 - 10 Sega Saturn Games We'd Start Our Collections With ](episodes/cq-223-sc-1524710995.md) | 2023-05-28 | missing |
+| [CQ 235 - Gifts you can ACTUALLY ask Santa for ](episodes/cq-235-sc-1664414514.md) | 2023-11-14 | available |
+| [CQ 234 - How Many NES Variants Can One Man Know? ](episodes/cq-234-sc-1652240901.md) | 2023-10-30 | available |
+| [CQ 233 - The MOST Iconic Halloween Game on Each Console ](episodes/cq-233-sc-1641388887.md) | 2023-10-15 | available |
+| [CQ 232 - A Very, Very 90s Halloween Episode ](episodes/cq-232-sc-1630343691.md) | 2023-10-02 | available |
+| [CQ 231 - We'd Start our PS2 Collections with WHAT? ](episodes/cq-231-sc-1619629923.md) | 2023-09-19 | available |
+| [CQ 230 - Collecting Very "Adult" Games ](episodes/cq-230-sc-1610486424.md) | 2023-09-07 | available |
+| [CQ 229 - Stop Buying Things You Don't Need ](episodes/cq-229-sc-1598747856.md) | 2023-08-22 | available |
+| [CQ 228 - Western Licenses without Western Releases ](episodes/cq-228-sc-1585063087.md) | 2023-08-06 | available |
+| [CQ 227 - Why YOU, a normal person, might want to collect sports games ](episodes/cq-227-sc-1572866659.md) | 2023-07-24 | available |
+| [CQ 226 - It's Maybe A Good Time To Buy Games ](episodes/cq-226-sc-1559792467.md) | 2023-07-09 | available |
+| [CQ 225 - The MOST Underrated and Overrated Collectible Games ](episodes/cq-225-sc-1549850767.md) | 2023-06-25 | available |
+| [CQ 224 - 3D Glasses: The Metaverse of the 80s/90s ](episodes/cq-224-sc-1537276129.md) | 2023-06-12 | available |
+| [CQ 223 - 10 Sega Saturn Games We'd Start Our Collections With ](episodes/cq-223-sc-1524710995.md) | 2023-05-28 | available |
 | [CQ 222 - Psychological Effects That Affect Collectors ](episodes/cq-222-sc-1517354524.md) | 2023-05-19 | available |
-| [CQ 221 - Disney Games (You've Probably Never Heard Of) ](episodes/cq-221-sc-1503439426.md) | 2023-04-30 | missing |
-| [CQ 220 - Games You Simply Can't Collect ](episodes/cq-220-sc-1494274609.md) | 2023-04-17 | missing |
-| [CQ 219 - 10 Sega Genesis Games We'd Start Our Collections With ](episodes/cq-219-sc-1483798762.md) | 2023-04-03 | missing |
-| [CQ 219X - So You Want To Collect Neo Geo ](episodes/cq-219-sc-1482995356.md) | 2023-04-01 | missing |
-| [CQ218 - When Are We Done Collecting? ](episodes/cq-218-sc-1478090170.md) | 2023-03-26 | missing |
-| [CQ 216 - How Many of Our Games Will the Future Even Remember? ](episodes/cq-216-sc-1466430109.md) | 2023-03-11 | missing |
-| [CQ 217 - SideQuest Johnny AMA - Caution Not A Regular Episode ](episodes/cq-217-sc-1463967268.md) | 2023-03-08 | missing |
-| [CQ 215 - So You Want To Collect Gamecube ](episodes/cq-215-sc-1451057854.md) | 2023-02-20 | missing |
-| [CQ 214 - Collecting the Most Influential Games Ever ](episodes/cq-214-sc-1440534046.md) | 2023-02-05 | missing |
-| [Collector's Edition 2: Funko Pop Primer in Conjunction with The Dialogue Alley Podcast ](episodes/sc-1436347333.md) | 2023-01-31 | missing |
-| [CQ 213 - Collecting Mail Order Exclusives ](episodes/cq-213-sc-1430232622.md) | 2023-01-23 | missing |
-| [CQ 212 - What Was Cool to Collect in the Mid 2000s? ](episodes/cq-212-sc-1419684073.md) | 2023-01-09 | missing |
-| [CQ 211 - What Happened and What Did We Collect in 2022? ](episodes/cq-211-sc-1406930341.md) | 2022-12-24 | missing |
-| [CQ 210 - So you want to collect... Nintendo Wii ](episodes/cq-210-sc-1400207374.md) | 2022-12-10 | missing |
-| [CQ 209 - 10 SNES Games We'd Start Our Collections With ](episodes/cq-209-sc-1391155801.md) | 2022-11-27 | missing |
-| [CQ 208 - CQ Holiday Gift Guide 2022 ](episodes/cq-208-sc-1381920739.md) | 2022-11-12 | missing |
-| [CQ 207 - Retro Game Collecting is Dead ](episodes/cq-207-sc-1377327931.md) | 2022-11-06 | missing |
-| [CQ 206 - So You Want To Collect Halloween Games #5 Current Gen Games ](episodes/cq-206-sc-1369678939.md) | 2022-10-25 | missing |
-| [CQ 205 - Too Many Horror Movie Games from the '70s to '90s ](episodes/cq-205-sc-1360671826.md) | 2022-10-11 | missing |
+| [CQ 221 - Disney Games (You've Probably Never Heard Of) ](episodes/cq-221-sc-1503439426.md) | 2023-04-30 | available |
+| [CQ 220 - Games You Simply Can't Collect ](episodes/cq-220-sc-1494274609.md) | 2023-04-17 | available |
+| [CQ 219 - 10 Sega Genesis Games We'd Start Our Collections With ](episodes/cq-219-sc-1483798762.md) | 2023-04-03 | available |
+| [CQ 219X - So You Want To Collect Neo Geo ](episodes/cq-219-sc-1482995356.md) | 2023-04-01 | available |
+| [CQ218 - When Are We Done Collecting? ](episodes/cq-218-sc-1478090170.md) | 2023-03-26 | available |
+| [CQ 216 - How Many of Our Games Will the Future Even Remember? ](episodes/cq-216-sc-1466430109.md) | 2023-03-11 | available |
+| [CQ 217 - SideQuest Johnny AMA - Caution Not A Regular Episode ](episodes/cq-217-sc-1463967268.md) | 2023-03-08 | available |
+| [CQ 215 - So You Want To Collect Gamecube ](episodes/cq-215-sc-1451057854.md) | 2023-02-20 | available |
+| [CQ 214 - Collecting the Most Influential Games Ever ](episodes/cq-214-sc-1440534046.md) | 2023-02-05 | available |
+| [Collector's Edition 2: Funko Pop Primer in Conjunction with The Dialogue Alley Podcast ](episodes/sc-1436347333.md) | 2023-01-31 | available |
+| [CQ 213 - Collecting Mail Order Exclusives ](episodes/cq-213-sc-1430232622.md) | 2023-01-23 | available |
+| [CQ 212 - What Was Cool to Collect in the Mid 2000s? ](episodes/cq-212-sc-1419684073.md) | 2023-01-09 | available |
+| [CQ 211 - What Happened and What Did We Collect in 2022? ](episodes/cq-211-sc-1406930341.md) | 2022-12-24 | available |
+| [CQ 210 - So you want to collect... Nintendo Wii ](episodes/cq-210-sc-1400207374.md) | 2022-12-10 | available |
+| [CQ 209 - 10 SNES Games We'd Start Our Collections With ](episodes/cq-209-sc-1391155801.md) | 2022-11-27 | available |
+| [CQ 208 - CQ Holiday Gift Guide 2022 ](episodes/cq-208-sc-1381920739.md) | 2022-11-12 | available |
+| [CQ 207 - Retro Game Collecting is Dead ](episodes/cq-207-sc-1377327931.md) | 2022-11-06 | available |
+| [CQ 206 - So You Want To Collect Halloween Games #5 Current Gen Games ](episodes/cq-206-sc-1369678939.md) | 2022-10-25 | available |
+| [CQ 205 - Too Many Horror Movie Games from the '70s to '90s ](episodes/cq-205-sc-1360671826.md) | 2022-10-11 | available |
 | [CQ 204 - Price History is BS ](episodes/cq-204-sc-1350766930.md) | 2022-09-25 | available |
-| [CQ 203 - Collecting Games From Dead Genres ](episodes/cq-203-sc-1343296345.md) | 2022-09-13 | missing |
-| [CQ 202 - Collecting 6 Rare Dinosaur Games That're Totally Cretaceous! ](episodes/cq-202-sc-1335372241.md) | 2022-09-01 | missing |
-| [CQ 201 - Reconsidering the List of 677 NES Games ](episodes/cq-201-sc-1327980511.md) | 2022-08-21 | missing |
-| [CQ 200 - The History of Our Collecting Goals ](episodes/cq-200-sc-1316628157.md) | 2022-08-02 | missing |
-| [CQ 199 - We're Making Less-Bad Collecting Lists ](episodes/cq-199-sc-1308237088.md) | 2022-07-20 | missing |
-| [CQ 198 - 10 NES Games We'd Start Our Collections With ](episodes/cq-198-sc-1298282182.md) | 2022-07-02 | missing |
-| [CQ 197 - Enjoying Collecting Games More ](episodes/cq-197-sc-1291821400.md) | 2022-06-21 | missing |
-| [CQ 196 - Ranking The 8 Most Collectible Consoles ](episodes/cq-196-sc-1281166033.md) | 2022-06-04 | missing |
-| [CQ 195 - Is "THE BUBBLE" Bursting? Time to Buy?? ](episodes/cq-195-sc-1270301767.md) | 2022-05-17 | missing |
-| [CQ 194 - So You Want To Collect Sega CD ](episodes/cq-194-sc-1261901374.md) | 2022-05-04 | missing |
-| [CQ 193 - What Are The Full Set Killers? ](episodes/cq-193-sc-1253431078.md) | 2022-04-20 | missing |
-| [CQ 192? - So... Does Anyone Want To Collect R-Zone? ](episodes/cq-192-sc-1242943639.md) | 2022-04-02 | missing |
-| [CQ 191 - Collecting Games Because You Can't Emulate Them ](episodes/cq-191-sc-1240773535.md) | 2022-03-29 | missing |
-| [CQ 190 - Twenty Types of Game Collectors ](episodes/cq-190-sc-1234327159.md) | 2022-03-18 | missing |
-| [CQ 189 - The History (and present) of Collector's Editions ](episodes/cq-189-sc-1224721120.md) | 2022-03-01 | missing |
-| [CQ 188 - The Worst Parts of Collecting Games ](episodes/cq-188-sc-1214866588.md) | 2022-02-13 | missing |
-| [CQ 187 - The Surprising Collectability of... the Wii U? ](episodes/cq-187-sc-1206315124.md) | 2022-01-30 | missing |
-| [CQ 186 - Physical Games in the Upcoming Post-Physical Media World ](episodes/cq-186-sc-1197422230.md) | 2022-01-16 | missing |
-| [CQ 185 - 2021: The Craziest Year in Game Collecting ](episodes/cq-185-sc-1189178131.md) | 2022-01-03 | missing |
-| [Nightmare On My Shelf ](episodes/sc-1042135687.md) | 2021-12-14 | missing |
-| [CQ 184 - Obscure Games That Came with Presents! ](episodes/cq-184-sc-1176696058.md) | 2021-12-12 | missing |
-| [CQ 183 - Anything Interesting in that Wata Pop Report? ](episodes/cq-183-sc-1171013329.md) | 2021-12-03 | missing |
-| [CQ 182 - Collecting 10/10 Games for $10 Each ](episodes/cq-182-sc-1167475807.md) | 2021-11-26 | missing |
-| [CQ 181 - Are the "Holy Grails" Even Worth It? ](episodes/cq-181-sc-1160173126.md) | 2021-11-15 | missing |
+| [CQ 203 - Collecting Games From Dead Genres ](episodes/cq-203-sc-1343296345.md) | 2022-09-13 | available |
+| [CQ 202 - Collecting 6 Rare Dinosaur Games That're Totally Cretaceous! ](episodes/cq-202-sc-1335372241.md) | 2022-09-01 | available |
+| [CQ 201 - Reconsidering the List of 677 NES Games ](episodes/cq-201-sc-1327980511.md) | 2022-08-21 | available |
+| [CQ 200 - The History of Our Collecting Goals ](episodes/cq-200-sc-1316628157.md) | 2022-08-02 | available |
+| [CQ 199 - We're Making Less-Bad Collecting Lists ](episodes/cq-199-sc-1308237088.md) | 2022-07-20 | available |
+| [CQ 198 - 10 NES Games We'd Start Our Collections With ](episodes/cq-198-sc-1298282182.md) | 2022-07-02 | available |
+| [CQ 197 - Enjoying Collecting Games More ](episodes/cq-197-sc-1291821400.md) | 2022-06-21 | available |
+| [CQ 196 - Ranking The 8 Most Collectible Consoles ](episodes/cq-196-sc-1281166033.md) | 2022-06-04 | available |
+| [CQ 195 - Is "THE BUBBLE" Bursting? Time to Buy?? ](episodes/cq-195-sc-1270301767.md) | 2022-05-17 | available |
+| [CQ 194 - So You Want To Collect Sega CD ](episodes/cq-194-sc-1261901374.md) | 2022-05-04 | available |
+| [CQ 193 - What Are The Full Set Killers? ](episodes/cq-193-sc-1253431078.md) | 2022-04-20 | available |
+| [CQ 192? - So... Does Anyone Want To Collect R-Zone? ](episodes/cq-192-sc-1242943639.md) | 2022-04-02 | available |
+| [CQ 191 - Collecting Games Because You Can't Emulate Them ](episodes/cq-191-sc-1240773535.md) | 2022-03-29 | available |
+| [CQ 190 - Twenty Types of Game Collectors ](episodes/cq-190-sc-1234327159.md) | 2022-03-18 | available |
+| [CQ 189 - The History (and present) of Collector's Editions ](episodes/cq-189-sc-1224721120.md) | 2022-03-01 | available |
+| [CQ 188 - The Worst Parts of Collecting Games ](episodes/cq-188-sc-1214866588.md) | 2022-02-13 | available |
+| [CQ 187 - The Surprising Collectability of... the Wii U? ](episodes/cq-187-sc-1206315124.md) | 2022-01-30 | available |
+| [CQ 186 - Physical Games in the Upcoming Post-Physical Media World ](episodes/cq-186-sc-1197422230.md) | 2022-01-16 | available |
+| [CQ 185 - 2021: The Craziest Year in Game Collecting ](episodes/cq-185-sc-1189178131.md) | 2022-01-03 | available |
+| [Nightmare On My Shelf ](episodes/sc-1042135687.md) | 2021-12-14 | available |
+| [CQ 184 - Obscure Games That Came with Presents! ](episodes/cq-184-sc-1176696058.md) | 2021-12-12 | available |
+| [CQ 183 - Anything Interesting in that Wata Pop Report? ](episodes/cq-183-sc-1171013329.md) | 2021-12-03 | available |
+| [CQ 182 - Collecting 10/10 Games for $10 Each ](episodes/cq-182-sc-1167475807.md) | 2021-11-26 | available |
+| [CQ 181 - Are the "Holy Grails" Even Worth It? ](episodes/cq-181-sc-1160173126.md) | 2021-11-15 | available |
 | [CQ 180 - Collecting the History of Survival Horror ](episodes/cq-180-sc-1151496952.md) | 2021-10-31 | available |
 | [CQ 179 - So You Want to Collect Halloween Games #4 ](episodes/cq-179-sc-1143555589.md) | 2021-10-18 | available |
 | [CQ 178 - Documenting Compulsive Collectors with Director Edward Payson ](episodes/cq-178-sc-1136138623.md) | 2021-10-05 | available |
@@ -140,7 +140,7 @@ This library includes numbered episodes and bonus/special entries. A transcript 
 | [Episode 174 - So you want to collect Turbografx-16 ](episodes/cq-174-sc-1106790757.md) | 2021-08-16 | available |
 | [Episode 173 - You've completed "The Set". What now? ](episodes/cq-173-sc-1097970775.md) | 2021-08-01 | available |
 | [Episode 172 - Who's Buying Million Dollar Mario 64s? ](episodes/cq-172-sc-1089797359.md) | 2021-07-18 | available |
-| [Update: CQ is going back to an explicit rating ](episodes/sc-1089789247.md) | 2021-07-18 | missing |
+| [Update: CQ is going back to an explicit rating ](episodes/sc-1089789247.md) | 2021-07-18 | available |
 | [Episode 171 - Collecting the History of Mario Games ](episodes/cq-171-sc-1085256322.md) | 2021-07-10 | available |
 | [Episode 170 - E3 and Summer Announcements for Game Collectors ](episodes/cq-170-sc-1075203214.md) | 2021-06-24 | available |
 | [Episode 169 - Collecting Light Gun Games (and some you can't collect) ](episodes/cq-169-sc-1067905369.md) | 2021-06-14 | available |
@@ -158,7 +158,7 @@ This library includes numbered episodes and bonus/special entries. A transcript 
 | [Episode 157 - NES vs. Famicom Prices ](episodes/cq-157-sc-966801637.md) | 2021-01-16 | available |
 | [Episode 156 - Game Collecting in 2020 and Looking Ahead to 2021 ](episodes/cq-156-sc-960241846.md) | 2021-01-06 | available |
 | [Episode 155 - Five Golden Things ](episodes/cq-155-sc-951597298.md) | 2020-12-21 | available |
-| [Episode 154 - Don't Collect Video Game Food... but if you do... ](episodes/cq-154-sc-948442732.md) | 2020-12-16 | missing |
+| [Episode 154 - Don't Collect Video Game Food... but if you do... ](episodes/cq-154-sc-948442732.md) | 2020-12-16 | available |
 | [Episode 153 - The $1000 Modern Game Draft ](episodes/cq-153-sc-934338115.md) | 2020-11-23 | available |
 | [Episode 152 - So You Want to Collect Castlevania Games ](episodes/cq-152-sc-921297673.md) | 2020-11-01 | available |
 | [Episode 151 - So You Want to Collect Halloween Games 3 (Thirteen Spooky & Obscure Collectible Game) ](episodes/cq-151-sc-909014128.md) | 2020-10-12 | available |
@@ -173,54 +173,54 @@ This library includes numbered episodes and bonus/special entries. A transcript 
 | [Episode 142 - Organic Collectibility vs. Manufactured Collectibility ](episodes/cq-142-sc-812478658.md) | 2020-05-03 | available |
 | [Episode 141 - All Your Video Game Lists Are Bad ](episodes/cq-141-sc-797285986.md) | 2020-04-13 | available |
 | [Side Quest 3 - Collecting and Finishing the PS1 Set ](episodes/sc-787918894.md) | 2020-03-31 | available |
-| [Episode 140 - Coronavirus Impact on the Video Game Market ](episodes/cq-140-sc-784264867.md) | 2020-03-27 | missing |
-| [SideQuest 2 - Social Strategies ](episodes/sc-781161901.md) | 2020-03-22 | missing |
-| [SideQuest 1 - The Wide World Of Aftermarket Games ](episodes/sc-776912587.md) | 2020-03-16 | missing |
-| [Episode 139 - Two For One: Collectible Double Packs ](episodes/cq-139-sc-771616942.md) | 2020-03-06 | missing |
-| [Episode 138 - The Death Effect ](episodes/cq-138-sc-764176999.md) | 2020-02-21 | missing |
-| [Episode 137 - Will Johnny Sell His Collection for $1,000,000, the Future of the Market, and More! ](episodes/cq-137-sc-750080695.md) | 2020-01-27 | missing |
-| [Episode 136 - A Shameful Review of 2019 ](episodes/cq-136-sc-742473217.md) | 2020-01-12 | missing |
-| [Episide 135 - How to Shop for a Video Game Collector ](episodes/cq-135-sc-724825480.md) | 2019-12-09 | missing |
-| [Episode 134 - Pawn Stars, the Sonic Movie, and 6 Movie Games ](episodes/cq-134-sc-717984787.md) | 2019-11-25 | missing |
-| [Episode 133 - NintendoAge Shutdown and 6 Games with Pack-in Surprises ](episodes/cq-133-sc-709601617.md) | 2019-11-08 | missing |
-| [Episode 132 - PRGE 2019 & What Is "Collectible"? ](episodes/cq-132-sc-702651109.md) | 2019-10-28 | missing |
-| [Episode 131 - Spooky Collectible Halloween Imports ](episodes/cq-131-sc-695873995.md) | 2019-10-17 | missing |
-| [Episode 130 - So You Want To Collect Halloween Games #2 ](episodes/cq-130-sc-694609366.md) | 2019-10-12 | missing |
-| [Episode 129 - So You Want to Collect for the Sega Dreamcast ](episodes/cq-129-sc-685944091.md) | 2019-09-24 | missing |
-| [Episide 128 - Game Collecting Trivia Show ](episodes/cq-128-sc-681716873.md) | 2019-09-16 | missing |
-| [Episode 127 - A Game Heist, Censorship, and Talking to Deniz from Wata Games ](episodes/cq-127-sc-670522865.md) | 2019-08-24 | missing |
-| [Episode 126 - Should You Collect First Prints or First Editions? ](episodes/cq-126-sc-667368926.md) | 2019-08-18 | missing |
-| [Episode 125 - WTF Sonic 1? Why is CQ Always Wrong About First Prints? And other Q&A! ](episodes/cq-125-sc-661123010.md) | 2019-08-04 | missing |
-| [Episode 124 - Xmas in July ("Collectible" Holiday Games) ](episodes/cq-124-sc-655095329.md) | 2019-07-23 | missing |
-| [Episode 123 - Bad Games All Collectors Buy... mainly just to post on IG ](episodes/cq-123-sc-651292376.md) | 2019-07-15 | missing |
-| [Episode 122 - Games Collectors Overpaid For (That Are Cheaper Now) ](episodes/cq-122-sc-644478861.md) | 2019-07-01 | missing |
-| [Episode 121 - Where Does Game Collecting Go Now? ](episodes/cq-121-sc-637230360.md) | 2019-06-15 | missing |
-| [Episode 120 - What is the State of Game Collecting Today? ](episodes/cq-120-sc-631899153.md) | 2019-06-05 | missing |
-| [Episode 119 - So You Want to Collect for the Magnavox Odyssey 2 ](episodes/cq-119-sc-627647898.md) | 2019-05-28 | missing |
-| [Episode 118 - Same Name, Different Game ](episodes/cq-118-sc-616334322.md) | 2019-05-06 | missing |
-| [Episode 117 - Collector's Quiz ](episodes/cq-117-sc-609401367.md) | 2019-04-21 | missing |
-| [Episode 116 - Where Did the Undiscovered NWC Come From and Other Listener Questions ](episodes/cq-116-sc-606134094.md) | 2019-04-15 | missing |
-| [Episode 115 - Does it Count? (for the "complete set") ](episodes/cq-115-sc-598186311.md) | 2019-03-30 | missing |
-| [Episode 114 - So You Want to Collect for the Sega Saturn ](episodes/cq-114-sc-591789531.md) | 2019-03-18 | missing |
-| [Episode 113 - Interview with Wata Games President Deniz Kahn ](episodes/cq-113-sc-588685275.md) | 2019-03-12 | missing |
-| [Episode 112 - 9 Game Variants You Should Look Out For ](episodes/cq-112-sc-580746945.md) | 2019-02-25 | missing |
-| [Episode 111 - Collectors Talking About the $100,000 Super Mario Bros. ](episodes/cq-111-sc-576934368.md) | 2019-02-17 | missing |
-| [Episode 110 - How do we Organize Our Game Collections? ](episodes/cq-110-sc-569105952.md) | 2019-02-02 | missing |
-| [Episode 109 - New Year, New Goals ](episodes/cq-109-sc-558733752.md) | 2019-01-14 | missing |
-| [Episode 108 - Twelve Christmas Collectibles... to Ring in the New Year ](episodes/cq-108-sc-552803268.md) | 2019-01-01 | missing |
-| [Episode 00: Pre Podcast Recording on Trade Etiquette ](episodes/cq-000-sc-549200046.md) | 2018-12-23 | missing |
-| [Episode 107 - The Nightmare Before Ship-mas ](episodes/cq-107-sc-540974424.md) | 2018-12-07 | missing |
-| [Collector's Edition #1 - Harry Potter Book Collecting interview with AllThePrettyBooks ](episodes/sc-536148552.md) | 2018-11-27 | missing |
-| [Episode 106 - So You Want to Collect for the NES ](episodes/cq-106-sc-533172702.md) | 2018-11-21 | missing |
-| [Episode 105 - Opening a New Store, Running Arcades, & Retro City Fest 2019 with Steve Torres ](episodes/cq-105-sc-528514875.md) | 2018-11-12 | missing |
-| [Episode 104 - Is the PlayStation Classic Really That Bad? ](episodes/cq-104-sc-523363038.md) | 2018-11-01 | missing |
-| [Episode 103 - Tricks & Treats: Games to Play this Halloween and Some to Avoid ](episodes/cq-103-sc-515019780.md) | 2018-10-16 | missing |
-| [Episode 102 - So You Want To Collect Halloween Games #1 ](episodes/cq-102-sc-511661571.md) | 2018-10-09 | missing |
-| [Episode 101 - Too Many Minis? ](episodes/cq-101-sc-505309458.md) | 2018-09-26 | missing |
-| [Episode 100 - The $1000 Retro Game Draft ](episodes/cq-100-sc-500380032.md) | 2018-09-15 | missing |
-| [Episode 99 - The Biggest Wastes of Money in Game Collecting ](episodes/cq-099-sc-492160860.md) | 2018-08-29 | missing |
-| [Episode 98 - Homie Hook-ups, Back Door Deals, and More... ](episodes/cq-098-sc-483121236.md) | 2018-08-09 | missing |
-| [Episode 97 - So You Want to Collect for the Original Xbox ](episodes/cq-097-sc-472184118.md) | 2018-07-16 | missing |
+| [Episode 140 - Coronavirus Impact on the Video Game Market ](episodes/cq-140-sc-784264867.md) | 2020-03-27 | available |
+| [SideQuest 2 - Social Strategies ](episodes/sc-781161901.md) | 2020-03-22 | available |
+| [SideQuest 1 - The Wide World Of Aftermarket Games ](episodes/sc-776912587.md) | 2020-03-16 | available |
+| [Episode 139 - Two For One: Collectible Double Packs ](episodes/cq-139-sc-771616942.md) | 2020-03-06 | available |
+| [Episode 138 - The Death Effect ](episodes/cq-138-sc-764176999.md) | 2020-02-21 | available |
+| [Episode 137 - Will Johnny Sell His Collection for $1,000,000, the Future of the Market, and More! ](episodes/cq-137-sc-750080695.md) | 2020-01-27 | available |
+| [Episode 136 - A Shameful Review of 2019 ](episodes/cq-136-sc-742473217.md) | 2020-01-12 | available |
+| [Episide 135 - How to Shop for a Video Game Collector ](episodes/cq-135-sc-724825480.md) | 2019-12-09 | available |
+| [Episode 134 - Pawn Stars, the Sonic Movie, and 6 Movie Games ](episodes/cq-134-sc-717984787.md) | 2019-11-25 | available |
+| [Episode 133 - NintendoAge Shutdown and 6 Games with Pack-in Surprises ](episodes/cq-133-sc-709601617.md) | 2019-11-08 | available |
+| [Episode 132 - PRGE 2019 & What Is "Collectible"? ](episodes/cq-132-sc-702651109.md) | 2019-10-28 | available |
+| [Episode 131 - Spooky Collectible Halloween Imports ](episodes/cq-131-sc-695873995.md) | 2019-10-17 | available |
+| [Episode 130 - So You Want To Collect Halloween Games #2 ](episodes/cq-130-sc-694609366.md) | 2019-10-12 | available |
+| [Episode 129 - So You Want to Collect for the Sega Dreamcast ](episodes/cq-129-sc-685944091.md) | 2019-09-24 | available |
+| [Episide 128 - Game Collecting Trivia Show ](episodes/cq-128-sc-681716873.md) | 2019-09-16 | available |
+| [Episode 127 - A Game Heist, Censorship, and Talking to Deniz from Wata Games ](episodes/cq-127-sc-670522865.md) | 2019-08-24 | available |
+| [Episode 126 - Should You Collect First Prints or First Editions? ](episodes/cq-126-sc-667368926.md) | 2019-08-18 | available |
+| [Episode 125 - WTF Sonic 1? Why is CQ Always Wrong About First Prints? And other Q&A! ](episodes/cq-125-sc-661123010.md) | 2019-08-04 | available |
+| [Episode 124 - Xmas in July ("Collectible" Holiday Games) ](episodes/cq-124-sc-655095329.md) | 2019-07-23 | available |
+| [Episode 123 - Bad Games All Collectors Buy... mainly just to post on IG ](episodes/cq-123-sc-651292376.md) | 2019-07-15 | available |
+| [Episode 122 - Games Collectors Overpaid For (That Are Cheaper Now) ](episodes/cq-122-sc-644478861.md) | 2019-07-01 | available |
+| [Episode 121 - Where Does Game Collecting Go Now? ](episodes/cq-121-sc-637230360.md) | 2019-06-15 | available |
+| [Episode 120 - What is the State of Game Collecting Today? ](episodes/cq-120-sc-631899153.md) | 2019-06-05 | available |
+| [Episode 119 - So You Want to Collect for the Magnavox Odyssey 2 ](episodes/cq-119-sc-627647898.md) | 2019-05-28 | available |
+| [Episode 118 - Same Name, Different Game ](episodes/cq-118-sc-616334322.md) | 2019-05-06 | available |
+| [Episode 117 - Collector's Quiz ](episodes/cq-117-sc-609401367.md) | 2019-04-21 | available |
+| [Episode 116 - Where Did the Undiscovered NWC Come From and Other Listener Questions ](episodes/cq-116-sc-606134094.md) | 2019-04-15 | available |
+| [Episode 115 - Does it Count? (for the "complete set") ](episodes/cq-115-sc-598186311.md) | 2019-03-30 | available |
+| [Episode 114 - So You Want to Collect for the Sega Saturn ](episodes/cq-114-sc-591789531.md) | 2019-03-18 | available |
+| [Episode 113 - Interview with Wata Games President Deniz Kahn ](episodes/cq-113-sc-588685275.md) | 2019-03-12 | available |
+| [Episode 112 - 9 Game Variants You Should Look Out For ](episodes/cq-112-sc-580746945.md) | 2019-02-25 | available |
+| [Episode 111 - Collectors Talking About the $100,000 Super Mario Bros. ](episodes/cq-111-sc-576934368.md) | 2019-02-17 | available |
+| [Episode 110 - How do we Organize Our Game Collections? ](episodes/cq-110-sc-569105952.md) | 2019-02-02 | available |
+| [Episode 109 - New Year, New Goals ](episodes/cq-109-sc-558733752.md) | 2019-01-14 | available |
+| [Episode 108 - Twelve Christmas Collectibles... to Ring in the New Year ](episodes/cq-108-sc-552803268.md) | 2019-01-01 | available |
+| [Episode 00: Pre Podcast Recording on Trade Etiquette ](episodes/cq-000-sc-549200046.md) | 2018-12-23 | available |
+| [Episode 107 - The Nightmare Before Ship-mas ](episodes/cq-107-sc-540974424.md) | 2018-12-07 | available |
+| [Collector's Edition #1 - Harry Potter Book Collecting interview with AllThePrettyBooks ](episodes/sc-536148552.md) | 2018-11-27 | available |
+| [Episode 106 - So You Want to Collect for the NES ](episodes/cq-106-sc-533172702.md) | 2018-11-21 | available |
+| [Episode 105 - Opening a New Store, Running Arcades, & Retro City Fest 2019 with Steve Torres ](episodes/cq-105-sc-528514875.md) | 2018-11-12 | available |
+| [Episode 104 - Is the PlayStation Classic Really That Bad? ](episodes/cq-104-sc-523363038.md) | 2018-11-01 | available |
+| [Episode 103 - Tricks & Treats: Games to Play this Halloween and Some to Avoid ](episodes/cq-103-sc-515019780.md) | 2018-10-16 | available |
+| [Episode 102 - So You Want To Collect Halloween Games #1 ](episodes/cq-102-sc-511661571.md) | 2018-10-09 | available |
+| [Episode 101 - Too Many Minis? ](episodes/cq-101-sc-505309458.md) | 2018-09-26 | available |
+| [Episode 100 - The $1000 Retro Game Draft ](episodes/cq-100-sc-500380032.md) | 2018-09-15 | available |
+| [Episode 99 - The Biggest Wastes of Money in Game Collecting ](episodes/cq-099-sc-492160860.md) | 2018-08-29 | available |
+| [Episode 98 - Homie Hook-ups, Back Door Deals, and More... ](episodes/cq-098-sc-483121236.md) | 2018-08-09 | available |
+| [Episode 97 - So You Want to Collect for the Original Xbox ](episodes/cq-097-sc-472184118.md) | 2018-07-16 | available |
 | [Episode 96 - Is It Better To Collect The Most Expensive Games First? ](episodes/cq-096-sc-466143843.md) | 2018-07-02 | available |
 | [Episode 95 - So You Want to Collect for the Sega Genesis ](episodes/cq-095-sc-456589569.md) | 2018-06-10 | available |
 | [Episode 94 - Our Top Pet Peeves With Collecting Video Games ](episodes/cq-094-sc-450425988.md) | 2018-05-28 | available |
@@ -320,5 +320,7 @@ This library includes numbered episodes and bonus/special entries. A transcript 
 | [Episode 4 (9) - Final Fantasy 7 And Kickle Cubicle ](episodes/cq-009-sc-236603975.md) | 2015-12-08 | available |
 | [Episode 3 (8) - Retro Gaming Holiday Memories ](episodes/cq-008-sc-235355325.md) | 2015-11-30 | available |
 | [Episode 3 (7) - Conventions ](episodes/cq-007-sc-234461881.md) | 2015-11-24 | available |
-| [Episode 2 (6) -Speed Racer Mountain Bike Rally Combo Cart For Super Nintendo ](episodes/cq-006-sc-232561251.md) | 2015-11-11 | missing |
-| [Episode 1 (5)  - A New Host - Katselvania ](episodes/cq-005-sc-230266570.md) | 2015-10-27 | missing |
+| [Episode 2 (6) -Speed Racer Mountain Bike Rally Combo Cart For Super Nintendo ](episodes/cq-006-sc-232561251.md) | 2015-11-11 | available |
+| [Episode 1 (5)  - A New Host - Katselvania ](episodes/cq-005-sc-230266570.md) | 2015-10-27 | available |
+| [Types of Collectors ](episodes/cq-002-archive-89def4108204.md) | 2015-01-07 | available |
+| [Pre-Order Laments ](episodes/cq-003-archive-1f72a97e0bf5.md) | 2015-03-02 | available |
