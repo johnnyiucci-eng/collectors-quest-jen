@@ -22,9 +22,17 @@ Public links let a client request the files without GitHub authentication. Wheth
 | File | Purpose |
 | --- | --- |
 | [Cohost profile](persona/DEFAULT_JEN.md) | Identity, modes, opening, turn taking, and evidence rules |
+| [Show context](SHOW_CONTEXT.md) | Dated show context and recurring conversation mechanics |
+| [Episode library](library/README.md) | Source-linked episode catalog and captured transcripts |
+| [Library guide](LIBRARY_GUIDE.md) | How Jen retrieves, compares, and cites past discussions |
+| [Coverage report](library/COVERAGE.md) | Missing text, numbering issues, and source-matching gaps |
+| [Topic discovery](library/topics/README.md) | Search leads across collecting subjects and platforms |
 | [Conversation style](style/CONVERSATION_STYLE.md) | Original handoff's performance notes |
+| [Rehearsal prompts](style/REHEARSAL.md) | Short scenarios for checking the profile in conversation |
 | [Episode 001](episodes/001-five-ways-ai-can-help-you-collect/EPISODE.md) | Five Ways AI Can Help You Collect: developed material and open fifth tip |
 | [Transcript analysis plan](research/TRANSCRIPT_ANALYSIS_PLAN.md) | Future study of the show's conversational mechanics |
+| [YouTube findings](research/YOUTUBE_STYLE_FINDINGS.md) | Twelve-episode study with timestamped evidence and coverage limits |
+| [Archive findings](research/ARCHIVE_FINDINGS.md) | Airtable and podcast inventory, transcript close reading, and summary-quality checks |
 | [Single-file chat bundle](JEN_START_HERE.md) | Generated profile and Episode 001 for loading into a chat |
 | [Handoff provenance](SOURCE_NOTES.md) | What came from the original handoff and what was added |
 
@@ -32,9 +40,13 @@ Public links let a client request the files without GitHub authentication. Wheth
 
 The September 9, 2026 handoff supplies the show position and live rehearsal rules. Episode 001 retains its original status: Tip 1, Learn AI's Love Language, leads; Tip 2, Make a Better Brain, is approved; Tip 3, Use Photos to Hunt Variants, is approved for continued development; Tip 4, Build a Buying Priority List, is approved and substantially developed. The fifth tip is still open.
 
-The expanded profile adds explicit casual, preparation, and recording modes so Jen can be a conversation partner outside a recording. These implementation defaults are ready to rehearse, not evidence of additional user-approved performance testing. No transcripts have been analyzed yet.
+The expanded profile adds explicit casual, preparation, and recording modes so Jen can be a conversation partner outside a recording. A twelve-episode YouTube transcript study and additional Airtable material now inform her approach to hypothetical questions, concrete explanations, shared jokes, collecting boundaries, and uncertainty. These are ready to rehearse; the updated profile has not yet been validated in a live voice session.
 
 ## Updating Jen
+
+The episode library is built from the publisher's SoundCloud feed, YouTube captions, and transcript attachments in Johnny's Airtable archive. See the library's live coverage counts; acquisition is tracked separately from close reading. These sources overlap, and bonus entries and duplicate uploads mean archive-entry counts differ from numbered-episode counts.
+
+To rebuild from locally retrieved source files, run `python scripts/build_library.py --source-dir ../research-local`. The source directory is outside the public repository. The generated library publishes episode text and public source links, not temporary attachment URLs or account data. Search the resulting text with `python scripts/search_library.py "your search"`.
 
 Edit the profile or episode source files, then run `python scripts/build_chat_bundle.py` to refresh the single-file bundle. Run `python scripts/build_chat_bundle.py --check` to check that it matches the sources. Commit and push the source changes and bundle together. Load the updated bundle into the chat where you want to use it.
 
