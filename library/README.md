@@ -1,6 +1,6 @@
 # Collector's Quest episode library
 
-Combined inventory: **316 entries** (316 from the publisher feed). Transcripts ingested: **57**. Still missing: **259**. Transcript words: **1,086,068**.
+Combined inventory: **316 entries** (316 from the publisher feed). Transcripts ingested: **116**. Still missing: **200**. Transcript words: **2,201,285**.
 
 This library includes numbered episodes and bonus/special entries. A transcript being available does not mean every passage has been closely analyzed. See [coverage](COVERAGE.md), [topic discovery](topics/README.md), and [the full manifest](manifest.json).
 
@@ -30,19 +30,19 @@ This library includes numbered episodes and bonus/special entries. A transcript 
 | [CQ 280 - Video Games Fell Off ](episodes/cq-280-sc-2171122380.md) | 2025-09-15 | missing |
 | [CQ 279 - We Regret Everything ](episodes/cq-279-sc-2163130533.md) | 2025-09-01 | available |
 | [CQ 278 - Top 10 Collectible Games of 2045 ](episodes/cq-278-sc-2154448311.md) | 2025-08-17 | available |
-| [CQ 277 - Video Games From Another Angle ](episodes/cq-277-sc-2135964186.md) | 2025-07-24 | missing |
-| [CQ 276 - Someone Has to Collect the PC Games ](episodes/cq-276-sc-2126621844.md) | 2025-07-08 | missing |
-| [CQ 275 - Preorder This Episode ](episodes/cq-275-sc-2118871731.md) | 2025-06-24 | missing |
-| [CQ 274 - Nintendo Launched Another Console? (NOT CLICKBAIT) ](episodes/cq-274-sc-2112423486.md) | 2025-06-12 | missing |
-| [CQ 273 - Everything's Going to Zero ](episodes/cq-273-sc-2103288552.md) | 2025-05-27 | missing |
-| [CQ 272 - iam8bit situation is crazy ](episodes/cq-272-sc-2095653180.md) | 2025-05-14 | missing |
+| [CQ 277 - Video Games From Another Angle ](episodes/cq-277-sc-2135964186.md) | 2025-07-24 | available |
+| [CQ 276 - Someone Has to Collect the PC Games ](episodes/cq-276-sc-2126621844.md) | 2025-07-08 | available |
+| [CQ 275 - Preorder This Episode ](episodes/cq-275-sc-2118871731.md) | 2025-06-24 | available |
+| [CQ 274 - Nintendo Launched Another Console? (NOT CLICKBAIT) ](episodes/cq-274-sc-2112423486.md) | 2025-06-12 | available |
+| [CQ 273 - Everything's Going to Zero ](episodes/cq-273-sc-2103288552.md) | 2025-05-27 | available |
+| [CQ 272 - iam8bit situation is crazy ](episodes/cq-272-sc-2095653180.md) | 2025-05-14 | available |
 | [CQ 271 - Is your "CIB" good enough? ](episodes/cq-271-sc-2088408297.md) | 2025-05-01 | available |
-| [CQ 270 - It's time to fix your collection: Spring Cleaning ](episodes/cq-270-sc-2080569108.md) | 2025-04-17 | missing |
-| [CQ 269 - Ten Turbografx/PC-Engine Games We'd Start Collecting ](episodes/cq-269-sc-2067796304.md) | 2025-03-31 | missing |
-| [CQ 268 - 20 Reasons Modern Collecting Sucks (and like 2 it's the best) ](episodes/cq-268-sc-2056143344.md) | 2025-03-17 | missing |
-| [CQ 267 - Does Xbox 360 Have Anything Collectible? ](episodes/cq-267-sc-2040821424.md) | 2025-02-24 | missing |
-| [CQ 266 - IMPOSSIBLE Collector Dilemmas ](episodes/cq-266-sc-2032757612.md) | 2025-02-12 | missing |
-| [CQ 265 - The $200 modern game situation is crazy ](episodes/cq-265-sc-2019478217.md) | 2025-01-27 | missing |
+| [CQ 270 - It's time to fix your collection: Spring Cleaning ](episodes/cq-270-sc-2080569108.md) | 2025-04-17 | available |
+| [CQ 269 - Ten Turbografx/PC-Engine Games We'd Start Collecting ](episodes/cq-269-sc-2067796304.md) | 2025-03-31 | available |
+| [CQ 268 - 20 Reasons Modern Collecting Sucks (and like 2 it's the best) ](episodes/cq-268-sc-2056143344.md) | 2025-03-17 | available |
+| [CQ 267 - Does Xbox 360 Have Anything Collectible? ](episodes/cq-267-sc-2040821424.md) | 2025-02-24 | available |
+| [CQ 266 - IMPOSSIBLE Collector Dilemmas ](episodes/cq-266-sc-2032757612.md) | 2025-02-12 | available |
+| [CQ 265 - The $200 modern game situation is crazy ](episodes/cq-265-sc-2019478217.md) | 2025-01-27 | available |
 | [CQ 264 - Collecting the 1980s (as old Nintendo tapes) ](episodes/cq-264-sc-2008395747.md) | 2025-01-13 | missing |
 | [CQ 263 - A 2024 Market Recap for your Holiday Car Trip ](episodes/cq-263-sc-1993480675.md) | 2024-12-24 | missing |
 | [CQ 263 - 2024 recap (Old upload, broke on Spotify) ](episodes/cq-263-sc-1990205799.md) | 2024-12-19 | missing |
@@ -153,23 +153,23 @@ This library includes numbered episodes and bonus/special entries. A transcript 
 | [Episode 162 - Collector's Questions #1 ](episodes/cq-162-sc-1012183996.md) | 2021-03-21 | missing |
 | [Episode 161 - Rare and Collectible Zelda Games ](episodes/cq-161-sc-1000098751.md) | 2021-03-07 | missing |
 | [Episode 160 - Early Video Game Pack-ins ](episodes/cq-160-sc-991075135.md) | 2021-02-23 | missing |
-| [Episode 159 - Collectible Video Games with Trading Cards ](episodes/cq-159-sc-981088471.md) | 2021-02-07 | missing |
-| [Episode 158 - What is the Most Expensive, Most Common Nintendo Game? ](episodes/cq-158-sc-972087568.md) | 2021-01-25 | missing |
-| [Episode 157 - NES vs. Famicom Prices ](episodes/cq-157-sc-966801637.md) | 2021-01-16 | missing |
-| [Episode 156 - Game Collecting in 2020 and Looking Ahead to 2021 ](episodes/cq-156-sc-960241846.md) | 2021-01-06 | missing |
-| [Episode 155 - Five Golden Things ](episodes/cq-155-sc-951597298.md) | 2020-12-21 | missing |
+| [Episode 159 - Collectible Video Games with Trading Cards ](episodes/cq-159-sc-981088471.md) | 2021-02-07 | available |
+| [Episode 158 - What is the Most Expensive, Most Common Nintendo Game? ](episodes/cq-158-sc-972087568.md) | 2021-01-25 | available |
+| [Episode 157 - NES vs. Famicom Prices ](episodes/cq-157-sc-966801637.md) | 2021-01-16 | available |
+| [Episode 156 - Game Collecting in 2020 and Looking Ahead to 2021 ](episodes/cq-156-sc-960241846.md) | 2021-01-06 | available |
+| [Episode 155 - Five Golden Things ](episodes/cq-155-sc-951597298.md) | 2020-12-21 | available |
 | [Episode 154 - Don't Collect Video Game Food... but if you do... ](episodes/cq-154-sc-948442732.md) | 2020-12-16 | missing |
-| [Episode 153 - The $1000 Modern Game Draft ](episodes/cq-153-sc-934338115.md) | 2020-11-23 | missing |
-| [Episode 152 - So You Want to Collect Castlevania Games ](episodes/cq-152-sc-921297673.md) | 2020-11-01 | missing |
-| [Episode 151 - So You Want to Collect Halloween Games 3 (Thirteen Spooky & Obscure Collectible Game) ](episodes/cq-151-sc-909014128.md) | 2020-10-12 | missing |
-| [Episode 150 - Talking about Video Game Condition ](episodes/cq-150-sc-900299890.md) | 2020-09-27 | missing |
-| [Episode 149 - Flush With Plush (and Fractional Share Investing) ](episodes/cq-149-sc-892401565.md) | 2020-09-13 | missing |
-| [Episode 148 - The "Bubble", The Next Big Console, Johnny Complains about Grades, and More! ](episodes/cq-148-sc-881040898.md) | 2020-08-24 | missing |
-| [Episode 147 - So You Want to Collect for the Super Nintendo ](episodes/cq-147-sc-864983083.md) | 2020-07-26 | missing |
+| [Episode 153 - The $1000 Modern Game Draft ](episodes/cq-153-sc-934338115.md) | 2020-11-23 | available |
+| [Episode 152 - So You Want to Collect Castlevania Games ](episodes/cq-152-sc-921297673.md) | 2020-11-01 | available |
+| [Episode 151 - So You Want to Collect Halloween Games 3 (Thirteen Spooky & Obscure Collectible Game) ](episodes/cq-151-sc-909014128.md) | 2020-10-12 | available |
+| [Episode 150 - Talking about Video Game Condition ](episodes/cq-150-sc-900299890.md) | 2020-09-27 | available |
+| [Episode 149 - Flush With Plush (and Fractional Share Investing) ](episodes/cq-149-sc-892401565.md) | 2020-09-13 | available |
+| [Episode 148 - The "Bubble", The Next Big Console, Johnny Complains about Grades, and More! ](episodes/cq-148-sc-881040898.md) | 2020-08-24 | available |
+| [Episode 147 - So You Want to Collect for the Super Nintendo ](episodes/cq-147-sc-864983083.md) | 2020-07-26 | available |
 | [Episode 146 - How Game Collectors Can Collect Information ](episodes/cq-146-sc-852741172.md) | 2020-07-05 | available |
-| [Episode 145 - The Best & Worst Feelings in Game Collecting ](episodes/cq-145-sc-840303766.md) | 2020-06-15 | missing |
-| [Episode 144 - What's The Deal With Collecting Sets? ](episodes/cq-144-sc-830303989.md) | 2020-05-29 | missing |
-| [Episode 143 - Everyone is at Home Buying More Video Games! ](episodes/cq-143-sc-820828618.md) | 2020-05-15 | missing |
+| [Episode 145 - The Best & Worst Feelings in Game Collecting ](episodes/cq-145-sc-840303766.md) | 2020-06-15 | available |
+| [Episode 144 - What's The Deal With Collecting Sets? ](episodes/cq-144-sc-830303989.md) | 2020-05-29 | available |
+| [Episode 143 - Everyone is at Home Buying More Video Games! ](episodes/cq-143-sc-820828618.md) | 2020-05-15 | available |
 | [Episode 142 - Organic Collectibility vs. Manufactured Collectibility ](episodes/cq-142-sc-812478658.md) | 2020-05-03 | available |
 | [Episode 141 - All Your Video Game Lists Are Bad ](episodes/cq-141-sc-797285986.md) | 2020-04-13 | available |
 | [Side Quest 3 - Collecting and Finishing the PS1 Set ](episodes/sc-787918894.md) | 2020-03-31 | missing |
@@ -264,38 +264,38 @@ This library includes numbered episodes and bonus/special entries. A transcript 
 | [Episode 65 - Pornography in Video Games ](episodes/cq-065-sc-317200139.md) | 2017-04-11 | missing |
 | [Episode 64 - 8 Reasons Your Games Aren't Worth What You Think ](episodes/cq-064-sc-314662990.md) | 2017-03-27 | missing |
 | [Episode 63 - Interview with JayBaam and Helping Brooklynn ](episodes/cq-063-sc-312110264.md) | 2017-03-13 | missing |
-| [Episode 62 - Initial Nintendo Switch and Zelda and Breath of the Wild Review ](episodes/cq-062-sc-311116645.md) | 2017-03-07 | missing |
-| [Episode 61 -7 Things That Suck About Retro Gaming ](episodes/cq-061-sc-309750946.md) | 2017-02-27 | missing |
-| [Episode 60 - Kat and I Katch Up - SoCal Retro Gaming Expo Run Down ](episodes/cq-060-sc-307804706.md) | 2017-02-15 | missing |
-| [Episode 59 - Resident Evil 7VR & Modded NES Classics ](episodes/cq-059-sc-305216156.md) | 2017-01-30 | missing |
-| [Episode 58 - Nico from Super MadNes ](episodes/cq-058-sc-304087581.md) | 2017-01-23 | missing |
-| [Episode 57 - We React to the Nintendo Switch ](episodes/cq-057-sc-303105284.md) | 2017-01-17 | missing |
-| [Episode 56 - SoCal Retro Gaming Expo with @Damn.It.Steve ](episodes/cq-056-sc-301655833.md) | 2017-01-09 | missing |
-| [Episode 55 - 2016 Year In Review ](episodes/cq-055-sc-300699399.md) | 2017-01-03 | missing |
-| [Episode 54 - How To Be Successful on Instagram with @Sabotage64 ](episodes/cq-054-sc-298614237.md) | 2016-12-19 | missing |
-| [Episode 53 - The 12 Games of Christmas ](episodes/cq-053-sc-297541109.md) | 2016-12-12 | missing |
-| [Episode 52 - The SNES Mini? ](episodes/cq-052-sc-294037619.md) | 2016-11-21 | missing |
-| [Episode 51 - 1 Year of Colletor's Quest ](episodes/cq-051-sc-291902166.md) | 2016-11-07 | missing |
-| [Episode 50 - Talking Cosplay with Hollita_Cos ](episodes/cq-050-sc-290772610.md) | 2016-10-31 | missing |
-| [Episode 49 - Horror / Halloween Movies That Became Games ](episodes/cq-049-sc-286948413.md) | 2016-10-10 | missing |
-| [Episode 48 - Top 5 Spooky Games ](episodes/cq-048-sc-285139337.md) | 2016-09-28 | missing |
-| [Episode 47 - Our Top 5  PS3 Games and Some Ranting ](episodes/cq-047-sc-283740776.md) | 2016-09-20 | missing |
-| [Episode 46 - Interview with Lord_Sega_ ](episodes/cq-046-sc-282520348.md) | 2016-09-12 | missing |
-| [Episode 45 - Magazine Collecting, Nintendo Shutting People Down, eBay Jerks, and Crossy Road ](episodes/cq-045-sc-281447111.md) | 2016-09-05 | missing |
-| [Episode 44 - Conventions Part 2 ](episodes/cq-044-sc-280388496.md) | 2016-08-29 | missing |
-| [Episode 43 - What Game Would You Make A Sequel For? We Share Ours. ](episodes/cq-043-sc-278313223.md) | 2016-08-15 | missing |
-| [Episode 42 - NES Sequels and the Categories They Fall In ](episodes/cq-042-sc-277321094.md) | 2016-08-08 | missing |
-| [Episode 41 - Nintendo Game Boy with Kida467 ](episodes/cq-041-sc-276289995.md) | 2016-08-01 | missing |
-| [Episode 40 - Interview Retro_Gaming or StopXWhispering ](episodes/cq-040-sc-275243557.md) | 2016-07-24 | missing |
-| [Episode 39 - NES Mini, Is It Bad For Collectors? ](episodes/cq-039-sc-274190111.md) | 2016-07-18 | missing |
-| [Episode 38 - Multiplayer Games ](episodes/cq-038-sc-273108962.md) | 2016-07-11 | missing |
-| [Episode 37 - How I Got My Super Nintendo Part 2 ](episodes/cq-037-sc-271032939.md) | 2016-06-27 | missing |
-| [Episode 36 - How I Got My Super Nintendo Part 1 ](episodes/cq-036-sc-269983584.md) | 2016-06-20 | missing |
-| [Episode 35 - Interview Wiggy From Rose Colored Gaming ](episodes/cq-035-sc-268837348.md) | 2016-06-13 | missing |
-| [Episode 34 - Collecting On A Budget And Collecting For The 3DS- Guest The3DSCollector ](episodes/cq-034-sc-267770564.md) | 2016-06-06 | missing |
-| [Episode 33 - CQ News & PS1 and Saturn Price Spikes ](episodes/cq-033-sc-266573136.md) | 2016-05-30 | missing |
-| [Episode 32 - Interview NintendoTwizer & Wii Collecting ](episodes/cq-032-sc-265462094.md) | 2016-05-23 | missing |
-| [Episode 31 - Disney Games & Collecting ](episodes/cq-031-sc-264347622.md) | 2016-05-16 | missing |
+| [Episode 62 - Initial Nintendo Switch and Zelda and Breath of the Wild Review ](episodes/cq-062-sc-311116645.md) | 2017-03-07 | available |
+| [Episode 61 -7 Things That Suck About Retro Gaming ](episodes/cq-061-sc-309750946.md) | 2017-02-27 | available |
+| [Episode 60 - Kat and I Katch Up - SoCal Retro Gaming Expo Run Down ](episodes/cq-060-sc-307804706.md) | 2017-02-15 | available |
+| [Episode 59 - Resident Evil 7VR & Modded NES Classics ](episodes/cq-059-sc-305216156.md) | 2017-01-30 | available |
+| [Episode 58 - Nico from Super MadNes ](episodes/cq-058-sc-304087581.md) | 2017-01-23 | available |
+| [Episode 57 - We React to the Nintendo Switch ](episodes/cq-057-sc-303105284.md) | 2017-01-17 | available |
+| [Episode 56 - SoCal Retro Gaming Expo with @Damn.It.Steve ](episodes/cq-056-sc-301655833.md) | 2017-01-09 | available |
+| [Episode 55 - 2016 Year In Review ](episodes/cq-055-sc-300699399.md) | 2017-01-03 | available |
+| [Episode 54 - How To Be Successful on Instagram with @Sabotage64 ](episodes/cq-054-sc-298614237.md) | 2016-12-19 | available |
+| [Episode 53 - The 12 Games of Christmas ](episodes/cq-053-sc-297541109.md) | 2016-12-12 | available |
+| [Episode 52 - The SNES Mini? ](episodes/cq-052-sc-294037619.md) | 2016-11-21 | available |
+| [Episode 51 - 1 Year of Colletor's Quest ](episodes/cq-051-sc-291902166.md) | 2016-11-07 | available |
+| [Episode 50 - Talking Cosplay with Hollita_Cos ](episodes/cq-050-sc-290772610.md) | 2016-10-31 | available |
+| [Episode 49 - Horror / Halloween Movies That Became Games ](episodes/cq-049-sc-286948413.md) | 2016-10-10 | available |
+| [Episode 48 - Top 5 Spooky Games ](episodes/cq-048-sc-285139337.md) | 2016-09-28 | available |
+| [Episode 47 - Our Top 5  PS3 Games and Some Ranting ](episodes/cq-047-sc-283740776.md) | 2016-09-20 | available |
+| [Episode 46 - Interview with Lord_Sega_ ](episodes/cq-046-sc-282520348.md) | 2016-09-12 | available |
+| [Episode 45 - Magazine Collecting, Nintendo Shutting People Down, eBay Jerks, and Crossy Road ](episodes/cq-045-sc-281447111.md) | 2016-09-05 | available |
+| [Episode 44 - Conventions Part 2 ](episodes/cq-044-sc-280388496.md) | 2016-08-29 | available |
+| [Episode 43 - What Game Would You Make A Sequel For? We Share Ours. ](episodes/cq-043-sc-278313223.md) | 2016-08-15 | available |
+| [Episode 42 - NES Sequels and the Categories They Fall In ](episodes/cq-042-sc-277321094.md) | 2016-08-08 | available |
+| [Episode 41 - Nintendo Game Boy with Kida467 ](episodes/cq-041-sc-276289995.md) | 2016-08-01 | available |
+| [Episode 40 - Interview Retro_Gaming or StopXWhispering ](episodes/cq-040-sc-275243557.md) | 2016-07-24 | available |
+| [Episode 39 - NES Mini, Is It Bad For Collectors? ](episodes/cq-039-sc-274190111.md) | 2016-07-18 | available |
+| [Episode 38 - Multiplayer Games ](episodes/cq-038-sc-273108962.md) | 2016-07-11 | available |
+| [Episode 37 - How I Got My Super Nintendo Part 2 ](episodes/cq-037-sc-271032939.md) | 2016-06-27 | available |
+| [Episode 36 - How I Got My Super Nintendo Part 1 ](episodes/cq-036-sc-269983584.md) | 2016-06-20 | available |
+| [Episode 35 - Interview Wiggy From Rose Colored Gaming ](episodes/cq-035-sc-268837348.md) | 2016-06-13 | available |
+| [Episode 34 - Collecting On A Budget And Collecting For The 3DS- Guest The3DSCollector ](episodes/cq-034-sc-267770564.md) | 2016-06-06 | available |
+| [Episode 33 - CQ News & PS1 and Saturn Price Spikes ](episodes/cq-033-sc-266573136.md) | 2016-05-30 | available |
+| [Episode 32 - Interview NintendoTwizer & Wii Collecting ](episodes/cq-032-sc-265462094.md) | 2016-05-23 | available |
+| [Episode 31 - Disney Games & Collecting ](episodes/cq-031-sc-264347622.md) | 2016-05-16 | available |
 | [Episode 30 - Captain America Games ](episodes/cq-030-sc-263177439.md) | 2016-05-09 | available |
 | [Episode 29 - The Nintendo NX, The New Zelda And What Will Happen To The WiiU? ](episodes/cq-029-sc-261939800.md) | 2016-05-02 | available |
 | [Episode 28 - Playstation Vita & More ](episodes/cq-028-sc-260759766.md) | 2016-04-25 | available |

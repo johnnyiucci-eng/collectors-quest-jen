@@ -1,6 +1,6 @@
 # Ingestion coverage
 
-Snapshot: 2026-09-09T15:56:45.073988+00:00
+Snapshot: 2026-09-09T16:02:09.580607+00:00
 
 The publisher RSS feed is the starting inventory. Airtable entries with a public publisher link can extend it. Episode numbering is preserved, including legacy titles with a parenthetical number and duplicates. Source matching uses exact public URLs, exact normalized titles, or a matching episode number with a title similarity check. Ambiguous matches are listed below rather than silently merged.
 
@@ -16,18 +16,6 @@ Duplicate numbered labels: {"263": 2, "219": 2}.
 
 - [CQAD - Christmas Bonus "Episode"](https://soundcloud.com/collectors-quest/cqad-christmas-bonus-episode) — 2025-12-20
 - [CQ 280 - Video Games Fell Off](https://soundcloud.com/collectors-quest/cq-280-video-games-fell-off) — 2025-09-15
-- [CQ 277 - Video Games From Another Angle](https://soundcloud.com/collectors-quest/cq-277-video-games-from-another-angle) — 2025-07-24
-- [CQ 276 - Someone Has to Collect the PC Games](https://soundcloud.com/collectors-quest/cq-276-someone-has-to-collect-the-pc-games) — 2025-07-08
-- [CQ 275 - Preorder This Episode](https://soundcloud.com/collectors-quest/cq-275-preorder-this-episode) — 2025-06-24
-- [CQ 274 - Nintendo Launched Another Console? (NOT CLICKBAIT)](https://soundcloud.com/collectors-quest/cq-274-nintendo-launched-another-console-not-clickbait) — 2025-06-12
-- [CQ 273 - Everything's Going to Zero](https://soundcloud.com/collectors-quest/cq-273-everythings-going-to-zero) — 2025-05-27
-- [CQ 272 - iam8bit situation is crazy](https://soundcloud.com/collectors-quest/cq-272-iam8bit-situation-is-crazy) — 2025-05-14
-- [CQ 270 - It's time to fix your collection: Spring Cleaning](https://soundcloud.com/collectors-quest/cq-270-its-time-to-fix-your-collection-spring-cleaning) — 2025-04-17
-- [CQ 269 - Ten Turbografx/PC-Engine Games We'd Start Collecting](https://soundcloud.com/collectors-quest/cq-269-ten-turbografxpc-engine-games-wed-start-collecting) — 2025-03-31
-- [CQ 268 - 20 Reasons Modern Collecting Sucks (and like 2 it's the best)](https://soundcloud.com/collectors-quest/cq-268-20-reasons-modern-collecting-sucks-and-like-2-its-the-best) — 2025-03-17
-- [CQ 267 - Does Xbox 360 Have Anything Collectible?](https://soundcloud.com/collectors-quest/cq-267-does-xbox-360-have-anything-collectible) — 2025-02-24
-- [CQ 266 - IMPOSSIBLE Collector Dilemmas](https://soundcloud.com/collectors-quest/cq-266-impossible-collector-dilemmas) — 2025-02-12
-- [CQ 265 - The $200 modern game situation is crazy](https://soundcloud.com/collectors-quest/cq-265-the-200-modern-game-situation-is-crazy) — 2025-01-27
 - [CQ 264 - Collecting the 1980s (as old Nintendo tapes)](https://soundcloud.com/collectors-quest/cq-264-collecting-the-1980s-as-old-nintendo-tapes) — 2025-01-13
 - [CQ 263 - A 2024 Market Recap for your Holiday Car Trip](https://soundcloud.com/collectors-quest/cq-263-a-2024-market-recap-for-your-holiday-car-trip-1) — 2024-12-24
 - [CQ 263 - 2024 recap (Old upload, broke on Spotify)](https://soundcloud.com/collectors-quest/cq-263-a-2024-market-recap-for-your-holiday-car-trip) — 2024-12-19
@@ -131,22 +119,7 @@ Duplicate numbered labels: {"263": 2, "219": 2}.
 - [Episode 162 - Collector's Questions #1](https://soundcloud.com/collectors-quest/episode-162-collectors-questions-1) — 2021-03-21
 - [Episode 161 - Rare and Collectible Zelda Games](https://soundcloud.com/collectors-quest/episode-161-rare-and-collectible-zelda-games) — 2021-03-07
 - [Episode 160 - Early Video Game Pack-ins](https://soundcloud.com/collectors-quest/episode-160-early-video-game-pack-ins) — 2021-02-23
-- [Episode 159 - Collectible Video Games with Trading Cards](https://soundcloud.com/collectors-quest/episode-159-collectible-video-games-with-trading-cards) — 2021-02-07
-- [Episode 158 - What is the Most Expensive, Most Common Nintendo Game?](https://soundcloud.com/collectors-quest/episode-158-what-is-the-most-expensive-most-common-nintendo-game) — 2021-01-25
-- [Episode 157 - NES vs. Famicom Prices](https://soundcloud.com/collectors-quest/episode-157-nes-vs-famicom-prices) — 2021-01-16
-- [Episode 156 - Game Collecting in 2020 and Looking Ahead to 2021](https://soundcloud.com/collectors-quest/episode-156-game-collecting-in-2020-and-looking-ahead-to-2021) — 2021-01-06
-- [Episode 155 - Five Golden Things](https://soundcloud.com/collectors-quest/episode-155-five-golden-things) — 2020-12-21
 - [Episode 154 - Don't Collect Video Game Food... but if you do...](https://soundcloud.com/collectors-quest/episode-154-dont-collect-video-game-food-but-if-you-do) — 2020-12-16
-- [Episode 153 - The $1000 Modern Game Draft](https://soundcloud.com/collectors-quest/episode-153-the-1000-modern-game-draft) — 2020-11-23
-- [Episode 152 - So You Want to Collect Castlevania Games](https://soundcloud.com/collectors-quest/episode-152-so-you-want-to-collect-castlevania-games) — 2020-11-01
-- [Episode 151 - So You Want to Collect Halloween Games 3 (Thirteen Spooky & Obscure Collectible Game)](https://soundcloud.com/collectors-quest/episode-151-thirteen-spooky-and-obscure-collectible-games-for-halloween) — 2020-10-12
-- [Episode 150 - Talking about Video Game Condition](https://soundcloud.com/collectors-quest/cq-150-talking-about-video-game-condition) — 2020-09-27
-- [Episode 149 - Flush With Plush (and Fractional Share Investing)](https://soundcloud.com/collectors-quest/episode-149-flush-with-plush-and-fractional-share-investing) — 2020-09-13
-- [Episode 148 - The "Bubble", The Next Big Console, Johnny Complains about Grades, and More!](https://soundcloud.com/collectors-quest/episode-148-the-bubble-the-next-big-console-johnny-complains-about-grades-and-more) — 2020-08-24
-- [Episode 147 - So You Want to Collect for the Super Nintendo](https://soundcloud.com/collectors-quest/episode-147-so-you-want-to-collect-for-the-super-nintendo) — 2020-07-26
-- [Episode 145 - The Best & Worst Feelings in Game Collecting](https://soundcloud.com/collectors-quest/cq-145-the-best-worst-feelings-in-game-collecting) — 2020-06-15
-- [Episode 144 - What's The Deal With Collecting Sets?](https://soundcloud.com/collectors-quest/episode-144-whats-the-deal-with-collecting-sets) — 2020-05-29
-- [Episode 143 - Everyone is at Home Buying More Video Games!](https://soundcloud.com/collectors-quest/episode-143-everyone-is-at-home-buying-more-video-games) — 2020-05-15
 - [Side Quest 3 - Collecting and Finishing the PS1 Set](https://soundcloud.com/collectors-quest/side-quest-3-collecting-and-finishing-the-ps1-set) — 2020-03-31
 - [Episode 140 - Coronavirus Impact on the Video Game Market](https://soundcloud.com/collectors-quest/episode-140-coronavirus-impact-on-the-video-game-market) — 2020-03-27
 - [SideQuest 2 - Social Strategies](https://soundcloud.com/collectors-quest/side-quest-2-social-strategies) — 2020-03-22
@@ -239,37 +212,5 @@ Duplicate numbered labels: {"263": 2, "219": 2}.
 - [Episode 65 - Pornography in Video Games](https://soundcloud.com/collectors-quest/episode-65-pornography-in-video-games) — 2017-04-11
 - [Episode 64 - 8 Reasons Your Games Aren't Worth What You Think](https://soundcloud.com/collectors-quest/episode-64-8-reasons-your-games-arent-worth-what-you-think) — 2017-03-27
 - [Episode 63 - Interview with JayBaam and Helping Brooklynn](https://soundcloud.com/collectors-quest/episode-63-interview-with-jaybaam-and-helping-brooklynn) — 2017-03-13
-- [Episode 62 - Initial Nintendo Switch and Zelda and Breath of the Wild Review](https://soundcloud.com/collectors-quest/episode-62-initial-nintendo-switch-and-zelda-and-breath-of-the-wild-review) — 2017-03-07
-- [Episode 61 -7 Things That Suck About Retro Gaming](https://soundcloud.com/collectors-quest/7-things-that-suck-about-retro-gaming) — 2017-02-27
-- [Episode 60 - Kat and I Katch Up - SoCal Retro Gaming Expo Run Down](https://soundcloud.com/collectors-quest/kat-and-i-katch-up-socal-retro-gaming-expo-run-down) — 2017-02-15
-- [Episode 59 - Resident Evil 7VR & Modded NES Classics](https://soundcloud.com/collectors-quest/episode-59-resident-evil-7vr-modded-nes-classics) — 2017-01-30
-- [Episode 58 - Nico from Super MadNes](https://soundcloud.com/collectors-quest/episode-58-nico-from-super-madnes) — 2017-01-23
-- [Episode 57 - We React to the Nintendo Switch](https://soundcloud.com/collectors-quest/episode-57-we-react-to-the-nintendo-switch) — 2017-01-17
-- [Episode 56 - SoCal Retro Gaming Expo with @Damn.It.Steve](https://soundcloud.com/collectors-quest/episode-56-socal-retro-gaming-expo-with-damnitsteve) — 2017-01-09
-- [Episode 55 - 2016 Year In Review](https://soundcloud.com/collectors-quest/episode-55-2016-year-in-review) — 2017-01-03
-- [Episode 54 - How To Be Successful on Instagram with @Sabotage64](https://soundcloud.com/collectors-quest/episode-54-how-to-be-successful-on-ig-with-sabotage64) — 2016-12-19
-- [Episode 53 - The 12 Games of Christmas](https://soundcloud.com/collectors-quest/the-12-games-of-christmas) — 2016-12-12
-- [Episode 52 - The SNES Mini?](https://soundcloud.com/collectors-quest/episode-52-the-snes-mini) — 2016-11-21
-- [Episode 51 - 1 Year of Colletor's Quest](https://soundcloud.com/collectors-quest/episode-51-1-year-of-colletors-quest) — 2016-11-07
-- [Episode 50 - Talking Cosplay with Hollita_Cos](https://soundcloud.com/collectors-quest/episode-50-talking-cosplay-with-hollita_cos) — 2016-10-31
-- [Episode 49 - Horror / Halloween Movies That Became Games](https://soundcloud.com/collectors-quest/episode-49-horror-movies-that-became-games) — 2016-10-10
-- [Episode 48 - Top 5 Spooky Games](https://soundcloud.com/collectors-quest/top-5-spooky-games) — 2016-09-28
-- [Episode 47 - Our Top 5  PS3 Games and Some Ranting](https://soundcloud.com/collectors-quest/episode-47-our-top-5-ps3-games-and-some-ranting) — 2016-09-20
-- [Episode 46 - Interview with Lord_Sega_](https://soundcloud.com/collectors-quest/episode-46-interview-with-lord_sega) — 2016-09-12
-- [Episode 45 - Magazine Collecting, Nintendo Shutting People Down, eBay Jerks, and Crossy Road](https://soundcloud.com/collectors-quest/episode-45-magazine-collecting-nintendo-shutting-people-down-ebay-jerks-and-crossy-road) — 2016-09-05
-- [Episode 44 - Conventions Part 2](https://soundcloud.com/collectors-quest/conventions-part-2) — 2016-08-29
-- [Episode 43 - What Game Would You Make A Sequel For? We Share Ours.](https://soundcloud.com/collectors-quest/what-game-would-you-make-a-sequel-for-we-share-ours) — 2016-08-15
-- [Episode 42 - NES Sequels and the Categories They Fall In](https://soundcloud.com/collectors-quest/episode-42-nes-sequels-and-the-categories-they-fall-in) — 2016-08-08
-- [Episode 41 - Nintendo Game Boy with Kida467](https://soundcloud.com/collectors-quest/episode-41-nintendo-game-boy-with-kida467) — 2016-08-01
-- [Episode 40 - Interview Retro_Gaming or StopXWhispering](https://soundcloud.com/collectors-quest/interview-retro_gaming) — 2016-07-24
-- [Episode 39 - NES Mini, Is It Bad For Collectors?](https://soundcloud.com/collectors-quest/collectors-quest-episode-39-nes-mini-is-it-bad-for-collectors) — 2016-07-18
-- [Episode 38 - Multiplayer Games](https://soundcloud.com/collectors-quest/collectors-quest-episode-38-multiplayer-games) — 2016-07-11
-- [Episode 37 - How I Got My Super Nintendo Part 2](https://soundcloud.com/collectors-quest/episode-37-how-i-got-my-super-nintendo-part-2) — 2016-06-27
-- [Episode 36 - How I Got My Super Nintendo Part 1](https://soundcloud.com/collectors-quest/episode-36-how-i-got-my-super-nintendo-part-1) — 2016-06-20
-- [Episode 35 - Interview Wiggy From Rose Colored Gaming](https://soundcloud.com/collectors-quest/episode-35-interview-wiggy-from-rose-colored-gaming) — 2016-06-13
-- [Episode 34 - Collecting On A Budget And Collecting For The 3DS- Guest The3DSCollector](https://soundcloud.com/collectors-quest/episode-34-collecting-on-a-budget-and-collecting-for-the-3ds-guest-the3dscollector) — 2016-06-06
-- [Episode 33 - CQ News & PS1 and Saturn Price Spikes](https://soundcloud.com/collectors-quest/cq-news-ps1-and-saturn-price-spikes) — 2016-05-30
-- [Episode 32 - Interview NintendoTwizer & Wii Collecting](https://soundcloud.com/collectors-quest/episode-32-interview-nintendotwizer-wii-collecting) — 2016-05-23
-- [Episode 31 - Disney Games & Collecting](https://soundcloud.com/collectors-quest/collectors-quest-episode-31-disney-games-collecting) — 2016-05-16
 - [Episode 2 (6) -Speed Racer Mountain Bike Rally Combo Cart For Super Nintendo](https://soundcloud.com/collectors-quest/collectors-quest-episode-6-srmbr) — 2015-11-11
 - [Episode 1 (5)  - A New Host - Katselvania](https://soundcloud.com/collectors-quest/collectors-quest-episode-5-a-new-host) — 2015-10-27

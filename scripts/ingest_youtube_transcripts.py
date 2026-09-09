@@ -145,6 +145,15 @@ def build_manifest(raw):
                 row.update(caption_stats(path))
                 row["caption_path"] = path.name
                 row["status"] = "success"
+                row["coverage_warnings"] = []
+                if row["first_caption_start_seconds"] > 60:
+                    row["coverage_warnings"].append("First caption starts more than 60 seconds into the video; inspect intro")
+                if row["duration_seconds"]:
+                    row["tail_gap_seconds"] = row["duration_seconds"] - row["last_caption_end_seconds"]
+                    if row["tail_gap_seconds"] > 60:
+                        row["coverage_warnings"].append("Captions end more than 60 seconds before video end; inspect outro or truncation")
+                    if row["tail_gap_seconds"] < -10:
+                        row["coverage_warnings"].append("Caption timing exceeds listed video duration by more than 10 seconds; verify metadata alignment")
                 if sidecar.exists():
                     row["provenance"] = read_json(sidecar)
                 elif video_id in {"3EwIIu9_J_s", "7R-Dt60Cle4", "C0m5lrqLTy0", "e6fn8pThdIk", "GmWOpKRCJDw", "HYTX2pHgN7s", "KDKqbERZSxM", "KhDLQQNkZ7Y", "LpD2oLjRLsI", "MxNfxxvjn7M", "xdfcbOe1GX4", "zikFrekchMU"}:

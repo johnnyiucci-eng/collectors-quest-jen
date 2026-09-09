@@ -33,6 +33,7 @@ Public links let a client request the files without GitHub authentication. Wheth
 | [Transcript analysis plan](research/TRANSCRIPT_ANALYSIS_PLAN.md) | Future study of the show's conversational mechanics |
 | [YouTube findings](research/YOUTUBE_STYLE_FINDINGS.md) | Twelve-episode study with timestamped evidence and coverage limits |
 | [Archive findings](research/ARCHIVE_FINDINGS.md) | Airtable and podcast inventory, transcript close reading, and summary-quality checks |
+| [Early archive findings](research/EARLY_ARCHIVE_FINDINGS.md) | Kat and Johnny's convention discussion and its relation to later collecting goals |
 | [Single-file chat bundle](JEN_START_HERE.md) | Generated profile and Episode 001 for loading into a chat |
 | [Handoff provenance](SOURCE_NOTES.md) | What came from the original handoff and what was added |
 

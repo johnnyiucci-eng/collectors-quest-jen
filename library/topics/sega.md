@@ -27,8 +27,10 @@ Search terms: sega, genesis, mega drive, saturn, dreamcast, master system.
 
 ## [Episode 33 - CQ News & PS1 and Saturn Price Spikes](../episodes/cq-033-sc-266573136.md)
 
-2016-05-30 · Title or publisher description match · Transcript missing
+2016-05-30 · Title or publisher description match · Transcript available
 
+- Untimed passage: Welcome to episode 33 of collector’s quest podcast. This is our shameless self-promotion episode. I mean it’s not actually true. What we are talking about is a lot of things that are changing on the podcast, some directions we’re moving, and you know where we’re trying to get to and we just thought we’d let you know so the changes don’t s…
+- Untimed passage: damn it I thought I was past this then something goes wrong oh well not my fault the things that have gone wrong have not been my fault so I just get to be the bearer of bad news and I hate to deliver bad. Oh well hopefully this will take your mind off it on some things because we’re talking about all good things that are happening so thi…
 
 ## [Episode 91 - Johnny and Tyler Lay the Smackdown on Wrestling Games](../episodes/cq-091-sc-431931915.md)
 
@@ -217,6 +219,76 @@ Search terms: sega, genesis, mega drive, saturn, dreamcast, master system.
 - Untimed passage: because it’s also on the Super Nintendo, the Game Boy, and the Game Gear, and the Genesis. So which one am I talking about? They all kind of play a little bit different, too. They’re not the same game. In fact, they’re not even some of them made by the same company. And these all stem from a port of an arcade game. So when I say they’re m…
 - Untimed passage: a pass on that. Super Nintendo games are Super Nintendo games. So the version that’s on Super Nintendo winds up being a little bit more expensive. You’re starting to hit like a $50 range on that to $80 if you’re getting a nice one. And that’s a complete box, of course. And that’s mainly because it’s Super Nintendo. Again, the game isn’t v…
 
+## [Episode 31 - Disney Games & Collecting](../episodes/cq-031-sc-264347622.md)
+
+2016-05-16 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: Boy but there’s Mega Drive and Genesis and Game Gear and Master System and oh there’s DOS computer ones and Amiga and Game and Watch and everything you know and all the newer stuff of course that came out a little bit later so like you know Game Cube and DS and things like that and we I just I don’t know and then there’s a lot of things t…
+- Untimed passage: I guess that’s where the sales were. Yeah I’m sure I’m sure the sales were just through the roof on fill of the future. Well maybe with the younger demographic you know children. Well and another way you could collect Disney game and like this is part of it you could isolate it to Pixar games because some people don’t like to mix their st…
+
+## [Episode 32 - Interview NintendoTwizer & Wii Collecting](../episodes/cq-032-sc-265462094.md)
+
+2016-05-23 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: your collection in all these different formats? It’s kind of funny. Yeah. I mean, you know, if I see it posted in Facebook groups, I’ll throw a comment in there like, yeah, this collection sucks or I’ve seen better collections. You know, go back to the old business, my collection, but it’s kind of funny. Yeah. So if you guys don’t realize…
+- Untimed passage: And that I had a lot of fond memories of the GameCube too. That was one of the first systems I had bought on launch day with my own money. You know, I was I was standing outside Kmart like five in the morning, getting ready for them to open the doors the day the GameCube came out. And so I would say probably NES and GameCube, those are tw…
+
+## [Episode 34 - Collecting On A Budget And Collecting For The 3DS- Guest The3DSCollector](../episodes/cq-034-sc-267770564.md)
+
+2016-06-06 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: Everything about collecting has changed and you know it’s sometimes it’s hard to keep up when you have other things going on so you know I’ll talk you through some of that as we go through this today. Okay so let me take you to the point in which we meet and that’s circa 2009 on Sega Age when it first opens up and well actually I take tha…
+- Untimed passage: and we have some family that’s local but you know they that shouldn’t be the rule that should be the exception to the rule you should be home with your kids I’m not gonna get on a rant about that but you should be home with your kids so we found out like any job that I ever took it was always like well I’m working on their schedule I work…
+
+## [Episode 38 - Multiplayer Games](../episodes/cq-038-sc-273108962.md)
+
+2016-07-11 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: play a lot of like one-player games and just watch each other play and we would just trade off who was piloting yes and we actually still do that too so games that weren’t multiplayer became multiplayer that’s awesome that’s good though I definitely have some ones like that too and I think that’s why we sometimes don’t think about the one…
+- Untimed passage: now I feel like I have to put it in and be like was it good was it not good like I remember the memories and I remember liking it then but did who knows I honestly don’t remember but I have so many fond memories and like we played other things and stuff like that too and obviously there was lots of Sonic and stuff like that obviously give…
+
+## [Episode 40 - Interview Retro_Gaming or StopXWhispering](../episodes/cq-040-sc-275243557.md)
+
+2016-07-24 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: games since I was a little kid. The first time I came in contact with it was with an old Game & Watch the Donkey Kong the orange double dual screen one and I played that thing until my mom accidentally made me lose it I think she just hid it from me or something. It was my brother’s he’s 13 years older than me and after that I never got a…
+- Untimed passage: Super Mario Bros. 2 and I had to help her out figure out the patterns and stuff like that but it wasn’t until I was like 18 or something 18 or 19 when my I fooled my dad into buying me a PS2 you fooled him how did you fool him he was always okay with buying the Hs players or you know any kind of technology saying that I could could be abu…
+
+## [Episode 46 - Interview with Lord_Sega_](../episodes/cq-046-sc-282520348.md)
+
+2016-09-12 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: Welcome to episode 46 of the collector’s quest podcast. On this episode we talk to Eric. You might know him as Lord Sega from Instagram. You might also know him as Eric’s from Instagram depending how far back you go. We talked to him about his amazing collection, how he got there, where he’s going next, and what he’s collecting. We also c…
+- Untimed passage: for my Wii U purchases or my Wii purchases or even my 3DS purchase. Thanks Nintendo I’m already angry about it just I really feel like Nintendo nickel and dimes you on that kind of stuff so it would be nice if they got like some sort of unified system you know where once you bought something you owned it. Yeah I know you’re not very happy…
+
+## [Episode 49 - Horror / Halloween Movies That Became Games](../episodes/cq-049-sc-286948413.md)
+
+2016-10-10 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: came out for the nintendo the super nintendo the master system genesis game gear Turbografx 16 uh cd Yes, the zx spectrum Commodore 64 game boy atari amiga I think that one was a fairly popular one and but then there became like like you said puggly scavenger hunt But there’s a lot of adams family games all of a sudden there was I was sur…
+- Untimed passage: pretty sure it was 1984 I mean, it wasn’t released on the nest to like 87 or something. Yeah, but the the the uh movie came out 184 Yeah, 85 something like that. Yeah So the original one i’m going to start with because I feel like that’s a really good place to start and Of course, there is also The second ghost busters on the nes right An…
+
+## [Episode 53 - The 12 Games of Christmas](../episodes/cq-053-sc-297541109.md)
+
+2016-12-12 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: yeah it it’s one that if you want to have it for a certain reason or you’re collecting a set great but you know it’s it’s a good game but you’re not really missing anything if you decide not to run out and buy it for the fact that you just want to play it at that price right okay fair enough I’m gonna I’ll move us to my game and this one…
+- Untimed passage: has like some ironic undertone to it good choice good yeah maybe not once again that I’m advising anybody run out and go play immediately because you might be really disappointed or you might like it and then I feel like you’re probably the only person I’m looking at my list and I’m super Sega themed which was not intentional but my next…
+
+## [Episode 54 - How To Be Successful on Instagram with @Sabotage64](../episodes/cq-054-sc-298614237.md)
+
+2016-12-19 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: was kept or resold or however you did it. Ooh, like in the wild? Or are you Bay? Like, I don’t know, I found some really great deals on eBay before. I mean, I had up some garage sales one time, like a pretty local reseller was selling off some things, so I got this really cool alloy Sega Dreamcast arcade stick. I got a bunch of Gamecube f…
+- Untimed passage: twist. I just think it’s interesting that people are like, oh, it’s because you’re a girl. No, it’s because you post Nintendo. You got all those followers. Like, see, back to my, see how lazy that sounds? You’ve just, yeah, it’s just an excuse. Right. You’ve just said, I see success and I guess those are mountains I’ll never climb. You ma…
+
+## [Episode 55 - 2016 Year In Review](../episodes/cq-055-sc-300699399.md)
+
+2017-01-03 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: week and I’m excited about that. But the SoCal Retro Expo is happening in like a month and it’s one of my favorite events and it is because I get to meet so many great people. Every time I go to one of these and there’s been two so far, I meet another cool person. Someone that I’m like texting and talking to on a regular basis about colle…
+- Untimed passage: So that moment in time is encapsulated in this Super Nintendo Sega Hybrid and it’s there and you know for me just being a game nerd and wanting to see what history looks like, you could see history in a moment. The moment Nintendo kind of lost its way essentially or gave up its crown is right there. So I’m super excited to see that and an…
+
 ## [Episode 141 - All Your Video Game Lists Are Bad](../episodes/cq-141-sc-797285986.md)
 
 2020-04-13 · Multiple transcript paragraph matches · Transcript available
@@ -231,12 +303,103 @@ Search terms: sega, genesis, mega drive, saturn, dreamcast, master system.
 - 00:22:40: gross uh yeah so the The Lion King game im8 bit did a physical run of is it it's Super Nintendo right they did a Super Nintendo cartridge Super Nintendo Lion King and then Genesis Aladdin I think right so if you go to IM ait's website that game is sold out you cannot buy The Lion King they did it they sold out yeah yep they they sure did…
 - 01:01:34: complete PS2 set while that is a lot of real estate it pales in comparison to the to the the Next Generation where they really just amped up the statues and and the big boxes and the hey this you know the notices that say Hey you know the game's not even in here go download it and here's your gigantic Fallout box it's a you know it's it's…
 
+## [Episode 143 - Everyone is at Home Buying More Video Games!](../episodes/cq-143-sc-820828618.md)
+
+2020-05-15 · Multiple transcript paragraph matches · Transcript available
+
+- 00:32:07: see the sailboat yeah yeah exact it's exactly that moment so yeah yes uh like okay and that references to Magic Eye puzzles yes by the way very nice I haven't I haven't seen M rats I'm I'm GNA play the Jay and Silent Bob game tonight and I'm not going to get any of the references cuz I've only seen the clerks movies you should you should…
+- 00:33:08: game rooms have been like hyperfocused on that but they are starting to Branch out now you're starting to see different stuff from them finally oh yeah yeah but like most of the like genesis and Playstation like some PlayStation stuff is is going pretty crazy right now but uh most of it has also ticked up with the general uptick and every…
+
+## [Episode 144 - What's The Deal With Collecting Sets?](../episodes/cq-144-sc-830303989.md)
+
+2020-05-29 · Multiple transcript paragraph matches · Transcript available
+
+- 00:14:59: I've preached about like looking up all sides but like what's on the front of the box and then like what does the cart say cuz they can all be different like and the this fun one here's a fun example so we all know world class soccer right for the Super Nintendo you guys know this game okay so it's got a big soccer ball on it and some fla…
+- 00:31:54: ones in uh in pal for Super Nintendo were they're like red boxes like make like this nice red line they look pretty cool you seen the we're getting off topic but the Sega Genesis pal ones I think Australian aisoft maybe uh they have like the platinum and gold collections it looks like the Criterion Collection of freaking video games and i…
+
+## [Episode 145 - The Best & Worst Feelings in Game Collecting](../episodes/cq-145-sc-840303766.md)
+
+2020-06-15 · Multiple transcript paragraph matches · Transcript available
+
+- 00:06:27: through that emotional trauma of the best and the worst feeling all wrapping themselves into one and I was like you know we should talk about this and and we have like moments we have but I was like you know I would like to just share uh like your guys's other experiences aside from just mine and maybe like compile a little a little list…
+- 00:17:10: could keep it yeah and I mean I know he probably packaged it inside like a box in to box and bubble wrap everywhere just uh yeah it was it was very secure it was just very poorly handled because of the weight but even with all the bubble wrap it's still going to have shocks internally in the machine from uh you know being dropped and all…
+
 ## [Episode 146 - How Game Collectors Can Collect Information](../episodes/cq-146-sc-852741172.md)
 
 2020-07-05 · Multiple transcript paragraph matches · Transcript available
 
 - 00:26:37: receptacles installed every 3 feet yeah so I need 20 amps per three cockpits so and then plus the plus the separate circuit for the like actual host computer so that's three 3 20 amp circuits are going in the garage all right that's not too bad I looked up um once I looked up like this was a long time ago when maybe was more realistic but…
 - 00:34:48: the hidden gems on this um but there aren't many websites that are just dedicated to easy very easy to digest articles on game collecting yeah and this especially back then like there before YouTube was this prevalent right like racket boy was a place you could find an article yeah it's not like a database like Atari age or Nintendo age t…
+
+## [Episode 147 - So You Want to Collect for the Super Nintendo](../episodes/cq-147-sc-864983083.md)
+
+2020-07-26 · Multiple transcript paragraph matches · Transcript available
+
+- 00:05:19: into our topic so you want to collect for the Super Nintendo Johnny Woo it's been so long this is our first so you so you want to collect in 2020 God what did we what was the last one was it wasn't 3dio was it cuz 3DO was like the first time I came on here no it was uh Saturn I think we did a so you want to collect 3dio before Super Ninte…
+- 00:12:44: mind all right so uh Tyler bring us into this episode please all right so what what's the Super Nintendo guys have have you heard of it nope 1991 here it is the Sega Genesis has been out for 2 years Bang Nintendo's like we're going to make a 16-bit console 2 it might even be the Western counterpart to the super famicom and the debut of pr…
+
+## [Episode 148 - The "Bubble", The Next Big Console, Johnny Complains about Grades, and More!](../episodes/cq-148-sc-881040898.md)
+
+2020-08-24 · Multiple transcript paragraph matches · Transcript available
+
+- 00:27:31: and I found a poor condition cart of devilish on the Genesis and a completely empty Sega Genesis console box for five bucks and that was it uh I just like when I was going in the mid 2000s like I would go and I would come back with like a suitcase full of video games that cost me nothing and that obviously doesn't happen at all anymore no…
+- 00:37:58: though I correct you it's stepan if you continue knowingly to call me Steven then you're just an ass I have I have Stefan pH friends and Stephen pH friends and literally every time I say your name Stefan it me up because I have to try to think of which one you are look it's all about the or the the the question like I don't know how peopl…
+
+## [Episode 149 - Flush With Plush (and Fractional Share Investing)](../episodes/cq-149-sc-892401565.md)
+
+2020-09-13 · Multiple transcript paragraph matches · Transcript available
+
+- 00:51:58: 12,000 the phone you talking about of all Mario 5 what too many things are happening right now Johnny my brain needs to process you need to slow down yeah for $5,000 you can get a really nice either Nintendo statue like a promotional statue or really nice sign you're telling me a plushy went for $5,000 yes yeah uh like a world of Nintendo…
+- 01:00:35: box so yeah you know and just just for some context here it is hard to overstate how much N64 was perceived as garbage in the mid 2000s oh yeah yeah like this is it was literally like PE like I couldn't find Super Nintendo Nintendo games Genesis games were getting harder to find so I was just like hitting stores up like oh you got and lik…
+
+## [Episode 150 - Talking about Video Game Condition](../episodes/cq-150-sc-900299890.md)
+
+2020-09-27 · Multiple transcript paragraph matches · Transcript available
+
+- 00:17:56: uh some Super Mario Brothers 3 of course of course Super Mario Brothers 3 uh sold for some ridiculous thousands of dollars complete in box like that's the stuff that you see going for ridiculous prices you're going to see some Legend of Zelda you're going to see a punch out you're going to see a contra sell for some stupid price in some r…
+- 00:23:13: top label was minty where the title was and then like the front of the actual label was just completely effed right it just like tore off I think uh uh my my Batman uh my Batman Forever was like almost like missing the entire label and when I bought that it was like the the the Delta on price was enough that like I was like I don't care w…
+
+## [Episode 152 - So You Want to Collect Castlevania Games](../episodes/cq-152-sc-921297673.md)
+
+2020-11-01 · Multiple transcript paragraph matches · Transcript available
+
+- 00:18:59: it was the Genesis of Zelda Castlevania kicis and Metroid so there were a lot of important games that came out for it first but the the thing that Johnny wants to talk about because it's cool is Castlevania got re-released in cartridge form on the regular famicom and that is a fancy pretty expensive game I went looking and the prices were…
+- 00:39:11: be uh creased and damaged you can get the Japanese one like $250 $300 in a nice box uh with with like unique art on it okay Tyler recommendation just don't worry about it it's a tiger handheld that's true but you get unique art and the funny thing about uh it's a game Vision over in Japan right so what's cool about that one is there's a S…
+
+## [Episode 153 - The $1000 Modern Game Draft](../episodes/cq-153-sc-934338115.md)
+
+2020-11-23 · Multiple transcript paragraph matches · Transcript available
+
+- 00:03:01: cuz I thought I could get them late but like I said you guys will you'll tell us who you think is yeah we'll put it up on all of our socials and you know everyone will get a vote and then we'll we'll talk about uh you know who won uh you know air quotes won cuz no one really wins and the other thing we do is now that we're in the future f…
+- 00:13:28: cool to go down in value 7% drop and that just goes to show kids don't buy  games your cquest card went from $4 to 8 so you know that's 100% baby that's awesome but that's the most interesting thing is Stephan bought like the most eclectic mix of like more personal picks I went for Stone Cold Classics but I bought a lot more Cardon stuff…
+
+## [Episode 155 - Five Golden Things](../episodes/cq-155-sc-951597298.md)
+
+2020-12-21 · Multiple transcript paragraph matches · Transcript available
+
+- 00:27:39: now you just look like um you know Johnny finger dicks wait Johnny wait Johnny you have some YouTube videos you're telling me you don't wear a hat on YouTube I wear a hat on YouTube I don't I usually don't show my face on YouTube I I'm not like I'm I'm not trying to be an extreme character on YouTube I have a face for pod G and radio I I…
+- 00:28:43: information on Genesis variants and it happened to be your content that was pretty yeah and you saw my hands and the only thing you see of mine is my hands your sexy sexy hands kind of small sex uh yeah no hands aren't my best feature uh you know there's a lot of horrible jokes I'm not going to make right now uh anyways uh yeah just shave…
+
+## [Episode 156 - Game Collecting in 2020 and Looking Ahead to 2021](../episodes/cq-156-sc-960241846.md)
+
+2021-01-06 · Multiple transcript paragraph matches · Transcript available
+
+- 00:29:36: go for a complete N64 collection is probably the thing to buy right now the thing to buy right now is things that no one is even thinking about that's probably always the thing to buy is things that no one is thinking about but like uh go to game value now and look up N64 filler right now cuz one of the things I did this year I completed…
+- 00:34:59: to maybe your daughter wants it maybe it goes to her before them maybe it does I don't care about those people I'm here for your stuff I can't yeah and if anyone's getting that Blockbuster World Championship cartridge it's me so sorry Tyler we we'll see that's fine I want a new Leaf more than I want the Blockbuster World Championships you…
+
+## [Episode 158 - What is the Most Expensive, Most Common Nintendo Game?](../episodes/cq-158-sc-972087568.md)
+
+2021-01-25 · Multiple transcript paragraph matches · Transcript available
+
+- 00:21:11: remember when we did the uh the draft show we talked about God of War like should we be buying God of War oh I guess the answer well I I mean I didn't buy it because I don't like God of War it's a stupid game cuz it's the as a shut up that's as collectors that doesn't it doesn't matter if we like games doesn't matter if it's a good game I…
+- 02:07:26: Saturn um on Instagram you know he always has like little stockpiles of GBA games and other random bits he finds and uh I bought some stuff from him and some of the weird stuff I've been showing off lately including that Toy Story 2 and uh you know Strawberry Shortcake those are games I got from him so that's I I got GBA stuff like one of…
+
+## [Episode 159 - Collectible Video Games with Trading Cards](../episodes/cq-159-sc-981088471.md)
+
+2021-02-07 · Multiple transcript paragraph matches · Transcript available
+
+- 00:41:16: America the earliest ones I found in America and this could be entirely wrong uh were the ballistic and Accolade Sega Genesis games and Sega Genesis games in general a lot of Sega Genesis games came with cards and uh a bunch of Super Nintendo games came with cards as well but I looked in like Sega Master System just did not have a lot of…
+- 00:42:18: to know what the actual first American trading cards that came with game are anyway we're going to talk about the ballistic and Accolade Sega Genesis games which which are uh unlicensed in the early '90s unlicensed and then towards the mid90s they got licensed uh which is fun a lot of people will include these on their Sega Genesis lists…
 
 ## [CQ 176 - Finding Value in What the Market Doesn't Value](../episodes/cq-176-sc-1119856444.md)
 
@@ -273,12 +436,89 @@ Search terms: sega, genesis, mega drive, saturn, dreamcast, master system.
 - Untimed passage: covering Mario Clash? We all just want to collect Mario Clash for the virtual boy. - Yeah, that’s everyone’s favorite. But you know, some systems, you know, were launched with Metroids, I don’t know. - Johnny, 1989. - Yeah, yeah, you don’t want to talk about that though. - We got the Sega Genesis, a console that some people like and a com…
 - Untimed passage: McDonald’s color scheme on the Mega Hit series. - The red and yellow? - Yeah, the McDonald’s games. Very striking. You know, it’s a companion to greatest hits decision to go with red and green. Is that what the original PlayStation was? Is that red text on green? - Yeah. Just the most intrusive on your eyeballs. They’re like, this’ll make…
 
+## [CQ 265 - The $200 modern game situation is crazy](../episodes/cq-265-sc-2019478217.md)
+
+2025-01-27 · Multiple transcript paragraph matches · Transcript available
+
+- 00:24:32: expect that it's a it's a 2d shooter that us me this is I love [ __ ] UPS Veggie World just went up in my opinion guys I think if you have a like a rare expensive collectible shooter collection Veggie World on the Nintendo Wii kind of deserves to be in there or you know what it's if you have like one of these collections where you're like…
+- 00:29:46: a rare exciting game in the in like the regular set which hey I've collected consoles that have basically no rare and exciting games like the Xbox set there's like kind of nothing really exciting in the Xbox set there's like a few like uncommon games and that's it and that's kind of the case on the Wii U yeah like Dreamcast collectors we…
+
+## [CQ 266 - IMPOSSIBLE Collector Dilemmas](../episodes/cq-266-sc-2032757612.md)
+
+2025-02-12 · Multiple transcript paragraph matches · Transcript available
+
+- 01:05:05: your like Sega Saturn game doesn't have a replacement Sega Saturn case but like it's not something I'm worried about if I don't know about it because like that's all I would be doing is worrying about my components if I really cared about that stuff yeah and and down that way lies madness Okay on the same frame let's let's keep it going t…
+- 01:09:15: completeness as a big box PC game so this one though didn't have the disc like just the CD I was like uh it was like the CD case in in the CD but the Box had the regge card all the original adverts the instructions I was just like and you can find the disc cuz that's the easy part to find out of a big box game and it wasn't like a bunch o…
+
+## [CQ 267 - Does Xbox 360 Have Anything Collectible?](../episodes/cq-267-sc-2040821424.md)
+
+2025-02-24 · Multiple transcript paragraph matches · Transcript available
+
+- 01:17:07: with like four games and I can't remember how they're bundled or was it only three there's been multiple versions of it there's multiple versions on PS2 I think but oh is that all this one on Xbox 360 it's Viva Pinata Party Animals everyone's favorite Viva Pinata game Shrek III and Sonic 06 this is quite a bundle but I think is that a wor…
+- 02:16:34: own fair enough yeah so I only care about exclusive so we're not if it was ported everywhere forget about it so death Smiles ported everywhere you mentioned musiim masama futari version 1.5 this is an exclusive console Port of the game which makes it cool and it's only 60 bucks back in my day if you had a Japanese exclusive shooter like a…
+
+## [CQ 268 - 20 Reasons Modern Collecting Sucks (and like 2 it's the best)](../episodes/cq-268-sc-2056143344.md)
+
+2025-03-17 · Multiple transcript paragraph matches · Transcript available
+
+- 00:17:06: commodor 64 games Sega CD games always take advantage of FMV or at the very least CD music so Sega CD and like 3DO games they have a very distinct feel to them because that wasn't what other video game systems at the time could do uh you could tell the difference between a Genesis and SNS game just by listening to it you could tell what a…
+- 00:19:15: all right it's just yeah games uh it's not it's like it's not like this isn't a conspiracy this isn't like uh we all got together and the big businesses were like oh wouldn't it be great if just everything was a big gray mass and everything was the same video games are just too expensive now to have real exclusives like if if Grand Theft…
+
+## [CQ 269 - Ten Turbografx/PC-Engine Games We'd Start Collecting](../episodes/cq-269-sc-2067796304.md)
+
+2025-03-31 · Multiple transcript paragraph matches · Transcript available
+
+- 00:09:46: Yep. And we don't have a whole lot of uh experience with those. So that's cool. Uh I mean I think everyone's collective experience, like if you get into the PC Engine, everyone has the same collective experience of buying like the same 10 games or like downloading whatever they do, the same 10 games as everyone else or they play PC Engine…
+- 00:10:50: PC Engine collection. What are some examples? Altered Beast. You ever heard of that one? One of your favorites? Rise from Your Grave. Yeah. Uh, well, it's not a very good impersonation, but yeah, that's I'm so sorry. Yeah, Shinobi, Goldax, Outrun, Raiden, Space Harrier, Afterburner 2. Yeah, like Forgotten Worlds, like our type. It's just…
+
+## [CQ 270 - It's time to fix your collection: Spring Cleaning](../episodes/cq-270-sc-2080569108.md)
+
+2025-04-17 · Multiple transcript paragraph matches · Transcript available
+
+- 00:06:28: There's some that are a,000. Uh, you know, like the bad ones are like three or 400. And I'm not going to say all of it was gone, but like half of that was gone. People wanted the Pokemon games. Sunday Walking Around, I did not see the Pokemon games. Uh, Pokemon is very popular, I will say. Uh, and you're contributing to that. You're you'r…
+- 00:07:32: here and I want it and I can look at it and it's this is like a $300 game. I understand that, but you know, like Sailor Moon CG collection for the Sega Saturn bins full of like this junk and there's like people digging through it like what are you looking for? The Radiant Silver Gun. I guarantee it's not in there, dude. Um, but there were…
+
 ## [CQ 271 - Is your "CIB" good enough?](../episodes/cq-271-sc-2088408297.md)
 
 2025-05-01 · Multiple transcript paragraph matches · Transcript available
 
 - 00:29:41: have that. And some games revive like in their reprints suddenly didn't have a map or a poster. That happened a lot on Super Nintendo. And there may not have even been a revision for that. You just know that the later copies uh some suddenly just don't come with the piece that you think it's supposed to come with. Here's an insane one, Ty…
 - 00:30:42: the Genesis box and the back of the Super Nintendo box, unique to each one. And then they printed the back of the box on that sleeve. And then they pasted it to the back of the box so it just looks like the back of the box. That's all fine, right? That That's fine. That's fine. No big deal. Okay, they did a thing. That's kind of crazy in…
+
+## [CQ 272 - iam8bit situation is crazy](../episodes/cq-272-sc-2095653180.md)
+
+2025-05-14 · Multiple transcript paragraph matches · Transcript available
+
+- 00:18:58: important and I mean they really started out with things like you know Celeste and Stardy Valley and Hollow Knight and then IMA 8bit. Yeah, I think they're also really selective and their only misses are because of the partnerships of of stuff that is easy for them to put out. Yeah. And like I don't know, I I like a lot of these games tha…
+- 00:20:03: X. Uh, and they put out a Garbage Pale Kids NES homebrew. It's not even like a stupid reprint. It's an original game. It's a stupid game, but it's it's something. They're clearly dabbling here. Don't forget Aladdin. Yeah, I said Aladdin. I don't even know if they did both. Did they do both Aladdin? They did. They did. No, just Aladdin on…
+
+## [CQ 274 - Nintendo Launched Another Console? (NOT CLICKBAIT)](../episodes/cq-274-sc-2112423486.md)
+
+2025-06-12 · Multiple transcript paragraph matches · Transcript available
+
+- 00:56:09: dilution of like, oh, there's like a Madden and an NHL 2K game in here. Yeah. And like, you know, Super Monkey Ball Banana Blitz. There's none of this like nonsense. Like even the nonsense games, you know them because they're Nintendo games. Like baseball is it's like a is that a Shagar Miamoto game or a Saturn game? Like baseball technic…
+- 01:01:25: Again, I think these are cool games, but like if you if your mom got you Gradius 3 or like F-Zero with Super Mario, like with that Super Mario World, it's hard to imagine me imagine you being dissatisfied. Yeah. If I had Pilot Wing, if I only had Pilot Wings in a world where like Super Mario World wasn't a pack in, I would go over to my f…
+
+## [CQ 275 - Preorder This Episode](../episodes/cq-275-sc-2118871731.md)
+
+2025-06-24 · Multiple transcript paragraph matches · Transcript available
+
+- 00:35:58: We looked at this. It's about in a Game Boy sized shaped box, but it was really a a bonus that you could buy um because it came out in Super Nintendo Genesis and Game Boy at the same time. And it was had some stickers in it and some other stuff. Are you you're familiar with this? I am. The the Mortal Kombat kit. Yep. Is that exact I don't…
+- 00:47:48: uh just a little pin and you submitted your proof of of it. you could you could get a pin to go along with your game and they were usually like a nicer quality pin. It wasn't like one of these garbage button pins. It was usually like an enamel uh or pewtor style pin and it said the game and you know they're small enough that you could lik…
+
+## [CQ 276 - Someone Has to Collect the PC Games](../episodes/cq-276-sc-2126621844.md)
+
+2025-07-08 · Multiple transcript paragraph matches · Transcript available
+
+- 00:00:00: Hey, welcome back to another episode of Collector's Quest. I'm Tyler here with Johnny. Johnny, what's going on? What up? What up, T- Money? I think I think last episode I didn't use the intro music, which saves me like a good minute in terms of editing because I don't have to export the file again and like go find that intro music. So, we…
+- 00:02:03: I I think so, but I think they have like between 15 and 20 people. And uh yeah, but even that even with like their 15 to 20 people they said they were getting per stream, they said they were still doing pretty good. But also 15 to 20, it's not the same 15 to 20 people the whole time cuz people wander in and out um continuously. So it's a…
+
+## [CQ 277 - Video Games From Another Angle](../episodes/cq-277-sc-2135964186.md)
+
+2025-07-24 · Multiple transcript paragraph matches · Transcript available
+
+- 00:30:45: Yeah. So, if you are someplace and you only see that black cover, do check inside the box cuz I know a lot of people throw it in the box. All right, Tyler, let's stick with the Super Nintendo, shall we? A Super Nintendo and Genesis and talk about my one of my favorite one of these. You know which one I'm talking about? Uh, another claimat…
+- 00:31:49: an adventure game like how the Beas and Buttad game on Genesis and SDS is an adventure game where like yeah, okay, sure. Beus and Buttthead, I'm expecting probably a platformer, but if not, sure, an adventure game that makes sense. Pac-Man, a series that is, you know, 50% maze games and 50% platformers. I'm not expecting it to have an adv…
 
 ## [CQ 278 - Top 10 Collectible Games of 2045](../episodes/cq-278-sc-2154448311.md)
 

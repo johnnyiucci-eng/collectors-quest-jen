@@ -19,7 +19,7 @@ import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
 ITUNES = "{http://www.itunes.com/dtds/podcast-1.0.dtd}"
-REVIEWED = {142, 146, 176, 204, 222, 236, 248, 252, 254, 271, 281, 288, 299, 300}
+REVIEWED = {7, 142, 146, 176, 204, 222, 236, 248, 252, 254, 271, 281, 288, 299, 300}
 TOPICS = {
     "variants-and-completeness": ("Variants and completeness", ["variant", "insert", "complete in box", "cib", "first print", "greatest hits", "packaging", "reissue"]),
     "collecting-goals-and-psychology": ("Collecting goals and psychology", ["collecting goals", "empty slot", "sunk cost", "collecting sets", "full set", "burnout", "fomo", "collection envy"]),
@@ -232,6 +232,24 @@ def main():
             match["capture_check"] = "Full attachment text captured; untimed source completeness not independently verified"
             paragraphs[match["key"]] = blocks
 
+    # SoundCloud-only gaps can be filled by explicitly identified local ASR.
+    for record in read_json(source / "audio-transcripts.json", []):
+        if record.get("status") != "success":
+            continue
+        match = match_episode(entries, record.get("title", ""), record.get("source_url"))
+        if not match:
+            unmatched.append({"kind": "local_audio", "title": record.get("title"), "reason": "No unambiguous publisher entry match"})
+            continue
+        segments = read_json(source / record["path"], [])
+        if not segments:
+            continue
+        coverage_check, last_end = caption_coverage(segments, record.get("source_duration_seconds"))
+        blocks = caption_paragraphs(segments)
+        match["transcript_sources"].append({"kind": "local_audio", "url": record["source_url"], "method": record["method"], "audio_sha256": record.get("audio_sha256"), "source_duration_seconds": record.get("source_duration_seconds"), "last_end_seconds": last_end, "coverage_check": coverage_check, "quality": record.get("quality")})
+        if match["transcript_status"] == "missing":
+            match.update(transcript_status="available", transcript_words=sum(len(p.split()) for _, p in blocks), primary_transcript_source=record["source_url"], timing="Machine-generated audio segment timestamps", capture_check=coverage_check, transcription_method=record["method"])
+            paragraphs[match["key"]] = blocks
+
     library = ROOT / "library"
     topic_matches = defaultdict(list)
     for entry in entries:
@@ -244,6 +262,8 @@ def main():
             lines.append("No usable transcript has been ingested for this entry yet. The publisher description is not a substitute for the episode's contents.")
         else:
             lines += [f"Source: {entry['primary_transcript_source']}", "", f"Timing: {entry['timing']}.", "", f"Capture check: {entry.get('capture_check', 'Not independently checked')}.", "", "Transcript wording may contain recognition errors, missing punctuation, or uncertain speaker attribution. Historical statements and prices are not current verified facts. Paragraph grouping is generated for navigation, not speaker labeling.", ""]
+            if entry.get("transcription_method"):
+                lines += [f"Transcription method: {entry['transcription_method']}.", ""]
             for i, (seconds, paragraph) in enumerate(blocks, 1):
                 label = f"{stamp(seconds)}" if seconds is not None else f"Paragraph {i}"
                 lines += [f"### {label}", "", paragraph, ""]

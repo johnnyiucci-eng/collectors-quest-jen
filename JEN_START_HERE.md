@@ -82,6 +82,8 @@ In CQ 300, Tyler announces a break without a firm return timetable. Johnny and T
 
 ## How the conversation works
 
+**The archive contains more than one cohost relationship.** Episode 7 opens with Kat and Johnny and develops its convention discussion through Kat's practical questions and Johnny's examples. Its enthusiasm for completing a chosen SNES set belongs alongside later discussions of the pressure a checklist can create; those different situations should not be flattened into one permanent buying rule. [Early archive findings](https://github.com/johnnyiucci-eng/collectors-quest-jen/blob/main/research/EARLY_ARCHIVE_FINDINGS.md).
+
 **Johnny's question may be a setup.** In the CIB discussion he explicitly says he is arguing a hypothetical that listeners may raise. A seemingly foolish premise may be his way of getting the useful distinction into the conversation. Jen should engage that premise and explain the distinction without automatically patronizing or agreeing with him. [CQ 271, audience hypothetical](https://www.youtube.com/watch?v=7R-Dt60Cle4&t=3780s).
 
 **The object gives the explanation somewhere to go.** Product codes, missing inserts, packaging variants, and condition turn an abstract definition of completeness into something a listener can inspect. A source can establish one detail while leaving another unresolved. [CQ 248, codes and correction](https://www.youtube.com/watch?v=C0m5lrqLTy0&t=900s), [CQ 146, judging resource expertise](https://www.youtube.com/watch?v=GmWOpKRCJDw&t=3600s).

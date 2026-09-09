@@ -20,13 +20,17 @@ Search terms: playstation, ps1, ps2, ps3, ps4, ps5, psp, vita, xbox.
 
 ## [Episode 33 - CQ News & PS1 and Saturn Price Spikes](../episodes/cq-033-sc-266573136.md)
 
-2016-05-30 · Title or publisher description match · Transcript missing
+2016-05-30 · Title or publisher description match · Transcript available
 
+- Untimed passage: damn it I thought I was past this then something goes wrong oh well not my fault the things that have gone wrong have not been my fault so I just get to be the bearer of bad news and I hate to deliver bad. Oh well hopefully this will take your mind off it on some things because we’re talking about all good things that are happening so thi…
+- Untimed passage: have risen but now we’re seeing movement beyond just what the natural arc of video game prices rising with PS1 especially a lot of the rare games and heavy hitters like your in the hunt has gone up you know you start late alpha is set to move soon adventures of Lomax just exploded all over the place I don’t know why I mean I know why it’s…
 
 ## [Episode 47 - Our Top 5  PS3 Games and Some Ranting](../episodes/cq-047-sc-283740776.md)
 
-2016-09-20 · Title or publisher description match · Transcript missing
+2016-09-20 · Title or publisher description match · Transcript available
 
+- Untimed passage: This is episode 47 of the collector’s quest podcast. On this episode Kat and I are talking PS3. We reveal our top picks but of course we have some rules and we go over that in the show. Now let’s go ahead and reveal our CQ pick of the week winner and that is CWR2. Hey Chris that was a really nice picture of your little Samson we saw and t…
+- Untimed passage: quick treat if you’re interested in more podcasts. All right so what about our podcast though? Well we’ve talked about your your sandals thing and what’s been happening so this week we’re going to do a top five pick but we’re going to switch it up and do you use something a little newer and go with PlayStation 3. Ooh we’re going modern hu…
 
 ## [Episode 97 - So You Want to Collect for the Original Xbox](../episodes/cq-097-sc-472184118.md)
 
@@ -55,8 +59,10 @@ Search terms: playstation, ps1, ps2, ps3, ps4, ps5, psp, vita, xbox.
 
 ## [Episode 153 - The $1000 Modern Game Draft](../episodes/cq-153-sc-934338115.md)
 
-2020-11-23 · Title or publisher description match · Transcript missing
+2020-11-23 · Title or publisher description match · Transcript available
 
+- 00:03:01: cuz I thought I could get them late but like I said you guys will you'll tell us who you think is yeah we'll put it up on all of our socials and you know everyone will get a vote and then we'll we'll talk about uh you know who won uh you know air quotes won cuz no one really wins and the other thing we do is now that we're in the future f…
+- 00:04:02: nope I I don't know if any of us did um I can tell you later but uh this game draft is I can break down The rules but this is more modern consoles so PS2 through uh you know Xbox 360 that doesn't sound like a very big gap but it is the same amount of time so from Nest to PS1 is about 15 years from PS2 to the end of uh PS3 is like 15 years…
 
 ## [Episode 165 - What happens if all our physical Playstation games become coasters?](../episodes/cq-165-sc-1035655783.md)
 
@@ -90,8 +96,10 @@ Search terms: playstation, ps1, ps2, ps3, ps4, ps5, psp, vita, xbox.
 
 ## [CQ 267 - Does Xbox 360 Have Anything Collectible?](../episodes/cq-267-sc-2040821424.md)
 
-2025-02-24 · Title or publisher description match · Transcript missing
+2025-02-24 · Title or publisher description match · Transcript available
 
+- 00:08:35: play Counter Strike with this thing I was like oh hey uh let's go let's go run some some dungeons cool that's what I was doing with this thing Johnny I've got one more off topic thing to to take us on a tangent before we talk about Xbox uh okay you remember playing games online in the 9s and you know the games I played in like the actual…
+- 00:10:45: and were like sitting there and knew everything about the game and like there was all these incredible wiks on day one and the first thing you do is you went into a Wiki and you figured out your optimal build and you knew how to level up and like what order to do the quest and whatever you do in World of Warcraft I don't know what you doi…
 
 ## [CQ 279 - We Regret Everything](../episodes/cq-279-sc-2163130533.md)
 
@@ -177,6 +185,139 @@ Search terms: playstation, ps1, ps2, ps3, ps4, ps5, psp, vita, xbox.
 - Untimed passage: because it’s also on the Super Nintendo, the Game Boy, and the Game Gear, and the Genesis. So which one am I talking about? They all kind of play a little bit different, too. They’re not the same game. In fact, they’re not even some of them made by the same company. And these all stem from a port of an arcade game. So when I say they’re m…
 - Untimed passage: find, go to your portables. If you want the coolest collector’s item, go for your Genesis copy. Also the best version of the game, which is a beat ’em up, unlike the other ones. And you get this cool pin. So that’s where I would focus my attention. Game 3 on the list is Marvel Ultimate Alliance. And I’m kind of lumping 1 and 2 into this a…
 
+## [Episode 31 - Disney Games & Collecting](../episodes/cq-031-sc-264347622.md)
+
+2016-05-16 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: Boy but there’s Mega Drive and Genesis and Game Gear and Master System and oh there’s DOS computer ones and Amiga and Game and Watch and everything you know and all the newer stuff of course that came out a little bit later so like you know Game Cube and DS and things like that and we I just I don’t know and then there’s a lot of things t…
+- Untimed passage: lot of ways you can collect Disney games and not get strangled by the sheer volume and the system why spreading of this. I think we can limit you to rhythm-only Disney games. Okay. And these are mainly by Konami but there there’s also one by Ubisoft which you know you love because it’s all Frenchy and Canadian and Fantasia music evolved i…
+
+## [Episode 32 - Interview NintendoTwizer & Wii Collecting](../episodes/cq-032-sc-265462094.md)
+
+2016-05-23 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: are collecting we now. What what’s that like? How many how many games do you have for a week? For my we set, I think I’m about halfway done, which is roughly 625 games. That’s where I’m at right now out of the 1250 that they put out for that system. So we we’s a little bit crazy because it’s such a large set. I’ve never collected a set th…
+- Untimed passage: don’t know that I think about it. And I’ve done some of the initial work that I that I always do with sets. I have like 400 games already. So it’s not like it’s not like I’d be starting from ground zero. And I’ve got a bunch of the weird, you know, accessory games like Monster Jam with with steering wheel and things like that. So I don’t…
+
+## [Episode 34 - Collecting On A Budget And Collecting For The 3DS- Guest The3DSCollector](../episodes/cq-034-sc-267770564.md)
+
+2016-06-06 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: probably 20 or 30 games away from a full set but what dawned on me was you know the one the quality of the games just wasn’t there and and like I said earlier I’m a gamer first in a collector second so owning all this cool stuff was was great but I wasn’t playing any of it and I kind of got this illusion with like trying to spend big mone…
+- Untimed passage: kind of understand how to take care of the child is the point I was getting at so you have the system in place another child comes along and it just it’s just the new routine not a whole lot changed from one to two it just becomes a little more work a little more expensive you have a little less space to deal with and I already pretty muc…
+
+## [Episode 35 - Interview Wiggy From Rose Colored Gaming](../episodes/cq-035-sc-268837348.md)
+
+2016-06-13 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: as things grew I actually had come to find that Spencer from Time Walk Games and Dave for that matter from Time Walk Games were about an hour away from me which was kind of funny because a fellow in Australia who knew us both put us together he’s like you know you live really close to Spencer and so then we started doing some repro stuff…
+- Untimed passage: up with ideas and they’re good ones you know we can’t always do all of them we have like a huge list of things it’s funny because once in a while someone’s like oh we should do this and i’m like right when you know like when when do you see us doing that uh and it’s like oh yeah that’s a thing but but yeah it’s neat to see that and it’s g…
+
+## [Episode 38 - Multiplayer Games](../episodes/cq-038-sc-273108962.md)
+
+2016-07-11 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: the end of the podcast I want to talk about video games and what you’ve been playing cuz I’ve been playing a few but what have you been doing I’ve been fitting in some odd games and where I can a little bit of random NES Super Nintendo some Borderlands with John at weird hours because we’re both working crazy right now so it’s been nice t…
+- Untimed passage: go. Yeah it’s there’s Gauntlet there’s Dark Legacy and then there’s another one and Dark Legacy is the one I like better I think the other one was on the N64 actually. Okay. So that Gauntlet that’s on the N64 that’s multiplayer but get the GameCube one. Okay good to know. So yeah that’s that’s my experience there and then I feel like once…
+
+## [Episode 40 - Interview Retro_Gaming or StopXWhispering](../episodes/cq-040-sc-275243557.md)
+
+2016-07-24 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: Super Mario Bros. 2 and I had to help her out figure out the patterns and stuff like that but it wasn’t until I was like 18 or something 18 or 19 when my I fooled my dad into buying me a PS2 you fooled him how did you fool him he was always okay with buying the Hs players or you know any kind of technology saying that I could could be abu…
+- Untimed passage: time to time it began with the PlayStation Xbox and then it started with NES and then I moved on to Sega Manga Drive because those are the two that I played the most as a kid with my friends but then I moved on to Sega Master System and Super Nintendo and then a couple of years back I found Famicom the Japanese one and I got obsessed with…
+
+## [Episode 41 - Nintendo Game Boy with Kida467](../episodes/cq-041-sc-276289995.md)
+
+2016-08-01 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: one I looked I’m like oh Pidgey and I don’t know why I know what a Pidgey is. I don’t want my wife loves Pokemon and I don’t know how like this it’s not like she shows me or tells me everything about Pokemon but somehow in some point in my life I learned what Pidgey is and could now can identify them at a glance which is a little bit upse…
+- Untimed passage: should go play it it’s not it’s not life is strange. I was just gonna ask that. It’s not it I would say if you like life is strange you will probably like this game except there’s not like choices to make in fact there’s only like some vague button pushing that you even do it’s it’s more about the narrative than anything else there’s no l…
+
+## [Episode 43 - What Game Would You Make A Sequel For? We Share Ours.](../episodes/cq-043-sc-278313223.md)
+
+2016-08-15 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: what yours are. So, post and tell us what you want as a sequel if you have some ideas. Because I always find fan ideas to be pretty interesting to see where people take things. Well, I think too, somebody could have the exact same game and how they would create a sequel could be totally different. And Johnny threw a curveball at me becaus…
+- Untimed passage: say as much as I hate Princess Tomato 2. I love the box art for that. Me too. Yeah, it’s it’s just how it has to be. But no, somebody out there, please, please, please make this. We need more games and vegetables. Yeah. Okay. Those are our sequels. You got any other sequels? Anything you want to add to yours or? No, I didn’t really think…
+
+## [Episode 45 - Magazine Collecting, Nintendo Shutting People Down, eBay Jerks, and Crossy Road](../episodes/cq-045-sc-281447111.md)
+
+2016-09-05 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: one well there’s like Sega Vision magazines which was like Sega news or something before that before it was Sega Vision which is like was put into some Genesis genocide boxes it was something else it was like Sega fun news or something it was like very much like the Nintendo fun club magazine before Nintendo power they had one of these wh…
+- Untimed passage: I kept them for a while of course you’ve now heard my woeful childhood stories where I’ve lost all of my things multiple times but even then like as a kid I would get to a point where magazine got too trashy I toss it right and even as an adult I had a Nintendo power magazine back in like 2003 or 4 I think or 2005 maybe and I would just r…
+
+## [Episode 46 - Interview with Lord_Sega_](../episodes/cq-046-sc-282520348.md)
+
+2016-09-12 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: for my Wii U purchases or my Wii purchases or even my 3DS purchase. Thanks Nintendo I’m already angry about it just I really feel like Nintendo nickel and dimes you on that kind of stuff so it would be nice if they got like some sort of unified system you know where once you bought something you owned it. Yeah I know you’re not very happy…
+- Untimed passage: that but I saw it okay yeah so you saw it’s not even in like very good condition it’s okay got like a thousand likes or something posted like a and that’s like a PlayStation thing and then I posted like a pretty nice picture of like Smash Brothers up against like the N64 wall yeah crickets yeah I don’t know man there’s no rhyme or reason…
+
+## [Episode 48 - Top 5 Spooky Games](../episodes/cq-048-sc-285139337.md)
+
+2016-09-28 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: that’s fine. I figured there was a rant somewhere, so I figured you should just do it when you need to do it. Yeah, I feel like I really needed to get that off my chest. Like I said, no one else to tell this to. It doesn’t matter if anyone gives a shit. I mean, I care about this and hopefully even if you don’t care right now, maybe it’ll…
+- Untimed passage: crazy. Mine’s blown everywhere. But yeah, it’s just my favorite version of that. I’ve actually never played that one. And I think it’s so funny because I have to ask, have you played it on the PSP or have you hooked it up to a TV somehow? Oh, no, I actually played this on the PSP when I when I first got when it first came out, I it’s not…
+
+## [Episode 49 - Horror / Halloween Movies That Became Games](../episodes/cq-049-sc-286948413.md)
+
+2016-10-10 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: cool It’s jaws on least which you can find on the playstation 2 And the xbox it actually has a greatest hits version. That’s how popular it was on the playstation 2 You get to play as jaws Oh my goodness. Yeah, it’s awesome. Like you are jaws terrorizing it. Ha this uh, terrorizing amnesty Well, that’s um, that’s interesting. Yeah. Anyway…
+- Untimed passage: but I think I think both of those are european real Okay, um not one that I’ve ever seen and then there’s one which you mentioned which I have never played ghost busters the video game Which came out on xbox 360 playstation 3 we ps2 psp ds. Yep Um, that’s a good one. Is it? Yeah, okay because here’s what it is Ghostbusters one like canoni…
+
+## [Episode 51 - 1 Year of Colletor's Quest](../episodes/cq-051-sc-291902166.md)
+
+2016-11-07 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: things that have happened like uh what here’s an easy one I’ll toss you what so far in this year has been your favorite episode. I had to think about that because I feel like it’s hard there are definitely some favorites but I think a lot of my favorites are like the top fives like we did obviously the top five spooky games and we did PS3…
+- Untimed passage: been you know this year it was supposed to be more relaxed and it like this is might be my most intense year of collecting yeah honestly that mountain bike rally was the most expensive single item so it gets it gets some distinction there and it had like the creepiest story like you know night time in a parking garage you know exchanging…
+
+## [Episode 53 - The 12 Games of Christmas](../episodes/cq-053-sc-297541109.md)
+
+2016-12-12 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: the second one or the DLC I don’t know how it was packaged for you guys but yeah they did like a Christmas themed one and that’s awesome because the first one was fun and super nostalgic and it’s made by double fine which is awesome and then they did this and that’s more awesome you can’t go wrong with double fine anyways if you love doub…
+- Untimed passage: okay well that’s all right I’m going with them I’ve got a few on my list here actually half of them on my list are kind of ones that are reminiscent for me for movies that I watch at Christmas time or movies that I love so I’m huge Tim Burton fans so obviously a nightmare before Christmas on the ps2 and the Xbox and then a nightmare befor…
+
+## [Episode 54 - How To Be Successful on Instagram with @Sabotage64](../episodes/cq-054-sc-298614237.md)
+
+2016-12-19 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: Horses, Pets, Horses 2, My Horse Gold Riding, and then there’s like the Gold Edition and then the regular edition. And then, yeah, My Horse and Me, there’s at least four or five, and then like all the other systems don’t have as many, but like Saturn’s got a weird one, like Winning Post, which is actually like a big series in Japan. Oh. B…
+- Untimed passage: more encompassing. So both genders would want to play them and like have the option to switch between genders. And look, I know a lot of dudes who want to just play as girls anyways. So whatever, no judgment. Yeah. Do as you please. Whatever works. But yeah, like Mass Effect did that where you could choose. I mean, it changes some of your…
+
+## [Episode 55 - 2016 Year In Review](../episodes/cq-055-sc-300699399.md)
+
+2017-01-03 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: week and I’m excited about that. But the SoCal Retro Expo is happening in like a month and it’s one of my favorite events and it is because I get to meet so many great people. Every time I go to one of these and there’s been two so far, I meet another cool person. Someone that I’m like texting and talking to on a regular basis about colle…
+- Untimed passage: heaviest years ever? So that was, and I didn’t realize that until I got here. Like I knew I was spending a lot of money on games and caveat, I do have some disposable income for that. So just throwing that out there. I had the money to spend. I didn’t have to like reach into my savings or take out a second mortgage. None of that had to ha…
+
+## [Episode 56 - SoCal Retro Gaming Expo with @Damn.It.Steve](../episodes/cq-056-sc-301655833.md)
+
+2017-01-09 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: what maybe would you get for Christmas and uh, what have you been playing? I know you play a lot of games. I know we just chatted about Final Fantasy 15 Yes, we did. I’m glad I convinced you to play a little further. Um, the latest thing I got was wild guns For the ps4. Oh, really? This is a remake of the super Nintendo one And it’s prett…
+- Untimed passage: Um, That’s a that’s one that was a A digital release, but it was a there’s a hard copy of that hardcover that was released in china Okay, but it also has english and that and that’s in that one. So I got that as well Is that a remake of the original Shadow of the Beast? No, I don’t think so. I think it’s just a continuation Of the series.…
+
+## [Episode 61 -7 Things That Suck About Retro Gaming](../episodes/cq-061-sc-309750946.md)
+
+2017-02-27 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: have to. And also for everybody who’s like, I never play a new game. New games are the devil. CRTs are for life. You guys are crazy. Not everything about retro gaming is great. There was a lot of shitty things about retro gaming. And that’s what we’re talking about today, right Kat? Yeah, because you’re right. There’s not everything that…
+- Untimed passage: go on the Xbox or the PlayStation or my DS or whatever it is and go online and buy a game. So if I’m like, man, I don’t want to play anything I have, which is this, I get that. That’s a stupid statement, whatever. That may be how I feel that day. It’s instant. I don’t have to leave my house. I don’t have to do anything. It’s there. That’s…
+
+## [Episode 62 - Initial Nintendo Switch and Zelda and Breath of the Wild Review](../episodes/cq-062-sc-311116645.md)
+
+2017-03-07 · Multiple transcript paragraph matches · Transcript available
+
+- Untimed passage: just to the system, like if you’re in portable mode and the joy cons are attached, you don’t get this issue at all. Okay. Only when you’re connected to the, they’re a little base controller that I’ve experienced this issue. Okay. Well, that’s interesting. I think it’s something that is easily fixable. Hopefully it’s just like a hardware p…
+- Untimed passage: hope they fix it and let’s still take a breath and let’s, let’s see how we feel about it after a week. See if they’ve addressed any of these issues. Console launches never go smoothly. Typically there’s, there’s always some issues. 360 had the red ring of death. You know, the PS3 had the, oh my God, they made this thing a million dollars…
+
 ## [Episode 141 - All Your Video Game Lists Are Bad](../episodes/cq-141-sc-797285986.md)
 
 2020-04-13 · Multiple transcript paragraph matches · Transcript available
@@ -191,12 +332,103 @@ Search terms: playstation, ps1, ps2, ps3, ps4, ps5, psp, vita, xbox.
 - 00:25:44: they are by splitting them up into different SKS right and it's nonsense it is the the I hate those special editions especially when they put just the regular switch case in there and they're's like yep there it is and still has the skew on and everything it doesn't even say like not for resell on it I wish they would actually do that so…
 - 00:36:59: a top tier collectible you'll come out better when you already have the top tier collectible rather than hoping some PS4 or switch game 30 years in the future is going to be seen as some kind of cool thing to have absolutely so should we do the math on that like or have you done the math on it already not done the math on it what math is…
 
+## [Episode 143 - Everyone is at Home Buying More Video Games!](../episodes/cq-143-sc-820828618.md)
+
+2020-05-15 · Multiple transcript paragraph matches · Transcript available
+
+- 00:21:25: Nintendo 16 bit the Heyday of RPGs though I think you could make a legitimate case for for PS1 as well though uh PS1 RPGs don't age the Sprite based ones are fine but 3D stuff on PS1 does not age as well as 16bit Sprites well and aging is sort of what I was going to talk about for NES and because you know I I would venture to say that NES…
+- 00:23:35: all part of it for me too not wanting to go back that early is that you know I was on the cusp as for from like an age demographic perspective where I was attempting I got Final Fantasy 1 for um for a birthday or Christmas from my grandfather I was on an age cuss to where I just couldn't I couldn't really get it and and so like I have thi…
+
+## [Episode 144 - What's The Deal With Collecting Sets?](../episodes/cq-144-sc-830303989.md)
+
+2020-05-29 · Multiple transcript paragraph matches · Transcript available
+
+- 00:06:34: Russia which back then was the also had the USR even though there wasn't a lot of games coming out of the USR but when games went in there you know USR had large chunks of Russia and Russia still has a piece of it in Asia and then you have Australia which is its own continent H and then you have like South Africa again on another continen…
+- 00:13:54: a couple more that I didn't have on there and then uh back to our list conversation so I I put in like the this is for pal name swaps for uh everybody like if you're collecting Pal games and you want to know okay well which games are exactly the same but at a name Swap and do those should those go on my list or not and that's like do thos…
+
+## [Episode 145 - The Best & Worst Feelings in Game Collecting](../episodes/cq-145-sc-840303766.md)
+
+2020-06-15 · Multiple transcript paragraph matches · Transcript available
+
+- 00:19:14: breaks free and and rattles around it'll basically shatter the entire sign I had that happen with my Funko land sign which was devastating and very expensive to fix so uh just yeah make sure that if you're going to ship a sign or asking someone to ship a sign that they pack bubble wrap behind the lettering as well as wrapping the sign jus…
+- 00:22:27: a a good feeling related to that is um Johnny you years ago I think it's been years ago now you've get you gifted me or I paid very little money for them I don't remember which uh a bunch of really incomplete PS1 Long boxes like either they were missing their discs or their manuals or both um and I think I've now completed some of them we…
+
 ## [Episode 146 - How Game Collectors Can Collect Information](../episodes/cq-146-sc-852741172.md)
 
 2020-07-05 · Multiple transcript paragraph matches · Transcript available
 
 - 00:52:10: game Rave I know this is a very kind of this is a smaller uh resource but uh game-con by danger boy who of course we brought up on the show before who knows everything about the original PlayStation uh and you can go there for if you want like not stupid he's also on Facebook he's in the PlayStation collector group on Facebook as well oka…
 - 00:53:12: one of his most recent videos and I'm like wow this is like real collecting content and uh no one's watching it it has 148 views it's called Uh Milestone games physical Edition and uh he's just pointing out key games in the PlayStation Library that are kind of weird like there's like weird variants and like he's talking about oh this was…
+
+## [Episode 147 - So You Want to Collect for the Super Nintendo](../episodes/cq-147-sc-864983083.md)
+
+2020-07-26 · Multiple transcript paragraph matches · Transcript available
+
+- 00:02:06: seers today all right let me talk about a crisis in my life guys um that crisis is called Midway Arcade Classics one for the Xbox and PS2 so not even that long ago like what two or three episodes ago I was talking about the one thing that defines a game to me is it has a different title so world class track me Stadium events they're the s…
+- 00:03:08: don't know what to do Johnny I'm in freef fall and I'm just I my lists how do I how do I make my lists ho again Johnny just put them both on there and just forget about it yeah I'm really confused as to where the drama is the drama is I want I want consistent rules that I can apply to every console on what counts as part of the set and wi…
+
+## [Episode 148 - The "Bubble", The Next Big Console, Johnny Complains about Grades, and More!](../episodes/cq-148-sc-881040898.md)
+
+2020-08-24 · Multiple transcript paragraph matches · Transcript available
+
+- 00:21:13: come you're incepting me we're supposed to get you collecting PS2 that doesn't make any sense well I mean to be fair you only have to go collect like 10 games for pogs oh yeah I mean like literally pogs like once you start looking at where what games are related to pogs it it must have been like a six-month period in history that pogs act…
+- 00:38:59: mean like are we considering we to be on fire when it I mean relatively to it's pasted yes you know $10 a game average is on fire no okay listen let's stop talking about prices and let's start talking about percentages the Wii in March was at $7 on average per game it is now at $11 okay that that's a 50% jump in value of average of games…
+
+## [Episode 149 - Flush With Plush (and Fractional Share Investing)](../episodes/cq-149-sc-892401565.md)
+
+2020-09-13 · Multiple transcript paragraph matches · Transcript available
+
+- 00:26:41: don't get to weigh in on Rudolph oh no you can you want to tell me no actually I missed everything you said cuz I fell asleep not caring about that game at all yeah I figured you don't need to like you need to we just talked about how we're trying to be more well we're being more upbeat here and you're just like oh this seems like a nice…
+- 00:30:55: clearancing out all these limited edition plushy things for $35 I mean but that was back then who knows what's going on now like it probably the problem was that they probably made way too many of the special edition thinking it would sell and I think it was like an $80 special edition when it came out and then people were like oh no than…
+
+## [Episode 150 - Talking about Video Game Condition](../episodes/cq-150-sc-900299890.md)
+
+2020-09-27 · Multiple transcript paragraph matches · Transcript available
+
+- 00:26:22: sit face down in a stack but you won't know they face down because if you rotate it the spawn is but my good stuff is facing manual out cuz I got got to show off my my Daytona and my Panzer draon Saga Johnny they're the coolest thing on that shelf the actual worst thing you can do on Saturn and Sega CD games and longbox PS1 games is put t…
+- 00:33:50: their sticker seal Mario uh no they were like I love your podcast and we love collecting games and I was like that's awesome I'm glad you guys collect games that is sweet um I it's like I hope it's like I would say PlayStation 2 but now that's bad I hope it's PlayStation 3 like something want the good stuff Johnny they do these are the th…
+
+## [Episode 151 - So You Want to Collect Halloween Games 3 (Thirteen Spooky & Obscure Collectible Game)](../episodes/cq-151-sc-909014128.md)
+
+2020-10-12 · Multiple transcript paragraph matches · Transcript available
+
+- 00:14:58: you know uh the Wii the Wii has a couple of special ones so one day maybe we'll like we'll be so stared for Content we'll do the five best horror games on the Wii and are they collectible the answer is kind of Jan that's the one thanks for coming everybody House of the Dead overkill this game is it's worth $27 now guys Silent Hill shatter…
+- 00:26:39: all right this is where we'll find out that this game doesn't exist and that uh Tyler actually has a brain tumor and that this dud just like LSD I'm telling you like whoa someone should help [Laughter] Tyler all right so I'm going to go a little more modern and maybe games you do or do not exist and I'm going to give you a double pack her…
+
+## [Episode 152 - So You Want to Collect Castlevania Games](../episodes/cq-152-sc-921297673.md)
+
+2020-11-01 · Multiple transcript paragraph matches · Transcript available
+
+- 00:00:00: welcome to another episode of collector's Quest on this episode the guys and I are talking about Castlevania it's the so you want to collect Castlevania episode we could call it part one because we don't cover every Castlevania game we stop probably about GBA we don't get into PlayStation 2 and all that we we stop before that we do Identi…
+- 00:58:22: a reason it's not like Nintendo was just this hardcore company the video game industry had just collapsed and Atari was the wild lest and anyone could do anything like people were doing crazy stuff so Nintendo uh you know in their minds to avoid any of that happened said this is how things are going to go we're going to control all these…
+
+## [Episode 156 - Game Collecting in 2020 and Looking Ahead to 2021](../episodes/cq-156-sc-960241846.md)
+
+2021-01-06 · Multiple transcript paragraph matches · Transcript available
+
+- 00:26:30: that I did not do my worst purchase so I'm going to flip into that before we go to Tyler's best purchase um my my worst purchase and it's not I didn't do anything super egregious this year you know there there are some sketchy purchases maybe I overpaid on some PS2 stuff uh here and there but that all wound up being fine down the road but…
+- 00:36:00: into my Best Buy and it's a it's a commute uh I can't talk all of a sudden it's a bunch of purchases it's not just one this year I was you know neck deep into PS1 and I said I was going to complete it if you listen to last year's show that's one of the goals I said I would do and I'll talk more about that later but my best purchase was de…
+
+## [Episode 157 - NES vs. Famicom Prices](../episodes/cq-157-sc-966801637.md)
+
+2021-01-16 · Multiple transcript paragraph matches · Transcript available
+
+- 00:02:06: fellow Star Wars fans I'm working on a list that Star Wars list is coming along you don't even know the Deep dive I've done I sure haven't Johnny because I've been too busy buying famicom games which isn't really true I've been buying a lot of games but I don't know why you keep trying to force us into this episode I I there's no there's…
+- 00:03:10: episode by myself cuz you definitely won't care to sit through that episode Tower uh and I'll just tell everybody it's actually there's so much data it would be like multiple episodes I I'm you got me pretty excited to collect all the tops connection variants of whatever that game was there's like what 240 different variants technically i…
+
+## [Episode 158 - What is the Most Expensive, Most Common Nintendo Game?](../episodes/cq-158-sc-972087568.md)
+
+2021-01-25 · Multiple transcript paragraph matches · Transcript available
+
+- 00:15:52: makes total sense everything on Heritage auctions makes total sense the GTA Trilogy games are still selling they're selling for over like $500 now why why because Heritage auctions is the place where people have more money than brains and like they have all the money and none of the knowledge it's like the Gap seems like it's widening as…
+- 00:16:52: Harry Potter you know I I I'm in uh I'm in touch with the Harry Potter scene uh cuz I'm like yeah maybe I'll get like a sealed PS1 and I've been looking at them and they were going for like 100 to20 and then like $300 on eBay and then that one sold and I was just like okay World never mind well you you forgot to weigh one fact and that it…
+
+## [Episode 159 - Collectible Video Games with Trading Cards](../episodes/cq-159-sc-981088471.md)
+
+2021-02-07 · Multiple transcript paragraph matches · Transcript available
+
+- 00:19:58: either way so they they say like oh this one only has 3,000 but really they're printing that game there's like two versions on every platform and they're printing it across two platform so there's like 10,000 copies of that game every copy of little Samson came in a cardboard box and they were all lost to history and you could still kind…
+- 00:21:03: well no they're not making more like I think there's going to be like one more V or two more Vita releases for like ones that were kickstarters that's still coming out but I think they stopped making the shells in the US was the problem got it but uh we'll see like my point is that some of those games there is only like two or 3,000 are t…
 
 ## [CQ 176 - Finding Value in What the Market Doesn't Value](../episodes/cq-176-sc-1119856444.md)
 
@@ -247,12 +479,89 @@ Search terms: playstation, ps1, ps2, ps3, ps4, ps5, psp, vita, xbox.
 - Untimed passage: it’s just trash. I love that all these people spend big money on this just to buy trash. - So-- - It’s my favorite part of it. - Yeah, this is like, this was a turning point in my game collecting career. I don’t know if I bring this up too much, but you know, not everyone listens to every show. This might be your first episode. But in 201…
 - Untimed passage: you’re not buying Xbox trash? - That’s, it’s for some reason that is true. But Johnny, on the other hand, if you are one of these people who likes going after the rare greatest hit stuff, at least most of the budget label games are pretty good. So there’s like a solid half of them that are like the best games on the system, bar none, ’cau…
 
+## [CQ 265 - The $200 modern game situation is crazy](../episodes/cq-265-sc-2019478217.md)
+
+2025-01-27 · Multiple transcript paragraph matches · Transcript available
+
+- 00:02:11: that isn't a mouse was the weote and nunchuk that's a really stupid take but okay there's so much input lag it's it's not good I can't even play like gun games with that I'm just saying you will be playing against everyone with the same condition so you're all on footing you know what you know what is a good controller the PlayStation mov…
+- 00:10:45: in 20 years past the NES I was going to be like yeah these are NES to the next 20 years like the PlayStation one these are all modern I would be like maybe not but whatever this is what we're going with modernish games the DS the 3DS the Wii the Wii U the Xbox the Xbox 360 Xbox One the PS3 PS4 PS5 PSP and PS Vita these are the consoles th…
+
+## [CQ 266 - IMPOSSIBLE Collector Dilemmas](../episodes/cq-266-sc-2032757612.md)
+
+2025-02-12 · Multiple transcript paragraph matches · Transcript available
+
+- 00:09:41: Grande I think maybe not Ariana Grande but uh Selena Gomez um what's what's the dude the Jonas Brothers School Musical the Jonas Brothers but what's the other guy I don't know the high school musical guy I'm sorry no no he was also he's he's a movie star Zack Efron there we go all right so anyways uh this is like a pretty was like a multi…
+- 00:27:51: experiments or paradoxes I don't know what what it is but uh continually relevant I I love it very much Whoever thought of that like 2,000 years ago get on you probably Theus or someone who was thinking about thesis I was it Theus uh turns out not a real person he's a Divine hero in Greek mythology so must have been someone else anyways u…
+
+## [CQ 268 - 20 Reasons Modern Collecting Sucks (and like 2 it's the best)](../episodes/cq-268-sc-2056143344.md)
+
+2025-03-17 · Multiple transcript paragraph matches · Transcript available
+
+- 00:06:22: we like video games cuz they come in all different shapes and sizes and you put all the the NES boxes next to each other it's like oo those are all like those all kind of go together and oh all these like CD cases these my PlayStation games these all go together isn't this nice everything has its spot yeah what what do you think we've don…
+- 00:10:34: be a hater sometimes oh absolutely but uh a lot of time if you put all the video game systems you could possibly collect at the bottom of the list for me would probably be like the new the newest Xboxes followed by like the switch uh because I'm a hater Johnny I don't like you are a hater everything the switch stands for mostly I hate the…
+
+## [CQ 269 - Ten Turbografx/PC-Engine Games We'd Start Collecting](../episodes/cq-269-sc-2067796304.md)
+
+2025-03-31 · Multiple transcript paragraph matches · Transcript available
+
+- 00:03:19: Yeah, that's what I mean. This has all been a market manipulation tactic to enrich Mike because I'm not selling my stuff, but I do have to try to enrich my friends here. It's like a whole like how all the billionaires get together and try to make policies that benefit themselves. It's like that but with the Illuminati of video games, whic…
+- 00:04:24: because almost certainly it's called like the PlayStation 4 collectors of the world or collectors of America, something like that. Almost certainly that group was made while the PlayStation 4 was a contemporary console. Is it Is it a contemporary console? I don't even know what to consider the PlayStation 4. It is. It's still cont when th…
+
+## [CQ 270 - It's time to fix your collection: Spring Cleaning](../episodes/cq-270-sc-2080569108.md)
+
+2025-04-17 · Multiple transcript paragraph matches · Transcript available
+
+- 00:01:05: available sealed. They just have it all just sitting there like, you know, like 25 bucks for like a bunch of random stupid Xbox games. I don't know. It's kind of nice cuz when you buy that kind of stuff on eBay, it always ships in a bubble mailer. So, if you're looking for something nice, I basically I would I would uh I would impulse buy…
+- 00:13:49: I don't know. And I Well, and I think the prices, even when they're good prices, are still a little bit intimidating for people and stuff. You see that? That could be it. Like, I'm used to the fact that uh Zelda 2 for a nice one, you're probably paying like, I don't $200 for that, maybe $100 for a one that's a little beat up. And like som…
+
 ## [CQ 271 - Is your "CIB" good enough?](../episodes/cq-271-sc-2088408297.md)
 
 2025-05-01 · Multiple transcript paragraph matches · Transcript available
 
 - 00:33:46: they can go out. And when that happens, that's a whole other thing, refurbished, right? where you can then get things in the box that aren't in there. Nintendo has their own refurbishing facility and they do that. So, um, they started stamping their stuff as we know later on. So, CIB can mean a lot of different things. Um, there's no 100%…
 - 00:40:52: probably like, "Oh, it's more protected this way, too." Exactly. Back back then they didn't have like plastic boxes we put around our things. Like the the level of crazy are now. I'm like, "Well, should all of my should all my PS1 games have a a protector around them?" And I know some of you got those. I know some of you are in there with…
+
+## [CQ 272 - iam8bit situation is crazy](../episodes/cq-272-sc-2095653180.md)
+
+2025-05-14 · Multiple transcript paragraph matches · Transcript available
+
+- 00:01:06: interested. Available on the Switch and PS5. Reach out for sponsorship, guys. Um, yeah. What's your problem with this game? I bet it sounds really good. You're going to hear Howard Shore, I'm sure. Or maybe not. They probably didn't get Howard Shore. I based on how big the budget of this game looks, I'm guessing they didn't. All right. So…
+- 00:03:16: good. That's part of what makes it so cozy. So does Animal Crossing. The vibes are immaculate. Like there are games that rip off Animal Crossing style because the style is so good. I don't think Animal Crossing looks amazing. Maybe we have different standards for what amazing feels like. So the graphics in Animal Crossing aren't amazing,…
+
+## [CQ 273 - Everything's Going to Zero](../episodes/cq-273-sc-2103288552.md)
+
+2025-05-27 · Multiple transcript paragraph matches · Transcript available
+
+- 00:16:02: The these are such niche like little minor things can cause the biggest swings. Like who was up bidding that day? Cuz like how many people are spending $100,000 in video games. It's It's hard to I I don't know what's a good and a bad sale. Yeah. So, I I think one of the things they were saying, and again, because I'm a novice, so you'll j…
+- 00:20:21: a collectible or even as just a physical thing that normal people buy essentially will exist from the Atari 2600 through the PlayStation 5. And yes, there are physical video games before Atari 2600. There will be physical video games after this generation, but we are really on the precipice of physical media dying. And I don't that's not…
+
+## [CQ 274 - Nintendo Launched Another Console? (NOT CLICKBAIT)](../episodes/cq-274-sc-2112423486.md)
+
+2025-06-12 · Multiple transcript paragraph matches · Transcript available
+
+- 00:31:48: understand what a Raspberry Pi is. I understand what emulating is. I know what ROMs are. Thank you. Um but that's not what we're talking about. We're talking about like if you just holistically look at this library of intended games, not of games you just brought to a thing. Like I don't know, it's a cool library. Uh if you start factorin…
+- 01:09:48: PlayStation. They were just like, "You have RPGs now. We're done. We're done with those. Um, here's a bunch of bad 3D games. Uh, hey, Pilot Wing 64. Man, that game's got some cool vibes. Look, I like Wave Race. Uh, I wasn't a big Cruising USA fan. Shadows of the Empire, I loved, but man, after that, Killer Instinct, not not a game for me.…
+
+## [CQ 275 - Preorder This Episode](../episodes/cq-275-sc-2118871731.md)
+
+2025-06-24 · Multiple transcript paragraph matches · Transcript available
+
+- 00:31:45: looks like Oh man, you're really cramming that in there, huh? You know what? I want to open up one of these things and I want to find like all the other weird Nintendo ephemera in there. I want to see like the puffy stickers and like some cereal boxes and like a door hanger. Like that's what I want. Like the old sticker books and stuff. I…
+- 00:45:44: like $10, 10 to 15 bucks if you care about this thing. If you want to spruce up your game, if you want to add it into the case and make your copy a little more substantial, you can do that. Johnny, there is so much cool Street Fighter stuff you can get. It's such an important franchise and it's so common in terms of arcade stuff. You coul…
+
+## [CQ 276 - Someone Has to Collect the PC Games](../episodes/cq-276-sc-2126621844.md)
+
+2025-07-08 · Multiple transcript paragraph matches · Transcript available
+
+- 00:12:36: They took up an enormous amount of shelf space. Uh, and you know, it had like the eye-catching different boxes and different box shapes and that. And then they had a separate budget section and you would get budget games that only came in the jewel case. So I very I would always associate like if you only have a jewel case, this is a game…
+- 00:52:48: Yeah. Well, I I think part of the problem is I think consoles were I'm not saying they caught up, but they were catching up a little more. So, and it looked like computer games were kind of cheaping out to compete with that. So I I think just that perceived downgrade and and the quality is getting closer because you know PC master race an…
+
+## [CQ 277 - Video Games From Another Angle](../episodes/cq-277-sc-2135964186.md)
+
+2025-07-24 · Multiple transcript paragraph matches · Transcript available
+
+- 00:11:40: [ __ ] deals. You if you you get deals on anything, go to go to the Salvation Army. Go to their Xbox section. They'll probably have a a copy of Halo for $4 when online it's $9. What a deal. It's over 50% off. Who cares? Hello. I want the good stuff. Halo. Okay. Hello. All right, Johnny. What's the good stuff? What's the good stuff? Well,…
+- 00:13:44: it. I mean, I guess it's an apocalypse, but like, all right, we if we lose all the [ __ ] PS4 games at GameStop, I do not care. There's so many PS4 games. Okay, it, you know, losing the DS cases at GameStop, that that was a blow. But, and 3DS cases, too, they did and Game Boy Advance boxes. They did they did all of that media dirty. and j…
 
 ## [CQ 278 - Top 10 Collectible Games of 2045](../episodes/cq-278-sc-2154448311.md)
 
