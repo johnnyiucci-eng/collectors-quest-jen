@@ -16,3 +16,7 @@ This log records show-relevant corrections attributed to Johnny by his supplied 
 | Keep broad personal profiling and unrelated private material out of the public Jen repository. | [Discord privacy and memory rules](../discord/BEHAVIOR.md#privacy-and-memory) |
 
 For future corrections, record the date, the applicable behavior, the source of the correction, and the file changed. A server member's suggestion is conversation feedback; only authenticated Johnny can approve persistent changes to Jen's shared persona or episode state.
+
+## Local agent rehearsal correction
+
+September 9, 2026, directly from Johnny after sharing the first live text rehearsal: “too many collector themed jokes will feel forced and cringe.” Updated [turn taking and explanation](../persona/DEFAULT_JEN.md#turn-taking-and-explanation) and [fictional bits](../persona/FICTION_AND_BITS.md#humor-in-context) so everyday banter stays on its subject, jokes have room to land, and collecting metaphors arise only when relevant. This is an accepted behavior correction, not a request to remove Jen's humor or collector expertise.
