@@ -68,8 +68,27 @@ class ResponsesClient:
             with urllib.request.urlopen(request, timeout=90) as response:
                 return json.load(response)
         except urllib.error.HTTPError as error:
-            # Do not echo request bodies, secrets, or arbitrary upstream error text.
-            raise ModelError(f'OpenAI returned HTTP {error.code}. Check API access, model availability, billing, and limits. This turn was not saved.') from None
+            # Classify known error codes; never echo arbitrary upstream text or secrets.
+            try:
+                details = json.loads(error.read(16384)).get('error', {})
+                code = details.get('code') or details.get('type')
+            except (ValueError, AttributeError, OSError):
+                code = None
+            if error.code == 429 and code == 'insufficient_quota':
+                message = ('OpenAI reports insufficient API credit or quota (insufficient_quota). '
+                           'Check billing for the organization/project that owns this key: '
+                           'https://platform.openai.com/settings/organization/billing/overview . '
+                           'ChatGPT subscription billing is separate. Repeated retries will not fix an exhausted quota.')
+            elif error.code == 429 and code == 'rate_limit_exceeded':
+                message = ('OpenAI reports a rate limit (rate_limit_exceeded). Wait before retrying. '
+                           'If it persists on a single request, check your project/model token and request limits: '
+                           'https://platform.openai.com/settings/organization/limits .')
+            elif error.code == 429:
+                message = ('OpenAI returned HTTP 429 without a recognized subtype. It may be API quota or a rate limit; '
+                           'check API billing and project/model limits. The exact cause is not established.')
+            else:
+                message = f'OpenAI returned HTTP {error.code}. Check API access and model availability.'
+            raise ModelError(message + ' This turn was not saved.') from None
         except (urllib.error.URLError, TimeoutError, json.JSONDecodeError):
             raise ModelError('The model request did not complete. This turn was not saved; retry when ready.') from None
 

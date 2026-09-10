@@ -1,10 +1,13 @@
 import json
+import io
+import urllib.error
+from unittest.mock import patch
 from pathlib import Path
 import tempfile
 import unittest
 
 from jen_agent.archive import Archive
-from jen_agent.core import Agent, ModelError, PROFILE_FILES, profile
+from jen_agent.core import Agent, ModelError, PROFILE_FILES, profile, ResponsesClient
 from jen_agent.state import State, private_directory
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -27,6 +30,16 @@ class FakeClient:
 
 
 class CoreTests(unittest.TestCase):
+    def test_http_errors_distinguish_quota_and_rate_without_echoing_secrets(self):
+        for code, expected in [('insufficient_quota', 'API credit'), ('rate_limit_exceeded', 'rate limit')]:
+            error = urllib.error.HTTPError('https://api.openai.com/v1/responses', 429, 'error', {},
+                io.BytesIO(json.dumps({'error': {'code': code, 'message': 'DO_NOT_ECHO_PRIVATE_DATA'}}).encode()))
+            with patch('urllib.request.urlopen', side_effect=error):
+                with self.assertRaises(ModelError) as raised:
+                    ResponsesClient(key='test-placeholder').create({})
+            self.assertIn(expected, str(raised.exception))
+            self.assertNotIn('DO_NOT_ECHO', str(raised.exception))
+
     def setUp(self):
         self.temp = tempfile.TemporaryDirectory()
         self.addCleanup(self.temp.cleanup)
