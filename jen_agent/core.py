@@ -74,6 +74,8 @@ class ResponsesClient:
                 code = details.get('code') or details.get('type')
             except (ValueError, AttributeError, OSError):
                 code = None
+            finally:
+                error.close()
             if error.code == 429 and code == 'insufficient_quota':
                 message = ('OpenAI reports insufficient API credit or quota (insufficient_quota). '
                            'Check billing for the organization/project that owns this key: '
