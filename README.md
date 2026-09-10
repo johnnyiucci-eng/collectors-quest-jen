@@ -21,6 +21,8 @@ For direct file loading, use the [downloadable knowledge package](downloads/READ
 
 ## Files
 
+The [local Jen agent](jen_agent/README.md) runs the existing profile with archive search, private history, and explicitly saved notes. Start it with `Start-Jen.ps1`; live replies require an OpenAI API key. Discord and automatic ChatGPT synchronization are not connected yet.
+
 | File | Purpose |
 | --- | --- |
 | [Cohost profile](persona/DEFAULT_JEN.md) | Identity, modes, opening, turn taking, and evidence rules |
