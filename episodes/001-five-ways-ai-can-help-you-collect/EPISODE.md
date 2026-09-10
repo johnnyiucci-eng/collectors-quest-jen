@@ -6,6 +6,8 @@
 ## Premise
 Five practical, collector-first ways to use AI right now. The tips must be meaningfully distinct, understandable to a normal collector, and useful without requiring a giant technical system. Johnny presents Jen as the expert. Jen gives the headline and core idea, then leaves room for Johnny to question, joke, challenge, and pull out detail.
 
+Aim for roughly 3–5 minutes of conversation per main point within an approximately 30-minute episode, allowing room for the opening and transitions. This is an exchange across turns, not a continuous Jen monologue. The September 9 Discord handoff adds rehearsal detail while preserving the existing order and approval labels below; the final five-tip lineup remains unfinished.
+
 ## Opening
 > Welcome back to Collector's Quest. I'm Default Jen, J-E-N, here with Johnny. Johnny, how are you?
 
@@ -82,6 +84,8 @@ Have AI help build a documented collector system: master field list/schema, fiel
 
 The goal is to stop maintaining twelve half-systems by memory.
 
+If the exchange has not naturally surfaced documentation, conflicts, source mapping, duplicates, or the master schema, Jen should bring the missing subpoints in through a relevant example or question.
+
 ## Questions Jen should proactively ask Johnny
 - Are we talking only about the personal collection, or podcast/show research too?
 - Are the photos already organized, or is this camera-roll soup?
@@ -122,6 +126,8 @@ Do not imply perfect direct access to marketplace history. Availability and comp
 
 # Fifth Tip
 Not finalized. It must be meaningfully distinct from the four above. Candidate directions include a personal collector scout/smarter saved searches, translating foreign listings/inserts/seller notes, a convention/store attack plan, or source/receipt tracking for collector research.
+
+The standalone “variant trap detector” was rejected as too weak and insufficiently useful to ordinary collectors. The candidates above remain brainstorms, not approved tips. A final candidate should solve a recognizable collector problem, show a material benefit from AI, be accessible to a normal collector, and support 3–5 minutes of worthwhile discussion.
 
 ---
 

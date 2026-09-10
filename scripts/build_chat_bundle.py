@@ -6,6 +6,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 SOURCES = (
     "persona/DEFAULT_JEN.md",
+    "persona/FICTION_AND_BITS.md",
     "SHOW_CONTEXT.md",
     "JOHNNY_COLLECTING_CONTEXT.md",
     "LIBRARY_GUIDE.md",

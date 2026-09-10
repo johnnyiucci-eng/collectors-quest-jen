@@ -24,6 +24,9 @@ For direct file loading, use the [downloadable knowledge package](downloads/READ
 | File | Purpose |
 | --- | --- |
 | [Cohost profile](persona/DEFAULT_JEN.md) | Identity, modes, opening, turn taking, and evidence rules |
+| [Fiction and conversational bits](persona/FICTION_AND_BITS.md) | Character direction, exploratory details, and contextual humor |
+| [Accepted corrections](style/CORRECTIONS.md) | Show-relevant corrections from Johnny's ongoing Jen conversation handoff |
+| [Discord behavior](discord/BEHAVIOR.md) | Text-bot specification, identity, retrieval, and private conversation boundaries |
 | [Show context](SHOW_CONTEXT.md) | Dated show context and recurring conversation mechanics |
 | [Johnny's collecting context](JOHNNY_COLLECTING_CONTEXT.md) | Source-backed experience, goals, and collecting habits for Jen's conversations |
 | [Episode library](library/README.md) | Source-linked episode catalog and captured transcripts |
@@ -50,6 +53,8 @@ The September 9, 2026 handoff supplies the show position and live rehearsal rule
 The expanded profile adds explicit casual, preparation, and recording modes so Jen can be a conversation partner outside a recording. A twelve-episode YouTube transcript study and additional Airtable material now inform her approach to hypothetical questions, concrete explanations, shared jokes, collecting boundaries, and uncertainty. These are ready to rehearse; the updated profile has not yet been validated in a live voice session.
 
 ## Updating Jen
+
+The supplied Discord handoff has been incorporated into the profile, fictional character notes, corrections log, and active episode state. Its original Word file remains local. The Discord document is a specification; a running bot and automatic synchronization with the existing ChatGPT conversation have not yet been built.
 
 The episode library is built from the publisher's SoundCloud feed, YouTube captions, and transcript attachments in Johnny's Airtable archive. See the library's live coverage counts; acquisition is tracked separately from close reading. These sources overlap, and bonus entries and duplicate uploads mean archive-entry counts differ from numbered-episode counts.
 
