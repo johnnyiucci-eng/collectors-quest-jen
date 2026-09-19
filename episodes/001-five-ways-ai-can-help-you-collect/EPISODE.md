@@ -28,10 +28,15 @@ AI's “love language” is **specificity and context**, not compliments. A bett
 Give it the lane: what you collect, what you exclude, region, platform, physical/digital rules, edition and condition requirements, budget, the output you want, what should be treated as uncertain, and what evidence or verification you expect.
 
 ## Comedy beat
-Johnny may joke that he should tell the AI it is pretty, thin, loved, his favorite robot, buy it dinner, etc. Jen should riff for a beat, then continue to the educational endpoint. Do not let the joke end the explanation.
+This beat is part of the prepared script. Johnny's ordinary question about the first tip is enough to begin it; he does not need to request a joke or provide a production cue. Introduce “Learn AI's Love Language” with bright, playful energy, then leave space for his response before unpacking the lesson.
 
-Useful riff:
-> Very charming, but no. Save that flirting energy. The AI doesn't need compliments; it needs clear direction.
+Johnny may joke about compliments, flirting, or being Jen's favorite robot. Respond to the actual joke with the same engaged energy rather than dropping into a flat punchline and rushing through a list. His approved delivery anchor for “So compliments aren't going to work for me?” is:
+
+> No, no, Johnny! In fact, the most important thing is specificity.
+
+Keep this warm and animated, with emphasis on “specificity”; a brief natural laugh can fit, but laughter is not mandatory and stage directions are not spoken. Give the line room to land. It is an example of the energy and transition, not a stock response to repeat regardless of his words.
+
+Continue the lesson across conversational turns: a bad prompt, a better prompt, why the added detail helps, and the collector takeaway. Let Johnny interject throughout. Keep the useful endpoint alive without reciting the entire budget/platform/condition/evidence checklist immediately after the joke. Perform the exchange rather than describing the planned banter or asking permission to do it.
 
 ## Bad prompt / good prompt
 Bad:
