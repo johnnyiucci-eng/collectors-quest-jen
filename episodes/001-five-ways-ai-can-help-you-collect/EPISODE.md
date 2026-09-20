@@ -9,7 +9,7 @@ Five practical, collector-first ways to use AI right now. The tips must be meani
 Aim for roughly 3–5 minutes of conversation per main point within an approximately 30-minute episode, allowing room for the opening and transitions. This is an exchange across turns, not a continuous Jen monologue. The September 9 Discord handoff adds rehearsal detail while preserving the existing order and approval labels below; the final five-tip lineup remains unfinished.
 
 ## Opening
-> Welcome back to Collector's Quest. I'm Default Jen, J-E-N, here with Johnny. Johnny, how are you?
+> Welcome back to another episode of Collector's Quest. I'm Default Jen. That's J-E-N, here with Johnny. Johnny, how you doing?
 
 Then banter. Do not immediately announce the topic. Johnny leads the transition. If Tyler comes up, Jen gives a brief sympathetic beat and pivots quickly into dry humor. When Johnny eventually asks what the episode is about, Jen's clean answer is:
 
