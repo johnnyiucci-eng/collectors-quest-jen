@@ -1,0 +1,218 @@
+{
+  "schema_version": "1",
+  "status": "frozen_before_extraction_record_comparison",
+  "frozen_utc": "2026-09-13 12:25:05 UTC",
+  "selection_rule": "Zero-based floor(N/4),floor(N/2),floor(3N/4); root read each primary window and neighbors before extraction comparison.",
+  "limits": "Bounded source-first development sample, not statistical recall. Hardware, merchandise and generic genres are not automatically individual game titles. Historical/critical source claims are not current advice.",
+  "windows": [
+    {
+      "location": "Paragraph 7",
+      "text": "\nof Cats, maybe top 5, top 10 animated vegetable games for everybody else. I know there’s other people who are into this. So you can’t possibly be alone. Speaking of all things Canadian, one of the developers for this was Ubisoft Montreal. So in Canada, keeping the love in Canada, that’s kind of fitting. Actually something I didn’t realize until more recently that that’s who one of the developers was. So do you think maybe they use their Canadian mind control power to make you want to play this game more? Is this like a Canadian hive mind going on that you guys all want to play Canadian games? Well, no. I think the problem is that at the time we don’t realize that they might have been produced or developed wholly by a company that is Canadian or in part by a company that is Canadian. I had no idea. I’m going to take that as a bonus point since I am in fact in Canada. Okay. All right. Yeah, there’s actually quite a few development houses up in Canada. A lot of American development houses just have like stations up there. This one was Ubisoft and Ubisoft Montreal. You know, I think that’s where their primary base is actually. Yeah, I’m pretty sure. So, you know, like I\n\n",
+      "batch": "015",
+      "episode": 21,
+      "source_key": "sc-249439500",
+      "source_window_count": 27,
+      "references": [
+        {
+          "id": "cq21-sample-Paragraph7-1",
+          "title": "Tonic Trouble continuing N64 discussion",
+          "quote": "developers for this",
+          "reviewed_game_ids": ["cq021-g001"]
+        }
+      ]
+    },
+    {
+      "location": "Paragraph 14",
+      "text": "\nnot judging you because I want to do an episode on animated vegetables, so he can’t judge you. He’s just going to judge me. Oh yeah, you I’m judging 100%. Yeah, you’re weird. That’s fine. You know what? Of all of the things I could be weird about, I feel like this is probably okay. Like I could take my weird obsessions in a totally different direction. I don’t know why it’s vegetables. I don’t know. It just is. I’m just going to shut the door on that conversation because it leads us nowhere where the clean label filter can take us. Okay, well, I guess that depends on where your mind is aligned. But yeah, I guess I got it. I guess that’s fair. That’s fair. All right. Well, let me let’s segue away from that. What have you, well, we know what you’ve been playing. You’ve been playing conic trouble and paper jam, right? And paper jam. Are you liking it because I heard kind of mixed reviews on it. I heard it was kind of blood. Are you enjoying it? I’m kind of, I’m not sure. I really liked like a lot of the Mario and Luigi games. I liked Mario and Luigi Dream Team. I really liked Sticker Star. I’m kind of on the fence. I\n\n",
+      "batch": "015",
+      "episode": 21,
+      "source_key": "sc-249439500",
+      "source_window_count": 27,
+      "references": [
+        {
+          "id": "cq21-sample-Paragraph14-1",
+          "title": "Tonic Trouble raw conic trouble",
+          "quote": "conic trouble",
+          "reviewed_game_ids": ["cq021-g001"]
+        },
+        {
+          "id": "cq21-sample-Paragraph14-2",
+          "title": "Mario & Luigi: Paper Jam",
+          "quote": "paper jam",
+          "reviewed_game_ids": ["cq021-g019"]
+        },
+        {
+          "id": "cq21-sample-Paragraph14-3",
+          "title": "Mario & Luigi series",
+          "quote": "Mario and Luigi games",
+          "reviewed_game_ids": ["cq021-g020"]
+        },
+        {
+          "id": "cq21-sample-Paragraph14-4",
+          "title": "Mario & Luigi: Dream Team",
+          "quote": "Mario and Luigi Dream Team",
+          "reviewed_game_ids": ["cq021-g021"]
+        },
+        {
+          "id": "cq21-sample-Paragraph14-5",
+          "title": "Paper Mario: Sticker Star",
+          "quote": "Sticker Star",
+          "reviewed_game_ids": ["cq021-g022"]
+        }
+      ]
+    },
+    {
+      "location": "Paragraph 21",
+      "text": "\nknow, the Majora’s Mask one. Yes. That’s the one I have, but she still has her Pokemon one. She’s got her Pikachu one. And they have the 20th anniversary one coming out, which I have not shown her. I don’t think she’s going to be very interested in it though because it’s just a standard size and she loves having the XL ever since she got an XL. Yeah. She has not wanted to go back. Yeah. And I think that’s how a lot of people feel like even I don’t really think I’ve talked to anybody who is like, oh, I prefer the other one over it. I’ve really, really liked it. I didn’t think I would because I tend to like little handhelds. Like if I’m going to play a Game Boy Advance game, I always play it on the micro. I have super tiny hands, so I like it. But I really do like the XL. I just have the blue one. Nothing fancy. Nothing fancy? Yeah. I have a couple of different XLs. They’re mainly the Zelda ones. So that’s why I have them. I did consider buying the European Pikachu 2DS though. It’s got clear plastic yellow one. I don’t know if it actually has a picture of Pikachu on it or not. I want\n\n",
+      "batch": "015",
+      "episode": 21,
+      "source_key": "sc-249439500",
+      "source_window_count": 27,
+      "references": []
+    },
+    {
+      "location": "Paragraph 9",
+      "text": "\nLucas arts as one word just like you remember. Really? Really? Are we now using Lucas fucking arts to sell our shit? You just drag everything in the fucking muck with you? It does. Lucas arts. I just say why not say Ron Gilbert. Why be like remember Lucas arts big boxes they’re talking specifically about the box. The shitty thing is this game is like Taylor made for me to like it. It’s Taylor made. I like the Switch. I like point and clicks. I like Lucas arts. I like X files which is clearly the motif that it’s going for. It takes place in October. You know in the 80s come on like this is all the stuff I like but I’m also super offended. Because they said Lucas arts box? I am a little offended by that but hey I’m not as offended as limited run number 123 nurse love addiction med kit edition. Oh yeah. Yeah. Nurse love. Like is nurse love the title character or nurse love addiction? Does that mean you’re addicted to nurse love? I’m so confused. I forgot where I read the synopsis of the game but it was like it’s about adolescent female nurses coming into it. Adolescent. What do you mean? Like they don’t like teenagers being nurses. Like these\n\n",
+      "batch": "015",
+      "episode": 88,
+      "source_key": "sc-417155358",
+      "source_window_count": 34,
+      "references": [
+        {
+          "id": "cq88-sample-Paragraph9-1",
+          "title": "Thimbleweed Park continuing Switch edition discussion",
+          "quote": "this game is like Taylor made",
+          "reviewed_game_ids": ["cq088-g014"]
+        },
+        {
+          "id": "cq88-sample-Paragraph9-2",
+          "title": "Nurse Love Addiction med kit edition",
+          "quote": "nurse love addiction med kit edition",
+          "reviewed_game_ids": ["cq088-g020"]
+        }
+      ]
+    },
+    {
+      "location": "Paragraph 18",
+      "text": "\nThat creates some like thing. But as long as you’re like still within the realm, but when you’re like, well, I’m 39 and she’s 17. So that’s fine. That’s like where it’s like you should just use your common sense. Like common sense laws should apply. I agree. That’s not the way the world works. No, no. And that’s not that’s not really the way law works either. Law needs to be black and white and clearly defined or you cannot judge people on it and produce convictions. I believe that’s called the corpus delectae of law, which means the body of the law. So smart. Yeah. I took a criminal justice course once upon a time. And you like you like pulling that one out whenever you can. Oh yeah. I wave that one around. I’m like, have you guys heard of the body of the law? The Latin form is corpus delectae. Yeah. That’s and then everyone like, yeah, just like that. They get so hot and bothered. They start rubbing their like their upper chest and they take a deep breath and like, Johnny, tell me more. Show me your big brain. I’m addicted to your nurse love. It’s super weird. But that happens because we were we were just, you know, past adolescence in school. California\n\n",
+      "batch": "015",
+      "episode": 88,
+      "source_key": "sc-417155358",
+      "source_window_count": 34,
+      "references": [
+        {
+          "id": "cq88-sample-Paragraph18-1",
+          "title": "Nurse Love Addiction title-based joke",
+          "quote": "addicted to your nurse love",
+          "reviewed_game_ids": ["cq088-g020"]
+        }
+      ]
+    },
+    {
+      "location": "Paragraph 26",
+      "text": "\nif you if you Google, sorry, yeah, if you if you Google it, it puts dragons hard. So somehow we’re back to sexual sex and games. But this time it’s bestiality with Miss Mythical Beasts. Yeah, so dragons hard. But yeah, Dragon Shard is a Dungeon and Dragons real time strategy game and Liquid Entertainment, that was their bread and butter. They did real time strategy, but then I think the last and most well known thing they were they did before they got into like apps and stuff was desperate housewives. Oh, yeah. Geez, I remember that weird. Yep. I thought so when you said Atari, I’m like, holy shit, you worked on 2600 games? No, no, Atari is still up. I mean, I mean, something is published. No one even knows what Atari is anymore. Does any they’ve changed like holding companies more than once? Oh, yeah. But they are still an entity that owns things and makes things or at least publishes them. Atari box. Yeah, get ready kids. Yep. Once when see a later NES classic, see a later Raspberry Pi. Yeah, get that Atari box editor. We can talk about how dumb that is. Do we need to? I mean, I think there’s any argument for it that we need to debunk Atari box. Super\n\n",
+      "batch": "015",
+      "episode": 88,
+      "source_key": "sc-417155358",
+      "source_window_count": 34,
+      "references": [
+        {
+          "id": "cq88-sample-Paragraph26-1",
+          "title": "Dragonshard",
+          "quote": "Dragon Shard",
+          "reviewed_game_ids": ["cq088-g033"]
+        },
+        {
+          "id": "cq88-sample-Paragraph26-2",
+          "title": "Desperate Housewives game context; exact release not supplied",
+          "quote": "desperate housewives",
+          "reviewed_game_ids": ["cq088-g035"]
+        }
+      ]
+    },
+    {
+      "location": "00:44:46",
+      "text": "\nSuper Mario Brothers Johnny let's differ uh what's your you you do uh do one from your list now all right um oh you know I didn't go over prices it's impossible is impossible to give a price for super mar Brothers I probably $100 to $300 will get you one I have 150 I have 150 to 250 as my price range on that uh the last matte one on Heritage auctions was a 6.5 that went for $3,600 uh it wasn't super nice uh but the nice ones go for like $10,000 or more now so and for a variant that like a dozen people genuinely care about four years ago okay so um I'm going to I'm going to just jump us ahead a little bit like we we're not doing this in any particular order um and I'm going to tell you that wow you know World of Warcraft one of the most important games and yes I hear all of you ever Quest people I I hear\n\n",
+      "batch": "015",
+      "episode": 214,
+      "source_key": "sc-1440534046",
+      "source_window_count": 171,
+      "references": [
+        {
+          "id": "cq214-sample-00:44:46-1",
+          "title": "Super Mario Bros. collectible print versions",
+          "quote": "Super Mario Brothers",
+          "reviewed_game_ids": ["cq214-g048"]
+        },
+        {
+          "id": "cq214-sample-00:44:46-2",
+          "title": "World of Warcraft",
+          "quote": "World of Warcraft",
+          "reviewed_game_ids": ["cq214-g010"]
+        },
+        {
+          "id": "cq214-sample-00:44:46-3",
+          "title": "EverQuest",
+          "quote": "ever Quest",
+          "reviewed_game_ids": ["cq214-g011"]
+        }
+      ]
+    },
+    {
+      "location": "01:30:30",
+      "text": "\nsome Atari game stick that [ __ ] down yep anyways I don't look there if you want to know more about Resident Evil there's about a 400 videos on YouTube that will love to show you all the gameplay but you've probably heard of it because I think it's one of the most important games ever um I was hoping that the big box PC version would be like clearly more expensive and I think it is cuz it's definitely rarer obviously it's rarer than the PlayStation version I it's in the realm of like $300 though for the PC version I think it's just cuz it's so iconic of a game I don't even like the Resident Evil box art but like it's it's still [ __ ] Resident Evil so I think people just want the giant box for Resident EV I mean and the better cover cover I think is on the Saturn uh what's the Saturn just the zombie eh yep eh Resident Evil 2 doesn't have good box either I'm not into it no no I'm trying to think like oh you know Silent Hill probably has better box art silent Hill's box Art's [ __ ] awful it's like a mess of gray you can't even\n\n",
+      "batch": "015",
+      "episode": 214,
+      "source_key": "sc-1440534046",
+      "source_window_count": 171,
+      "references": [
+        {
+          "id": "cq214-sample-01:30:30-1",
+          "title": "Resident Evil original game and platform packaging",
+          "quote": "Resident Evil",
+          "reviewed_game_ids": ["cq214-g107"]
+        },
+        {
+          "id": "cq214-sample-01:30:30-2",
+          "title": "Resident Evil 2",
+          "quote": "Resident Evil 2",
+          "reviewed_game_ids": ["cq214-g110"]
+        },
+        {
+          "id": "cq214-sample-01:30:30-3",
+          "title": "Silent Hill",
+          "quote": "Silent Hill",
+          "reviewed_game_ids": ["cq214-g116"]
+        }
+      ]
+    },
+    {
+      "location": "02:16:26",
+      "text": "\nit was like from a theoretical perspective like not actually playing it but like reading up about it what people said um so yeah that's that's why Starcraft makes my list I we I'm not going to go into it I don't have recommendations on the right versions to buy because Tyler knows it better and just in my heart of hearts I feel like this is a game that is important enough that other de big Developers were saying this is the most important one go look at it when I was a young man working uh in games then I felt like that should that should make the list okay I mean I will I'm a big Starcraft fan um some people will argue for Warcraft because they're wrong some people will argue for like Command and Conquer The the fact that Starcraft has three balanced completely different races already puts it over any of its competition it had in the 9s um but the fact that they were so balanced and yet played so differently\n\n",
+      "batch": "015",
+      "episode": 214,
+      "source_key": "sc-1440534046",
+      "source_window_count": 171,
+      "references": [
+        {
+          "id": "cq214-sample-02:16:26-1",
+          "title": "StarCraft original/series scope qualified by context",
+          "quote": "Starcraft",
+          "reviewed_game_ids": ["cq214-g169"]
+        },
+        {
+          "id": "cq214-sample-02:16:26-2",
+          "title": "Warcraft unspecified comparison",
+          "quote": "Warcraft",
+          "reviewed_game_ids": ["cq214-g185"]
+        },
+        {
+          "id": "cq214-sample-02:16:26-3",
+          "title": "Command & Conquer unspecified comparison",
+          "quote": "Command and Conquer",
+          "reviewed_game_ids": ["cq214-g186"]
+        }
+      ]
+    }
+  ]
+}

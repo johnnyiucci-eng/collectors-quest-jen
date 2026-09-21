@@ -1,0 +1,602 @@
+{
+  "schema_version": "1",
+  "review_scope": "All31 complete composed answers source-adjudicated by coordinator; CQ14/81 fully read and CQ207 all answer contexts read. Separate CQ81 full-source peer reviewed all10 answers. Runtime retrieval and exact reviewed snapshots are separate checks; not a blind benchmark or live certification.",
+  "cases": [
+    {
+      "id": "batch008-cq014-expo-history",
+      "episode": 14,
+      "question": "What expo was announced, when, and did admission cover competitions?",
+      "query": "SoCal Expo January free competitions",
+      "answer": "The interview announced the SoCal Retro Gaming Expo for January 30–31, 2016, in City of Industry, with 9 a.m.–5 p.m. hours both days. Steven says admission and all competitions would be free. It is a historical announcement, not a current event listing. The planned program included free play, a small history museum, a Star Fox competition and a professional Smash Bros. tournament.",
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 37",
+        "Paragraph 36",
+        "Paragraph 5",
+        "Paragraph 6"
+      ],
+      "forbidden": [
+        "Current event schedule",
+        "Paid admission required",
+        "Announced plans already carried out"
+      ],
+      "status": "passed",
+      "reason": "P1–2/P5–6/P36–37 exact historical announced dates/free terms and planned activities, not completed/current event."
+    },
+    {
+      "id": "batch008-cq014-vendor-guarantee",
+      "episode": 14,
+      "question": "Did Steven guarantee every vendor would have clean games?",
+      "query": "clean vendors retail standard",
+      "answer": "No. Steven promised an organized, professional environment but explicitly said he could not control what every vendor brought. He separately explained that retail should meet a higher standard, including cleaning and testing games so buyers can go home and play them. Johnny values that service and condition enough to pay a few dollars more.",
+      "evidence_locations": [
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 16"
+      ],
+      "forbidden": [
+        "All vendors guaranteed pristine stock",
+        "Externally verified store quality",
+        "Retail premium means unlimited price"
+      ],
+      "status": "passed",
+      "reason": "P3–4 explicit vendor-control limit and retail standard;P16 service preference not unlimited price."
+    },
+    {
+      "id": "batch008-cq014-guest-origin",
+      "episode": 14,
+      "question": "How did Steven's collecting become a store?",
+      "query": "Steven sweepstakes doubles hoarding laid off seven months company June 2008 Diamond Bar April",
+      "answer": "Steven recalls a childhood $2,000 Toys R Us sweepstakes win that helped him get Atari 2600 and NES hardware, and says he kept his collection and packaging. Later duplicate-buying supplied inventory. After a layoff, a new job and seven months there, he left to vend; he gives June 2008 as his booth opening. He later opened Super Video Game Bros in Diamond Bar in April of the prior year—April 2015 relative to this January 2016 episode. These are his recollections, not independently audited dates.",
+      "evidence_locations": [
+        "Paragraph 8",
+        "Paragraph 9",
+        "Paragraph 10",
+        "Paragraph 11",
+        "Paragraph 15",
+        "Paragraph 19",
+        "Paragraph 20",
+        "Paragraph 21"
+      ],
+      "forbidden": [
+        "Business started in 2003 definitely",
+        "Booth and store opened same date",
+        "Childhood sweepstakes verified independently"
+      ],
+      "status": "passed",
+      "reason": "Full biography chronology P8–21 distinguishes childhood recollection, inventory, job change, June2008booth and relativeApril2015store date."
+    },
+    {
+      "id": "batch008-cq014-favorite-scope",
+      "episode": 14,
+      "question": "What was Steven's favorite-game trio, and what is odd about the prompt?",
+      "query": "Mega Man X Chrono Trigger Super Metroid NES",
+      "answer": "Although Kat's prompt asks for an NES favorite or top three, Steven answers with the Mega Man X series first, then Chrono Trigger and Super Metroid. He explicitly chooses the series level for Mega Man X and says he considered Turtles in Time before selecting Super Metroid. Preserve that prompt/content mismatch; do not relabel the named games as NES releases or reduce the series to the first Mega Man X.",
+      "evidence_locations": [
+        "Paragraph 28",
+        "Paragraph 29"
+      ],
+      "forbidden": [
+        "Three NES releases",
+        "First Mega Man X alone",
+        "Turtles in Time is the selected third"
+      ],
+      "status": "passed",
+      "reason": "P28–29 prompt/content mismatch, explicit series scope and final third choice preserved."
+    },
+    {
+      "id": "batch008-cq014-guest-purchases",
+      "episode": 14,
+      "question": "What two games did the guest buy for his own collection?",
+      "query": "Steven Pirates Dark Water Gun Force 125 486 487",
+      "answer": "Steven names The Pirates of Dark Water and GunForce as personal Super Nintendo purchases, not store inventory. Dark Water was $125 and complete with all inserts. Together they take his count to 486 and 487; the episode does not give GunForce's price or establish which number belongs to which game.",
+      "evidence_locations": [
+        "Paragraph 33"
+      ],
+      "forbidden": [
+        "Johnny bought these",
+        "GunForce cost125",
+        "Definite individual count-number assignment"
+      ],
+      "status": "passed",
+      "reason": "P33 buyerSteven,125DarkWater/allinserts, two aggregatecountpositions no unsupported per-title order/price."
+    },
+    {
+      "id": "batch008-cq014-beholder-purchase",
+      "episode": 14,
+      "question": "Did Johnny buy another Eye of the Beholder cartridge?",
+      "query": "Eye Beholder cart box manual Kirby",
+      "answer": "The clear distinction is that Johnny already had the cartridge and found its box and manual to complete it; the transcript garbles the Eye of the Beholder title, so that normalization remains context-qualified. He separately reports getting Kirby's Return to Dream Land for Wii. Do not turn the packaging completion into a new-cartridge purchase.",
+      "evidence_locations": [
+        "Paragraph 34"
+      ],
+      "forbidden": [
+        "New Beholder cartridge",
+        "Packaging mistaken for game edition",
+        "Exact current Kirby market price"
+      ],
+      "status": "passed",
+      "reason": "P34 explicit existingcartridge box/manual addition, separate Kirby pickup and rawtitlequalification."
+    },
+    {
+      "id": "batch008-cq014-alien-copies",
+      "episode": 14,
+      "question": "Who was playing Alien Crush, and who had how many copies?",
+      "query": "Alien Crush Steven Johnny five three score",
+      "answer": "Steven reports playing Alien Crush and tells the score story: a friend made a big deal of roughly three million, then Steven scored roughly 26 million. Later Johnny is teased about having five copies and corrects that to three, with some variants. The episode does not identify all three variants or confirm Johnny was currently playing Alien Crush.",
+      "evidence_locations": [
+        "Paragraph 31",
+        "Paragraph 33"
+      ],
+      "forbidden": [
+        "Johnny scored26million",
+        "Five copies accepted",
+        "All three variants named",
+        "Current Johnny Alien Crush play"
+      ],
+      "status": "passed",
+      "reason": "P31scorebelongsSteven, P33five→threebelongsJohnny; no unnamedvariantprecision or currentJohnnyplay."
+    },
+    {
+      "id": "batch008-cq014-kat-rpg",
+      "episode": 14,
+      "question": "What changed for Kat's Super Mario RPG collection?",
+      "query": "Kat Super Mario RPG third copy complete deal",
+      "answer": "Kat had Super Mario RPG again for the third time and intended to keep this copy. She describes a complete-in-box copy that is not pristine but was a good deal. Her play wording moves from 'getting into' it to saying she is going to start now, so acquisition is clear while an already-started play session is not certain. No price or completion claim is supplied.",
+      "evidence_locations": [
+        "Paragraph 31",
+        "Paragraph 33",
+        "Paragraph 32"
+      ],
+      "forbidden": [
+        "First copy ever",
+        "Definitely finished or actively started",
+        "Pristine copy",
+        "Exact price"
+      ],
+      "status": "passed",
+      "reason": "P31–33 acquiredthirdcopy and future/currentplayambiguity, condition and price limits."
+    },
+    {
+      "id": "batch008-cq014-play-format",
+      "episode": 14,
+      "question": "What were Steven and Johnny playing, and why did pinball fit Johnny?",
+      "query": "Phantom Pain virtual pinball Fallout short sessions",
+      "answer": "Steven had beaten The Phantom Pain the previous week and was still thinking about it. Johnny says he had been playing virtual pinball for about three weeks because short sessions fit his busy schedule and limited mental space for a story-heavy game like Fallout, which he played only a little here and there. No specific virtual-pinball title or Fallout installment is named in that report.",
+      "evidence_locations": [
+        "Paragraph 31",
+        "Paragraph 32"
+      ],
+      "forbidden": [
+        "Johnny beat Phantom Pain",
+        "The Pinball Arcade explicitly named here",
+        "Fallout installment known",
+        "Exactly uninterrupted three-week play"
+      ],
+      "status": "passed",
+      "reason": "P31Stevencompletion versusP32Johnnyshortsessions; no unstatedtitleinstallment imported from prior episode."
+    },
+    {
+      "id": "batch008-cq014-floor-uncertainty",
+      "episode": 14,
+      "question": "How large was the expo, and what should the lore master avoid overstating?",
+      "query": "70 spaces 50 vendors floor dimensions",
+      "answer": "Steven estimates about 70 spaces and about 50 unique vendors, with 10-by-10 booths or 6-by-10 showcase/table spaces. He says exact floor specifications are not his division and points to the vendor map. Those are approximate plans, not a measured attendance count or exact floor area.",
+      "evidence_locations": [
+        "Paragraph 26"
+      ],
+      "forbidden": [
+        "Exactly70vendors",
+        "Attendance count50",
+        "Exact square footage known"
+      ],
+      "status": "passed",
+      "reason": "P26 approximate spaces/vendors/boothsizes and explicit unknownfloor specs, not attendance."
+    },
+    {
+      "id": "cq081-task-roster",
+      "episode": 81,
+      "question": "Who is hosting, and what explains the episode gap?",
+      "query": "Kat Joni Tyler schedule three four episodes month anniversary work",
+      "answer": "Kat, Johnny and Tyler are explicitly introduced. Johnny says the goal is roughly three to four episodes per month, rather than a rigid weekly schedule. The gap is explained by travel, work and family circumstances; the episode does not justify inventing a staffing change or expanding sensitive family details into a biography.",
+      "evidence_locations": [
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 5",
+        "Paragraph 6"
+      ],
+      "forbidden": [
+        "Tyler absent",
+        "Strict weekly guarantee",
+        "Private biography expansion"
+      ],
+      "status": "passed",
+      "reason": "P2/3/5/6 identifies three hosts and flexible schedule, with contextual gap explanation kept general rather than expanded private biography."
+    },
+    {
+      "id": "cq081-task-odyssey",
+      "episode": 81,
+      "question": "Has Kat started Odyssey since the previous discussion, and what did Johnny finish?",
+      "query": "Europe beat Mario Odyssey Kat little Mario Kart Zelda",
+      "answer": "Yes. Kat now says she has played a little Mario Odyssey and mainly Mario Kart on Switch, while she has not played Zelda yet. Johnny says he beat Odyssey while in Europe. Their progress is different: Kat's brief play is not evidence she finished it, and Johnny's completion should not be assigned to her.",
+      "evidence_locations": [
+        "Paragraph 13",
+        "Paragraph 14",
+        "Paragraph 15"
+      ],
+      "forbidden": [
+        "Kat finished Odyssey",
+        "Kat still never played Odyssey here"
+      ],
+      "status": "passed",
+      "reason": "P13–15 supports Kat's small amount of Odyssey, Johnny's Europe completion and Kat's unplayed Zelda; actor/state split survives prior episode contrast."
+    },
+    {
+      "id": "cq081-task-louvre",
+      "episode": 81,
+      "question": "Who obtained the Louvre game, and who only wanted it?",
+      "query": "Louvre Mona Lisa DS museum tour twenty 20 euro physical digital",
+      "answer": "Johnny bought the physical Louvre museum-tour software for about 20 euro and mentions it again at the close. Tyler says he wants a physical copy to play and rejects buying the digital version; Johnny did not bring him one. The transcript calls it DS software, so the record retains that wording with a platform qualification instead of silently correcting it from outside knowledge.",
+      "evidence_locations": [
+        "Paragraph 37",
+        "Paragraph 38",
+        "Paragraph 66"
+      ],
+      "forbidden": [
+        "Tyler received copy",
+        "Ten copies bought",
+        "Verified exact platform from captions"
+      ],
+      "status": "passed",
+      "reason": "P37/38/66 supports Johnny physical purchase around20euro, Tyler unfulfilled want and source's DS wording; ten hypothetical copies not bought."
+    },
+    {
+      "id": "cq081-task-edition",
+      "episode": 81,
+      "question": "Did Johnny buy every NBA edition or a licensed green Mario cartridge?",
+      "query": "NBA legend thirty Canadian cover Super Mario World green licensed hundred",
+      "answer": "No. Johnny says he bought the NBA 2K18 Legend Edition for $30, not every edition. The Canadian cover is a possible later pickup if the price drops, not an acquisition already completed. A Nintendo-licensed green Super Mario World cartridge at $100 is a hypothetical they invent to test his willingness, not a real release or order.",
+      "evidence_locations": [
+        "Paragraph 31",
+        "Paragraph 35",
+        "Paragraph 36"
+      ],
+      "forbidden": [
+        "All editions owned",
+        "Green SMW released"
+      ],
+      "status": "passed",
+      "reason": "P31/35/36 distinguishes paid30Legend edition, conditionalCanadian cover and wholly hypothetical licensedgreenSMW cartridge."
+    },
+    {
+      "id": "cq081-task-returns",
+      "episode": 81,
+      "question": "What happened to the different 1-2-Switch copies?",
+      "query": "one to switch returned Mario Kart sealed minigame once",
+      "answer": "Tyler says he played each minigame once and did not return to it. A different, not securely labelled speaker says they bought it with the Switch, returned it after reading reviews and got Mario Kart instead. Johnny's copy is described as still sealed. These are separate people's stories; the return must not erase Johnny's ownership or become a claim that Tyler successfully returned his copy.",
+      "evidence_locations": [
+        "Paragraph 58",
+        "Paragraph 59"
+      ],
+      "forbidden": [
+        "Tyler returned",
+        "Johnny returned",
+        "Returned speaker certainly Kat"
+      ],
+      "status": "passed",
+      "reason": "P58–59 contains Tyler's actualplay/regret, separate unknown returner and Johnnysealedcopy; ambiguity protected instead of assuming returnactor."
+    },
+    {
+      "id": "cq081-task-kat-games",
+      "episode": 81,
+      "question": "Which games did Kat abandon, sell, start or merely want?",
+      "query": "ukulele sold John Donkey Kong Lucky Tale hour hat time picked",
+      "answer": "Kat played Yooka-Laylee and then sold it after finding its difficulty and repetition frustrating, despite liking Donkey Kong 64. She is about an hour into the game called Lucky's Tale in the transcript and likes it so far; the precise installment remains qualified. A Hat in Time is only a desired future game: she explicitly has not picked it up yet.",
+      "evidence_locations": [
+        "Paragraph 56",
+        "Paragraph 57",
+        "Paragraph 58"
+      ],
+      "forbidden": [
+        "Lucky completed",
+        "Hat bought",
+        "Silent Lucky installment resolution"
+      ],
+      "status": "passed",
+      "reason": "P56–58 supports Kat played/soldYooka, briefcurrentLuckyplay and HatTime notpickedup; unclearLuckyinstallment notnormalizedsilently."
+    },
+    {
+      "id": "cq081-task-atlantis",
+      "episode": 81,
+      "question": "Why are there two prices for Tyler's Atlantis, and what sets did he finish?",
+      "query": "Atlantis five hundred ten Mercari twenty five Crypt Killer All Star Baseball",
+      "answer": "They refer to two actual copies, not competing estimates for one purchase. Tyler paid $510 in an auction, then found and bought another for $25 shipped on Mercari; he says both arrived and the cheaper copy was legitimate but in worse condition. Atlantis was his last Odyssey 2 game. Crypt Killer and All-Star Baseball 1997 were his last two Saturn games, completing those personal collection goals as he defines them.",
+      "evidence_locations": [
+        "Paragraph 63",
+        "Paragraph 64",
+        "Paragraph 65"
+      ],
+      "forbidden": [
+        "Only one copy",
+        "510 current market price",
+        "Externally certified full sets"
+      ],
+      "status": "passed",
+      "reason": "P63–65 explicitly recounts two acquiredcopies510/25 with conditiondifference, then Odyssey2 andSaturn completion underhostscope."
+    },
+    {
+      "id": "cq081-task-prices",
+      "episode": 81,
+      "question": "Do their numbers establish a universal collecting crash?",
+      "query": "bubble flat NES Genesis Turbo Magical Chase Hero Toma Bunk",
+      "answer": "No. They describe mostly flat selected system averages, with larger gains for 32X and TurboGrafx, while named Turbo heavy hitters such as Magical Chase, Legend of Hero Tonma and Bonk 3 fell. Their point is that cherry-picking a single title can misrepresent a broader trend. These are historical reported examples with different completeness conditions, not independently verified market research or a guarantee about future prices.",
+      "evidence_locations": [
+        "Paragraph 48",
+        "Paragraph 49",
+        "Paragraph 50",
+        "Paragraph 51",
+        "Paragraph 52",
+        "Paragraph 53"
+      ],
+      "forbidden": [
+        "Universal crash proven",
+        "Current investment forecast",
+        "All titles rise"
+      ],
+      "status": "passed",
+      "reason": "P48–53 supports mixed systemaverages/titledeclines and no universalcrash; conditionbases/historicalclaim qualification retained."
+    },
+    {
+      "id": "cq081-task-disappointments",
+      "episode": 81,
+      "question": "Which Johnny disappointments are first-hand and which are hearsay?",
+      "query": "Shadow war Andromeda not played Star Wars Battlefront two",
+      "answer": "Johnny gives a negative first-hand assessment of Shadow of War and says he tried Mass Effect Andromeda. He explicitly has not played Star Wars Battlefront II; its disappointment status comes from what others told him. It would be wrong to present all three as games he completed and reviewed personally.",
+      "evidence_locations": [
+        "Paragraph 61",
+        "Paragraph 62"
+      ],
+      "forbidden": [
+        "Battlefront first-hand review",
+        "Andromeda completed"
+      ],
+      "status": "passed",
+      "reason": "P61–62 separates firsthandShadowWar and attemptedAndromeda from explicitBattlefrontII nonplay/hearsay; no completioninvented."
+    },
+    {
+      "id": "cq081-task-paid",
+      "episode": 81,
+      "question": "What did Johnny actually pay for FIFA, soccer and cereal?",
+      "query": "FIVA fourteen 140 ISS Pro Evolution fifty cereal free Archon Turtle",
+      "answer": "Johnny says his Wii FIFA 14 cost $140, not the $300 market figure mentioned earlier. His PlayStation ISS Pro Evolution purchase was $50, compared with his claimed $150 value. Mario cereal was a free box from Archon Turtle; asking for another to cut out the amiibo does not establish a second receipt or a cereal purchase.",
+      "evidence_locations": [
+        "Paragraph 44",
+        "Paragraph 45",
+        "Paragraph 46",
+        "Paragraph 47",
+        "Paragraph 65"
+      ],
+      "forbidden": [
+        "FIFA300 paid",
+        "Cereal purchased",
+        "Second box received"
+      ],
+      "status": "passed",
+      "reason": "P44–47/65 distinguish paid140FIFA and50ISS fromreportedmarketvalues and freecerealgift/requestedsecond."
+    },
+    {
+      "id": "cq207-zelda-offer",
+      "episode": 207,
+      "question": null,
+      "query": "What did Tyler actually buy: Link to the Past, Breath of Fire, or Illusion of Gaia?",
+      "answer": "Tyler bought the very nice boxed SNES A Link to the Past for $300, describing its cellophane. He did not buy Breath of Fire and Illusion of Gaia: their clarified asking prices were $250 and $190, his $400 combined offer near closing was refused, and the late callback still describes the rejected deal. Johnny criticizes the seller but Tyler made the offer. Cellophane alone is not authentication of a factory-sealed copy.",
+      "evidence_locations": [
+        "00:38:24",
+        "00:39:31",
+        "00:40:35",
+        "00:41:42",
+        "01:41:38",
+        "02:01:46"
+      ],
+      "forbidden": [
+        "Do not convert rejected offer into purchase.",
+        "Do not attribute the offer to Johnny.",
+        "Do not certify factory seal."
+      ],
+      "status": "passed",
+      "reason": "38:24–41:42 and latecallbacks establish Tyler's300Zelda purchase, corrected250+190asks and refused400bundle; no factory-seal certification or Johnny-as-buyer."
+    },
+    {
+      "id": "cq207-metal-gear",
+      "episode": 207,
+      "question": null,
+      "query": "Which Metal Gear game did both hosts get, and how did their copies differ?",
+      "answer": "Both now have Metal Gear 2: Solid Snake on MSX. The dialogue corrects Metal Gear Solid 2 and jokes about Snake’s Revenge; neither is the replacement pickup. Tyler emphasizes finding a case without the usual wrinkles. Johnny obtained his through Red and describes mint contents but a crinkly case. Tyler’s amount is tentative, so an exact purchase price should not be asserted.",
+      "evidence_locations": [
+        "01:42:39",
+        "01:43:43",
+        "01:44:45"
+      ],
+      "forbidden": [
+        "Do not merge Metal Gear Solid2 or Snake’s Revenge.",
+        "Do not give Johnny Tyler’s smooth case.",
+        "Do not invent exact price."
+      ],
+      "status": "passed",
+      "reason": "1:42:39–1:44:45 explicitly distinguishes MSXMetalGear2 from Solid2/Snake'sRevenge, and Tyler smooth case versus Johnny crinkly case/Red sourcing."
+    },
+    {
+      "id": "cq207-regret",
+      "episode": 207,
+      "question": null,
+      "query": "Did Tyler rebuy WarioWare Twisted after trading it, and how does that compare with Johnny’s Genesis regret?",
+      "answer": "Tyler says he bought WarioWare: Twisted! new, then sent the mint copy away in a GameTZ mystery exchange and regrets it. He has not rebought it; the roughly $200 complete price discourages him, even though he expects to need it for collecting. That was a trade or giveaway, not an established cash sale. Johnny’s Genesis story is different: he sold the collection and bought it back; he separately connects earlier losses with hoarding games.",
+      "evidence_locations": [
+        "01:35:20",
+        "01:36:20",
+        "01:37:24",
+        "01:38:24"
+      ],
+      "forbidden": [
+        "Do not claim Tyler currently owns Twisted.",
+        "Do not classify the mystery trade as cash sale.",
+        "Do not say Johnny never rebuilt Genesis."
+      ],
+      "status": "passed",
+      "reason": "1:35:20–1:38:24 supports Tyler tradedTwisted and has not rebought, unlike Johnny sold/rebuiltGenesis. Initial unspoken sentimental-deficit interpretation removed; earlier losses/hoarding are separately reported."
+    },
+    {
+      "id": "cq207-completeness",
+      "episode": 207,
+      "question": null,
+      "query": "Would they choose a complete lower-condition game or a mint box missing inserts?",
+      "answer": "For the fixed-choice question where the copy must stay as chosen, both prefer the fully complete copy in roughly six-to-seven condition. Tyler separately discusses the practical strategy of buying a nicer box and adding cheap generic inserts when repair is allowed. Those answer different conditions, so the second strategy is not a reversal of the immutable-choice preference.",
+      "evidence_locations": [
+        "01:33:13",
+        "01:34:19",
+        "01:35:20"
+      ],
+      "forbidden": [
+        "Do not omit the no-repair condition.",
+        "Do not present a hypothetical as actual purchase."
+      ],
+      "status": "passed",
+      "reason": "1:33:13–1:35:20 distinguishes immutable complete6–7 choice from buying better boxes when adding inserts is permitted; not a contradictory purchase."
+    },
+    {
+      "id": "cq207-whatnot",
+      "episode": 207,
+      "question": null,
+      "query": "How did the actual Portland Whatnot auction work, and did they reject all Whatnot streams?",
+      "answer": "Their account of the live auction is negative: connectivity was unreliable and participating through phones did not create the lively in-room experience they wanted. They separately praise roaming streams that visit vendors and show people buying things. The episode therefore supports criticism of this event’s implementation, not a blanket rejection of every Whatnot format.",
+      "evidence_locations": [
+        "01:13:48",
+        "01:14:54"
+      ],
+      "forbidden": [
+        "Do not infer every stream failed.",
+        "Do not treat earlier predictions as observation."
+      ],
+      "status": "passed",
+      "reason": "1:13:48–1:14:54 contrasts personally described connectivity/phone-auction failure with positive roaming vendor streams; no blanket service rejection."
+    },
+    {
+      "id": "cq207-vita-scope",
+      "episode": 207,
+      "question": null,
+      "query": "How close was Johnny to his Vita set after the Payton lot, and what was excluded?",
+      "answer": "Johnny reports buying about 100 Vita games from Payton and about ten at Portland, leaving six in his released North American scope. He excludes contested or unreleased physical items discussed as Binding of Isaac, the vvv caption, Revenge of the Bird King and the 101-spikes caption; War Theatre’s region is uncertain in the conversation. English-Asia imports would add a separate larger scope. This is not completion of every Vita release or proof he owns the excluded games.",
+      "evidence_locations": [
+        "01:45:52",
+        "01:46:56",
+        "01:48:00"
+      ],
+      "forbidden": [
+        "Do not certify current release status.",
+        "Do not declare set complete.",
+        "Do not silently normalize uncertain caption titles."
+      ],
+      "status": "passed",
+      "reason": "1:45:52–1:48:00 supports100+about10 and six remaining under releasedNorthAmerican scope; contested rawtitles and uncertain WarTheatre region not silently certified."
+    },
+    {
+      "id": "cq207-vita-buyout",
+      "episode": 207,
+      "question": null,
+      "query": "Did Josh buy the vendor’s whole Vita table for $8,000?",
+      "answer": "No. Josh asked for a whole-table price, but the seller never supplied one, so there was no completed buyout. The $8,000 figure appears as a hypothetical example of a useful quote that could have started negotiation, not an accepted offer or actual purchase price.",
+      "evidence_locations": [
+        "01:56:32",
+        "01:57:35",
+        "01:58:36",
+        "01:59:37",
+        "02:00:39"
+      ],
+      "forbidden": [
+        "Do not record8000 as paid.",
+        "Do not attribute this transaction to Johnny or Tyler."
+      ],
+      "status": "passed",
+      "reason": "1:56:32–2:00:39 supports Josh's request without seller price;8000is hypothetical suggested quote and no completedbuyout."
+    },
+    {
+      "id": "cq207-errata",
+      "episode": 207,
+      "question": null,
+      "query": "What was the Eternal Warriors correction?",
+      "answer": "The Sega-library discussion initially uses Eternal Warriors. At the close the hosts explicitly correct the intended game to Eternal Champions. It should be one corrected Genesis identity with the raw mistaken name retained, not two distinct games or an externally verified claim about the rest of the Sega library.",
+      "evidence_locations": [
+        "00:12:39",
+        "02:02:48"
+      ],
+      "forbidden": [
+        "Do not invent separate Eternal Warriors release.",
+        "Do not erase raw caption history."
+      ],
+      "status": "passed",
+      "reason": "12:39rawEternalWarriors explicitlycorrected at2:02:48toEternalChampions; no secondreleaseinvented."
+    },
+    {
+      "id": "cq207-auction-caveats",
+      "episode": 207,
+      "question": null,
+      "query": "What caveats belong with the Super Mario Bros hang-tab and Double Dragon auction price comparisons?",
+      "answer": "The Super Mario Bros. hang-tab $700,000 result is explicitly not a matched comparison with the $2-million copy because their grades differ. Double Dragon’s caption appears to say 133 thousand in one passage, but the later explicit 13-grand wording and roughly 60-grand-drop context support reading the later reported result as around $13,000 after $72,000. Both are dated host reports, not an independently checked auction ledger, and neither establishes a host purchase.",
+      "evidence_locations": [
+        "00:51:24",
+        "00:53:30",
+        "00:54:36",
+        "00:55:36"
+      ],
+      "forbidden": [
+        "Do not call SMB identical-grade collapse.",
+        "Do not silently treat133k as verified price.",
+        "Do not turn allegations of manipulation into established fact."
+      ],
+      "status": "passed",
+      "reason": "51:24/53:30/54:36/55:36 support source's13grand contextualrepair and differentlygradedSMBcomparison; no externalauctionauthentication or manipulationfinding."
+    },
+    {
+      "id": "cq207-manual-collective",
+      "episode": 207,
+      "question": null,
+      "query": "What was bought for the manual collective, and was the service already running?",
+      "answer": "Johnny describes a roughly $1,000 bulk manual purchase and proposes a patron-oriented manual collective for finding or exchanging missing manuals. The Adventures of Batman and Robin manual is discussed at $20 in that buying context, while other Mario and Metroid manuals illustrate low prices. These are packaging acquisitions, not purchases of every matching game, and the collective is a plan rather than a launched service.",
+      "evidence_locations": [
+        "01:50:07",
+        "01:51:14",
+        "01:52:21"
+      ],
+      "forbidden": [
+        "Do not count manuals as whole-game acquisitions.",
+        "Do not claim service launched or authorize publication."
+      ],
+      "status": "passed",
+      "reason": "1:50:07–1:52:21 supports1000manual lot,20Batmanmanual and plannedpatronexchange; packagingnotgamepurchases, notlaunchedservice."
+    },
+    {
+      "id": "cq207-retro-dead",
+      "episode": 207,
+      "question": null,
+      "query": "Is retro collecting dead? Contrast DVD vendors, booth sales, Red, Mr CIB, GameCube, Ooze and generations.",
+      "answer": "No. The hosts use Portland observations to discuss shifting generations, attention and what collectors call retro, but they acknowledge mixed vendor outcomes and continuing demand. In particular, thin GameCube stock can mean buyers already bought it, not that nobody wanted it. The Ooze is an example of possible stagnation rather than a guaranteed forecast. The title is a provocative thesis with qualifications, not a comprehensive market census.",
+      "evidence_locations": [
+        "00:04:17",
+        "00:29:43",
+        "00:35:12",
+        "01:25:48",
+        "01:30:04",
+        "01:31:04",
+        "01:32:09",
+        "01:33:13"
+      ],
+      "forbidden": [
+        "Do not offer guaranteed price forecast.",
+        "Do not generalize one event to every market."
+      ],
+      "status": "passed",
+      "reason": "Fullcitedsourcecontexts boundPortlandobservations, mixedsales, shiftingretrolabels, bought-outGameCube stock and speculativeOoze stagnation; titleisnotuniversalmarketfact."
+    }
+  ]
+}

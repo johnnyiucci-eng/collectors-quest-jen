@@ -1,0 +1,3248 @@
+{
+  "schema_version": "1",
+  "review_status": "A1-A6 same-agent source work; A7-A8 integration pending",
+  "note": "All 24 supplied paragraphs read; source-first 25-bucket reference/product inventory. No root gold inspected.",
+  "episodes": [
+    {
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "mapping_status": "complete",
+      "review_note": "Same-agent full map and omission review; untimed and caption-attribution limits retained.",
+      "spans": [
+        {
+          "id": "cq015-span-001-1",
+          "entity_id": "cq015:cq015-g001",
+          "title": "Comix Zone",
+          "game_refs": [
+            "cq015-g001"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUBSTANTIAL_COVERAGE",
+          "start": "Paragraph 3",
+          "end_exclusive": "Paragraph 4",
+          "reason": "Comic-book panels, difficulty, pricing and package completion; closing recommendation returns to both spotlight choices.",
+          "evidence": [
+            {
+              "location": "Paragraph 3",
+              "quote": "us in Sega Land? Well, I thought I would go with Comic Zone today, which is one that I still like playing. I remember playing and it was a fun game. It’s kind of a little bit different. So this was a Sega exclusive. I believe it was released in ’95. I could be wrong, but I’m pretty sure it was ’95. It’s an arcade style beat ’em up. But what’s really cool about this game is the artwork and the fact that it’s set within the pages of a comic book, which is a little bit different than kind of anything else that I’ve come across. Have you come across anything else that’s been kind of set like that? No, Comic Zone is kind of a unique game. Yeah, so it’s really cool. Each level consists of two pages and you can shred up sections of the page and reveal items that will help you along the way. And the dialogue is rendered in talk bubbles. So very much that kind of comic book look. It’s really cool. I like the opening to it. I do find that I remember it being hard and I still find it hard today. Is that because you are worse at games now? I think the problem might be that I like this"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-001-2",
+          "entity_id": "cq015:cq015-g001",
+          "title": "Comix Zone",
+          "game_refs": [
+            "cq015-g001"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUBSTANTIAL_COVERAGE",
+          "start": "Paragraph 4",
+          "end_exclusive": "Paragraph 5",
+          "reason": "Comic-book panels, difficulty, pricing and package completion; closing recommendation returns to both spotlight choices.",
+          "evidence": [
+            {
+              "location": "Paragraph 4",
+              "quote": "game a lot, but it’s definitely not the type of game I play all the time. Like the gameplay is not something that I lean towards. So it’s probably just if I played it more, I probably might not find it as difficult. Well, yeah, I mean practice and all that, but no, it is a I’m just giving you shit. It’s kind of a hard game. Yeah, and it really does to me playing it ring true to kind of like a real arcade style game, which is kind of neat. So what it is is it follows sketch Turner into his comic book. He’s a comic book is getting a comic book together and illustrating it. So anyway, he gets put into the comic book and it’s the story of the New World’s Empire and he’s got to attempt to defend Earth from an alien invasion. So throughout the comic you go through and you’ll find enemies. You have to solve some puzzles at certain points to move on from different panels in the comic book. But it’s really fun. And what I like about it is it’s still a game that’s fairly reasonable in terms of price. You can get a cart on eBay from anywhere from 15 to 25 bucks Canadian. I’ve seen the local sometimes"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-001-3",
+          "entity_id": "cq015:cq015-g001",
+          "title": "Comix Zone",
+          "game_refs": [
+            "cq015-g001"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUBSTANTIAL_COVERAGE",
+          "start": "Paragraph 5",
+          "end_exclusive": "Paragraph 6",
+          "reason": "Comic-book panels, difficulty, pricing and package completion; closing recommendation returns to both spotlight choices.",
+          "evidence": [
+            {
+              "location": "Paragraph 5",
+              "quote": "a little bit cheaper than that for one that might not be in really good condition. But what another thing I really like about the game is that it the artwork on the box is really interesting. It’s very kind of comic book style. But a point that not a lot of people know is that it actually came with a bonus CD. Unfortunately, I don’t have the bonus CD in my box version. I’ve been trying to track one down, but it’s proof to be a little bit difficult. You know, that CD I can tell you from collecting the Sega Genesis cardboard boxes. It’s kind of a pain in the ass. Yeah. Okay. So it’s not so that kind of maybe is a common thing. I’ve never heard the CD. I would just like to have it to complete kind of my box for that game. Mine is sealed and I have not heard it either. Okay. So, you know, and it’s not really necessary to playing the game. It’s just kind of cool because I’m not sure. Like my knowledge of Sega is definitely not to the extent of Nintendo. Were there any other or a lot of games, do you know that came with a bonus CD packed in? Shack Fu. Okay. So not a lot."
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-001-4",
+          "entity_id": "cq015:cq015-g001",
+          "title": "Comix Zone",
+          "game_refs": [
+            "cq015-g001"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 6",
+          "end_exclusive": "Paragraph 7",
+          "reason": "Comic-book panels, difficulty, pricing and package completion; closing recommendation returns to both spotlight choices.",
+          "evidence": [
+            {
+              "location": "Paragraph 6",
+              "quote": "No, not a lot. There might be others, but Shack Fu is definitely the one that comes to my mind first. Okay. So anyway, that’s kind of my little overview. There are two possible endings for the game, which I’m not going to discuss too much because if you’re going to go and play it, you probably want to find that out at the end of the game. But it’s really good. If you like a kind of arcade style beat them up, it’s fun to play. It can be a little bit challenging. And it’s certainly unique visually than most other games. Yeah, I agree. I’ve played it. It is a fun game, though, like you said, hard. And it is definitely, if you’re looking for something kind of unconventional, it’s an excellent choice. Yeah, so something just a little bit different. So what do you have for kind of a game spotlight today? I have, I went traditional. I’m wearing Fax Anidu by Ness. Okay. Yeah. Um, no, so if you’ve ever played this game, it comes in like, I find the box art to be nice. It’s got like a little badge in the middle and like cool red, like lettering and like a looks like, but it’s a cool looking font, except the color of the"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-001-5",
+          "entity_id": "cq015:cq015-g001",
+          "title": "Comix Zone",
+          "game_refs": [
+            "cq015-g001"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 23",
+          "end_exclusive": "Paragraph 24",
+          "reason": "Comic-book panels, difficulty, pricing and package completion; closing recommendation returns to both spotlight choices.",
+          "evidence": [
+            {
+              "location": "Paragraph 23",
+              "quote": "It will be interesting to see what you continue to pick up in the next little while. Cause I know you’re, you’re getting closer. I am getting closer every day. All right. Well, that’s it for me. What do you have? Anything else? No, I think that’s, I think that’s good. Just if you haven’t played the games that we kind of spotlighted, definitely good ones to check out. And if you have played them, let us know if you liked them, if you didn’t like them, if you still like them now as much as you did when you were younger. Right. And remember, I know we said it in our last episode, but we have the SoCal video game, retro video game expo coming up here. We’ve posted about it, both and I, Kat and I have put out shout outs and we had a whole lot of episode dedicated to it. So be sure to check that out and come on down because I will be there and I’ll have hopefully some merchandise from the show, just like a banner and maybe some buttons to maybe hand out. So come and say hi and I’ll also have some stuff for sale. So if you’re looking for goods, which I’m assuming that’s why you would go to an"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-002-1",
+          "entity_id": "cq015:cq015-g002",
+          "title": "Comix Zone bonus CD",
+          "game_refs": [
+            "cq015-g002"
+          ],
+          "entity_kind": "accessory",
+          "role": "SUBSTANTIAL_COVERAGE",
+          "start": "Paragraph 5",
+          "end_exclusive": "Paragraph 6",
+          "reason": "Kat lacks CD; Johnny has sealed item and neither has listened.",
+          "evidence": [
+            {
+              "location": "Paragraph 5",
+              "quote": "a little bit cheaper than that for one that might not be in really good condition. But what another thing I really like about the game is that it the artwork on the box is really interesting. It’s very kind of comic book style. But a point that not a lot of people know is that it actually came with a bonus CD. Unfortunately, I don’t have the bonus CD in my box version. I’ve been trying to track one down, but it’s proof to be a little bit difficult. You know, that CD I can tell you from collecting the Sega Genesis cardboard boxes. It’s kind of a pain in the ass. Yeah. Okay. So it’s not so that kind of maybe is a common thing. I’ve never heard the CD. I would just like to have it to complete kind of my box for that game. Mine is sealed and I have not heard it either. Okay. So, you know, and it’s not really necessary to playing the game. It’s just kind of cool because I’m not sure. Like my knowledge of Sega is definitely not to the extent of Nintendo. Were there any other or a lot of games, do you know that came with a bonus CD packed in? Shack Fu. Okay. So not a lot."
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-003-1",
+          "entity_id": "cq015:cq015-g003",
+          "title": "Shaq Fu",
+          "game_refs": [
+            "cq015-g003"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 5",
+          "end_exclusive": "Paragraph 6",
+          "reason": "Another game recalled as including a bonus CD; no purchase claimed.",
+          "evidence": [
+            {
+              "location": "Paragraph 5",
+              "quote": "a little bit cheaper than that for one that might not be in really good condition. But what another thing I really like about the game is that it the artwork on the box is really interesting. It’s very kind of comic book style. But a point that not a lot of people know is that it actually came with a bonus CD. Unfortunately, I don’t have the bonus CD in my box version. I’ve been trying to track one down, but it’s proof to be a little bit difficult. You know, that CD I can tell you from collecting the Sega Genesis cardboard boxes. It’s kind of a pain in the ass. Yeah. Okay. So it’s not so that kind of maybe is a common thing. I’ve never heard the CD. I would just like to have it to complete kind of my box for that game. Mine is sealed and I have not heard it either. Okay. So, you know, and it’s not really necessary to playing the game. It’s just kind of cool because I’m not sure. Like my knowledge of Sega is definitely not to the extent of Nintendo. Were there any other or a lot of games, do you know that came with a bonus CD packed in? Shack Fu. Okay. So not a lot."
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-003-2",
+          "entity_id": "cq015:cq015-g003",
+          "title": "Shaq Fu",
+          "game_refs": [
+            "cq015-g003"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 6",
+          "end_exclusive": "Paragraph 7",
+          "reason": "Another game recalled as including a bonus CD; no purchase claimed.",
+          "evidence": [
+            {
+              "location": "Paragraph 6",
+              "quote": "No, not a lot. There might be others, but Shack Fu is definitely the one that comes to my mind first. Okay. So anyway, that’s kind of my little overview. There are two possible endings for the game, which I’m not going to discuss too much because if you’re going to go and play it, you probably want to find that out at the end of the game. But it’s really good. If you like a kind of arcade style beat them up, it’s fun to play. It can be a little bit challenging. And it’s certainly unique visually than most other games. Yeah, I agree. I’ve played it. It is a fun game, though, like you said, hard. And it is definitely, if you’re looking for something kind of unconventional, it’s an excellent choice. Yeah, so something just a little bit different. So what do you have for kind of a game spotlight today? I have, I went traditional. I’m wearing Fax Anidu by Ness. Okay. Yeah. Um, no, so if you’ve ever played this game, it comes in like, I find the box art to be nice. It’s got like a little badge in the middle and like cool red, like lettering and like a looks like, but it’s a cool looking font, except the color of the"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-004-1",
+          "entity_id": "cq015:cq015-g004",
+          "title": "Faxanadu",
+          "game_refs": [
+            "cq015-g004"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 6",
+          "end_exclusive": "Paragraph 7",
+          "reason": "Johnny's childhood game, box-color critique, recalled difficulty and planned replay; closing recommendation.",
+          "evidence": [
+            {
+              "location": "Paragraph 6",
+              "quote": "No, not a lot. There might be others, but Shack Fu is definitely the one that comes to my mind first. Okay. So anyway, that’s kind of my little overview. There are two possible endings for the game, which I’m not going to discuss too much because if you’re going to go and play it, you probably want to find that out at the end of the game. But it’s really good. If you like a kind of arcade style beat them up, it’s fun to play. It can be a little bit challenging. And it’s certainly unique visually than most other games. Yeah, I agree. I’ve played it. It is a fun game, though, like you said, hard. And it is definitely, if you’re looking for something kind of unconventional, it’s an excellent choice. Yeah, so something just a little bit different. So what do you have for kind of a game spotlight today? I have, I went traditional. I’m wearing Fax Anidu by Ness. Okay. Yeah. Um, no, so if you’ve ever played this game, it comes in like, I find the box art to be nice. It’s got like a little badge in the middle and like cool red, like lettering and like a looks like, but it’s a cool looking font, except the color of the"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-004-2",
+          "entity_id": "cq015:cq015-g004",
+          "title": "Faxanadu",
+          "game_refs": [
+            "cq015-g004"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUBSTANTIAL_COVERAGE",
+          "start": "Paragraph 7",
+          "end_exclusive": "Paragraph 8",
+          "reason": "Johnny's childhood game, box-color critique, recalled difficulty and planned replay; closing recommendation.",
+          "evidence": [
+            {
+              "location": "Paragraph 7",
+              "quote": "box. I guess it’s supposed to look like the stone on a wall. It’s like this kind of not peach, but like this pale tan. It’s really ugly. I find the box to be like, every time I look at my game collection, just the top of it sticks out like this weird peachy color that it is. I’m like, but yeah, it almost looks kind of like marble-y, like really bad colored marble. It reminds me of like a 90s bathroom is what. Yes, but box color choices aside, no one gives a shit about that except me. It’s an excellent game. It’s really good. I got it as a child actually, and it’s still kind of under the radar. It’s not talked about. The game is kind of hard. It’s actually an RPG and I what I didn’t know about it is actually part of a series of games and it was part of the dragon slayer games. I think this was the second one released for him. And like you can find dragon slayer on Turbografx 16. So that’s where I know it from after the fact. I don’t know if dragon slayer has been released on any other systems, but it’s just a really fun game. It’s not very expensive. You can get it for, you"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-004-3",
+          "entity_id": "cq015:cq015-g004",
+          "title": "Faxanadu",
+          "game_refs": [
+            "cq015-g004"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUBSTANTIAL_COVERAGE",
+          "start": "Paragraph 8",
+          "end_exclusive": "Paragraph 9",
+          "reason": "Johnny's childhood game, box-color critique, recalled difficulty and planned replay; closing recommendation.",
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "know, $15 if you’re just looking for the cart, like $35 if you want, like a complete copy. So it’s just, you know, it’s not that much. And then to tell you a little bit about the name, okay, because dragon slayer is a portmanteau. And if you don’t know what a portmanteau is, it’s when you take two words and you jam them together to form a new word. So in this case, it’s Famicom and Xanadu. And because this is part of the Xanadu series, so it’s Famicom Xanadu. So faxanadu. Yeah. Oh, interesting. I didn’t know that. It’s interesting to me right from a wiki page because I looked it up because I was like, what is this? Like obviously I know what Xanadu is and I wanted to know more about the series since I was going to talk about it today. I was like, oh, this is part of the dragon slayer. So I actually have dragon slayer on the TurboGrafx 16, but I’ve never played it. And now I want to go check that out too. So it kind of led me down a rabbit hole. Yeah. And what I found out is it has, you know, there’s, it took me a long time to beat it. I mean, I got it when it"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-004-4",
+          "entity_id": "cq015:cq015-g004",
+          "title": "Faxanadu",
+          "game_refs": [
+            "cq015-g004"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUBSTANTIAL_COVERAGE",
+          "start": "Paragraph 9",
+          "end_exclusive": "Paragraph 10",
+          "reason": "Johnny's childhood game, box-color critique, recalled difficulty and planned replay; closing recommendation.",
+          "evidence": [
+            {
+              "location": "Paragraph 9",
+              "quote": "came out in America, which was, I got it for a Christmas, I think in like 1989. So, you know, that doesn’t make me, I’m not even 10 years old. All right. Yeah. No, I’m 10. I’m like 10, 10 or 11 at that point. Right. So it’s pretty fun. But I’m still, I’m still young. I’m not fully mentally capable. I’m still a child playing games. And like it had some, like some messages and like some adventuring and like some clues that you had to follow. And I just remember being a kind of difficulty, like difficult that I wasn’t accustomed to. It wasn’t difficult like Zelda, which was like just explorations. Like you had to be, you had to explore like Zelda, but also be good at like kind of fighting stuff off because it was actually RPG. Kind of like Zelda too. So it proves to that kind of difficulty level, not the end of Zelda too difficult, but you know, just in general. And I don’t remember the exact specifics of the story. I just kind of remember going through the city and like going up layer and layer of the city and just like the, every time you transitioned like into the beginning of the game, it was like a giant gate. Like, you"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-004-5",
+          "entity_id": "cq015:cq015-g004",
+          "title": "Faxanadu",
+          "game_refs": [
+            "cq015-g004"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUBSTANTIAL_COVERAGE",
+          "start": "Paragraph 10",
+          "end_exclusive": "Paragraph 11",
+          "reason": "Johnny's childhood game, box-color critique, recalled difficulty and planned replay; closing recommendation.",
+          "evidence": [
+            {
+              "location": "Paragraph 10",
+              "quote": "know, it was massive. It’s like three or four times the size of you and I felt like that was super impressive. Anyways, it was a really interesting game and it’s something that I know is on the virtual console now for at least the Wii and I think also maybe the Wii U, but I haven’t checked that out. Okay. And I just, I saw it the other day and I was just thinking again about how ugly that color is, but then remembering how much I liked playing the game. So I was like, I think this is going to be my game of the week where I sit down and go through it and see if it’s as hard as I remember, or if I can get through it relatively quickly. Yeah, I always like going back to a game I haven’t maybe played in a while and see if my opinion is the same of it or if it’s changed or I guess if I remember it the same way. Right. Yeah, I want to see, I want to see how much transferred over from like child brain to adult brain. Like, is it one of those things where you look back at it and go, oh my God, what was that? I mean, thank goodness"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-004-6",
+          "entity_id": "cq015:cq015-g004",
+          "title": "Faxanadu",
+          "game_refs": [
+            "cq015-g004"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 11",
+          "end_exclusive": "Paragraph 12",
+          "reason": "Johnny's childhood game, box-color critique, recalled difficulty and planned replay; closing recommendation.",
+          "evidence": [
+            {
+              "location": "Paragraph 11",
+              "quote": "I can make the excuse I was a child that I like this. Is it one of those issues or is it, you know, something that is going to prove to still be awesome today? Yeah, which is kind of neat. So I’ll be interested to hear if you want to play it again. You know, it still holds up or if you’re disappointed. Yeah, we’ll see. I mean, I think the game has relatively good, like, reviews of people who played it. I have had other people talk to me about it and say they enjoy it. So I’m imagining it’s going to be good. I would be curious to hear how other people feel about it. So, you know, chime in and let us know on that. Yeah, which is always good because I always like hearing if anybody, you know, really enjoyed it or maybe if they haven’t played it and they pick it up, it’ll be interesting to see what they think of it after playing it for the first time. Yeah, I want to, I would love to hear people’s impressions of this game. Yeah, interesting. Well, that’s a very good pick. I’m glad we both didn’t pick NES because it gives us a little bit of variety. Right. You went and picked Sega and"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-004-7",
+          "entity_id": "cq015:cq015-g004",
+          "title": "Faxanadu",
+          "game_refs": [
+            "cq015-g004"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 23",
+          "end_exclusive": "Paragraph 24",
+          "reason": "Johnny's childhood game, box-color critique, recalled difficulty and planned replay; closing recommendation.",
+          "evidence": [
+            {
+              "location": "Paragraph 23",
+              "quote": "It will be interesting to see what you continue to pick up in the next little while. Cause I know you’re, you’re getting closer. I am getting closer every day. All right. Well, that’s it for me. What do you have? Anything else? No, I think that’s, I think that’s good. Just if you haven’t played the games that we kind of spotlighted, definitely good ones to check out. And if you have played them, let us know if you liked them, if you didn’t like them, if you still like them now as much as you did when you were younger. Right. And remember, I know we said it in our last episode, but we have the SoCal video game, retro video game expo coming up here. We’ve posted about it, both and I, Kat and I have put out shout outs and we had a whole lot of episode dedicated to it. So be sure to check that out and come on down because I will be there and I’ll have hopefully some merchandise from the show, just like a banner and maybe some buttons to maybe hand out. So come and say hi and I’ll also have some stuff for sale. So if you’re looking for goods, which I’m assuming that’s why you would go to an"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-005-1",
+          "entity_id": "cq015:cq015-g005",
+          "title": "Dragon Slayer — series",
+          "game_refs": [
+            "cq015-g005"
+          ],
+          "entity_kind": "game_series",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 7",
+          "end_exclusive": "Paragraph 8",
+          "reason": "Johnny's reported family relationship; not independently verified series chronology.",
+          "evidence": [
+            {
+              "location": "Paragraph 7",
+              "quote": "box. I guess it’s supposed to look like the stone on a wall. It’s like this kind of not peach, but like this pale tan. It’s really ugly. I find the box to be like, every time I look at my game collection, just the top of it sticks out like this weird peachy color that it is. I’m like, but yeah, it almost looks kind of like marble-y, like really bad colored marble. It reminds me of like a 90s bathroom is what. Yes, but box color choices aside, no one gives a shit about that except me. It’s an excellent game. It’s really good. I got it as a child actually, and it’s still kind of under the radar. It’s not talked about. The game is kind of hard. It’s actually an RPG and I what I didn’t know about it is actually part of a series of games and it was part of the dragon slayer games. I think this was the second one released for him. And like you can find dragon slayer on Turbografx 16. So that’s where I know it from after the fact. I don’t know if dragon slayer has been released on any other systems, but it’s just a really fun game. It’s not very expensive. You can get it for, you"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-005-2",
+          "entity_id": "cq015:cq015-g005",
+          "title": "Dragon Slayer — series",
+          "game_refs": [
+            "cq015-g005"
+          ],
+          "entity_kind": "game_series",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 8",
+          "end_exclusive": "Paragraph 9",
+          "reason": "Johnny's reported family relationship; not independently verified series chronology.",
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "know, $15 if you’re just looking for the cart, like $35 if you want, like a complete copy. So it’s just, you know, it’s not that much. And then to tell you a little bit about the name, okay, because dragon slayer is a portmanteau. And if you don’t know what a portmanteau is, it’s when you take two words and you jam them together to form a new word. So in this case, it’s Famicom and Xanadu. And because this is part of the Xanadu series, so it’s Famicom Xanadu. So faxanadu. Yeah. Oh, interesting. I didn’t know that. It’s interesting to me right from a wiki page because I looked it up because I was like, what is this? Like obviously I know what Xanadu is and I wanted to know more about the series since I was going to talk about it today. I was like, oh, this is part of the dragon slayer. So I actually have dragon slayer on the TurboGrafx 16, but I’ve never played it. And now I want to go check that out too. So it kind of led me down a rabbit hole. Yeah. And what I found out is it has, you know, there’s, it took me a long time to beat it. I mean, I got it when it"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-006-1",
+          "entity_id": "cq015:cq015-g006",
+          "title": "Dragon Slayer — TurboGrafx 16 game as spoken",
+          "game_refs": [
+            "cq015-g006"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 7",
+          "end_exclusive": "Paragraph 8",
+          "reason": "Owned but unplayed Turbo title; exact installment unresolved.",
+          "evidence": [
+            {
+              "location": "Paragraph 7",
+              "quote": "box. I guess it’s supposed to look like the stone on a wall. It’s like this kind of not peach, but like this pale tan. It’s really ugly. I find the box to be like, every time I look at my game collection, just the top of it sticks out like this weird peachy color that it is. I’m like, but yeah, it almost looks kind of like marble-y, like really bad colored marble. It reminds me of like a 90s bathroom is what. Yes, but box color choices aside, no one gives a shit about that except me. It’s an excellent game. It’s really good. I got it as a child actually, and it’s still kind of under the radar. It’s not talked about. The game is kind of hard. It’s actually an RPG and I what I didn’t know about it is actually part of a series of games and it was part of the dragon slayer games. I think this was the second one released for him. And like you can find dragon slayer on Turbografx 16. So that’s where I know it from after the fact. I don’t know if dragon slayer has been released on any other systems, but it’s just a really fun game. It’s not very expensive. You can get it for, you"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-006-2",
+          "entity_id": "cq015:cq015-g006",
+          "title": "Dragon Slayer — TurboGrafx 16 game as spoken",
+          "game_refs": [
+            "cq015-g006"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 8",
+          "end_exclusive": "Paragraph 9",
+          "reason": "Owned but unplayed Turbo title; exact installment unresolved.",
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "know, $15 if you’re just looking for the cart, like $35 if you want, like a complete copy. So it’s just, you know, it’s not that much. And then to tell you a little bit about the name, okay, because dragon slayer is a portmanteau. And if you don’t know what a portmanteau is, it’s when you take two words and you jam them together to form a new word. So in this case, it’s Famicom and Xanadu. And because this is part of the Xanadu series, so it’s Famicom Xanadu. So faxanadu. Yeah. Oh, interesting. I didn’t know that. It’s interesting to me right from a wiki page because I looked it up because I was like, what is this? Like obviously I know what Xanadu is and I wanted to know more about the series since I was going to talk about it today. I was like, oh, this is part of the dragon slayer. So I actually have dragon slayer on the TurboGrafx 16, but I’ve never played it. And now I want to go check that out too. So it kind of led me down a rabbit hole. Yeah. And what I found out is it has, you know, there’s, it took me a long time to beat it. I mean, I got it when it"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-007-1",
+          "entity_id": "cq015:cq015-g007",
+          "title": "Xanadu — series as spoken",
+          "game_refs": [
+            "cq015-g007"
+          ],
+          "entity_kind": "game_series",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 8",
+          "end_exclusive": "Paragraph 9",
+          "reason": "Reported naming and family relationship; distinguish series from individual game.",
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "know, $15 if you’re just looking for the cart, like $35 if you want, like a complete copy. So it’s just, you know, it’s not that much. And then to tell you a little bit about the name, okay, because dragon slayer is a portmanteau. And if you don’t know what a portmanteau is, it’s when you take two words and you jam them together to form a new word. So in this case, it’s Famicom and Xanadu. And because this is part of the Xanadu series, so it’s Famicom Xanadu. So faxanadu. Yeah. Oh, interesting. I didn’t know that. It’s interesting to me right from a wiki page because I looked it up because I was like, what is this? Like obviously I know what Xanadu is and I wanted to know more about the series since I was going to talk about it today. I was like, oh, this is part of the dragon slayer. So I actually have dragon slayer on the TurboGrafx 16, but I’ve never played it. And now I want to go check that out too. So it kind of led me down a rabbit hole. Yeah. And what I found out is it has, you know, there’s, it took me a long time to beat it. I mean, I got it when it"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-008-1",
+          "entity_id": "cq015:cq015-g008",
+          "title": "The Legend of Zelda",
+          "game_refs": [
+            "cq015-g008"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 9",
+          "end_exclusive": "Paragraph 10",
+          "reason": "Exploration comparison, distinct from Zelda II combat/difficulty comparison.",
+          "evidence": [
+            {
+              "location": "Paragraph 9",
+              "quote": "came out in America, which was, I got it for a Christmas, I think in like 1989. So, you know, that doesn’t make me, I’m not even 10 years old. All right. Yeah. No, I’m 10. I’m like 10, 10 or 11 at that point. Right. So it’s pretty fun. But I’m still, I’m still young. I’m not fully mentally capable. I’m still a child playing games. And like it had some, like some messages and like some adventuring and like some clues that you had to follow. And I just remember being a kind of difficulty, like difficult that I wasn’t accustomed to. It wasn’t difficult like Zelda, which was like just explorations. Like you had to be, you had to explore like Zelda, but also be good at like kind of fighting stuff off because it was actually RPG. Kind of like Zelda too. So it proves to that kind of difficulty level, not the end of Zelda too difficult, but you know, just in general. And I don’t remember the exact specifics of the story. I just kind of remember going through the city and like going up layer and layer of the city and just like the, every time you transitioned like into the beginning of the game, it was like a giant gate. Like, you"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-009-1",
+          "entity_id": "cq015:cq015-g009",
+          "title": "Zelda II: The Adventure of Link",
+          "game_refs": [
+            "cq015-g009"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 9",
+          "end_exclusive": "Paragraph 10",
+          "reason": "Difficulty comparison, not current play or completion.",
+          "evidence": [
+            {
+              "location": "Paragraph 9",
+              "quote": "came out in America, which was, I got it for a Christmas, I think in like 1989. So, you know, that doesn’t make me, I’m not even 10 years old. All right. Yeah. No, I’m 10. I’m like 10, 10 or 11 at that point. Right. So it’s pretty fun. But I’m still, I’m still young. I’m not fully mentally capable. I’m still a child playing games. And like it had some, like some messages and like some adventuring and like some clues that you had to follow. And I just remember being a kind of difficulty, like difficult that I wasn’t accustomed to. It wasn’t difficult like Zelda, which was like just explorations. Like you had to be, you had to explore like Zelda, but also be good at like kind of fighting stuff off because it was actually RPG. Kind of like Zelda too. So it proves to that kind of difficulty level, not the end of Zelda too difficult, but you know, just in general. And I don’t remember the exact specifics of the story. I just kind of remember going through the city and like going up layer and layer of the city and just like the, every time you transitioned like into the beginning of the game, it was like a giant gate. Like, you"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-010-1",
+          "entity_id": "cq015:cq015-g010",
+          "title": "Shining Force — game/series discussion",
+          "game_refs": [
+            "cq015-g010"
+          ],
+          "entity_kind": "game_series",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 12",
+          "end_exclusive": "Paragraph 13",
+          "reason": "Future series-review idea; do not resolve installment or assert later episode exists.",
+          "evidence": [
+            {
+              "location": "Paragraph 12",
+              "quote": "alienated all those people who just love, no, I’m kidding. Yeah, it’s good to switch it up a little bit. I really did have to tear myself away from the NES shelf though. I did walk in and be like, I’m going to do an NES game spotlight. I was like, wait, there are other things in the game room. Yeah, I want to do that all the time except I look at the, every time I look at my Sega shelf, I just want to talk about Shining Force. That’s what I really want to, so maybe we’ll spot like that because I feel like, I still feel like that’s super underappreciated. Maybe we’ll do kind of like a series review of what that game looked like in America because what happened with that game is a tragedy. Well, that would be a very interesting kind of episode to follow through. Well, we’ll talk about that. So have you had any interesting pickups lately on another note of gaming? No, I haven’t had any interesting pickups. Let’s see. I’ve been buying a couple of Nintendo powers. Turns out I’m doing posts about Nintendo powers and I need to acquire them to do that. How’s that going so far? Oh, I got about a hundred. So, you know, I have"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-011-1",
+          "entity_id": "cq015:cq015-g011",
+          "title": "Nintendo Power",
+          "game_refs": [
+            "cq015-g011"
+          ],
+          "entity_kind": "periodical",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 12",
+          "end_exclusive": "Paragraph 13",
+          "reason": "Johnny buying magazine issues for posts; about one hundred already.",
+          "evidence": [
+            {
+              "location": "Paragraph 12",
+              "quote": "alienated all those people who just love, no, I’m kidding. Yeah, it’s good to switch it up a little bit. I really did have to tear myself away from the NES shelf though. I did walk in and be like, I’m going to do an NES game spotlight. I was like, wait, there are other things in the game room. Yeah, I want to do that all the time except I look at the, every time I look at my Sega shelf, I just want to talk about Shining Force. That’s what I really want to, so maybe we’ll spot like that because I feel like, I still feel like that’s super underappreciated. Maybe we’ll do kind of like a series review of what that game looked like in America because what happened with that game is a tragedy. Well, that would be a very interesting kind of episode to follow through. Well, we’ll talk about that. So have you had any interesting pickups lately on another note of gaming? No, I haven’t had any interesting pickups. Let’s see. I’ve been buying a couple of Nintendo powers. Turns out I’m doing posts about Nintendo powers and I need to acquire them to do that. How’s that going so far? Oh, I got about a hundred. So, you know, I have"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-012-1",
+          "entity_id": "cq015:cq015-g012",
+          "title": "Happily Ever After",
+          "game_refs": [
+            "cq015-g012"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUBSTANTIAL_COVERAGE",
+          "start": "Paragraph 13",
+          "end_exclusive": "Paragraph 14",
+          "reason": "Three parts purchased same day, still incoming; long watch-list return.",
+          "evidence": [
+            {
+              "location": "Paragraph 13",
+              "quote": "some leeway in getting some, but I also picked up a Super Nintendo game. It’s not even here yet, but I’m pretty excited about it. And I know this is going to sound weird, but it’s Snow White for the Super Nintendo. And the... And may I ask why you’re excited about it? Because it’s one of these weird games that I’ve tried to buy several times, but have not been successful. I got out of it on it, you know, just didn’t happen. Decided to wait for whatever reason. And now, now it’s finally coming to me. I found a... it’s called Happily Ever After, right? Okay. And these are like some of the filmation games. Like, I think it even says \"filmation presents\" on it. So it’s like a weird game. Like, there’s this brand of Super Nintendo games where they come from 80s cartoons and 90s cartoons and some of the filmation stuff that was out there. And usually they’re kind of expensive games. Like, this... it’s not exactly a cheap game. It’s over $50 every time you see it complete. And I bought it in three separate pieces. I found the box for $15. I got the manual for $10 and I got the cart for $12. So... and all within the same day. I don’t"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-012-2",
+          "entity_id": "cq015:cq015-g012",
+          "title": "Happily Ever After",
+          "game_refs": [
+            "cq015-g012"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 14",
+          "end_exclusive": "Paragraph 15",
+          "reason": "Three parts purchased same day, still incoming; long watch-list return.",
+          "evidence": [
+            {
+              "location": "Paragraph 14",
+              "quote": "know how it came together like that, but it did. So I’m excited. Now it was the right time. It was meant to be. And how many Super Nintendo games does that put you at now? Oh, uh, you know... You’re getting that, right? Over... Yeah, I’m getting there. I haven’t posted all of the ones I’ve picked up. So if you follow me for my SNES set collect, I haven’t updated the counter recently, so I have to decide whether I’m going to go through and post pictures of all of those games that I’ve picked up. A lot of them were bad sports titles. You know, some of them were good, but... or if I just need to do one post and to find out what it is. And get current. Well, you have time to figure it out. Yeah, I’ve got some time. What about you? Yeah, actually, it’s... I’m kind of looking back and I’m completing my 2016 goals totally friggin’ backwards. So this week, actually, the last few days have turned out to be really good. I ended up yesterday with a copy of Mega Man Soccer. Ooh, nice. Yeah, just the cart, unfortunately, but I’m still not complaining. I think I have the box for that. Oh, do you? I think so. I’ll look."
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-012-3",
+          "entity_id": "cq015:cq015-g012",
+          "title": "Happily Ever After",
+          "game_refs": [
+            "cq015-g012"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 21",
+          "end_exclusive": "Paragraph 22",
+          "reason": "Three parts purchased same day, still incoming; long watch-list return.",
+          "evidence": [
+            {
+              "location": "Paragraph 21",
+              "quote": "and it’d be nice not to spend any money other than, I think everything’s on free play other than my past to get in. You know, I won’t be spending any money on video games. So that’ll be a refreshing take to be around that many video games and not have the urge to buy them. That’s probably going to be a different feeling. Yeah. Yeah. I’m going to, I’ll feel like I’m in there as, you know, as like general populace, not like a weird collector who’s like has machinations upon getting these games. It’s just, just a normal person. Okay. So no like, you know, spreadsheets and I need this and this and this and you know, if you’re very organized self. Yeah. No checking the phone. Like no double checking prices. No negotiating. None of that. I just get to walk in and play games. Oh, well, that’s pretty awesome. Yeah. A couple of my friends are going. My other buddy who’s really into pinball machines is going. So we’re going to just go have a nice time. Awesome. It’ll be great. And by that time, Snow White will be here. So it’s, it’s all joy. I can’t wait for this. Snow White, I’m telling you, literally years it’s been on my watch list and for one"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-012-4",
+          "entity_id": "cq015:cq015-g012",
+          "title": "Happily Ever After",
+          "game_refs": [
+            "cq015-g012"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUBSTANTIAL_COVERAGE",
+          "start": "Paragraph 22",
+          "end_exclusive": "Paragraph 23",
+          "reason": "Three parts purchased same day, still incoming; long watch-list return.",
+          "evidence": [
+            {
+              "location": "Paragraph 22",
+              "quote": "reason or another, I’ve just been pushing it off. Oh, well then it’s good to finally get it. Yeah. And this is, this is not like, oh, I looked at it for like a month ago, literally four or five years. Like that’s, it’s a long time it’s been on my list. Like not like, oh, I need this game in the list of games, like games I’m actively trying to purchase. Okay. Yeah. And I’ve failed for this many years. Oh, well then it’s a good one to check off. It’s funny how sometimes games like that just kind of get missed. Yeah. And I mean, I could have probably bought it for half the price I’m paying now, but whatever, we’re getting it done as I march towards the end of this Super Nintendo purchasing. Oh, I got another exciting one coming in, but we’ll, we’ll wait on that. We’ll see if I complete it first before I bring it. Oh, so you’re going to keep us in suspense and wonder what it is. Yeah. Well, you’ll, you’ll know it because it’s, it’s kind of a biggie. I mean some, yeah, it’s kind of a biggie. That’s all I’ll say. If I get it, it’s kind of one, you know, not super big, but. Okay. Well, that’s awesome."
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-013-1",
+          "entity_id": "cq015:cq015-g013",
+          "title": "Mega Man Soccer",
+          "game_refs": [
+            "cq015-g013"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUBSTANTIAL_COVERAGE",
+          "start": "Paragraph 14",
+          "end_exclusive": "Paragraph 15",
+          "reason": "Kat's cart acquisition; Johnny's box tentative, manual affirmative.",
+          "evidence": [
+            {
+              "location": "Paragraph 14",
+              "quote": "know how it came together like that, but it did. So I’m excited. Now it was the right time. It was meant to be. And how many Super Nintendo games does that put you at now? Oh, uh, you know... You’re getting that, right? Over... Yeah, I’m getting there. I haven’t posted all of the ones I’ve picked up. So if you follow me for my SNES set collect, I haven’t updated the counter recently, so I have to decide whether I’m going to go through and post pictures of all of those games that I’ve picked up. A lot of them were bad sports titles. You know, some of them were good, but... or if I just need to do one post and to find out what it is. And get current. Well, you have time to figure it out. Yeah, I’ve got some time. What about you? Yeah, actually, it’s... I’m kind of looking back and I’m completing my 2016 goals totally friggin’ backwards. So this week, actually, the last few days have turned out to be really good. I ended up yesterday with a copy of Mega Man Soccer. Ooh, nice. Yeah, just the cart, unfortunately, but I’m still not complaining. I think I have the box for that. Oh, do you? I think so. I’ll look."
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-013-2",
+          "entity_id": "cq015:cq015-g013",
+          "title": "Mega Man Soccer",
+          "game_refs": [
+            "cq015-g013"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 15",
+          "end_exclusive": "Paragraph 16",
+          "reason": "Kat's cart acquisition; Johnny's box tentative, manual affirmative.",
+          "evidence": [
+            {
+              "location": "Paragraph 15",
+              "quote": "Yeah, let me know. I know I have the manual. I just priced out, you know, some 300 manuals for a gaming expo I’m going to. Oh, man, you’ve been busy. Yes. So that was an exciting find. I also picked up a Final Fantasy III box to complete with my Final Fantasy III cartridge. That’s a favorite of mine. Yeah. That’s a nice one. So really good and in fairly good condition. I kind of kicked myself in the butt because when I had sold off a lot of Super Nintendo stuff some time back, I had like the mintest copy of Final Fantasy III. Like it looks like it had never even been in somebody’s hands. So it’s in good shape, but it’s not perfect like that one, but still really glad to have that. And then my other pick up was Final Fantasy Adventure for Game Boy. Oh, so you’re just doing it? Yeah. So I’m like my first goal. Is that complete? Yes, that one is complete. So my first goal was to be able to get my N64 stuff sorted, but I’m just doing it all over the place. Okay. Well, you know, that’s why you got a whole year to do it. Yeah. We’re still early into the year. You’re not necessarily doing it"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-014-1",
+          "entity_id": "cq015:cq015-g014",
+          "title": "Final Fantasy III",
+          "game_refs": [
+            "cq015-g014"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUBSTANTIAL_COVERAGE",
+          "start": "Paragraph 15",
+          "end_exclusive": "Paragraph 16",
+          "reason": "Kat's acquired box/existing cart versus previously sold mint copy; missing-manual followup.",
+          "evidence": [
+            {
+              "location": "Paragraph 15",
+              "quote": "Yeah, let me know. I know I have the manual. I just priced out, you know, some 300 manuals for a gaming expo I’m going to. Oh, man, you’ve been busy. Yes. So that was an exciting find. I also picked up a Final Fantasy III box to complete with my Final Fantasy III cartridge. That’s a favorite of mine. Yeah. That’s a nice one. So really good and in fairly good condition. I kind of kicked myself in the butt because when I had sold off a lot of Super Nintendo stuff some time back, I had like the mintest copy of Final Fantasy III. Like it looks like it had never even been in somebody’s hands. So it’s in good shape, but it’s not perfect like that one, but still really glad to have that. And then my other pick up was Final Fantasy Adventure for Game Boy. Oh, so you’re just doing it? Yeah. So I’m like my first goal. Is that complete? Yes, that one is complete. So my first goal was to be able to get my N64 stuff sorted, but I’m just doing it all over the place. Okay. Well, you know, that’s why you got a whole year to do it. Yeah. We’re still early into the year. You’re not necessarily doing it"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-014-2",
+          "entity_id": "cq015:cq015-g014",
+          "title": "Final Fantasy III",
+          "game_refs": [
+            "cq015-g014"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUBSTANTIAL_COVERAGE",
+          "start": "Paragraph 16",
+          "end_exclusive": "Paragraph 17",
+          "reason": "Kat's acquired box/existing cart versus previously sold mint copy; missing-manual followup.",
+          "evidence": [
+            {
+              "location": "Paragraph 16",
+              "quote": "backwards. By the end of the month, you may look at this as just an anomaly and an otherwise consistently moving line. Yeah, exactly. And you know what? I had really great prices, so it was things that I felt like I just couldn’t let go. It was something I would kick myself in the butt and say, \"Oh, I should have bought that because it’s going to cost me more down the road.\" So I think having the flexibility with picking, you know, maybe like three, kind of three, four main goals, I still feel like I’m focused. I’m just doing it differently. Yeah. Value Trump’s goals. Yeah, exactly. And all good things to have in the collection. And yeah, so I’m happy with them. It seems like it’s been mainly Super Nintendo lately, but I am checking off the things I want to have for, you know, my select Super Nintendo game. So that makes me really happy. Well that is pretty exciting, especially because it’s Final Fantasy 3. Are you going to complete that one or are you just going to be content with the box and the card? I would like to complete it, but I’m okay, if not. Okay. Yeah, I’m okay, if not. Something tells me though, like I have a lot of manuals"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-014-3",
+          "entity_id": "cq015:cq015-g014",
+          "title": "Final Fantasy III",
+          "game_refs": [
+            "cq015-g014"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 17",
+          "end_exclusive": "Paragraph 18",
+          "reason": "Kat's acquired box/existing cart versus previously sold mint copy; missing-manual followup.",
+          "evidence": [
+            {
+              "location": "Paragraph 17",
+              "quote": "that are in the game room too, that I desperately need to go through. So I have actually no idea what’s in there. So who knows? Oh, well, you should take a look at this because if not, you know somebody who could use some Super Nintendo manual. Yes, that’s true. I really do have to go have a look through and see what’s laying around in there because I know there’s a lot of stuff and there’s no sense of it sitting in a box. Nope. I say that as I literally, and this is just the Nintendo manuals I got through. It’s like 300 and then there’s like 500 Genesis manuals. Oh my goodness. Yeah, a lot of them are doubles for Genesis and a lot of them are just terrible. I don’t even know if I want to like write them down or just like I know a good portion of the sports ones will just be like a dollar and I should just put them in a box and not worry about and be like the dollar box. Yes. Yeah. So, but I don’t know, I might spend the time typing it out because I’m anal retentive and I can’t help myself. Well, if you want to be organized like that, I mean, if that makes"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-015-1",
+          "entity_id": "cq015:cq015-g015",
+          "title": "Final Fantasy Adventure",
+          "game_refs": [
+            "cq015-g015"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 15",
+          "end_exclusive": "Paragraph 16",
+          "reason": "Kat's complete acquisition, not Final Fantasy III completion.",
+          "evidence": [
+            {
+              "location": "Paragraph 15",
+              "quote": "Yeah, let me know. I know I have the manual. I just priced out, you know, some 300 manuals for a gaming expo I’m going to. Oh, man, you’ve been busy. Yes. So that was an exciting find. I also picked up a Final Fantasy III box to complete with my Final Fantasy III cartridge. That’s a favorite of mine. Yeah. That’s a nice one. So really good and in fairly good condition. I kind of kicked myself in the butt because when I had sold off a lot of Super Nintendo stuff some time back, I had like the mintest copy of Final Fantasy III. Like it looks like it had never even been in somebody’s hands. So it’s in good shape, but it’s not perfect like that one, but still really glad to have that. And then my other pick up was Final Fantasy Adventure for Game Boy. Oh, so you’re just doing it? Yeah. So I’m like my first goal. Is that complete? Yes, that one is complete. So my first goal was to be able to get my N64 stuff sorted, but I’m just doing it all over the place. Okay. Well, you know, that’s why you got a whole year to do it. Yeah. We’re still early into the year. You’re not necessarily doing it"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-016-1",
+          "entity_id": "cq015:cq015-g016",
+          "title": "Mario & Luigi: Paper Jam",
+          "game_refs": [
+            "cq015-g016"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUBSTANTIAL_COVERAGE",
+          "start": "Paragraph 18",
+          "end_exclusive": "Paragraph 19",
+          "reason": "Kat anticipating release; future series replay plans, not current Paper Jam play.",
+          "evidence": [
+            {
+              "location": "Paragraph 18",
+              "quote": "you happy, then you just go for it. I don’t know if it makes me happy, but it lets me sleep at night. Well, that might be equally as beneficial because if you don’t sleep, I’m sure you’re not going to be very happy. Fair point. Yeah. So I think in a roundabout way, maybe it still works. I think so. Yeah. So what are you playing though? Have you made time to play any games this week? Not really, but I’m getting to the point where this coming week I’m going to have some time. So I’m kind of excited about something that is coming out on the 3DS. So what I’m playing before is it comes out is going to kind of lead up to that. So what I’m really excited for coming out is Mario and Luigi paper jam on the 3DS. So from what I’ve understood, unfortunately, it doesn’t come out here, of course, until the 22nd of January. It’s already Japan and Europe and places like that, but it’s going to be another one of the Mario and Luigi games, but with some elements and like character style from Paper Mario. So I think I’m going to try and kind of have a Paper Mario marathon and then maybe a Mario and Luigi marathon or"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-016-2",
+          "entity_id": "cq015:cq015-g016",
+          "title": "Mario & Luigi: Paper Jam",
+          "game_refs": [
+            "cq015-g016"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 19",
+          "end_exclusive": "Paragraph 20",
+          "reason": "Kat anticipating release; future series replay plans, not current Paper Jam play.",
+          "evidence": [
+            {
+              "location": "Paragraph 19",
+              "quote": "maybe pick some from each kind of series to kind of get excited for it. But I’m looking forward to it. I really tend to like the 3DS games because I can play them wherever I want to. I’m not necessarily. I don’t feel like sitting on the couch. I don’t have to feel like sitting on the couch and doing it. So I am looking forward to that. So I think that’s going to be my plan. So for the next little while, I’ve kind of got my games laid out. Well, that sounds pretty good to me. What about you? Are you playing anything or getting ready to play anything? I’m still playing pinball. Okay. Of course you are. Yeah, I’m still still playing a lot of pinball. And in fact, I’m going to a pinball expo. I think by the time this comes out, I’ll already be back from that. But yeah, I’m making a trip out to an expo for pinball games specifically to play because I love pinball. Okay. Well, that’s interesting. Will you be coming back with any large unforeseen purchases? No. Okay. See here. Yeah, that’s the thing. I own the one pinball machine I want to own. Well, I don’t want to say the one pinball machine I want to own. I"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-017-1",
+          "entity_id": "cq015:cq015-g017",
+          "title": "Mario & Luigi — series",
+          "game_refs": [
+            "cq015-g017"
+          ],
+          "entity_kind": "game_series",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 18",
+          "end_exclusive": "Paragraph 19",
+          "reason": "Proposed marathon or selected titles, not accomplished play.",
+          "evidence": [
+            {
+              "location": "Paragraph 18",
+              "quote": "you happy, then you just go for it. I don’t know if it makes me happy, but it lets me sleep at night. Well, that might be equally as beneficial because if you don’t sleep, I’m sure you’re not going to be very happy. Fair point. Yeah. So I think in a roundabout way, maybe it still works. I think so. Yeah. So what are you playing though? Have you made time to play any games this week? Not really, but I’m getting to the point where this coming week I’m going to have some time. So I’m kind of excited about something that is coming out on the 3DS. So what I’m playing before is it comes out is going to kind of lead up to that. So what I’m really excited for coming out is Mario and Luigi paper jam on the 3DS. So from what I’ve understood, unfortunately, it doesn’t come out here, of course, until the 22nd of January. It’s already Japan and Europe and places like that, but it’s going to be another one of the Mario and Luigi games, but with some elements and like character style from Paper Mario. So I think I’m going to try and kind of have a Paper Mario marathon and then maybe a Mario and Luigi marathon or"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-017-2",
+          "entity_id": "cq015:cq015-g017",
+          "title": "Mario & Luigi — series",
+          "game_refs": [
+            "cq015-g017"
+          ],
+          "entity_kind": "game_series",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 19",
+          "end_exclusive": "Paragraph 20",
+          "reason": "Proposed marathon or selected titles, not accomplished play.",
+          "evidence": [
+            {
+              "location": "Paragraph 19",
+              "quote": "maybe pick some from each kind of series to kind of get excited for it. But I’m looking forward to it. I really tend to like the 3DS games because I can play them wherever I want to. I’m not necessarily. I don’t feel like sitting on the couch. I don’t have to feel like sitting on the couch and doing it. So I am looking forward to that. So I think that’s going to be my plan. So for the next little while, I’ve kind of got my games laid out. Well, that sounds pretty good to me. What about you? Are you playing anything or getting ready to play anything? I’m still playing pinball. Okay. Of course you are. Yeah, I’m still still playing a lot of pinball. And in fact, I’m going to a pinball expo. I think by the time this comes out, I’ll already be back from that. But yeah, I’m making a trip out to an expo for pinball games specifically to play because I love pinball. Okay. Well, that’s interesting. Will you be coming back with any large unforeseen purchases? No. Okay. See here. Yeah, that’s the thing. I own the one pinball machine I want to own. Well, I don’t want to say the one pinball machine I want to own. I"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-018-1",
+          "entity_id": "cq015:cq015-g018",
+          "title": "Paper Mario — series",
+          "game_refs": [
+            "cq015-g018"
+          ],
+          "entity_kind": "game_series",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 18",
+          "end_exclusive": "Paragraph 19",
+          "reason": "Style comparison and proposed marathon, no installment specified.",
+          "evidence": [
+            {
+              "location": "Paragraph 18",
+              "quote": "you happy, then you just go for it. I don’t know if it makes me happy, but it lets me sleep at night. Well, that might be equally as beneficial because if you don’t sleep, I’m sure you’re not going to be very happy. Fair point. Yeah. So I think in a roundabout way, maybe it still works. I think so. Yeah. So what are you playing though? Have you made time to play any games this week? Not really, but I’m getting to the point where this coming week I’m going to have some time. So I’m kind of excited about something that is coming out on the 3DS. So what I’m playing before is it comes out is going to kind of lead up to that. So what I’m really excited for coming out is Mario and Luigi paper jam on the 3DS. So from what I’ve understood, unfortunately, it doesn’t come out here, of course, until the 22nd of January. It’s already Japan and Europe and places like that, but it’s going to be another one of the Mario and Luigi games, but with some elements and like character style from Paper Mario. So I think I’m going to try and kind of have a Paper Mario marathon and then maybe a Mario and Luigi marathon or"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-018-2",
+          "entity_id": "cq015:cq015-g018",
+          "title": "Paper Mario — series",
+          "game_refs": [
+            "cq015-g018"
+          ],
+          "entity_kind": "game_series",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 19",
+          "end_exclusive": "Paragraph 20",
+          "reason": "Style comparison and proposed marathon, no installment specified.",
+          "evidence": [
+            {
+              "location": "Paragraph 19",
+              "quote": "maybe pick some from each kind of series to kind of get excited for it. But I’m looking forward to it. I really tend to like the 3DS games because I can play them wherever I want to. I’m not necessarily. I don’t feel like sitting on the couch. I don’t have to feel like sitting on the couch and doing it. So I am looking forward to that. So I think that’s going to be my plan. So for the next little while, I’ve kind of got my games laid out. Well, that sounds pretty good to me. What about you? Are you playing anything or getting ready to play anything? I’m still playing pinball. Okay. Of course you are. Yeah, I’m still still playing a lot of pinball. And in fact, I’m going to a pinball expo. I think by the time this comes out, I’ll already be back from that. But yeah, I’m making a trip out to an expo for pinball games specifically to play because I love pinball. Okay. Well, that’s interesting. Will you be coming back with any large unforeseen purchases? No. Okay. See here. Yeah, that’s the thing. I own the one pinball machine I want to own. Well, I don’t want to say the one pinball machine I want to own. I"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-019-1",
+          "entity_id": "cq015:cq015-g019",
+          "title": "Batman pinball — physical machine",
+          "game_refs": [
+            "cq015-g019"
+          ],
+          "entity_kind": "physical_pinball",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 19",
+          "end_exclusive": "Paragraph 20",
+          "reason": "Johnny's owned machine praised for art, not best gameplay; exact table unresolved.",
+          "evidence": [
+            {
+              "location": "Paragraph 19",
+              "quote": "maybe pick some from each kind of series to kind of get excited for it. But I’m looking forward to it. I really tend to like the 3DS games because I can play them wherever I want to. I’m not necessarily. I don’t feel like sitting on the couch. I don’t have to feel like sitting on the couch and doing it. So I am looking forward to that. So I think that’s going to be my plan. So for the next little while, I’ve kind of got my games laid out. Well, that sounds pretty good to me. What about you? Are you playing anything or getting ready to play anything? I’m still playing pinball. Okay. Of course you are. Yeah, I’m still still playing a lot of pinball. And in fact, I’m going to a pinball expo. I think by the time this comes out, I’ll already be back from that. But yeah, I’m making a trip out to an expo for pinball games specifically to play because I love pinball. Okay. Well, that’s interesting. Will you be coming back with any large unforeseen purchases? No. Okay. See here. Yeah, that’s the thing. I own the one pinball machine I want to own. Well, I don’t want to say the one pinball machine I want to own. I"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-019-2",
+          "entity_id": "cq015:cq015-g019",
+          "title": "Batman pinball — physical machine",
+          "game_refs": [
+            "cq015-g019"
+          ],
+          "entity_kind": "physical_pinball",
+          "role": "SUBSTANTIAL_COVERAGE",
+          "start": "Paragraph 20",
+          "end_exclusive": "Paragraph 21",
+          "reason": "Johnny's owned machine praised for art, not best gameplay; exact table unresolved.",
+          "evidence": [
+            {
+              "location": "Paragraph 20",
+              "quote": "own a pinball machine I like very much. It’s the Batman pinball. It’s not the best pinball machine as far as gameplay goes or complexity or anything like that. It’s pretty basic, but I also love Batman. And as an art piece, I like it a whole lot. Okay. Yeah. I think it’s beautiful. It’s my favorite looking pinball machine. But what I really want is a virtual pin. As I’ve expressed, I want one and I want to play all these games on a virtual table. I’ve always liked virtual pinball. I’ve got pinball games on the Genesis that I really like that I’ve been imported. I played through a bunch of the ones on PlayStation 1. So this is something that is not uncommon for me to do. Now if I can get this virtual pinball machine and play a lot of the classic tables, that would be really sweet. And this one, the one I want is actually like a mini one. So it’s not even full size. You can actually, I can actually pack it up and put it away. It’s like 35 pounds and about the third the size of a regular table. Oh, very neat. So I guess your prep is more for going to the sex building. Yep. That’s, that’s it. I won’t,"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-020-1",
+          "entity_id": "cq015:cq015-g020",
+          "title": "Virtual pinball mini cabinet — unspecified",
+          "game_refs": [
+            "cq015-g020"
+          ],
+          "entity_kind": "hardware",
+          "role": "SUBSTANTIAL_COVERAGE",
+          "start": "Paragraph 20",
+          "end_exclusive": "Paragraph 21",
+          "reason": "Johnny wants small virtual cabinet, not purchased or received; specs reported wishes.",
+          "evidence": [
+            {
+              "location": "Paragraph 20",
+              "quote": "own a pinball machine I like very much. It’s the Batman pinball. It’s not the best pinball machine as far as gameplay goes or complexity or anything like that. It’s pretty basic, but I also love Batman. And as an art piece, I like it a whole lot. Okay. Yeah. I think it’s beautiful. It’s my favorite looking pinball machine. But what I really want is a virtual pin. As I’ve expressed, I want one and I want to play all these games on a virtual table. I’ve always liked virtual pinball. I’ve got pinball games on the Genesis that I really like that I’ve been imported. I played through a bunch of the ones on PlayStation 1. So this is something that is not uncommon for me to do. Now if I can get this virtual pinball machine and play a lot of the classic tables, that would be really sweet. And this one, the one I want is actually like a mini one. So it’s not even full size. You can actually, I can actually pack it up and put it away. It’s like 35 pounds and about the third the size of a regular table. Oh, very neat. So I guess your prep is more for going to the sex building. Yep. That’s, that’s it. I won’t,"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-021-1",
+          "entity_id": "cq015:cq015-g021",
+          "title": "Unnamed Genesis pinball games",
+          "game_refs": [
+            "cq015-g021"
+          ],
+          "entity_kind": "game_collection",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 20",
+          "end_exclusive": "Paragraph 21",
+          "reason": "Existing imported games liked by Johnny; no specific titles inferred.",
+          "evidence": [
+            {
+              "location": "Paragraph 20",
+              "quote": "own a pinball machine I like very much. It’s the Batman pinball. It’s not the best pinball machine as far as gameplay goes or complexity or anything like that. It’s pretty basic, but I also love Batman. And as an art piece, I like it a whole lot. Okay. Yeah. I think it’s beautiful. It’s my favorite looking pinball machine. But what I really want is a virtual pin. As I’ve expressed, I want one and I want to play all these games on a virtual table. I’ve always liked virtual pinball. I’ve got pinball games on the Genesis that I really like that I’ve been imported. I played through a bunch of the ones on PlayStation 1. So this is something that is not uncommon for me to do. Now if I can get this virtual pinball machine and play a lot of the classic tables, that would be really sweet. And this one, the one I want is actually like a mini one. So it’s not even full size. You can actually, I can actually pack it up and put it away. It’s like 35 pounds and about the third the size of a regular table. Oh, very neat. So I guess your prep is more for going to the sex building. Yep. That’s, that’s it. I won’t,"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-022-1",
+          "entity_id": "cq015:cq015-g022",
+          "title": "Unnamed PlayStation pinball games",
+          "game_refs": [
+            "cq015-g022"
+          ],
+          "entity_kind": "game_collection",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 20",
+          "end_exclusive": "Paragraph 21",
+          "reason": "Johnny says played several, titles unspecified.",
+          "evidence": [
+            {
+              "location": "Paragraph 20",
+              "quote": "own a pinball machine I like very much. It’s the Batman pinball. It’s not the best pinball machine as far as gameplay goes or complexity or anything like that. It’s pretty basic, but I also love Batman. And as an art piece, I like it a whole lot. Okay. Yeah. I think it’s beautiful. It’s my favorite looking pinball machine. But what I really want is a virtual pin. As I’ve expressed, I want one and I want to play all these games on a virtual table. I’ve always liked virtual pinball. I’ve got pinball games on the Genesis that I really like that I’ve been imported. I played through a bunch of the ones on PlayStation 1. So this is something that is not uncommon for me to do. Now if I can get this virtual pinball machine and play a lot of the classic tables, that would be really sweet. And this one, the one I want is actually like a mini one. So it’s not even full size. You can actually, I can actually pack it up and put it away. It’s like 35 pounds and about the third the size of a regular table. Oh, very neat. So I guess your prep is more for going to the sex building. Yep. That’s, that’s it. I won’t,"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-023-1",
+          "entity_id": "cq015:cq015-g023",
+          "title": "Unnamed incoming Super Nintendo acquisition",
+          "game_refs": [
+            "cq015-g023"
+          ],
+          "entity_kind": "unresolved_item",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 22",
+          "end_exclusive": "Paragraph 23",
+          "reason": "Teased future completion conditional; no identity or delivery inferred.",
+          "evidence": [
+            {
+              "location": "Paragraph 22",
+              "quote": "reason or another, I’ve just been pushing it off. Oh, well then it’s good to finally get it. Yeah. And this is, this is not like, oh, I looked at it for like a month ago, literally four or five years. Like that’s, it’s a long time it’s been on my list. Like not like, oh, I need this game in the list of games, like games I’m actively trying to purchase. Okay. Yeah. And I’ve failed for this many years. Oh, well then it’s a good one to check off. It’s funny how sometimes games like that just kind of get missed. Yeah. And I mean, I could have probably bought it for half the price I’m paying now, but whatever, we’re getting it done as I march towards the end of this Super Nintendo purchasing. Oh, I got another exciting one coming in, but we’ll, we’ll wait on that. We’ll see if I complete it first before I bring it. Oh, so you’re going to keep us in suspense and wonder what it is. Yeah. Well, you’ll, you’ll know it because it’s, it’s kind of a biggie. I mean some, yeah, it’s kind of a biggie. That’s all I’ll say. If I get it, it’s kind of one, you know, not super big, but. Okay. Well, that’s awesome."
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-024-1",
+          "entity_id": "cq015:cq015-g024",
+          "title": "SoCal Retro Gaming Expo",
+          "game_refs": [
+            "cq015-g024"
+          ],
+          "entity_kind": "event",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 23",
+          "end_exclusive": "Paragraph 24",
+          "reason": "Dated attendance/vending promotion; related prior interview not replay of named games.",
+          "evidence": [
+            {
+              "location": "Paragraph 23",
+              "quote": "It will be interesting to see what you continue to pick up in the next little while. Cause I know you’re, you’re getting closer. I am getting closer every day. All right. Well, that’s it for me. What do you have? Anything else? No, I think that’s, I think that’s good. Just if you haven’t played the games that we kind of spotlighted, definitely good ones to check out. And if you have played them, let us know if you liked them, if you didn’t like them, if you still like them now as much as you did when you were younger. Right. And remember, I know we said it in our last episode, but we have the SoCal video game, retro video game expo coming up here. We’ve posted about it, both and I, Kat and I have put out shout outs and we had a whole lot of episode dedicated to it. So be sure to check that out and come on down because I will be there and I’ll have hopefully some merchandise from the show, just like a banner and maybe some buttons to maybe hand out. So come and say hi and I’ll also have some stuff for sale. So if you’re looking for goods, which I’m assuming that’s why you would go to an"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-024-2",
+          "entity_id": "cq015:cq015-g024",
+          "title": "SoCal Retro Gaming Expo",
+          "game_refs": [
+            "cq015-g024"
+          ],
+          "entity_kind": "event",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 24",
+          "end_exclusive": "END",
+          "reason": "Dated attendance/vending promotion; related prior interview not replay of named games.",
+          "evidence": [
+            {
+              "location": "Paragraph 24",
+              "quote": "expo to buy games, I will be there. Okay. Follow us on Instagram. I’m Johnny underscore IUG that’s G-O-H-N-N-Y underscore IUCCI and Kat. I’m Kat Silvania, K-A-T-F-E-L-V-A-N-I-A. Thanks for listening everyone. Good night. [creepy music] [roar] [creepy music] [creepy music] [creepy music] [creepy music] [creepy music] [creepy music] [creepy music] [creepy music] [creepy music] [creepy music] [creepy music] [creepy music] [BLANK_AUDIO]"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-025-1",
+          "entity_id": "cq015:cq015-g025",
+          "title": "Unnamed pinball expo",
+          "game_refs": [
+            "cq015-g025"
+          ],
+          "entity_kind": "event",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 19",
+          "end_exclusive": "Paragraph 20",
+          "reason": "Johnny intends playing with friends, no table-buying expedition.",
+          "evidence": [
+            {
+              "location": "Paragraph 19",
+              "quote": "maybe pick some from each kind of series to kind of get excited for it. But I’m looking forward to it. I really tend to like the 3DS games because I can play them wherever I want to. I’m not necessarily. I don’t feel like sitting on the couch. I don’t have to feel like sitting on the couch and doing it. So I am looking forward to that. So I think that’s going to be my plan. So for the next little while, I’ve kind of got my games laid out. Well, that sounds pretty good to me. What about you? Are you playing anything or getting ready to play anything? I’m still playing pinball. Okay. Of course you are. Yeah, I’m still still playing a lot of pinball. And in fact, I’m going to a pinball expo. I think by the time this comes out, I’ll already be back from that. But yeah, I’m making a trip out to an expo for pinball games specifically to play because I love pinball. Okay. Well, that’s interesting. Will you be coming back with any large unforeseen purchases? No. Okay. See here. Yeah, that’s the thing. I own the one pinball machine I want to own. Well, I don’t want to say the one pinball machine I want to own. I"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-025-2",
+          "entity_id": "cq015:cq015-g025",
+          "title": "Unnamed pinball expo",
+          "game_refs": [
+            "cq015-g025"
+          ],
+          "entity_kind": "event",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 20",
+          "end_exclusive": "Paragraph 21",
+          "reason": "Johnny intends playing with friends, no table-buying expedition.",
+          "evidence": [
+            {
+              "location": "Paragraph 20",
+              "quote": "own a pinball machine I like very much. It’s the Batman pinball. It’s not the best pinball machine as far as gameplay goes or complexity or anything like that. It’s pretty basic, but I also love Batman. And as an art piece, I like it a whole lot. Okay. Yeah. I think it’s beautiful. It’s my favorite looking pinball machine. But what I really want is a virtual pin. As I’ve expressed, I want one and I want to play all these games on a virtual table. I’ve always liked virtual pinball. I’ve got pinball games on the Genesis that I really like that I’ve been imported. I played through a bunch of the ones on PlayStation 1. So this is something that is not uncommon for me to do. Now if I can get this virtual pinball machine and play a lot of the classic tables, that would be really sweet. And this one, the one I want is actually like a mini one. So it’s not even full size. You can actually, I can actually pack it up and put it away. It’s like 35 pounds and about the third the size of a regular table. Oh, very neat. So I guess your prep is more for going to the sex building. Yep. That’s, that’s it. I won’t,"
+            }
+          ]
+        },
+        {
+          "id": "cq015-span-025-3",
+          "entity_id": "cq015:cq015-g025",
+          "title": "Unnamed pinball expo",
+          "game_refs": [
+            "cq015-g025"
+          ],
+          "entity_kind": "event",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 21",
+          "end_exclusive": "Paragraph 22",
+          "reason": "Johnny intends playing with friends, no table-buying expedition.",
+          "evidence": [
+            {
+              "location": "Paragraph 21",
+              "quote": "and it’d be nice not to spend any money other than, I think everything’s on free play other than my past to get in. You know, I won’t be spending any money on video games. So that’ll be a refreshing take to be around that many video games and not have the urge to buy them. That’s probably going to be a different feeling. Yeah. Yeah. I’m going to, I’ll feel like I’m in there as, you know, as like general populace, not like a weird collector who’s like has machinations upon getting these games. It’s just, just a normal person. Okay. So no like, you know, spreadsheets and I need this and this and this and you know, if you’re very organized self. Yeah. No checking the phone. Like no double checking prices. No negotiating. None of that. I just get to walk in and play games. Oh, well, that’s pretty awesome. Yeah. A couple of my friends are going. My other buddy who’s really into pinball machines is going. So we’re going to just go have a nice time. Awesome. It’ll be great. And by that time, Snow White will be here. So it’s, it’s all joy. I can’t wait for this. Snow White, I’m telling you, literally years it’s been on my watch list and for one"
+            }
+          ]
+        }
+      ],
+      "section_accounting": [
+        {
+          "location": "Paragraph 1",
+          "status": "read_and_accounted",
+          "summary": "Opening Kat and Johnny; weather chat, no game reference."
+        },
+        {
+          "location": "Paragraph 2",
+          "status": "read_and_accounted",
+          "summary": "Kat explains Sega choice despite Nintendo-leaning collection; quiet title-wise."
+        },
+        {
+          "location": "Paragraph 3",
+          "status": "read_and_accounted",
+          "summary": "Comix Zone comic panels, two-page levels, dialogue and remembered difficulty."
+        },
+        {
+          "location": "Paragraph 4",
+          "status": "read_and_accounted",
+          "summary": "Comix story/puzzles, genre and Canadian cart-price report."
+        },
+        {
+          "location": "Paragraph 5",
+          "status": "read_and_accounted",
+          "summary": "Comix box/CD completeness, Kat missing CD, Johnny's sealed CD-or-package referent ambiguous; Shaq Fu example."
+        },
+        {
+          "location": "Paragraph 6",
+          "status": "read_and_accounted",
+          "summary": "Comix endings and shared positive play assessment; transition to Faxanadu."
+        },
+        {
+          "location": "Paragraph 7",
+          "status": "read_and_accounted",
+          "summary": "Faxanadu box color, childhood receipt and Dragon Slayer family/Turbo comparison."
+        },
+        {
+          "location": "Paragraph 8",
+          "status": "read_and_accounted",
+          "summary": "Name etymology and series report, unplayed owned Turbo game, childhood completion."
+        },
+        {
+          "location": "Paragraph 9",
+          "status": "read_and_accounted",
+          "summary": "Christmas/age correction, Faxanadu difficulty, Zelda/Zelda II comparison."
+        },
+        {
+          "location": "Paragraph 10",
+          "status": "read_and_accounted",
+          "summary": "Faxanadu gate memory and planned replay; uncertain Virtual Console platforms."
+        },
+        {
+          "location": "Paragraph 11",
+          "status": "read_and_accounted",
+          "summary": "Replay expectations and listener request, no new completed play."
+        },
+        {
+          "location": "Paragraph 12",
+          "status": "read_and_accounted",
+          "summary": "Shining Force series-review proposal; Nintendo Power buying and roughly 100 issues."
+        },
+        {
+          "location": "Paragraph 13",
+          "status": "read_and_accounted",
+          "summary": "Snow White/Happily Ever After incoming three-part purchase at separate prices."
+        },
+        {
+          "location": "Paragraph 14",
+          "status": "read_and_accounted",
+          "summary": "Snow White count not supplied; Kat Mega Man Soccer cart, Johnny tentative box."
+        },
+        {
+          "location": "Paragraph 15",
+          "status": "read_and_accounted",
+          "summary": "Mega Man manual, Kat FFIII replacement box and past sale; complete FFAdventure."
+        },
+        {
+          "location": "Paragraph 16",
+          "status": "read_and_accounted",
+          "summary": "Flexible goals, FFIII manual wanted; current copy not yet complete."
+        },
+        {
+          "location": "Paragraph 17",
+          "status": "read_and_accounted",
+          "summary": "Unsorted manuals and expo stock, FFIII manual possibility unresolved."
+        },
+        {
+          "location": "Paragraph 18",
+          "status": "read_and_accounted",
+          "summary": "Kat Paper Jam anticipation and proposed Mario/Paper series marathons."
+        },
+        {
+          "location": "Paragraph 19",
+          "status": "read_and_accounted",
+          "summary": "Future play plan; Johnny pinball expo intent and ownership wording begins."
+        },
+        {
+          "location": "Paragraph 20",
+          "status": "read_and_accounted",
+          "summary": "Batman physical art preference, virtual cabinet want, unnamed Genesis/PS1 pinball experience."
+        },
+        {
+          "location": "Paragraph 21",
+          "status": "read_and_accounted",
+          "summary": "Pinball free-play plan without shopping; Snow White expected arrival, not receipt."
+        },
+        {
+          "location": "Paragraph 22",
+          "status": "read_and_accounted",
+          "summary": "Long Snow White watch-list return; another unnamed conditional incoming acquisition."
+        },
+        {
+          "location": "Paragraph 23",
+          "status": "read_and_accounted",
+          "summary": "Closing spotlight recommendations and prior expo episode/promotion."
+        },
+        {
+          "location": "Paragraph 24",
+          "status": "read_and_accounted",
+          "summary": "Expo vending/handles/signoff/music; no new named games."
+        }
+      ],
+      "span_review": {
+        "paragraphs_read": 24,
+        "existing_game_ids_represented": 25,
+        "new_reference_ids": 0,
+        "method": "Source-first frozen list, then same-agent comparison and exact evidence review."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "cq015-action-001",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Sega collection",
+      "action_state": "owned",
+      "summary": "Has a fair amount of Sega despite leaning Nintendo.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Kat",
+      "reporter": "Kat",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 2",
+          "quote": "I do have a fair amount of Sega in my collection"
+        }
+      ]
+    },
+    {
+      "id": "cq015-action-002",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Comix Zone",
+      "action_state": "played",
+      "summary": "Still likes playing, finds it hard; completion not stated.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Kat",
+      "reporter": "Kat",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "one that I still like playing"
+        },
+        {
+          "location": "Paragraph 3",
+          "quote": "I still find it hard today"
+        }
+      ]
+    },
+    {
+      "id": "cq015-action-003",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Comix Zone boxed copy",
+      "action_state": "owned",
+      "summary": "Owns box version but lacks bonus CD.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Kat",
+      "reporter": "Kat",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 5",
+          "quote": "I don’t have the bonus CD in my box version"
+        }
+      ]
+    },
+    {
+      "id": "cq015-action-004",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Comix Zone bonus CD",
+      "action_state": "wanted",
+      "summary": "Seeking CD for completeness; never heard it.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Kat",
+      "reporter": "Kat",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 5",
+          "quote": "I’ve been trying to track one down"
+        },
+        {
+          "location": "Paragraph 5",
+          "quote": "I’ve never heard the CD"
+        }
+      ]
+    },
+    {
+      "id": "cq015-action-005",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Comix Zone bonus CD / sealed item",
+      "action_state": "owned",
+      "summary": "Says mine is sealed in CD discussion; sealed object referent may be CD or package, do not assert entire sealed game.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Johnny",
+      "reporter": "Johnny",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 5",
+          "quote": "Mine is sealed and I have not heard it either"
+        }
+      ],
+      "ownership_scope": "Sealed item in CD discussion; exact sealed package unresolved"
+    },
+    {
+      "id": "cq015-action-006",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Comix Zone",
+      "action_state": "played",
+      "summary": "Reports played, fun and hard, no completed ending stated.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Johnny",
+      "reporter": "Johnny",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 6",
+          "quote": "I’ve played it. It is a fun game"
+        }
+      ]
+    },
+    {
+      "id": "cq015-action-007",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Faxanadu",
+      "action_state": "received",
+      "summary": "Recalls childhood Christmas acquisition around 1989, approximate date and age.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Johnny",
+      "reporter": "Johnny",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 7",
+          "quote": "I got it as a child"
+        },
+        {
+          "location": "Paragraph 9",
+          "quote": "I got it for a Christmas, I think in like 1989"
+        }
+      ]
+    },
+    {
+      "id": "cq015-action-008",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Faxanadu",
+      "action_state": "owned",
+      "summary": "Describes box visible in current collection.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Johnny",
+      "reporter": "Johnny",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 7",
+          "quote": "every time I look at my game collection, just the top of it sticks out"
+        }
+      ]
+    },
+    {
+      "id": "cq015-action-009",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Faxanadu",
+      "action_state": "played",
+      "summary": "Childhood completion took a long time; current replay not yet done.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Johnny",
+      "reporter": "Johnny",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 8",
+          "quote": "it took me a long time to beat it"
+        }
+      ],
+      "completion": "completed_historically"
+    },
+    {
+      "id": "cq015-action-010",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Faxanadu",
+      "action_state": "wanted",
+      "summary": "Plans to replay this week and reassess childhood difficulty.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Johnny",
+      "reporter": "Johnny",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 10",
+          "quote": "my game of the week where I sit down and go through it"
+        }
+      ],
+      "intent": "replay"
+    },
+    {
+      "id": "cq015-action-011",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Dragon Slayer — TurboGrafx 16 title",
+      "action_state": "owned",
+      "summary": "Owns game identified only by raw family/title label; explicitly never played.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Johnny",
+      "reporter": "Johnny",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 8",
+          "quote": "I actually have dragon slayer on the TurboGrafx 16, but I’ve never played it"
+        }
+      ]
+    },
+    {
+      "id": "cq015-action-012",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Dragon Slayer — TurboGrafx 16 title",
+      "action_state": "wanted",
+      "summary": "Research prompted wish to check out unplayed owned game.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Johnny",
+      "reporter": "Johnny",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 8",
+          "quote": "now I want to go check that out too"
+        }
+      ],
+      "intent": "play"
+    },
+    {
+      "id": "cq015-action-013",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Nintendo Power issues",
+      "action_state": "purchased",
+      "summary": "Buying issues for posts; no complete magazine set asserted.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Johnny",
+      "reporter": "Johnny",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 12",
+          "quote": "I’ve been buying a couple of Nintendo powers"
+        }
+      ]
+    },
+    {
+      "id": "cq015-action-014",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Nintendo Power issues",
+      "action_state": "owned",
+      "summary": "Reports about one hundred issues.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Johnny",
+      "reporter": "Johnny",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 12",
+          "quote": "I got about a hundred"
+        }
+      ]
+    },
+    {
+      "id": "cq015-action-015",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Happily Ever After box",
+      "action_state": "purchased",
+      "summary": "Bought box for $15 same day as other parts; still incoming.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Johnny",
+      "reporter": "Johnny",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 13",
+          "quote": "I found the box for $15"
+        },
+        {
+          "location": "Paragraph 13",
+          "quote": "It’s not even here yet"
+        }
+      ]
+    },
+    {
+      "id": "cq015-action-016",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Happily Ever After manual",
+      "action_state": "purchased",
+      "summary": "Bought manual for $10; no delivery established.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Johnny",
+      "reporter": "Johnny",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 13",
+          "quote": "I got the manual for $10"
+        },
+        {
+          "location": "Paragraph 13",
+          "quote": "It’s not even here yet"
+        }
+      ]
+    },
+    {
+      "id": "cq015-action-017",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Happily Ever After cartridge",
+      "action_state": "purchased",
+      "summary": "Bought cart for $12; all parts total $37 before unstated shipping/tax, not full delivered-cost claim.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Johnny",
+      "reporter": "Johnny",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 13",
+          "quote": "I got the cart for $12"
+        },
+        {
+          "location": "Paragraph 13",
+          "quote": "all within the same day"
+        }
+      ]
+    },
+    {
+      "id": "cq015-action-018",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Happily Ever After",
+      "action_state": "ordered",
+      "summary": "Purchased parts incoming, expected after expo; no receipt yet.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Johnny",
+      "reporter": "Johnny",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 13",
+          "quote": "It’s not even here yet"
+        },
+        {
+          "location": "Paragraph 21",
+          "quote": "by that time, Snow White will be here"
+        }
+      ]
+    },
+    {
+      "id": "cq015-action-019",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Mega Man Soccer cartridge",
+      "action_state": "received",
+      "summary": "Got cart yesterday; boxed completeness not inferred.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Kat",
+      "reporter": "Kat",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 14",
+          "quote": "I ended up yesterday with a copy of Mega Man Soccer"
+        },
+        {
+          "location": "Paragraph 14",
+          "quote": "just the cart"
+        }
+      ]
+    },
+    {
+      "id": "cq015-action-020",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Mega Man Soccer box",
+      "action_state": "mentioned",
+      "summary": "Thinks he has box and will look; uncertain ownership, no transfer promise fulfilled.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Johnny",
+      "reporter": "Johnny",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 14",
+          "quote": "I think I have the box for that"
+        },
+        {
+          "location": "Paragraph 14",
+          "quote": "I think so. I’ll look"
+        }
+      ],
+      "uncertainty": "possible existing box"
+    },
+    {
+      "id": "cq015-action-021",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Mega Man Soccer manual",
+      "action_state": "owned",
+      "summary": "Explicitly says he has manual; no gift/sale to Kat established.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Johnny",
+      "reporter": "Johnny",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 15",
+          "quote": "I know I have the manual"
+        }
+      ]
+    },
+    {
+      "id": "cq015-action-022",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Final Fantasy III box",
+      "action_state": "received",
+      "summary": "Picked up box in good condition for existing cart; current copy not mint/complete.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Kat",
+      "reporter": "Kat",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 15",
+          "quote": "picked up a Final Fantasy III box to complete with my Final Fantasy III cartridge"
+        },
+        {
+          "location": "Paragraph 15",
+          "quote": "it’s in good shape, but it’s not perfect"
+        }
+      ]
+    },
+    {
+      "id": "cq015-action-023",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Final Fantasy III cartridge",
+      "action_state": "owned",
+      "summary": "Existing cart named as recipient of replacement box.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Kat",
+      "reporter": "Kat",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 15",
+          "quote": "my Final Fantasy III cartridge"
+        }
+      ]
+    },
+    {
+      "id": "cq015-action-024",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Final Fantasy III earlier mint copy",
+      "action_state": "sold",
+      "summary": "Regrets previous sale as part of SNES selloff, separate from current box/cart.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Kat",
+      "reporter": "Kat",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 15",
+          "quote": "when I had sold off a lot of Super Nintendo stuff some time back, I had like the mintest copy of Final Fantasy III"
+        }
+      ]
+    },
+    {
+      "id": "cq015-action-025",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Final Fantasy III missing manual/completeness",
+      "action_state": "wanted",
+      "summary": "Would like completeness but is content if not; unsorted manuals might include it, not confirmed.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Kat",
+      "reporter": "Kat",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 16",
+          "quote": "I would like to complete it, but I’m okay, if not"
+        },
+        {
+          "location": "Paragraph 17",
+          "quote": "I have actually no idea what’s in there"
+        }
+      ]
+    },
+    {
+      "id": "cq015-action-026",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Final Fantasy Adventure",
+      "action_state": "received",
+      "summary": "Complete Game Boy copy acquired; complete refers to package, not gameplay.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Kat",
+      "reporter": "Kat",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 15",
+          "quote": "my other pick up was Final Fantasy Adventure for Game Boy"
+        },
+        {
+          "location": "Paragraph 15",
+          "quote": "Yes, that one is complete"
+        }
+      ]
+    },
+    {
+      "id": "cq015-action-027",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Unsorted game manuals",
+      "action_state": "owned",
+      "summary": "Has a lot of manuals to inspect, contents unknown.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Kat",
+      "reporter": "Kat",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 16",
+          "quote": "I have a lot of manuals"
+        },
+        {
+          "location": "Paragraph 17",
+          "quote": "I have actually no idea what’s in there"
+        }
+      ]
+    },
+    {
+      "id": "cq015-action-028",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Nintendo and Genesis manuals",
+      "action_state": "owned",
+      "summary": "Reports about 300 Nintendo and 500 Genesis manuals; many Genesis duplicates, not all rare or sold.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Johnny",
+      "reporter": "Johnny",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 17",
+          "quote": "It’s like 300 and then there’s like 500 Genesis manuals"
+        }
+      ]
+    },
+    {
+      "id": "cq015-action-029",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Mario & Luigi: Paper Jam",
+      "action_state": "wanted",
+      "summary": "Anticipating regional January 22 release; no order/receipt or current play.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Kat",
+      "reporter": "Kat",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 18",
+          "quote": "what I’m really excited for coming out is Mario and Luigi paper jam"
+        },
+        {
+          "location": "Paragraph 18",
+          "quote": "until the 22nd of January"
+        }
+      ]
+    },
+    {
+      "id": "cq015-action-030",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Paper Mario series",
+      "action_state": "wanted",
+      "summary": "Considering marathon or selected games before Paper Jam, not completed.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Kat",
+      "reporter": "Kat",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 18",
+          "quote": "I think I’m going to try and kind of have a Paper Mario marathon"
+        },
+        {
+          "location": "Paragraph 19",
+          "quote": "maybe pick some from each kind of series"
+        }
+      ],
+      "intent": "play"
+    },
+    {
+      "id": "cq015-action-031",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Mario & Luigi series",
+      "action_state": "wanted",
+      "summary": "Proposed marathon or selections, not actual current play.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Kat",
+      "reporter": "Kat",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 18",
+          "quote": "maybe a Mario and Luigi marathon"
+        },
+        {
+          "location": "Paragraph 19",
+          "quote": "maybe pick some from each kind of series"
+        }
+      ],
+      "intent": "play"
+    },
+    {
+      "id": "cq015-action-032",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Unspecified pinball games",
+      "action_state": "played",
+      "summary": "Still playing lots of pinball, table identity not supplied.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Johnny",
+      "reporter": "Johnny",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 19",
+          "quote": "I’m still playing pinball"
+        }
+      ]
+    },
+    {
+      "id": "cq015-action-033",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Batman physical pinball machine",
+      "action_state": "owned",
+      "summary": "Owns and likes table, especially art; retracts wording that it is sole desired pinball machine.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Johnny",
+      "reporter": "Johnny",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 19",
+          "quote": "I own the one pinball machine I want to own"
+        },
+        {
+          "location": "Paragraph 20",
+          "quote": "own a pinball machine I like very much. It’s the Batman pinball"
+        }
+      ],
+      "entity_kind": "physical_pinball"
+    },
+    {
+      "id": "cq015-action-034",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Mini virtual pinball cabinet",
+      "action_state": "wanted",
+      "summary": "Wants portable mini cabinet, about 35 pounds/third size as described; no purchase or delivery.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Johnny",
+      "reporter": "Johnny",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 20",
+          "quote": "what I really want is a virtual pin"
+        },
+        {
+          "location": "Paragraph 20",
+          "quote": "It’s like 35 pounds and about the third the size"
+        }
+      ],
+      "entity_kind": "hardware"
+    },
+    {
+      "id": "cq015-action-035",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Unnamed Genesis pinball games",
+      "action_state": "owned",
+      "summary": "Has imported Genesis pinball games he likes; no titles resolved.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Johnny",
+      "reporter": "Johnny",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 20",
+          "quote": "I’ve got pinball games on the Genesis that I really like that I’ve been imported"
+        }
+      ]
+    },
+    {
+      "id": "cq015-action-036",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Unnamed PlayStation pinball games",
+      "action_state": "played",
+      "summary": "Played a bunch on PlayStation 1, not all titles or every table.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Johnny",
+      "reporter": "Johnny",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 20",
+          "quote": "I played through a bunch of the ones on PlayStation 1"
+        }
+      ]
+    },
+    {
+      "id": "cq015-action-037",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Unnamed incoming Super Nintendo acquisition",
+      "action_state": "mentioned",
+      "summary": "Teases another incoming item but says if I get it and waits on completion; no definite completed order or receipt.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Johnny",
+      "reporter": "Johnny",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 22",
+          "quote": "another exciting one coming in"
+        },
+        {
+          "location": "Paragraph 22",
+          "quote": "If I get it"
+        }
+      ],
+      "uncertainty": "acquisition stage and identity unresolved"
+    },
+    {
+      "id": "cq015-action-038",
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "title": "Unnamed SNES recent pickups",
+      "action_state": "received",
+      "summary": "Has unposted pickups including sports titles; count and individual identities not supplied.",
+      "claim_type": "HOST_REPORT",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Kat/Johnny handoffs and contextual continuity; no audio diarization."
+      },
+      "subject": "Johnny",
+      "reporter": "Johnny",
+      "subject_attribution_confidence": "medium",
+      "factual_verification": "not_independently_verified",
+      "evidence": [
+        {
+          "location": "Paragraph 14",
+          "quote": "I haven’t posted all of the ones I’ve picked up"
+        },
+        {
+          "location": "Paragraph 14",
+          "quote": "A lot of them were bad sports titles"
+        }
+      ]
+    }
+  ],
+  "overrides": [],
+  "new_games": [],
+  "task_cases": [
+    {
+      "id": "batch009-cq015-roster",
+      "episode": 15,
+      "source_key": "sc-242519754",
+      "question": "Who hosts this spotlight and why did Kat choose Sega?",
+      "query": "Kat Johnny Sega Nintendo collection spotlight",
+      "answer": "Johnny and Kat host this episode. Kat deliberately steps away from her NES shelf despite leaning toward Nintendo and owning a fair amount of Sega. Her spotlight is Comix Zone; Johnny chooses Faxanadu. Tyler is not an introduced participant here.",
+      "expected": "Johnny and Kat host this episode. Kat deliberately steps away from her NES shelf despite leaning toward Nintendo and owning a fair amount of Sega. Her spotlight is Comix Zone; Johnny chooses Faxanadu. Tyler is not an introduced participant here.",
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 6"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "I’m Cat, here with Johnny"
+        },
+        {
+          "location": "Paragraph 2",
+          "quote": "I do tend to lean towards Nintendo"
+        },
+        {
+          "location": "Paragraph 3",
+          "quote": "Comic Zone today"
+        },
+        {
+          "location": "Paragraph 6",
+          "quote": "Fax Anidu"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 1",
+            "quote": "I’m Cat, here with Johnny"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 2",
+            "quote": "I do tend to lean towards Nintendo"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 3",
+            "quote": "Comic Zone today"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 6",
+            "quote": "Fax Anidu"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Tyler hosting",
+        "Kat owns only Nintendo"
+      ],
+      "forbidden_inferences": [
+        "Tyler hosting",
+        "Kat owns only Nintendo"
+      ],
+      "review_result": "Same-agent source review: 4 supported evidence checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch009-cq015-comix",
+      "episode": 15,
+      "source_key": "sc-242519754",
+      "question": "What did they like about Comix Zone, and is Kat's box complete?",
+      "query": "Comic Zone bubbles pages hard bonus CD sealed Shack Fu",
+      "answer": "Kat likes its comic-book presentation: panels, talk bubbles and destructible page sections, with puzzles between panels. Both hosts describe it as fun but hard. Her boxed copy is missing the bonus CD, which she wants for completeness and has never heard. Johnny also has not heard his sealed item, but the dialogue does not securely say the entire game is sealed. Shaq Fu is another remembered CD-pack-in example, not an exhaustive list.",
+      "expected": "Kat likes its comic-book presentation: panels, talk bubbles and destructible page sections, with puzzles between panels. Both hosts describe it as fun but hard. Her boxed copy is missing the bonus CD, which she wants for completeness and has never heard. Johnny also has not heard his sealed item, but the dialogue does not securely say the entire game is sealed. Shaq Fu is another remembered CD-pack-in example, not an exhaustive list.",
+      "evidence_locations": [
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5",
+        "Paragraph 6"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "dialogue is rendered in talk bubbles"
+        },
+        {
+          "location": "Paragraph 3",
+          "quote": "you can shred up sections of the page"
+        },
+        {
+          "location": "Paragraph 4",
+          "quote": "solve some puzzles"
+        },
+        {
+          "location": "Paragraph 5",
+          "quote": "I don’t have the bonus CD in my box version"
+        },
+        {
+          "location": "Paragraph 5",
+          "quote": "I’ve never heard the CD"
+        },
+        {
+          "location": "Paragraph 5",
+          "quote": "Mine is sealed and I have not heard it either"
+        },
+        {
+          "location": "Paragraph 6",
+          "quote": "I’ve played it. It is a fun game"
+        },
+        {
+          "location": "Paragraph 6",
+          "quote": "There might be others, but Shack Fu"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 3",
+            "quote": "dialogue is rendered in talk bubbles"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 3",
+            "quote": "you can shred up sections of the page"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 4",
+            "quote": "solve some puzzles"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 5",
+            "quote": "I don’t have the bonus CD in my box version"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 5",
+            "quote": "I’ve never heard the CD"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 6,
+          "evidence": {
+            "location": "Paragraph 5",
+            "quote": "Mine is sealed and I have not heard it either"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 7,
+          "evidence": {
+            "location": "Paragraph 6",
+            "quote": "I’ve played it. It is a fun game"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 8,
+          "evidence": {
+            "location": "Paragraph 6",
+            "quote": "There might be others, but Shack Fu"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Kat has CD",
+        "Johnny listened CD",
+        "Johnny entire game definitely sealed",
+        "All CD pack-in games enumerated"
+      ],
+      "forbidden_inferences": [
+        "Kat has CD",
+        "Johnny listened CD",
+        "Johnny entire game definitely sealed",
+        "All CD pack-in games enumerated"
+      ],
+      "review_result": "Same-agent source review: 8 supported evidence checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch009-cq015-faxanadu",
+      "episode": 15,
+      "source_key": "sc-242519754",
+      "question": "What is Johnny's Faxanadu memory, and what remains untested?",
+      "query": "Faxanadu childhood Christmas 1989 beat gate replay Wii",
+      "answer": "Johnny remembers getting Faxanadu for Christmas around 1989 and eventually beating it, though it took a long time. He recalls exploration plus combat, comparing Zelda and Zelda II, and the imposing gate. He wants to replay it to test whether childhood difficulty still holds up; that replay has not happened in this episode. His age self-corrects to roughly ten or eleven, and his Wii U availability recollection is tentative.",
+      "expected": "Johnny remembers getting Faxanadu for Christmas around 1989 and eventually beating it, though it took a long time. He recalls exploration plus combat, comparing Zelda and Zelda II, and the imposing gate. He wants to replay it to test whether childhood difficulty still holds up; that replay has not happened in this episode. His age self-corrects to roughly ten or eleven, and his Wii U availability recollection is tentative.",
+      "evidence_locations": [
+        "Paragraph 8",
+        "Paragraph 9",
+        "Paragraph 10"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 8",
+          "quote": "it took me a long time to beat it"
+        },
+        {
+          "location": "Paragraph 9",
+          "quote": "I got it for a Christmas, I think in like 1989"
+        },
+        {
+          "location": "Paragraph 9",
+          "quote": "I’m like 10, 10 or 11"
+        },
+        {
+          "location": "Paragraph 9",
+          "quote": "explore like Zelda"
+        },
+        {
+          "location": "Paragraph 10",
+          "quote": "three or four times the size of you"
+        },
+        {
+          "location": "Paragraph 10",
+          "quote": "see if it’s as hard as I remember"
+        },
+        {
+          "location": "Paragraph 10",
+          "quote": "maybe the Wii U"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 8",
+            "quote": "it took me a long time to beat it"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 9",
+            "quote": "I got it for a Christmas, I think in like 1989"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 9",
+            "quote": "I’m like 10, 10 or 11"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 9",
+            "quote": "explore like Zelda"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 10",
+            "quote": "three or four times the size of you"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 6,
+          "evidence": {
+            "location": "Paragraph 10",
+            "quote": "see if it’s as hard as I remember"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 7,
+          "evidence": {
+            "location": "Paragraph 10",
+            "quote": "maybe the Wii U"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Replay already completed",
+        "Exact birthdate",
+        "Verified Wii U availability"
+      ],
+      "forbidden_inferences": [
+        "Replay already completed",
+        "Exact birthdate",
+        "Verified Wii U availability"
+      ],
+      "review_result": "Same-agent source review: 7 supported evidence checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch009-cq015-series",
+      "episode": 15,
+      "source_key": "sc-242519754",
+      "question": "Did Johnny play his Turbo Dragon Slayer, and what name does the etymology explain?",
+      "query": "dragon slayer TurboGrafx never played Famicom Xanadu portmanteau",
+      "answer": "Johnny says he owns a TurboGrafx 16 game he calls Dragon Slayer but has never played it; preparing the spotlight makes him want to try it. The exact installment remains unresolved. He initially says Dragon Slayer is the portmanteau, but the explanation combines Famicom and Xanadu to explain Faxanadu. These family and naming details are his reported research, not independently checked catalog history.",
+      "expected": "Johnny says he owns a TurboGrafx 16 game he calls Dragon Slayer but has never played it; preparing the spotlight makes him want to try it. The exact installment remains unresolved. He initially says Dragon Slayer is the portmanteau, but the explanation combines Famicom and Xanadu to explain Faxanadu. These family and naming details are his reported research, not independently checked catalog history.",
+      "evidence_locations": [
+        "Paragraph 7",
+        "Paragraph 8"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 7",
+          "quote": "dragon slayer games"
+        },
+        {
+          "location": "Paragraph 8",
+          "quote": "I actually have dragon slayer on the TurboGrafx 16, but I’ve never played it"
+        },
+        {
+          "location": "Paragraph 8",
+          "quote": "dragon slayer is a portmanteau"
+        },
+        {
+          "location": "Paragraph 8",
+          "quote": "Famicom and Xanadu"
+        },
+        {
+          "location": "Paragraph 8",
+          "quote": "faxanadu"
+        },
+        {
+          "location": "Paragraph 8",
+          "quote": "a wiki page"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 7",
+            "quote": "dragon slayer games"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 8",
+            "quote": "I actually have dragon slayer on the TurboGrafx 16, but I’ve never played it"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 8",
+            "quote": "dragon slayer is a portmanteau"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 8",
+            "quote": "Famicom and Xanadu"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 8",
+            "quote": "faxanadu"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 6,
+          "evidence": {
+            "location": "Paragraph 8",
+            "quote": "a wiki page"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Turbo game played",
+        "Dragon Slayer equals Famicom Xanadu",
+        "Exact Turbo installment certified"
+      ],
+      "forbidden_inferences": [
+        "Turbo game played",
+        "Dragon Slayer equals Famicom Xanadu",
+        "Exact Turbo installment certified"
+      ],
+      "review_result": "Same-agent source review: 6 supported evidence checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch009-cq015-snowwhite",
+      "episode": 15,
+      "source_key": "sc-242519754",
+      "question": "How did Johnny obtain Happily Ever After, and had it arrived?",
+      "query": "Snow White Happily Ever After box manual cart same day years here yet",
+      "answer": "Johnny bought Happily Ever After, initially called Snow White, as three separate parts on the same day: a $15 box, $10 manual and $12 cartridge. Those stated prices add to $37, without establishing shipping or tax. He explicitly says it is not there yet; the later prediction that Snow White will be there after the expo is still future arrival, not receipt. He describes actively pursuing it for roughly four or five years.",
+      "expected": "Johnny bought Happily Ever After, initially called Snow White, as three separate parts on the same day: a $15 box, $10 manual and $12 cartridge. Those stated prices add to $37, without establishing shipping or tax. He explicitly says it is not there yet; the later prediction that Snow White will be there after the expo is still future arrival, not receipt. He describes actively pursuing it for roughly four or five years.",
+      "evidence_locations": [
+        "Paragraph 13",
+        "Paragraph 21",
+        "Paragraph 22"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 13",
+          "quote": "it’s called Happily Ever After"
+        },
+        {
+          "location": "Paragraph 13",
+          "quote": "box for $15"
+        },
+        {
+          "location": "Paragraph 13",
+          "quote": "manual for $10"
+        },
+        {
+          "location": "Paragraph 13",
+          "quote": "cart for $12"
+        },
+        {
+          "location": "Paragraph 13",
+          "quote": "all within the same day"
+        },
+        {
+          "location": "Paragraph 13",
+          "quote": "It’s not even here yet"
+        },
+        {
+          "location": "Paragraph 21",
+          "quote": "Snow White will be here"
+        },
+        {
+          "location": "Paragraph 22",
+          "quote": "literally four or five years"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 13",
+            "quote": "it’s called Happily Ever After"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 13",
+            "quote": "box for $15"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 13",
+            "quote": "manual for $10"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 13",
+            "quote": "cart for $12"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 13",
+            "quote": "all within the same day"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 6,
+          "evidence": {
+            "location": "Paragraph 13",
+            "quote": "It’s not even here yet"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 7,
+          "evidence": {
+            "location": "Paragraph 21",
+            "quote": "Snow White will be here"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 8,
+          "evidence": {
+            "location": "Paragraph 22",
+            "quote": "literally four or five years"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Delivered",
+        "37 total delivered cost",
+        "Separate Snow White and Happily games",
+        "Watch list only one month"
+      ],
+      "forbidden_inferences": [
+        "Delivered",
+        "37 total delivered cost",
+        "Separate Snow White and Happily games",
+        "Watch list only one month"
+      ],
+      "review_result": "Same-agent source review: 8 supported evidence checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch009-cq015-kat-pickups",
+      "episode": 15,
+      "source_key": "sc-242519754",
+      "question": "Which of Kat's pickups were complete, and what could Johnny supply?",
+      "query": "Mega Man Soccer box manual Final Fantasy III Adventure complete",
+      "answer": "Kat acquired a Mega Man Soccer cartridge. Johnny only thinks he has its box and will check, while he says he does have the manual; no transfer to Kat is established. Kat also acquired a Final Fantasy III box for her existing cartridge, replacing the role of a much nicer copy she had sold earlier. She would like to complete this current copy but has not located a manual. Final Fantasy Adventure for Game Boy is the pickup she explicitly confirms is complete, referring to its package rather than finishing the game.",
+      "expected": "Kat acquired a Mega Man Soccer cartridge. Johnny only thinks he has its box and will check, while he says he does have the manual; no transfer to Kat is established. Kat also acquired a Final Fantasy III box for her existing cartridge, replacing the role of a much nicer copy she had sold earlier. She would like to complete this current copy but has not located a manual. Final Fantasy Adventure for Game Boy is the pickup she explicitly confirms is complete, referring to its package rather than finishing the game.",
+      "evidence_locations": [
+        "Paragraph 14",
+        "Paragraph 15",
+        "Paragraph 16",
+        "Paragraph 17"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 14",
+          "quote": "just the cart"
+        },
+        {
+          "location": "Paragraph 14",
+          "quote": "I think I have the box"
+        },
+        {
+          "location": "Paragraph 15",
+          "quote": "I know I have the manual"
+        },
+        {
+          "location": "Paragraph 15",
+          "quote": "Final Fantasy III box"
+        },
+        {
+          "location": "Paragraph 15",
+          "quote": "when I had sold off a lot of Super Nintendo stuff"
+        },
+        {
+          "location": "Paragraph 15",
+          "quote": "Final Fantasy Adventure for Game Boy"
+        },
+        {
+          "location": "Paragraph 15",
+          "quote": "Yes, that one is complete"
+        },
+        {
+          "location": "Paragraph 16",
+          "quote": "I would like to complete it, but I’m okay, if not"
+        },
+        {
+          "location": "Paragraph 17",
+          "quote": "I have actually no idea what’s in there"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 14",
+            "quote": "just the cart"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 14",
+            "quote": "I think I have the box"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 15",
+            "quote": "I know I have the manual"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 15",
+            "quote": "Final Fantasy III box"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 15",
+            "quote": "when I had sold off a lot of Super Nintendo stuff"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 6,
+          "evidence": {
+            "location": "Paragraph 15",
+            "quote": "Final Fantasy Adventure for Game Boy"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 7,
+          "evidence": {
+            "location": "Paragraph 15",
+            "quote": "Yes, that one is complete"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 8,
+          "evidence": {
+            "location": "Paragraph 16",
+            "quote": "I would like to complete it, but I’m okay, if not"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 9,
+          "evidence": {
+            "location": "Paragraph 17",
+            "quote": "I have actually no idea what’s in there"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "FFIII current CIB",
+        "Mega Man box confirmed",
+        "Johnny transferred manual",
+        "Final Fantasy Adventure beaten"
+      ],
+      "forbidden_inferences": [
+        "FFIII current CIB",
+        "Mega Man box confirmed",
+        "Johnny transferred manual",
+        "Final Fantasy Adventure beaten"
+      ],
+      "review_result": "Same-agent source review: 9 supported evidence checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch009-cq015-paperjam",
+      "episode": 15,
+      "source_key": "sc-242519754",
+      "question": "What is Kat planning to play before Paper Jam?",
+      "query": "Paper Jam January 22 Paper Mario Luigi marathon 3DS",
+      "answer": "Kat anticipates Mario & Luigi: Paper Jam on 3DS, saying its local release is January 22 while Japan and Europe already have it. She considers a Paper Mario and Mario & Luigi marathon, then qualifies that she may pick games from each series. She likes the 3DS because she can play wherever she wants. These are future play plans, not evidence she has started Paper Jam or completed either series.",
+      "expected": "Kat anticipates Mario & Luigi: Paper Jam on 3DS, saying its local release is January 22 while Japan and Europe already have it. She considers a Paper Mario and Mario & Luigi marathon, then qualifies that she may pick games from each series. She likes the 3DS because she can play wherever she wants. These are future play plans, not evidence she has started Paper Jam or completed either series.",
+      "evidence_locations": [
+        "Paragraph 18",
+        "Paragraph 19"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 18",
+          "quote": "22nd of January"
+        },
+        {
+          "location": "Paragraph 18",
+          "quote": "already Japan and Europe"
+        },
+        {
+          "location": "Paragraph 18",
+          "quote": "Paper Mario marathon"
+        },
+        {
+          "location": "Paragraph 18",
+          "quote": "Mario and Luigi marathon"
+        },
+        {
+          "location": "Paragraph 19",
+          "quote": "maybe pick some from each kind of series"
+        },
+        {
+          "location": "Paragraph 19",
+          "quote": "I can play them wherever I want to"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 18",
+            "quote": "22nd of January"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 18",
+            "quote": "already Japan and Europe"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 18",
+            "quote": "Paper Mario marathon"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 18",
+            "quote": "Mario and Luigi marathon"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 19",
+            "quote": "maybe pick some from each kind of series"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 6,
+          "evidence": {
+            "location": "Paragraph 19",
+            "quote": "I can play them wherever I want to"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Paper Jam currently played",
+        "All games completed",
+        "January 22 current release advice"
+      ],
+      "forbidden_inferences": [
+        "Paper Jam currently played",
+        "All games completed",
+        "January 22 current release advice"
+      ],
+      "review_result": "Same-agent source review: 6 supported evidence checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch009-cq015-pinball",
+      "episode": 15,
+      "source_key": "sc-242519754",
+      "question": "What pinball does Johnny own, want and plan to do?",
+      "query": "Batman pinball art virtual mini 35 pounds expo free play",
+      "answer": "Johnny owns a Batman pinball machine and values its appearance more than its basic gameplay. He corrects the idea that it is the only machine he could want: he also wants a mini virtual cabinet, described as about 35 pounds and one-third normal size. He has imported Genesis pinball games and has played several PlayStation pinball games, without naming titles here. His upcoming pinball-expo plan is free play with friends, not an announced cabinet purchase or completed attendance.",
+      "expected": "Johnny owns a Batman pinball machine and values its appearance more than its basic gameplay. He corrects the idea that it is the only machine he could want: he also wants a mini virtual cabinet, described as about 35 pounds and one-third normal size. He has imported Genesis pinball games and has played several PlayStation pinball games, without naming titles here. His upcoming pinball-expo plan is free play with friends, not an announced cabinet purchase or completed attendance.",
+      "evidence_locations": [
+        "Paragraph 19",
+        "Paragraph 20",
+        "Paragraph 21"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 19",
+          "quote": "I don’t want to say the one pinball machine I want to own"
+        },
+        {
+          "location": "Paragraph 20",
+          "quote": "It’s the Batman pinball"
+        },
+        {
+          "location": "Paragraph 20",
+          "quote": "It’s pretty basic"
+        },
+        {
+          "location": "Paragraph 20",
+          "quote": "what I really want is a virtual pin"
+        },
+        {
+          "location": "Paragraph 20",
+          "quote": "35 pounds"
+        },
+        {
+          "location": "Paragraph 20",
+          "quote": "pinball games on the Genesis"
+        },
+        {
+          "location": "Paragraph 20",
+          "quote": "ones on PlayStation 1"
+        },
+        {
+          "location": "Paragraph 21",
+          "quote": "No negotiating. None of that"
+        },
+        {
+          "location": "Paragraph 21",
+          "quote": "A couple of my friends are going"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 19",
+            "quote": "I don’t want to say the one pinball machine I want to own"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 20",
+            "quote": "It’s the Batman pinball"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 20",
+            "quote": "It’s pretty basic"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 20",
+            "quote": "what I really want is a virtual pin"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 20",
+            "quote": "35 pounds"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 6,
+          "evidence": {
+            "location": "Paragraph 20",
+            "quote": "pinball games on the Genesis"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 7,
+          "evidence": {
+            "location": "Paragraph 20",
+            "quote": "ones on PlayStation 1"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 8,
+          "evidence": {
+            "location": "Paragraph 21",
+            "quote": "No negotiating. None of that"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 9,
+          "evidence": {
+            "location": "Paragraph 21",
+            "quote": "A couple of my friends are going"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Virtual cabinet received",
+        "Exact Batman table model",
+        "Expo already attended",
+        "Every PlayStation pinball played"
+      ],
+      "forbidden_inferences": [
+        "Virtual cabinet received",
+        "Exact Batman table model",
+        "Expo already attended",
+        "Every PlayStation pinball played"
+      ],
+      "review_result": "Same-agent source review: 9 supported evidence checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch009-cq015-openloops",
+      "episode": 15,
+      "source_key": "sc-242519754",
+      "question": "What useful follow-ups are still unanswered here?",
+      "query": "Faxanadu replay Shining Force suspense biggie manual Snow White expo",
+      "answer": "Useful follow-ups include whether Johnny's Faxanadu replay changes his childhood opinion, whether Kat finds the missing Final Fantasy III manual, and whether Happily Ever After arrives in the expected condition. Johnny also proposes discussing Shining Force's American series history and teases another unnamed incoming SNES item, but neither is resolved here. These are editorial follow-up prompts, not claims that a future episode, purchase or delivery occurred.",
+      "expected": "Useful follow-ups include whether Johnny's Faxanadu replay changes his childhood opinion, whether Kat finds the missing Final Fantasy III manual, and whether Happily Ever After arrives in the expected condition. Johnny also proposes discussing Shining Force's American series history and teases another unnamed incoming SNES item, but neither is resolved here. These are editorial follow-up prompts, not claims that a future episode, purchase or delivery occurred.",
+      "evidence_locations": [
+        "Paragraph 10",
+        "Paragraph 12",
+        "Paragraph 17",
+        "Paragraph 21",
+        "Paragraph 22"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 10",
+          "quote": "see if it’s as hard as I remember"
+        },
+        {
+          "location": "Paragraph 12",
+          "quote": "a series review"
+        },
+        {
+          "location": "Paragraph 17",
+          "quote": "I have actually no idea what’s in there"
+        },
+        {
+          "location": "Paragraph 21",
+          "quote": "Snow White will be here"
+        },
+        {
+          "location": "Paragraph 22",
+          "quote": "another exciting one coming in"
+        },
+        {
+          "location": "Paragraph 22",
+          "quote": "If I get it"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 10",
+            "quote": "see if it’s as hard as I remember"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 12",
+            "quote": "a series review"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 17",
+            "quote": "I have actually no idea what’s in there"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 21",
+            "quote": "Snow White will be here"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 22",
+            "quote": "another exciting one coming in"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 6,
+          "evidence": {
+            "location": "Paragraph 22",
+            "quote": "If I get it"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Shining Force followup episode produced",
+        "Unnamed item identity resolved",
+        "Manual found",
+        "Delivery confirmed"
+      ],
+      "forbidden_inferences": [
+        "Shining Force followup episode produced",
+        "Unnamed item identity resolved",
+        "Manual found",
+        "Delivery confirmed"
+      ],
+      "review_result": "Same-agent source review: 6 supported evidence checkpoints; integrated retrieval pending."
+    }
+  ],
+  "qualified_leaders": [
+    {
+      "title": "Faxanadu",
+      "game_ref": "cq015-g004",
+      "entity_kind": "video_game",
+      "meaningful_paragraphs": 7,
+      "substantial_paragraphs": 4,
+      "supporting_paragraphs": 3
+    },
+    {
+      "title": "Comix Zone",
+      "game_ref": "cq015-g001",
+      "entity_kind": "video_game",
+      "meaningful_paragraphs": 5,
+      "substantial_paragraphs": 3,
+      "supporting_paragraphs": 2
+    },
+    {
+      "title": "Happily Ever After",
+      "game_ref": "cq015-g012",
+      "entity_kind": "video_game",
+      "meaningful_paragraphs": 3,
+      "substantial_paragraphs": 2,
+      "supporting_paragraphs": 1
+    },
+    {
+      "title": "Final Fantasy III",
+      "game_ref": "cq015-g014",
+      "entity_kind": "video_game",
+      "meaningful_paragraphs": 3,
+      "substantial_paragraphs": 2,
+      "supporting_paragraphs": 1
+    },
+    {
+      "title": "Mega Man Soccer",
+      "game_ref": "cq015-g013",
+      "entity_kind": "video_game",
+      "meaningful_paragraphs": 2,
+      "substantial_paragraphs": 1,
+      "supporting_paragraphs": 1
+    },
+    {
+      "title": "Mario & Luigi: Paper Jam",
+      "game_ref": "cq015-g016",
+      "entity_kind": "video_game",
+      "meaningful_paragraphs": 2,
+      "substantial_paragraphs": 1,
+      "supporting_paragraphs": 1
+    },
+    {
+      "title": "Shaq Fu",
+      "game_ref": "cq015-g003",
+      "entity_kind": "video_game",
+      "meaningful_paragraphs": 2,
+      "substantial_paragraphs": 0,
+      "supporting_paragraphs": 2
+    },
+    {
+      "title": "Dragon Slayer — TurboGrafx 16 game as spoken",
+      "game_ref": "cq015-g006",
+      "entity_kind": "video_game",
+      "meaningful_paragraphs": 2,
+      "substantial_paragraphs": 0,
+      "supporting_paragraphs": 2
+    },
+    {
+      "title": "The Legend of Zelda",
+      "game_ref": "cq015-g008",
+      "entity_kind": "video_game",
+      "meaningful_paragraphs": 1,
+      "substantial_paragraphs": 0,
+      "supporting_paragraphs": 1
+    },
+    {
+      "title": "Zelda II: The Adventure of Link",
+      "game_ref": "cq015-g009",
+      "entity_kind": "video_game",
+      "meaningful_paragraphs": 1,
+      "substantial_paragraphs": 0,
+      "supporting_paragraphs": 1
+    },
+    {
+      "title": "Final Fantasy Adventure",
+      "game_ref": "cq015-g015",
+      "entity_kind": "video_game",
+      "meaningful_paragraphs": 1,
+      "substantial_paragraphs": 0,
+      "supporting_paragraphs": 1
+    }
+  ],
+  "ranking_note": "Untimed paragraph unions: Faxanadu 7 (4 substantial,3 supporting), Comix Zone 5 (3,2), Happily Ever After and Final Fantasy III tie third at3 (2,1). These are coverage units, not measured minutes. Product/series/game collections excluded.",
+  "omission_audit": {
+    "method": "same-agent source-first 25 reference/product buckets frozen before authored extraction, all 24 paragraphs read",
+    "initial_reference_buckets": 25,
+    "reference_buckets_mapped": 25,
+    "reference_paragraph_pairs": 51,
+    "pairs_mapped": 51,
+    "initial_semantic_misses": 0,
+    "scope_note": "Includes non-video-game products and unresolved groups. No independent recall claim and no root gold inspected."
+  }
+}

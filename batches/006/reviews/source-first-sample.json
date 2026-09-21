@@ -1,0 +1,298 @@
+{
+  "schema_version": "1",
+  "status": "identity_comparison_complete_pending_runtime",
+  "frozen_utc": "2026-09-13 08:17:53 UTC",
+  "selection_rule": "For each episode choose zero-based floor(N/4), floor(N/2), floor(3N/4) supplied transcript windows. Freeze explicit named or uniquely contextual game/product reference buckets before viewing extraction. Preserve no-title windows. Platform/edition identities distinct when contrasted; same source game can satisfy underlying and novel-variant buckets only if its evidence preserves the difference. Hardware, films, magazines, unnamed aggregate system sets and music excluded.",
+  "limits": "Deterministic bounded source-first sample; not a blind statistical archive recall estimate. Adjacent source consulted for Gremlins, Arachnophobia novel and Layers of Fear context only; not extraction records.",
+  "windows": [
+    {
+      "batch": "006",
+      "episode": 12,
+      "source_key": "sc-239520041",
+      "location": "Paragraph 12",
+      "text": "\ninto a picture I mean I do get to do that a fair deal when you collect sets the advantage is like every Gamecube game I was like well I have all those that’s not gonna be an issue same with Nintendo but there was it was actually like two super Nintendo games I didn’t have on the list thankfully stadium events isn’t on the Nintendo list thank goodness right yeah so I can get past that one yeah should be fun should be interesting I found it kind of interesting I’ve gone through my normal procedures when I start to collect and I don’t know how meticulous you are but when I start like I’ve built an Excel spreadsheet I’ve made it into a table I’ve looked up prices I’ve sorted you know I’ve applied filters basically to my Excel spreadsheet so I can sort by what I don’t have what I need what’s Nintendo powers I have what’s the most expensive least expensive you know I can sort by system that’s something to have that much knowledge before I go into it before I tackle anything so before I even decided to do this I mean I you know I texted a little bit about it but I wasn’t sure at that point I needed to do more\n\n",
+      "source_window_count": 44,
+      "references": [
+        {
+          "id": "cq12-sample-Paragraph12-1",
+          "title": "Stadium Events",
+          "quote": "stadium events",
+          "reviewed_game_ids": [
+            "cq012-g005"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "006",
+      "episode": 12,
+      "source_key": "sc-239520041",
+      "location": "Paragraph 23",
+      "text": "\nsound. Like I didn’t know what Mega Man 2 sounded like until I was a teenager. - Oh my goodness. So yeah, you need to get, okay. So then what are your top three Super Nintendo RPGs? - Well, I’ll tell you, earthbound isn’t in my list. - Okay, well, that’s fair. - Like not at all. It’s like, probably maybe it makes the top 10. Probably makes the top 10, but it wouldn’t be in my top three. Man, see, that’s hard. You gotta kill your darlings, I guess. Final Fantasy IV or slash Final Fantasy II is probably my favorite. Not because I think it is the best RPG on the system or anything because Final Fantasy III is probably a better RPG overall. Final Fantasy II just happens to be my personal favorite. And then followed by Chrono Trigger. And then like it’s a toss up. Like I, you know, I can go right back into Final Fantasy III right there or I can start moving into many of the other RPGs. RPGs are kind of why I got started collecting. It was like when I started collecting, that was one of the first things I started going after was RPGs. So, you know, they are near and dear to my heart, especially from the Super Nintendo\n\n",
+      "source_window_count": 44,
+      "references": [
+        {
+          "id": "cq12-sample-Paragraph23-1",
+          "title": "Mega Man 2",
+          "quote": "Mega Man 2",
+          "reviewed_game_ids": [
+            "cq012-g023"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq12-sample-Paragraph23-2",
+          "title": "EarthBound",
+          "quote": "earthbound",
+          "reviewed_game_ids": [
+            "cq012-g015"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq12-sample-Paragraph23-3",
+          "title": "Final Fantasy IV / II",
+          "quote": "Final Fantasy IV or slash Final Fantasy II",
+          "reviewed_game_ids": [
+            "cq012-g024"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq12-sample-Paragraph23-4",
+          "title": "Final Fantasy VI / III",
+          "quote": "Final Fantasy III",
+          "reviewed_game_ids": [
+            "cq012-g025"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq12-sample-Paragraph23-5",
+          "title": "Chrono Trigger",
+          "quote": "Chrono Trigger",
+          "reviewed_game_ids": [
+            "cq012-g017"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "006",
+      "episode": 12,
+      "source_key": "sc-239520041",
+      "location": "Paragraph 34",
+      "text": "\nso now we’ve figured out the whole purpose of this podcast. - Right, I just, if I can berate as many people for their choices as possible, I think my work here is done. - Well, so I guess that breaks us to another topic. - Yeah. - Resolutions for 2016. Now that we’ve already discussed that, we absolutely now know what the podcast is about. - Oh, well, I’m going to resolve to be a better human and not do that to people. - Okay. - I feel like that’ll be easy to do. - We’re growing. - Yeah, yeah. Be more inclusive to people’s choices. - Okay. - And be better at answering top X requests on Instagram. - Johnny’s going to get it down to one day wait. - Yeah, I’m going to try and get back to you. Well, also sometimes people post in the middle of the day. And like when I’m at work, I’m usually gone for 12 hours. - Right. - You know, 12 to 14 hours. So then it’s like, get home, have dinner with my wife, and settle into the house. And then suddenly it’s like 16 hours later, like from when they’ve tagged me at like 8 a.m. not realizing on the West Coast, I go and I leave for\n\n",
+      "source_window_count": 44,
+      "references": []
+    },
+    {
+      "batch": "006",
+      "episode": 79,
+      "source_key": "sc-355496906",
+      "location": "Paragraph 8",
+      "text": "\ngo up in December, but it kind of leveled off a little bit in December. Okay. I’m going to come at you with a Genesis title. And I’m going Sonic the Hedgehog. But this trend is basically true for all of the Sonics. I’ll just blanket statement that real quick. Also, this is really depressing as a guy who likes Genesis. And you will see the dichotomy of Nintendo and Genesis right here. Sonic and Sonic 2, probably the most popular titles, they sell on average three a day versus the Mario Ducat cart, which is 11. And that’s not even the most popular one. And that’s a Mario that’s divided amongst three different carts. When you get to Mario three, it’s like 28 a day. So maybe everyone is everyone’s buying Sonic Jam on the Saturn. Yeah, I don’t I don’t think that’s true. Anyways, let’s let me tell you about where it was in November 2014. For Sonic one, $4.25. December, it jumps up to $5.50. And then if you go to November, I’m sorry, of October of 2015, back to $4.42. December climbs to six. But then January, for some reason, just it peaks out at like 750 in 2016. But then if you get to October, it’s back down to $5 in 2016. And then December,\n\n",
+      "source_window_count": 28,
+      "references": [
+        {
+          "id": "cq79-sample-Paragraph8-1",
+          "title": "Sonic series",
+          "quote": "all of the Sonics",
+          "reviewed_game_ids": [
+            "cq079-g002"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq79-sample-Paragraph8-2",
+          "title": "Sonic the Hedgehog",
+          "quote": "Sonic the Hedgehog",
+          "reviewed_game_ids": [
+            "cq079-g009"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq79-sample-Paragraph8-3",
+          "title": "Sonic the Hedgehog 2",
+          "quote": "Sonic 2",
+          "reviewed_game_ids": [
+            "cq079-g010"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq79-sample-Paragraph8-4",
+          "title": "Super Mario Bros. / Duck Hunt cartridge",
+          "quote": "Mario Ducat cart",
+          "reviewed_game_ids": [
+            "cq079-g007"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq79-sample-Paragraph8-5",
+          "title": "Super Mario Bros. 3",
+          "quote": "Mario three",
+          "reviewed_game_ids": [
+            "cq079-g005"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq79-sample-Paragraph8-6",
+          "title": "Sonic Jam",
+          "quote": "Sonic Jam",
+          "reviewed_game_ids": [
+            "cq079-g011"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "006",
+      "episode": 79,
+      "source_key": "sc-355496906",
+      "location": "Paragraph 15",
+      "text": "\nBut I don’t want to get it like Thanksgiving. Before Thanksgiving. Yeah. Yeah, that’s awful. No thanks. I mean, November 1st is Christmas. So we got two solid weeks, two solid months of Christmas right now. And that’s just the way it is, Johnny. Like, I like Christmas. I’m the guy who’s okay that when you take down the Halloween decorations that you put up the Christmas decorations in stores, I’m okay with that. I’m okay with Christmas music starting like the week of Thanksgiving. I’m okay with that. Like typically I like to ring it in the day after Thanksgiving. That’s when I like Christmas carols to begin. Then I get a full month of them. Like I’m good with that. I don’t know where you’ve been, but Christmas music is all over the place where I am right now. Is it? Why don’t go into malls? We’re in the deep south over here. We love Christmas. And we love Jesus. Oh, well, are you? Hi, you could just don’t try to don’t take me down a rabbit hole about Jesus and Christmas. Okay. Well, I don’t need to. We don’t need. This is not the topic of the podcast. Jesus has nothing to do with Christmas. It’s just iconography of a time for drawing pagans. And I like\n\n",
+      "source_window_count": 28,
+      "references": []
+    },
+    {
+      "batch": "006",
+      "episode": 79,
+      "source_key": "sc-355496906",
+      "location": "Paragraph 22",
+      "text": "\nall the ways you can layer your jumping in this game. There’s going to be some sweet stuff. That’s the speedrun is going to be just stupid. The problem is people are probably going to find like this stupid shortcut that makes the speedrun seven minutes long. But if the speedrun like the whatever 999 moon speedrun people are going to do that in like an hour and a half and it’s going to be awesome. Yeah, exactly. And I’m going to watch that video. Yeah. And I look forward to it. So yeah, I’m also playing that. But what’d you buy? Oh man, what have I bought? I’ve been cleaning up Saturn games. I don’t even know. Probably have three left. I need All Star Baseball 97. I think that’s the most common game that I need left for whatever reason has not turned up on eBay. I think I need Slam and Jam 96 too. And I’m not afraid to say that because I don’t think anyone listening to this podcast is going to go out and buy those games. No, I just sold a slam and jam. Like six months ago, like six months ago. You also were like, oh yeah, I just saw 3D baseball when I needed that. I did was sitting in a shop\n\n",
+      "source_window_count": 28,
+      "references": [
+        {
+          "id": "cq79-sample-Paragraph22-1",
+          "title": "Super Mario Odyssey — contextual moon discussion",
+          "quote": "999 moon",
+          "reviewed_game_ids": [
+            "cq079-g014"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq79-sample-Paragraph22-2",
+          "title": "All Star Baseball 97 — raw title",
+          "quote": "All Star Baseball 97",
+          "reviewed_game_ids": [
+            "cq079-g019"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq79-sample-Paragraph22-3",
+          "title": "Slam 'n Jam 96",
+          "quote": "Slam and Jam 96",
+          "reviewed_game_ids": [
+            "cq079-g020"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq79-sample-Paragraph22-4",
+          "title": "3D Baseball",
+          "quote": "3D baseball",
+          "reviewed_game_ids": [
+            "cq079-g021"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "006",
+      "episode": 205,
+      "source_key": "sc-1360671826",
+      "location": "00:45:27",
+      "text": "\nnot the point okay and and we've already said the 5200 plays all the 2600 games so it's got a much bigger Library than that uh what 5200 does not play 2600 games am I am I wrong you are 7,800 plays 2600 games oh is that what it is 7,800 points H yeah never mind2 we'll cut that out how embarassing no that's fine uh I I'm fine with my lack of knowledge between the 78 the 5200 happens it happens guys um Johnny tell me tell me about Gremlin 2 this game this is what really fascinated me I was oh you're not even ready Gremlin I no grem because Gremlins 2 doesn't come out till later down the timeline oh okay there is a Gremlins 2 these are just the two Gremlin games that are there and I don't know yeah Gremlins 2 it's going to be hard to talk about because this one also has multiple release dates and it comes out on the Amiga the PC the Game Boy the nest and there's like a Gremlins print version and it's different in Europe it's like\n\n",
+      "source_window_count": 174,
+      "references": [
+        {
+          "id": "cq205-sample-004527-1",
+          "title": "Gremlins — first-film games, platform identity contextual",
+          "quote": "these are just the two Gremlin games",
+          "reviewed_game_ids": [
+            "cq205-g048"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq205-sample-004527-2",
+          "title": "Gremlins 2 — multiple releases, no automatic port equivalence",
+          "quote": "Gremlins 2",
+          "reviewed_game_ids": [
+            "cq205-g052",
+            "cq205-g053",
+            "cq205-g054"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "006",
+      "episode": 205,
+      "source_key": "sc-1360671826",
+      "location": "01:32:09",
+      "text": "\ntells you what comes with the novel so who's going to own two versions of this game me cuz I'm a dummy it's got uh it's also got a very a custom uh registration card there Johnny so make sure that ad uh it's got some good stuff in there it's got a lot of good stuff in there anyways so when we talk about our Disney games you didn't know where Disney games or Disney games you don't own episode we can talk about Arachnophobia all over again anyways let's going on to 1991 and hey Beetlejuice have you ever heard of this game Beetlejuice am supposed to say it one more time so it summons him oh I get it there you go thank you God damn it anyways uh Beetlejuice for the Nintendo it's another lgn gem it's got a good cover it doesn't cost very much uh I know people are like hey aren't there other Beetle Juice games not just that one for the Nintendo like isn't there one on the Game Boy and isn't there one\n\n",
+      "source_window_count": 174,
+      "references": [
+        {
+          "id": "cq205-sample-013209-1",
+          "title": "Arachnophobia — novel variant / underlying game",
+          "quote": "tells you what comes with the novel",
+          "reviewed_game_ids": [
+            "cq205-g095",
+            "cq205-g099"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq205-sample-013209-2",
+          "title": "Arachnophobia",
+          "quote": "Arachnophobia",
+          "reviewed_game_ids": [
+            "cq205-g095"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq205-sample-013209-3",
+          "title": "Beetlejuice — NES",
+          "quote": "Beetlejuice for the Nintendo",
+          "reviewed_game_ids": [
+            "cq205-g101"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq205-sample-013209-4",
+          "title": "Beetlejuice — Game Boy, exact title unresolved here",
+          "quote": "one on the Game Boy",
+          "reviewed_game_ids": [
+            "cq205-g102"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "006",
+      "episode": 205,
+      "source_key": "sc-1360671826",
+      "location": "02:17:55",
+      "text": "\nbragging are you stretching over there to so make sure your arm gets all the way to your back yeah I'm cra cracking my Knuckles I'm I'm I'm waiting yeah I'm getting out the cigar and the Brandy all right um oh my I can't wait to talk to you all of my accomplishments are fantastic well cuz so here's the thing that he didn't say game collecting he said collecting and so that different yes very different very Tyler what do you got I mean when I think of like quote unquote accomplishments if we're considering spending money on Old media and accomplishment like all my like favorite stuff and my best stuff a lot of is like oneoff so either I found like an amazing deal or I found something for sale that I didn't think would be for sale at all or I just spent a lot of money on something and none of that really feels like an accomplishment so the thing that I worked the hardest on would probably be my Sega sets so Sega CD Sega Saturn and Sega Genesis complete in box just\n\n",
+      "source_window_count": 174,
+      "references": []
+    }
+  ],
+  "comparison_notes": "Frozen22 buckets unchanged. Gremlins2 maps separate platform designs rather than implying ports; novel-associated Arachnophobia bucket maps both underlying game and explicit book-pack-in entity. More specific record detail does not change gold denominator."
+}

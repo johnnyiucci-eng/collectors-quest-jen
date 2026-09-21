@@ -1,0 +1,197 @@
+{
+  "schema_version": "0.1",
+  "reviewer": "Independent peer of extractor; source-informed fresh wording",
+  "design_constraints": "Read all46paragraphs in order before authoring; no current CQ84 extraction, existing task queries or routing code consulted. Expected windows frozen at source-first stage.",
+  "cases": [
+    {
+      "id": "fresh-cq084-starwars",
+      "source_key": "sc-395702904",
+      "episode": 84,
+      "question": "Why did Johnny like the R2-D2 Xbox even though the game packed with it was bad?",
+      "query": "Why did Johnny like the R2-D2 Xbox even though the game packed with it was bad?",
+      "expected_locations": [
+        "Paragraph 6",
+        "Paragraph 7"
+      ],
+      "evidence_locations": [
+        "Paragraph 6",
+        "Paragraph 7"
+      ],
+      "expected_facts": [
+        "Enjoyed R2 appearance and on/off sounds",
+        "Criticized bundled Kinect Star Wars game",
+        "Uses console for Genesis collection/Shining Force"
+      ],
+      "forbidden": [
+        "Good console means liked bundled game",
+        "Xbox bought in this episode"
+      ],
+      "forbidden_inferences": [
+        "Good console means liked bundled game",
+        "Xbox bought in this episode"
+      ],
+      "retrieval_status": "not_run"
+    },
+    {
+      "id": "fresh-cq084-priority",
+      "source_key": "sc-395702904",
+      "episode": 84,
+      "question": "Was the pricey MUSHA purchase really what Tyler was most excited about?",
+      "query": "Was the pricey MUSHA purchase really what Tyler was most excited about?",
+      "expected_locations": [
+        "Paragraph 33",
+        "Paragraph 34",
+        "Paragraph 45"
+      ],
+      "evidence_locations": [
+        "Paragraph 33",
+        "Paragraph 34",
+        "Paragraph 45"
+      ],
+      "expected_facts": [
+        "PYST cheap saved-search pickup excited Tyler",
+        "Johnny steers to expensive MUSHA",
+        "Tyler also excited about Halo2 gray case yet wants to play MUSHA"
+      ],
+      "forbidden": [
+        "Tyler uninterested in playing MUSHA",
+        "PYST bought by Johnny for10",
+        "MUSHA already completed"
+      ],
+      "forbidden_inferences": [
+        "Tyler uninterested in playing MUSHA",
+        "PYST bought by Johnny for10",
+        "MUSHA already completed"
+      ],
+      "retrieval_status": "not_run"
+    },
+    {
+      "id": "fresh-cq084-count",
+      "source_key": "sc-395702904",
+      "episode": 84,
+      "question": "Who bought roughly a hundred PS1 games, and who picked up Halo 2 for its unusual case?",
+      "query": "Who bought roughly a hundred PS1 games, and who picked up Halo 2 for its unusual case?",
+      "expected_locations": [
+        "Paragraph 45"
+      ],
+      "evidence_locations": [
+        "Paragraph 45"
+      ],
+      "expected_facts": [
+        "Johnny corrected Xbox count to PS1",
+        "His Xbox list separate",
+        "Tyler Halo2 Platinum Hits translucent gray case"
+      ],
+      "forbidden": [
+        "Hundred Xbox games",
+        "Johnny Halo2 pickup",
+        "Every listed game a hundred-copy lot"
+      ],
+      "forbidden_inferences": [
+        "Hundred Xbox games",
+        "Johnny Halo2 pickup",
+        "Every listed game a hundred-copy lot"
+      ],
+      "retrieval_status": "not_run"
+    },
+    {
+      "id": "fresh-cq084-store",
+      "source_key": "sc-395702904",
+      "episode": 84,
+      "question": "Why were people paying extra for Lost Sphear, and what did Johnny suggest doing?",
+      "query": "Why were people paying extra for Lost Sphear, and what did Johnny suggest doing?",
+      "expected_locations": [
+        "Paragraph 39",
+        "Paragraph 40"
+      ],
+      "evidence_locations": [
+        "Paragraph 39",
+        "Paragraph 40"
+      ],
+      "expected_facts": [
+        "Johnny played about2hours",
+        "Store sold out discovered after dismissing eBay buyers",
+        "Suggested waitlist not confirmed reprint"
+      ],
+      "forbidden": [
+        "Guaranteed future print run",
+        "Verified current price",
+        "Waiting list purchase completed"
+      ],
+      "forbidden_inferences": [
+        "Guaranteed future print run",
+        "Verified current price",
+        "Waiting list purchase completed"
+      ],
+      "retrieval_status": "not_run"
+    },
+    {
+      "id": "fresh-cq084-zelda",
+      "source_key": "sc-395702904",
+      "episode": 84,
+      "question": "Was the Zelda Wii U itself decorated, or was the special design on something else?",
+      "query": "Was the Zelda Wii U itself decorated, or was the special design on something else?",
+      "expected_locations": [
+        "Paragraph 27",
+        "Paragraph 28",
+        "Paragraph 29"
+      ],
+      "evidence_locations": [
+        "Paragraph 27",
+        "Paragraph 28",
+        "Paragraph 29"
+      ],
+      "expected_facts": [
+        "Console black",
+        "GamePad gold trim/script",
+        "Hyrulean corrected Hylian",
+        "Tyler puts on good list despite reservations"
+      ],
+      "forbidden": [
+        "Gold console casing",
+        "They named a Zelda game played in hardware segment",
+        "Handheld list main scope"
+      ],
+      "forbidden_inferences": [
+        "Gold console casing",
+        "They named a Zelda game played in hardware segment",
+        "Handheld list main scope"
+      ],
+      "retrieval_status": "not_run"
+    },
+    {
+      "id": "fresh-cq084-pinball",
+      "source_key": "sc-395702904",
+      "episode": 84,
+      "question": "Did Tyler place seventh, or did he lose to someone ranked seventh?",
+      "query": "Did Tyler place seventh, or did he lose to someone ranked seventh?",
+      "expected_locations": [
+        "Paragraph 40",
+        "Paragraph 41",
+        "Paragraph 42"
+      ],
+      "evidence_locations": [
+        "Paragraph 40",
+        "Paragraph 41",
+        "Paragraph 42"
+      ],
+      "expected_facts": [
+        "Reports four straight losses first round",
+        "Opponent seventh-ranked as reported",
+        "His travel2.5hours",
+        "Qualification debate not officialrule verification"
+      ],
+      "forbidden": [
+        "Tyler seventh-place finish",
+        "Tyler state champion",
+        "Independent verified opponent ranking"
+      ],
+      "forbidden_inferences": [
+        "Tyler seventh-place finish",
+        "Tyler state champion",
+        "Independent verified opponent ranking"
+      ],
+      "retrieval_status": "not_run"
+    }
+  ]
+}

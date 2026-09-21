@@ -1,0 +1,302 @@
+{
+  "schema_version": "1",
+  "status": "independently_compared",
+  "frozen_utc": "2026-09-14T18:11:00Z",
+  "selection_rule": "floor(N/4),floor(N/2),floor(3N/4) plus three purposive dense/uncertain windows after full root source read before extractor records. One title-free outro window added before any extractor-record inspection; denominator unchanged.",
+  "reference_scope": "Explicit named game/series/edition/compilation products; non-game media, unnamed libraries and websites excluded. Handmade label and bootleg product identities retained.",
+  "limits": "Source-informed, not random/blind/audio verified.",
+  "windows": [
+    {
+      "batch": "021",
+      "episode": 102,
+      "source_key": "sc-511661571",
+      "source_window_count": 58,
+      "index": 14,
+      "location": "Paragraph 15",
+      "text": "\nfor Game Boy Color too, right? It’s real nice. It’s one of these games that also has the Game Boy Advance functionality. So along the side of it, it says Game Boy Advance like for also use with Game Boy Advance or something just like Shantae does. And you get an extra level if you put it in your Game Boy Advance. And I just think it’s so cool looking at a Game Boy Color game and it says Game Boy Advance on it. I don’t know why I think that’s cool, but I think that’s cool. You know, I didn’t know that actually. That’s news to me. Is that price we have listed for a C.I.B.? Yeah. 180. Not as, not as bad as I would have thought it would be given how. Let’s cause a run on Wendy every which way. There’s probably one copy on eBay to cause a run on it. Because Shantae is redonkulous right now. Yeah. And I think the developers of Shantae, they even found like a sealed case of them like not recently, but maybe like a year ago. They did an eBay auction, didn’t they? And they had some promo where they were giving away a copy of a sealed one too. And I think they signed them all and it’s\n\n",
+      "stratum": "quarter_positions",
+      "references": [
+        {
+          "id": "cq102-sample-14-0",
+          "title": "Wendy Every Which Way",
+          "quote": "Wendy every which way",
+          "reviewed_game_ids": [
+            "cq102-g021"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        },
+        {
+          "id": "cq102-sample-14-1",
+          "title": "Shantae",
+          "quote": "Shantae",
+          "reviewed_game_ids": [
+            "cq102-g023"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "021",
+      "episode": 102,
+      "source_key": "sc-511661571",
+      "source_window_count": 58,
+      "index": 29,
+      "location": "Paragraph 30",
+      "text": "\nof NBA Hangtime where it’s just like a stick figure of a dude shooting a basketball and it will never leave my collection because it’s amazing. I used to buy those from GameStop. I don’t have them anymore because I must have got rid of all of my modern games at some point. I know I had like a copy of ATV Off-Road Fury 2 with the, there was no case, but someone drew this like intricate pencil drawing of like ATVs going off jumps. It was awesome. I love that kind of stuff. That is awesome. So the Texas Chainsaw Massacre, this is like, it’s like one of the most violent Atari games. You play as Leatherface with a chainsaw and you just go around a field basically murdering kids and there’s no real sound effects except when the kids are running away from you, the Atari lets out this high-pitched squeal. So it is quite a sight for the Atari 2600 and that’s the reason that both of these games are pretty rare because a lot of traditional retailers wouldn’t carry them obviously because video games are ruining our children because Joe Lieberman told them you better not sell Halloween and the Texas Chainsaw Massacre. And then they decided they’re going to go out of business and not\n\n",
+      "stratum": "quarter_positions",
+      "references": [
+        {
+          "id": "cq102-sample-29-0",
+          "title": "NBA Hangtime handmade label",
+          "quote": "NBA Hangtime",
+          "reviewed_game_ids": [
+            "cq102-g071"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        },
+        {
+          "id": "cq102-sample-29-1",
+          "title": "ATV Off-Road Fury 2 handmade art",
+          "quote": "ATV Off-Road Fury 2",
+          "reviewed_game_ids": [
+            "cq102-g072"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        },
+        {
+          "id": "cq102-sample-29-2",
+          "title": "Texas Chainsaw Massacre Atari",
+          "quote": "Texas Chainsaw Massacre",
+          "reviewed_game_ids": [
+            "cq102-g065"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        },
+        {
+          "id": "cq102-sample-29-3",
+          "title": "Halloween Atari",
+          "quote": "Halloween",
+          "reviewed_game_ids": [
+            "cq102-g064"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "missing",
+          "repair": "Added explicit Halloween P30 retailer-discussion occurrence after root detected omission."
+        }
+      ]
+    },
+    {
+      "batch": "021",
+      "episode": 102,
+      "source_key": "sc-511661571",
+      "source_window_count": 58,
+      "index": 43,
+      "location": "Paragraph 44",
+      "text": "\na while. He probably makes a bunch of Pokemon videos. Anyways, don’t watch his videos for any kind of truth. Watch them for entertainment value only. Yeah, he genished a semi. I’ve searched for this guy and I can’t find the rarest. He frequently 64 games. He frequently transposes rare and expensive. That’s that’s the frequently you mean each and every time pretty much each and every time. Yeah, the rarest games. You just go to price charting and sort by price. It works even better with complete and box gameboy games stuff like that. Well, the funny the funny part, he’s like, I know people will say this isn’t the rarest game and it probably isn’t. But this is one I think you guys should know about. I’m like, then why is it in your the rarest? Whatever guy I kept. Yeah, I don’t I don’t understand. He’s got he’s doing something right because he’s got way more followers and views than we do. So fuck us. We messed up. We’re making videos on YouTube. That’s what we’re messing up. Yeah, probably we should be doing that. Oh, I want to throw back to the zombies ate my neighbor art. There was another asset they could have used and that was like the PAL version. If you look at\n\n",
+      "stratum": "quarter_positions",
+      "references": [
+        {
+          "id": "cq102-sample-43-0",
+          "title": "Zombies Ate My Neighbors PAL art",
+          "quote": "zombies ate my neighbor",
+          "reviewed_game_ids": [
+            "cq102-g083"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "021",
+      "episode": 102,
+      "source_key": "sc-511661571",
+      "source_window_count": 58,
+      "index": 51,
+      "location": "Paragraph 52",
+      "text": "\nabout classic favorites like Race Driving on the Genesis. But the game that has got more than double the likes of any of those is I am 8-Bit’s copy of Megaman 2. Of course it does. That is classic. That just figures... What else did you buy? I interrupted you, Tyler. What else did you buy? I got Growl, which I probably overpaid for. That was 140 minus 15 percent, whatever that equals. That game, I think, is not worth as much as people want for it, but the manual, it just doesn’t come up. That’s $119. Yeah, thank you. Good math. I love that game. And some of the better SNES stuff I got, I got Final Fight Guy, Ninja Gaiden Trilogy. And then this guy came out of nowhere. Really, Super Copa, is that how you pronounce it? This guy posted like four super nice SNES games. I got Super Copa and Megaman X3. And both of them are like eight or nine out of ten. And those games are so hard to find in really nice condition. Did you get a good deal on that Super Copa? I think it was like 200, and I probably got 10 percent of the paybacks on it. I think that’s a good deal. So 180 is one. Which one? Yeah.\n\n",
+      "stratum": "purposive_dense",
+      "references": [
+        {
+          "id": "cq102-sample-51-0",
+          "title": "Race Drivin Genesis",
+          "quote": "Race Driving",
+          "reviewed_game_ids": [
+            "cq102-g105"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        },
+        {
+          "id": "cq102-sample-51-1",
+          "title": "Mega Man 2 iam8bit",
+          "quote": "I am 8-Bit’s copy of Megaman 2",
+          "reviewed_game_ids": [
+            "cq102-g106"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        },
+        {
+          "id": "cq102-sample-51-2",
+          "title": "Growl",
+          "quote": "Growl",
+          "reviewed_game_ids": [
+            "cq102-g107"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        },
+        {
+          "id": "cq102-sample-51-3",
+          "title": "Final Fight Guy",
+          "quote": "Final Fight Guy",
+          "reviewed_game_ids": [
+            "cq102-g108"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        },
+        {
+          "id": "cq102-sample-51-4",
+          "title": "Ninja Gaiden Trilogy compilation",
+          "quote": "Ninja Gaiden Trilogy",
+          "reviewed_game_ids": [
+            "cq102-g109"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        },
+        {
+          "id": "cq102-sample-51-5",
+          "title": "Super Copa",
+          "quote": "Super Copa",
+          "reviewed_game_ids": [
+            "cq102-g110"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        },
+        {
+          "id": "cq102-sample-51-6",
+          "title": "Mega Man X3",
+          "quote": "Megaman X3",
+          "reviewed_game_ids": [
+            "cq102-g113"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "021",
+      "episode": 102,
+      "source_key": "sc-511661571",
+      "source_window_count": 58,
+      "index": 23,
+      "location": "Paragraph 24",
+      "text": "\nI’ve noticed. So there you go. Fun facts. Yep. I think it has something to do with the coating or lack of... Johnny, you’ve got all three of these though, right? Yes, I do. So if you’re a collector, you should go for all of them. Yeah. Just making sure everyone knows that. Actually, I don’t have a clamshell anymore, but it’s coming. It’s not here yet. Yeah, that’s weird. I have a clamshell. Okay. Before moving on, I think I’ll take the next two to those of you in my wheelhouse. So next one on the list is Branded13. This is a FMV game. It’s similar to the Dragon’s Lair and Space Ace and those types of games. Although unlike those games that came out on Laserdisc originally, the first version of Branded13 was for the PC. But they brought Branded13 to a plethora of consoles of that generation. The most prolific as far as price is the Jaguar CD version, which can do 180 to 250 complete. But if you do want to chase after a copy that might be a little bit more economical, they did have it for PS1 and Saturn and 3DO. Of all of the console versions, I was looking at the reviews earlier and they praised the... And this is not me being\n\n",
+      "stratum": "purposive_dense",
+      "references": [
+        {
+          "id": "cq102-sample-23-0",
+          "title": "Brain Dead 13 caption",
+          "quote": "Branded13",
+          "reviewed_game_ids": [
+            "cq102-g051"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        },
+        {
+          "id": "cq102-sample-23-1",
+          "title": "Dragon’s Lair",
+          "quote": "Dragon’s Lair",
+          "reviewed_game_ids": [
+            "cq102-g052"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        },
+        {
+          "id": "cq102-sample-23-2",
+          "title": "Space Ace",
+          "quote": "Space Ace",
+          "reviewed_game_ids": [
+            "cq102-g053"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "021",
+      "episode": 102,
+      "source_key": "sc-511661571",
+      "source_window_count": 58,
+      "index": 31,
+      "location": "Paragraph 32",
+      "text": "\nfive to 700 complete. Right. Exactly. I was going to say like at least 400 for CIB last time I was looking. There’s also a sweet double ender of it. Wait, no, no, no. Johnny has a bootleg version. So there’s two bootleg versions of this. So there’s a bootleg alternate version of the Texas Chainsaw Massacre. It says alternate version on the back, I think, and it also has like a limited edition thing on the front. That’s just a reproduction somebody made on Atari age. And then Johnny bought a double ender from some guy on eBay, but there is no double ender of Halloween and Texas Chainsaw Massacre. That’s another bootleg that apparently two weeks ago. Some paid $150 for. Yeah, I did this like two years ago and I did not know and I bought it and I wound up getting a refund. But yeah, that was annoying. That was really annoying. I was like, that’s cool and nowhere does it say reproduction. And there’s not like if you look it up, there’s not good information saying like, by the way, these double enders are reproductions. You kind of have to dig for that info, which I did after the fact. Because you could totally see like these like low print run games are just made\n\n",
+      "stratum": "purposive_uncertainty",
+      "references": [
+        {
+          "id": "cq102-sample-31-0",
+          "title": "TCM alternate bootleg",
+          "quote": "bootleg alternate version of the Texas Chainsaw Massacre",
+          "reviewed_game_ids": [
+            "cq102-g074"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        },
+        {
+          "id": "cq102-sample-31-1",
+          "title": "Halloween/TCM double-ender bootleg",
+          "quote": "double ender of Halloween and Texas Chainsaw Massacre",
+          "reviewed_game_ids": [
+            "cq102-g075"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "021",
+      "episode": 102,
+      "source_key": "sc-511661571",
+      "source_window_count": 58,
+      "index": 57,
+      "location": "Paragraph 58",
+      "text": "\ntags. People love hearing it every week. People are just like, \"Johnny, you’re a true comedian. You should probably do stand up with these comedic genes, more like mom genes.\" But anyways, done. You can find me at Instagram, Johnny_iucci. That’s where I am primarily. Anything else, guys? No? Then you know what time it is. Bye. Wait, Johnny, I’ve got one more thing.\n",
+      "stratum": "purposive_quiet",
+      "references": []
+    }
+  ],
+  "quiet_added_utc": "2026-09-14T18:13:00Z",
+  "comparison": {
+    "initial_found": 18,
+    "total": 19,
+    "final_found": 19,
+    "quarter_positions": {
+      "initial": 6,
+      "final": 7,
+      "total": 7
+    },
+    "purposive": {
+      "initial": 12,
+      "final": 12,
+      "total": 12
+    },
+    "quiet_windows": 1,
+    "notes": "Initial record occurrence comparison before span build; real Halloween P30 omission preserved. Root separately reviewed all124 references and requested10 continuation additions,28 role refinements and reporter fixes; final spans require separate review."
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "date": "2026-09-12",
+  "method": "Middle source window (zero-based floor(window_count/2)) per episode. Annotated from passages, then checked records. Same coordinator as extraction; not independent.",
+  "windows": [
+    {
+      "episode": 6,
+      "location": "Paragraph 15"
+    },
+    {
+      "episode": 7,
+      "location": "Paragraph 14"
+    },
+    {
+      "episode": 146,
+      "location": "01:13:42"
+    },
+    {
+      "episode": 200,
+      "location": "01:25:19"
+    },
+    {
+      "episode": 222,
+      "location": "01:00:10"
+    },
+    {
+      "episode": 248,
+      "location": "00:44:56"
+    },
+    {
+      "episode": 259,
+      "location": "01:09:50"
+    },
+    {
+      "episode": 263,
+      "location": "01:51:29"
+    },
+    {
+      "episode": 299,
+      "location": "01:11:19"
+    },
+    {
+      "episode": 300,
+      "location": "01:57:04"
+    }
+  ],
+  "denominator": {
+    "windows": 10,
+    "windows_with_game_titles": 3,
+    "identifiable_title_references": 7
+  },
+  "before": {
+    "episode_title_coverage": 7,
+    "exact_window_evidence": 4
+  },
+  "after": {
+    "episode_title_coverage": 7,
+    "exact_window_evidence": 7
+  },
+  "repairs": [
+    "Added 00:44:56 evidence to g-zelda-majora in CQ 248.",
+    "Added 01:09:50 evidence to cq259-g031 and cq259-g040."
+  ],
+  "limits": [
+    "Too few references for archive-wide recall estimate.",
+    "Not exhaustive or independent.",
+    "Does not assess all lore dimensions or speaker accuracy."
+  ]
+}

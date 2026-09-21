@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.1",
+  "created": "2026-09-14",
+  "status": "captured_text_review_complete",
+  "selection_basis": "User-selected CQ130 after CQ102 accepted; one active batch.",
+  "budget": "Local supplied transcript only; no paid calls/private history/publication/persona.",
+  "duplicate_controls": [],
+  "episodes": [
+    {
+      "key": "sc-694609366",
+      "episode_number": 130,
+      "title": "Episode 130 - So You Want To Collect Halloween Games #2",
+      "date": "2019-10-12",
+      "path": "episodes/cq-130-sc-694609366.md",
+      "source_url": "https://soundcloud.com/collectors-quest/episode-130-13-collectible-halloween-games",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "words": 20803,
+      "sha256": "36c4ca812cb38d3d763aa55ccec650253265bf3073c3c9f675bb73c317e93cf5",
+      "reason": "Second user-selected Halloween episode, singleton over20000 words after021 accepted.",
+      "status": "selected_not_processed",
+      "record_path": "records/sc-694609366.json"
+    }
+  ]
+}

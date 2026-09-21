@@ -1,0 +1,235 @@
+{
+  "review_binding": {
+    "version": "cq-review-binding-1",
+    "sha256": "87ee1011510cb2c192ddf19c05a3ca9bee3d53adbc904d967b3247d3f604cca5",
+    "reviewed_utc": "2026-09-13 11:15:39 UTC",
+    "meaning": "Exact reviewed local inputs; not independent semantic, audio or live certification"
+  },
+  "schema_version": "1",
+  "required_for": "A1–A8 are mandatory for every episode in every batch; each needs individual evidence.",
+  "acceptance_scope": "Captured-text development review only; extraction drafts and unresolved source limitations remain. No audio/live/publication acceptance.",
+  "episodes": [
+    {
+      "episode": 8,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "27 paragraphs accounted for; Metroid and N64 Mario Party series distinguished from the original release; tied supporting leaders qualified.",
+          "evidence": [
+            "batches/002/reviews/008-audit.md",
+            "batches/002/reviews/008-annotations.json"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "Full-source title/omission audit plus frozen quartile reference checks; garbled closing music is not a game identity.",
+          "evidence": [
+            "batches/002/reviews/008-audit.md",
+            "batches/002/reviews/008-annotations.json",
+            "batches/002/reviews/source-first-sample.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Johnny and Kat explicitly identified; spouse John and cousin Laura remain third parties, not hosts.",
+          "evidence": [
+            "batches/002/reviews/008-audit.md",
+            "batches/002/reviews/008-annotations.json"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "Fallout loaded/intended play separated from Tomb Raider completion; Metroid gift and later repurchase separated.",
+          "evidence": [
+            "batches/002/reviews/008-audit.md",
+            "batches/002/reviews/008-annotations.json"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Five complete prose answers manually source-adjudicated; all required context retrieved, with source warnings and forbidden inferences checked.",
+          "evidence": [
+            "batches/002/reviews/answer-review.json",
+            "batches/002/reviews/answer-review.md",
+            "batches/002/reviews/008-annotations.json"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Practical written episode brief desk-reviewed for source-backed framing, host perspectives, correction-aware callbacks, open loops and labeled editorial proposals; no live rehearsal claim.",
+          "evidence": [
+            "batches/002/reviews/008-audit.md",
+            "batches/002/reviews/answer-review.md"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Durable reviews merged and collection rebuilt; exact quotes, fresh source sample, complete-answer context and 56 regression tests passed; fixed pilot remains unchanged in scope.",
+          "evidence": [
+            "batches/002/reviews/verification.md",
+            "tests/test_lore_batch.py",
+            "scripts/process_lore_batch.py"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All eight recurring checks have episode-specific evidence; source uncertainties remain explicit and do not imply audio or production certification.",
+          "evidence": [
+            "batches/002/PROGRESS.md",
+            "pilot/WORKFLOW.md",
+            "batches/002/reviews/verification.md"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 75,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "59 paragraphs accounted for; repeated tail excluded from coverage; Bloodborne leads and remaining ties retained.",
+          "evidence": [
+            "batches/002/reviews/075-audit.md",
+            "batches/002/reviews/075-annotations.json"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "Full-source reconciliation and frozen checks; Power Lords correction retained alongside raw Power Awards 2; unresolved names preserved.",
+          "evidence": [
+            "batches/002/reviews/075-audit.md",
+            "batches/002/reviews/075-annotations.json",
+            "batches/002/reviews/source-first-sample.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Johnny and Tyler explicit; prior microcast noted, Kat absent but still cast; no claim this proves Tyler's first appearance.",
+          "evidence": [
+            "batches/002/reviews/075-audit.md",
+            "batches/002/reviews/075-annotations.json"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "Japanese purchase versus arrival and exact set separated; donations not sales; ambiguous Neverhood buyer remains unknown.",
+          "evidence": [
+            "batches/002/reviews/075-audit.md",
+            "batches/002/reviews/075-annotations.json"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Six complete prose answers manually source-adjudicated; all required context retrieved, with source warnings and forbidden inferences checked.",
+          "evidence": [
+            "batches/002/reviews/answer-review.json",
+            "batches/002/reviews/answer-review.md",
+            "batches/002/reviews/075-annotations.json"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Practical written episode brief desk-reviewed for source-backed framing, host perspectives, correction-aware callbacks, open loops and labeled editorial proposals; no live rehearsal claim.",
+          "evidence": [
+            "batches/002/reviews/075-audit.md",
+            "batches/002/reviews/answer-review.md"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Durable reviews merged and collection rebuilt; exact quotes, fresh source sample, complete-answer context and 56 regression tests passed; fixed pilot remains unchanged in scope.",
+          "evidence": [
+            "batches/002/reviews/verification.md",
+            "tests/test_lore_batch.py",
+            "scripts/process_lore_batch.py"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All eight recurring checks have episode-specific evidence; source uncertainties remain explicit and do not imply audio or production certification.",
+          "evidence": [
+            "batches/002/PROGRESS.md",
+            "pilot/WORKFLOW.md",
+            "batches/002/reviews/verification.md"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 201,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "150 caption windows accounted for; Stadium Events role inflation repaired; meaningful versus substantial-only leaders and unknown final endpoint qualified.",
+          "evidence": [
+            "batches/002/reviews/201-audit.md",
+            "batches/002/reviews/201-annotations.json"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "Full-source reconciliation plus two separately frozen samples; unresolved allusions and credit references retained without guessed identities.",
+          "evidence": [
+            "batches/002/reviews/201-audit.md",
+            "batches/002/reviews/201-annotations.json",
+            "batches/002/reviews/source-first-sample.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Johnny/Tyler contextual attribution qualified; Stefan's historical view and third-party owners not converted into present-host claims.",
+          "evidence": [
+            "batches/002/reviews/201-audit.md",
+            "batches/002/reviews/201-annotations.json"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "Hellfire purchase distinguished from MUSHA card need; Silly Bandz two copies versus fifty temptation; dated Last of Us II run not falsely completed.",
+          "evidence": [
+            "batches/002/reviews/201-audit.md",
+            "batches/002/reviews/201-annotations.json"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Six complete prose answers manually source-adjudicated; all required context retrieved, with source warnings and forbidden inferences checked.",
+          "evidence": [
+            "batches/002/reviews/answer-review.json",
+            "batches/002/reviews/answer-review.md",
+            "batches/002/reviews/201-annotations.json"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Practical written episode brief desk-reviewed for source-backed framing, host perspectives, correction-aware callbacks, open loops and labeled editorial proposals; no live rehearsal claim.",
+          "evidence": [
+            "batches/002/reviews/201-audit.md",
+            "batches/002/reviews/answer-review.md"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Durable reviews merged and collection rebuilt; exact quotes, fresh source sample, complete-answer context and 56 regression tests passed; fixed pilot remains unchanged in scope.",
+          "evidence": [
+            "batches/002/reviews/verification.md",
+            "tests/test_lore_batch.py",
+            "scripts/process_lore_batch.py"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All eight recurring checks have episode-specific evidence; source uncertainties remain explicit and do not imply audio or production certification.",
+          "evidence": [
+            "batches/002/PROGRESS.md",
+            "pilot/WORKFLOW.md",
+            "batches/002/reviews/verification.md"
+          ]
+        }
+      }
+    }
+  ]
+}

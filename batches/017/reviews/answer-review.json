@@ -1,0 +1,1106 @@
+{
+  "schema_version": "1",
+  "reviewer": "Root coordinator: independent full-source and actual-prose review",
+  "status": "semantic_answers_and_retrieval_reviewed",
+  "scope": "Root independently read all282 supplied windows and all59 complete composed answers, plus all172 action summaries after Ocarina repair and254 typed memberships. Source-backed semantic precision repairs are tracked separately. Final original59/59, tuned59/59, frozen37/37 and fresh12/12 pass. Exact acceptance is recorded separately in the ledger; not blind/audio/live certification.",
+  "cases": [
+    {
+      "id": "cq023-roster",
+      "episode": 23,
+      "question": "Who was hosting the collecting-rants episode, and how did Johnny's tournament go?",
+      "query": "Kat Johnny Street Fighter tournament Nick first round recovery",
+      "answer": "Kat and Johnny host this episode. Johnny says he attended a small invited Street Fighter event while still recovering from illness. In Street Fighter V he beat Nick in the first round and was then annihilated in the next round. His poor start to the conversation refers to how he felt afterward, not to having disliked the event.",
+      "forbidden": [
+        "No Tyler or guest participation.",
+        "No tournament championship or medical diagnosis."
+      ],
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 2"
+      ],
+      "status": "passed",
+      "reason": "Kat/Johnny, not Tyler; actual first-round win and next-round loss, not tournament victory."
+    },
+    {
+      "id": "cq023-mailers",
+      "episode": 23,
+      "question": "What exactly made bubble mailers Johnny's biggest complaint, and did he actually return any games?",
+      "query": "bubble mailers box crushed three Game Boy returned time template",
+      "answer": "Johnny's rule is that a game in a cardboard box should be shipped in a box. He allows more leeway for loose cartridges or inexpensive games in replaceable cases. He describes repeated crushed deliveries, a saved angry-email template and requests for better packing, including offers to pay more. Most concretely, three unnamed Game Boy games arrived crushed and all went back. His objection includes the time lost arranging returns; the seven-dollar game and four-dollar return examples are illustrative, not verified charges for those three games.",
+      "forbidden": [
+        "Do not name the three games.",
+        "Do not retain returned games as current ownership.",
+        "Do not make sample prices exact charges."
+      ],
+      "evidence_locations": [
+        "Paragraph 4",
+        "Paragraph 5",
+        "Paragraph 6",
+        "Paragraph 7"
+      ],
+      "status": "passed",
+      "reason": "Three unnamed games returned; cardboard rule has replaceable-case exceptions and prices are illustrative."
+    },
+    {
+      "id": "cq023-tomato",
+      "episode": 23,
+      "question": "Which stickered game was Kat especially reluctant to clean, and did she even like it?",
+      "query": "Princess Tomato Kat sticker label fond terrible removal",
+      "answer": "Kat uses her Princess Tomato copy as the personal example: she wants its sticker gone but worries about removing part of the underlying label or leaving residue. She says she feels fondly about the game while also calling it terrible. The conversation does not report a successful removal. They ask listeners for methods; it supplies no demonstrated universal cleaning procedure.",
+      "forbidden": [
+        "Do not erase the mixed opinion.",
+        "Do not certify a chemical method as safe."
+      ],
+      "evidence_locations": [
+        "Paragraph 7",
+        "Paragraph 8",
+        "Paragraph 9",
+        "Paragraph 10",
+        "Paragraph 11"
+      ],
+      "status": "passed",
+      "reason": "Kat's affection and terrible verdict coexist; cleaning is desired, not accomplished or certified."
+    },
+    {
+      "id": "cq023-photos",
+      "episode": 23,
+      "question": "Did Johnny reject every listing that used a stock photo?",
+      "query": "stock photos actual pictures condition responsibility gamble half.com Amazon",
+      "answer": "No. He says a stock image alongside photos of the actual item is fine; his complaint is relying on it alone. He wants condition details and views that reveal damaged labels or hidden stickers. He admits gambling on stock-photo listings from half.com and Amazon, winning some and losing others, and takes responsibility for choosing that risk. Without before-shipping pictures, the hosts note that damage can be difficult to distinguish from an item's original condition. These are their dated observations, not present-day marketplace policy.",
+      "forbidden": [
+        "Do not claim a total stock-photo boycott.",
+        "Do not present dated fees or site features as current verified facts."
+      ],
+      "evidence_locations": [
+        "Paragraph 12",
+        "Paragraph 13",
+        "Paragraph 14",
+        "Paragraph 15",
+        "Paragraph 16",
+        "Paragraph 17"
+      ],
+      "status": "passed",
+      "reason": "Stock-plus-actual photos acceptable; Johnny admits chosen gambles and original-vs-shipping condition uncertainty."
+    },
+    {
+      "id": "cq023-sharpie",
+      "episode": 23,
+      "question": "Which host preferred Sharpie to stickers, and had either proven a cleaning method?",
+      "query": "Sharpie stickers Kat Johnny duplicate cleaning removed once twice",
+      "answer": "Kat says Sharpie frightens her more and would take a sticker instead. Johnny leans the other way because stickers seem like more work, and says he has removed Sharpie once or twice. He suggests testing on a duplicate. That is not evidence Kat performed the experiment, and the exchange does not establish a universally safe cleaning method.",
+      "forbidden": [
+        "Do not attribute successful removal to Kat.",
+        "No guarantee for labels or every cartridge."
+      ],
+      "evidence_locations": [
+        "Paragraph 18",
+        "Paragraph 19"
+      ],
+      "status": "passed",
+      "reason": "Opposing preferences retained; Johnny's once/twice success not Kat's completed experiment."
+    },
+    {
+      "id": "cq023-shadowgate",
+      "episode": 23,
+      "question": "What did Johnny do with the filthy Shadowgate, and is the two-dollar figure useful as a price today?",
+      "query": "Shadowgate mud board discarded trash 2006 two dollars",
+      "answer": "Johnny recalls opening a Shadowgate copy and finding what looked like dirt and mud inside, including around the board. He threw it away rather than dealing with it. The approximately two-dollar value and around-2006 setting are remembered historical context, not a current price or evidence of a sale or return.",
+      "forbidden": [
+        "Do not label disposal as sold or returned.",
+        "Do not quote two dollars as a current market price."
+      ],
+      "evidence_locations": [
+        "Paragraph 20"
+      ],
+      "status": "passed",
+      "reason": "Explicit disposal ends historical ownership, not sale/return; old rough price not present value."
+    },
+    {
+      "id": "cq023-labels",
+      "episode": 23,
+      "question": "Why did Kat and Johnny differ about accepting torn labels?",
+      "query": "torn labels upgrade local exchange online Flintstones hypothetical",
+      "answer": "Kat says a torn label is not always a deal-breaker on common games and hopes to upgrade when a reasonably priced copy appears. Johnny usually passes because he expects to upgrade anyway and would rather spend a little more once. He recognizes that he is comparing online alternatives while Kat is constrained by what is locally available and by exchange and eBay costs. The two-hundred-dollar Flintstones line is a hypothetical rare-game exception, not a disclosed purchase.",
+      "forbidden": [
+        "Do not infer which Flintstones installment.",
+        "Do not create a real $200 transaction or universal rule."
+      ],
+      "evidence_locations": [
+        "Paragraph 21",
+        "Paragraph 22",
+        "Paragraph 23"
+      ],
+      "status": "passed",
+      "reason": "Conditional local-market preference, not universal standard; Flintstones example hypothetical/unnamed installment."
+    },
+    {
+      "id": "cq023-pickups",
+      "episode": 23,
+      "question": "What were Kat and Johnny's actual pickups, and what was still missing from the matching Star Wars boxes?",
+      "query": "Aerial Assault Nintendo Power forty JVC THQ Return Jedi Empire box purchased wanted",
+      "answer": "Kat reports Aerial Assault for Master System. Johnny says he bought about forty Nintendo Power magazines at Game Swappers, correcting today to yesterday, and is getting close to finishing that set. He also bought a JVC box for Super Star Wars: Return of the Jedi. He already had a JVC Super Star Wars box and THQ packaging for Empire and Jedi; the JVC Empire box was still needed to make the shelf consistent. These are magazines and packaging acquisitions, not forty games or a newly purchased complete Jedi game.",
+      "forbidden": [
+        "No completed magazine set.",
+        "No CIB or cartridge acquisition from box-only evidence.",
+        "No receipt of the wanted Empire box."
+      ],
+      "evidence_locations": [
+        "Paragraph 23",
+        "Paragraph 24"
+      ],
+      "status": "passed",
+      "reason": "Aerial Assault belongs to Kat; Johnny's magazines and Jedi box are not complete game purchases, Empire box still wanted."
+    },
+    {
+      "id": "cq023-life",
+      "episode": 23,
+      "question": "Did Kat finally play Minecraft, or did Johnny steer her toward something else?",
+      "query": "Minecraft never played postponed Life Strange fifteen minutes Johnny Gold ten dollars",
+      "answer": "Kat says she had never played Minecraft and still had not reached it. Johnny urged her to get Life is Strange instead, mentioning a ten-dollar Gold offer at the time. She got it and was only about fifteen minutes in, adjusting to its choice-based style. She neither loved nor hated it yet and planned to give it a fair try on her day off. Johnny describes its outcomes within a fairly linear track and a Twin Peaks-like strangeness; those are his comparisons, not Kat's completed verdict or proof of the exact price she paid.",
+      "forbidden": [
+        "No Minecraft purchase or play.",
+        "No completed Life is Strange review.",
+        "No exact amount paid inferred from offer."
+      ],
+      "evidence_locations": [
+        "Paragraph 24",
+        "Paragraph 25",
+        "Paragraph 26",
+        "Paragraph 27"
+      ],
+      "status": "passed",
+      "reason": "Obtained/started Life is Strange, not Minecraft; fifteen minutes and tentative verdict, offer not exact payment."
+    },
+    {
+      "id": "cq023-time",
+      "episode": 23,
+      "question": "Why did Johnny play LEGO rather than more Zelda, and which Zelda was it?",
+      "query": "LEGO Dimensions Zelda hour limited time play",
+      "answer": "Johnny says he played a little LEGO Dimensions and wanted more Zelda but only had about an hour, less time than he wanted for Zelda. The episode names Zelda generically; it does not establish the installment here. The hour describes available time, not an exact measured LEGO session.",
+      "forbidden": [
+        "Do not silently resolve Zelda from prior episodes.",
+        "Do not turn available time into exact play duration."
+      ],
+      "evidence_locations": [
+        "Paragraph 27",
+        "Paragraph 28"
+      ],
+      "status": "passed",
+      "reason": "LEGO played in limited available time; generic Zelda deferred, installment not imported from prior episodes."
+    },
+    {
+      "id": "cq023-pinball",
+      "episode": 23,
+      "question": "Did Johnny enjoy the Little Mermaid pinball, and had he tested the other Game Boy arrivals?",
+      "query": "Little Mermaid pinball awful other table Game Boy got checking out",
+      "answer": "Johnny calls the Little Mermaid II pinball game awful, but says he probably will give it about five more minutes to try the other table. He describes Little Mermaid and Little Mermaid II table choices inside that game, not two separately purchased games. He also says a couple of other pinballs arrived for Game Boy systems and that he plans to check them out. Their titles, exact systems and later verdicts are not supplied.",
+      "forbidden": [
+        "No exact catalog subtitle or platform forced.",
+        "No invented titles, successful tests or published photos."
+      ],
+      "evidence_locations": [
+        "Paragraph 28"
+      ],
+      "status": "passed",
+      "reason": "Negative play verdict plus intended other-table test; received unnamed pinballs not already tested."
+    },
+    {
+      "id": "cq023-prominence",
+      "episode": 23,
+      "question": "Which games received the most meaningful discussion in this episode?",
+      "query": "meaningful discussion Life Strange LEGO Dimensions Street Fighter V Princess Tomato Shadowgate Aerial Assault Minecraft Little Mermaid",
+      "answer": "Using meaningful untimed paragraph coverage, Life is Strange leads with three paragraphs (25–27). Six games tie next at one paragraph each: Street Fighter V, Princess Tomato, Shadowgate, Minecraft, LEGO Dimensions and the Little Mermaid II pinball game. There is no unique second- or third-place game. Aerial Assault is only a brief named pickup, and LEGO's P27 recap is passing; LEGO's meaningful time-allocation explanation is in P28. This is discussion coverage, not elapsed speech time or a recommendation. Series-level GTA and Zelda, boxes, magazines, component tables and unidentified game groups remain outside this individual-game ranking.",
+      "forbidden": [
+        "No strict third-place winner.",
+        "Do not rank JVC packaging or Nintendo Power as games.",
+        "No favorite or purchase inference."
+      ],
+      "evidence_locations": [
+        "Paragraph 2",
+        "Paragraph 10",
+        "Paragraph 20",
+        "Paragraph 23",
+        "Paragraph 25",
+        "Paragraph 26",
+        "Paragraph 27",
+        "Paragraph 28"
+      ],
+      "status": "passed",
+      "reason": "Two inflated role labels repaired; recomputed3 then six-way1, no forced second/third or media credit."
+    },
+    {
+      "id": "cq090-task-rank",
+      "episode": 90,
+      "question": "Which individual games got the most discussion in this episode?",
+      "query": "Castlevania Rebirth Human Fall Flat Contra Gradius preservation packages",
+      "answer": "Castlevania: The Adventure ReBirth leads with eight meaningful paragraphs. Human: Fall Flat follows with six, and Contra ReBirth and Gradius ReBirth tie for third with five each. These are untimed paragraph unions, not minutes, favorites or play totals. Much of the ReBirth coverage concerns availability and hypothetical physical releases; Human: Fall Flat includes collecting and package discussion. Separate vinyl/cards, physical pinball and series are excluded.",
+      "forbidden": [
+        "Exact minutes",
+        "Only three unique leaders",
+        "All games played"
+      ],
+      "evidence_locations": [
+        "Paragraph 13",
+        "Paragraph 14",
+        "Paragraph 20",
+        "Paragraph 21",
+        "Paragraph 22",
+        "Paragraph 23",
+        "Paragraph 24",
+        "Paragraph 25",
+        "Paragraph 55",
+        "Paragraph 56",
+        "Paragraph 57",
+        "Paragraph 59",
+        "Paragraph 60",
+        "Paragraph 62"
+      ],
+      "status": "passed",
+      "reason": "Independent union confirms8/6/5tie; ReBirth trio receives explicit shared contextual support, not gameplay or recommendation."
+    },
+    {
+      "id": "cq090-task-roster",
+      "episode": 90,
+      "question": "Who was on this show, and was the fake account a real change?",
+      "query": "Tyler Johnny intro Default Jen fake account",
+      "answer": "Tyler and Johnny are the two present hosts. They jokingly restart the introduction after pinball talk. The ending proposes a fake Default Jen account and Nurse Love Addiction joke; it is not evidence that an account or the show's official persona was actually changed.",
+      "forbidden": [
+        "Kat present",
+        "Real account changed"
+      ],
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 6",
+        "Paragraph 7",
+        "Paragraph 88",
+        "Paragraph 89"
+      ],
+      "status": "passed",
+      "reason": "Two present hosts; fake-account ending a joke, not external mutation."
+    },
+    {
+      "id": "cq090-task-flight",
+      "episode": 90,
+      "question": "Which digital purchase had already become unusable for Tyler?",
+      "query": "Microsoft Flight DLC over 100 Games Windows Live install",
+      "answer": "Tyler says he spent over $100 buying all the Microsoft Flight DLC and later could not install or download it after support and the relevant services disappeared. Flight Simulator X is named as the predecessor, not the title he lost. This is his historical account, not a verified present-day installation guide or exact shutdown chronology.",
+      "forbidden": [
+        "Flight Simulator X was lost game",
+        "Current service guarantee"
+      ],
+      "evidence_locations": [
+        "Paragraph 9",
+        "Paragraph 10"
+      ],
+      "status": "passed",
+      "reason": "Microsoft Flight DLC is lost-access subject, not Flight Simulator X; dated self-report over100."
+    },
+    {
+      "id": "cq090-task-shopping",
+      "episode": 90,
+      "question": "What did Tyler buy before the Wii shop closed, and why did he stop?",
+      "query": "Tyler WiiWare 3000 points Contra Gradius Castlevania Alien Crush Adventure Island Lit storage",
+      "answer": "He started with 3,000 points for Contra ReBirth, Gradius ReBirth and Castlevania: The Adventure ReBirth, then added Alien Crush Returns, Adventure Island: The Beginning and LIT. Awkward point prices led him to add more money. Running out of storage ended the spree; extra Virtual Console purchases were only something he would have considered with more room.",
+      "forbidden": [
+        "All were completed",
+        "Extra Virtual Console bought"
+      ],
+      "evidence_locations": [
+        "Paragraph 20",
+        "Paragraph 21",
+        "Paragraph 22"
+      ],
+      "status": "passed",
+      "reason": "Six named purchases explicitly enumerated; capacity-limited extra VC intentions not purchases."
+    },
+    {
+      "id": "cq090-task-johnny-wii",
+      "episode": 90,
+      "question": "Did Johnny join the shutdown shopping spree too?",
+      "query": "Johnny skipped WiiWare already owned Castlevania Rebirth",
+      "answer": "No. Johnny says he did not want the hassle of reconnecting Wii U, and already owned Castlevania ReBirth, the game he most wanted to play. Tyler's six purchases should not be assigned to Johnny, and wanting to play Castlevania is not a report of a new session.",
+      "forbidden": [
+        "Johnny bought six",
+        "Johnny played now"
+      ],
+      "evidence_locations": [
+        "Paragraph 20",
+        "Paragraph 21",
+        "Paragraph 22"
+      ],
+      "status": "passed",
+      "reason": "Johnny already owns Castlevania and skips spree; Tyler's acquisitions not reassigned."
+    },
+    {
+      "id": "cq090-task-physics",
+      "episode": 90,
+      "question": "Why was Tyler disappointed by his new pinball download?",
+      "query": "Alien Crush Returns Turbo physics flipper Lit",
+      "answer": "He says Alien Crush Returns had worse flipper physics than the TurboGrafx game: much of the flipper sent shots sideways, making the middle difficult to target. His criticism follows actual play, but he also describes it as easy rather than reporting a hard challenge. Separately, he tried LIT for about 30 seconds and thought a tablet game could do that kind of puzzle better.",
+      "forbidden": [
+        "Completed LIT",
+        "Every WiiWare game bad"
+      ],
+      "evidence_locations": [
+        "Paragraph 21",
+        "Paragraph 22",
+        "Paragraph 23"
+      ],
+      "status": "passed",
+      "reason": "Actual Alien Crush play criticism and30-second LIT trial; no invented completions."
+    },
+    {
+      "id": "cq090-task-rerelease",
+      "episode": 90,
+      "question": "Were the ReBirth games getting a physical compilation?",
+      "query": "ReBirth PS4 Switch 30 hypothetical Konami Namco Museum",
+      "answer": "They speculate about a PS4 disc or Switch compilation, perhaps around $30, and wonder whether a limited-print publisher could negotiate with Konami. That is a hoped-for future release, not an announcement. Their Namco Museum example is corrected to already existing digitally on Switch, while its physical edition remains uncertain in the conversation.",
+      "forbidden": [
+        "Announced compilation",
+        "Purchased physical ReBirth"
+      ],
+      "evidence_locations": [
+        "Paragraph 23",
+        "Paragraph 24",
+        "Paragraph 25",
+        "Paragraph 26"
+      ],
+      "status": "passed",
+      "reason": "Physical ReBirth is speculation; Namco Switch digital correction doesn't confirm a physical edition."
+    },
+    {
+      "id": "cq090-task-preservation",
+      "episode": 90,
+      "question": "Did they mean these downloads had completely vanished?",
+      "query": "WiiWare lost shelves magnetic media Hudson Donkey Kong preservation",
+      "answer": "Not consistently. They distinguish losing an official buying route or a collectible shelf copy from losing the files altogether. They argue that undumped old Japanese computer games on magnetic media, including a Hudson Donkey Kong 3 example, may face a more urgent preservation risk. Their claims about downloadable copies and piracy remain attributed opinions, not independently verified availability or legal advice.",
+      "forbidden": [
+        "Legally free",
+        "All files preserved proven"
+      ],
+      "evidence_locations": [
+        "Paragraph 25",
+        "Paragraph 27",
+        "Paragraph 28",
+        "Paragraph 29"
+      ],
+      "status": "passed",
+      "reason": "Official-sale/shelf access differs from lost files; host piracy/preservation stance not legal conclusion."
+    },
+    {
+      "id": "cq090-task-account",
+      "episode": 90,
+      "question": "What would make digital ownership feel safer to Johnny?",
+      "query": "Nintendo account carry over Mario family 3DS ownership",
+      "answer": "He wants a persistent library that survives console generations, so buying a Nintendo game does not mean paying for it again on every new system. He also wants sensible household sharing between his and his wife's systems. The desired service is a proposal; their complaints about current Nintendo behavior are dated observations, not a statement of today's features.",
+      "forbidden": [
+        "Service already exists in source",
+        "Specific shared purchase"
+      ],
+      "evidence_locations": [
+        "Paragraph 30",
+        "Paragraph 31",
+        "Paragraph 32",
+        "Paragraph 33",
+        "Paragraph 34"
+      ],
+      "status": "passed",
+      "reason": "Persistent cross-generation and household library is Johnny's proposal, not currently verified service."
+    },
+    {
+      "id": "cq090-task-limited-debate",
+      "episode": 90,
+      "question": "Did they agree on how limited releases should be sold?",
+      "query": "Limited Run Johnny window Tyler scarcity complaints",
+      "answer": "No. Johnny argues for a limited ordering window that accommodates demand, rather than an arbitrarily low cap. Tyler thinks scarcity itself drives interest and openly enjoys the online uproar. They share complaints about some products and both have spent hundreds with Limited Run, but that does not make their preferred sales models the same.",
+      "forbidden": [
+        "Unanimous ordering model",
+        "Measured demand"
+      ],
+      "evidence_locations": [
+        "Paragraph 35",
+        "Paragraph 36",
+        "Paragraph 37",
+        "Paragraph 38",
+        "Paragraph 40",
+        "Paragraph 41",
+        "Paragraph 42",
+        "Paragraph 43"
+      ],
+      "status": "passed",
+      "reason": "Johnny favors ordering window, Tyler scarcity/uproar; spending doesn't imply shared preference."
+    },
+    {
+      "id": "cq090-task-cart",
+      "episode": 90,
+      "question": "Had Johnny really never lost a game from his cart?",
+      "query": "Johnny cart never missed special editions correction Night Trap",
+      "answer": "His account changes in the conversation: after saying items fell out of his cart, he says he never missed one, then corrects that he did miss a couple of special editions. Tyler says he never missed a game he tried to get. Night Trap is a customer-backlash example, not a securely named instance of Johnny's own lost special edition.",
+      "forbidden": [
+        "Johnny missed Night Trap specifically"
+      ],
+      "evidence_locations": [
+        "Paragraph 38",
+        "Paragraph 39",
+        "Paragraph 40"
+      ],
+      "status": "passed",
+      "reason": "Preserves Johnny's correction to missed special editions; Night Trap not identified as his loss."
+    },
+    {
+      "id": "cq090-task-nighttrap",
+      "episode": 90,
+      "question": "Who bought the big Night Trap package, and what bothered him?",
+      "query": "Tyler Night Trap PC bundle 170 loose jewel poster",
+      "answer": "Tyler reports spending roughly $170 on the get-everything Night Trap bundle and criticizes his PC big box as unusually bare: a loose jewel case, folded poster and little internal packaging. He is uncertain about the exact manual contents. This is a purchase and ownership account, not a report that Johnny bought that bundle.",
+      "forbidden": [
+        "Johnny bundle owner",
+        "Exact verified contents"
+      ],
+      "evidence_locations": [
+        "Paragraph 44",
+        "Paragraph 45"
+      ],
+      "status": "passed",
+      "reason": "Tyler owns bundle/PC box; approximate cost and uncertain manual, not Johnny's acquisition."
+    },
+    {
+      "id": "cq090-task-collectors-box",
+      "episode": 90,
+      "question": "Were the SNES-looking indie boxes actually SNES games?",
+      "query": "Hyper Light Drifter digital code Retro City Rampage promo box",
+      "answer": "No such conclusion is supported. Hyper Light Drifter's SNES-style collector package held a digital download code, and the speakers are unsure what its cartridge-shaped object did. They distinguish that package from the later disc release. Retro City Rampage's SNES-style item is described as a box-only promo; Johnny's owned Switch version with loose extra covers is a different product.",
+      "forbidden": [
+        "Playable SNES carts",
+        "Cartridge contents certain"
+      ],
+      "evidence_locations": [
+        "Paragraph 53",
+        "Paragraph 54",
+        "Paragraph 55"
+      ],
+      "status": "passed",
+      "reason": "Code-only and promo packages not playable SNES games; Johnny Switch covers a distinct owned product."
+    },
+    {
+      "id": "cq090-task-region",
+      "episode": 90,
+      "question": "Did they settle whether the Super Rare releases counted as US games?",
+      "query": "Human Fall Flat Flame Flood PAL labeling region encoded I Am Setsuna",
+      "answer": "Johnny's position is that the European-labeled releases do not count for his US set, though people can collect across regions. But the later question about whether the cartridges themselves encode a region is left unanswered. Considering Johnny's I Am Setsuna copy does not turn that proposed check into a completed technical finding.",
+      "forbidden": [
+        "Verified region code",
+        "All collectors must exclude"
+      ],
+      "evidence_locations": [
+        "Paragraph 56",
+        "Paragraph 57",
+        "Paragraph 62",
+        "Paragraph 63"
+      ],
+      "status": "passed",
+      "reason": "US-set preference and unresolved cartridge encoding separated; proposed inspection not completed."
+    },
+    {
+      "id": "cq090-task-coupons",
+      "episode": 90,
+      "question": "Why might those eBay sale prices mislead someone estimating value?",
+      "query": "coupon completed listings 15 percent overpriced net price",
+      "answer": "They point out that a completed listing can show the asking price without the buyer's coupon savings. Tyler even says he bought items above his target price because a 15% discount brought the net cost down. That is a concrete reason to treat the displayed figure cautiously, but their broader claims about eBay's business or market effects are hypotheses, not proven causes.",
+      "forbidden": [
+        "eBay insolvency established",
+        "Universal market rise"
+      ],
+      "evidence_locations": [
+        "Paragraph 64",
+        "Paragraph 65",
+        "Paragraph 66",
+        "Paragraph 67"
+      ],
+      "status": "passed",
+      "reason": "Displayed listing vs net coupon cost explained, macroeconomic theories not verified."
+    },
+    {
+      "id": "cq090-task-turbo",
+      "episode": 90,
+      "question": "Which Turbo pickups belonged to which host?",
+      "query": "World Sports Competition Johnny Time Cruise Cadash Tyler Hyruleverse Battle Royale",
+      "answer": "Johnny reports a sealed boxed World Sports Competition around $200 with 15% back. Tyler got roughly a dozen games from Hyruleverse, highlighting Time Cruise and Cadash, and only tentatively recalls Battle Royale. Johnny also bought from that seller, but the source does not assign Tyler's named lot to him.",
+      "forbidden": [
+        "Both same named lot",
+        "Verified seal"
+      ],
+      "evidence_locations": [
+        "Paragraph 64",
+        "Paragraph 74",
+        "Paragraph 75",
+        "Paragraph 76"
+      ],
+      "status": "passed",
+      "reason": "Johnny sealed World Sports Competition vs Tyler received lot; Battle Royale tentative, seller overlap not merged."
+    },
+    {
+      "id": "cq090-task-inserts",
+      "episode": 90,
+      "question": "What changed about Tyler's Genesis collecting, and was the promised game sent?",
+      "query": "Genesis manuals registration Doom Troopers Cowlitz second adventure",
+      "answer": "Tyler now wants registration cards and other Genesis inserts, explicitly reversing his earlier view that manuals were too expensive to pursue. Doom Troopers with its trading card illustrates the shift. Johnny offers a manual discussion, but Cowlitz Gamers' 2nd Adventure is still a future shipment tied to that conversation—not a delivered gift.",
+      "forbidden": [
+        "Shipment done",
+        "Every Xbox insert required"
+      ],
+      "evidence_locations": [
+        "Paragraph 77",
+        "Paragraph 78"
+      ],
+      "status": "passed",
+      "reason": "Tyler reverses Genesis insert stance; conditional Cowlitz promise remains unsent."
+    },
+    {
+      "id": "cq090-task-linus",
+      "episode": 90,
+      "question": "Were those complete Linus and Secret Scout pickups for Genesis?",
+      "query": "Linus Spacehead Secret Scout NES Cosmic Genesis correction",
+      "answer": "No: Tyler corrects the initial assumption to NES. He says the complete copies had imperfect boxes but worked out near cart-only prices with coupons. Later they identify Cosmic Spacehead as the Genesis title and discuss its relationship to Linus, without changing the platform of the purchased copies.",
+      "forbidden": [
+        "Bought Genesis Secret Scout",
+        "Externally established exact port equivalence"
+      ],
+      "evidence_locations": [
+        "Paragraph 76",
+        "Paragraph 77",
+        "Paragraph 78"
+      ],
+      "status": "passed",
+      "reason": "NES purchases retain corrected platform and imperfect boxes; Cosmic Spacehead separate Genesis naming."
+    },
+    {
+      "id": "cq090-task-played",
+      "episode": 90,
+      "question": "What did Tyler finish, and what was only on his next-play list?",
+      "query": "Metroid Battle Olympus beat Neutopia Astyanax Crusader Golden Axe Warrior",
+      "answer": "Tyler says he beat Metroid and Battle of Olympus, and revises his earlier easy-Metroid impression to a good difficulty curve. He has already played Neutopia, while Neutopia II and Astyanax are upcoming. Crusader of Centy is a proposed next game. Golden Axe Warrior is different again: he explicitly does not own it and has failed to get the UPC variant at a price he likes.",
+      "forbidden": [
+        "All completed",
+        "Golden Axe purchased"
+      ],
+      "evidence_locations": [
+        "Paragraph 81",
+        "Paragraph 82",
+        "Paragraph 84",
+        "Paragraph 85",
+        "Paragraph 86"
+      ],
+      "status": "passed",
+      "reason": "Metroid/Battle Olympus completed; others future, Golden Axe explicitly unowned."
+    },
+    {
+      "id": "cq090-task-olympus",
+      "episode": 90,
+      "question": "Why compare Battle of Olympus with both Zelda II and Simon's Quest?",
+      "query": "Battle Olympus Zelda 2 Simon quest Crystalis Game Boy",
+      "answer": "They separate movement and appearance from structure: the jump, combat and visual feel evoke Zelda II, while wandering an open 2D world and solving mysteries remind them of Simon's Quest. They also discuss a reportedly close Game Boy version and Johnny recommends Crystalis; Tyler says his old attempt at Crystalis felt repetitive. Their release-date and conversion-history details are uncertain host claims.",
+      "forbidden": [
+        "Identical games",
+        "Verified dates"
+      ],
+      "evidence_locations": [
+        "Paragraph 82",
+        "Paragraph 83",
+        "Paragraph 84"
+      ],
+      "status": "passed",
+      "reason": "Movement/visual vs exploration structure distinguished; Crystalis opinions and conversion claims qualified."
+    },
+    {
+      "id": "cq090-task-saturn",
+      "episode": 90,
+      "question": "What was the correction about that Japanese pinball game?",
+      "query": "Necronomicon Last Gladiators Willy Wombat score",
+      "answer": "Johnny bought Japanese Willy Wombat and recommends Digital Pinball: Necronomicon. Tyler initially thinks Necronomicon came out in the US, then realizes he was thinking of Last Gladiators. A forum user's supposed world record is also qualified immediately: it was the highest score the user could find online, not a certified record.",
+      "forbidden": [
+        "Tyler bought Necronomicon",
+        "Certified record"
+      ],
+      "evidence_locations": [
+        "Paragraph 86",
+        "Paragraph 87"
+      ],
+      "status": "passed",
+      "reason": "Johnny bought Willy Wombat; Necronomicon/Last Gladiators correction and uncertified online high score preserved."
+    },
+    {
+      "id": "cq090-task-coop",
+      "episode": 90,
+      "question": "Did Tyler and Ada actually play the recommended co-op game that night?",
+      "query": "Divinity Original Sin Ada Lego Harry Potter Dimensions Minecraft plan",
+      "answer": "The episode establishes plans, not a completed session. Johnny suggests LEGO Harry Potter's PS4 collection, but Tyler says LEGO Dimensions burned him out on LEGO games and leans toward Divinity: Original Sin. Minecraft is a joking fallback. Earlier he had only said he would probably buy Divinity, so neither purchase nor play should be treated as finished.",
+      "forbidden": [
+        "Played Divinity together",
+        "Bought collection"
+      ],
+      "evidence_locations": [
+        "Paragraph 29",
+        "Paragraph 87",
+        "Paragraph 88"
+      ],
+      "status": "passed",
+      "reason": "Proposed co-op/purchase not completed; LEGO fatigue explains different plan."
+    },
+    {
+      "id": "cq216-criteria",
+      "episode": 216,
+      "question": "Are they choosing the best games or the games future people will remember?",
+      "query": "Are they choosing the best games or the games future people will remember?",
+      "answer": "They are predicting ordinary cultural memory decades later, not ranking quality or historical influence. They acknowledge nostalgia, an imperfect movie analogy and uncertainty; a beloved or influential game can still be cut.",
+      "forbidden": [
+        "Do not present predictions as future facts."
+      ],
+      "evidence_locations": [
+        "00:10:31",
+        "00:11:35",
+        "00:25:19",
+        "00:26:23",
+        "00:29:31"
+      ],
+      "status": "passed",
+      "reason": "Criteria are ordinary future memory, not best/most important; bias/uncertainty explicit."
+    },
+    {
+      "id": "cq216-books",
+      "episode": 216,
+      "question": "Why did Tyler swim laps for D&D books?",
+      "query": "Why did Tyler swim laps for D&D books?",
+      "answer": "His mother offered books in exchange for swimming laps. He recalls the core books and Psionics Handbook, but never used psionic characters and concluded supplements exceeded his casual needs. Johnny’s D&D-art tumbler is a separate purchase.",
+      "forbidden": [
+        "Do not turn books into videogame purchases or infer exact lap counts."
+      ],
+      "evidence_locations": [
+        "00:00:00",
+        "00:01:01",
+        "00:02:01"
+      ],
+      "status": "passed",
+      "reason": "Tyler's swimming reward books and unused supplement distinct from Johnny's tumbler."
+    },
+    {
+      "id": "cq216-films",
+      "episode": 216,
+      "question": "Does their movie exercise prove which Oscar winners survive?",
+      "query": "Does their movie exercise prove which Oscar winners survive?",
+      "answer": "No. The hosts use an approximate awards-based list, muddle runner-up and best-picture terminology, and discover Johnny’s film coursework makes him an outlier. It illustrates their argument rather than providing a verified awards catalogue or population study.",
+      "forbidden": [
+        "Do not certify Oscar winners or statistical retention rates."
+      ],
+      "evidence_locations": [
+        "00:22:12",
+        "00:23:16",
+        "00:25:19",
+        "00:27:23",
+        "00:28:26"
+      ],
+      "status": "passed",
+      "reason": "Approximate awards exercise and film-study confound not verified winners or statistical proof."
+    },
+    {
+      "id": "cq216-early",
+      "episode": 216,
+      "question": "What survived their 1970s selection?",
+      "query": "What survived their 1970s selection?",
+      "answer": "Their recap retains Pong, Atari 2600, Apple II, Space Invaders and Asteroids. The middle two are hardware, not individual games. Johnny questions the arcade picks’ staying power, especially Asteroids; retention does not erase that dissent.",
+      "forbidden": [
+        "Do not count consoles as games or verify their assigned release years externally."
+      ],
+      "evidence_locations": [
+        "00:41:14",
+        "00:42:18",
+        "00:43:23",
+        "00:44:28",
+        "00:45:31",
+        "02:05:40",
+        "02:06:43"
+      ],
+      "status": "passed",
+      "reason": "Five recap objects include two hardware entries; dissent survives retention."
+    },
+    {
+      "id": "cq216-breakout",
+      "episode": 216,
+      "question": "Why did they cut Breakout even though its gameplay survived?",
+      "query": "Why did they cut Breakout even though its gameplay survived?",
+      "answer": "They distinguish a familiar paddle-and-block genre from recognition of the exact original arcade game. Arkanoid or generic game descriptions might replace its name. Tyler ultimately concedes that distinction and reports playing ports rather than the arcade original.",
+      "forbidden": [
+        "Do not say Tyler played the original arcade version."
+      ],
+      "evidence_locations": [
+        "00:37:58",
+        "00:39:05",
+        "00:40:11"
+      ],
+      "status": "passed",
+      "reason": "Original arcade recognition differs from genre/ports; no unsupported original play."
+    },
+    {
+      "id": "cq216-zero",
+      "episode": 216,
+      "question": "How did a strong 1982 end up with no selections?",
+      "query": "How did a strong 1982 end up with no selections?",
+      "answer": "Galaga, Pitfall and E.T. receive serious consideration, with other strong arcade games discussed. They decide none is an unmistakable choice under their restrictive memory test and explicitly leave 1982 empty. Later Galaga lobbying still fails.",
+      "forbidden": [
+        "Do not turn temporary consideration into final selection."
+      ],
+      "evidence_locations": [
+        "00:52:49",
+        "00:53:52",
+        "00:54:58",
+        "00:56:03",
+        "02:07:46"
+      ],
+      "status": "passed",
+      "reason": "1982 firmzero despite serious candidates and later Galaga lobbying."
+    },
+    {
+      "id": "cq216-rogue",
+      "episode": 216,
+      "question": "What is their point about Rogue and roguelikes?",
+      "query": "What is their point about Rogue and roguelikes?",
+      "answer": "A genre name can survive while people no longer know the original game. They contrast Rogue with NetHack and Beneath Apple Manor and dislike opaque genre labels. One speaker reports NetHack play but is unsure about having played Rogue.",
+      "forbidden": [
+        "Do not infer Rogue play or independently verify genre origins."
+      ],
+      "evidence_locations": [
+        "00:48:39",
+        "00:49:41"
+      ],
+      "status": "passed",
+      "reason": "Genre word survival not positive Rogue play; NetHack speaker uncertainty retained."
+    },
+    {
+      "id": "cq216-castlevania",
+      "episode": 216,
+      "question": "Did Castlevania ultimately make their list?",
+      "query": "Did Castlevania ultimately make their list?",
+      "answer": "Initially the original Castlevania is cut while Zelda and Metroid survive 1986. Johnny repeatedly wants to revisit it. During the 1980s recap Tyler allows another slot and Johnny explicitly says he is putting it in. That final addition does not erase the earlier disagreement.",
+      "forbidden": [
+        "Do not confuse original Castlevania with Symphony of the Night."
+      ],
+      "evidence_locations": [
+        "01:06:45",
+        "01:09:56",
+        "02:06:43",
+        "02:07:46"
+      ],
+      "status": "passed",
+      "reason": "Original Castlevania initialcut then explicitJohnnyaddition, separate from SOTN."
+    },
+    {
+      "id": "cq216-1987",
+      "episode": 216,
+      "question": "Which 1987 game did they retain, and what happened to Zelda II?",
+      "query": "Which 1987 game did they retain, and what happened to Zelda II?",
+      "answer": "Final Fantasy is retained. Zelda II is rejected despite affection, and the MSX2 Metal Gear is distinguished from its NES port and later Metal Gear Solid. The exercise is about future recognition, not whether these are good games.",
+      "forbidden": [
+        "Do not merge Metal Gear with Metal Gear Solid or force a catalog chronology."
+      ],
+      "evidence_locations": [
+        "01:11:01",
+        "01:12:04",
+        "01:13:08",
+        "01:16:17",
+        "01:17:17"
+      ],
+      "status": "passed",
+      "reason": "FinalFantasyselected; ZeldaIIcut, MSX/NESMetalGear distinction not MGS merger."
+    },
+    {
+      "id": "cq216-1988",
+      "episode": 216,
+      "question": "What survived 1988, and why not Mega Man 2?",
+      "query": "What survived 1988, and why not Mega Man 2?",
+      "answer": "They retain Tetris and Super Mario Bros. 3 in their assigned 1988 bucket. Mega Man 2 and Ninja Gaiden are praised but excluded because excellence alone does not secure broad future memory. The year is the hosts’ exercise metadata, not a verified release date for every version.",
+      "forbidden": [
+        "Do not claim a verified original Tetris release year."
+      ],
+      "evidence_locations": [
+        "01:18:17",
+        "01:22:27"
+      ],
+      "status": "passed",
+      "reason": "Source1988bucketTetris/SMB3 without external dateclaim; praisedotherscut."
+    },
+    {
+      "id": "cq216-simcity",
+      "episode": 216,
+      "question": "Did both hosts agree to keep SimCity?",
+      "query": "Did both hosts agree to keep SimCity?",
+      "answer": "No. Tyler insists on keeping SimCity as a recognizable building-game reference. Johnny explicitly disagrees but allows Tyler the point. The decade recap keeps it with that disagreement intact.",
+      "forbidden": [
+        "Do not label procedural allowance as consensus."
+      ],
+      "evidence_locations": [
+        "01:23:32",
+        "01:24:35",
+        "02:06:43"
+      ],
+      "status": "passed",
+      "reason": "Tyler retainsSimCity, Johnny permits proceduralpoint whiledisagreeing."
+    },
+    {
+      "id": "cq216-sonic",
+      "episode": 216,
+      "question": "Which Sonic game finally won?",
+      "query": "Which Sonic game finally won?",
+      "answer": "No individual Sonic game wins. After comparing the first game, Sonic 2 and Sonic 3 & Knuckles, they retain Sonic as a franchise or concept because they cannot identify a single obvious representative.",
+      "forbidden": [
+        "Do not substitute Sonic 1 or Sonic 2 into an individual-game selected list."
+      ],
+      "evidence_locations": [
+        "01:27:47",
+        "01:29:56",
+        "01:31:02",
+        "01:32:04",
+        "01:38:17",
+        "01:39:21",
+        "02:08:50"
+      ],
+      "status": "passed",
+      "reason": "Sonicconcept retained, noindividualwinner inferred."
+    },
+    {
+      "id": "cq216-wolf",
+      "episode": 216,
+      "question": "Was Wolfenstein 3D a final consensus pick?",
+      "query": "Was Wolfenstein 3D a final consensus pick?",
+      "answer": "No. It remains disputed. In the recap it is restored to Tyler’s formulation, while Johnny later says he would omit it and instead add A Link to the Past and Symphony of the Night. Their spoken totals are provisional and should not be silently reconciled.",
+      "forbidden": [
+        "Do not report one unanimous final list or treat counts as audited arithmetic."
+      ],
+      "evidence_locations": [
+        "01:33:05",
+        "01:34:09",
+        "01:35:09",
+        "01:36:12",
+        "02:08:50",
+        "02:10:56"
+      ],
+      "status": "passed",
+      "reason": "Wolfenstein recaprestoration vsJohnnycounterproposal not fabricatedunanimity."
+    },
+    {
+      "id": "cq216-chrono",
+      "episode": 216,
+      "question": "Why did they keep Chrono Trigger despite Johnny’s concerns?",
+      "query": "Why did they keep Chrono Trigger despite Johnny’s concerns?",
+      "answer": "They retain it while debating whether its reputation and creative team can sustain memory without an ongoing franchise. Johnny dislikes the illustrated art style while liking the game’s pixel presentation; his doubts are not a final removal.",
+      "forbidden": [
+        "Do not convert art criticism into dislike of the entire game or predict its actual fate."
+      ],
+      "evidence_locations": [
+        "01:42:33",
+        "01:43:36",
+        "01:44:36",
+        "01:45:38"
+      ],
+      "status": "passed",
+      "reason": "Chrono retained despiteart/franchise objections; pixelgameappreciation separate."
+    },
+    {
+      "id": "cq216-1996",
+      "episode": 216,
+      "question": "Which three games survived 1996?",
+      "query": "Which three games survived 1996?",
+      "answer": "They keep Pokemon Red/Green, Super Mario 64 and Resident Evil. Pokemon is a paired release choice in their Japanese-date convention. They acknowledge bias and distinguish lasting franchise representation from simply picking every excellent game.",
+      "forbidden": [
+        "Do not count the pair as one ordinary individual software title without qualification."
+      ],
+      "evidence_locations": [
+        "01:46:40",
+        "01:47:42",
+        "01:48:42",
+        "01:49:45"
+      ],
+      "status": "passed",
+      "reason": "Pokemonpair+SM64+RE are3selectionunits, no collapsedordinarysinglegameidentity."
+    },
+    {
+      "id": "cq216-1998",
+      "episode": 216,
+      "question": "What happened to the 1998 choices and the later recap?",
+      "query": "What happened to the 1998 choices and the later recap?",
+      "answer": "Ocarina of Time, Metal Gear Solid and Half-Life receive explicit retention during 1998. StarCraft is highlighted then cut. Metal Gear Solid disappears from the spoken decade recap despite earlier support, so the record should flag that inconsistency rather than silently remove or reinsert it as unanimous.",
+      "forbidden": [
+        "Do not treat recap omission as an explicit retraction."
+      ],
+      "evidence_locations": [
+        "01:54:02",
+        "01:55:04",
+        "01:56:09",
+        "01:57:15",
+        "01:58:21",
+        "02:08:50"
+      ],
+      "status": "passed",
+      "reason": "MGSretained1998thenabsentrecap, noexplicitretraction; Starcraftcut."
+    },
+    {
+      "id": "cq216-late",
+      "episode": 216,
+      "question": "What did they choose for 1999, 2000 and the 2001 aside?",
+      "query": "What did they choose for 1999, 2000 and the 2001 aside?",
+      "answer": "They pick nothing for 1999, Diablo II for 2000 and ultimately Halo in the extra 2001 discussion. GTA III and Melee are considered in that aside. Diablo II is later recognized as outside a strict 1990s count; 2001 is outside the core exercise.",
+      "forbidden": [
+        "Do not place Diablo II in the 1990s or call 2001 part of the original range."
+      ],
+      "evidence_locations": [
+        "01:59:21",
+        "02:00:28",
+        "02:01:34",
+        "02:02:34",
+        "02:03:38",
+        "02:04:38",
+        "02:05:40",
+        "02:10:56"
+      ],
+      "status": "passed",
+      "reason": "1999zero,DiabloII2000,Halo2001aside; noyearconflation."
+    },
+    {
+      "id": "cq216-teaching",
+      "episode": 216,
+      "question": "Why do save states become a problem in their hypothetical history class?",
+      "query": "Why do save states become a problem in their hypothetical history class?",
+      "answer": "They can make old games accessible, but Tyler argues that skipping Ninja Gaiden’s challenge and pattern learning may miss what makes it a skill game. Zelda II’s adventure structure may tolerate them differently. He later acknowledges Ninja Gaiden also matters for cutscenes, qualifying the pure-gameplay framing.",
+      "forbidden": [
+        "Do not turn a hypothetical future curriculum into an actual course."
+      ],
+      "evidence_locations": [
+        "02:12:00",
+        "02:13:05",
+        "02:14:11",
+        "02:15:15",
+        "02:16:19",
+        "02:17:24",
+        "02:19:33"
+      ],
+      "status": "passed",
+      "reason": "Save-stateaccess vs skilllearning withNinjaGaiden cutscenequalification, notactualcourse."
+    },
+    {
+      "id": "cq216-atari50",
+      "episode": 216,
+      "question": "What is the disagreement over Atari 50-style collections?",
+      "query": "What is the disagreement over Atari 50-style collections?",
+      "answer": "Johnny treats the extra history as similar to a compilation plus videos, while Tyler values having the timeline and context organized inside the package. They suggest several publishers, but distrust histories that omit inconvenient material. These are hypothetical collections, not announcements.",
+      "forbidden": [
+        "Do not claim Koei50 or any proposed collection exists."
+      ],
+      "evidence_locations": [
+        "02:34:18",
+        "02:35:18",
+        "02:36:22",
+        "02:37:29",
+        "02:38:32"
+      ],
+      "status": "passed",
+      "reason": "Organizedembeddedhistory vscompilationvideoargument, hypotheticalpublishers."
+    },
+    {
+      "id": "cq216-cotton",
+      "episode": 216,
+      "question": "What finally arrived for Johnny, and why was he annoyed?",
+      "query": "What finally arrived for Johnny, and why was he annoyed?",
+      "answer": "About four Cotton packages and Deathsmiles I/II arrived after a reported sixteen months. Johnny says customer service identified a collector mug as a holdup, and it arrived separately packed. He wanted the games earlier and is excited to try them; receipt is not proof he has played them, and almost throwing the mug is not disposal.",
+      "forbidden": [
+        "Do not invent the full four-title Cotton inventory or verify the seller’s causal explanation."
+      ],
+      "evidence_locations": [
+        "02:39:35",
+        "02:40:40",
+        "02:41:43",
+        "02:42:45",
+        "02:44:53"
+      ],
+      "status": "passed",
+      "reason": "ReportedCottonshipmentdelay/mug receipt notplayed, allfourCottonnamesnotinvented."
+    },
+    {
+      "id": "cq216-bottle",
+      "episode": 216,
+      "question": "Was the Resident Evil 4 water-bottle claim confirmed?",
+      "query": "Was the Resident Evil 4 water-bottle claim confirmed?",
+      "answer": "No. A listener says they omitted a bottle associated with the GameStop edition. The hosts find an Outbreak-marked example and cannot confirm whether it belongs to RE4, a preorder or another promotion. They ask for more information and do not conclusively reject it.",
+      "forbidden": [
+        "Do not authenticate the pack-in or state the listener is wrong."
+      ],
+      "evidence_locations": [
+        "02:43:46",
+        "02:44:53"
+      ],
+      "status": "passed",
+      "reason": "Listenerwaterbottleclaimunconfirmed, Outbreakexample notconclusiverejection."
+    },
+    {
+      "id": "cq216-card",
+      "episode": 216,
+      "question": "Why did Johnny buy Zatch Bell on PS2?",
+      "query": "Why did Johnny buy Zatch Bell on PS2?",
+      "answer": "He bought Mamodo Battles for a card he needed for his GameCube copy. That establishes a PS2 purchase and an intended card transfer, not that the transfer had already happened.",
+      "forbidden": [
+        "Do not mark GameCube copy newly purchased or transfer completed."
+      ],
+      "evidence_locations": [
+        "02:45:59"
+      ],
+      "status": "passed",
+      "reason": "PS2cardpurchaseforownedGameCube, transfernotcompleted."
+    },
+    {
+      "id": "cq216-chex",
+      "episode": 216,
+      "question": "What did Tyler add to his Chex Quest box?",
+      "query": "What did Tyler add to his Chex Quest box?",
+      "answer": "He already owned a cereal box and a jewel-case copy. After seeing a disc/manual package still attached inside another box, he got that sealed form to match the example. He explicitly allows that both formats might have been distributed, so the jewel-case copy is not proven incorrect.",
+      "forbidden": [
+        "Do not authenticate a sole correct print or claim he bought another full cereal box."
+      ],
+      "evidence_locations": [
+        "02:47:03",
+        "02:48:07"
+      ],
+      "status": "passed",
+      "reason": "ExistingChexbox/jewelcopyplussealedmanualdisc, solecorrectvariantnotestablished."
+    },
+    {
+      "id": "cq216-quest",
+      "episode": 216,
+      "question": "What is Tyler playing, and does it have to be historically important?",
+      "query": "What is Tyler playing, and does it have to be historically important?",
+      "answer": "He is playing The Quest from Redshift, described as a Pocket PC RPG available on modern mobile platforms, and compares it to Daggerfall. He prioritizes fun and nostalgia rather than always acting as a historian. The earlier Palm OS discussion is inspiration, not a claim The Quest was a Palm OS game.",
+      "forbidden": [
+        "Do not infer Daggerfall current play or Palm OS release."
+      ],
+      "evidence_locations": [
+        "02:49:07",
+        "02:50:09"
+      ],
+      "status": "passed",
+      "reason": "TheQuestPocketPCmobilecurrentlyplayed, PalmOSnotplatformandDaggerfallonlycomparison."
+    },
+    {
+      "id": "cq216-science",
+      "episode": 216,
+      "question": "Why did Tyler get an old Scientific American?",
+      "query": "Why did Tyler get an old Scientific American?",
+      "answer": "He got the October 1970 issue for the Game of Life article, treating it as computer-science history and an interesting grid simulation rather than an ordinary video game. His rough explanation is not a verified statement of the automaton’s rules or publication history.",
+      "forbidden": [
+        "Do not rank the cellular automaton as ordinary video-game discussion or give incorrect rules as fact."
+      ],
+      "evidence_locations": [
+        "02:45:59",
+        "02:47:03"
+      ],
+      "status": "passed",
+      "reason": "ScientificAmericanforGameofLifehistory, notgame purchaseorvalidatedrules."
+    }
+  ]
+}

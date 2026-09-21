@@ -1,0 +1,3117 @@
+{
+  "schema_version": "1",
+  "review_status": "A1-A6 authored and locally checked; A7-A8 integration pending",
+  "note": "Primary-source same-agent review; no external/paid/publication actions.",
+  "episodes": [
+    {
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "mapping_status": "complete",
+      "review_note": "All44 supplied paragraphs read;39 source-first reference buckets include unresolved titles/collections and explicit series.",
+      "spans": [
+        {
+          "id": "cq012-span-001-1",
+          "entity_id": "cq012-g001",
+          "title": "Uncharted: The Nathan Drake Collection",
+          "game_refs": [
+            "cq012-g001"
+          ],
+          "entity_kind": "compilation_product",
+          "identity_granularity": "compilation",
+          "variant_context": "PS4",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 2",
+          "end_exclusive": "Paragraph 3",
+          "reason": "Christmas gift and intended revisit; contents not individually enumerated. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 2",
+              "quote": "uncharted collection"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-002-1",
+          "entity_id": "cq012-g002",
+          "title": "Donkey Kong Land",
+          "game_refs": [
+            "cq012-g002"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Game Boy",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 4",
+          "end_exclusive": "Paragraph 5",
+          "reason": "Gold handheld pack-in memory; Europe/Australia uncertain, no purchase. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 4",
+              "quote": "Donkey Kong land"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-003-1",
+          "entity_id": "cq012-g003",
+          "title": "The Legend of Zelda",
+          "game_refs": [
+            "cq012-g003"
+          ],
+          "entity_kind": "game_series",
+          "identity_granularity": "series",
+          "variant_context": null,
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 10",
+          "end_exclusive": "Paragraph 11",
+          "reason": "Familiar social-post example. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 10",
+              "quote": "Zeld"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-003-2",
+          "entity_id": "cq012-g003",
+          "title": "The Legend of Zelda",
+          "game_refs": [
+            "cq012-g003"
+          ],
+          "entity_kind": "game_series",
+          "identity_granularity": "series",
+          "variant_context": null,
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 31",
+          "end_exclusive": "Paragraph 32",
+          "reason": "Conversation shortcut for noncollectors, not a definitive favorite. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 31",
+              "quote": "default to something like Zelda"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-003-3",
+          "entity_id": "cq012-g003",
+          "title": "The Legend of Zelda",
+          "game_refs": [
+            "cq012-g003"
+          ],
+          "entity_kind": "game_series",
+          "identity_granularity": "series",
+          "variant_context": null,
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 33",
+          "end_exclusive": "Paragraph 34",
+          "reason": "Franchise affection within sequel debate. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 33",
+              "quote": "Zelda games"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-004-1",
+          "entity_id": "cq012-g004",
+          "title": "Mario",
+          "game_refs": [
+            "cq012-g004"
+          ],
+          "entity_kind": "game_series",
+          "identity_granularity": "series",
+          "variant_context": null,
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 10",
+          "end_exclusive": "Paragraph 11",
+          "reason": "Familiar posting example, not a specific title. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 10",
+              "quote": "Mario"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-005-1",
+          "entity_id": "cq012-g005",
+          "title": "Stadium Events",
+          "game_refs": [
+            "cq012-g005"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "NES",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 12",
+          "end_exclusive": "Paragraph 13",
+          "reason": "Explicitly absent from project list; no ownership/purchase claim. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 12",
+              "quote": "stadium events isn’t on the Nintendo list"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-006-1",
+          "entity_id": "cq012-g006",
+          "title": "VVVVVVV — unresolved",
+          "game_refs": [
+            "cq012-g006"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "unresolved",
+          "variant_context": "digital DS/3DS wording uncertain",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 15",
+          "end_exclusive": "Paragraph 16",
+          "reason": "Digital-only V-titled list entry, raw glyph count contradicts spoken five; exact identity/availability not silently corrected. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 15",
+              "quote": "VVVVVVV"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-007-1",
+          "entity_id": "cq012-g007",
+          "title": "Donkey Kong — Game Boy",
+          "game_refs": [
+            "cq012-g007"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Game Boy",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 16",
+          "end_exclusive": "Paragraph 17",
+          "reason": "Selected list version compared unfavorably with NES; admits limited play. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 16",
+              "quote": "Donkey Kong on the Game Boy"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-008-1",
+          "entity_id": "cq012-g008",
+          "title": "Donkey Kong — NES",
+          "game_refs": [
+            "cq012-g008"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "NES",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 16",
+          "end_exclusive": "Paragraph 17",
+          "reason": "Not selected by list; Johnny prefers it. Platform identities remain separate. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 16",
+              "quote": "Donkey Kong on the NES"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-009-1",
+          "entity_id": "cq012-g009",
+          "title": "Mario Tennis — Game Boy Color",
+          "game_refs": [
+            "cq012-g009"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Game Boy Color",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 16",
+          "end_exclusive": "Paragraph 17",
+          "reason": "Questions quality/selection, not a verified ranking or play report. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 16",
+              "quote": "Mario Tennis for the Game Boy Color"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-010-1",
+          "entity_id": "cq012-g010",
+          "title": "Mario Tennis — other versions",
+          "game_refs": [
+            "cq012-g010"
+          ],
+          "entity_kind": "game_series",
+          "identity_granularity": "series",
+          "variant_context": null,
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 16",
+          "end_exclusive": "Paragraph 17",
+          "reason": "Other-platform comparison question, titles/platforms not enumerated. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 16",
+              "quote": "Mario Tennis’s"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-011-1",
+          "entity_id": "cq012-g011",
+          "title": "Super Smash Bros.",
+          "game_refs": [
+            "cq012-g011"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Nintendo64",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 17",
+          "end_exclusive": "Paragraph 19",
+          "reason": "Proposed ranked-photo/head-to-head project, not gameplay review. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 17",
+              "quote": "they’ve got it for the 64"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-012-1",
+          "entity_id": "cq012-g012",
+          "title": "Super Smash Bros. Melee",
+          "game_refs": [
+            "cq012-g012"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "GameCube",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 17",
+          "end_exclusive": "Paragraph 19",
+          "reason": "Named explicitly next paragraph; proposed comparison project. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 17",
+              "quote": "and the GameCube"
+            },
+            {
+              "location": "Paragraph 18",
+              "quote": "here’s Melee"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-013-1",
+          "entity_id": "cq012-g013",
+          "title": "Super Smash Bros. Brawl",
+          "game_refs": [
+            "cq012-g013"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": null,
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 18",
+          "end_exclusive": "Paragraph 19",
+          "reason": "Hypothetical post example alongside WiiU-additions wording; platform/selection confusion flagged, no purchase. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 18",
+              "quote": "Brawl"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-014-1",
+          "entity_id": "cq012-g014",
+          "title": "Super Smash Bros. — series",
+          "game_refs": [
+            "cq012-g014"
+          ],
+          "entity_kind": "game_series",
+          "identity_granularity": "series",
+          "variant_context": null,
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 17",
+          "end_exclusive": "Paragraph 19",
+          "reason": "Group-post concept, not independent duration for unnamed installments. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 17",
+              "quote": "Spoiler Smash Brothers"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-015-1",
+          "entity_id": "cq012-g015",
+          "title": "EarthBound",
+          "game_refs": [
+            "cq012-g015"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Super Nintendo",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 20",
+          "end_exclusive": "Paragraph 21",
+          "reason": "Sold-off game wanted back; not current possession. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 20",
+              "quote": "I don’t have Earthbound anymore"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-015-2",
+          "entity_id": "cq012-g015",
+          "title": "EarthBound",
+          "game_refs": [
+            "cq012-g015"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Super Nintendo",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 22",
+          "end_exclusive": "Paragraph 24",
+          "reason": "Joint repurchase priority and Johnny excludes it from top3. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 22",
+              "quote": "John’s eyeing an earthbound"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-015-3",
+          "entity_id": "cq012-g015",
+          "title": "EarthBound",
+          "game_refs": [
+            "cq012-g015"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Super Nintendo",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 42",
+          "end_exclusive": "Paragraph 43",
+          "reason": "Negative/hypothetical cheap-lot example, not an actual find. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 42",
+              "quote": "earthboundage"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-016-1",
+          "entity_id": "cq012-g016",
+          "title": "Super Mario RPG",
+          "game_refs": [
+            "cq012-g016"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Super Nintendo",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 20",
+          "end_exclusive": "Paragraph 21",
+          "reason": "Sold-off RPG wanted back; not current ownership. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 20",
+              "quote": "Super Mario RPG"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-017-1",
+          "entity_id": "cq012-g017",
+          "title": "Chrono Trigger",
+          "game_refs": [
+            "cq012-g017"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Super Nintendo",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 20",
+          "end_exclusive": "Paragraph 21",
+          "reason": "Wanted-back title. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 20",
+              "quote": "Chrono Trigger"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-017-2",
+          "entity_id": "cq012-g017",
+          "title": "Chrono Trigger",
+          "game_refs": [
+            "cq012-g017"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Super Nintendo",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 22",
+          "end_exclusive": "Paragraph 23",
+          "reason": "Other people's top-three posts reveal collection gap. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 22",
+              "quote": "Chrono Trigger"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-017-3",
+          "entity_id": "cq012-g017",
+          "title": "Chrono Trigger",
+          "game_refs": [
+            "cq012-g017"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Super Nintendo",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 23",
+          "end_exclusive": "Paragraph 25",
+          "reason": "Tentative personal top-three slot reaffirmed with two Final Fantasies. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 23",
+              "quote": "followed by Chrono Trigger"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-018-1",
+          "entity_id": "cq012-g018",
+          "title": "Super Battletank",
+          "game_refs": [
+            "cq012-g018"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Super Nintendo",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 20",
+          "end_exclusive": "Paragraph 21",
+          "reason": "Dispensable filler example, not automatically owned or played. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 20",
+              "quote": "Super Battle Tank"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-019-1",
+          "entity_id": "cq012-g019",
+          "title": "Super Battletank 2",
+          "game_refs": [
+            "cq012-g019"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Super Nintendo",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 20",
+          "end_exclusive": "Paragraph 21",
+          "reason": "Numbered sequel in skip list. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 20",
+              "quote": "Super Battle Tank too"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-020-1",
+          "entity_id": "cq012-g020",
+          "title": "Super Caesars Palace",
+          "game_refs": [
+            "cq012-g020"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Super Nintendo",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 20",
+          "end_exclusive": "Paragraph 21",
+          "reason": "Skip-list example only. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 20",
+              "quote": "Super Caesar’s Palace"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-021-1",
+          "entity_id": "cq012-g021",
+          "title": "Super Bowling",
+          "game_refs": [
+            "cq012-g021"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Super Nintendo",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 20",
+          "end_exclusive": "Paragraph 21",
+          "reason": "Skip-list example only. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 20",
+              "quote": "Super Bowling"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-022-1",
+          "entity_id": "cq012-g022",
+          "title": "Baseball Simulator 1000 — unresolved",
+          "game_refs": [
+            "cq012-g022"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "unresolved",
+          "variant_context": "Super Nintendo context",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 20",
+          "end_exclusive": "Paragraph 21",
+          "reason": "Full SNES title wording uncertain; no automatic NES identification. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 20",
+              "quote": "Baseball Simulator 1000"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-023-1",
+          "entity_id": "cq012-g023",
+          "title": "Mega Man 2",
+          "game_refs": [
+            "cq012-g023"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": null,
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 23",
+          "end_exclusive": "Paragraph 24",
+          "reason": "Childhood sound-off memory, not a current music review. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 23",
+              "quote": "Mega Man 2 sounded like"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-024-1",
+          "entity_id": "cq012-g024",
+          "title": "Final Fantasy IV",
+          "game_refs": [
+            "cq012-g024"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Super Nintendo",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 23",
+          "end_exclusive": "Paragraph 25",
+          "reason": "Personal favorite, distinguished from objective best; regional alias explicit. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 23",
+              "quote": "Final Fantasy IV or slash Final Fantasy II"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-025-1",
+          "entity_id": "cq012-g025",
+          "title": "Final Fantasy VI",
+          "game_refs": [
+            "cq012-g025"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Super Nintendo / US III label",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 23",
+          "end_exclusive": "Paragraph 25",
+          "reason": "US SNES numbering, arguably better overall but IV personal favorite; tentative third with Chrono. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 23",
+              "quote": "Final Fantasy III"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-026-1",
+          "entity_id": "cq012-g026",
+          "title": "Secret of Mana",
+          "game_refs": [
+            "cq012-g026"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Super Nintendo",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 24",
+          "end_exclusive": "Paragraph 26",
+          "reason": "Cousin co-play memory and action-RPG category boundary. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 24",
+              "quote": "Secret of Mana"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-027-1",
+          "entity_id": "cq012-g027",
+          "title": "Harvest Moon",
+          "game_refs": [
+            "cq012-g027"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Super Nintendo",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 25",
+          "end_exclusive": "Paragraph 26",
+          "reason": "Explicit non-play and RPG-classification discussion, not firsthand SNES review. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 25",
+              "quote": "Harvest Moon was something I never played on the Super Nintendo"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-028-1",
+          "entity_id": "cq012-g028",
+          "title": "Harvest Moon — later games",
+          "game_refs": [
+            "cq012-g028"
+          ],
+          "entity_kind": "game_series",
+          "identity_granularity": "series",
+          "variant_context": null,
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 25",
+          "end_exclusive": "Paragraph 26",
+          "reason": "Later exposure/dislike; titles unspecified, no completed play inferred. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 25",
+              "quote": "Harvest Moon games"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-029-1",
+          "entity_id": "cq012-g029",
+          "title": "Breath of Fire",
+          "game_refs": [
+            "cq012-g029"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Super Nintendo",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 25",
+          "end_exclusive": "Paragraph 26",
+          "reason": "Would make broader list, not definite top3. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 25",
+              "quote": "Breath of Fire"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-030-1",
+          "entity_id": "cq012-g030",
+          "title": "Brain Lord",
+          "game_refs": [
+            "cq012-g030"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Super Nintendo",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 25",
+          "end_exclusive": "Paragraph 26",
+          "reason": "Nostalgic purchase around13 despite negative quality description. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 25",
+              "quote": "Brain Lord"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-031-1",
+          "entity_id": "cq012-g031",
+          "title": "Terranigma",
+          "game_refs": [
+            "cq012-g031"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "PAL/Super Nintendo context",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 26",
+          "end_exclusive": "Paragraph 27",
+          "reason": "Liked later-played non-US example for list scope. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 26",
+              "quote": "Terranigma"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-032-1",
+          "entity_id": "cq012-g032",
+          "title": "Soul Blazer",
+          "game_refs": [
+            "cq012-g032"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Super Nintendo context",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 26",
+          "end_exclusive": "Paragraph 27",
+          "reason": "Uncertain series relationship, not verified connection. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 26",
+              "quote": "maybe it’s Soul Blazer"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-033-1",
+          "entity_id": "cq012-g033",
+          "title": "five game gear games — unresolved",
+          "game_refs": [
+            "cq012-g033"
+          ],
+          "entity_kind": "unidentified_collection",
+          "identity_granularity": "unresolved_collection",
+          "variant_context": "Game Gear",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 27",
+          "end_exclusive": "Paragraph 28",
+          "reason": "Limited firsthand pool; refuses an authoritative top3, titles unnamed. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 27",
+              "quote": "five game gear games"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-034-1",
+          "entity_id": "cq012-g034",
+          "title": "that game — unresolved",
+          "game_refs": [
+            "cq012-g034"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "unresolved",
+          "variant_context": null,
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 28",
+          "end_exclusive": "Paragraph 30",
+          "reason": "Unidentified former top5/current top10 example; do not guess title. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 28",
+              "quote": "I was in love with that game right then"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-035-1",
+          "entity_id": "cq012-g035",
+          "title": "The Legend of Zelda",
+          "game_refs": [
+            "cq012-g035"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "NES",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 32",
+          "end_exclusive": "Paragraph 34",
+          "reason": "Sequel/combat design comparison, not simply favorite ranking. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 32",
+              "quote": "Zelda one"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-036-1",
+          "entity_id": "cq012-g036",
+          "title": "Zelda II: The Adventure of Link",
+          "game_refs": [
+            "cq012-g036"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "NES",
+          "role": "SUBSTANTIAL_COVERAGE",
+          "start": "Paragraph 32",
+          "end_exclusive": "Paragraph 34",
+          "reason": "Defends combat viewpoint and links it interpretively to Ocarina; affection and joke. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 32",
+              "quote": "Zelda two"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-037-1",
+          "entity_id": "cq012-g037",
+          "title": "The Legend of Zelda: A Link to the Past",
+          "game_refs": [
+            "cq012-g037"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Super Nintendo",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 32",
+          "end_exclusive": "Paragraph 33",
+          "reason": "Refinement example in sequel discussion. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 32",
+              "quote": "a link to the past"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-038-1",
+          "entity_id": "cq012-g038",
+          "title": "The Legend of Zelda: Ocarina of Time",
+          "game_refs": [
+            "cq012-g038"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": null,
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 32",
+          "end_exclusive": "Paragraph 33",
+          "reason": "Others' favorite example. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 32",
+              "quote": "Ocarina of Time"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-038-2",
+          "entity_id": "cq012-g038",
+          "title": "The Legend of Zelda: Ocarina of Time",
+          "game_refs": [
+            "cq012-g038"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": null,
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 33",
+          "end_exclusive": "Paragraph 34",
+          "reason": "Johnny's interpretive combat resemblance to ZeldaII, not objective design proof. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 33",
+              "quote": "Zelda Ocarina of Time"
+            }
+          ]
+        },
+        {
+          "id": "cq012-span-039-1",
+          "entity_id": "cq012-g039",
+          "title": "Kawasaki Caribbean Challenge",
+          "game_refs": [
+            "cq012-g039"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Super Nintendo context",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 41",
+          "end_exclusive": "Paragraph 42",
+          "reason": "CIB purchase ledger example: allocated lot cost, not standalone sale price. Coarse paragraph units; no fabricated seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 41",
+              "quote": "Kawasaki, Caribbean challenge"
+            }
+          ]
+        }
+      ],
+      "section_accounting": [
+        {
+          "location": "Paragraph 1",
+          "status": "read_and_accounted",
+          "summary": "Named hosts, year-end, Kat's purple Pocket gift."
+        },
+        {
+          "location": "Paragraph 2",
+          "status": "read_and_accounted",
+          "summary": "Pink existing Pocket, future hardware set; Johnny Uncharted gift."
+        },
+        {
+          "location": "Paragraph 3",
+          "status": "read_and_accounted",
+          "summary": "Pocket monochrome clarification and tentative hardware holdings."
+        },
+        {
+          "location": "Paragraph 4",
+          "status": "read_and_accounted",
+          "summary": "Gold DKLand pack uncertainty; almost-purchase and N64 false start."
+        },
+        {
+          "location": "Paragraph 5",
+          "status": "read_and_accounted",
+          "summary": "Kat MasterSystem/N64 completion goals."
+        },
+        {
+          "location": "Paragraph 6",
+          "status": "read_and_accounted",
+          "summary": "Cart/box target, arithmetic correction and105Wii purchases."
+        },
+        {
+          "location": "Paragraph 7",
+          "status": "read_and_accounted",
+          "summary": "Johnny SNES goals and NintendoPower285 photo project."
+        },
+        {
+          "location": "Paragraph 8",
+          "status": "read_and_accounted",
+          "summary": "15newer additions/300target, hashtags and flexible order."
+        },
+        {
+          "location": "Paragraph 9",
+          "status": "read_and_accounted",
+          "summary": "Spreadsheet/layout/planning variation."
+        },
+        {
+          "location": "Paragraph 10",
+          "status": "read_and_accounted",
+          "summary": "System variety and familiar Zelda/Mario examples."
+        },
+        {
+          "location": "Paragraph 11",
+          "status": "read_and_accounted",
+          "summary": "Portable/magazine collection gaps."
+        },
+        {
+          "location": "Paragraph 12",
+          "status": "read_and_accounted",
+          "summary": "Existing project games, StadiumEvents excluded, spreadsheet filters."
+        },
+        {
+          "location": "Paragraph 13",
+          "status": "read_and_accounted",
+          "summary": "72game/210issue deficits and feasibility research."
+        },
+        {
+          "location": "Paragraph 14",
+          "status": "read_and_accounted",
+          "summary": "Magazine price/availability and digital-entry obstacle."
+        },
+        {
+          "location": "Paragraph 15",
+          "status": "read_and_accounted",
+          "summary": "V-title ambiguity, possible omission and list critique."
+        },
+        {
+          "location": "Paragraph 16",
+          "status": "read_and_accounted",
+          "summary": "DKGB/NES and MarioTennisGBC questions."
+        },
+        {
+          "location": "Paragraph 17",
+          "status": "read_and_accounted",
+          "summary": "Panel recollection and Smash-comparison concept."
+        },
+        {
+          "location": "Paragraph 18",
+          "status": "read_and_accounted",
+          "summary": "Smash64/Melee/Brawl hypothetical posts; raw platform confusion."
+        },
+        {
+          "location": "Paragraph 19",
+          "status": "read_and_accounted",
+          "summary": "Kat selective SNES goal and prior sales."
+        },
+        {
+          "location": "Paragraph 20",
+          "status": "read_and_accounted",
+          "summary": "Wanted-back RPGs and disposable filler examples."
+        },
+        {
+          "location": "Paragraph 21",
+          "status": "read_and_accounted",
+          "summary": "Boxed-selection scope, existing partial SNES collection."
+        },
+        {
+          "location": "Paragraph 22",
+          "status": "read_and_accounted",
+          "summary": "Joint EarthBound priority/poster, prior sale and sound-off memories."
+        },
+        {
+          "location": "Paragraph 23",
+          "status": "read_and_accounted",
+          "summary": "MegaMan2 sound memory; Johnny personal RPG trio."
+        },
+        {
+          "location": "Paragraph 24",
+          "status": "read_and_accounted",
+          "summary": "Tentative trio versus best; SecretMana genre/co-play."
+        },
+        {
+          "location": "Paragraph 25",
+          "status": "read_and_accounted",
+          "summary": "HarvestMoon non-play, BreathFire and BrainLord nostalgia."
+        },
+        {
+          "location": "Paragraph 26",
+          "status": "read_and_accounted",
+          "summary": "Terranigma later play, uncertain SoulBlazer relation and regional scope."
+        },
+        {
+          "location": "Paragraph 27",
+          "status": "read_and_accounted",
+          "summary": "Limited GameGear experience and refused top3."
+        },
+        {
+          "location": "Paragraph 28",
+          "status": "read_and_accounted",
+          "summary": "Recency-driven changes; unnamed prior favorite."
+        },
+        {
+          "location": "Paragraph 29",
+          "status": "read_and_accounted",
+          "summary": "Fluid favorites, not necessarily contradictions."
+        },
+        {
+          "location": "Paragraph 30",
+          "status": "read_and_accounted",
+          "summary": "HomeAlone film analogy, not a game."
+        },
+        {
+          "location": "Paragraph 31",
+          "status": "read_and_accounted",
+          "summary": "Casual favorite questions and broad Zelda shortcut."
+        },
+        {
+          "location": "Paragraph 32",
+          "status": "read_and_accounted",
+          "summary": "ZeldaI/II/LttP/Ocarina sequel comparison."
+        },
+        {
+          "location": "Paragraph 33",
+          "status": "read_and_accounted",
+          "summary": "ZeldaII combat defense, interpretive affinity and hostile-taste joke."
+        },
+        {
+          "location": "Paragraph 34",
+          "status": "read_and_accounted",
+          "summary": "Inclusion resolution and delayed-post context."
+        },
+        {
+          "location": "Paragraph 35",
+          "status": "read_and_accounted",
+          "summary": "Patience/work context and fewer-games goal."
+        },
+        {
+          "location": "Paragraph 36",
+          "status": "read_and_accounted",
+          "summary": "Kat focus/organization/boxed goals while database sorted."
+        },
+        {
+          "location": "Paragraph 37",
+          "status": "read_and_accounted",
+          "summary": "Existing NES shelf and future custom shelving."
+        },
+        {
+          "location": "Paragraph 38",
+          "status": "read_and_accounted",
+          "summary": "667in2015, Kat1190guess and2014 query."
+        },
+        {
+          "location": "Paragraph 39",
+          "status": "read_and_accounted",
+          "summary": "2014intuition corrected to901;2016reduction goal."
+        },
+        {
+          "location": "Paragraph 40",
+          "status": "read_and_accounted",
+          "summary": "Under365target;2003→2013;389count and scope comparisons."
+        },
+        {
+          "location": "Paragraph 41",
+          "status": "read_and_accounted",
+          "summary": "KawasakiJan2014 ledger/allocated$3 and hypothetical lot arithmetic."
+        },
+        {
+          "location": "Paragraph 42",
+          "status": "read_and_accounted",
+          "summary": "Bulk-lot filler method; negative EarthBoundexample."
+        },
+        {
+          "location": "Paragraph 43",
+          "status": "read_and_accounted",
+          "summary": "Wiiaverage2.25 and community/process goals."
+        },
+        {
+          "location": "Paragraph 44",
+          "status": "read_and_accounted",
+          "summary": "N64postvariety, outlook and signoff."
+        }
+      ],
+      "span_review": {
+        "paragraphs_read": 44,
+        "existing_game_ids_represented": 39,
+        "new_reference_ids": 0,
+        "method": "Full-source inventory before record construction; same-agent audit, not independent."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "cq012-action-01",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Purple Japanese Game Boy Pocket CIB",
+      "action_state": "received",
+      "summary": "Christmas hardware gift, raw CIB recognition retained; not GameBoyColor.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "I got a purple Ken Pleaton box Game Boy pocket from Japan"
+        }
+      ],
+      "entity_type": "hardware"
+    },
+    {
+      "id": "cq012-action-02",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Pink Japanese Game Boy Pocket",
+      "action_state": "owned",
+      "summary": "Existing color unit, not another Christmas gift.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 2",
+          "quote": "I already have the pink one"
+        }
+      ],
+      "entity_type": "hardware"
+    },
+    {
+      "id": "cq012-action-03",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Japanese Game Boy Pocket basic-color set",
+      "action_state": "wanted",
+      "summary": "Future hardware-set goal, not all limited editions acquired.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "focus on maybe getting what they called just the basic colors"
+        }
+      ],
+      "entity_type": "hardware_collection"
+    },
+    {
+      "id": "cq012-action-04",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "North American Game Boy variants",
+      "action_state": "wanted",
+      "summary": "Longer-term wish, not current possession.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 4",
+          "quote": "I’d love to have them at some point"
+        }
+      ],
+      "entity_type": "hardware_collection"
+    },
+    {
+      "id": "cq012-action-05",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Gold Japanese Game Boy Pocket",
+      "action_state": "owned",
+      "summary": "Tentative possession/location memory.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "I think I have a gold pocket from Japan"
+        }
+      ],
+      "entity_type": "hardware"
+    },
+    {
+      "id": "cq012-action-06",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Teal North American Game Boy Pocket",
+      "action_state": "owned",
+      "summary": "Tentative possession, not current purchase.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "I think I have like a teal and a yellow one"
+        }
+      ],
+      "entity_type": "hardware"
+    },
+    {
+      "id": "cq012-action-07",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Yellow North American Game Boy Pocket",
+      "action_state": "owned",
+      "summary": "Tentative possession.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "I think I have like a teal and a yellow one"
+        }
+      ],
+      "entity_type": "hardware"
+    },
+    {
+      "id": "cq012-action-08",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Australian friend's handheld collection",
+      "action_state": "hypothetical",
+      "summary": "Almost bought is not purchased; seller's exact set completion unknown.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 4",
+          "quote": "I almost bought all of them"
+        }
+      ],
+      "entity_type": "hardware_collection"
+    },
+    {
+      "id": "cq012-action-09",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Uncharted collection — PS4",
+      "action_state": "received",
+      "summary": "Christmas gift received; no donor specifically assigned.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 2",
+          "quote": "I did get one game and that was the uncharted collection for the PS4"
+        }
+      ],
+      "entity_type": "compilation"
+    },
+    {
+      "id": "cq012-action-10",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Uncharted collection — PS4",
+      "action_state": "wanted",
+      "summary": "Intended revisit, not reported completed play.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 2",
+          "quote": "looking forward to kind of revisiting that"
+        }
+      ],
+      "entity_type": "compilation"
+    },
+    {
+      "id": "cq012-action-11",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Sega Master System remaining set",
+      "action_state": "wanted",
+      "summary": "About29 games left, not completed.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 5",
+          "quote": "I’d like to finish the Sega Master System collection"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq012-action-12",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "N64 remaining cartridge-and-box set",
+      "action_state": "wanted",
+      "summary": "About110 left, minimum cart/box; manuals optional.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 5",
+          "quote": "I would also love to finish the N64 set"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq012-action-13",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "105 Wii games — recent lot activity",
+      "action_state": "purchased",
+      "summary": "Approximate aggregate recent purchase; not105 individually identified games.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 6",
+          "quote": "I bought a hundred and five Wii games in past month"
+        }
+      ],
+      "entity_type": "unidentified_lot"
+    },
+    {
+      "id": "cq012-action-14",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Super Nintendo collection expansion",
+      "action_state": "wanted",
+      "summary": "No firm completion-by-year-end promise.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 7",
+          "quote": "continuing to work on Super Nintendo"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq012-action-15",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Nintendo Power285 list games",
+      "action_state": "wanted",
+      "summary": "Project target; many already held, others missing.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 7",
+          "quote": "acquire all of those games"
+        }
+      ],
+      "entity_type": "unidentified_lot"
+    },
+    {
+      "id": "cq012-action-16",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Nintendo Power285 selected games already held",
+      "action_state": "owned",
+      "summary": "Partial project inventory, not all285 owned.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 7",
+          "quote": "I have a lot of them not all of them"
+        }
+      ],
+      "entity_type": "unidentified_lot"
+    },
+    {
+      "id": "cq012-action-17",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Newer WiiU/3DS project choices",
+      "action_state": "wanted",
+      "summary": "Planned list additions, not15 new purchases already made.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 8",
+          "quote": "add in 15 of my own choices"
+        }
+      ],
+      "entity_type": "unidentified_lot"
+    },
+    {
+      "id": "cq012-action-18",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Nintendo Power issues for photo project",
+      "action_state": "wanted",
+      "summary": "Magazine acquisitions planned;210 missing stated later.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 11",
+          "quote": "I want the corresponding Nintendo powers"
+        }
+      ],
+      "entity_type": "publications"
+    },
+    {
+      "id": "cq012-action-19",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "GameCube and NES games on chosen list",
+      "action_state": "owned",
+      "summary": "Within list/project context; do not enumerate unseen games.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 12",
+          "quote": "I have all those that’s not gonna be an issue same with Nintendo"
+        }
+      ],
+      "entity_type": "unidentified_lot"
+    },
+    {
+      "id": "cq012-action-20",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "72 missing project games",
+      "action_state": "wanted",
+      "summary": "Current gap count; overlaps overall project want, not another72 distinct goal games.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 13",
+          "quote": "I need right now 72 games"
+        }
+      ],
+      "entity_type": "unidentified_lot"
+    },
+    {
+      "id": "cq012-action-21",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "210 missing Nintendo Power issues",
+      "action_state": "wanted",
+      "summary": "Response to missing-magazines question; overlaps magazine project.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 13",
+          "quote": "right now 210"
+        }
+      ],
+      "entity_type": "publications"
+    },
+    {
+      "id": "cq012-action-22",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Digital V-titled game — unresolved",
+      "action_state": "hypothetical",
+      "summary": "Possible workaround not purchased; physical-edition statement source-scoped.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 15",
+          "quote": "I guess I could buy it"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq012-action-23",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Donkey Kong — Game Boy",
+      "action_state": "played",
+      "summary": "Limited/uncertain experience acknowledged, not completed.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 16",
+          "quote": "Maybe I haven’t played through that one enough"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq012-action-24",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Selected SNES cartridge/boxed titles",
+      "action_state": "wanted",
+      "summary": "Selective collection, not a full-set commitment.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 19",
+          "quote": "add in some of the Super Nintendo games that I want"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq012-action-25",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "EarthBound",
+      "action_state": "sold",
+      "summary": "Joint Kat/John past sale, no price/date supplied.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Kat",
+      "co_subjects": [
+        "John"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 22",
+          "quote": "when we sold it"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq012-action-26",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "EarthBound",
+      "action_state": "wanted",
+      "summary": "Joint repurchase goal, not bought back.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Kat",
+      "co_subjects": [
+        "John"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 22",
+          "quote": "we’re going to have to prioritize that"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq012-action-27",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Super Mario RPG",
+      "action_state": "sold",
+      "summary": "Named among those missing-and-wanted-back in next paragraph; contextual sale attribution.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 19",
+          "quote": "I had and sold off to finish the NES set"
+        },
+        {
+          "location": "Paragraph 20",
+          "quote": "Super Mario RPG"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq012-action-28",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Super Mario RPG",
+      "action_state": "wanted",
+      "summary": "Wanted back, not current ownership.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 20",
+          "quote": "I don’t have Super Mario RPG anymore"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq012-action-29",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Chrono Trigger",
+      "action_state": "sold",
+      "summary": "Named in next-paragraph sold-off/repurchase context; no standalone transaction details.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 19",
+          "quote": "I had and sold off to finish the NES set"
+        },
+        {
+          "location": "Paragraph 20",
+          "quote": "Chrono Trigger"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq012-action-30",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Chrono Trigger",
+      "action_state": "wanted",
+      "summary": "Wanted back, no new purchase.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 20",
+          "quote": "I don’t have Chrono Trigger anymore"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq012-action-31",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Existing Super Nintendo games",
+      "action_state": "owned",
+      "summary": "Partial collection; unnamed unplayed titles not individually identified.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 21",
+          "quote": "I do have some Super Nintendo games"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq012-action-32",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "EarthBound poster",
+      "action_state": "owned",
+      "summary": "Johnny reports visible poster; not an EarthBound cartridge.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 22",
+          "quote": "you have a giant earthbound poster behind you"
+        }
+      ],
+      "entity_type": "poster"
+    },
+    {
+      "id": "cq012-action-33",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Mega Man 2",
+      "action_state": "played",
+      "summary": "Contextual childhood sound-off gaming memory; no completion inferred.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 23",
+          "quote": "I didn’t know what Mega Man 2 sounded like until I was a teenager"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq012-action-34",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Secret of Mana",
+      "action_state": "played",
+      "summary": "Joint co-play, sentence continues into next paragraph.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Johnny",
+      "co_subjects": [
+        "Johnny's cousin"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 24",
+          "quote": "My cousin and I played the hell"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq012-action-35",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Harvest Moon — SNES",
+      "action_state": "mentioned",
+      "summary": "Explicit non-play, not a gameplay review.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 25",
+          "quote": "Harvest Moon was something I never played on the Super Nintendo"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq012-action-36",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Brain Lord",
+      "action_state": "purchased",
+      "summary": "Recalled purchase; age uncertain and price unstated.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 25",
+          "quote": "that I bought back when I was, I think like 13"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq012-action-37",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Terranigma",
+      "action_state": "played",
+      "summary": "Later play, not childhood-original-region experience.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 26",
+          "quote": "I didn’t play that till later"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq012-action-38",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Aboutfive Game Gear games — unspecified",
+      "action_state": "played",
+      "summary": "Limited known pool, titles unnamed.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 27",
+          "quote": "I only ever played like five game gear games"
+        }
+      ],
+      "entity_type": "unidentified_lot"
+    },
+    {
+      "id": "cq012-action-39",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Unnamed previously high-ranked game",
+      "action_state": "played",
+      "summary": "Replayed at prior forum-list time; identity unresolved.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 28",
+          "quote": "I was in the middle of replaying it right then"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq012-action-40",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Thousands of games — aggregate",
+      "action_state": "played",
+      "summary": "Broad self-report, not evidence any particular indexed game was completed.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 31",
+          "quote": "I’ve beat thousands of games"
+        }
+      ],
+      "entity_type": "unidentified_lot"
+    },
+    {
+      "id": "cq012-action-41",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "2016 purchases under365",
+      "action_state": "wanted",
+      "summary": "Future purchase cap goal, not an acquired lot or achieved count.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 40",
+          "quote": "under 365"
+        }
+      ],
+      "entity_type": "collection_goal"
+    },
+    {
+      "id": "cq012-action-42",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Custom N64/MasterSystem shelving",
+      "action_state": "wanted",
+      "summary": "Planned storage, not built/received shelves.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 37",
+          "quote": "custom shelf route"
+        }
+      ],
+      "entity_type": "furniture"
+    },
+    {
+      "id": "cq012-action-43",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Custom NES shelf",
+      "action_state": "owned",
+      "summary": "Existing shelving, not new purchase.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 37",
+          "quote": "the NES shelf, it’s custom"
+        }
+      ],
+      "entity_type": "furniture"
+    },
+    {
+      "id": "cq012-action-44",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "667 games in2015",
+      "action_state": "purchased",
+      "summary": "Database-reported annual total; overlaps individual/year claims, not additional acquisitions.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 38",
+          "quote": "667"
+        }
+      ],
+      "entity_type": "unidentified_lot"
+    },
+    {
+      "id": "cq012-action-45",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "901 games in2014",
+      "action_state": "purchased",
+      "summary": "Database-reported annual total, not Kat's840guess.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 39",
+          "quote": "901"
+        }
+      ],
+      "entity_type": "unidentified_lot"
+    },
+    {
+      "id": "cq012-action-46",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "389 games in2013",
+      "action_state": "purchased",
+      "summary": "Database-reported annual total after false2003start; not current purchase.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 40",
+          "quote": "389"
+        }
+      ],
+      "entity_type": "unidentified_lot"
+    },
+    {
+      "id": "cq012-action-47",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Kawasaki Caribbean Challenge CIB",
+      "action_state": "purchased",
+      "summary": "Ledger says Jan18,2014 and$3 equal lot allocation, not standalone sticker price.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 41",
+          "quote": "Kawasaki, Caribbean challenge for complete in box"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq012-action-48",
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "title": "Recent Wii games — allocated average",
+      "action_state": "purchased",
+      "summary": "About100-game rounded restatement of recent purchases, not an additional disjoint lot.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue; no audio verification."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 43",
+          "quote": "averaged $2.25 a Wii game"
+        }
+      ],
+      "entity_type": "unidentified_lot"
+    }
+  ],
+  "overrides": [],
+  "new_games": [],
+  "task_cases": [
+    {
+      "id": "batch006-cq012-kat-goals",
+      "episode": 12,
+      "question": "What did Kat actually plan to finish in2016?",
+      "query": "Master System 29 N64 110 cart box",
+      "speaker": "Kat",
+      "answer": "Kat hopes to finish Master System with about 29 games left and N64 with about 110 left. For N64 she targets at least cartridge and box, with manuals welcome when found. These are goals, not completed sets; she separately says she is not pursuing a full SNES collection.",
+      "expected": "Kat hopes to finish Master System with about 29 games left and N64 with about 110 left. For N64 she targets at least cartridge and box, with manuals welcome when found. These are goals, not completed sets; she separately says she is not pursuing a full SNES collection.",
+      "evidence_locations": [
+        "Paragraph 5",
+        "Paragraph 6",
+        "Paragraph 19"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 5",
+          "quote": "29 games to go"
+        },
+        {
+          "location": "Paragraph 5",
+          "quote": "about 110 now left"
+        },
+        {
+          "location": "Paragraph 6",
+          "quote": "at least do cart and box"
+        },
+        {
+          "location": "Paragraph 6",
+          "quote": "manuals are great if I come across them"
+        },
+        {
+          "location": "Paragraph 19",
+          "quote": "not going for a complete Super Nintendo set"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 5",
+            "quote": "29 games to go"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 5",
+            "quote": "about 110 now left"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 6",
+            "quote": "at least do cart and box"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 6",
+            "quote": "manuals are great if I come across them"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 19",
+            "quote": "not going for a complete Super Nintendo set"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Sets already completed",
+        "All140mustbeCIB",
+        "FullSNESsetgoal"
+      ],
+      "review_result": "Same-agent composed-answer source review: 5 supported checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch006-cq012-repurchase",
+      "episode": 12,
+      "question": "Did Kat already own EarthBound again, and who wanted it back?",
+      "query": "Earthbound sold John prioritize back collection",
+      "speaker": "Kat",
+      "answer": "No new EarthBound purchase is reported. Kat says it is no longer in the collection, recalls that she and husband John sold it, and agrees it should be prioritized for reacquisition. Super Mario RPG and Chrono Trigger are likewise named as games she wants back. John is her husband, not Johnny; a visible EarthBound poster is not cartridge ownership.",
+      "expected": "No new EarthBound purchase is reported. Kat says it is no longer in the collection, recalls that she and husband John sold it, and agrees it should be prioritized for reacquisition. Super Mario RPG and Chrono Trigger are likewise named as games she wants back. John is her husband, not Johnny; a visible EarthBound poster is not cartridge ownership.",
+      "evidence_locations": [
+        "Paragraph 20",
+        "Paragraph 22"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 20",
+          "quote": "I don’t have Earthbound anymore"
+        },
+        {
+          "location": "Paragraph 22",
+          "quote": "when we sold it"
+        },
+        {
+          "location": "Paragraph 22",
+          "quote": "John’s eyeing an earthbound"
+        },
+        {
+          "location": "Paragraph 22",
+          "quote": "we’re going to have to prioritize that"
+        },
+        {
+          "location": "Paragraph 20",
+          "quote": "I don’t have Super Mario RPG anymore"
+        },
+        {
+          "location": "Paragraph 20",
+          "quote": "I don’t have Chrono Trigger anymore"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 20",
+            "quote": "I don’t have Earthbound anymore"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 22",
+            "quote": "when we sold it"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 22",
+            "quote": "John’s eyeing an earthbound"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 22",
+            "quote": "we’re going to have to prioritize that"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 20",
+            "quote": "I don’t have Super Mario RPG anymore"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 6,
+          "evidence": {
+            "location": "Paragraph 20",
+            "quote": "I don’t have Chrono Trigger anymore"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "EarthBound already repurchased",
+        "John equalsJohnny",
+        "Poster provesgameownership"
+      ],
+      "review_result": "Same-agent composed-answer source review: 6 supported checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch006-cq012-favorites",
+      "episode": 12,
+      "question": "What are Johnny's personal top3 SNES RPGs here, and are they claimed to be technically best?",
+      "query": "Final Fantasy II III Chrono Trigger favorite",
+      "speaker": "Johnny",
+      "answer": "Johnny places Final Fantasy IV/US II first as his personal favorite and Chrono Trigger next, then tentatively settles on the two Final Fantasies and Chrono Trigger as the trio. He says US III/VI may be the better RPG overall, distinguishing personal preference from objective best. EarthBound is outside his top three in this discussion.",
+      "expected": "Johnny places Final Fantasy IV/US II first as his personal favorite and Chrono Trigger next, then tentatively settles on the two Final Fantasies and Chrono Trigger as the trio. He says US III/VI may be the better RPG overall, distinguishing personal preference from objective best. EarthBound is outside his top three in this discussion.",
+      "evidence_locations": [
+        "Paragraph 23",
+        "Paragraph 24"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 23",
+          "quote": "Final Fantasy IV or slash Final Fantasy II is probably my favorite"
+        },
+        {
+          "location": "Paragraph 23",
+          "quote": "followed by Chrono Trigger"
+        },
+        {
+          "location": "Paragraph 24",
+          "quote": "probably would be the two Final Fantasies and Chrono Trigger"
+        },
+        {
+          "location": "Paragraph 23",
+          "quote": "Final Fantasy III is probably a better RPG overall"
+        },
+        {
+          "location": "Paragraph 23",
+          "quote": "earthbound isn’t in my list"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 23",
+            "quote": "Final Fantasy IV or slash Final Fantasy II is probably my favorite"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 23",
+            "quote": "followed by Chrono Trigger"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 24",
+            "quote": "probably would be the two Final Fantasies and Chrono Trigger"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 23",
+            "quote": "Final Fantasy III is probably a better RPG overall"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 23",
+            "quote": "earthbound isn’t in my list"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "EarthBound top3",
+        "Permanent neverchangingranking",
+        "IVobjectivelybestclaim"
+      ],
+      "review_result": "Same-agent composed-answer source review: 5 supported checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch006-cq012-project",
+      "episode": 12,
+      "question": "What was the Nintendo Power photo project and what was still missing?",
+      "query": "Nintendo power285 72 210 fifteen",
+      "speaker": "Johnny",
+      "answer": "Johnny plans photos pairing each game from Nintendo Power 285's 285-game ranking with the magazine issue bearing that rank number, even when the cover subject differs. He may add 15 newer Wii U/late 3DS choices for about 300 posts with varied order. His current worksheet says 72 games and 210 magazine issues are missing, so the project is not already complete.",
+      "expected": "Johnny plans photos pairing each game from Nintendo Power 285's 285-game ranking with the magazine issue bearing that rank number, even when the cover subject differs. He may add 15 newer Wii U/late 3DS choices for about 300 posts with varied order. His current worksheet says 72 games and 210 magazine issues are missing, so the project is not already complete.",
+      "evidence_locations": [
+        "Paragraph 7",
+        "Paragraph 8",
+        "Paragraph 13"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 7",
+          "quote": "last Nintendo power issue 285"
+        },
+        {
+          "location": "Paragraph 8",
+          "quote": "even if that picture of the Nintendo power in the game don’t line up"
+        },
+        {
+          "location": "Paragraph 8",
+          "quote": "add in 15 of my own choices"
+        },
+        {
+          "location": "Paragraph 8",
+          "quote": "probably make it around 300"
+        },
+        {
+          "location": "Paragraph 13",
+          "quote": "I need right now 72 games"
+        },
+        {
+          "location": "Paragraph 13",
+          "quote": "right now 210"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 7",
+            "quote": "last Nintendo power issue 285"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 8",
+            "quote": "even if that picture of the Nintendo power in the game don’t line up"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 8",
+            "quote": "add in 15 of my own choices"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 8",
+            "quote": "probably make it around 300"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 13",
+            "quote": "I need right now 72 games"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 6,
+          "evidence": {
+            "location": "Paragraph 13",
+            "quote": "right now 210"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "285gamesalreadybought",
+        "Magazinecovermustmatchgame",
+        "300consecutivedailyphotosguaranteed"
+      ],
+      "review_result": "Same-agent composed-answer source review: 6 supported checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch006-cq012-counts",
+      "episode": 12,
+      "question": "How many games did Johnny's lookup say he bought, and what was his new goal?",
+      "query": "667 901 389 under365 purchases",
+      "speaker": "Johnny",
+      "answer": "His lookup reports 667 purchases in 2015, 901 in 2014 and 389 in 2013. This corrects his initial impression that 2014 was smaller; Kat's 1190 and roughly 840 are guesses, not the accepted totals. He then sets a 2016 target below 365 purchases, which is a goal rather than a recorded outcome.",
+      "expected": "His lookup reports 667 purchases in 2015, 901 in 2014 and 389 in 2013. This corrects his initial impression that 2014 was smaller; Kat's 1190 and roughly 840 are guesses, not the accepted totals. He then sets a 2016 target below 365 purchases, which is a goal rather than a recorded outcome.",
+      "evidence_locations": [
+        "Paragraph 38",
+        "Paragraph 39",
+        "Paragraph 40"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 38",
+          "quote": "667"
+        },
+        {
+          "location": "Paragraph 39",
+          "quote": "901"
+        },
+        {
+          "location": "Paragraph 40",
+          "quote": "389"
+        },
+        {
+          "location": "Paragraph 39",
+          "quote": "I just said, I thought I bought less games in 2014"
+        },
+        {
+          "location": "Paragraph 40",
+          "quote": "under 365"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 38",
+            "quote": "667"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 39",
+            "quote": "901"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 40",
+            "quote": "389"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 39",
+            "quote": "I just said, I thought I bought less games in 2014"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 40",
+            "quote": "under 365"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "1190or840finalcounts",
+        "Under365alreadyachieved",
+        "Annualtotalsaddedtorecentlotsasnewpurchases"
+      ],
+      "review_result": "Same-agent composed-answer source review: 5 supported checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch006-cq012-cost",
+      "episode": 12,
+      "question": "Was Kawasaki Caribbean Challenge literally bought alone for$3?",
+      "query": "Kawasaki Caribbean Challenge three dollars lot January",
+      "speaker": "Johnny",
+      "answer": "Johnny's ledger assigns the CIB copy $3 and a purchase date of January 18, 2014, but he explains that it came in a lot and he divides total cost equally among the games. The later $100/30-game numbers are an illustrative example, not proof of that actual lot's terms. The $3 allocation is not a standalone store price or market value.",
+      "expected": "Johnny's ledger assigns the CIB copy $3 and a purchase date of January 18, 2014, but he explains that it came in a lot and he divides total cost equally among the games. The later $100/30-game numbers are an illustrative example, not proof of that actual lot's terms. The $3 allocation is not a standalone store price or market value.",
+      "evidence_locations": [
+        "Paragraph 41"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 41",
+          "quote": "I paid $3"
+        },
+        {
+          "location": "Paragraph 41",
+          "quote": "18th of January in 2014"
+        },
+        {
+          "location": "Paragraph 41",
+          "quote": "I bought them in a lot"
+        },
+        {
+          "location": "Paragraph 41",
+          "quote": "divide the cost over those 30 games equally"
+        },
+        {
+          "location": "Paragraph 41",
+          "quote": "if the lot was $100"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 41",
+            "quote": "I paid $3"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 41",
+            "quote": "18th of January in 2014"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 41",
+            "quote": "I bought them in a lot"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 41",
+            "quote": "divide the cost over those 30 games equally"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 41",
+            "quote": "if the lot was $100"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Standalone$3retailsale",
+        "Actual100dollar30gamelotproven",
+        "Currentmarketvalue3"
+      ],
+      "review_result": "Same-agent composed-answer source review: 5 supported checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch006-cq012-gifts",
+      "episode": 12,
+      "question": "What hardware/game gifts were discussed, and was Kat's Pocket a color-screen system?",
+      "query": "purple Game Boy Pocket Uncharted collection Christmas",
+      "speaker": "Kat",
+      "answer": "Kat reports a complete-in-box purple Japanese Game Boy Pocket and already having pink; she clarifies that the Pocket display is monochrome. Johnny reports receiving the PS4 Uncharted collection and looking forward to revisiting it, not receiving retro games or already finishing the collection. Shell color is not Game Boy Color hardware.",
+      "expected": "Kat reports a complete-in-box purple Japanese Game Boy Pocket and already having pink; she clarifies that the Pocket display is monochrome. Johnny reports receiving the PS4 Uncharted collection and looking forward to revisiting it, not receiving retro games or already finishing the collection. Shell color is not Game Boy Color hardware.",
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "purple Ken Pleaton box Game Boy pocket from Japan"
+        },
+        {
+          "location": "Paragraph 2",
+          "quote": "I already have the pink one"
+        },
+        {
+          "location": "Paragraph 3",
+          "quote": "no color on this one"
+        },
+        {
+          "location": "Paragraph 2",
+          "quote": "uncharted collection for the PS4"
+        },
+        {
+          "location": "Paragraph 2",
+          "quote": "looking forward to kind of revisiting that"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 1",
+            "quote": "purple Ken Pleaton box Game Boy pocket from Japan"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 2",
+            "quote": "I already have the pink one"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 3",
+            "quote": "no color on this one"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 2",
+            "quote": "uncharted collection for the PS4"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 2",
+            "quote": "looking forward to kind of revisiting that"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "PocketisGameBoyColor",
+        "Johnnyreceivedretrogames",
+        "Unchartedcompleted"
+      ],
+      "review_result": "Same-agent composed-answer source review: 5 supported checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch006-cq012-scope",
+      "episode": 12,
+      "question": "Should the lore treat a changed top list or Johnny's casual Zelda answer as a contradiction?",
+      "query": "top five 2010 Zelda Game Gear only five",
+      "speaker": "Johnny",
+      "answer": "Not automatically. The hosts explain that recent replay and changing taste can reorder favorites; Johnny's example comparing a 2010 forum list with Instagram leaves the game unnamed. He sometimes answers Zelda simply because a casual questioner recognizes it. He also declines a Game Gear top three based on only about five games played, demonstrating that scope and experience matter.",
+      "expected": "Not automatically. The hosts explain that recent replay and changing taste can reorder favorites; Johnny's example comparing a 2010 forum list with Instagram leaves the game unnamed. He sometimes answers Zelda simply because a casual questioner recognizes it. He also declines a Game Gear top three based on only about five games played, demonstrating that scope and experience matter.",
+      "evidence_locations": [
+        "Paragraph 28",
+        "Paragraph 29",
+        "Paragraph 31",
+        "Paragraph 27"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 28",
+          "quote": "forum post back in like 2010"
+        },
+        {
+          "location": "Paragraph 29",
+          "quote": "gaming tastes change"
+        },
+        {
+          "location": "Paragraph 31",
+          "quote": "default to something like Zelda"
+        },
+        {
+          "location": "Paragraph 31",
+          "quote": "something that they know"
+        },
+        {
+          "location": "Paragraph 27",
+          "quote": "I only ever played like five game gear games"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 28",
+            "quote": "forum post back in like 2010"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 29",
+            "quote": "gaming tastes change"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 31",
+            "quote": "default to something like Zelda"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 31",
+            "quote": "something that they know"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 27",
+            "quote": "I only ever played like five game gear games"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Unnamedgameidentified",
+        "Zeldafixedalltimefavorite",
+        "LimitedsampleisfullGameGearranking"
+      ],
+      "review_result": "Same-agent composed-answer source review: 5 supported checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch006-cq012-uncertainty",
+      "episode": 12,
+      "question": "Can this transcript settle the V-titled digital game and Brawl's platform example?",
+      "query": "VVVVVVV five Vs Brawl Wii U",
+      "speaker": "Johnny",
+      "answer": "No confident cleanup is warranted from this text alone. It prints a run of Vs while the speaker calls it five Vs, and describes a digital DS/3DS-related entry. Separately, Brawl appears in a hypothetical post sequence alongside talk of Wii U additions. Preserve those raw forms and uncertainties instead of silently assigning corrected release/platform facts or claiming a purchase.",
+      "expected": "No confident cleanup is warranted from this text alone. It prints a run of Vs while the speaker calls it five Vs, and describes a digital DS/3DS-related entry. Separately, Brawl appears in a hypothetical post sequence alongside talk of Wii U additions. Preserve those raw forms and uncertainties instead of silently assigning corrected release/platform facts or claiming a purchase.",
+      "evidence_locations": [
+        "Paragraph 15",
+        "Paragraph 14",
+        "Paragraph 18"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 15",
+          "quote": "VVVVVVV"
+        },
+        {
+          "location": "Paragraph 15",
+          "quote": "it’s five Vs"
+        },
+        {
+          "location": "Paragraph 14",
+          "quote": "a DS game that’s like from the virtual store"
+        },
+        {
+          "location": "Paragraph 18",
+          "quote": "Thursday, Brawl, if I had Brawl"
+        },
+        {
+          "location": "Paragraph 18",
+          "quote": "add some Wii U games"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 15",
+            "quote": "VVVVVVV"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 15",
+            "quote": "it’s five Vs"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 14",
+            "quote": "a DS game that’s like from the virtual store"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 18",
+            "quote": "Thursday, Brawl, if I had Brawl"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 18",
+            "quote": "add some Wii U games"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "ExactVcountverified",
+        "BrawlWiiUreleaseverified",
+        "Digitalgamepurchased"
+      ],
+      "review_result": "Same-agent composed-answer source review: 5 supported checkpoints; integrated retrieval pending."
+    }
+  ]
+}

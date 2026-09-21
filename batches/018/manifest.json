@@ -1,0 +1,52 @@
+{
+  "schema_version": "0.1",
+  "created": "2026-09-13",
+  "status": "captured_text_review_complete",
+  "selection_basis": "Prepared during one-hour continuation; sequential era-varied lanes, not test-answer-driven.",
+  "budget": "Supplied public text only; no private Discord access, paid calls, publication or persona change.",
+  "episodes": [
+    {
+      "key": "sc-253740969",
+      "episode_number": 24,
+      "title": "Episode 24 -Motivation",
+      "date": "2016-03-21",
+      "path": "episodes/cq-024-sc-253740969.md",
+      "source_url": "https://soundcloud.com/collectors-quest/collectors-quest-episode-24-motivation",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "words": 6215,
+      "sha256": "ea0311309f9733479e1998a976a45f4c41e9517f1668d64f243a982800be1bb1",
+      "reason": "Sequential early/middle/later lane; CQ217 is public SideQuest AMA, not a regular two-host episode.",
+      "status": "selected_not_processed",
+      "record_path": "records/sc-253740969.json"
+    },
+    {
+      "key": "sc-431931915",
+      "episode_number": 91,
+      "title": "Episode 91 - Johnny and Tyler Lay the Smackdown on Wrestling Games",
+      "date": "2018-04-19",
+      "path": "episodes/cq-091-sc-431931915.md",
+      "source_url": "https://soundcloud.com/collectors-quest/episode-91-johnny-and-tyler-lay-the-smackdown-on-wrestling-games",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "words": 16235,
+      "sha256": "e21eaf2a06c026887e4bd916e75d1f92d082f2851cf6fd6ac8ebba6b167d5a13",
+      "reason": "Sequential early/middle/later lane; CQ217 is public SideQuest AMA, not a regular two-host episode.",
+      "status": "selected_not_processed",
+      "record_path": "records/sc-431931915.json"
+    },
+    {
+      "key": "sc-1463967268",
+      "episode_number": 217,
+      "title": "CQ 217 - SideQuest Johnny AMA - Caution Not A Regular Episode",
+      "date": "2023-03-08",
+      "path": "episodes/cq-217-sc-1463967268.md",
+      "source_url": "https://soundcloud.com/collectors-quest/cq-217-sidequest-johnny-ama-caution-not-a-regular-episode",
+      "timing": "YouTube caption timestamps",
+      "words": 9161,
+      "sha256": "fc7a123e91299985a332ce91e484db6d0daaa83f5b82e6ffe39501e96e9980fa",
+      "reason": "Sequential early/middle/later lane; CQ217 is public SideQuest AMA, not a regular two-host episode.",
+      "status": "selected_not_processed",
+      "record_path": "records/sc-1463967268.json"
+    }
+  ],
+  "duplicate_controls": []
+}

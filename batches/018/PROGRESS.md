@@ -1,0 +1,21 @@
+# Batch018 — accepted captured-text review
+
+2026-09-14 04:25UTC: all24 A1–A8 checks and exact review binding pass for CQ24/91/217. Archive61, all58 hour-start identities preserved. Final232 typed references,380 spans,113 actions,47 reviewed answers;47 original/47 tuned,20 frozen/12 fresh cases pass.228 shared tests pass. Work03:57:34–04:25 finished existing drafts and retained prior full source reads; this is not31,611 newly read words in27minutes. Repair/independent integration and regression effort are documented in reviews/verification.md. No paid processing or publication.
+
+Additional04:29UTC shared-routing checks: fixed pilot integrated retrieval19/19 passes. Its older annotation cases have no original wording (0 measurable,9 excluded), so no pilot original-question pass is claimed. Public archive smoke queries for all three newly accepted episodes return required windows; catalog still61 and019 correctly excluded. Full ranking projection confirms CQ24's coverage ties and CQ217's supporting-example versus substantial-discussion distinction.
+
+The following checkpoint is historical and superseded.
+
+2026-09-13 22:12 UTC bounded-work checkpoint: all three drafts are saved. CQ24 remains stable (42 references,77 spans,42 actions,12 answers); CQ217 is now stable (51 references,70 spans,19 actions,22 lore,4 lists/22 members,15 answers;374 exact proofs pass). CQ91 is explicitly incomplete (131 reference buckets,221 spans,45 actions,26 lore,8 answers;690 exact proofs pass). Structural success does not establish semantic completeness. Its audit lists remaining omission, identity, actor-state, ranking and functional-answer work.
+
+Root independent supplied-source reads now cover all149 windows/31,611 words across CQ24/91/217. CQ24's12 answer texts and42 action summaries were previously reviewed. This block additionally reviewed all15 CQ217 complete answers and their question/query/forbidden-inference/evidence fields,19 action summaries and22 list members. Father/Hogwarts support was reread at windows22–24. Both new extractor audits and practical briefs were read at handoff. These reviews do not yet certify every typed reference, span or action identity; CQ91's eight answers still require root adjudication.
+
+Next: finish CQ91's explicitly listed repairs; reconcile all episode inventories, actor states and ranking ties; compare the frozen20 source-first references against the drafts; merge annotations and build only from stable inputs; run original/tuned and fresh functional retrieval checks; save exact manual-answer snapshots; complete every A1–A8 check and bind acceptance. No batch018 approval ledger or acceptance is claimed. Full-read checkpoints are retained in reviews/coordinator-progress.md, avoiding another full reread merely to resume.
+
+Handoff verification: after both new drafts stabilized, `python -m unittest discover -s tests -p "test_lore*.py"` passed212 tests in106.071 seconds. This narrower lore-only rerun supplements the full225-test shared suite already passed during batch017 closure; it does not accept batch018. Work began21:52:29UTC, the requested20-minute checkpoint was saved22:12UTC, and the final test completed around22:13:40UTC. No additional paid processing or publication was used.
+
+The checkpoints below are historical, superseded by the current handoff above.
+
+18:35 UTC checkpoint: CQ24 draft is stable with42 references,77 spans,42 actions and12 answers. Extractor preflight and366 exact proofs pass. Root independently read all29 CQ24 windows and12 answer texts; full action review, runtime testing and acceptance remain pending. CQ91/217 have only frozen-sample neighborhood reads and no extraction. The earlier no-extraction checkpoint below is historical.
+
+CQ24/91/217 selected across eras:149 supplied windows and31,611 words. CQ217 is the supplied public Johnny SideQuest AMA, not a regular two-host collecting episode; do not infer Tyler participation or access the underlying private Discord. Root read27 sample/neighborhood windows and froze20 reference buckets across9 sampled windows before extraction comparison. No extraction, full-source read, question evaluation or acceptance yet. Exact resume ranges are in reviews/coordinator-progress.md. Every episode still requires A1–A8. No paid services or publication.

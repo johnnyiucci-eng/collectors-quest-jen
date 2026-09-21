@@ -1,0 +1,477 @@
+{
+  "schema_version": "1",
+  "review_scope": "Coordinator adjudicated every complete composed answer against primary source contexts; all three episodes read in full. Same-team development review, not external blind benchmark. Runtime context and exact answer snapshots checked separately.",
+  "cases": [
+    {
+      "id": "batch004-cq010-signed",
+      "episode": 10,
+      "question": "Which signed games did Nick highlight, and what qualified his Jack Thompson story?",
+      "query": "signed Oddworld Grand Theft Auto Jack Thompson",
+      "answer": "Nick highlights an Xbox Oddworld copy, transcribed “Munch of Saddusy” and provisionally normalized as Munch’s Oddysee, signed by Lorne Lanning. He also says Jack Thompson signed his Grand Theft Auto III copy. Despite the hosts' negative wider view of Thompson, Nick says Thompson was respectful to him and saw the humor in signing it. This is Nick's anecdote, not Johnny's signed-copy ownership or independently verified legal history.",
+      "evidence_locations": [
+        "Paragraph 10"
+      ],
+      "forbidden": [
+        "Johnny owns these signed copies",
+        "Audio-confirmed title spelling",
+        "Verified legal history"
+      ],
+      "status": "passed",
+      "reason": "Nick's signed-copy anecdote and qualified respect comment supported in P10; ownership not reassigned."
+    },
+    {
+      "id": "batch004-cq010-gbc",
+      "episode": 10,
+      "question": "Was Nick's purchased Game Boy Color set complete from the outset?",
+      "query": "Game Boy Color International Superstar Soccer 99 11000",
+      "answer": "No. Nick says the purchased set was missing International Superstar Soccer 99, which he later obtained separately. He reports $11,000 for the US complete-in-box Game Boy Color set purchase, but does not give a standalone price for the missing game. The initial lot and later completed collection are distinct states.",
+      "evidence_locations": [
+        "Paragraph 11"
+      ],
+      "forbidden": [
+        "Initial lot already complete",
+        "ISS99 alone cost11000",
+        "A separately dated shipping receipt"
+      ],
+      "status": "passed",
+      "reason": "P11 explicitly separates missing ISS99 from later acquisition and prices the set rather than that game."
+    },
+    {
+      "id": "batch004-cq010-trading",
+      "episode": 10,
+      "question": "Who had traded on Instagram, and does the delayed-trade story prove delivery?",
+      "query": "Instagram trade empty N64 boxes shipped",
+      "answer": "Kat says she has not yet traded on Instagram. Nick describes sending empty N64 boxes to Retro Game Trader and estimates about twenty Instagram trades; one item was slow to ship but was eventually sent with no further reported issue. Johnny separately says he has done a couple of trades. The delayed item is unnamed, and the text reports shipment rather than an explicit delivery receipt.",
+      "evidence_locations": [
+        "Paragraph 16",
+        "Paragraph 17",
+        "Paragraph 19"
+      ],
+      "forbidden": [
+        "Kat did the empty-box trade",
+        "Shipment proves dated receipt",
+        "Follower count guarantees safety"
+      ],
+      "status": "passed",
+      "reason": "Three hosts' distinct trade histories and shipment-versus-receipt boundary supported in P16/17/19."
+    },
+    {
+      "id": "batch004-cq010-plans",
+      "episode": 10,
+      "question": "What collection-disposition plans were actually documented in the conversation?",
+      "query": "collection plan written Matt wife 15",
+      "answer": "Johnny describes conversations with his wife and a friend, then explicitly says the plan is not written down. He offered the friend fifteen percent, which the friend declined. Nick likewise says he has no formal or written plan and imagines his brother Matt selling the collection. These are hypothetical future arrangements reported in an interview, not executed sales or verified legal documents.",
+      "evidence_locations": [
+        "Paragraph 27",
+        "Paragraph 26",
+        "Paragraph 25"
+      ],
+      "forbidden": [
+        "Executed will or legal advice",
+        "Actual collection sale",
+        "Matt is Johnny's brother"
+      ],
+      "status": "passed",
+      "reason": "Oral hypothetical plans and declined fifteen percent remain distinct from legal instruments or executed sales."
+    },
+    {
+      "id": "batch004-cq010-value",
+      "episode": 10,
+      "question": "Would all three sell their collections for market value?",
+      "query": "full market value two three memories",
+      "answer": "No single answer applies to everyone. Nick rejects full market value and says two-to-three times might make him consider it, without a firm cutoff. Kat initially leans no because of shared memories but later allows that an actual offer could change things. Johnny says he would consider full market value, perhaps keeping Super Nintendo. All of this is conditional discussion, not an accepted offer.",
+      "evidence_locations": [
+        "Paragraph 29",
+        "Paragraph 30",
+        "Paragraph 31"
+      ],
+      "forbidden": [
+        "A collection was sold",
+        "Nick has a firm3x asking price",
+        "Kat can never change her mind"
+      ],
+      "status": "passed",
+      "reason": "P29–31 preserve conditional differences among all three and Kat's later qualification."
+    },
+    {
+      "id": "batch004-cq010-playing",
+      "episode": 10,
+      "question": "What was Nick actually playing, and why might he skip the Wii U bundle?",
+      "query": "Mario Kart 7 Mario Maker digital bundle",
+      "answer": "Nick says he keeps returning to Mario Kart 7 on 3DS. Super Mario Maker is a hoped-for future game after moving and getting Wii U equipment, while he says he cannot play Fallout 4 now. He probably will not buy the discussed Smash/Splatoon bundle because it supplies digital copies and he wants physical media. This does not establish a Wii U order, bundle purchase or completed Mario Maker play.",
+      "evidence_locations": [
+        "Paragraph 32"
+      ],
+      "forbidden": [
+        "Mario Maker already played",
+        "Wii U bundle purchased",
+        "Present online availability verified"
+      ],
+      "status": "passed",
+      "reason": "P32 supports Mario Kart play, future Mario Maker and physical-media reason; no bundle purchase inferred."
+    },
+    {
+      "id": "batch004-cq010-database",
+      "episode": 10,
+      "question": "Was VGDB described as a searchable collection database or just a printable list?",
+      "query": "VGDB search owned individual releases",
+      "answer": "Nick describes VGDB as a searchable database with box-art results, ownership tracking, complete system lists and individual game releases. It grew from his own master lists and, at the time of this 2015 interview, focused on specified manufacturers' North American releases before planned expansion. These are dated reported features, not a fresh audit of the website.",
+      "evidence_locations": [
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 2"
+      ],
+      "forbidden": [
+        "Current site availability verified",
+        "All world regions already covered",
+        "Root's Lore Master database is the same system"
+      ],
+      "status": "passed",
+      "reason": "P2–4 date VGDB features and planned expansion; no present-day site validation claim."
+    },
+    {
+      "id": "cq077-task-format",
+      "episode": 77,
+      "question": "Was CQ77 actually a microcast and was Tyler new that day?",
+      "query": "microcast episode first intro",
+      "answer": "CQ77 was planned and recorded as a microcast, but Johnny's added introduction says it ran about twenty minutes and was published as an episode instead. Tyler performs his first intro here; the dialogue says he has already been around a little, so this is not evidence of his first appearance. Johnny and Tyler are the introduced hosts.",
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 2"
+      ],
+      "forbidden": [
+        "published as microcast",
+        "Tyler first appearance",
+        "Cat present"
+      ],
+      "status": "passed",
+      "reason": "P1–2 distinguish recorded plan, published format and first intro from first appearance."
+    },
+    {
+      "id": "cq077-task-pack-price",
+      "episode": 77,
+      "question": "Did Johnny pay $100 for the Spooky Swamp Wii DVD pack?",
+      "query": "Spooky Swamp DVD twenty hundred",
+      "answer": "No. Johnny says his own pack cost $20, while $100 describes some sellers' asking prices and is specifically a price he says not to pay. He also recalls sales at $15 and $49. These are dated episode anecdotes, not verified current valuations.",
+      "evidence_locations": [
+        "Paragraph 6",
+        "Paragraph 7"
+      ],
+      "forbidden": [
+        "paid100",
+        "current valuation",
+        "all packs identical verified"
+      ],
+      "status": "passed",
+      "reason": "P6–7 distinguish twenty paid from hundred asked and historical fifteen/forty-nine sales."
+    },
+    {
+      "id": "cq077-task-purchase",
+      "episode": 77,
+      "question": "Did the absent buying segment mean nobody mentioned purchases?",
+      "query": "microcast episode buying segment Spooky Swamp DVD Maze Chase Xbox manual",
+      "answer": "No. The intro says the usual buying segment was omitted, but collecting actions still appear within the retrospective. Johnny reports his $20 Spooky Swamp DVD pack. His statement that he likes Maze Chase enough to buy it establishes inclination, not a completed purchase. A host also reports obtaining an Xbox Night of 100 Frights manual, but the preceding Tyler handoff and unlabelled turns leave the actor unresolved.",
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 7",
+        "Paragraph 11",
+        "Paragraph 12"
+      ],
+      "forbidden": [
+        "no action events",
+        "all purchases that week",
+        "manual proves full set",
+        "Maze Chase definitely purchased",
+        "Johnny definitely acquired the manual"
+      ],
+      "status": "passed",
+      "reason": "Coordinator full source and peer comparison confirm omitted dedicated segment does not remove retrospective actions. Fresh answer explicitly repairs initial Maze purchase overclaim and Xbox-manual actor certainty. P1/P7/P11/P12 all now retrieved with segment-aware query; ownership of a manual not complete-set proof."
+    },
+    {
+      "id": "cq077-task-corrections",
+      "episode": 77,
+      "question": "Did they say Scooby games never came to Xbox and LEGO Dimensions was on 3DS?",
+      "query": "Xbox 360 PS3 LEGO 3DS Wii U",
+      "answer": "Those are both statements corrected within the conversation. LEGO Dimensions' list immediately changes 3DS to Wii U. The later Xbox gap refers to Xbox 360/PS3, not original Xbox, which they had just listed for several titles. These are the hosts' scoped release claims, not an independently checked catalog.",
+      "evidence_locations": [
+        "Paragraph 6",
+        "Paragraph 12",
+        "Paragraph 13",
+        "Paragraph 14"
+      ],
+      "forbidden": [
+        "LEGO Dimensions3DS",
+        "no original Xbox games",
+        "complete catalogverified"
+      ],
+      "status": "passed",
+      "reason": "Immediate Wii U repair and later Xbox 360/PS3 scope preserved with original Xbox context."
+    },
+    {
+      "id": "cq077-task-count",
+      "episode": 77,
+      "question": "How many Scooby-Doo games did they count?",
+      "query": "17 15 41 double packs",
+      "answer": "Their rundown says 17 entries, or 15 after removing two double packs, and 41 copies if buying the listed platform releases, with several variants on top. They dispute whether to count plug-and-play and computer releases, so these are counts within their list's boundaries, not a definitive franchise total.",
+      "evidence_locations": [
+        "Paragraph 14",
+        "Paragraph 15"
+      ],
+      "forbidden": [
+        "17 platform copies",
+        "41 unique games",
+        "all PC included",
+        "definitive franchise total"
+      ],
+      "status": "passed",
+      "reason": "Seventeen entries/fifteen sans double packs/forty-one platform copies are scoped counts, not franchise proof."
+    },
+    {
+      "id": "cq077-task-denial",
+      "episode": 77,
+      "question": "Did Johnny own the Mystery Machine plug-and-play or play Unmasked?",
+      "query": "Mystery Machine own Unmasked played",
+      "answer": "He explicitly denies owning the Mystery Machine plug-and-play and says watching gameplay video put him off it. Later he explicitly says he did not play Unmasked. The retrospective's mention of either product is not evidence of purchase or play, and the guessed genre of Unmasked remains a guess.",
+      "evidence_locations": [
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 13"
+      ],
+      "forbidden": [
+        "owns plugplay",
+        "played Unmasked",
+        "genre verified"
+      ],
+      "status": "passed",
+      "reason": "Explicit nonownership and nonplay retained; genre speculation not asserted as verified."
+    },
+    {
+      "id": "cq077-task-versions",
+      "episode": 77,
+      "question": "Were Cyber Chase handheld and console versions interchangeable?",
+      "query": "Cyber Chase GBA PS1 greatest hits double pack",
+      "answer": "The hosts explicitly distinguish PlayStation Cyber Chase's 3D action from the GBA side-scroller, warning that owning one is not the same as having played the other. They also mention a PlayStation Greatest Hits variant and a GBA double pack with Mystery Mayhem. The two platform versions and the compilation remain separate records.",
+      "evidence_locations": [
+        "Paragraph 8",
+        "Paragraph 9",
+        "Paragraph 12"
+      ],
+      "forbidden": [
+        "same port",
+        "double packPS1",
+        "Mystery Mayhem sequel inferred"
+      ],
+      "status": "passed",
+      "reason": "P8–9 explicitly contrasts PS1 3D and GBA side-scrolling designs; P12 supplies GBA double pack. Compilation/individual types remain separate, no sequel or same-port inference."
+    },
+    {
+      "id": "cq203-space-panic",
+      "episode": 203,
+      "question": null,
+      "query": "What did Tyler buy on air, and was it fully complete?",
+      "answer": "Tyler bought ColecoVision Space Panic for $39.99 plus $10 shipping. He selected the copy with a supplement and registration card, but it lacked the plastic cartridge holder. Finding a donor in Portland was a future plan; the episode does not establish delivery or a completed replacement.",
+      "evidence_locations": [
+        "00:41:46",
+        "00:42:50",
+        "00:43:55"
+      ],
+      "forbidden": [
+        "Do not call it fully complete without the missing-holder caveat.",
+        "Do not convert purchase into receipt or donor intent into purchase."
+      ],
+      "status": "passed",
+      "reason": "On-air purchase and missing holder explicitly supported; Portland donor remains a plan."
+    },
+    {
+      "id": "cq203-star-wars",
+      "episode": 203,
+      "question": null,
+      "query": "Which Star Wars arcade release do they recommend, and what do they correct?",
+      "answer": "They favor the Rogue Squadron III Rebel Strike limited-edition GameCube preview disc as a physical way to play the original Star Wars arcade game. That is an opinion, not proof it is the only good or only home version: they retract the near-no-ports rant after finding numerous Atari and computer releases. The 32X game is discussed as a reimagining, not the same original arcade port.",
+      "evidence_locations": [
+        "00:50:16",
+        "00:51:20",
+        "00:52:24",
+        "00:54:27",
+        "00:55:30",
+        "00:56:32"
+      ],
+      "forbidden": [
+        "Do not identify Rebel Assault II or a generic preview disc.",
+        "Do not repeat retracted home-port scarcity as fact."
+      ],
+      "status": "passed",
+      "reason": "GameCube name and original-arcade recommendation survive the separate retraction of scarce home ports; 32X scope qualified."
+    },
+    {
+      "id": "cq203-buck-rogers",
+      "episode": 203,
+      "question": null,
+      "query": "Did the episode settle on Star Wars as the first rail shooter?",
+      "answer": "No. The outro explicitly retracts the earlier dismissal of Buck Rogers: the speaker had looked briefly at the wrong port and now calls the Sega 1982 game a rail shooter. This reverses the earlier Star Wars-first implication. It does not resolve the hosts’ separate disagreement over whether Star Fox belongs in the category.",
+      "evidence_locations": [
+        "00:43:55",
+        "00:45:00",
+        "00:46:06",
+        "00:47:07",
+        "00:49:15",
+        "02:48:29",
+        "02:49:35"
+      ],
+      "forbidden": [
+        "Do not omit the late correction.",
+        "Do not invent a universally settled first-rail-shooter history."
+      ],
+      "status": "passed",
+      "reason": "Earlier Star Wars-first assertion explicitly reversed in outro, without falsely settling separate Star Fox disagreement."
+    },
+    {
+      "id": "cq203-last-of-us-resolution",
+      "episode": 203,
+      "question": null,
+      "query": "Was Johnny still stuck in The Last of Us II?",
+      "answer": "Not by CQ203. Johnny says the bug was patched, he could proceed, and he finished The Last of Us II. That is the new resolution to the earlier stuck-game thread; he does not supply the patch number, precise patch date or technical cause.",
+      "evidence_locations": [
+        "02:32:43"
+      ],
+      "forbidden": [
+        "Do not preserve the older unresolved status as the latest state.",
+        "Do not attribute completion to Tyler or invent technical diagnosis."
+      ],
+      "status": "passed",
+      "reason": "Johnny directly reports patched bug and completion; no patch/date/cause invented."
+    },
+    {
+      "id": "cq203-trespasser-correction",
+      "episode": 203,
+      "question": null,
+      "query": "Does Dan Gomez own Trespasser, and what variant detail matters?",
+      "answer": "The outro explicitly corrects the earlier nonownership claim: Dan Gomez absolutely has Jurassic Park: Trespasser. His copy has a sticker saying it comes with a soundtrack; Tyler says his own copy lacks that sticker. Tyler favors the soundtrack-marked variant, but admits he does not know what the soundtrack looks like, so the actual contents are not verified.",
+      "evidence_locations": [
+        "02:53:51",
+        "02:54:52"
+      ],
+      "forbidden": [
+        "Do not say Dan still lacks the game.",
+        "Do not invent a soundtrack format, completeness check, or Tyler upgrade purchase."
+      ],
+      "status": "passed",
+      "reason": "Late correction supports Dan ownership and sticker contrast; no soundtrack format or new purchase inferred."
+    },
+    {
+      "id": "cq203-mario-eprom",
+      "episode": 203,
+      "question": null,
+      "query": "Did Tyler buy a Super Mario prototype or Mario Kart variant?",
+      "answer": "Neither conclusion is established. He explicitly means Super Mario Bros. cartridges, not Mario Kart. His unusual roughly $20 example has hand-soldered EPROMs, but its dump matches ordinary retail software. Repair or sample explanations remain possibilities discussed with others, not authenticated prototype provenance.",
+      "evidence_locations": [
+        "02:32:43",
+        "02:33:46",
+        "02:34:46",
+        "02:35:54",
+        "02:36:59"
+      ],
+      "forbidden": [
+        "Do not canonicalize Mario carts as Mario Kart.",
+        "Do not label it a confirmed prototype, unique ROM or verified Nintendo sample."
+      ],
+      "status": "passed",
+      "reason": "Immediate title correction and retail-identical dump prevent Mario Kart/prototype invention."
+    },
+    {
+      "id": "cq203-golf-bid",
+      "episode": 203,
+      "question": null,
+      "query": "What happened to Tyler’s expensive Golf winner-disc bid?",
+      "answer": "Tyler describes losing a roughly $10,000 bid for the Famicom Disk System Golf Japan Course winner disc. He was an underbidder, not the purchaser. Claims about the original contest and production count are part of the episode’s historical discussion, not independently verified here.",
+      "evidence_locations": [
+        "02:12:33",
+        "02:13:38",
+        "02:14:39"
+      ],
+      "forbidden": [
+        "Do not list it as a purchase, receipt or owned item.",
+        "Do not present auction-era pricing as a current valuation."
+      ],
+      "status": "passed",
+      "reason": "Losing bidder and retained account funds not a purchased winner disc; historical contest claims remain dated reports."
+    },
+    {
+      "id": "cq203-akalabeth",
+      "episode": 203,
+      "question": null,
+      "query": "Which Akalabeth does Tyler actually own, and is the C64 prototype an original?",
+      "answer": "Tyler says he owns the large black California Pacific baggie edition with the dragon artwork. The earliest blue-packaged release and a hypothetical creator-assembled copy are separate discussions, not additional purchases. The expensive C64 prototype being discussed belongs to a later port/release; the episode does not establish it as an original-era Akalabeth prototype or certify its authorization.",
+      "evidence_locations": [
+        "01:39:19",
+        "01:40:23",
+        "01:41:30",
+        "01:42:37",
+        "01:43:44",
+        "01:44:44",
+        "01:45:45",
+        "01:46:52",
+        "01:47:53"
+      ],
+      "forbidden": [
+        "Do not give Tyler the original blue copy or auctioned C64 copy.",
+        "Do not equate later prototype label with original-development provenance."
+      ],
+      "status": "passed",
+      "reason": "Owned black baggie contrasted with earliest blue and later C64 item; no invented provenance authentication."
+    },
+    {
+      "id": "cq203-underworld-completeness",
+      "episode": 203,
+      "question": null,
+      "query": "What should a collector check in an Ultima Underworld box?",
+      "answer": "The episode’s practical advice is to check for all six metal runes, not assume a bag with five is complete. It also discusses floppy-format differences. The special promotional release sticker is described as a budget rerelease, so the sticker alone should not be promoted as evidence of a rare press copy. These are dated source claims, not an independently authenticated packaging catalog.",
+      "evidence_locations": [
+        "01:55:23",
+        "01:56:27"
+      ],
+      "forbidden": [
+        "Do not say five runes are complete.",
+        "Do not certify every sticker copy as a press or review copy."
+      ],
+      "status": "passed",
+      "reason": "Six runes and rerelease sticker qualifier directly supported; package advice is historical source claim."
+    },
+    {
+      "id": "cq203-ultima-exodus",
+      "episode": 203,
+      "question": null,
+      "query": "Why did Tyler buy another Ultima Exodus?",
+      "answer": "He wanted the Houston-address version of the folded hint-book advertisement insert for his first-print set. Buying roughly a fourth copy supplied that variant, and he says he now thinks his copy is complete. The passage does not establish the platform, so it should not silently be labeled an Apple II purchase.",
+      "evidence_locations": [
+        "02:38:03",
+        "02:39:05"
+      ],
+      "forbidden": [
+        "Do not replace the insert motive with wanting another playable copy.",
+        "Do not infer platform or externally certify completeness."
+      ],
+      "status": "passed",
+      "reason": "Fourth-copy insert motive and qualified complete state supported; absent platform not filled from guess."
+    },
+    {
+      "id": "cq203-firefly-digital",
+      "episode": 203,
+      "question": null,
+      "query": "Did Johnny buy a digital Last of Us copy while getting Firefly?",
+      "answer": "Johnny says he secured the $100 Firefly edition online while physically shopping at Target. He considered buying an additional digital copy so he could start immediately, then decided against it after about ten minutes. Target is the location of his shopping trip, not established as the seller of the Firefly order.",
+      "evidence_locations": [
+        "02:26:22",
+        "02:28:31",
+        "02:31:39",
+        "02:32:43"
+      ],
+      "forbidden": [
+        "Do not record an extra digital purchase.",
+        "Do not infer a Target-exclusive edition from his physical location."
+      ],
+      "status": "passed",
+      "reason": "Physical shopping location differs from online edition seller; extra digital purchase explicitly declined."
+    }
+  ]
+}

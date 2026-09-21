@@ -1,0 +1,52 @@
+{
+  "schema_version": "0.1",
+  "created": "2026-09-13",
+  "status": "captured_text_review_complete",
+  "selection_basis": "Sixth era-varied batch in requested three-hour continuation; sequential lanes, not reserved-answer driven.",
+  "budget": "Local supplied public transcripts only; no paid services/publication/private imports/persona changes.",
+  "episodes": [
+    {
+      "key": "sc-249439500",
+      "episode_number": 21,
+      "title": "Episode 21 - Kat & Johnny Take A Sick Day",
+      "date": "2016-02-29",
+      "path": "episodes/cq-021-sc-249439500.md",
+      "source_url": "https://soundcloud.com/collectors-quest/collectors-quest-episode-21-kat-johnny-take-a-sick-day",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "words": 5761,
+      "sha256": "30412ee08a25183fd4a6a034f7906a28a50e830b219b730fec14e2afdd49da8f",
+      "reason": "Era-varied sequential lane continuation",
+      "status": "extracted_draft",
+      "record_path": "records/sc-249439500.json"
+    },
+    {
+      "key": "sc-417155358",
+      "episode_number": 88,
+      "title": "Episode 88 - What We Talk About Before We Record (Limited Run Games, Dragon Warrior, and More).mp3",
+      "date": "2018-03-21",
+      "path": "episodes/cq-088-sc-417155358.md",
+      "source_url": "https://soundcloud.com/collectors-quest/episode-89-what-we-talk-about-before-we-record-limited-run-games-dragon-warrior-and-moremp3",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "words": 7296,
+      "sha256": "61f60397793c1ee65346bc0eec334cfab78d62d3c97686ae9ea18229741fcc92",
+      "reason": "Era-varied sequential lane continuation",
+      "status": "extracted_draft",
+      "record_path": "records/sc-417155358.json"
+    },
+    {
+      "key": "sc-1440534046",
+      "episode_number": 214,
+      "title": "CQ 214 - Collecting the Most Influential Games Ever",
+      "date": "2023-02-05",
+      "path": "episodes/cq-214-sc-1440534046.md",
+      "source_url": "https://soundcloud.com/collectors-quest/cq-214-collecting-the-most-influential-games-ever",
+      "timing": "YouTube caption timestamps",
+      "words": 33944,
+      "sha256": "c77ee7e0f8b7d800c341dd50498c29be949f94726c2376c5c79b2c85daeae880",
+      "reason": "Era-varied sequential lane continuation",
+      "status": "extracted_draft",
+      "record_path": "records/sc-1440534046.json"
+    }
+  ],
+  "duplicate_controls": []
+}

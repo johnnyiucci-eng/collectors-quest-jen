@@ -1,0 +1,277 @@
+{
+  "schema_version": "1",
+  "frozen_utc": "2026-09-13 07:47:40 UTC",
+  "selection_rule": "Before inspecting extraction records, choose zero-based floor(N/4),floor(N/2),floor(3N/4) source windows per episode. Freeze explicitly named or uniquely contextual game/product buckets, keeping variants distinct where this passage contrasts them. Retain no-title windows; hardware, unnamed platform libraries, films and card games excluded. Unnamed continuing discussion alone does not create a named-game bucket.",
+  "independence": "Coordinator source-first, separate from extractors, not externally blind/statistically representative. Titles are contextual working labels, not externally verified resolutions.",
+  "status": "identity_comparison_complete_pending_runtime",
+  "windows": [
+    {
+      "batch": "005",
+      "episode": 11,
+      "source_key": "sc-237798772",
+      "location": "Paragraph 10",
+      "text": "\nto be there. You’re never going to be able to erase it. So if you do decide to pursue this, bear that in mind. Right. So the other interesting thing about the power of Star Wars at the time and chose kind of how negligible it was is if we flip over to the Sega side, you figure, oh, well, Star Wars already has a relationship with Sega since they released that Star Wars on the Master System. Quick note about that Master System game. It has an exclusive, they just released Star Wars. It’s the same one as the Super, I’m sorry, as the Nintendo one. So it’s basically the same. The graphics are a little bit different. There’s some good videos where you can see some side by sides on the different, like what the differences are, but they port it to Game Gear and it gets an exclusive level. Which is kind of neat. Right. And that’s not on any other version of the Star Wars. You get a Leia level where she’s giving the plans to R2. And then the Game Gear has kind of like a weird inconsistency because it doesn’t have Empire Strikes Back, but it has a Super Return of the Jedi. Okay. Interesting. So it gets like Master System, Master System Star\n\n",
+      "references": [
+        {
+          "id": "cq11-sample-10-1",
+          "title": "Star Wars Master System version",
+          "quote": "Star Wars on the Master System",
+          "reviewed_game_ids": [
+            "cq011-g009"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq11-sample-10-2",
+          "title": "Star Wars NES version",
+          "quote": "as the Nintendo one",
+          "reviewed_game_ids": [
+            "cq011-g003"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq11-sample-10-3",
+          "title": "Star Wars Game Gear version",
+          "quote": "they port it to Game Gear",
+          "reviewed_game_ids": [
+            "cq011-g014"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq11-sample-10-4",
+          "title": "The Empire Strikes Back (absence on Game Gear)",
+          "quote": "Empire Strikes Back",
+          "reviewed_game_ids": [
+            "cq011-g043"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq11-sample-10-5",
+          "title": "Super Return of the Jedi Game Gear",
+          "quote": "Super Return of the Jedi",
+          "reviewed_game_ids": [
+            "cq011-g015"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "005",
+      "episode": 11,
+      "source_key": "sc-237798772",
+      "location": "Paragraph 20",
+      "text": "\nguess. I heard it for the first time like a year ago. Oh my goodness. I guess it was like the top of the chart. Yeah it was like oh my wife’s like you never heard this song. Nope. I guess I missed it. So yeah I’ve got like a weird hole in my memory for two or not a hole in my memory but a gap in my pop culture knowledge for two years. Alright well then I guess is anybody who’s played it let us know if you liked it. If you didn’t like it what your feedback was on it. Yeah I would like to hear a little bit about that. I mean I’ve seen some video and it doesn’t look that special but I will say this about it from a collector’s standpoint. It is the more rare of the games on the N64 of all the Star Wars titles. Okay. Since it was the last one released and then because I think it was like 2000 right? Yeah 2000. Right so yep that’s it. I find it hard to find the box in good condition. Okay fair. Yeah so that’s about all I can contribute to Battle of Naboo. Well we got three out of four that’s good enough. Right. So and then you know\n\n",
+      "references": [
+        {
+          "id": "cq11-sample-20-1",
+          "title": "Star Wars: Battle for Naboo",
+          "quote": "Battle of Naboo",
+          "reviewed_game_ids": [
+            "cq011-g024"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "005",
+      "episode": 11,
+      "source_key": "sc-237798772",
+      "location": "Paragraph 29",
+      "text": "\nthis movie comes out? Are you want to like I’m going to play this this and this Star Wars or? I am. I’m actually replaying the Super Nintendo Super Star Wars Empire Strikes Back in Return. I played through Super Star Wars today. I’ve been playing some Battlefront on and off. So I’m doing some of that as well. And then I’m going to play some Race of Revenge. That’s my hierarchy of games I’m going to play. I might go try and play through the original Star Wars on Nintendo just because I find it hard. And I might grab the Game Gear one to play the exclusive Leia level just because I’ve never I have seen it but I’ve never actually played it. Right. And if you had to say your because obviously you love Star Wars your favorite Star Wars game. Super Empire Strikes Back. Okay. That was easy. You had that one already right off your tongue. Oh yeah. Without a doubt. My cousin and I used to sit around and talk about how awesome it would be to finally have a good Star Wars game. Like we want to play a Star Wars game. We all our friends say this one’s on the computer. We didn’t have a computer. We had a Super Nintendo. We\n\n",
+      "references": [
+        {
+          "id": "cq11-sample-29-1",
+          "title": "Super Star Wars",
+          "quote": "played through Super Star Wars today",
+          "reviewed_game_ids": [
+            "cq011-g010"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq11-sample-29-2",
+          "title": "Super Star Wars: The Empire Strikes Back",
+          "quote": "Super Empire Strikes Back",
+          "reviewed_game_ids": [
+            "cq011-g011"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq11-sample-29-3",
+          "title": "Super Star Wars: Return of the Jedi",
+          "quote": "Super Nintendo Super Star Wars Empire Strikes Back in Return",
+          "reviewed_game_ids": [
+            "cq011-g012"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq11-sample-29-4",
+          "title": "Battlefront (subtitle unresolved)",
+          "quote": "Battlefront",
+          "reviewed_game_ids": [
+            "cq011-g036"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq11-sample-29-5",
+          "title": "Star Wars: Racer Revenge",
+          "quote": "Race of Revenge",
+          "reviewed_game_ids": [
+            "cq011-g022"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq11-sample-29-6",
+          "title": "Star Wars NES",
+          "quote": "original Star Wars on Nintendo",
+          "reviewed_game_ids": [
+            "cq011-g003"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq11-sample-29-7",
+          "title": "Star Wars Game Gear",
+          "quote": "Game Gear one",
+          "reviewed_game_ids": [
+            "cq011-g014"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "005",
+      "episode": 78,
+      "source_key": "sc-349518307",
+      "location": "Paragraph 12",
+      "text": "\nI’d never use it, but I think that’s just super cool. I think the Resident Evil haunted house thing is pretty cool, except it’s gigantic. Where do you put it? Yeah, I can’t do all those modern games with these three by three foot boxes. I don’t know what’s going on there. Both topic. Just whoever bought the Mario Rabbids like Special Edition. Just why that thing? Do you love Rabbids? Like that statue is so gigantic. I didn’t even see it. It comes with, I’m guessing a rabbit and not Mario. It comes with Mario and a rabbit, I think, or Mario, rabbit. I can’t remember it, but it’s just like a big diorama statue. It’s big. It’s like Sonic statue big. Yeah, I don’t know who’s excited for that pairing. Everyone’s like, man, this game is a great game in spite of it being a rabbit’s game. Do they say it’s good? That’s weird. I’ve heard a lot of people say it’s good. I haven’t played it. Anyways. But I’ve heard it’s difficult enough. Cat loves rabbits. She tells me all the time. I have actually never played it. Is that a joke? I don’t even know. She’s constantly raving about rabbits. That’s all I’m saying. It’s right in there with Life is Strange. Yeah, some of it.\n\n",
+      "references": [
+        {
+          "id": "cq78-sample-12-1",
+          "title": "Resident Evil haunted-house edition (title unresolved)",
+          "quote": "Resident Evil haunted house",
+          "reviewed_game_ids": [
+            "cq078-g007"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq78-sample-12-2",
+          "title": "Mario + Rabbids special edition",
+          "quote": "Mario Rabbids",
+          "reviewed_game_ids": [
+            "cq078-g008"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq78-sample-12-3",
+          "title": "Sonic statue edition (title unresolved)",
+          "quote": "Sonic statue",
+          "reviewed_game_ids": [
+            "cq078-g065"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq78-sample-12-4",
+          "title": "Life Is Strange",
+          "quote": "Life is Strange",
+          "reviewed_game_ids": [
+            "cq078-g010"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "005",
+      "episode": 78,
+      "source_key": "sc-349518307",
+      "location": "Paragraph 23",
+      "text": "\nFinal Fantasy Elvira to server is something I can’t remember the exact name of that PC game. But it looks pretty cool. I actually watched a few playthroughs. It was neat. There’s also like Elvira to the adventure or something. Or no, Elvira, the arcade game, which is like an adventure. Yeah, I saw that. Yeah, that’s a weird was that just a PC game? Or was that actually an arcade game? I don’t know that says Elvira the arcade game, but I’ve never seen an Elvira arcade and the ones I’ve seen have all been in like Australia. So I’m on the hunt to see if there’s an Elvira arcade machine because that would be that cabinet exists. I bet it’s like a thousand dollars. Oh, at least at least. Yeah, that would be pretty awesome. And it would probably feature the titular character once you take its name. Oh, good one. All right. Yeah, all right. Cool. Did it. All right. Word of the day, kids. Titular. Look it up. It’s not a dirty word. Triumvirate was already the word of the day, kids. Oh, well, oh, these are double T words, right? Two T words. Bam. Another in you, Undo. Yep. In your end, though. OK. Yeah, I’m moving on to mine. That’s that’s not even a\n\n",
+      "references": [
+        {
+          "id": "cq78-sample-23-1",
+          "title": "Final Fantasy analogy (unspecified)",
+          "quote": "Final Fantasy",
+          "reviewed_game_ids": [
+            "cq078-g026"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq78-sample-23-2",
+          "title": "Elvira PC sequel (raw title unresolved)",
+          "quote": "Elvira to server",
+          "reviewed_game_ids": [
+            "cq078-g025"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq78-sample-23-3",
+          "title": "Elvira: The Arcade Game",
+          "quote": "Elvira, the arcade game",
+          "reviewed_game_ids": [
+            "cq078-g027"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "005",
+      "episode": 78,
+      "source_key": "sc-349518307",
+      "location": "Paragraph 34",
+      "text": "\nyou, that means you bought about half of the HuCard set or Turbogips. No, no, because a few of those games were CDs. OK, because you can’t tell what you buy. You bought like 40 games, though. No, I didn’t buy 40 cuts. You’re a madman. I don’t have that much money. Gosh. No, I bought like 22 games. OK, totally reasonable for Johnny. It is. Yeah, like that was one. That’s reasonable for you. I want you to know, here’s how I packed. I took out my biggest suitcase. I then. Found my next biggest suitcase. I put that suitcase in the biggest suitcase and then put a few of my clothes, you know, like two days worth of clothes in that case, which is like nothing in there. And like my deodorant and stuff. And then I left. Like, if you’re making the trip, you got to make it worth it. Yep. And I wound up not needing the big suitcase. So that was good. But I still came home with about. So 80, 90, about 100 games. Which for you again, not that bad. No, because like last time I bought a few hundred we games. Yeah, I feel like for you, this was a totally reasonable amount of buying. Well, I mean, turbo games can get\n\n",
+      "references": []
+    },
+    {
+      "batch": "005",
+      "episode": 204,
+      "source_key": "sc-1350766930",
+      "location": "00:26:29",
+      "text": "\nthing is the whole design of these box protectors is I in an Ideal Box protector you would have a perfect rectangle prism for the box to be in but because these the ones based with flaps they have that little you know the flap going into the box it's no longer a perfect rectangular prism meaning I think that you know there's more chance for a game to get damaged in a box protector like that than if you bought like a $20 acrylic box protector for every single game which no one on planet Earth is going to do so I think you need to I think there is definitely an advantage to having a thinner box protector uh rather than a thicker one I don't know I I I think they're I don't know that that's a pros and cons check sheet for me okay all right I mean well I just to just to let everyone listening to the podcast know where I am I use retro protection and video game box protectors pretty much interchangeably I think they both have great box protectors there are cheaper ones you can get they suck there are more expensive ones you can get uh I don't like them personally uh I'm just sticking with the classics all right now\n\n",
+      "references": []
+    },
+    {
+      "batch": "005",
+      "episode": 204,
+      "source_key": "sc-1350766930",
+      "location": "00:53:14",
+      "text": "\nmap think you think that divide is good I'm I personally probably not like I I think that's terrible are there that many boxed copies compared to cartridges like recognize there's going to be a decent number of Final Fantasy 2s but there's going to be a ton of cartridges right yeah there's there's a lot more cartridges I mean it's a common game it's not it's not like super rare but so here's a nice one that went for $300 and it's got everything so it's got the inserts the reg card the map in a nice condition manual in Nice condition went for $300 so think about that what what are what are the prices of these components if the cost of a cart is $60 you know then that's what I'm saying like people are just chunking it out into like they're just dividing all the parts equally and that does not make sense does not make sense I agree with that rege card and stuff oh it's not like the regge card while being more rare in a complete box game like yes you\n\n",
+      "references": [
+        {
+          "id": "cq204-sample-005314-1",
+          "title": "Final Fantasy II",
+          "quote": "Final Fantasy 2s",
+          "reviewed_game_ids": [
+            "cq204-g047"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "005",
+      "episode": 204,
+      "source_key": "sc-1350766930",
+      "location": "01:19:49",
+      "text": "\nwow yep I mean wow that sure is something I never want to collect cuz I sure don't the Sega Pico but uh it it looks it looks a lot like the the 3DS that's just Pikachu's face or the or the um GBA it looks a lot like that huh all right I guess if anyone doesn't know Pico is a video game system in the loosest sense I mean it's a video game system uh it is it has cartridge books you plug this like activity book into the console and you have a stylus and it's it's almost like if you if D the Explorer made a video game game console the Sega Pico would be it you're like tapping things in a book I I don't know exactly how it works honestly but uh it's called the for small children it's called the Bea by the way that's what it is the system yes and there and there are four games at least oh four Pokemon games at least oh you know what I bet whatever the rarest one is like I bet no one has it you guys don't have it no one listening to the show has the rarest\n\n",
+      "references": []
+    }
+  ],
+  "comparison_notes": "21 frozen reference buckets unchanged. CQ11 absent Game Gear Empire bucket was missing in initial draft and repaired before first complete batch runtime; no claim of an observed 20/21 runtime. CQ204 FFII is the SNES contextual title, covered by a contiguous substantial span despite no excerpt anchor at the sampled middle window."
+}

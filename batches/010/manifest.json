@@ -1,0 +1,52 @@
+{
+  "schema_version": "0.1",
+  "created": "2026-09-13",
+  "status": "captured_text_review_complete",
+  "selection_basis": "First batch of requested at-least-three-hour continuation; era-varied, not reserved-answer driven.",
+  "budget": "Local supplied public captions only; no paid services/publication/private imports/persona changes.",
+  "episodes": [
+    {
+      "key": "sc-243666752",
+      "episode_number": 16,
+      "title": "Episode 16 - TheyCallMeSolo Interview",
+      "date": "2016-01-25",
+      "path": "episodes/cq-016-sc-243666752.md",
+      "source_url": "https://soundcloud.com/collectors-quest/collectors-quest-episode-16-theycallmesolo-interview",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "words": 10081,
+      "sha256": "21816611076da58854bc1e65333457eb76f6d1b91dcfa5faa53f5b8250ec9e4e",
+      "reason": "Era-varied sequential lane continuation",
+      "status": "extracted_draft",
+      "record_path": "records/sc-243666752.json"
+    },
+    {
+      "key": "sc-388300934",
+      "episode_number": 83,
+      "title": "Episode 83 - Aftermarket Reproductions (The legal kind)",
+      "date": "2018-01-24",
+      "path": "episodes/cq-083-sc-388300934.md",
+      "source_url": "https://soundcloud.com/collectors-quest/episode-83-aftermarket-reproductions-the-legal-kind",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "words": 10884,
+      "sha256": "1abecc1a3e8537dd84915ff698779a8ac0694f4c9724c8c4a042444712e4ec94",
+      "reason": "Era-varied sequential lane continuation",
+      "status": "extracted_draft",
+      "record_path": "records/sc-388300934.json"
+    },
+    {
+      "key": "sc-1391155801",
+      "episode_number": 209,
+      "title": "CQ 209 - 10 SNES Games We'd Start Our Collections With",
+      "date": "2022-11-27",
+      "path": "episodes/cq-209-sc-1391155801.md",
+      "source_url": "https://soundcloud.com/collectors-quest/cq-209-ten-snes-games-wed-start-our-collections-with",
+      "timing": "YouTube caption timestamps",
+      "words": 33132,
+      "sha256": "4f6be5acfa245e1b9cbb965aa7803c34664088575c871fb4b995c03999a6e29f",
+      "reason": "Era-varied sequential lane continuation",
+      "status": "extracted_draft",
+      "record_path": "records/sc-1391155801.json"
+    }
+  ],
+  "duplicate_controls": []
+}

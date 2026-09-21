@@ -1,0 +1,22 @@
+# CQ204 — coordinator full-source cross-check
+
+The coordinator read all 104 supplied windows, 00:00:00 through01:45:31, separately from the extractor's draft. [Complete primary transcript](../../../library/episodes/cq-204-sc-1350766930.md). This is supplied-text review, not verified audio, current pricing, financial advice or external history research.
+
+## Section disposition and claim boundaries
+
+- 00:00:00–00:07:06: restarted intro, plumbing/Mario jokes and price-history argument. Market manipulation and bond assertions are speaker claims; do not endorse them as current facts or instructions.
+- 00:07:06–00:21:24: Phantom Dust price spike, Gotcha Force versus Mega Man, condition/variant complexity and speculative collector demand. Gotcha Force sequel claim is explicitly a joke; neither host's vague gameplay description becomes firsthand play. The 1,000-copy hypothetical is not Gotcha Force's print run.
+- 00:21:24–00:26:29: aggregate price limitations and box protectors. Johnny's prospective booth sales and Tyler's possible free distribution are not completed transactions. Preference about flap pressure is not a tested safety result.
+- 00:27:31–00:37:48: permission-to-pay/value thought experiment, suspected fake sales, historical sealed Dragon Warrior purchase and Quadrun comparison. The hypothetical $300 sale is not actual history; no invented fraud proof or guaranteed appreciation.
+- 00:37:48–00:43:57: SNES-themed 3DS versus boxed original hardware; listings and hypothetical purchases. Mario World/All-Stars sticker correction must survive. No new console purchase established.
+- 00:45:00–00:59:21: loose versus complete games, Mario Kart64, Final Fantasy II and Arkista's Ring. Component prices are not automatically equal thirds. “Infinitely rarer” rhetoric is constrained by a momentary listing check, not measured population rarity.
+- 00:59:21–01:10:37: Poop Slinger comparisons, Whole Lot of Red recommendation and NBA Elite11. Sold84 is not printed84; $4,000 listing is an empty case, not a game purchase. Raw33,000 is contradicted by repeated3,000 context; preserve source uncertainty rather than quoting it as reliable current price.
+- 01:10:37–01:16:44: Atari reissues versus originals, Rendering Ranger exception. Johnny explicitly says he DID buy Rendering Ranger at01:15:42, correcting the misunderstanding; no delivery inferred.
+- 01:17:46–01:22:52: Pico/Beena advice and variant-component completeness. Three Pokémon games becomes at least four; identity/rarity claims remain qualified. Mark Ecko limited copy still lacks a manual, despite owning another edition; not completed by inference.
+- 01:23:52–01:28:58: Tyler's received Japanese purchases: Nobunaga's Ambition first release (about150), Hoi Hoi (two-to-three times more), Dinosaur Rescue sticker variant, Kid Dracula sample. Hoi Hoi is compared with Game Boy Stop That Roach but their grids differ. Kid Dracula is Famicom; he has not played the Game Boy one. Contra/Metal Gear samples were already owned, not necessarily new this shipment.
+- 01:28:58–01:37:07: Johnny bought Whole Lot of Red after earlier recommendation but delivery unknown; Hitchhiker's Guide Apple II acquisition for8 dollars with feelies. Commodore guess and Apple IIc wording are repaired. Signed Douglas Adams book is a separate object. Doom/Myst/Day of the Tentacle collector-opinion debate is not unanimous or an objective ranking.
+- 01:37:07–END: close, historical schedule and patron names. Mega Man box-art addendum01:38:23 and Yellow Devil pause-glitch explanation01:40:27–01:41:27 are real returning discussion, unlike incidental patron nicknames. Final game-room-history reflection is archive context, not a new collection sale.
+
+## Continuity and integration checks
+
+Dinosaur Rescue's sticker variant is now received, following CQ202's discussion and sticker preference. The coordinator initially called this a CQ202 want-to-receipt transition, but rereading 00:16:07–00:22:26 found no explicit personal want claim by Tyler there; CQ204 supplies the retrospective motivation. Do not backdate a personal action from enthusiasm alone. Whole Lot of Red moves from recommendation to purchase within CQ204, but not to delivery. Rendering Ranger's late correction must accompany earlier apparent nonpurchase. Final Fantasy II is explicitly the Super Nintendo favorite here; regional identity matters when connecting earlier IV/II statements. These changes should be tested through actual evidence retrieval and paired sources, not inferred from title mention alone.

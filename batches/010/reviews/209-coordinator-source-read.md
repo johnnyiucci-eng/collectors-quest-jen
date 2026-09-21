@@ -1,0 +1,9 @@
+# CQ209 independent coordinator review
+
+Root read all 158 supplied timestamp windows consecutively, including the late errata and patron credits, and all 15 actual prose answers. Source: [CQ209](../../../library/episodes/cq-209-sc-1391155801.md). The source has no speaker diarization and prices/history are episode claims, not current externally verified facts.
+
+The two ten-game lists have five shared selections and different criteria. Rejected variety suggestions and Utopia/Vortex/Warlock jokes are not list members. First standalone Super Mario World is not first release overall. Super Castlevania IV is not a unanimous franchise-best opinion. DS/SNES/regular SFC/V Jump/demo Chrono products stay separate. Green/orange Super Metroid box rarity does not settle cartridge variants or personal inventory.
+
+The Firemen 2 buy-now excitement ends explicitly not today. Emergency Mayhem is an actual different $10 copy, not the rejected $10.75 counter. Wii eleven remaining and a future cost postmortem are not completion. Auction losing bids are not purchases; the Odyssey win and prior bubble-mailer copy are separate. Sealed QVC contents remain unknown. Modern Warfare friendship is not shared play; childhood Montezuma computer platform stays unknown. Dungeon of Doom remains a loan with promised return/video, not ownership or completed obligations.
+
+The outro retracts Rendering Ranger release chronology and adds Link to the Past Player's Choice artwork. Discussion rankings remain coarse window-union estimates, not speech measurements: Chrono Trigger/EarthBound are a ten-second near-tie in combined coverage; substantial-only leaders differ. Root verified all 15 answers against the full source; per-answer reasons and exact snapshots will be retained in the acceptance review. Retrieval and final gate are separate remaining checks.

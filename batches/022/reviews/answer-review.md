@@ -1,0 +1,7 @@
+# CQ130 complete-answer adjudication
+
+Root independently read all 95 source paragraphs before seeing the extraction, then read every complete answer, original question, configured query, citation requirement and forbidden inference in the fourteen cases. The exact reviewed texts are snapshotted in answer-review.json with individual reasons. Questions and configured queries are identical; no wording was tuned to rescue a retrieval failure.
+
+All fourteen semantic answers pass the captured text review. Targeted rereads resolved Johnny's probable future Monster Manor purchase (P16–17), the ghost-list substitution (P43–44), Stephan's Phantasmagoria warning and production claims (P58–61), and original-versus-remake context (P75). Their qualifiers are retained. The final prominence answer incorporates the explicit Chronicles/Sharp port-family union and P79 passing-role correction; the machine map must reproduce it before acceptance.
+
+This is a development answer review, not proof of arbitrary-question performance. Six separately frozen source-informed questions passed their first retrieval run. The initial integrated original/configured questions were 12/14 because two mixed-action questions lost part of their intent. A shared routing repair restored 14/14 without changing these exact answers or questions; see retrieval-repair.md. A complete source read and citation coverage do not independently verify the show's history, game prices, platform claims or speakers against audio.

@@ -50,7 +50,19 @@ The [local Jen agent](jen_agent/README.md) runs the existing profile with archiv
 
 ## Current development status
 
-The September 9, 2026 handoff supplies the show position and live rehearsal rules. Episode 001 retains its original status: Tip 1, Learn AI's Love Language, leads; Tip 2, Make a Better Brain, is approved; Tip 3, Use Photos to Hunt Variants, is approved for continued development; Tip 4, Build a Buying Priority List, is approved and substantially developed. The fifth tip is still open.
+The latest [Halloween pair](batches/022/PROGRESS.md) completes CQ102 and CQ130: 33,407 source words, all required episode checks, and66 reviewed episodes in the local searchable archive. The final235-test suite and previous collection regressions pass. This remains captured-text development work, separate from live Jen; chronology links between these two collections are cited review notes rather than a new timeline index.
+
+[Batch 002](batches/002/PROGRESS.md) completed captured-text review of episodes 8, 75 and 201 through all eight required checks. Its records and searchable collection are separate from the fixed pilot; see [batch commands and scope](batches/README.md).
+
+The September 13 continuation adds batches 003–009: 21 further episodes (9–15, 76–82, 202–208), each through all eight required checks. There are now 34 captured-text-reviewed episodes including the fixed pilot and batch 002. The local searchable collections remain separate from live Jen. See the [work-session results](batches/WORK-SESSION-2026-09-13.md) and [original-question retrieval limitations](batches/reviews/original-question-diagnostic.md); curated evidence-query passes are not a guarantee for arbitrary wording.
+
+The subsequent [three-hour continuation](batches/WORK-SESSION-2026-09-13-THREE-HOURS.md) has completed batches010–015, bringing the current reviewed scope to52 episodes. Use the [read-only archive query interface](batches/QUERYING-THE-LORE-ARCHIVE.md) to search across reviewed collections, distinguish explicit game/hardware types, and retrieve evidence or typed lists. Every completed episode has an exact-input review binding; draft batches remain excluded. This work is still separate from live Jen.
+
+The [CQ lore pilot](pilot/README.md) began September 12, 2026: ten selected episodes, 25 development questions, and source-linked draft records with explicit review states. It uses the included subscription allowance and local tools; it does not run paid API processing. The [rare-game buying brief](pilot/brief-rare-game-buying.md) demonstrates the first draft extraction, not completed archive analysis.
+
+The pilot's ten-episode captured-text review is complete: full discussion maps, action/attribution audits, source-backed answer checks and desk-reviewed briefs. All eight added steps are mandatory for every episode. See the [review ledger and next-batch readiness](pilot/PROGRESS.md). Reproduce with `python scripts/merge_lore_reviews.py` then `python scripts/lore_store.py build`. Rankings retain coarse-timing and near-tie limits; development checks do not certify audio accuracy or live Jen performance. The database is not automatically connected to live Jen.
+
+The September 9, 2026 handoff supplies the show position and live rehearsal rules. Episode 001 now has four approved tips: Tip 1, Learn AI's Love Language; Tip 2, Make a Better Brain; Tip 3, Use AI as a Virtual Assistant; and Tip 4, Normalize Game Lists with Stable IDs. The fifth tip is still open. The displaced photo-variant and buying-priority tips remain developed candidates for that slot, not approved Tip 5 material.
 
 The expanded profile adds explicit casual, preparation, and recording modes so Jen can be a conversation partner outside a recording. A twelve-episode YouTube transcript study and additional Airtable material now inform her approach to hypothetical questions, concrete explanations, shared jokes, collecting boundaries, and uncertainty. These are ready to rehearse; the updated profile has not yet been validated in a live voice session.
 

@@ -1,0 +1,95 @@
+{
+  "schema_version": "1",
+  "status": "source_informed_before_first_retrieval",
+  "created_utc": "2026-09-14T18:42:00Z",
+  "limits": "Frozen before extractor records. Source-informed; development after first use.",
+  "cases": [
+    {
+      "id": "cq130-fresh-mystery",
+      "episode": 130,
+      "question": "Was the thousand-dollar Mystery House sale the very first release?",
+      "expected": "No; third bagged release, gold label blue sleeve white illustrated folder. First white sleeve blue instructions;1982 reissue can carry1980 copyright.",
+      "required_windows": [
+        "Paragraph 54",
+        "Paragraph 55",
+        "Paragraph 56"
+      ],
+      "forbidden": [
+        "first release sold1000",
+        "1980 copyright proves first"
+      ]
+    },
+    {
+      "id": "cq130-fresh-braindead",
+      "episode": 130,
+      "question": "Which Brain Dead 13 versions did Stefan actually own?",
+      "expected": "Saturn and3DO, explicitly notPS1; MS-DOS jewel case separate, PS1 longbox correction.",
+      "required_windows": [
+        "Paragraph 47",
+        "Paragraph 48"
+      ],
+      "forbidden": [
+        "Stefan ownsPS1",
+        "laserdisc origin established"
+      ]
+    },
+    {
+      "id": "cq130-fresh-confusion",
+      "episode": 130,
+      "question": "Did Koudelka have a Japan-only sequel called Echo Night 2?",
+      "expected": "No; Johnny conflated separate games and editor flags cut material, EchoNightsequels separate.",
+      "required_windows": [
+        "Paragraph 35",
+        "Paragraph 36",
+        "Paragraph 62",
+        "Paragraph 63",
+        "Paragraph 65"
+      ],
+      "forbidden": [
+        "EchoNight2 Koudelkasequel"
+      ]
+    },
+    {
+      "id": "cq130-fresh-gamecube",
+      "episode": 130,
+      "question": "Had Stefan finished his black-label GameCube set?",
+      "expected": "No; Grooverider remaining, wantsPortland, notalreadyfound; WiiU purchase notproofMetalJesusinfluence.",
+      "required_windows": [
+        "Paragraph 72",
+        "Paragraph 73"
+      ],
+      "forbidden": [
+        "completeGameCubeset",
+        "Grooveriderfound"
+      ]
+    },
+    {
+      "id": "cq130-fresh-mario",
+      "episode": 130,
+      "question": "What did Tyler pay for the sealed Japanese Super Mario Bros., and was it the first edition?",
+      "expected": "FDSsealed60won after150bid willingness; notfirstFamicomcartridge, outerboxwanted.",
+      "required_windows": [
+        "Paragraph 83",
+        "Paragraph 84"
+      ],
+      "forbidden": [
+        "paid150",
+        "firsteditionFDS"
+      ]
+    },
+    {
+      "id": "cq130-fresh-gameboy",
+      "episode": 130,
+      "question": "Had Johnny finally bought Avenging Spirit, or was that Kid Dracula?",
+      "expected": "AvengingSpiritoffersunacceptedforaboutyear; KidDraculaUScopy~180alreadygot, unresolvedvariant.",
+      "required_windows": [
+        "Paragraph 42",
+        "Paragraph 43"
+      ],
+      "forbidden": [
+        "AvengingSpiritpurchased",
+        "KidDraculastillunbought"
+      ]
+    }
+  ]
+}

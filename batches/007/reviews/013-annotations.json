@@ -1,0 +1,3853 @@
+{
+  "schema_version": "1",
+  "review_status": "A1-A6 full-source same-agent review; A7-A8 integration pending",
+  "note": "47 untimed paragraphs; paragraph union is a coverage proxy, not elapsed speech. Frozen source-first inventory35buckets.",
+  "episodes": [
+    {
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "mapping_status": "complete",
+      "review_note": "All 47 paragraphs read. Original same-agent inventory was 35 buckets; root's frozen sample found the missing Dragon Warrior series reference. Expanded reconciliation is 35/36 before repair and 36/36 afterward. The independent gold sample denominator is unchanged.",
+      "spans": [
+        {
+          "id": "cq013-span-001-1",
+          "reason": "Selective boxed franchise examples, no installment.",
+          "entity_id": "cq013-g001",
+          "title": "Mario",
+          "game_refs": [
+            "cq013-g001"
+          ],
+          "entity_kind": "game_series",
+          "identity_granularity": "series",
+          "variant_context": null,
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 9",
+          "end_exclusive": "Paragraph 10",
+          "evidence": [
+            {
+              "location": "Paragraph 9",
+              "quote": "Mario’s"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-002-1",
+          "reason": "Selective boxed franchise example.",
+          "entity_id": "cq013-g002",
+          "title": "The Legend of Zelda",
+          "game_refs": [
+            "cq013-g002"
+          ],
+          "entity_kind": "game_series",
+          "identity_granularity": "series",
+          "variant_context": null,
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 9",
+          "end_exclusive": "Paragraph 10",
+          "evidence": [
+            {
+              "location": "Paragraph 9",
+              "quote": "Zelda’s"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-002-2",
+          "reason": "Display context for rediscovered hardware.",
+          "entity_id": "cq013-g002",
+          "title": "The Legend of Zelda",
+          "game_refs": [
+            "cq013-g002"
+          ],
+          "entity_kind": "game_series",
+          "identity_granularity": "series",
+          "variant_context": null,
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 17",
+          "end_exclusive": "Paragraph 18",
+          "evidence": [
+            {
+              "location": "Paragraph 17",
+              "quote": "Zelda stuff"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-002-3",
+          "reason": "Speculative reason for gold hardware.",
+          "entity_id": "cq013-g002",
+          "title": "The Legend of Zelda",
+          "game_refs": [
+            "cq013-g002"
+          ],
+          "entity_kind": "game_series",
+          "identity_granularity": "series",
+          "variant_context": null,
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 19",
+          "end_exclusive": "Paragraph 20",
+          "evidence": [
+            {
+              "location": "Paragraph 19",
+              "quote": "Zelda games"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-002-4",
+          "reason": "Criticism of divided portable/console development, no specific installment.",
+          "entity_id": "cq013-g002",
+          "title": "The Legend of Zelda",
+          "game_refs": [
+            "cq013-g002"
+          ],
+          "entity_kind": "game_series",
+          "identity_granularity": "series",
+          "variant_context": null,
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 22",
+          "end_exclusive": "Paragraph 23",
+          "evidence": [
+            {
+              "location": "Paragraph 22",
+              "quote": "specifically with the Zelda’s"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-002-5",
+          "reason": "Themed handheld hardware, not a game acquisition.",
+          "entity_id": "cq013-g002",
+          "title": "The Legend of Zelda",
+          "game_refs": [
+            "cq013-g002"
+          ],
+          "entity_kind": "game_series",
+          "identity_granularity": "series",
+          "variant_context": null,
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 31",
+          "end_exclusive": "Paragraph 32",
+          "evidence": [
+            {
+              "location": "Paragraph 31",
+              "quote": "Zelda ones"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-002-6",
+          "reason": "Earlier handheld pickups, installments unnamed.",
+          "entity_id": "cq013-g002",
+          "title": "The Legend of Zelda",
+          "game_refs": [
+            "cq013-g002"
+          ],
+          "entity_kind": "game_series",
+          "identity_granularity": "series",
+          "variant_context": null,
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 32",
+          "end_exclusive": "Paragraph 33",
+          "evidence": [
+            {
+              "location": "Paragraph 32",
+              "quote": "like Zelda and Pokemon"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-003-1",
+          "reason": "Sealed cheap GBC game; exact Crazy Castle installment unresolved.",
+          "entity_id": "cq013-g003",
+          "title": "I’m spending Crazy Castle",
+          "game_refs": [
+            "cq013-g003"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "unresolved",
+          "variant_context": "Game Boy Color",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 12",
+          "end_exclusive": "Paragraph 13",
+          "evidence": [
+            {
+              "location": "Paragraph 12",
+              "quote": "I’m spending Crazy Castle"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-004-1",
+          "reason": "Played/beaten series games; praised added medal collecting, not externally verified version history.",
+          "entity_id": "cq013-g004",
+          "title": "Dragon Warrior III",
+          "game_refs": [
+            "cq013-g004"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Game Boy Color",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 12",
+          "end_exclusive": "Paragraph 14",
+          "evidence": [
+            {
+              "location": "Paragraph 12",
+              "quote": "Dragon Warrior 3 was really good"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-005-1",
+          "reason": "Combined title context within games played; collection content not independently ranked.",
+          "entity_id": "cq013-g005",
+          "title": "Dragon Warrior I & II",
+          "game_refs": [
+            "cq013-g005"
+          ],
+          "entity_kind": "compilation_product",
+          "identity_granularity": "compilation",
+          "variant_context": "Game Boy Color",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 13",
+          "end_exclusive": "Paragraph 14",
+          "evidence": [
+            {
+              "location": "Paragraph 13",
+              "quote": "Dragon Warrior 1 and 2"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-006-1",
+          "reason": "Played-through title in rapid list.",
+          "entity_id": "cq013-g006",
+          "title": "The Legend of Zelda: Oracle of Seasons",
+          "game_refs": [
+            "cq013-g006"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Game Boy Color",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 13",
+          "end_exclusive": "Paragraph 14",
+          "evidence": [
+            {
+              "location": "Paragraph 13",
+              "quote": "Oracle of Seasons"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-007-1",
+          "reason": "Played-through title in rapid list.",
+          "entity_id": "cq013-g007",
+          "title": "The Legend of Zelda: Oracle of Ages",
+          "game_refs": [
+            "cq013-g007"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Game Boy Color",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 13",
+          "end_exclusive": "Paragraph 14",
+          "evidence": [
+            {
+              "location": "Paragraph 13",
+              "quote": "Oracle of Ages"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-008-1",
+          "reason": "Point-and-click clarification and Kat's explicit non-play; NES version separated from handheld product.",
+          "entity_id": "cq013-g008",
+          "title": "Déjà Vu",
+          "game_refs": [
+            "cq013-g008"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "NES",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 13",
+          "end_exclusive": "Paragraph 14",
+          "evidence": [
+            {
+              "location": "Paragraph 13",
+              "quote": "it’s also on the nest"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-009-1",
+          "reason": "Handheld Deja Vu product discussed as including sequel; exact product title not supplied.",
+          "entity_id": "cq013-g009",
+          "title": "Game Boy 1 has deja vu 2",
+          "game_refs": [
+            "cq013-g009"
+          ],
+          "entity_kind": "compilation_product",
+          "identity_granularity": "compilation",
+          "variant_context": "Game Boy Color context",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 13",
+          "end_exclusive": "Paragraph 15",
+          "evidence": [
+            {
+              "location": "Paragraph 13",
+              "quote": "I also really like deja vu"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-010-1",
+          "reason": "Sequel access claim reported, not independently confirmed exclusivity.",
+          "entity_id": "cq013-g010",
+          "title": "Déjà Vu II",
+          "game_refs": [
+            "cq013-g010"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Game Boy Color / old computer comparison",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 14",
+          "end_exclusive": "Paragraph 15",
+          "evidence": [
+            {
+              "location": "Paragraph 14",
+              "quote": "only way to really play deja vu 2"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-011-1",
+          "reason": "Adventure comparison/affection; spiritual successor not literal sequel.",
+          "entity_id": "cq013-g011",
+          "title": "Shadowgate",
+          "game_refs": [
+            "cq013-g011"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": null,
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 13",
+          "end_exclusive": "Paragraph 14",
+          "evidence": [
+            {
+              "location": "Paragraph 13",
+              "quote": "Shadowgate is awesome"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-012-1",
+          "reason": "Likes vegetable premise but cannot get into point-and-click style; no completion claim.",
+          "entity_id": "cq013-g012",
+          "title": "Princess Tomato in the Salad Kingdom",
+          "game_refs": [
+            "cq013-g012"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "NES context",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 13",
+          "end_exclusive": "Paragraph 14",
+          "evidence": [
+            {
+              "location": "Paragraph 13",
+              "quote": "Princess Tomato"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-013-1",
+          "reason": "Collectibility and wife's games/boxes; named GB versions distinguished.",
+          "entity_id": "cq013-g013",
+          "title": "Pokémon",
+          "game_refs": [
+            "cq013-g013"
+          ],
+          "entity_kind": "game_series",
+          "identity_granularity": "series",
+          "variant_context": null,
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 14",
+          "end_exclusive": "Paragraph 15",
+          "evidence": [
+            {
+              "location": "Paragraph 14",
+              "quote": "my wife loves Pokemon"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-013-2",
+          "reason": "Hardware branding, not Pokemon Gold purchase.",
+          "entity_id": "cq013-g013",
+          "title": "Pokémon",
+          "game_refs": [
+            "cq013-g013"
+          ],
+          "entity_kind": "game_series",
+          "identity_granularity": "series",
+          "variant_context": null,
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 19",
+          "end_exclusive": "Paragraph 20",
+          "evidence": [
+            {
+              "location": "Paragraph 19",
+              "quote": "weird Pokemon gold ones"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-013-3",
+          "reason": "Unspecified earlier game pickups.",
+          "entity_id": "cq013-g013",
+          "title": "Pokémon",
+          "game_refs": [
+            "cq013-g013"
+          ],
+          "entity_kind": "game_series",
+          "identity_granularity": "series",
+          "variant_context": null,
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 32",
+          "end_exclusive": "Paragraph 33",
+          "evidence": [
+            {
+              "location": "Paragraph 32",
+              "quote": "Zelda and Pokemon"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-014-1",
+          "reason": "Wife's saved boxes, not recent purchase.",
+          "entity_id": "cq013-g014",
+          "title": "Pokémon Blue",
+          "game_refs": [
+            "cq013-g014"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Game Boy",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 14",
+          "end_exclusive": "Paragraph 15",
+          "evidence": [
+            {
+              "location": "Paragraph 14",
+              "quote": "Pokemon blue"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-015-1",
+          "reason": "Wife's saved boxes; same named pair.",
+          "entity_id": "cq013-g015",
+          "title": "Pokémon Red",
+          "game_refs": [
+            "cq013-g015"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Game Boy",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 14",
+          "end_exclusive": "Paragraph 15",
+          "evidence": [
+            {
+              "location": "Paragraph 14",
+              "quote": "Pokemon blue and red"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-016-1",
+          "reason": "Ambiguous repetition or extra game, do not invent another installment.",
+          "entity_id": "cq013-g016",
+          "title": "her original Pokemon",
+          "game_refs": [
+            "cq013-g016"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "unresolved",
+          "variant_context": "Game Boy context",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 14",
+          "end_exclusive": "Paragraph 15",
+          "evidence": [
+            {
+              "location": "Paragraph 14",
+              "quote": "her original Pokemon"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-017-1",
+          "reason": "Hedged title recall, wife's boxes context.",
+          "entity_id": "cq013-g017",
+          "title": "Pokémon Yellow",
+          "game_refs": [
+            "cq013-g017"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Game Boy",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 14",
+          "end_exclusive": "Paragraph 15",
+          "evidence": [
+            {
+              "location": "Paragraph 14",
+              "quote": "Pikachu yellow or something"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-018-1",
+          "reason": "Good-library example; nearby aggregate play does not prove this specific game played.",
+          "entity_id": "cq013-g018",
+          "title": "Ghosts ’n Goblins",
+          "game_refs": [
+            "cq013-g018"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Game Boy Color",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 14",
+          "end_exclusive": "Paragraph 15",
+          "evidence": [
+            {
+              "location": "Paragraph 14",
+              "quote": "ghost and goblins game on there"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-019-1",
+          "reason": "Magazine display reference, no game ownership inferred.",
+          "entity_id": "cq013-g019",
+          "title": "Zelda II: The Adventure of Link",
+          "game_refs": [
+            "cq013-g019"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": null,
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 17",
+          "end_exclusive": "Paragraph 18",
+          "evidence": [
+            {
+              "location": "Paragraph 17",
+              "quote": "Nintendo Fun Club magazine of Zelda 2"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-020-1",
+          "reason": "Tentative gold Pocket bundle geography.",
+          "entity_id": "cq013-g020",
+          "title": "Donkey Kong Land",
+          "game_refs": [
+            "cq013-g020"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Game Boy",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 19",
+          "end_exclusive": "Paragraph 20",
+          "evidence": [
+            {
+              "location": "Paragraph 19",
+              "quote": "packed in with Donkey Kong land"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-020-2",
+          "reason": "Bundle list return; not an acquired game.",
+          "entity_id": "cq013-g020",
+          "title": "Donkey Kong Land",
+          "game_refs": [
+            "cq013-g020"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Game Boy",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 35",
+          "end_exclusive": "Paragraph 36",
+          "evidence": [
+            {
+              "location": "Paragraph 35",
+              "quote": "package with Donkey Kong land"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-021-1",
+          "reason": "Actual recent play in Game Boy Light, not a quality review.",
+          "entity_id": "cq013-g021",
+          "title": "Dr. Mario",
+          "game_refs": [
+            "cq013-g021"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Game Boy",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 19",
+          "end_exclusive": "Paragraph 20",
+          "evidence": [
+            {
+              "location": "Paragraph 19",
+              "quote": "playing the Doctor Mario that’s in there"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-022-1",
+          "reason": "Desired themed handheld not acquired, not specific game.",
+          "entity_id": "cq013-g022",
+          "title": "Animal Crossing",
+          "game_refs": [
+            "cq013-g022"
+          ],
+          "entity_kind": "game_series",
+          "identity_granularity": "series",
+          "variant_context": null,
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 31",
+          "end_exclusive": "Paragraph 32",
+          "evidence": [
+            {
+              "location": "Paragraph 31",
+              "quote": "animal crossing one"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-023-1",
+          "reason": "Recent boxed-pickup prompt; no individual play inferred.",
+          "entity_id": "cq013-g023",
+          "title": "Metroid II: Return of Samus",
+          "game_refs": [
+            "cq013-g023"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Game Boy",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 32",
+          "end_exclusive": "Paragraph 33",
+          "evidence": [
+            {
+              "location": "Paragraph 32",
+              "quote": "Metroid 2"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-024-1",
+          "reason": "Game Boy pickup; subtitle not spoken, retain context-qualified identity.",
+          "entity_id": "cq013-g024",
+          "title": "Kid Icarus — Game Boy entry",
+          "game_refs": [
+            "cq013-g024"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Game Boy context",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 32",
+          "end_exclusive": "Paragraph 33",
+          "evidence": [
+            {
+              "location": "Paragraph 32",
+              "quote": "kid Icarus"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-025-1",
+          "reason": "Dedicated electronic game pickup, untested; box assignment uncertain.",
+          "entity_id": "cq013-g025",
+          "title": "Chef",
+          "game_refs": [
+            "cq013-g025"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Game & Watch",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 39",
+          "end_exclusive": "Paragraph 41",
+          "evidence": [
+            {
+              "location": "Paragraph 39",
+              "quote": "I got chef and manhole"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-026-1",
+          "reason": "Dedicated electronic game pickup, untested; box assignment uncertain.",
+          "entity_id": "cq013-g026",
+          "title": "Manhole",
+          "game_refs": [
+            "cq013-g026"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Game & Watch",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 39",
+          "end_exclusive": "Paragraph 41",
+          "evidence": [
+            {
+              "location": "Paragraph 39",
+              "quote": "I got chef and manhole"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-027-1",
+          "reason": "Only Game & Watch owned, explicitly remake rather than original.",
+          "entity_id": "cq013-g027",
+          "title": "Ball — Club Nintendo remake",
+          "game_refs": [
+            "cq013-g027"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Game & Watch",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 39",
+          "end_exclusive": "Paragraph 40",
+          "evidence": [
+            {
+              "location": "Paragraph 39",
+              "quote": "ball the remake from the Nintendo Club"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-028-1",
+          "reason": "CIB acquisition for Nintendo Power project; heard praise, not firsthand play.",
+          "entity_id": "cq013-g028",
+          "title": "Wario Land 3",
+          "game_refs": [
+            "cq013-g028"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Game Boy Color",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 41",
+          "end_exclusive": "Paragraph 43",
+          "evidence": [
+            {
+              "location": "Paragraph 41",
+              "quote": "Wario Land 3"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-029-1",
+          "reason": "CIB mint acquisition, expensive-vs-rare opinion and confused sequel discussion; no play asserted.",
+          "entity_id": "cq013-g029",
+          "title": "Shantae",
+          "game_refs": [
+            "cq013-g029"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Game Boy Color",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 41",
+          "end_exclusive": "Paragraph 44",
+          "evidence": [
+            {
+              "location": "Paragraph 41",
+              "quote": "I also picked up Shantae"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-030-1",
+          "reason": "Explicitly uncertain sequel name/platform; no silent Risky's Revenge normalization.",
+          "entity_id": "cq013-g030",
+          "title": "Curse of the Pirates",
+          "game_refs": [
+            "cq013-g030"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "unresolved",
+          "variant_context": "DSiWare claim uncertain",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 43",
+          "end_exclusive": "Paragraph 44",
+          "evidence": [
+            {
+              "location": "Paragraph 43",
+              "quote": "I think Curse of the Pirates"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-031-1",
+          "reason": "Second unspecified sequel, may also be called Curse of the Pirates; no exclusive-region fact inferred.",
+          "entity_id": "cq013-g031",
+          "title": "one that was released in Japan on the 3DS",
+          "game_refs": [
+            "cq013-g031"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "unresolved",
+          "variant_context": "3DS Japan claimed",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 43",
+          "end_exclusive": "Paragraph 44",
+          "evidence": [
+            {
+              "location": "Paragraph 43",
+              "quote": "one that was released in Japan on the 3DS"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-032-1",
+          "reason": "Kat intends first play after recording; Johnny approximately30minutes played, thinks received with Gold.",
+          "entity_id": "cq013-g032",
+          "title": "Child of Light",
+          "game_refs": [
+            "cq013-g032"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Xbox One",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 43",
+          "end_exclusive": "Paragraph 45",
+          "evidence": [
+            {
+              "location": "Paragraph 43",
+              "quote": "child of light on the Xbox one"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-033-1",
+          "entity_id": "cq013-g033",
+          "title": "The Pinball Arcade",
+          "game_refs": [
+            "cq013-g033"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "PS4",
+          "role": "SUBSTANTIAL_COVERAGE",
+          "start": "Paragraph 44",
+          "end_exclusive": "Paragraph 46",
+          "reason": "Current virtual-pinball play and table packs in P44–45; P46 conditional cabinet funding is hardware-only and earns no game coverage.",
+          "evidence": [
+            {
+              "location": "Paragraph 44",
+              "quote": "pinball arcade"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-034-1",
+          "reason": "Owned/loved NES game, historical comparison.",
+          "entity_id": "cq013-g034",
+          "title": "Pinball",
+          "game_refs": [
+            "cq013-g034"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "NES",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 44",
+          "end_exclusive": "Paragraph 45",
+          "evidence": [
+            {
+              "location": "Paragraph 44",
+              "quote": "black box pinball"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-035-1",
+          "reason": "Owned/carried/played portable exception; likes two-screen verticality.",
+          "entity_id": "cq013-g035",
+          "title": "Metroid Prime Pinball",
+          "game_refs": [
+            "cq013-g035"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "DS",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 44",
+          "end_exclusive": "Paragraph 45",
+          "evidence": [
+            {
+              "location": "Paragraph 44",
+              "quote": "Metroid pinball for the DS"
+            }
+          ]
+        },
+        {
+          "id": "cq013-span-036-1",
+          "entity_id": "cq013-g036",
+          "title": "Dragon Warrior / Dragon Quest — series",
+          "game_refs": [
+            "cq013-g036"
+          ],
+          "entity_kind": "game_series",
+          "identity_granularity": "series",
+          "variant_context": "Game Boy Color discussion; regional naming clarification",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 12",
+          "end_exclusive": "Paragraph 14",
+          "reason": "Explicit series-level played/beaten statement and regional name clarification; excluded from individual-game rankings. Added after root's frozen-sample omission finding.",
+          "evidence": [
+            {
+              "location": "Paragraph 12",
+              "quote": "played in Beat the Dragon Warrior games"
+            },
+            {
+              "location": "Paragraph 13",
+              "quote": "Dragon Warrior that’s Dragon Quest for anyone that is not in the North Americas"
+            }
+          ]
+        }
+      ],
+      "section_accounting": [
+        {
+          "location": "Paragraph 1",
+          "status": "read_and_accounted",
+          "summary": "Opening identifiesJohnny/Kat and hardware-collecting topic."
+        },
+        {
+          "location": "Paragraph 2",
+          "status": "read_and_accounted",
+          "summary": "Johnny childhood absence and girlfriend GBA access."
+        },
+        {
+          "location": "Paragraph 3",
+          "status": "read_and_accounted",
+          "summary": "Collection counts, pink Pocket, pasthardware sales, pinkcontrollers."
+        },
+        {
+          "location": "Paragraph 4",
+          "status": "read_and_accounted",
+          "summary": "Custom pinkaccessories and JapanesePocket boxart."
+        },
+        {
+          "location": "Paragraph 5",
+          "status": "read_and_accounted",
+          "summary": "Kat ChristmaspurplePocket and completeJapanese basiccolor goal."
+        },
+        {
+          "location": "Paragraph 6",
+          "status": "read_and_accounted",
+          "summary": "Hardwarecondition, gameboxscarcity, retaildiscardreport."
+        },
+        {
+          "location": "Paragraph 7",
+          "status": "read_and_accounted",
+          "summary": "Discardedpackaging debate and savedfriendbrotherboxes."
+        },
+        {
+          "location": "Paragraph 8",
+          "status": "read_and_accounted",
+          "summary": "Flattenedboxes fromfriendbrother/wife, gamecollectionlimits."
+        },
+        {
+          "location": "Paragraph 9",
+          "status": "read_and_accounted",
+          "summary": "Cart+box vs loose-storage preferences, Mario/Zelda examples."
+        },
+        {
+          "location": "Paragraph 10",
+          "status": "read_and_accounted",
+          "summary": "Cheaploosegame pickups, quantitygoals,Wii collecting."
+        },
+        {
+          "location": "Paragraph 11",
+          "status": "read_and_accounted",
+          "summary": "Shovelwareart affection and NP285portable purchases."
+        },
+        {
+          "location": "Paragraph 12",
+          "status": "read_and_accounted",
+          "summary": "Johnny reports 48 GBC games; Kat's Crazy Castle identity is uncertain. Explicit Dragon Warrior series play/beating is mapped separately from Dragon Warrior III praise."
+        },
+        {
+          "location": "Paragraph 13",
+          "status": "read_and_accounted",
+          "summary": "DragonWarrior/Zelda/adventure list, classification correction and aversion."
+        },
+        {
+          "location": "Paragraph 14",
+          "status": "read_and_accounted",
+          "summary": "DejaVuII,Pokemonidentitylist,Ghosts,borrowedhardwareplay."
+        },
+        {
+          "location": "Paragraph 15",
+          "status": "read_and_accounted",
+          "summary": "GameBoyPlayer TVpreference; Katuntested,Johnnydayoneowned."
+        },
+        {
+          "location": "Paragraph 16",
+          "status": "read_and_accounted",
+          "summary": "Retronfailures and uncertainGBAcompatibility;Playerstillconnected."
+        },
+        {
+          "location": "Paragraph 17",
+          "status": "read_and_accounted",
+          "summary": "Lightwant and JohnnyrediscoverybehindZeldaIImagazine."
+        },
+        {
+          "location": "Paragraph 18",
+          "status": "read_and_accounted",
+          "summary": "Largecollectionbit-by-bit organization; no newgame references."
+        },
+        {
+          "location": "Paragraph 19",
+          "status": "read_and_accounted",
+          "summary": "Goldhardwareuncertainty,DKLandbundle,DrMarioactualplay."
+        },
+        {
+          "location": "Paragraph 20",
+          "status": "read_and_accounted",
+          "summary": "Lightnonplay and personalformatpreferences."
+        },
+        {
+          "location": "Paragraph 21",
+          "status": "read_and_accounted",
+          "summary": "Portable socialviewing limits, DSbacklog and hypotheticaladapter."
+        },
+        {
+          "location": "Paragraph 22",
+          "status": "read_and_accounted",
+          "summary": "Unifiedconsoleportablewish, Zelda development complaint."
+        },
+        {
+          "location": "Paragraph 23",
+          "status": "read_and_accounted",
+          "summary": "Dreamportableconsole, Microformal-eventjoke."
+        },
+        {
+          "location": "Paragraph 24",
+          "status": "read_and_accounted",
+          "summary": "Prisonhypotheticals and explicitdenial ofexperience/plans."
+        },
+        {
+          "location": "Paragraph 25",
+          "status": "read_and_accounted",
+          "summary": "Micro/Light/SPsmugglingcomparison joke only."
+        },
+        {
+          "location": "Paragraph 26",
+          "status": "read_and_accounted",
+          "summary": "Smugglingcontinuation and multicartjoke; no actual acquisition."
+        },
+        {
+          "location": "Paragraph 27",
+          "status": "read_and_accounted",
+          "summary": "Topicderailment callback and invitation forlistenerjokes."
+        },
+        {
+          "location": "Paragraph 28",
+          "status": "read_and_accounted",
+          "summary": "Hardwarevssoftware collectiongoals restated."
+        },
+        {
+          "location": "Paragraph 29",
+          "status": "read_and_accounted",
+          "summary": "MissedDanehardwarelot, otherbuyer;notcreatorDane."
+        },
+        {
+          "location": "Paragraph 30",
+          "status": "read_and_accounted",
+          "summary": "Aestheticcollecting motive and firstNESstyleSP purchase."
+        },
+        {
+          "location": "Paragraph 31",
+          "status": "read_and_accounted",
+          "summary": "LaterDS/3DS hardware and missedAnimalCrossingedition."
+        },
+        {
+          "location": "Paragraph 32",
+          "status": "read_and_accounted",
+          "summary": "MetroidII/KidIcarus/pastZeldaPokemon pickups, discoverymotive."
+        },
+        {
+          "location": "Paragraph 33",
+          "status": "read_and_accounted",
+          "summary": "KatdiscoveringGB contrasted withJohnnyGenesisdiscovery."
+        },
+        {
+          "location": "Paragraph 34",
+          "status": "read_and_accounted",
+          "summary": "Documentationgoal and tentative9basiccolors."
+        },
+        {
+          "location": "Paragraph 35",
+          "status": "read_and_accounted",
+          "summary": "DKLandgoldbundle return, offwhite/extremegreen wants."
+        },
+        {
+          "location": "Paragraph 36",
+          "status": "read_and_accounted",
+          "summary": "Collection-goal snowball warning; no actualcompletehardwarecollection."
+        },
+        {
+          "location": "Paragraph 37",
+          "status": "read_and_accounted",
+          "summary": "Collectingvsgaming separation philosophy."
+        },
+        {
+          "location": "Paragraph 38",
+          "status": "read_and_accounted",
+          "summary": "Displayobjects valid; no duty toplayeverything."
+        },
+        {
+          "location": "Paragraph 39",
+          "status": "read_and_accounted",
+          "summary": "Chef/Manhole pickups, Ballremakeownership."
+        },
+        {
+          "location": "Paragraph 40",
+          "status": "read_and_accounted",
+          "summary": "UntestedGame&Watch, uncertainbox and conditionchecktips."
+        },
+        {
+          "location": "Paragraph 41",
+          "status": "read_and_accounted",
+          "summary": "WarioLand3/Shantaepickups, postChristmasoffers."
+        },
+        {
+          "location": "Paragraph 42",
+          "status": "read_and_accounted",
+          "summary": "CIBcondition and unnamedincomingoffer,notdelivered."
+        },
+        {
+          "location": "Paragraph 43",
+          "status": "read_and_accounted",
+          "summary": "ConfusedShantaesequels;KatfutureChildofLightplay."
+        },
+        {
+          "location": "Paragraph 44",
+          "status": "read_and_accounted",
+          "summary": "JohnnybriefChildofLightplay, currentPinballArcade, NES/Metroidpinball."
+        },
+        {
+          "location": "Paragraph 45",
+          "status": "read_and_accounted",
+          "summary": "Tablepacks andvirtualadvantages versusrealpin/cabinetbudget."
+        },
+        {
+          "location": "Paragraph 46",
+          "status": "read_and_accounted",
+          "summary": "Conditionalfutureitemssale,cabinetfund,signoffandmusic."
+        },
+        {
+          "location": "Paragraph 47",
+          "status": "read_and_accounted",
+          "summary": "Music-only tail andblank-audio marker; no extractable factual claims."
+        }
+      ],
+      "span_review": {
+        "paragraphs_read": 47,
+        "existing_game_ids_represented": 36,
+        "new_reference_ids": 0,
+        "method": "Source-first end-to-end inventory; same-agent reconciliation, no audio and no duration estimates."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "cq013-action-01",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Handheld collection",
+      "action_state": "owned",
+      "summary": "Reports under100 per Game Boy platform exceptDS101.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "Game Boy every Game Boy system it’s all under a hundred"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq013-action-02",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "DS bulk lot",
+      "action_state": "purchased",
+      "summary": "Bulk lot explainsDS101 count; individual titles unnamed.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "picked up a bulk lot once"
+        }
+      ],
+      "entity_type": "unidentified_lot"
+    },
+    {
+      "id": "cq013-action-03",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Earlier Game Boys",
+      "action_state": "sold",
+      "summary": "Historical unidentified hardware sold; not current pink Pocket.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "I had and I sold through collecting"
+        }
+      ],
+      "entity_type": "hardware"
+    },
+    {
+      "id": "cq013-action-04",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Pink Japanese Game Boy Pocket",
+      "action_state": "received",
+      "summary": "Obtained abouttwo years earlier; no transaction price supplied.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "ended up getting a pink Game Boy pocket from Japan"
+        }
+      ],
+      "entity_type": "hardware"
+    },
+    {
+      "id": "cq013-action-05",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Pink controllers",
+      "action_state": "owned",
+      "summary": "Includes pink360 and PS3/custom blackpink examples inP4.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "I have a bunch of pink controllers"
+        }
+      ],
+      "entity_type": "accessory"
+    },
+    {
+      "id": "cq013-action-06",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Black/pink DS hardware",
+      "action_state": "owned",
+      "summary": "Source's DS hardware wording ambiguous; not a game title.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 4",
+          "quote": "my Gameboy DS the second one I had"
+        }
+      ],
+      "entity_type": "hardware"
+    },
+    {
+      "id": "cq013-action-07",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Clear-purple Japanese Pocket",
+      "action_state": "received",
+      "summary": "Christmas acquisition; not an asserted cash purchase.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 5",
+          "quote": "for Christmas I ended up with the clear purple Japanese one"
+        }
+      ],
+      "entity_type": "hardware"
+    },
+    {
+      "id": "cq013-action-08",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Japanese basic-color Pocket set",
+      "action_state": "wanted",
+      "summary": "Goal for basic colors; not all limited editions or a complete game set.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 5",
+          "quote": "all Japanese boxes and complete"
+        }
+      ],
+      "entity_type": "hardware"
+    },
+    {
+      "id": "cq013-action-09",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Saved childhood game boxes",
+      "action_state": "received",
+      "summary": "Friend's brother's flattened childhood packaging acquired; named games absent.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 8",
+          "quote": "until they came to my house"
+        }
+      ],
+      "entity_type": "accessory"
+    },
+    {
+      "id": "cq013-action-10",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Wife's handheld/N64 boxes",
+      "action_state": "received",
+      "summary": "Saved boxes/manuals, not evidence all games bought this episode.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 8",
+          "quote": "boxes that I got from my wife"
+        }
+      ],
+      "entity_type": "accessory"
+    },
+    {
+      "id": "cq013-action-11",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Game Gear games",
+      "action_state": "owned",
+      "summary": "Unspecified titles; loose storage preference separate from possession.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 9",
+          "quote": "I do have some for the game gear"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq013-action-12",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Cheap loose Game Boy games",
+      "action_state": "purchased",
+      "summary": "General acquisition practice, unspecified individual games.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 10",
+          "quote": "if it’s a good price for something that was the cart I’ve always picked it up"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq013-action-13",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Wii collection",
+      "action_state": "owned",
+      "summary": "Current collecting report, no individually named Wii purchase.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 10",
+          "quote": "I’ve dipped into the Wii a little bit"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq013-action-14",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Nintendo Power285 portable pickups",
+      "action_state": "purchased",
+      "summary": "Actual aggregate purchase, no completed285project inferred.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 11",
+          "quote": "I just bought a few portable games"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq013-action-15",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Crazy Castle — unresolved GBC installment",
+      "action_state": "owned",
+      "summary": "Kat says she has one GBCgame, sealed and cheap; exact installment unresolved and no standalone purchase verb.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 12",
+          "quote": "it was sealed and ridiculously cheap"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq013-action-16",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Game Boy Color collection",
+      "action_state": "owned",
+      "summary": "Dated count48, no full list implied.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 12",
+          "quote": "I have 48 Game Boy Color games"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq013-action-17",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Dragon Warrior games including III",
+      "action_state": "played",
+      "summary": "Reports played and beaten; III singled out positively.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 12",
+          "quote": "played in Beat the Dragon Warrior games"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq013-action-18",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Dragon Warrior I & II",
+      "action_state": "played",
+      "summary": "Contextual played-through list, no date/platform-independent claim.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 13",
+          "quote": "Dragon Warrior 1 and 2"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq013-action-19",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Oracle of Seasons",
+      "action_state": "played",
+      "summary": "Explicit completed-play report in GBC discussion.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 13",
+          "quote": "Oracle of Seasons and Oracle of Ages I played through"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq013-action-20",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Oracle of Ages",
+      "action_state": "played",
+      "summary": "Same explicit played-through pair.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 13",
+          "quote": "Oracle of Seasons and Oracle of Ages I played through"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq013-action-21",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "NES Deja Vu",
+      "action_state": "mentioned",
+      "summary": "Explicit non-play and intention not to play; do not convert opinion to played.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 13",
+          "quote": "I’ve never put in the NES"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq013-action-22",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Princess Tomato",
+      "action_state": "mentioned",
+      "summary": "Dislike/engagement wording, no specific completed-play claim.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 13",
+          "quote": "I just can’t get into it"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq013-action-23",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Pokemon handheld games",
+      "action_state": "owned",
+      "summary": "Aggregate possession; wife's interest separate from reporter.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 14",
+          "quote": "I have a bunch of Pokemon games"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq013-action-24",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Pokemon Blue/Red and hedged Yellow boxes",
+      "action_state": "owned",
+      "summary": "Historical wife's games/boxes, subsequently contributed toJohnnycollection; preserve subject.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny’s wife",
+      "evidence": [
+        {
+          "location": "Paragraph 14",
+          "quote": "her Pokemon blue and red"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq013-action-25",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Borrowed games and Super Game Boy",
+      "action_state": "played",
+      "summary": "Historical aggregate play by borrowed equipment; not ownership of friend's unit.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 14",
+          "quote": "I would borrow games and borrow his Super Game Boy"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq013-action-26",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Game Boy Player",
+      "action_state": "received",
+      "summary": "Recent acquired unit; explicitly not used yet.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 15",
+          "quote": "I just recently got the Game Boy Player"
+        }
+      ],
+      "entity_type": "hardware"
+    },
+    {
+      "id": "cq013-action-27",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Game Boy Player",
+      "action_state": "mentioned",
+      "summary": "Negative-play state; current ownership not proof of use.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 15",
+          "quote": "I haven’t used it yet"
+        }
+      ],
+      "entity_type": "hardware"
+    },
+    {
+      "id": "cq013-action-28",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Game Boy Player",
+      "action_state": "purchased",
+      "summary": "Day-one purchase report, no independently verified date.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 15",
+          "quote": "I bought Game Boy Player the day it came out"
+        }
+      ],
+      "entity_type": "hardware"
+    },
+    {
+      "id": "cq013-action-29",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Game Boy Player and platinum GameCube",
+      "action_state": "owned",
+      "summary": "Original hardware retained together.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 16",
+          "quote": "those two items are actually still connected"
+        }
+      ],
+      "entity_type": "hardware"
+    },
+    {
+      "id": "cq013-action-30",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Two broken Retrons",
+      "action_state": "owned",
+      "summary": "Joint-context household possession; two brokenunits, not generalized reliability statistics.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 16",
+          "quote": "the two we have are both broken"
+        }
+      ],
+      "entity_type": "hardware"
+    },
+    {
+      "id": "cq013-action-31",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Replacement Retron and controllers",
+      "action_state": "owned",
+      "summary": "Returnedfirst,replacementcurrent; threeremote failures separatelymentioned.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 16",
+          "quote": "this is my second one I had to send the first one back"
+        }
+      ],
+      "entity_type": "hardware"
+    },
+    {
+      "id": "cq013-action-32",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Game Boy Light",
+      "action_state": "wanted",
+      "summary": "Never encountered in person; no completedpurchase.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 17",
+          "quote": "I would also love to have a Game Boy light"
+        }
+      ],
+      "entity_type": "hardware"
+    },
+    {
+      "id": "cq013-action-33",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Gold Game Boy Light",
+      "action_state": "owned",
+      "summary": "Rediscoveredunit; acquisition provenance forgotten.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 17",
+          "quote": "I didn’t even know I own this"
+        }
+      ],
+      "entity_type": "hardware"
+    },
+    {
+      "id": "cq013-action-34",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Gold Game Boy Light acquisition",
+      "action_state": "mentioned",
+      "summary": "Speculative past-buy explanation cannot resolve forgottenwhere/why; not reliable purchase history.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 19",
+          "quote": "I’m sure I bought it because"
+        }
+      ],
+      "entity_type": "hardware"
+    },
+    {
+      "id": "cq013-action-35",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Dr. Mario",
+      "action_state": "played",
+      "summary": "Recent actual gameplay inLight.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 19",
+          "quote": "playing the Doctor Mario that’s in there"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq013-action-36",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Game Boy Light",
+      "action_state": "mentioned",
+      "summary": "Explicit non-play.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 20",
+          "quote": "I’ve never played one"
+        }
+      ],
+      "entity_type": "hardware"
+    },
+    {
+      "id": "cq013-action-37",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "DS backlog",
+      "action_state": "owned",
+      "summary": "Unspecified backlog; no per-title played claims.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 21",
+          "quote": "I have such a list of backlog of DS games"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq013-action-38",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "DS player for Wii U",
+      "action_state": "wanted",
+      "summary": "Hypothetical desired product, not possessed/releasedhardware.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 21",
+          "quote": "get a Gameboy DS player for my Wii U"
+        }
+      ],
+      "entity_type": "hypothetical_hardware"
+    },
+    {
+      "id": "cq013-action-39",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Unified portable Nintendo console",
+      "action_state": "wanted",
+      "summary": "Dream design, no retrospective product identification.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 23",
+          "quote": "Nintendo console that also happens to be portable"
+        }
+      ],
+      "entity_type": "hypothetical_hardware"
+    },
+    {
+      "id": "cq013-action-40",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Game Boy Micro prison plan",
+      "action_state": "hypothetical",
+      "summary": "Joke comparison only; neither actual imprisonment nor smuggling.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": null,
+        "confidence": "low",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": null,
+      "evidence": [
+        {
+          "location": "Paragraph 25",
+          "quote": "if you had to smuggle one system"
+        }
+      ],
+      "entity_type": "hardware"
+    },
+    {
+      "id": "cq013-action-41",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Dane's boxed foreign Game Boys",
+      "action_state": "wanted",
+      "summary": "Missedopportunity: someoneelsegotlot; notJohnnybuy.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 29",
+          "quote": "how do I get enough money to buy all of them"
+        }
+      ],
+      "entity_type": "unidentified_lot"
+    },
+    {
+      "id": "cq013-action-42",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Dane's boxed foreign Game Boys",
+      "action_state": "purchased",
+      "summary": "Other unspecified buyer acquired offeredlot; name unknown, reporterJohnny.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": null,
+      "evidence": [
+        {
+          "location": "Paragraph 29",
+          "quote": "someone else came in and got them"
+        }
+      ],
+      "entity_type": "unidentified_lot"
+    },
+    {
+      "id": "cq013-action-43",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "NES-styled Game Boy SP",
+      "action_state": "purchased",
+      "summary": "First personally purchased portable; earliergirlfriendGBAaccessdistinguished.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 30",
+          "quote": "Game Boy SP classic that looked like the original NES I bought it"
+        }
+      ],
+      "entity_type": "hardware"
+    },
+    {
+      "id": "cq013-action-44",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Later DS/3DS iterations",
+      "action_state": "purchased",
+      "summary": "Host aggregate claim with severalXL/newoldexamples; not catalogue-verifiedexhaustiveness.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 31",
+          "quote": "I’ve bought every iteration of portable that’s come out since then"
+        }
+      ],
+      "entity_type": "hardware"
+    },
+    {
+      "id": "cq013-action-45",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Animal Crossing themed handheld",
+      "action_state": "wanted",
+      "summary": "Explicit missed desiredhardware, notAnimalCrossinggamebuy.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 31",
+          "quote": "I really wanted the animal crossing one but I didn’t get a chance"
+        }
+      ],
+      "entity_type": "hardware"
+    },
+    {
+      "id": "cq013-action-46",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Metroid II",
+      "action_state": "received",
+      "summary": "Recentpickup underboxedgamesprompt; no gameplayassertion.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 32",
+          "quote": "I did pick up Metroid 2 kid Icarus"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq013-action-47",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Kid Icarus — Game Boy entry",
+      "action_state": "received",
+      "summary": "Recentpickup, subtitle not spoken.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 32",
+          "quote": "I did pick up Metroid 2 kid Icarus"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq013-action-48",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Zelda/Pokemon handheld games",
+      "action_state": "received",
+      "summary": "Past unspecifiedseriespickups, notOracle/Red/Blueindividually.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 32",
+          "quote": "in the past you know like some of the like Zelda and Pokemon"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq013-action-49",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Off-white original-style Game Boy Pocket",
+      "action_state": "wanted",
+      "summary": "Limitededitionpriority, notacquired.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 35",
+          "quote": "off-white one that’s the original Gameboy style one"
+        }
+      ],
+      "entity_type": "hardware"
+    },
+    {
+      "id": "cq013-action-50",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Extreme green Game Boy Pocket",
+      "action_state": "wanted",
+      "summary": "Tentativeadditionalhardwarewant.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 35",
+          "quote": "maybe the extreme green"
+        }
+      ],
+      "entity_type": "hardware"
+    },
+    {
+      "id": "cq013-action-51",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Chef",
+      "action_state": "received",
+      "summary": "RecentlocalGame&Watchacquisition; nottested.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 39",
+          "quote": "I got chef and manhole"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq013-action-52",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Manhole",
+      "action_state": "received",
+      "summary": "RecentlocalGame&Watchacquisition; nottested.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 39",
+          "quote": "I got chef and manhole"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq013-action-53",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Ball — Club Nintendo remake",
+      "action_state": "owned",
+      "summary": "Ownsremake, nooriginalGame&Watch.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 39",
+          "quote": "the only one I have is is ball the remake"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq013-action-54",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Chef/Manhole play",
+      "action_state": "mentioned",
+      "summary": "Bothuntested; functionunknown, oneboxperhapsChef.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 40",
+          "quote": "I haven’t tried either one of them"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq013-action-55",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Wario Land 3",
+      "action_state": "received",
+      "summary": "AcquiredtowardNP285, bothCIBP42; purchase/negotiatingcontextnotplay.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 41",
+          "quote": "I picked up Wario Land 3"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq013-action-56",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Shantae",
+      "action_state": "received",
+      "summary": "CIBmintdescribedP42; nofirsthandplay.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 41",
+          "quote": "I also picked up Shantae"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq013-action-57",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Unnamed incoming Game Boy item",
+      "action_state": "ordered",
+      "summary": "Offeraccepted; P41coming and P42futureInstagram; notreceivedandnotidentified.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 42",
+          "quote": "they did I was like oh"
+        },
+        {
+          "location": "Paragraph 41",
+          "quote": "another Game Boy item that I’ll discuss later that is coming"
+        },
+        {
+          "location": "Paragraph 42",
+          "quote": "offer on because it’s kind of like it’s just a ridiculous offer"
+        }
+      ],
+      "entity_type": "unidentified_item"
+    },
+    {
+      "id": "cq013-action-58",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Child of Light",
+      "action_state": "wanted",
+      "summary": "Plan toplayafterrecording; notactualplayyet.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 43",
+          "quote": "I will be after we’re done this"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq013-action-59",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Child of Light",
+      "action_state": "owned",
+      "summary": "Availabletostart, sourceplatformXboxOne; noacquisitionmethod.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 43",
+          "quote": "on the Xbox one all ready to go"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq013-action-60",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Child of Light",
+      "action_state": "played",
+      "summary": "Shortfirsthandexperience, notcompletion.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 44",
+          "quote": "I’ve only got like 30 minutes into it"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq013-action-61",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Child of Light",
+      "action_state": "received",
+      "summary": "HedgedGoldacquisition; retainuncertainty.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 44",
+          "quote": "I think I got it with gold"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq013-action-62",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "The Pinball Arcade",
+      "action_state": "played",
+      "summary": "Currentplay onPS4.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 44",
+          "quote": "I’m currently playing on the PS4 pinball arcade"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq013-action-63",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "NES Pinball",
+      "action_state": "owned",
+      "summary": "Historicalownership/love.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 44",
+          "quote": "on the original Ness I had pinball"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq013-action-64",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "NES Pinball",
+      "action_state": "played",
+      "summary": "Contextualfirsthandaffection withinvirtualpinballplayhistory.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 44",
+          "quote": "loved that game just loved it"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq013-action-65",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Metroid Prime Pinball",
+      "action_state": "owned",
+      "summary": "Currentpossession; sourceabbreviatestitle.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 44",
+          "quote": "I have Metroid pinball for the DS"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq013-action-66",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Metroid Prime Pinball",
+      "action_state": "played",
+      "summary": "Historicalcarriedportableplay.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 44",
+          "quote": "would play it on the two screens"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq013-action-67",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Pinball Arcade table packs",
+      "action_state": "purchased",
+      "summary": "DLC/tablepacksboughtover time, about40availabletables; not40physicalmachines.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 45",
+          "quote": "I bought like a few packs"
+        }
+      ],
+      "entity_type": "digital_addon"
+    },
+    {
+      "id": "cq013-action-68",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Physical pinball machine",
+      "action_state": "owned",
+      "summary": "Flipperrepairneeded; modelunnamed.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 45",
+          "quote": "I have an actual pinball machine"
+        }
+      ],
+      "entity_type": "hardware"
+    },
+    {
+      "id": "cq013-action-69",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Mini virtual-pinball cabinet",
+      "action_state": "wanted",
+      "summary": "Wanted notpurchased; proposed1000–2000costnotactualpricepaid.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 45",
+          "quote": "mini virtual pinball machine that I want really bad"
+        }
+      ],
+      "entity_type": "hardware"
+    },
+    {
+      "id": "cq013-action-70",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "Spare-item sales for cabinet fund",
+      "action_state": "hypothetical",
+      "summary": "Conditionalfuturefunding, notcompleted sales.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context only, not audio-diarized."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 46",
+          "quote": "if I can bring myself to gather up a few extra items"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq013-action-71",
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "title": "First Retron unit",
+      "action_state": "returned",
+      "summary": "Johnny sent the first Retron back and now has a second unit. This is a return of the earlier hardware, separate from current ownership of the replacement; no refund amount or reason beyond the surrounding poor-experience discussion is established.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Contextual first-person response following Kat's report of two broken Retrons; no audio diarization."
+      },
+      "subject": "Johnny",
+      "entity_type": "hardware",
+      "evidence": [
+        {
+          "location": "Paragraph 16",
+          "quote": "I had to send the first one back"
+        }
+      ]
+    }
+  ],
+  "overrides": [],
+  "new_games": [],
+  "task_cases": [
+    {
+      "id": "batch007-cq013-hardware-goal",
+      "episode": 13,
+      "question": "What exactly was Kat trying to collect, and why Japanese Pockets?",
+      "query": "Kat Japanese Pocket basic colors boxes aesthetics",
+      "speaker": "Kat",
+      "answer": "Kat was prioritizing basic-color Game Boy Pockets complete in Japanese boxes, because she liked their appearance and packaging. She already had pink and Christmas clear-purple units. She believed there were nine basic colors, and mentioned off-white original-style and perhaps extreme green as extra wants—not a commitment to every limited edition or a full game library.",
+      "expected": "Kat was prioritizing basic-color Game Boy Pockets complete in Japanese boxes, because she liked their appearance and packaging. She already had pink and Christmas clear-purple units. She believed there were nine basic colors, and mentioned off-white original-style and perhaps extreme green as extra wants—not a commitment to every limited edition or a full game library.",
+      "evidence_locations": [
+        "Paragraph 5",
+        "Paragraph 4",
+        "Paragraph 3",
+        "Paragraph 34",
+        "Paragraph 35"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 5",
+          "quote": "basic colors Gameboy pocket all Japanese boxes and complete"
+        },
+        {
+          "location": "Paragraph 4",
+          "quote": "I liked the Japanese box art a lot"
+        },
+        {
+          "location": "Paragraph 3",
+          "quote": "ended up getting a pink Game Boy pocket"
+        },
+        {
+          "location": "Paragraph 5",
+          "quote": "for Christmas I ended up with the clear purple Japanese one"
+        },
+        {
+          "location": "Paragraph 34",
+          "quote": "there’s nine basic colors in the Gameboy pocket I believe"
+        },
+        {
+          "location": "Paragraph 35",
+          "quote": "off-white one"
+        },
+        {
+          "location": "Paragraph 35",
+          "quote": "maybe the extreme green"
+        },
+        {
+          "location": "Paragraph 35",
+          "quote": "I can’t see my self ever getting to the point where I was like I need to have all the limited edition Gameboy pockets"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 5",
+            "quote": "basic colors Gameboy pocket all Japanese boxes and complete"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 4",
+            "quote": "I liked the Japanese box art a lot"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 3",
+            "quote": "ended up getting a pink Game Boy pocket"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 5",
+            "quote": "for Christmas I ended up with the clear purple Japanese one"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 34",
+            "quote": "there’s nine basic colors in the Gameboy pocket I believe"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 6,
+          "evidence": {
+            "location": "Paragraph 35",
+            "quote": "off-white one"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 7,
+          "evidence": {
+            "location": "Paragraph 35",
+            "quote": "maybe the extreme green"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 8,
+          "evidence": {
+            "location": "Paragraph 35",
+            "quote": "I can’t see my self ever getting to the point where I was like I need to have all the limited edition Gameboy pockets"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "All colors already acquired",
+        "Nine externally verified",
+        "Every limited edition required"
+      ],
+      "review_result": "Same-agent source adjudication: 8 supported checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch007-cq013-light-origin",
+      "episode": 13,
+      "question": "How did Johnny get the gold Game Boy Light?",
+      "query": "Johnny gold Light forgot Zelda magazine",
+      "speaker": "Johnny",
+      "answer": "The episode cannot establish where or why he originally got it. Johnny rediscovered it behind a Zelda II Nintendo Fun Club magazine and explicitly said he did not know its origin. He later guessed he had bought it because it was gold and would fit his Zelda display. That is speculation, unlike his definite report of recently playing Dr. Mario in it.",
+      "expected": "The episode cannot establish where or why he originally got it. Johnny rediscovered it behind a Zelda II Nintendo Fun Club magazine and explicitly said he did not know its origin. He later guessed he had bought it because it was gold and would fit his Zelda display. That is speculation, unlike his definite report of recently playing Dr. Mario in it.",
+      "evidence_locations": [
+        "Paragraph 17",
+        "Paragraph 19"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 17",
+          "quote": "I don’t know where it came from or why"
+        },
+        {
+          "location": "Paragraph 17",
+          "quote": "behind a Nintendo Fun Club magazine of Zelda 2"
+        },
+        {
+          "location": "Paragraph 19",
+          "quote": "I’m sure I bought it because"
+        },
+        {
+          "location": "Paragraph 19",
+          "quote": "playing the Doctor Mario that’s in there"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 17",
+            "quote": "I don’t know where it came from or why"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 17",
+            "quote": "behind a Nintendo Fun Club magazine of Zelda 2"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 19",
+            "quote": "I’m sure I bought it because"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 19",
+            "quote": "playing the Doctor Mario that’s in there"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Confirmed store or purchase date",
+        "New gift from Kat",
+        "Kat played the Light"
+      ],
+      "review_result": "Same-agent source adjudication: 4 supported checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch007-cq013-prison",
+      "episode": 13,
+      "question": "Why does the episode talk about smuggling Game Boys?",
+      "query": "Micro prison smuggling Kat joke",
+      "speaker": null,
+      "answer": "It is a hardware-size joke that grows out of whether a Micro would fit a formal occasion. The Micro is the preferred hypothetical smuggling system, with the Light and SP floated as alternatives. Kat says she has never been to prison and is not planning to go; Johnny invites listeners to ask her which Game Boy she would smuggle. This is a callback, not either host's criminal biography.",
+      "expected": "It is a hardware-size joke that grows out of whether a Micro would fit a formal occasion. The Micro is the preferred hypothetical smuggling system, with the Light and SP floated as alternatives. Kat says she has never been to prison and is not planning to go; Johnny invites listeners to ask her which Game Boy she would smuggle. This is a callback, not either host's criminal biography.",
+      "evidence_locations": [
+        "Paragraph 23",
+        "Paragraph 25",
+        "Paragraph 24",
+        "Paragraph 27"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 23",
+          "quote": "formal dining and award shows"
+        },
+        {
+          "location": "Paragraph 25",
+          "quote": "100% the Gameboy micro"
+        },
+        {
+          "location": "Paragraph 25",
+          "quote": "Gameboy light"
+        },
+        {
+          "location": "Paragraph 25",
+          "quote": "Gameboy Advance SP"
+        },
+        {
+          "location": "Paragraph 24",
+          "quote": "I’ve never been to prison"
+        },
+        {
+          "location": "Paragraph 24",
+          "quote": "I’m not planning for 2016 to go to prison"
+        },
+        {
+          "location": "Paragraph 27",
+          "quote": "please always ask Kat her smuggling preference for Game Boys"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 23",
+            "quote": "formal dining and award shows"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 25",
+            "quote": "100% the Gameboy micro"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 25",
+            "quote": "Gameboy light"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 25",
+            "quote": "Gameboy Advance SP"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 24",
+            "quote": "I’ve never been to prison"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 6,
+          "evidence": {
+            "location": "Paragraph 24",
+            "quote": "I’m not planning for 2016 to go to prison"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 7,
+          "evidence": {
+            "location": "Paragraph 27",
+            "quote": "please always ask Kat her smuggling preference for Game Boys"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Actual prison stay",
+        "Actual smuggling",
+        "Instructions presented as real plan"
+      ],
+      "review_result": "Same-agent source adjudication: 7 supported checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch007-cq013-child-light",
+      "episode": 13,
+      "question": "Who had actually played Child of Light, and how much?",
+      "query": "Child of Light Kat Johnny Xbox Gold",
+      "speaker": "Johnny",
+      "answer": "Johnny had played about 30 minutes on Xbox One, enjoyed it, and thought he had obtained it through Gold. Kat had it ready on Xbox One and planned to start after recording, but said she had not played it yet. Neither reports finishing the game.",
+      "expected": "Johnny had played about 30 minutes on Xbox One, enjoyed it, and thought he had obtained it through Gold. Kat had it ready on Xbox One and planned to start after recording, but said she had not played it yet. Neither reports finishing the game.",
+      "evidence_locations": [
+        "Paragraph 44",
+        "Paragraph 43"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 44",
+          "quote": "I’ve only got like 30 minutes into it"
+        },
+        {
+          "location": "Paragraph 44",
+          "quote": "I enjoyed it"
+        },
+        {
+          "location": "Paragraph 44",
+          "quote": "also on the Xbox one I think I got it with gold"
+        },
+        {
+          "location": "Paragraph 43",
+          "quote": "child of light on the Xbox one all ready to go"
+        },
+        {
+          "location": "Paragraph 43",
+          "quote": "I will be after we’re done this"
+        },
+        {
+          "location": "Paragraph 44",
+          "quote": "I should have played by now and I haven’t"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 44",
+            "quote": "I’ve only got like 30 minutes into it"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 44",
+            "quote": "I enjoyed it"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 44",
+            "quote": "also on the Xbox one I think I got it with gold"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 43",
+            "quote": "child of light on the Xbox one all ready to go"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 43",
+            "quote": "I will be after we’re done this"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 6,
+          "evidence": {
+            "location": "Paragraph 44",
+            "quote": "I should have played by now and I haven’t"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Kat already played",
+        "Either completed it",
+        "Gold acquisition certain"
+      ],
+      "review_result": "Same-agent source adjudication: 6 supported checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch007-cq013-gbc-pickups",
+      "episode": 13,
+      "question": "What were Johnny's named GBC pickups and what remains unresolved?",
+      "query": "Wario Land 3 Shantae CIB incoming item",
+      "speaker": "Johnny",
+      "answer": "Johnny picked up Wario Land 3 and Shantae for the Nintendo Power 285 project and says both are complete in box; he especially praises Shantae's mint condition. He describes Shantae as expensive rather than rare-rare, an episode opinion, not a verified market assessment. A further Game Boy item has an accepted offer and is still coming, but is unnamed. His Shantae sequel names and platform history are explicitly uncertain, so the episode cannot confidently identify those sequels.",
+      "expected": "Johnny picked up Wario Land 3 and Shantae for the Nintendo Power 285 project and says both are complete in box; he especially praises Shantae's mint condition. He describes Shantae as expensive rather than rare-rare, an episode opinion, not a verified market assessment. A further Game Boy item has an accepted offer and is still coming, but is unnamed. His Shantae sequel names and platform history are explicitly uncertain, so the episode cannot confidently identify those sequels.",
+      "evidence_locations": [
+        "Paragraph 40",
+        "Paragraph 41",
+        "Paragraph 42",
+        "Paragraph 43"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 40",
+          "quote": "preparation for the best of the best"
+        },
+        {
+          "location": "Paragraph 41",
+          "quote": "285"
+        },
+        {
+          "location": "Paragraph 41",
+          "quote": "Wario Land 3"
+        },
+        {
+          "location": "Paragraph 41",
+          "quote": "I also picked up Shantae"
+        },
+        {
+          "location": "Paragraph 42",
+          "quote": "both of those games are complete in box"
+        },
+        {
+          "location": "Paragraph 42",
+          "quote": "Chante is so mint"
+        },
+        {
+          "location": "Paragraph 41",
+          "quote": "it’s not rare rare it’s just expensive"
+        },
+        {
+          "location": "Paragraph 41",
+          "quote": "another Game Boy item that I’ll discuss later that is coming"
+        },
+        {
+          "location": "Paragraph 42",
+          "quote": "they did I was like oh"
+        },
+        {
+          "location": "Paragraph 43",
+          "quote": "I’m unsure"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 40",
+            "quote": "preparation for the best of the best"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 41",
+            "quote": "285"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 41",
+            "quote": "Wario Land 3"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 41",
+            "quote": "I also picked up Shantae"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 42",
+            "quote": "both of those games are complete in box"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 6,
+          "evidence": {
+            "location": "Paragraph 42",
+            "quote": "Chante is so mint"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 7,
+          "evidence": {
+            "location": "Paragraph 41",
+            "quote": "it’s not rare rare it’s just expensive"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 8,
+          "evidence": {
+            "location": "Paragraph 41",
+            "quote": "another Game Boy item that I’ll discuss later that is coming"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 9,
+          "evidence": {
+            "location": "Paragraph 42",
+            "quote": "they did I was like oh"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 10,
+          "evidence": {
+            "location": "Paragraph 43",
+            "quote": "I’m unsure"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Incoming item delivered",
+        "Shantae sequel names normalized as fact",
+        "Named pickups played"
+      ],
+      "review_result": "Same-agent source adjudication: 10 supported checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch007-cq013-adventures",
+      "episode": 13,
+      "question": "What was the point-and-click disagreement?",
+      "query": "Deja Vu Shadowgate Princess Tomato Kat Johnny",
+      "speaker": null,
+      "answer": "Johnny likes Deja Vu and Shadowgate, describing Deja Vu as a spiritual successor rather than a sequel and correcting 'text adventure' to point-and-click. Kat says she has never put the NES Deja Vu in and now will not; even Princess Tomato's vegetable premise cannot overcome her dislike of that style. Johnny also mentions Deja Vu II in the handheld product, but its claimed access history is an unverified host statement.",
+      "expected": "Johnny likes Deja Vu and Shadowgate, describing Deja Vu as a spiritual successor rather than a sequel and correcting 'text adventure' to point-and-click. Kat says she has never put the NES Deja Vu in and now will not; even Princess Tomato's vegetable premise cannot overcome her dislike of that style. Johnny also mentions Deja Vu II in the handheld product, but its claimed access history is an unverified host statement.",
+      "evidence_locations": [
+        "Paragraph 13",
+        "Paragraph 14"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 13",
+          "quote": "I also really like deja vu"
+        },
+        {
+          "location": "Paragraph 13",
+          "quote": "Shadowgate is awesome"
+        },
+        {
+          "location": "Paragraph 13",
+          "quote": "spiritual successor"
+        },
+        {
+          "location": "Paragraph 13",
+          "quote": "it’s not like a sequel"
+        },
+        {
+          "location": "Paragraph 13",
+          "quote": "point-and-click adventure I should say"
+        },
+        {
+          "location": "Paragraph 13",
+          "quote": "I’ve never put in the NES"
+        },
+        {
+          "location": "Paragraph 13",
+          "quote": "I’m never going to put it in the NES"
+        },
+        {
+          "location": "Paragraph 13",
+          "quote": "I like that it’s friggin vegetables"
+        },
+        {
+          "location": "Paragraph 14",
+          "quote": "Game Boy 1 has deja vu 2"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 13",
+            "quote": "I also really like deja vu"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 13",
+            "quote": "Shadowgate is awesome"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 13",
+            "quote": "spiritual successor"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 13",
+            "quote": "it’s not like a sequel"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 13",
+            "quote": "point-and-click adventure I should say"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 6,
+          "evidence": {
+            "location": "Paragraph 13",
+            "quote": "I’ve never put in the NES"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 7,
+          "evidence": {
+            "location": "Paragraph 13",
+            "quote": "I’m never going to put it in the NES"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 8,
+          "evidence": {
+            "location": "Paragraph 13",
+            "quote": "I like that it’s friggin vegetables"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 9,
+          "evidence": {
+            "location": "Paragraph 14",
+            "quote": "Game Boy 1 has deja vu 2"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Kat played NES Deja Vu",
+        "Literal Shadowgate sequel",
+        "Exclusive release history independently verified"
+      ],
+      "review_result": "Same-agent source adjudication: 9 supported checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch007-cq013-gamewatch",
+      "episode": 13,
+      "question": "What Game & Watch games were picked up, and were they tested?",
+      "query": "Chef Manhole Ball box untested",
+      "speaker": null,
+      "answer": "Kat got Chef and Manhole locally. They were her only two Game & Watch games, and she had not tried either, so she did not know whether they worked or were fun. One had a worn box; she thought Chef but was unsure. Johnny's only example was the Club Nintendo Ball remake, not an original unit.",
+      "expected": "Kat got Chef and Manhole locally. They were her only two Game & Watch games, and she had not tried either, so she did not know whether they worked or were fun. One had a worn box; she thought Chef but was unsure. Johnny's only example was the Club Nintendo Ball remake, not an original unit.",
+      "evidence_locations": [
+        "Paragraph 39",
+        "Paragraph 40"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 39",
+          "quote": "I got chef and manhole"
+        },
+        {
+          "location": "Paragraph 39",
+          "quote": "only two Game and Watch that I have"
+        },
+        {
+          "location": "Paragraph 39",
+          "quote": "came across them locally"
+        },
+        {
+          "location": "Paragraph 40",
+          "quote": "I haven’t tried either one of them"
+        },
+        {
+          "location": "Paragraph 40",
+          "quote": "if they work or you know if they’re fun to play I had no idea"
+        },
+        {
+          "location": "Paragraph 40",
+          "quote": "I think it’s chef but I could be wrong"
+        },
+        {
+          "location": "Paragraph 39",
+          "quote": "ball the remake from the Nintendo Club"
+        },
+        {
+          "location": "Paragraph 39",
+          "quote": "I don’t have any originals"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 39",
+            "quote": "I got chef and manhole"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 39",
+            "quote": "only two Game and Watch that I have"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 39",
+            "quote": "came across them locally"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 40",
+            "quote": "I haven’t tried either one of them"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 40",
+            "quote": "if they work or you know if they’re fun to play I had no idea"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 6,
+          "evidence": {
+            "location": "Paragraph 40",
+            "quote": "I think it’s chef but I could be wrong"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 7,
+          "evidence": {
+            "location": "Paragraph 39",
+            "quote": "ball the remake from the Nintendo Club"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 8,
+          "evidence": {
+            "location": "Paragraph 39",
+            "quote": "I don’t have any originals"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Both working confirmed",
+        "Chef definitely boxed",
+        "Johnny owns original Ball"
+      ],
+      "review_result": "Same-agent source adjudication: 8 supported checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch007-cq013-pinball-budget",
+      "episode": 13,
+      "question": "Why virtual pinball, and did Johnny buy a cabinet?",
+      "query": "Pinball Arcade Metroid pinball cabinet remodel",
+      "speaker": "Johnny",
+      "answer": "Johnny was playing The Pinball Arcade on PS4 and liked virtual pinball's consequence-free retries and table selection. He reports buying packs over time with roughly 40 tables available, not 40 physical machines. He also likes DS Metroid pinball's two-screen verticality and recalls loving NES Pinball. He owns a physical pinball machine needing a flipper repair, but only wants a small virtual cabinet. He will not divert normal remodeling finances; a separate fund would depend on selling spare items, so no cabinet purchase or completed funding sale is established.",
+      "expected": "Johnny was playing The Pinball Arcade on PS4 and liked virtual pinball's consequence-free retries and table selection. He reports buying packs over time with roughly 40 tables available, not 40 physical machines. He also likes DS Metroid pinball's two-screen verticality and recalls loving NES Pinball. He owns a physical pinball machine needing a flipper repair, but only wants a small virtual cabinet. He will not divert normal remodeling finances; a separate fund would depend on selling spare items, so no cabinet purchase or completed funding sale is established.",
+      "evidence_locations": [
+        "Paragraph 44",
+        "Paragraph 45",
+        "Paragraph 46"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 44",
+          "quote": "currently playing on the PS4 pinball arcade"
+        },
+        {
+          "location": "Paragraph 45",
+          "quote": "everything set to free play"
+        },
+        {
+          "location": "Paragraph 45",
+          "quote": "40 pinball tables available"
+        },
+        {
+          "location": "Paragraph 44",
+          "quote": "verticality that a pinball machine has"
+        },
+        {
+          "location": "Paragraph 44",
+          "quote": "black box pinball and loved that game"
+        },
+        {
+          "location": "Paragraph 45",
+          "quote": "repair a flipper"
+        },
+        {
+          "location": "Paragraph 45",
+          "quote": "mini virtual pinball machine that I want really bad"
+        },
+        {
+          "location": "Paragraph 46",
+          "quote": "I won’t take money out of our normal finances"
+        },
+        {
+          "location": "Paragraph 46",
+          "quote": "if I can bring myself to gather up a few extra items"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 44",
+            "quote": "currently playing on the PS4 pinball arcade"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 45",
+            "quote": "everything set to free play"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 45",
+            "quote": "40 pinball tables available"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 44",
+            "quote": "verticality that a pinball machine has"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 44",
+            "quote": "black box pinball and loved that game"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 6,
+          "evidence": {
+            "location": "Paragraph 45",
+            "quote": "repair a flipper"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 7,
+          "evidence": {
+            "location": "Paragraph 45",
+            "quote": "mini virtual pinball machine that I want really bad"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 8,
+          "evidence": {
+            "location": "Paragraph 46",
+            "quote": "I won’t take money out of our normal finances"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 9,
+          "evidence": {
+            "location": "Paragraph 46",
+            "quote": "if I can bring myself to gather up a few extra items"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Cabinet bought",
+        "Forty physical machines",
+        "Spare items already sold"
+      ],
+      "review_result": "Same-agent source adjudication: 9 supported checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch007-cq013-first-handheld",
+      "episode": 13,
+      "question": "Was Johnny's first portable the NES-style SP or his wife's GBA?",
+      "query": "first portable Game Boy Advance SP girlfriend",
+      "speaker": "Johnny",
+      "answer": "Those describe different milestones. Johnny says he had no childhood portable and first encountered handheld ownership through his then-girlfriend's GBA in the mid-2000s. The NES-styled Game Boy SP was the first portable he personally bought that was not his wife's. He later bought further DS/3DS iterations, but missed the Animal Crossing-themed one he wanted.",
+      "expected": "Those describe different milestones. Johnny says he had no childhood portable and first encountered handheld ownership through his then-girlfriend's GBA in the mid-2000s. The NES-styled Game Boy SP was the first portable he personally bought that was not his wife's. He later bought further DS/3DS iterations, but missed the Animal Crossing-themed one he wanted.",
+      "evidence_locations": [
+        "Paragraph 2",
+        "Paragraph 30",
+        "Paragraph 31"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 2",
+          "quote": "she had a Game Boy advance"
+        },
+        {
+          "location": "Paragraph 2",
+          "quote": "didn’t have a portable system until the mid-2000s"
+        },
+        {
+          "location": "Paragraph 30",
+          "quote": "my first portable that I bought that wasn’t my wife’s"
+        },
+        {
+          "location": "Paragraph 30",
+          "quote": "Game Boy SP classic that looked like the original NES"
+        },
+        {
+          "location": "Paragraph 31",
+          "quote": "I’ve bought every iteration"
+        },
+        {
+          "location": "Paragraph 31",
+          "quote": "animal crossing one but I didn’t get a chance"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 2",
+            "quote": "she had a Game Boy advance"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 2",
+            "quote": "didn’t have a portable system until the mid-2000s"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 30",
+            "quote": "my first portable that I bought that wasn’t my wife’s"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 30",
+            "quote": "Game Boy SP classic that looked like the original NES"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 31",
+            "quote": "I’ve bought every iteration"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 6,
+          "evidence": {
+            "location": "Paragraph 31",
+            "quote": "animal crossing one but I didn’t get a chance"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Contradictory first-handheld stories",
+        "Animal Crossing hardware owned",
+        "All models independently verified"
+      ],
+      "review_result": "Same-agent source adjudication: 6 supported checkpoints; integrated retrieval pending."
+    }
+  ]
+}

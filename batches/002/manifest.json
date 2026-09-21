@@ -1,0 +1,52 @@
+{
+  "schema_version": "0.1",
+  "created": "2026-09-12",
+  "status": "captured_text_review_complete",
+  "selection_basis": "Three era-varied episodes; fixed pilot unchanged. Processing status lives in PROGRESS and episode ledger; extracted_draft is the intended record state, not a completion claim.",
+  "budget": "Local tools and included allowance only; no paid services or publication.",
+  "episodes": [
+    {
+      "key": "sc-235355325",
+      "episode_number": 8,
+      "title": "Episode 3 (8) - Retro Gaming Holiday Memories",
+      "date": "2015-11-30",
+      "path": "episodes/cq-008-sc-235355325.md",
+      "words": 5845,
+      "source_url": "https://soundcloud.com/collectors-quest/collectors-quest-episode-8-retro-gaming-holiday-memories",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "sha256": "4f753a1e5f05d840272c7ff7a9b4d30a6d04071b416b425a4426c8dd854cebf3",
+      "reason": "Era-varied bounded continuation; not selected to chase reserved questions",
+      "status": "extracted_draft",
+      "record_path": "records/sc-235355325.json"
+    },
+    {
+      "key": "sc-343883458",
+      "episode_number": 75,
+      "title": "Episode 75 - Most and Least Expensive System to Collect For",
+      "date": "2017-09-25",
+      "path": "episodes/cq-075-sc-343883458.md",
+      "words": 12950,
+      "source_url": "https://soundcloud.com/collectors-quest/episode-75-most-and-least-expensive-system-to-collect-for",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "sha256": "1b5bea682a8f559df8906e62b7cbedd63c99c8381216eb3064326d6e7e88f077",
+      "reason": "Era-varied bounded continuation; not selected to chase reserved questions",
+      "status": "extracted_draft",
+      "record_path": "records/sc-343883458.json"
+    },
+    {
+      "key": "sc-1327980511",
+      "episode_number": 201,
+      "title": "CQ 201 - Reconsidering the List of 677 NES Games",
+      "date": "2022-08-21",
+      "path": "episodes/cq-201-sc-1327980511.md",
+      "words": 30170,
+      "source_url": "https://soundcloud.com/collectors-quest/cq-201-reconsidering-the-list-of-677-nes-games",
+      "timing": "YouTube caption timestamps",
+      "sha256": "eff28d3c954554ce99abdb4cae21c58ad70ee372fafa32e9d83ec27a97d1520c",
+      "reason": "Era-varied bounded continuation; not selected to chase reserved questions",
+      "status": "extracted_draft",
+      "record_path": "records/sc-1327980511.json"
+    }
+  ],
+  "duplicate_controls": []
+}

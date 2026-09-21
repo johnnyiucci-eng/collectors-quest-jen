@@ -1,0 +1,231 @@
+{
+  "review_binding": {
+    "version": "cq-review-binding-1",
+    "sha256": "b2fe8a23f98f97e72df7c68a34c505babbae434a8e4c56ada1263c0bccaa2a19",
+    "reviewed_utc": "2026-09-13 11:15:39 UTC",
+    "meaning": "Exact reviewed local inputs; not independent semantic, audio or live certification"
+  },
+  "schema_version": "1",
+  "required_for": "A1–A8 mandatory for every episode in every batch.",
+  "acceptance_scope": "Captured-text development review only; no audio, external-history or live certification.",
+  "episodes": [
+    {
+      "episode": 14,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All 38 paragraphs read/accounted; Alien Crush/SMRPG three-supporting-paragraph tie and two-way third tie; no substantial game-review claim.",
+          "evidence": [
+            "batches/008/reviews/014-audit.md",
+            "batches/008/reviews/014-annotations.json"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "19 buckets/20 spans reconciled; two frozen references pass, including continuous Super Metroid span; unknown Wii titles remain qualified.",
+          "evidence": [
+            "batches/008/reviews/014-audit.md",
+            "batches/008/reviews/014-annotations.json",
+            "batches/008/reviews/source-first-sample.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Guest Steven/Steve is not later cohost Stefan or Tyler. Johnny and Kat remain separately attributed.",
+          "evidence": [
+            "batches/008/reviews/014-audit.md",
+            "batches/008/reviews/014-annotations.json"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "33 actions distinguish guest purchases, Beholder packaging versus existing cartridge, Johnny's corrected three copies and Kat's third RPG copy.",
+          "evidence": [
+            "batches/008/reviews/014-audit.md",
+            "batches/008/reviews/014-annotations.json"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Ten complete answers source-checked; guest-origin query recovered P10/P11 without dropping required history windows.",
+          "evidence": [
+            "batches/008/reviews/answer-review.json",
+            "batches/008/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Brief reviewed for event plans versus outcomes, guest retail history, purchase/packaging distinction and safe callbacks; obsolete logistics not current advice.",
+          "evidence": [
+            "batches/008/reviews/014-audit.md",
+            "batches/008/reviews/014-annotations.json"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Durable rebuild: 1633 exact evidence checks, 226 accounted windows, literal forms/explicit types, 31 answer contexts/snapshots, 8 frozen references and122 shared regressions pass.",
+          "evidence": [
+            "batches/008/reviews/verification.md",
+            "tests/test_lore_continuation.py"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "Every mandatory check has episode-specific evidence/reason; remaining item uncertainty visible and acceptance scoped to captured text.",
+          "evidence": [
+            "batches/008/PROGRESS.md",
+            "pilot/WORKFLOW.md"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 81,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All 66 paragraphs read twice independently; BreathWild/StreetFighterII six paragraphs and Kart8Deluxe five, with coarse coverage/depth caveats.",
+          "evidence": [
+            "batches/008/reviews/081-audit.md",
+            "batches/008/reviews/081-annotations.json",
+            "batches/008/reviews/081-peer-review.md"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "81 buckets/148 spans; three frozen refs and peer7-reference tail pass. Unnamed double pack repaired to compilation rather than individual game.",
+          "evidence": [
+            "batches/008/reviews/081-audit.md",
+            "batches/008/reviews/081-annotations.json",
+            "batches/008/reviews/source-first-sample.json",
+            "batches/008/reviews/081-peer-review.md"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Kat/Johnny/Tyler roster and husband John distinct; actual 1-2-Switch returner remains unknown.",
+          "evidence": [
+            "batches/008/reviews/081-audit.md",
+            "batches/008/reviews/081-annotations.json",
+            "batches/008/reviews/081-peer-review.md"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "72 actions after four missing owned subject buckets repaired; two Atlantis purchases/receipts, Kat's sales/play/wants and sealed/returned copies remain separate.",
+          "evidence": [
+            "batches/008/reviews/081-audit.md",
+            "batches/008/reviews/081-annotations.json",
+            "batches/008/reviews/081-peer-review.md"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Ten actual answers independently supported in40 grouped peer checkpoints and coordinator full-source review, then all runtime contexts pass.",
+          "evidence": [
+            "batches/008/reviews/answer-review.json",
+            "batches/008/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Peer/coordinator reviewed brief for first-hand versus hearsay, changed Kat play state, two-copy Atlantis and edition frustration; no live performance claim.",
+          "evidence": [
+            "batches/008/reviews/081-audit.md",
+            "batches/008/reviews/081-annotations.json",
+            "batches/008/reviews/081-peer-review.md"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Durable rebuild: 1633 exact evidence checks, 226 accounted windows, literal forms/explicit types, 31 answer contexts/snapshots, 8 frozen references and122 shared regressions pass.",
+          "evidence": [
+            "batches/008/reviews/verification.md",
+            "tests/test_lore_continuation.py"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "Every mandatory check has episode-specific evidence/reason; remaining item uncertainty visible and acceptance scoped to captured text.",
+          "evidence": [
+            "batches/008/PROGRESS.md",
+            "pilot/WORKFLOW.md"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 207,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All 122 windows read/mapped by extractor; coordinator checked all answer contexts. Game rankings exclude manuals, films and general auction-lineup inheritance.",
+          "evidence": [
+            "batches/008/reviews/207-audit.md",
+            "batches/008/reviews/207-annotations.json"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "120 buckets/199 spans; all three frozen refs pass and raw forms are literal. MetalGear2MSX remains distinct from Solid2/Snake'sRevenge.",
+          "evidence": [
+            "batches/008/reviews/207-audit.md",
+            "batches/008/reviews/207-annotations.json",
+            "batches/008/reviews/source-first-sample.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Johnny/Tyler named; Josh is a third-party prospective buyer, not a host purchase. Payton alias retained without private-name invention.",
+          "evidence": [
+            "batches/008/reviews/207-audit.md",
+            "batches/008/reviews/207-annotations.json"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "56 actions distinguish300Zelda purchase/refused400bundle, Twisted trade without rebuy, Genesis sale/rebuild and packaging-only acquisitions.",
+          "evidence": [
+            "batches/008/reviews/207-audit.md",
+            "batches/008/reviews/207-annotations.json"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Eleven answers source-adjudicated; unspoken sentimental-deficit interpretation removed. Broad market query29→30→31 batch path preserves every required window.",
+          "evidence": [
+            "batches/008/reviews/answer-review.json",
+            "batches/008/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Brief reviewed against source for event-specific criticism, roaming-stream praise, scope/condition choices and manual-collective proposal; no blanket market or launched-service claim.",
+          "evidence": [
+            "batches/008/reviews/207-audit.md",
+            "batches/008/reviews/207-annotations.json"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Durable rebuild: 1633 exact evidence checks, 226 accounted windows, literal forms/explicit types, 31 answer contexts/snapshots, 8 frozen references and122 shared regressions pass.",
+          "evidence": [
+            "batches/008/reviews/verification.md",
+            "tests/test_lore_continuation.py"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "Every mandatory check has episode-specific evidence/reason; remaining item uncertainty visible and acceptance scoped to captured text.",
+          "evidence": [
+            "batches/008/PROGRESS.md",
+            "pilot/WORKFLOW.md"
+          ]
+        }
+      }
+    }
+  ]
+}

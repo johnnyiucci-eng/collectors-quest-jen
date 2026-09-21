@@ -1,0 +1,9 @@
+# CQ102 bounded continuity review
+
+Root checked accepted-archive search leads for Rule of Rose, Halloween double-enders and Castlevania Bloodlines. These returned later rarity examples, an earlier unspecified double-ender auction and a later guest-show alternative. Search hits alone do not establish the same physical copy, resolution of the incoming clamshell or a changed opinion. No unsupported cross-source relationship is added; relationships.json is intentionally empty, not evidence that the full archive has no connections.
+
+Within CQ102, the strongest usable sequences are fully in the read source: [Bloodlines P23–24](../../../library/episodes/cq-102-sc-511661571.md#paragraph-23) packaging advice followed by correction of current custody; [bootleg P32–34](../../../library/episodes/cq-102-sc-511661571.md#paragraph-32) purchase, disputed description, full refund and retained copy; and [Super Copa P52–53](../../../library/episodes/cq-102-sc-511661571.md#paragraph-52) purchase followed by contextual regional-box identification. These should remain dated host reports, not verified catalog or legal conclusions.
+
+Open loops include next year's themed list, a possible signature discussion/WayForward visit, unclear publication of a bubble-mailer microcast, incoming Bloodlines clamshell, boxed-N64 shipment outcome and not-yet-ready Tyler Talks. Later resolutions require their own source evidence. CQ130 is user-selected next but has not yet been read; its title alone is not a confirmed resolution of every CQ102 promise.
+
+Practical usefulness: distinguish a collectible Halloween selection from a rarity ranking; retrieve the item, version, speaker and current action state together. Fresh editorial angles are how condition and packaging affect desire, why affordable games may still be collectible and how to spot uncertain variant provenance. These proposals are not past CQ events. No live rehearsal claimed.

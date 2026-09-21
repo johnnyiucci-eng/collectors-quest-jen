@@ -1,0 +1,9 @@
+# CQ210 coordinator full-source review
+
+Root independently read all190windows consecutively from00:00:00through03:20:43, including outro/patron allusions. Source hash matches the manifest. All22actualanswers were then read in full and compared with the source; the written pre-show brief is useful for specific disagreements, corrections and unfinished projects rather than generic console trivia.
+
+Verified boundaries: GOGpurchases vsRainbowBillycart; Johnnyunauditedset/incomingorders; TylerlaunchWalmart vsJohnnyfuturewife/eventuncertainty; FitInSix/Racquetwebcam correction; retail/PALkiosk/utilitydiscs separate; missingthirdMexicoexclusive unresolved; price/hype vsrarity; source-suppliedlaunch22 vsTylerfavorablecore6; popular10 vssecondarytiers/Johnnyadditions; EpicYarn/OtherMnotselected; CrossbowJohnnyplayed/Tylernotplayed; RErailcoplayerunnamed; WiiUShakedownnotPALWii; UAEWiiSportsnotNAfirstprint; mixedpartsnotauthenticated; HDMIclaimretracted; Mozartpricecaptionconflict; Spasimproximitynotbrokenmultiplayer/tutorialnotpublished; HomeAlonefixed-timeboastnotuniqueworldrecord. Political/comic discussion remains attributed opinion and non-game context.
+
+Integration added explicit open-loop records for TigerWolf and Spasim, corrected79topicstrings to arrays, aligned68non-game record categories with alreadytypedspans, addedOtherMexclusion andsixlaunchcoremembers. Five lists now54entries; ordinals remainnull. Ranking spans unchanged: Mozart263/WiiSports260/Dokapon259 withTwilight/Veggie257/Cyber256near-tied; substantialWiiSports196/Advent186/Spasim132, not a decisive identical ordering.
+
+This is supplied-caption review, not independent historical/audio truth or perfect recall. All source-derived locators remain in the record, annotations, peer review and exact answer snapshots.

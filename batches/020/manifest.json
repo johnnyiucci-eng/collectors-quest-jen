@@ -1,0 +1,38 @@
+{
+  "schema_version": "0.1",
+  "created": "2026-09-14",
+  "status": "captured_text_review_complete",
+  "selection_basis": "Two-episode fresh-work throughput measurement; early lane after CQ218 singleton. No carried-over extraction.",
+  "budget": "Supplied public text only; no paid calls, private history, publication or persona change.",
+  "duplicate_controls": [],
+  "episodes": [
+    {
+      "key": "sc-257214294",
+      "episode_number": 25,
+      "title": "Episode 25 -NES Top 5",
+      "date": "2016-04-04",
+      "path": "episodes/cq-025-sc-257214294.md",
+      "source_url": "https://soundcloud.com/collectors-quest/episode-25-nes-top-5",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "words": 4483,
+      "sha256": "9280a0d32a0b846bd44d78962712a307e05593bd2ad3b751649fbd4887752525",
+      "reason": "Next two sequential early-lane episodes; user requested exactly two, not a timed batch.",
+      "status": "selected_not_processed",
+      "record_path": "records/sc-257214294.json"
+    },
+    {
+      "key": "sc-258414918",
+      "episode_number": 26,
+      "title": "Episode 26 - The Sega Master System",
+      "date": "2016-04-11",
+      "path": "episodes/cq-026-sc-258414918.md",
+      "source_url": "https://soundcloud.com/collectors-quest/episode-26-segamastersystem",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "words": 5649,
+      "sha256": "14bc787e8eb0b809b5ce9833e84ebfccc70e81195b89d6a765f167919a01f2ae",
+      "reason": "Next two sequential early-lane episodes; user requested exactly two, not a timed batch.",
+      "status": "selected_not_processed",
+      "record_path": "records/sc-258414918.json"
+    }
+  ]
+}

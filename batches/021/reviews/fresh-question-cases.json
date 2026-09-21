@@ -1,0 +1,91 @@
+{
+  "schema_version": "1",
+  "status": "source_informed_before_first_retrieval",
+  "created_utc": "2026-09-14T18:11:00Z",
+  "limits": "Frozen before extractor records. Source-informed tests become development on first use.",
+  "cases": [
+    {
+      "id": "cq102-fresh-refund",
+      "episode": 102,
+      "question": "Did Johnny return the Halloween and Texas Chainsaw Massacre double-ender after getting his money back?",
+      "expected": "No; refund was full despite requested20 of70; retained bootleg. 150 was another buyer.",
+      "required_windows": [
+        "Paragraph 32",
+        "Paragraph 33",
+        "Paragraph 34"
+      ],
+      "forbidden": [
+        "returned physical copy",
+        "Johnny paid150"
+      ]
+    },
+    {
+      "id": "cq102-fresh-bloodlines",
+      "episode": 102,
+      "question": "Did Johnny have all three Bloodlines packages on hand?",
+      "expected": "Initial yes corrected: clamshell not there yet.",
+      "required_windows": [
+        "Paragraph 23",
+        "Paragraph 24"
+      ],
+      "forbidden": [
+        "all three currently in hand"
+      ]
+    },
+    {
+      "id": "cq102-fresh-mexico",
+      "episode": 102,
+      "question": "Do they know why the alternate Zombies Ate My Neighbors box exists?",
+      "expected": "No; Majesco/licensing/regional explanations speculative.",
+      "required_windows": [
+        "Paragraph 39",
+        "Paragraph 40",
+        "Paragraph 41"
+      ],
+      "forbidden": [
+        "verified Mexico release origin"
+      ]
+    },
+    {
+      "id": "cq102-fresh-buys",
+      "episode": 102,
+      "question": "Did Tyler and Johnny pay the same amount for Elemental Master?",
+      "expected": "No Tyler225before15%;Johnny160before15%,lessnicecomplete.",
+      "required_windows": [
+        "Paragraph 50",
+        "Paragraph 55"
+      ],
+      "forbidden": [
+        "both paid225",
+        "Tyler paid160"
+      ]
+    },
+    {
+      "id": "cq102-fresh-list",
+      "episode": 102,
+      "question": "Is Castlevania III one of their eleven Halloween picks?",
+      "expected": "No explicit excluded though Johnny likes series; not exhaustive/bestlist.",
+      "required_windows": [
+        "Paragraph 1",
+        "Paragraph 3"
+      ],
+      "forbidden": [
+        "selectedCastlevaniaIII",
+        "dislikedCastlevaniaIII"
+      ]
+    },
+    {
+      "id": "cq102-fresh-variant",
+      "episode": 102,
+      "question": "Which Super Copa version did Tyler end up identifying?",
+      "expected": "Regular box described as North American after initial uncertainty, not independent regionverification.",
+      "required_windows": [
+        "Paragraph 52",
+        "Paragraph 53"
+      ],
+      "forbidden": [
+        "Platronicboxconfirmed"
+      ]
+    }
+  ]
+}

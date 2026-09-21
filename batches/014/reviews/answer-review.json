@@ -1,0 +1,1131 @@
+{
+  "schema_version": "1",
+  "reviewer": "Root coordinator: full-source and actual-prose review",
+  "scope": "All244 supplied source windows and52 actual answers read. Exact current snapshots, individual reasons; not audio or live certification.",
+  "cases": [
+    {
+      "id": "cq020-task-rank",
+      "episode": 20,
+      "question": "Which games dominated the interview, and was there a single third-place game?",
+      "query": "most discussed games Stadium Events Battleship Mega Man Urban Strike Chubby Cherub Castlevania Legends Super Metroid Fusion Zero Mission",
+      "answer": "Stadium Events leads with three meaningful paragraphs in this untimed map. Eight games tie at two: Battleship, Mega Man for Game Gear, Urban Strike, Chubby Cherub, Castlevania Legends, Super Metroid, Metroid Fusion and Zero Mission. There is no unique second- or third-place game. Much of this is acquisition, missing-component or collecting discussion rather than gameplay. Battleship's imagined future completion joke in Paragraph 43 does not earn another meaningful paragraph. Collection sets, sites, hardware, broad series and the ambiguous raw Sixth fragment are excluded; paragraph coverage is not minutes or a favorites ranking.",
+      "forbidden": [
+        "unique third place",
+        "precise speech minutes",
+        "site database is individual game",
+        "prominence means favorite"
+      ],
+      "evidence_locations": [
+        "Paragraph 35",
+        "Paragraph 36",
+        "Paragraph 37",
+        "Paragraph 39",
+        "Paragraph 41",
+        "Paragraph 42",
+        "Paragraph 43",
+        "Paragraph 50",
+        "Paragraph 51",
+        "Paragraph 52",
+        "Paragraph 53",
+        "Paragraph 54"
+      ],
+      "status": "passed",
+      "reason": "P35–54 source and independent union confirm Stadium3 and eight games2; Battleship P43 joke excluded and no unique third."
+    },
+    {
+      "id": "cq020-task-roster",
+      "episode": 20,
+      "question": "Who was interviewed, and is Kat's John the same person as the cohost?",
+      "query": "Dain Dane Anderson guest Kat Johnny John husband roster",
+      "answer": "The hosts are Kat and Johnny, interviewing Nintendo Age founder Dain Anderson, whose name appears as Dane and other variants in the captions. Kat's John is explicitly explained as her husband, not Johnny. Her shared collecting story belongs to that marriage, not a partnership with the cohost. Tyler is not a participant in this source.",
+      "forbidden": [
+        "Tyler guest",
+        "John equals Johnny",
+        "all first-person stories Dain"
+      ],
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 45",
+        "Paragraph 46"
+      ],
+      "status": "passed",
+      "reason": "Opening roster establishes Dain as guest with Kat/Johnny; partner John is not cohost or Tyler."
+    },
+    {
+      "id": "cq020-task-origin",
+      "episode": 20,
+      "question": "Why did the site take years to open after it was built?",
+      "query": "Nintendo Age 2001 five years confidence National Game Depot release",
+      "answer": "Dain says he and National Game Depot built the site around 2001 but he sat on it for about five years. He links the delay to low confidence and reluctance to invite Internet criticism; his collaborator eventually encouraged him to release it and improve it afterward. The approaching ten-year anniversary refers to the public site, not the beginning of development. His design rule is to build what he personally wants first, which he says helps sustain his enthusiasm. These are his retrospective explanations, not a diagnosis.",
+      "forbidden": [
+        "public launch2001",
+        "clinical diagnosis",
+        "all collectors same childhood"
+      ],
+      "evidence_locations": [
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 11",
+        "Paragraph 12",
+        "Paragraph 13"
+      ],
+      "status": "passed",
+      "reason": "P2–6 distinguish2001 development,2006 public launch and confidence/delay, not a falsely exact SegaAge date."
+    },
+    {
+      "id": "cq020-task-rename",
+      "episode": 20,
+      "question": "Had PlayStation Age already replaced the old site during this interview?",
+      "query": "PlayStation Collecting Age rename remaining share domain final touches",
+      "answer": "No completed rename is reported. Dain says he had co-owned PlayStation Collecting with its previous operator, bought the remaining share the prior year, and was making final touches for the PlayStation Age name, probably within the next few weeks. The domain and launch discussion is prospective. Sega Age's suggested 2010 start is not confidently confirmed by him either.",
+      "forbidden": [
+        "rename already live",
+        "domain secured definitely",
+        "precise Sega launch verified"
+      ],
+      "evidence_locations": [
+        "Paragraph 4",
+        "Paragraph 5"
+      ],
+      "status": "passed",
+      "reason": "P4–5 report prior acquisition of PlayStationCollecting and intended rename, not verified completed launch."
+    },
+    {
+      "id": "cq020-task-database",
+      "episode": 20,
+      "question": "Why didn't the Nintendo Age database contain every collecting detail?",
+      "query": "database forums variants organic Nintendo Canada list cardboard",
+      "answer": "Dain describes a moving target: each attempt to model variants uncovered another layer, so he leaned toward organic contributions. Johnny similarly limited his cardboard project to major variants instead of every packing detail. A requested all-region NES list from a Nintendo of Canada contact never arrived; that does not establish that no internal list existed. Dain says the forums contain more information than the database, so the two sources complement one another rather than either being exhaustive.",
+      "forbidden": [
+        "official company has no records proved",
+        "database exhaustive",
+        "all factory claims verified"
+      ],
+      "evidence_locations": [
+        "Paragraph 7",
+        "Paragraph 8",
+        "Paragraph 9",
+        "Paragraph 10",
+        "Paragraph 29",
+        "Paragraph 30"
+      ],
+      "status": "passed",
+      "reason": "P7–10 and29–30 distinguish catalog limits, variants and deeper forum knowledge; undelivered Nintendo list proves no absence."
+    },
+    {
+      "id": "cq020-task-community",
+      "episode": 20,
+      "question": "Did Dain see Instagram or Atari Age as enemies of Nintendo Age?",
+      "query": "Instagram Atari Age Digital Press hobby twenty friends",
+      "answer": "He describes competition for attention but not a war: he calls the site a hobby and says even 20 friends would make it worthwhile. Instagram's simple visual sharing and the forums' deeper accumulated knowledge serve different needs, and people can use both. Atari Age was an inspiration, not the same ownership umbrella, and Dain describes friendly relationships with other community operators. His comments describe the 2016 conversation, not current platform conditions.",
+      "forbidden": [
+        "same corporate owner",
+        "current site active",
+        "Instagram replaces all forum knowledge"
+      ],
+      "evidence_locations": [
+        "Paragraph 19",
+        "Paragraph 20",
+        "Paragraph 21",
+        "Paragraph 22",
+        "Paragraph 23",
+        "Paragraph 25",
+        "Paragraph 26"
+      ],
+      "status": "passed",
+      "reason": "P11–30 describe contacts, trades, feedback and social/forum complements, not perfect trust or platform war."
+    },
+    {
+      "id": "cq020-task-refocus",
+      "episode": 20,
+      "question": "Did Dain abandon NES collecting after completing other systems?",
+      "query": "Dain refocus NES Game Boy complete N64 Super Nintendo 85 Atari",
+      "answer": "He moved in the opposite direction: during the preceding two years he had been refocusing on NES because it made him happier. He reports having completed Game Boy, Game Boy Color and N64 sets, about 85% of Super Nintendo, just about every Sega set and an Atari 2600 collection fewer than 20 games short. Those are qualified historical scopes, not proof he still retained everything. NES is his beloved platform, while Game Boy was his most enjoyable collection to build; those statements address different kinds of enjoyment.",
+      "forbidden": [
+        "all Nintendo sets complete",
+        "all retained",
+        "GameBoy favorite play necessarily"
+      ],
+      "evidence_locations": [
+        "Paragraph 30",
+        "Paragraph 31",
+        "Paragraph 32",
+        "Paragraph 33",
+        "Paragraph 38"
+      ],
+      "status": "passed",
+      "reason": "P30–38 distinguish historical wide sets from later NES focus and enjoyment of GameBoy collecting."
+    },
+    {
+      "id": "cq020-task-boxes",
+      "episode": 20,
+      "question": "What made the supposedly common handheld sets difficult to finish?",
+      "query": "boxed Game Boy Color Rhino Rumble ISS 99 Nicktoons Racing Game Gear",
+      "answer": "The recurring distinction is carts versus boxes: plentiful cartridges do not make a boxed set easy. Dain names Rhino Rumble and ISS 99 among tough Game Boy Color boxes and says finding a Nicktoons Racing box took about five months. He mentions roughly ten difficult games but does not supply a complete ten-title list. Game Gear brings similar problems, including Urban Strike's box; Dain sold his set before obtaining that box. His under $10,000 Game Boy recollection is a historical total, not a current budget promise.",
+      "forbidden": [
+        "complete10title list",
+        "carts rare because boxesrare",
+        "present budget guaranteed"
+      ],
+      "evidence_locations": [
+        "Paragraph 32",
+        "Paragraph 33",
+        "Paragraph 34",
+        "Paragraph 35",
+        "Paragraph 36",
+        "Paragraph 37"
+      ],
+      "status": "passed",
+      "reason": "P34–37 supply three named difficult GBC boxes, unfinished GG Urban Strike box and uncertain raw Sixth, not a complete ten-title list."
+    },
+    {
+      "id": "cq020-task-stadium",
+      "episode": 20,
+      "question": "How did Dain finally get Stadium Events without paying cash for it?",
+      "query": "Dain Stadium Events traded Atari 2600 money favorite white whale",
+      "answer": "Dain says he traded his Atari 2600 collection for Stadium Events and the other party added money to the deal. He felt it cost him dearly in collecting terms and was not a good deal for him, but it let him obtain the game without spending cash. This completed his NES set as he defines it. Stadium Events is his physical favorite piece; his metaphorical favorite is whatever game is coming in the mail, not a named gameplay favorite.",
+      "forbidden": [
+        "paid cash purchase",
+        "sold Atari separately",
+        "exact monetary valuation",
+        "favorite gameplay"
+      ],
+      "evidence_locations": [
+        "Paragraph 40",
+        "Paragraph 41"
+      ],
+      "status": "passed",
+      "reason": "P41–42 explicitly put Atari collection outgoing and money incoming with Stadium Events, not cash-only purchase."
+    },
+    {
+      "id": "cq020-task-battleship",
+      "episode": 20,
+      "question": "Why was a cheap Battleship cartridge still keeping Johnny's NES set unfinished?",
+      "query": "Johnny Battleship box manual missing cart wild October Stadium Events675",
+      "answer": "Johnny says he discovered in October that his Battleship box had a manual but no cartridge. Despite later gaming spending, he had not bought the roughly $10 cart. He deliberately planned to wait for an incidental find in the wild instead of buying it on eBay. He was also missing Stadium Events, leaving his stated count at 675. The idea of owning Stadium Events while still missing Battleship is a joke or future scenario, not his current collection state.",
+      "forbidden": [
+        "Battleship already bought",
+        "missing box/manual",
+        "owns Stadium now",
+        "exact present marketprice"
+      ],
+      "evidence_locations": [
+        "Paragraph 41",
+        "Paragraph 42",
+        "Paragraph 43"
+      ],
+      "status": "passed",
+      "reason": "P41–43 state real missing cartridge despite box/manual, while imaginary676withoutBattleship is a joke."
+    },
+    {
+      "id": "cq020-task-graded",
+      "episode": 20,
+      "question": "Which expensive or graded NES pieces did the guest actually acquire?",
+      "query": "Dain Chubby Cherub Rare Gamer Girl Pinball90 Family Fun Fitness Athletic World graded",
+      "answer": "Dain reports buying a sealed Chubby Cherub that week from Rare Gamer Girl after seeing her listing, but gives no exact price. He plans to have it slabbed at VGA; that grading is not completed here. He also recalls picking up sealed Family Fun Fitness Athletic World a couple of years earlier and describes a recently acquired Pinball as uncirculated 90+. His total graded NES count is roughly 150, explicitly not an exact count, and the Bandai set remains almost done rather than complete.",
+      "forbidden": [
+        "Chubby cost10K",
+        "Chubby already graded",
+        "Bandai complete",
+        "externally authenticatedgrade"
+      ],
+      "evidence_locations": [
+        "Paragraph 39",
+        "Paragraph 40",
+        "Paragraph 50"
+      ],
+      "status": "passed",
+      "reason": "P39–40 distinguish bought sealed Chubby and planned grading, actual Pinball grade and approximate graded count."
+    },
+    {
+      "id": "cq020-task-pickups",
+      "episode": 20,
+      "question": "What did Kat and Johnny buy near the close, and which copies were complete?",
+      "query": "Kat Castlevania Legends N64 Johnny Star Fox competition cart Wildcats",
+      "answer": "Kat reports some unnamed common N64 purchases and Castlevania Legends for Game Boy, cart-only; she hopes the box and other pieces will come later and accepts that it might remain incomplete. Johnny bought and received the Star Fox competition cartridge about a week earlier, after a friend had long promised him the opportunity to get that childhood item. That old promise did not mean Johnny owned it then. He also got a complete Wildcats for Super Nintendo. The mortgage-default remark is joking emphasis, not a verified financial event.",
+      "forbidden": [
+        "Legends CIB",
+        "StarFox Johnny owned year",
+        "mortgage default actual",
+        "invent named N64titles"
+      ],
+      "evidence_locations": [
+        "Paragraph 50",
+        "Paragraph 51"
+      ],
+      "status": "passed",
+      "reason": "P50–51 distinguish Kat's Legends cart and intended components from Johnny's recent StarFox/Wildcats acquisitions."
+    },
+    {
+      "id": "cq020-task-play",
+      "episode": 20,
+      "question": "Were all the games in the closing favorites exchange Dain's current playthroughs?",
+      "query": "Paper Jam Serious Sam Portal 2 Super Metroid Fusion Zero Mission playing",
+      "answer": "No. Kat is early in Paper Jam and plans more play that day. Dain explicitly says he has been playing through Serious Sam shooters on Steam and prefers getting into action over long intros. Portal 2 and the Metroid games then draw overlapping favorite opinions. The first-person report of replaying Fusion and Zero Mission occurs in unlabelled alternating turns, so I would not confidently assign both replays to Dain or Johnny from these captions alone. Zero Mission's Wii U availability and roughly $7 figure are dated episode claims, not current store information.",
+      "forbidden": [
+        "Kat completed",
+        "Dain played every namedgame currently",
+        "exact replay actor certain",
+        "current eShopprice"
+      ],
+      "evidence_locations": [
+        "Paragraph 52",
+        "Paragraph 53",
+        "Paragraph 54"
+      ],
+      "status": "passed",
+      "reason": "P50–54 separate Kat's early Paper Jam, Dain's Serious Sam and uncertain Metroid replay actor; no unsupported completion."
+    },
+    {
+      "id": "cq020-task-motivations",
+      "episode": 20,
+      "question": "Did Kat agree that collecting was only about filling a childhood void?",
+      "query": "Kat John husband collecting memories Dain Johnny void balance Contra",
+      "answer": "She gives a different emphasis: collecting with her husband John and remembering their shared hunts is what she loves. Dain and Johnny describe more difficult personal roots and discuss keeping the hobby balanced, but that is not a diagnosis of every collector. Dain's 'go play Contra' line is a light reminder to enjoy games, not a report that he had just played it. The interview leaves room for different motivations.",
+      "forbidden": [
+        "all collectors trauma diagnosis",
+        "John cohost",
+        "Contra currentplay"
+      ],
+      "evidence_locations": [
+        "Paragraph 44",
+        "Paragraph 45",
+        "Paragraph 46",
+        "Paragraph 47",
+        "Paragraph 48",
+        "Paragraph 49"
+      ],
+      "status": "passed",
+      "reason": "P44–49 give different personal motives, including partner-hunting memories, not diagnoses or one universal cause."
+    },
+    {
+      "id": "cq020-task-interface",
+      "episode": 20,
+      "question": "What happened to the annoying corner mascot, and did they launch an Instagram page?",
+      "query": "Nintendo Age mascot icon vintage classic responsive Instagram public",
+      "answer": "The mascot question refers back to the vintage or classic site. Dain says the figure had already been removed before the responsive redesign, so the exchange does not establish a current toggle procedure. His initial statement that he was not on Instagram is qualified to not being there in a public capacity. The hosts propose a Nintendo Age page with moderator contributions and he says he probably should do it; no launch is reported.",
+      "forbidden": [
+        "current toggle instructions",
+        "no privateaccount exists",
+        "page launched"
+      ],
+      "evidence_locations": [
+        "Paragraph 54",
+        "Paragraph 55",
+        "Paragraph 56"
+      ],
+      "status": "passed",
+      "reason": "P55–56 retain mascot-removal history, uncertainty about current toggle and only proposed public Instagram."
+    },
+    {
+      "id": "cq087-task-rank",
+      "episode": 87,
+      "question": "Which games got the most meaningful discussion, accounting for editions and ties?",
+      "query": "Which games were discussed the most?",
+      "answer": "The Evil Within leads with five meaningful paragraphs. Seven underlying games tie next at three each: Nintendo World Championships, Stadium Events, Grind Stormer, Super Mario Bros. 3, 1-2-Switch, Sweet Home and Captain Toad. Mario 3 print/Challenge references and the NWC gray/gold references are unioned rather than counted as extra games. There is no unique second or third place by coverage. These are untimed paragraph unions including collecting discussion, not speech minutes, favorites or purchases; tools, packaging, pinball-like products, media and hypothetical games are excluded.",
+      "forbidden": [
+        "three Mario3 games counted independently",
+        "NWC gray/gold separate leaders",
+        "exact minutes",
+        "cleaner/tool game leader"
+      ],
+      "evidence_locations": [
+        "Paragraph 23",
+        "Paragraph 24",
+        "Paragraph 25",
+        "Paragraph 44",
+        "Paragraph 45",
+        "Paragraph 46",
+        "Paragraph 47",
+        "Paragraph 48",
+        "Paragraph 49",
+        "Paragraph 50",
+        "Paragraph 51",
+        "Paragraph 52",
+        "Paragraph 53",
+        "Paragraph 54",
+        "Paragraph 55",
+        "Paragraph 56",
+        "Paragraph 58",
+        "Paragraph 59",
+        "Paragraph 60",
+        "Paragraph 61"
+      ],
+      "status": "passed",
+      "reason": "Full61paragraph map and database union confirm EvilWithin5 and seven games3; editions unioned and no favorite inference."
+    },
+    {
+      "id": "cq087-task-insurance",
+      "episode": 87,
+      "question": "Did they establish that their collections were properly insured?",
+      "query": "insurance agent flood PS2 market value coverage limits",
+      "answer": "No. They describe confusing assurances, referrals and doubts about whether collection value would be paid. Johnny recalls a flood affecting about three PS2 games, while another collector Jason's reported market-value payout is a separate secondhand example. They explicitly say they are not insurance agents and urge explaining the collection's scope. This is their historical account, not a verified policy interpretation, a guarantee of reimbursement or advice about a current insurance product.",
+      "forbidden": [
+        "all games insured at market value",
+        "Jason payout independently verified",
+        "guaranteed insurance instructions",
+        "claims prove fraud"
+      ],
+      "evidence_locations": [
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5",
+        "Paragraph 6",
+        "Paragraph 7",
+        "Paragraph 8"
+      ],
+      "status": "passed",
+      "reason": "P3–6 give Johnny's flood and unresolved insurance question, not coverage guarantee or Jason's own loss."
+    },
+    {
+      "id": "cq087-task-cleaning",
+      "episode": 87,
+      "question": "What did they disagree about in cleaning, and is the Sharpie touch-up line serious?",
+      "query": "cleaning deoxyte Brasso Sharpie touch up magic eraser risks",
+      "answer": "Tyler favors the contact cleaner called deoxyte in the captions and objects to abrasive products; the technical explanation is explicitly not an engineer's verified account. He also distrusts Johnny's uncertain Sharpie-over-Sharpie removal method and says he uses isopropyl alcohol instead. Magic Eraser discussion includes a cartridge-texture abrasion warning. Most importantly, the suggestion to color worn black boxes with Sharpie is a joke that they return to reject. These are dated host practices and cautions, not independently validated chemical or conservation instructions.",
+      "forbidden": [
+        "recommend coloring box wear",
+        "chemistry independently verified",
+        "universal safe heat/solvent recipe",
+        "gold a superconductor"
+      ],
+      "evidence_locations": [
+        "Paragraph 17",
+        "Paragraph 18",
+        "Paragraph 25",
+        "Paragraph 26",
+        "Paragraph 27",
+        "Paragraph 28",
+        "Paragraph 29",
+        "Paragraph 30"
+      ],
+      "status": "passed",
+      "reason": "P16–30 retain disputed bits/conductive correction and explicit rejection of marker touch-up joke; not a safe recipe."
+    },
+    {
+      "id": "cq087-task-protection",
+      "episode": 87,
+      "question": "Did they agree every box protector was identical, and had Johnny protected all his SNES games?",
+      "query": "box protectors thickness bowing shelving SNES UV film",
+      "answer": "They disagree: Tyler says his different suppliers' protectors are effectively the same, while Johnny describes different thicknesses and bowing. They discuss scratches, crushing limits, glare and shelf-space tradeoffs rather than a tested best brand. Johnny bought shelving so he could protect all his SNES games, but still needed to rearrange things; the goal was not complete. Both report UV window film, with Tyler's approximate $15 for two windows separate from Johnny's additional wooden blinds. None of those remarks validates a product's preservation performance.",
+      "forbidden": [
+        "all SNES already protected",
+        "best brand proven",
+        "UV performance guarantee",
+        "Tyler bought Johnny blinds"
+      ],
+      "evidence_locations": [
+        "Paragraph 10",
+        "Paragraph 11",
+        "Paragraph 12",
+        "Paragraph 13",
+        "Paragraph 14",
+        "Paragraph 15"
+      ],
+      "status": "passed",
+      "reason": "P7–15/30–32 preserve protector-thickness disagreement, actual UV claims, shelves and condition motives without verification."
+    },
+    {
+      "id": "cq087-task-nwc",
+      "episode": 87,
+      "question": "Why did they argue about Stadium Events and Nintendo World Championships, and did anyone buy Lizard?",
+      "query": "Stadium Events NWC gray gold Lizard rare limited hypothetical",
+      "answer": "Tyler values Nintendo World Championships as a historical artifact, while Johnny stresses Stadium Events' place in the licensed NES set. They also disagree about gray versus gold NWC. Tyler's claim that he would never buy Stadium Events is qualified by the idea of having millions to spare. Lizard's reportedly 100-copy, $45 limited edition is used as a sarcastic rarity comparison; the limited run is said to be sold out while the regular edition remains available. No host buying Lizard or restoring an NWC label is established.",
+      "forbidden": [
+        "Tyler ordered Lizard",
+        "NWC label actually glued",
+        "current verified print run or price",
+        "same collecting preference"
+      ],
+      "evidence_locations": [
+        "Paragraph 23",
+        "Paragraph 24",
+        "Paragraph 25"
+      ],
+      "status": "passed",
+      "reason": "P18–22 separate NWC gray/gold device context and union underlying game; homebrew descriptor remains unresolved."
+    },
+    {
+      "id": "cq087-task-manuals",
+      "episode": 87,
+      "question": "Did Tyler get his Cowlitz game or the Chiki Chiki Boys manual?",
+      "query": "Cowlitz Gamer Adventure payment send Chicky Chicky Boys manual sold",
+      "answer": "Neither delivery is established. Tyler asks for a Chiki Chiki Boys manual, and Johnny says he sold that game's insert and manual about a month earlier—not necessarily a cartridge. Johnny still has roughly seventy Genesis manuals and offers a later video call to see what Tyler needs. The raw Cowlitz Gamer Adventure item is still waiting to be sent; Johnny says he has not yet asked for payment and apologizes. Keep its exact title/edition uncertain, and do not mark the exchange paid, shipped or received.",
+      "forbidden": [
+        "Tyler received Cowlitz",
+        "payment completed",
+        "Johnny sold cartridge",
+        "all70 manuals transferred"
+      ],
+      "evidence_locations": [
+        "Paragraph 33",
+        "Paragraph 34"
+      ],
+      "status": "passed",
+      "reason": "P33–34 preserve Cowlitz unshipped/unpaid and offered manuals, not deliveries or game sales."
+    },
+    {
+      "id": "cq087-task-printer",
+      "episode": 87,
+      "question": "What did Tyler actually make, and was box pressing described as a miracle fix?",
+      "query": "3D printer Saturn hinge Analogue insert microphone heat press Crusader",
+      "answer": "He reports making display stands, a Saturn replacement hinge, an Analogue Nt slot insert and a microphone knob using his inexpensive 3D printer. The microphone example is explicitly outside gaming. Separately he owns a heat press and says he pressed a Crusader of Centy box, but rejects the claim that pressing turns a decent box into a top-grade one. They describe limited improvement for poor boxes and acknowledge risk. That is an account of his interventions, not a verified safe recipe or a restoration of original factory parts.",
+      "forbidden": [
+        "original factory hinge",
+        "safe settings guarantee",
+        "all box conditions improve",
+        "Johnny printed these"
+      ],
+      "evidence_locations": [
+        "Paragraph 34",
+        "Paragraph 35",
+        "Paragraph 36",
+        "Paragraph 37"
+      ],
+      "status": "passed",
+      "reason": "P34–36 distinguish actual printed accessories from original hardware, resale proof or completed unrelated repairs."
+    },
+    {
+      "id": "cq087-task-atari",
+      "episode": 87,
+      "question": "Which four Atari games did Johnny say he owned, and did Tyler win the double-ender?",
+      "query": "four Atari Custer Revenge beat eat pitfall haunted house Kaboom Burning Desire",
+      "answer": "Johnny names Custer's Revenge, Beat 'Em & Eat 'Em, Pitfall and Haunted House. Pitfall and Haunted House are his childhood favorites; the two adult titles are collecting amusements, not newly reported play sessions. He says he does not have Kaboom. An unlabelled speaker says he lost the Burning Desire/Bachelorette Party auction, so that is not an acquisition; the captions do not securely identify Johnny or Tyler as the bidder. The double-ender is a compilation-style cartridge discussion, and their proposed two-games-one-cart episode is still only an idea.",
+      "forbidden": [
+        "Tyler won/bought double-ender",
+        "Johnny owns Kaboom",
+        "allfour current play",
+        "new episode already recorded"
+      ],
+      "evidence_locations": [
+        "Paragraph 37",
+        "Paragraph 38"
+      ],
+      "status": "passed",
+      "reason": "P37–38 name Johnny's four Atari games and two childhood favorites; lost double-ender bidder is unknown."
+    },
+    {
+      "id": "cq087-task-discs",
+      "episode": 87,
+      "question": "What happened to Star Control II, and were they against every kind of repair?",
+      "query": "Star Control 2 freeze resurfaced Mortal Kombat back Little Samson",
+      "answer": "Tyler bought an already-resurfaced Star Control II disc that still froze at one conversation. No later fix is reported; burning another disc is discussed as a hypothetical workaround. They distinguish cosmetic resurfacing from making a nonworking disc usable, without verifying disc-rot claims. Tyler also reports replacing a damaged Mortal Kombat II duplicate's back, while valuing originality more in Little Samson. Johnny's Little Samson rental stickers produce another disagreement: he likes them and their history, but they are not proof of authenticity.",
+      "forbidden": [
+        "disc repaired",
+        "resurfacing causes rot proven",
+        "all repairs rejected",
+        "rental sticker proves authentic"
+      ],
+      "evidence_locations": [
+        "Paragraph 38",
+        "Paragraph 39",
+        "Paragraph 40",
+        "Paragraph 41",
+        "Paragraph 42"
+      ],
+      "status": "passed",
+      "reason": "P39–42 preserve unresolved Star Control resurfacing freeze, counterexamples to no-repair and Little Samson provenance preferences."
+    },
+    {
+      "id": "cq087-task-purchases",
+      "episode": 87,
+      "question": "Which new purchases were theirs, and why was Johnny annoyed about BattleSport?",
+      "query": "Stack Up Grindstormer R-Type Challenge Sunday Operation Battle Sport Children Atom",
+      "answer": "Tyler reports boxed Stack-Up, Grind Stormer, R-Type III, Challenge of the Dragon, Sunday Funday and Operation Secret Storm. He says his Grind Stormer chip was swapped so it works; Johnny separately says he owns an original copy. Johnny bought X-Men: Children of the Atom and BattleSport on PlayStation, plus unspecified other games and a Star Wars collectible identified with Darth Vader and Grand Moff Tarkin. BattleSport cost about $30, below a $50 promotion minimum: the disappointment is about the offer, not a gameplay verdict. Tyler's roughly $200 future eBay credit has not yet become another purchase.",
+      "forbidden": [
+        "BattleSport played and disliked",
+        "Johnny swapped Grindstormer",
+        "future credit already spent",
+        "Star Wars videogame purchase"
+      ],
+      "evidence_locations": [
+        "Paragraph 43",
+        "Paragraph 44",
+        "Paragraph 45",
+        "Paragraph 46",
+        "Paragraph 47"
+      ],
+      "status": "passed",
+      "reason": "P43–46 distinguish both hosts' actual buys, donor-chip Grind Stormer, future eBay Bucks and BattleSport promo frustration, not play review."
+    },
+    {
+      "id": "cq087-task-mario",
+      "episode": 87,
+      "question": "Which Mario 3 version did Johnny finally get, and what did Tyler still want?",
+      "query": "Mario 3 first print second challenge edition ratio condition",
+      "answer": "Johnny finally obtained a good-condition first-print copy. He already had the second print and Challenge edition, and says he keeps Challenge in the system box. Tyler asks him to look for a nice Challenge copy, but no transfer occurs. The first-print scarcity estimate moves between roughly ten-to-one and twenty-to-one, with a distinction between looking at carts and looking at boxes; those observations are not a verified print-run ratio. Johnny's claim to own them all is scoped to the variants discussed, not every worldwide Mario 3 release.",
+      "forbidden": [
+        "exact verified20:1",
+        "allworldwide variants",
+        "Tyler acquired challenge",
+        "allthree new purchases"
+      ],
+      "evidence_locations": [
+        "Paragraph 47",
+        "Paragraph 48",
+        "Paragraph 49"
+      ],
+      "status": "passed",
+      "reason": "P47–48 distinguish Johnny's first/second/Challenge copies and Tyler's want; ratios are uncertain cartridge/box observations."
+    },
+    {
+      "id": "cq087-task-sweet",
+      "episode": 87,
+      "question": "Who actually finished Sweet Home, and how did that compare with Galactic Attack and 1-2-Switch?",
+      "query": "Sweet Home beat Johnny didn't Galactic Attack credits mother 1 2 Switch",
+      "answer": "Tyler explicitly finished Sweet Home; Johnny says he played a good portion but did not beat it. Tyler likes the horror ideas but finds the repeated RPG battles and backtracking frustrating, so completion is not an unqualified endorsement. His Galactic Attack goal is a four-credit clear, with his current run still around seven credits. He also played 1-2-Switch with his visiting mother, who enjoyed it much more than he did; her retirement-home remark is not an actual purchase or installation there.",
+      "forbidden": [
+        "both completedSweet",
+        "four-credit clear achieved",
+        "retirement home bought game",
+        "Tyler now loves1-2"
+      ],
+      "evidence_locations": [
+        "Paragraph 49",
+        "Paragraph 50",
+        "Paragraph 51",
+        "Paragraph 55"
+      ],
+      "status": "passed",
+      "reason": "P49–51 distinguish Tyler's completed Sweet Home and Johnny's not-yet-finished experience; Galactic credits are a goal."
+    },
+    {
+      "id": "cq087-task-evil",
+      "episode": 87,
+      "question": "Did Johnny finish both Evil Within games, and why did the first break his immersion?",
+      "query": "Evil Within 2 first beat last night gotcha loading screens",
+      "answer": "He bought both but only reports finishing the first, on Xbox One, the previous night. The sequel is something he will probably play next. The first game's opening felt trope-heavy to him, but his opinion improved to an okay C+/B appraisal. His main criticism is the combination of surprise deaths and loading delays: repeated retries make him annoyed rather than tense. The discussion compares fast cartridge-game retries and Sweet Home's random battles; it does not give measured loading benchmarks or establish sequel completion.",
+      "forbidden": [
+        "EvilWithin2played/completed",
+        "allloads exactlyfourminutes",
+        "PS4 purchase",
+        "universally scariest game"
+      ],
+      "evidence_locations": [
+        "Paragraph 52",
+        "Paragraph 53",
+        "Paragraph 54",
+        "Paragraph 55",
+        "Paragraph 56"
+      ],
+      "status": "passed",
+      "reason": "P52–56 distinguish finished EvilWithin1 from bought/unplayed sequel, subjective difficulty/load criticism and no benchmark."
+    },
+    {
+      "id": "cq087-task-ports",
+      "episode": 87,
+      "question": "Was Tyler simply against Nintendo porting games, and was the new Smash confirmed to be a Wii U port?",
+      "query": "Nintendo ports Smash Wii U Captain Toad new levels sequel",
+      "answer": "Tyler repeatedly says ports are good for access but still wants new games or levels. Johnny argues that a Captain Toad port can introduce more players before a sequel; Tyler would rather have the sequel now. 'Captain Toad's Switch Adventure' is an invented name in that argument, not an announced game. They are excited about Smash and the inklings, but the Wii U port or handheld-blend possibilities are speculation at this point. Nothing here establishes the later final product identity.",
+      "forbidden": [
+        "Tyler opposes allports",
+        "confirmed SmashWiiUport",
+        "announced CaptainToad2",
+        "Detective Pikachu definitely game notamiibo"
+      ],
+      "evidence_locations": [
+        "Paragraph 57",
+        "Paragraph 58",
+        "Paragraph 59",
+        "Paragraph 60",
+        "Paragraph 61"
+      ],
+      "status": "passed",
+      "reason": "P57–61 distinguish welcome access from desire for new levels; Captain Toad sequel and Smash format are hypothetical/uncertain."
+    },
+    {
+      "id": "cq087-task-vr",
+      "episode": 87,
+      "question": "Why did Resident Evil 7 in VR feel different to Johnny, and had they bought new VR hardware?",
+      "query": "Resident Evil 7 VR dark room PT buy again",
+      "answer": "Johnny describes the headset making the room's darkness feel physically immediate, with sounds behind him, rather than simply watching an armed character in a dark room. He found that tense even though he did not love Resident Evil 7 overall. P.T. is raised as the sort of sustained horror experience they wish had become a full game. Their comments about buying VR when it is good enough, including Johnny's 'again', remain future interest—not a new hardware purchase or proof of a particular prior sale.",
+      "forbidden": [
+        "new headset purchased",
+        "RE7 favorite",
+        "PT fullgame released",
+        "Tyler playedRE7VR"
+      ],
+      "evidence_locations": [
+        "Paragraph 56",
+        "Paragraph 57"
+      ],
+      "status": "passed",
+      "reason": "P55–61 preserve past VR disposal, renewed desire and RE7 tension without new purchase or invented hardware outcomes."
+    },
+    {
+      "id": "cq213-scope",
+      "episode": 213,
+      "question": "Were all the items in this episode really mail-order exclusives?",
+      "query": "Were all the items in this episode really mail-order exclusives?",
+      "answer": "No. It is a nonexhaustive set of mail-order stories. Some Atari catalog games later reached stores; the Jurassic dinosaur packs were ordinary retail toys; Warhammer’s variable figure could be obtained at a shop; and Power Strike’s alleged later Toys R Us release is explicitly unverified. Cereal-packed games are a separate category. The safe answer preserves each item’s distribution history instead of applying one exclusive label to everything.",
+      "forbidden": [
+        "Do not call every item permanently mail-only.",
+        "Do not certify the ToysRUs story.",
+        "Do not treat pack-ins as mail-order offers."
+      ],
+      "evidence_locations": [
+        "00:07:24",
+        "00:08:28",
+        "00:12:47",
+        "00:20:10",
+        "00:21:15",
+        "00:52:19",
+        "00:53:21",
+        "01:03:09",
+        "01:21:02"
+      ],
+      "status": "passed",
+      "reason": "7:24/8:28 and explicit Jurassic20:10/Warhammer1:21:02 retail exceptions qualify nonexhaustive mail-order scope; PowerStrike retail claim unverified."
+    },
+    {
+      "id": "cq213-birthday",
+      "episode": 213,
+      "question": "Why did Johnny think Birthday Mania was so cool, and do its personalized copies count as different games?",
+      "query": "Why did Johnny think Birthday Mania was so cool, and do its personalized copies count as different games?",
+      "answer": "The cartridge’s ROM displayed the recipient’s name and the label could be personalized too. Johnny imagines loving that as a child even if the game itself were weak. Both hosts treat differently named copies as variants of one game. Tyler’s tiny production/known-copy figures are expressly old and uncertain, and Johnny says he does not own it.",
+      "forbidden": [
+        "Do not claim ten verified surviving copies.",
+        "Do not mark Johnny as owner.",
+        "Do not split each recipient into a separate game."
+      ],
+      "evidence_locations": [
+        "00:12:47",
+        "00:13:47",
+        "00:14:49",
+        "00:15:51",
+        "00:16:57"
+      ],
+      "status": "passed",
+      "reason": "12:47–16:57 support personalized ROM/label, one-game variant treatment and unknown population/nonownership."
+    },
+    {
+      "id": "cq213-chuckwagon",
+      "episode": 213,
+      "question": "Was Chase the Chuck Wagon actually the holy grail, and what did Tyler pay?",
+      "query": "Was Chase the Chuck Wagon actually the holy grail, and what did Tyler pay?",
+      "answer": "They say the Purina dog-food UPC story helped create a much stronger rarity reputation than later visible supply justified. Tyler still likes that history but dislikes the maze game. He recalls paying under $100 for his cartridge a few years earlier; the much higher CIB and cartridge figures discussed around it are other market estimates, not his purchase price.",
+      "forbidden": [
+        "Do not call it the rarest Atari game.",
+        "Do not assign CIB prices to his loose cartridge.",
+        "Do not treat the auction website as the game."
+      ],
+      "evidence_locations": [
+        "00:22:16",
+        "00:23:21",
+        "00:24:23",
+        "00:25:29",
+        "00:26:34"
+      ],
+      "status": "passed",
+      "reason": "22:16–26:34 distinguish rarity reputation, disliked gameplay and Tyler's under100 loose purchase from CIB estimates."
+    },
+    {
+      "id": "cq213-jurassic",
+      "episode": 213,
+      "question": "What was the Jurassic Park mail-away toy, and was it exclusive?",
+      "query": "What was the Jurassic Park mail-away toy, and was it exclusive?",
+      "answer": "The SNES Jurassic Park Part 2 manual offered a dinosaur two-pack with its included cards for shipping and handling. These were also retail toys, not an exclusive figure invented for the game. Different pairs had different cards; the T-Rex illustration does not prove which pack a customer received. Johnny later confirms he bought the toys, but does not identify his exact pair.",
+      "forbidden": [
+        "Do not give the GameBoy version the same offer without evidence.",
+        "Do not guarantee T-Rex selection.",
+        "Do not say two cards were an extra separate bonus."
+      ],
+      "evidence_locations": [
+        "00:16:57",
+        "00:18:05",
+        "00:19:07",
+        "00:20:10",
+        "00:21:15",
+        "01:50:41"
+      ],
+      "status": "passed",
+      "reason": "16:57–21:15 and1:50:41 identify SNES offer, ordinary two-packs/cards and Johnny's actual toys, not exact pair or GB offer."
+    },
+    {
+      "id": "cq213-allstars",
+      "episode": 213,
+      "question": "How did the Super Mario All-Stars mail offer differ from a bundled game?",
+      "query": "How did the Super Mario All-Stars mail offer differ from a bundled game?",
+      "answer": "It was an offer attached to existing SNES packages or available through certificates, distinct from the Super Mario World/Super Mario Kart bundle Tyler owns and the All-Stars-plus-World compilation. They read requirements including a qualifying receipt, UPC, certificate and $3.50 shipping. They identify different sticker/certificate designs, but do not establish the original mailing envelope or a reliable production count.",
+      "forbidden": [
+        "Do not merge AllStars and AllStars-plus-World.",
+        "Do not say every blue sticker had to be peeled.",
+        "Do not repeat1,000–5,000 as verified production."
+      ],
+      "evidence_locations": [
+        "00:26:34",
+        "00:27:36",
+        "00:28:41",
+        "00:29:44",
+        "00:30:50",
+        "00:31:54",
+        "00:32:56"
+      ],
+      "status": "passed",
+      "reason": "26:34–32:56 distinguish redemption certificates, sticker variants and separate compilations; mailer/count unverified."
+    },
+    {
+      "id": "cq213-videolife",
+      "episode": 213,
+      "question": "Why was Video Life a double mail-order item, and did Scott get the auction copy?",
+      "query": "Why was Video Life a double mail-order item, and did Scott get the auction copy?",
+      "answer": "The hosts say buyers of the Magicard programming tool were offered the chance to order Video Life separately. Video Life is a Conway-style cellular automaton, not an ordinary action game. Tyler remembers a nice 2021 copy selling around $3,000–4,000 after he predicted much more, and says Scott’s higher planned snipe failed. That does not establish a purchase or Scott’s current ownership.",
+      "forbidden": [
+        "Do not classify Magicard as a conventional game.",
+        "Do not say Scott won.",
+        "Do not certify the vanished auction’s exact price."
+      ],
+      "evidence_locations": [
+        "00:32:56",
+        "00:34:02",
+        "00:35:06",
+        "00:36:12",
+        "00:37:19"
+      ],
+      "status": "passed",
+      "reason": "32:56–37:19 distinguish utility and separate offer, approximate2021 price and Scott's failed planned snipe."
+    },
+    {
+      "id": "cq213-skylanders",
+      "episode": 213,
+      "question": "Did the episode prove that nobody still collects Skylanders?",
+      "query": "Did the episode prove that nobody still collects Skylanders?",
+      "answer": "No. Tyler starts with a skeptical long-term prediction about individual figures, but browsing reveals active Reddit posts and recent videos. He acknowledges his feed may have hidden that community. Johnny argues the nostalgia cohort has not yet reached its peak collecting age. Neither future outcome is proved, and Tyler specifically excludes boxed console bundles from his claim.",
+      "forbidden": [
+        "Do not turn prediction into fact.",
+        "Do not say all skepticism was fully retracted.",
+        "Do not equate console-bundle demand with every loose figure."
+      ],
+      "evidence_locations": [
+        "00:40:36",
+        "00:41:38",
+        "00:42:44",
+        "00:43:49",
+        "00:44:51",
+        "00:45:54",
+        "00:46:55",
+        "00:48:00"
+      ],
+      "status": "passed",
+      "reason": "40:36–48:00 retain initial forecast, discovered active community and limited concession, not proven future demand."
+    },
+    {
+      "id": "cq213-sidekicks",
+      "episode": 213,
+      "question": "Which Skylanders did Johnny actually get for his wife?",
+      "query": "Which Skylanders did Johnny actually get for his wife?",
+      "answer": "He says he redeemed Frito-Lay UPCs for four sidekicks for his wife and later confirms she still has four. He does not know which base colors she has. Barkley’s initial-set status is reconsidered mid-conversation, and the other rare promotional figures and prices are research examples—not proof that Johnny's wife owns them.",
+      "forbidden": [
+        "Do not assign every promotional figure to Johnny's wife.",
+        "Do not resolve base colors from price listings.",
+        "Do not state a confident Barkley chronology."
+      ],
+      "evidence_locations": [
+        "00:37:19",
+        "00:38:25",
+        "00:39:30",
+        "00:40:36",
+        "00:42:44",
+        "00:48:00"
+      ],
+      "status": "passed",
+      "reason": "37:19–48:00 confirm four for Johnny's wife, unknown colors and reconsidered Barkley set membership; name not supplied here."
+    },
+    {
+      "id": "cq213-powerstrike",
+      "episode": 213,
+      "question": "Why did Tyler favor Power Strike over Buster Douglas, and did he finally get it?",
+      "query": "Why did Tyler favor Power Strike over Buster Douglas, and did he finally get it?",
+      "answer": "He prefers Power Strike’s fast, enjoyable shooting to the rarity prestige of a boxing game he dislikes. He distinguishes the US blue-and-white cover from the PAL color version and does not establish the PAL release as mail-only. He confirms eventually getting a copy after declining Johnny’s earlier $50 offer; the later price is not stated. The Toys R Us distribution story remains qualified as unverified.",
+      "forbidden": [
+        "Do not say he accepted the earlier50offer.",
+        "Do not claim permanent exclusivity.",
+        "Do not treat suggested price reversals as current valuations."
+      ],
+      "evidence_locations": [
+        "00:49:05",
+        "00:50:10",
+        "00:51:15",
+        "00:52:19",
+        "00:53:21",
+        "00:54:29",
+        "00:55:35"
+      ],
+      "status": "passed",
+      "reason": "49:05–55:35 distinguish game preference, US/PAL cover contexts, rejected50offer and later obtained copy."
+    },
+    {
+      "id": "cq213-watch",
+      "episode": 213,
+      "question": "Was the Ninja Gaiden watch a special branded watch, and what happened to Tyler’s Mario watch?",
+      "query": "Was the Ninja Gaiden watch a special branded watch, and what happened to Tyler’s Mario watch?",
+      "answer": "The Tecmo insert turns out to offer a generic Casio G-Shock, not a custom Ninja Gaiden-branded model. Tyler plans to look for it after the show, with no purchase outcome here. Separately, he once owned a complete Super Mario World LCD watch and got rid of it in high school. Those are different objects and different action states.",
+      "forbidden": [
+        "Do not call the Casio Nintendo-branded.",
+        "Do not mark the planned search as a completed buy.",
+        "Do not claim a definite sale method for the old watch."
+      ],
+      "evidence_locations": [
+        "00:57:44",
+        "00:58:50",
+        "00:59:53"
+      ],
+      "status": "passed",
+      "reason": "57:44–59:53 distinguish generic G-Shock future hunt from formerly owned Mario LCD watch; no custom branding or transaction method."
+    },
+    {
+      "id": "cq213-cereal",
+      "episode": 213,
+      "question": "Did Tyler collect every Nintendo cereal box he discovered?",
+      "query": "Did Tyler collect every Nintendo cereal box he discovered?",
+      "answer": "No. He describes owning a Star Fox Frosted Mini-Wheats box, finding additional Nintendo variants while searching, and realizing the category was deeper than he wanted to pursue. He says he no longer buys cereal boxes. Discovery and saved searches do not prove he acquired all the later variants, and cereal-pack-in PC games such as Chex Quest are explicitly a different collecting category.",
+      "forbidden": [
+        "Do not create three owned boxes from three discoveries.",
+        "Do not treat ChexQuest as a mail-order exclusive."
+      ],
+      "evidence_locations": [
+        "01:00:59",
+        "01:02:04",
+        "01:03:09"
+      ],
+      "status": "passed",
+      "reason": "1:00:59–1:03:09 distinguish one owned cereal box from other discoveries/saved searches and separate pack-in category."
+    },
+    {
+      "id": "cq213-faria",
+      "episode": 213,
+      "question": "What makes a Faria copy complete if the owner mailed away for the map?",
+      "query": "What makes a Faria copy complete if the owner mailed away for the map?",
+      "answer": "The map offer is on page 33, the last manual page, rather than a separate sheet. Cutting it out can leave an incomplete manual even if the owner obtained the map; they also like the story a matched cut manual and map could tell. Johnny wants the map but has not bought it at the prices he sees. Their appreciation of provenance does not erase the completeness tradeoff.",
+      "forbidden": [
+        "Do not invent a separate required offer insert.",
+        "Do not mark Johnny as map owner.",
+        "Do not say all surviving maps have their original matching manual."
+      ],
+      "evidence_locations": [
+        "01:07:18",
+        "01:08:20",
+        "01:09:23",
+        "01:10:27",
+        "01:11:33",
+        "01:12:36"
+      ],
+      "status": "passed",
+      "reason": "1:07:18–1:12:36 identify manualP33 offer, cut-page completeness cost and Johnny's still-wanted map."
+    },
+    {
+      "id": "cq213-pager",
+      "episode": 213,
+      "question": "What was special about the Rockstar pager, and did GTA really lack the sticker?",
+      "query": "What was special about the Rockstar pager, and did GTA really lack the sticker?",
+      "answer": "The offer described a Motorola pager with a Rockstar logo and promotional messages, not just any generic pager. N64 and Game Boy Color offer inserts differ in size. Earlier they say GTA GBC lacks the pager sticker; Johnny later checks his recently acquired box and corrects that—it does have the sticker. A surviving pager with old cheat-code messages is only an imagined desirable artifact, not something they found.",
+      "forbidden": [
+        "Do not keep the retracted no-sticker claim as final.",
+        "Do not equate generic Motorola units with branded ones.",
+        "Do not claim messages were preserved on a host-owned pager."
+      ],
+      "evidence_locations": [
+        "01:13:42",
+        "01:14:45",
+        "01:15:46",
+        "01:16:46",
+        "01:17:52",
+        "01:51:45"
+      ],
+      "status": "passed",
+      "reason": "1:13:42–1:17:52 and1:51:45 preserve branded pager and late sticker correction, not found historic messages."
+    },
+    {
+      "id": "cq213-gauntlet",
+      "episode": 213,
+      "question": "Were the Gauntlet mail-away miniatures the same as the N64 figure bundle?",
+      "query": "Were the Gauntlet mail-away miniatures the same as the N64 figure bundle?",
+      "answer": "No. The PS1 and Dreamcast offers led to packs usually containing several miniatures, with actual lineups varying from the printed names. The N64 bundle included its own exclusive warrior figure. The later graded and ungraded price comparisons concern that bundled variant, not every common sealed Gauntlet Legends copy and not a purchase by either host.",
+      "forbidden": [
+        "Do not promise a fixed pack lineup.",
+        "Do not merge Legends with DarkLegacy.",
+        "Do not treat asking prices as completed sales."
+      ],
+      "evidence_locations": [
+        "01:18:56",
+        "01:19:59",
+        "01:23:09",
+        "01:24:13",
+        "01:25:18",
+        "01:26:25"
+      ],
+      "status": "passed",
+      "reason": "1:18:56–1:26:25 distinguish variable mail miniatures from N64 bundle and listing/graded comparisons from host buys."
+    },
+    {
+      "id": "cq213-warhammer",
+      "episode": 213,
+      "question": "What should a collector check on Warhammer Dark Omen and Thousand Arms?",
+      "query": "What should a collector check on Warhammer Dark Omen and Thousand Arms?",
+      "answer": "For Warhammer, the offer sticker is on the jewel case and can disappear in a case swap; a separate insert offers a variable Citadel figure obtainable by mail or at a shop. Thousand Arms has ordinary pack-ins plus a separate multimedia soundtrack/screensaver CD offer, supplied in a cardboard sleeve. Johnny later says he bought that CD. Neither offer proves a unique mail-only toy or an extra included game disc.",
+      "forbidden": [
+        "Do not put the Warhammer offer only in the manual.",
+        "Do not classify the multimedia CD as a second game.",
+        "Do not infer a unique fixed figure."
+      ],
+      "evidence_locations": [
+        "01:19:59",
+        "01:21:02",
+        "01:22:08",
+        "01:50:41"
+      ],
+      "status": "passed",
+      "reason": "1:19:59–1:22:08 and1:50:41 distinguish case-sticker/shop offer and separately acquired multimedia CD from ordinary pack-ins."
+    },
+    {
+      "id": "cq213-preserve",
+      "episode": 213,
+      "question": "Where did Tyler suggest preserving an obscure game, and did they actually upload one?",
+      "query": "Where did Tyler suggest preserving an obscure game, and did they actually upload one?",
+      "answer": "He points to scanning.guide, dumping.guide and the Video Game Preservation Collective as starting places, then favors Internet Archive for discoverability despite its loose organization. He notes that dumping tools change. Dungeons of Doom is an illustrative upload description, not a game dumped or uploaded in this episode. These are dated suggestions, not a current technical or legal verification.",
+      "forbidden": [
+        "Do not claim an upload occurred.",
+        "Do not treat dated tool opinions as current verified advice.",
+        "Do not infer permission to publish unrelated material."
+      ],
+      "evidence_locations": [
+        "01:29:36",
+        "01:30:42",
+        "01:31:45",
+        "01:32:50"
+      ],
+      "status": "passed",
+      "reason": "1:29:36–1:32:50 are dated preservation suggestions and hypothetical upload, not performed work or current technical/legal advice."
+    },
+    {
+      "id": "cq213-lottery",
+      "episode": 213,
+      "question": "Would unlimited money make them collect the same way?",
+      "query": "Would unlimited money make them collect the same way?",
+      "answer": "They disagree. Tyler values the hunt and wonders whether effortless acquisition would remove the satisfaction of a rare saved-search deal; he imagines narrowing toward extraordinary rarities and perhaps publishing researched catalogs. Johnny wants help acquiring, documenting and displaying a broad collection in a museum-like space. All of the staff, purchases and catalogs are hypothetical, not funded or started projects.",
+      "forbidden": [
+        "Do not mark any collection purchased or person hired.",
+        "Do not treat imagined NFT/AI/catalog work as an implementation request.",
+        "Do not claim the hosts agree about what creates happiness."
+      ],
+      "evidence_locations": [
+        "01:33:53",
+        "01:34:59",
+        "01:36:02",
+        "01:37:04",
+        "01:38:07",
+        "01:41:09",
+        "01:42:10",
+        "01:44:18",
+        "01:45:23",
+        "01:46:28",
+        "01:47:31",
+        "01:48:32",
+        "01:49:37"
+      ],
+      "status": "passed",
+      "reason": "1:33:53–1:49:37 explicitly remain lottery hypotheticals and disagreement about hunting versus documentation/display."
+    },
+    {
+      "id": "cq213-familybasic",
+      "episode": 213,
+      "question": "Why did Tyler get Family BASIC V3, and was there really no version2?",
+      "query": "Why did Tyler get Family BASIC V3, and was there really no version2?",
+      "answer": "He bought the programming utility because it includes a small Mario World minigame with platforms, ladders and apples. That is distinct from the SNES Super Mario World game. The editorial outro corrects the earlier numbering assumption: the original Family BASIC was version 2.1, followed by V3. The guest-Mario tangent does not mean Tyler also bought NBA Street Vol. 3.",
+      "forbidden": [
+        "Do not call FamilyBASIC an ordinary Mario sequel.",
+        "Do not keep no-version2 as the final fact.",
+        "Do not infer guest-character collection purchases."
+      ],
+      "evidence_locations": [
+        "01:52:50",
+        "01:53:55",
+        "01:55:02",
+        "02:07:49",
+        "02:08:52"
+      ],
+      "status": "passed",
+      "reason": "1:52:50–1:55:02 and2:07:49–2:08:52 distinguish V3utility/minigame from SNESWorld and correct originalversion2.1."
+    },
+    {
+      "id": "cq213-popeye",
+      "episode": 213,
+      "question": "What mattered about Tyler’s Popeye English pickup?",
+      "query": "What mattered about Tyler’s Popeye English pickup?",
+      "answer": "He reports acquiring the Famicom English-learning game and emphasizes a secondary word insert that not every copy retains. He does not say he understands the game’s mechanics or give a price. The discussion about why Popeye was popular and Miyamoto’s possible role is speculative, not a verified development history.",
+      "forbidden": [
+        "Do not assign a verified price.",
+        "Do not turn development speculation into fact.",
+        "Do not assume every copy includes the insert."
+      ],
+      "evidence_locations": [
+        "01:55:02",
+        "01:56:05",
+        "01:57:11"
+      ],
+      "status": "passed",
+      "reason": "1:55:02–1:57:11 support acquired English-learning Popeye and extra word insert; mechanics/price/development not established."
+    },
+    {
+      "id": "cq213-exercise",
+      "episode": 213,
+      "question": "Why did Tyler buy exercise NFTs if he expected to lose money?",
+      "query": "Why did Tyler buy exercise NFTs if he expected to lose money?",
+      "answer": "He wanted a simple walking RPG with progression and rewards, but disliked Pokémon GO’s busywork and did not want Zombies, Run! audio competing with his audiobooks. He says he knowingly bought NFTs in an already-collapsed, unnamed exercise game so walking would return something without ever recouping the expense. He reports six miles that day and explicitly tells listeners not to copy him. It is a personal experiment, not evidence of financial or health effectiveness.",
+      "forbidden": [
+        "Do not identify the withheld game.",
+        "Do not recommend the investment.",
+        "Do not claim a profit or verified health outcome."
+      ],
+      "evidence_locations": [
+        "01:58:17",
+        "02:01:24",
+        "02:02:31",
+        "02:03:38",
+        "02:04:40",
+        "02:05:47"
+      ],
+      "status": "passed",
+      "reason": "1:58:17–2:05:47 preserve unnamed experiment, actual NFT buy/six-mile report and don't-copy warning without profit/health claim."
+    },
+    {
+      "id": "cq213-peach",
+      "episode": 213,
+      "question": "Which Peach-playable claim did they correct at the end?",
+      "query": "Which Peach-playable claim did they correct at the end?",
+      "answer": "They retract Super Mario 64 DS after suggesting it. They name Super Princess Peach, Super Mario Bros. 2, Mario Super Sluggers and the Mario Party/Mario Kart series, while NBA Street Vol. 3’s Mario/Luigi/Peach team is specifically the GameCube version. The quoted 61-game video count is not an audited complete list, and the Soulcalibur-with-Link number remains an earlier uncertain guess.",
+      "forbidden": [
+        "Do not list Peach as playable inMario64DS.",
+        "Do not apply the Nintendo guests to every NBA platform.",
+        "Do not silently fix the guessed Soulcalibur number as source fact."
+      ],
+      "evidence_locations": [
+        "01:53:55",
+        "01:55:02",
+        "02:05:47",
+        "02:06:49"
+      ],
+      "status": "passed",
+      "reason": "1:53:55–1:55:02 and2:05:47–2:06:49 correct Mario64DS and qualify GameCube guest team/examples, not verified61game list."
+    },
+    {
+      "id": "cq213-pickups",
+      "episode": 213,
+      "question": "Which mail-order-related things did Johnny really buy, and what was still pending?",
+      "query": "Which mail-order-related things did Johnny really buy, and what was still pending?",
+      "answer": "Near the end he confirms buying the Jurassic dinosaur toys and the Thousand Arms multimedia CD, and says the toys inspired the episode. He also bought a Switch Attack on Titan reissue, but the caption does not establish the exact installment. Other unnamed items had not arrived. His Last of Us play was a short refresh before the TV premiere, not a newly completed run.",
+      "forbidden": [
+        "Do not assign the pending items names or receipt.",
+        "Do not force a particular AttackOnTitan sequel.",
+        "Do not mark LastOfUs completed again."
+      ],
+      "evidence_locations": [
+        "01:49:37",
+        "01:50:41",
+        "01:51:45"
+      ],
+      "status": "passed",
+      "reason": "1:49:37–1:51:45 confirm toys/CD/reissue purchase, unnamed pending goods and short LastOfUs refresh, not newly completed run."
+    }
+  ]
+}

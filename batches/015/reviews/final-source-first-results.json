@@ -1,0 +1,188 @@
+{
+  "windows": 9,
+  "total": 20,
+  "passed": 20,
+  "no_title_windows": 1,
+  "results": [
+    {
+      "id": "cq21-sample-Paragraph7-1",
+      "episode": 21,
+      "location": "Paragraph 7",
+      "title": "Tonic Trouble continuing N64 discussion",
+      "spans": [
+        "cq021-span-001-5"
+      ]
+    },
+    {
+      "id": "cq21-sample-Paragraph14-1",
+      "episode": 21,
+      "location": "Paragraph 14",
+      "title": "Tonic Trouble raw conic trouble",
+      "spans": [
+        "cq021-span-001-10"
+      ]
+    },
+    {
+      "id": "cq21-sample-Paragraph14-2",
+      "episode": 21,
+      "location": "Paragraph 14",
+      "title": "Mario & Luigi: Paper Jam",
+      "spans": [
+        "cq021-span-019-1"
+      ]
+    },
+    {
+      "id": "cq21-sample-Paragraph14-3",
+      "episode": 21,
+      "location": "Paragraph 14",
+      "title": "Mario & Luigi series",
+      "spans": [
+        "cq021-span-020-1"
+      ]
+    },
+    {
+      "id": "cq21-sample-Paragraph14-4",
+      "episode": 21,
+      "location": "Paragraph 14",
+      "title": "Mario & Luigi: Dream Team",
+      "spans": [
+        "cq021-span-021-1"
+      ]
+    },
+    {
+      "id": "cq21-sample-Paragraph14-5",
+      "episode": 21,
+      "location": "Paragraph 14",
+      "title": "Paper Mario: Sticker Star",
+      "spans": [
+        "cq021-span-022-1"
+      ]
+    },
+    {
+      "id": "cq88-sample-Paragraph9-1",
+      "episode": 88,
+      "location": "Paragraph 9",
+      "title": "Thimbleweed Park continuing Switch edition discussion",
+      "spans": [
+        "cq088-span-014-5"
+      ]
+    },
+    {
+      "id": "cq88-sample-Paragraph9-2",
+      "episode": 88,
+      "location": "Paragraph 9",
+      "title": "Nurse Love Addiction med kit edition",
+      "spans": [
+        "cq088-span-020-3"
+      ]
+    },
+    {
+      "id": "cq88-sample-Paragraph18-1",
+      "episode": 88,
+      "location": "Paragraph 18",
+      "title": "Nurse Love Addiction title-based joke",
+      "spans": [
+        "cq088-span-020-11"
+      ]
+    },
+    {
+      "id": "cq88-sample-Paragraph26-1",
+      "episode": 88,
+      "location": "Paragraph 26",
+      "title": "Dragonshard",
+      "spans": [
+        "cq088-span-033-2"
+      ]
+    },
+    {
+      "id": "cq88-sample-Paragraph26-2",
+      "episode": 88,
+      "location": "Paragraph 26",
+      "title": "Desperate Housewives game context; exact release not supplied",
+      "spans": [
+        "cq088-span-035-1"
+      ]
+    },
+    {
+      "id": "cq214-sample-00:44:46-1",
+      "episode": 214,
+      "location": "00:44:46",
+      "title": "Super Mario Bros. collectible print versions",
+      "spans": [
+        "cq214-span-048-4"
+      ]
+    },
+    {
+      "id": "cq214-sample-00:44:46-2",
+      "episode": 214,
+      "location": "00:44:46",
+      "title": "World of Warcraft",
+      "spans": [
+        "cq214-span-010-2"
+      ]
+    },
+    {
+      "id": "cq214-sample-00:44:46-3",
+      "episode": 214,
+      "location": "00:44:46",
+      "title": "EverQuest",
+      "spans": [
+        "cq214-span-011-2"
+      ]
+    },
+    {
+      "id": "cq214-sample-01:30:30-1",
+      "episode": 214,
+      "location": "01:30:30",
+      "title": "Resident Evil original game and platform packaging",
+      "spans": [
+        "cq214-span-107-4"
+      ]
+    },
+    {
+      "id": "cq214-sample-01:30:30-2",
+      "episode": 214,
+      "location": "01:30:30",
+      "title": "Resident Evil 2",
+      "spans": [
+        "cq214-span-110-3"
+      ]
+    },
+    {
+      "id": "cq214-sample-01:30:30-3",
+      "episode": 214,
+      "location": "01:30:30",
+      "title": "Silent Hill",
+      "spans": [
+        "cq214-span-116-1"
+      ]
+    },
+    {
+      "id": "cq214-sample-02:16:26-1",
+      "episode": 214,
+      "location": "02:16:26",
+      "title": "StarCraft original/series scope qualified by context",
+      "spans": [
+        "cq214-span-169-3"
+      ]
+    },
+    {
+      "id": "cq214-sample-02:16:26-2",
+      "episode": 214,
+      "location": "02:16:26",
+      "title": "Warcraft unspecified comparison",
+      "spans": [
+        "cq214-span-185-1"
+      ]
+    },
+    {
+      "id": "cq214-sample-02:16:26-3",
+      "episode": 214,
+      "location": "02:16:26",
+      "title": "Command & Conquer unspecified comparison",
+      "spans": [
+        "cq214-span-186-1"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+# Batch010 verification
+
+Three episodes; 54,097 source words; 254 source windows; 368 reference buckets; 736 typed spans; 231 action claims. The local database contains 644 structured search rows plus 254 passages. Exact evidence: 1,251 record plus 1,357 fragment proofs = 2,608. Frozen sample: 11/11 across nine windows, with four explicit no-title windows. Tuned queries: 38/38; manual actual answers: 38/38; fresh wordings: 12/12 after an initial 10/12. Original full questions initially retrieved 36/38 required evidence sets: collector origin and compilation corrections missed windows. The earlier 38/38 original-wording label conflated tuned queries with originals and is corrected here; the initial diagnostic is preserved separately. Shared regressions: 163/163 passed during this integration.
+
+Original wording subsequently passes 38/38 without changing questions, answers or required windows. Generic collector-origin routing now includes reviewed historical-origin records; correction questions search the correction kind explicitly. Both initial and final diagnostics are retained. These are development retrieval results, not blind answer accuracy or precision scores.
+
+Full source/brief reviews, genuine failure history and per-source limitations remain in reviewed inputs. Each of 24 mandatory checks is individually recorded; exact input binding must validate in the final gate. Later code changes still require database freshness checks. No paid calls, publication, private imports or persona activation.

@@ -1,0 +1,52 @@
+{
+  "schema_version": "0.1",
+  "created": "2026-09-13",
+  "status": "captured_text_review_complete",
+  "selection_basis": "Era-varied sequential continuation in the ongoing two-hour work session; not answer-key driven.",
+  "budget": "Local public transcript processing only; no paid services, publication or persona changes.",
+  "episodes": [
+    {
+      "key": "sc-239520041",
+      "episode_number": 12,
+      "title": "Episode 12 - Happy New Year",
+      "date": "2015-12-29",
+      "path": "episodes/cq-012-sc-239520041.md",
+      "source_url": "https://soundcloud.com/collectors-quest/collectors-quest-episode-12-happy-new-year",
+      "words": 9636,
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "reason": "Era-varied sequential continuation within lane",
+      "status": "extracted_draft",
+      "record_path": "records/sc-239520041.json"
+    },
+    {
+      "key": "sc-355496906",
+      "episode_number": 79,
+      "title": "Episode 79 - Holiday Price Spike and Dip",
+      "date": "2017-11-14",
+      "path": "episodes/cq-079-sc-355496906.md",
+      "source_url": "https://soundcloud.com/collectors-quest/episode-79-holiday-price-spike-and-dip",
+      "words": 6041,
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "sha256": "1f9e9bab8fdff43b62a6c84a6af5531f5dae8d6e8440467d998d3babd8f12022",
+      "reason": "Era-varied sequential continuation within lane",
+      "status": "extracted_draft",
+      "record_path": "records/sc-355496906.json"
+    },
+    {
+      "key": "sc-1360671826",
+      "episode_number": 205,
+      "title": "CQ 205 - Too Many Horror Movie Games from the '70s to '90s",
+      "date": "2022-10-11",
+      "path": "episodes/cq-205-sc-1360671826.md",
+      "source_url": "https://soundcloud.com/collectors-quest/cq-205-too-many-horror-movie-games-from-the-70s-to-90s",
+      "words": 34639,
+      "timing": "YouTube caption timestamps",
+      "sha256": "de30cbc3b2f0c8e3691dfbad2f4aafb9339b80bb861e12d7c0a82cc986976842",
+      "reason": "Era-varied sequential continuation within lane",
+      "status": "extracted_draft",
+      "record_path": "records/sc-1360671826.json"
+    }
+  ],
+  "duplicate_controls": []
+}

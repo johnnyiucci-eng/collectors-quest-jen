@@ -1,0 +1,4403 @@
+{
+  "schema_version": "0.1",
+  "extraction_version": "manual-codex-2026-09-12-v1",
+  "source": {
+    "key": "sc-1316628157",
+    "episode_number": 200,
+    "title": "CQ 200 - The History of Our Collecting Goals",
+    "date": "2022-08-02",
+    "path": "episodes/cq-200-sc-1316628157.md",
+    "words": 34607,
+    "source_url": "https://soundcloud.com/collectors-quest/cq-200-the-history-of-our-collecting-goals",
+    "timing": "YouTube caption timestamps",
+    "sha256": "054403ac8ed130e4057eb18a329c216b48b2b9106f395e58701fb54f5f2e27c0"
+  },
+  "review": {
+    "status": "extracted_draft",
+    "read_coverage": "All 162 supplied transcript windows read consecutively through closing.",
+    "omission_review": "pending",
+    "audio_verification": "not_performed",
+    "independent_review": "pending",
+    "transcript_limit": "Captured transcript completeness does not establish recognition accuracy or exact attribution.",
+    "timing": "Window-start timestamps are navigation locations, not precise utterance times.",
+    "elapsed_model_time": null,
+    "subscription_usage": null
+  },
+  "participants": [
+    {
+      "name": "Tyler",
+      "confidence": "high",
+      "evidence": [
+        {
+          "location": "00:00:00",
+          "quote": "[Music] [Applause] [Music] [Applause] [Music] hey welcome back to another episode of collector's Quest I'm Tyler here with Johnny and Stephan guys 200 episodes that Johnny's been on 200 Spees woo wow that was really our celebration for uh being one of the most regular game collecting podcasts of all time you know who else is really regular on this podcast Tyler"
+        }
+      ]
+    },
+    {
+      "name": "Johnny",
+      "confidence": "high",
+      "evidence": [
+        {
+          "location": "00:00:00",
+          "quote": "[Music] [Applause] [Music] [Applause] [Music] hey welcome back to another episode of collector's Quest I'm Tyler here with Johnny and Stephan guys 200 episodes that Johnny's been on 200 Spees woo wow that was really our celebration for uh being one of the most regular game collecting podcasts of all time you know who else is really regular on this podcast Tyler"
+        }
+      ]
+    },
+    {
+      "name": "Stefan",
+      "confidence": "high",
+      "evidence": [
+        {
+          "location": "00:00:00",
+          "quote": "[Music] [Applause] [Music] [Applause] [Music] hey welcome back to another episode of collector's Quest I'm Tyler here with Johnny and Stephan guys 200 episodes that Johnny's been on 200 Spees woo wow that was really our celebration for uh being one of the most regular game collecting podcasts of all time you know who else is really regular on this podcast Tyler"
+        }
+      ]
+    }
+  ],
+  "main_topic": "200 episodes: changing collecting goals and host histories",
+  "secondary_topics": [
+    "collecting goals",
+    "host history",
+    "set collecting",
+    "Nintendo Power art",
+    "podcast production",
+    "buying and playing"
+  ],
+  "games": [
+    {
+      "id": "cq200-g001",
+      "canonical_title": null,
+      "spoken_forms": [
+        "Ultimate beach volleyball"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Unresolved GBA difficult-set example.",
+          "evidence": [
+            {
+              "location": "00:14:55",
+              "quote": "volleyball game or whatever that game is Ultimate beach volleyball is that it I feel like GBA was really at the like when entertainment at large like all got together and decided that like video games was just a like regular piece of their marketing push for whatever thing that they were"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g002",
+      "canonical_title": "Indiana Jones and the Temple of Doom",
+      "spoken_forms": [
+        "temple of doom"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Same title can identify different games.",
+          "evidence": [
+            {
+              "location": "00:15:59",
+              "quote": "finding that but they're like yeah if it's got the same title it doesn't count and you're just like you don't understand that same title doesn't mean same so what they looked at like temple of doom on NES and they're like this is one video game yep I mean what are they going to do they're guis they're not going to get into the Nuance of all this [ __ ] they don't Ian they don't care about right they need to sell some"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g003",
+      "canonical_title": "Chip 'n Dale Rescue Rangers",
+      "spoken_forms": [
+        "Rescue Rangers"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Tyler's familiar fallback before enjoying challenge.",
+          "evidence": [
+            {
+              "location": "00:20:12",
+              "quote": "effort into playing games so if I played one of these games and like I couldn't beat like the second level the first time I would just shut it off and be like oh this game this game sucks I'm going to go back to playing Rescue Rangers and like my my mindset has completely flipped on that now like now I want a game where I could sit down and I have to memorize things and get good at it but basically if I couldn't beat a game the first time I sat down and"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g004",
+      "canonical_title": "Mike Tyson's Punch-Out!!",
+      "spoken_forms": [
+        "Mike Tyson's punch out"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Tyler intends to overcome the difficulty wall.",
+          "evidence": [
+            {
+              "location": "00:21:14",
+              "quote": "into like the late 90s and 2000s and I'd say that's pretty common if you're really not going to put in effort into like an NES game there are plenty of games where it's like oh I can't beat this game I feel that way with Mike Tyson's punch out now and yes it's still on my list I'm going to play it this year I'm going to try to beat it this year but the reason I had Haven beat it is cuz I hit the difficulty wall and it's like [ __ ] I can't beat this game um and"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g005",
+      "canonical_title": "DuckTales",
+      "spoken_forms": [
+        "DuckTales"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Not beaten as a teen despite perceived low difficulty.",
+          "evidence": [
+            {
+              "location": "00:22:17",
+              "quote": "especially on nest because there's so many game overs to be offered I know I know so I literally like even like DuckTales I didn't beat DuckTales when I was a teenager because DuckTales is an easy game but it's not like uh I'm going to put this in and beat it for the first time like like a Wacky Races or something game sorry if you can't beat"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g006",
+      "canonical_title": "Wacky Races",
+      "spoken_forms": [
+        "Wacky Races"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Easy-game comparison.",
+          "evidence": [
+            {
+              "location": "00:22:17",
+              "quote": "know I know so I literally like even like DuckTales I didn't beat DuckTales when I was a teenager because DuckTales is an easy game but it's not like uh I'm going to put this in and beat it for the first time like like a Wacky Races or something game sorry if you can't beat Wacky Races the first time you put it in but that's my example uh minus five subscribers uh so after after getting into NES I mean it was it was basically just loose NES cartridges"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g007",
+      "canonical_title": "Stadium Events",
+      "spoken_forms": [
+        "Stadium events"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "High-rarity-list anchor.",
+          "evidence": [
+            {
+              "location": "00:22:17",
+              "quote": "games by Rarity especially like the Nintendo well when Nintendo age became a thing or the digit press Rarity Guide and like once you got to like an R seven so it was a one to 10 scale one being balls common 10 being like Stadium events and like once you got to an R seven that's a pretty uncommon game like"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g008",
+      "canonical_title": "Gargoyle's Quest II",
+      "spoken_forms": [
+        "gargoyle's Quest 2"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Example of a rarity tier.",
+          "evidence": [
+            {
+              "location": "00:23:21",
+              "quote": "I I don't know gargoyle's Quest 2 might be like an R seven type game uh or Cowboy kid might be like an R seven R8 type game game and so I was I was loading up on my $1 and $2 games I worked at Burger King making like $7 an hour uh so I I mean you know $7"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g009",
+      "canonical_title": "Cowboy Kid",
+      "spoken_forms": [
+        "cowboy kid"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Tyler remembers a $5 purchase motivated by rarity.",
+          "evidence": [
+            {
+              "location": "00:23:21",
+              "quote": "I I don't know gargoyle's Quest 2 might be like an R seven type game uh or Cowboy kid might be like an R seven R8 type game game and so I was I was loading up on my $1 and $2 games I worked at Burger King making like $7 an hour uh so I I mean you know $7 an hour if you're working part-time you could pick"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g010",
+      "canonical_title": "Super Mario Bros. / Duck Hunt",
+      "spoken_forms": [
+        "Mario duck hunt"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "NES bundle resale example.",
+          "evidence": [
+            {
+              "location": "00:25:30",
+              "quote": "be so much easier to sell cuz like putting throwing in like an extra controller throwing in a zapper cost nothing like a zapper what is that like $3 so I just get zappers I would get two controllers and he put a copy of Mario duck hunt you could put that [ __ ] up for like $60 and someone would buy it and this was also at the time where I would put in like the shitty Chinese new uh 72 pins in these consoles and I would call them refurbished not realizing"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g011",
+      "canonical_title": "Contra",
+      "spoken_forms": [
+        "Contra"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Profitable resale title.",
+          "evidence": [
+            {
+              "location": "00:26:33",
+              "quote": "because the [ __ ] the the hardware is genuinely crap or if like your game is dirty or if like whatever it's it's it's just all it's all crapshoot um yeah and I was at this time I was definitely uh looking for games like Contra uh Tyson's punch out and Super techmo Bowl be or Techo Super Bowl because I could go out literally every Saturday and I would find one of those Johnny and those were worth [ __ ] $20 cart only also this time $20 for a cartridge"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g012",
+      "canonical_title": "Tecmo Super Bowl",
+      "spoken_forms": [
+        "Techo Super Bowl"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Title order corrected during resale discussion.",
+          "evidence": [
+            {
+              "location": "00:26:33",
+              "quote": "if like your game is dirty or if like whatever it's it's it's just all it's all crapshoot um yeah and I was at this time I was definitely uh looking for games like Contra uh Tyson's punch out and Super techmo Bowl be or Techo Super Bowl because I could go out literally every Saturday and I would find one of those Johnny and those were worth [ __ ] $20 cart only also this time $20 for a cartridge it was like free money it was"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g013",
+      "canonical_title": "Tetris",
+      "spoken_forms": [
+        "Tetris"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Arbitrary cross-game ranking anecdote.",
+          "evidence": [
+            {
+              "location": "00:28:39",
+              "quote": "important video game that's ever come out and like rank them all I had a list of every I made a list of every game I played and I ranked them all from best to worst so I'd play a game and I'd be like oh is this better than Tetris but worse than Metal Gear Solid 2 I don't know uh it was a it was a crazy and stupid time in my life but uh I so glad you were like that because I was the same really weird just like writing down paper list and just being"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g014",
+      "canonical_title": "Metal Gear Solid 2",
+      "spoken_forms": [
+        "Metal Gear Solid 2"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Ranking example and cheap used game.",
+          "evidence": [
+            {
+              "location": "00:28:39",
+              "quote": "that's ever come out and like rank them all I had a list of every I made a list of every game I played and I ranked them all from best to worst so I'd play a game and I'd be like oh is this better than Tetris but worse than Metal Gear Solid 2 I don't know uh it was a it was a crazy and stupid time in my life but uh I so glad you were like that because I was the same really weird just like writing down paper list and just being like let's see why would I rank"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g015",
+      "canonical_title": "Pong",
+      "spoken_forms": [
+        "pong"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Arcade",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Incomparable games were ranked anyway.",
+          "evidence": [
+            {
+              "location": "00:28:39",
+              "quote": "I rank this thing because I'm a [ __ ] Maniac where were my list going like I did this with TV shows and movies too I'm like who is this for who why am I doing this insane person like completely incomparable games like pong like I've played like actual pong arcade cabinets so pong was somewhere on that list and then above pong would be like Iden Chronicles on N64 it's like how did I decide that this is the order this makes no sense um like"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g016",
+      "canonical_title": "Aidyn Chronicles: The First Mage",
+      "spoken_forms": [
+        "Iden Chronicles"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "N64",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Ranked above Pong in an old personal list.",
+          "evidence": [
+            {
+              "location": "00:28:39",
+              "quote": "like who is this for who why am I doing this insane person like completely incomparable games like pong like I've played like actual pong arcade cabinets so pong was somewhere on that list and then above pong would be like Iden Chronicles on N64 it's like how did I decide that this is the order this makes no sense um like no this seems right I think I've I think I've nailed"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g017",
+      "canonical_title": "Metroid Prime",
+      "spoken_forms": [
+        "Metroid Prime"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "GameCube",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Cheap GameStop used-game example.",
+          "evidence": [
+            {
+              "location": "00:29:40",
+              "quote": "you know like a dozen consoles that actually mattered at this point and so I wanted everything I'm like what if I just got every video game and GameStop was selling older disc games for like $3 to5 like good stuff like Metroid Prime middle Gear Solid 2 like kns of the Old Republic you can get this stuff for nothing cuz after a game was a couple years old people didn't want it anymore and now uh now it's like the last of us is just coming out again for"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g018",
+      "canonical_title": "Star Wars: Knights of the Old Republic",
+      "spoken_forms": [
+        "kns of the Old Republic"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Xbox",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Cheap used-game example.",
+          "evidence": [
+            {
+              "location": "00:29:40",
+              "quote": "actually mattered at this point and so I wanted everything I'm like what if I just got every video game and GameStop was selling older disc games for like $3 to5 like good stuff like Metroid Prime middle Gear Solid 2 like kns of the Old Republic you can get this stuff for nothing cuz after a game was a couple years old people didn't want it anymore and now uh now it's like the last of us is just coming out again for 60 and I don't I don't want to get off on a tangent"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g019",
+      "canonical_title": "The Last of Us",
+      "spoken_forms": [
+        "last of us"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Reissue price contrasted with the earlier market.",
+          "evidence": [
+            {
+              "location": "00:29:40",
+              "quote": "to5 like good stuff like Metroid Prime middle Gear Solid 2 like kns of the Old Republic you can get this stuff for nothing cuz after a game was a couple years old people didn't want it anymore and now uh now it's like the last of us is just coming out again for 60 and I don't I don't want to get off on a tangent on that but people did not care about older games in this era so I I I was loading up on everything uh it was uh my life was a disaster it"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g020",
+      "canonical_title": "Hurricanes",
+      "spoken_forms": [
+        "hurricanes on Super Nintendo"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "SNES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "A notable item in Tyler's mixed-condition collection.",
+          "evidence": [
+            {
+              "location": "00:30:44",
+              "quote": "but I thought it was the coolest guy I had I think I had like 1500 games at this point and I thought it was the coolest [ __ ] guy I was like holy [ __ ] I have 1500 video games and you know it's I had some I think I had hurricanes on Super Nintendo that was a cool one but like I didn't have anything good it was just like garbage I did that for a long time uh and then in like 2012 or so I took a break uh from game collecting cuz I was getting into competitive pinball"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g021",
+      "canonical_title": "OutRun 2",
+      "spoken_forms": [
+        "outrun 2"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Arcade",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Tyler's possible favorite arcade game, preferred retrospectively.",
+          "evidence": [
+            {
+              "location": "00:31:48",
+              "quote": "arcade games in my 600 foot apartment we're going to have to be very choosy about we want so what are we going to get we're going to get outrun 2 which is maybe my favorite arcade game of all time time and we're going to get like maybe a dance machine like a a pump it up and then like I I don't know a Twilight 400 square ft yeah that's what's 500 square how I mean"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g022",
+      "canonical_title": "Pump It Up",
+      "spoken_forms": [
+        "Pump It Up"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Arcade",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Tyler overpaid for an aging local cabinet.",
+          "evidence": [
+            {
+              "location": "00:31:48",
+              "quote": "we're going to have to be very choosy about we want so what are we going to get we're going to get outrun 2 which is maybe my favorite arcade game of all time time and we're going to get like maybe a dance machine like a a pump it up and then like I I don't know a Twilight 400 square ft yeah that's what's 500 square how I mean I I already had resigned myself that like I was going to be living in arcade games because my apartment was so small but that's"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g023",
+      "canonical_title": "Silent Scope",
+      "spoken_forms": [
+        "silent scope"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Arcade",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Bought and played once; poor use of space.",
+          "evidence": [
+            {
+              "location": "00:32:49",
+              "quote": "that I bought I played once and I never played it ever again and that game is [ __ ] huge it's it's so big and I have no room in my apartment I have this silent scope machine that I've played once because silent scope isn't a replayable game and I just didn't I did not consider what would be a fun arcade game to actually own and you know I I wonder if people buying these arcade oneup"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g024",
+      "canonical_title": "Area 51",
+      "spoken_forms": [
+        "Area 51"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Arcade",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Available at auction; purchase not explicitly stated.",
+          "evidence": [
+            {
+              "location": "00:31:48",
+              "quote": "the arcade could not believe that I was paying as much as I did it was like $1,500 for this piece of [ __ ] and uh like I went to the arcade auction and they had games like games that I knew for sale like silent scope and Area 51 and going into arcade collecting now like silent scope is literally a game"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g025",
+      "canonical_title": "The Simpsons",
+      "spoken_forms": [
+        "The Simpsons"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Arcade",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Nostalgic arcade experiences may not mean replayable home ownership.",
+          "evidence": [
+            {
+              "location": "00:32:49",
+              "quote": "replayable game and I just didn't I did not consider what would be a fun arcade game to actually own and you know I I wonder if people buying these arcade oneup uh machines do the same thing cuz I see a game like uh like The Simpsons or Turtles in Time and my best memories of playing something like The Simpsons I was at the arcade uh in the '90s at like a friend's birthday party we would quarter feed our way through to the end we didn't care how good"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g026",
+      "canonical_title": "Teenage Mutant Ninja Turtles: Turtles in Time",
+      "spoken_forms": [
+        "Turtles in Time"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Arcade",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Arcade1Up replayability example.",
+          "evidence": [
+            {
+              "location": "00:32:49",
+              "quote": "and I just didn't I did not consider what would be a fun arcade game to actually own and you know I I wonder if people buying these arcade oneup uh machines do the same thing cuz I see a game like uh like The Simpsons or Turtles in Time and my best memories of playing something like The Simpsons I was at the arcade uh in the '90s at like a friend's birthday party we would quarter feed our way through to the end we didn't care how good we were and then I"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g027",
+      "canonical_title": "Super Mario Bros. 3",
+      "spoken_forms": [
+        "Super Mario Brothers 3"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Remembered $6 cartridge price contributes to later FOMO.",
+          "evidence": [
+            {
+              "location": "00:34:59",
+              "quote": "worst it was like The Apocalypse of video games cuz it's the first time that prices really started Rising a lot uh and so I came in and I went straight into the fomo because I was panicking because it's like I'm so used to Super Mario Brothers 3 being a $6 game and it never changed the entire time I collected it was just like yeah Mario 3 it's a $6 cartridge it it's stable just like little Samson was the thing we used for stability for a long time uh and then all"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g028",
+      "canonical_title": "Little Samson",
+      "spoken_forms": [
+        "little Samson"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Earlier stable-price comparison.",
+          "evidence": [
+            {
+              "location": "00:34:59",
+              "quote": "because I was panicking because it's like I'm so used to Super Mario Brothers 3 being a $6 game and it never changed the entire time I collected it was just like yeah Mario 3 it's a $6 cartridge it it's stable just like little Samson was the thing we used for stability for a long time uh and then all of a sudden everything is double and triple what it used to be in 2016 so I I just immediately got into the mindset of oh my God prices are going up and"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g029",
+      "canonical_title": "Doom",
+      "spoken_forms": [
+        "doom"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Historically important purchase.",
+          "evidence": [
+            {
+              "location": "00:37:04",
+              "quote": "want on N64 and GameCube eventually and what if I care about sealed games at once uh so I spent a year buying all the sealed video games and all the uh historically important video games that were important to me so uh doom and I got a sealed ocarine of time and I I loaded up on just [ __ ] sealed GameCube and Wii and just modern games that cost like 40 bucks each uh just in case they ever care about them uh my I mean I didn't really have a"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g030",
+      "canonical_title": "The Legend of Zelda: Ocarina of Time",
+      "spoken_forms": [
+        "sealed ocarine of time"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "N64",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Tyler reports buying a sealed copy.",
+          "evidence": [
+            {
+              "location": "00:37:04",
+              "quote": "GameCube eventually and what if I care about sealed games at once uh so I spent a year buying all the sealed video games and all the uh historically important video games that were important to me so uh doom and I got a sealed ocarine of time and I I loaded up on just [ __ ] sealed GameCube and Wii and just modern games that cost like 40 bucks each uh just in case they ever care about them uh my I mean I didn't really have a goal in when this was going stop my"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g031",
+      "canonical_title": "Temple of Apshai",
+      "spoken_forms": [
+        "Temple of apshai"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Example of genre building blocks rather than a unique first.",
+          "evidence": [
+            {
+              "location": "00:38:07",
+              "quote": "goal is basically uh I want all the building blocks of all the genres I care about so uh I mean the one I've been going after a lot is computer RPGs and so you can look at certain games and say like oh blah blah blah the Temple of apshai is the first computer of our computer RPG or you know beneath apple maners is the first computer RPG or there there's all these games you could call the first but I don't I don't want to make any distinction I'm just saying"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g032",
+      "canonical_title": "Beneath Apple Manor",
+      "spoken_forms": [
+        "beneath Apple manner"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Apple II",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Tyler plays the original and buys a later placeholder.",
+          "evidence": [
+            {
+              "location": "02:30:59",
+              "quote": "Tyler what did you do to yourself I've been playing uh uh just the other day beneath Apple manner which is also one of the games I bought which is why I'm playing it um I think it it's pretty impressive it's a 1978 game I was playing the 1978 version it was re-released a few times it's the first Rog likee game it came"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g033",
+      "canonical_title": "The Ooze",
+      "spoken_forms": [
+        "Ooze"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Genesis",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Recurring show pick and price check.",
+          "evidence": [
+            {
+              "location": "00:39:12",
+              "quote": "established goals in 2019 two years after being on this podcast harping on people to make goals well I mean I I had goals my goals were completing sets uh when I started getting on the podcast you know it was checking uh the Ooze off my Sega Genesis list and being like guys it was hard for me to find a nice copy of the Ooze I think the Ooze might be the next big thing hold on price check on the Ooze let's see going to eBay all right whenever you"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g034",
+      "canonical_title": "Turbo Turtle Adventure",
+      "spoken_forms": [
+        "turbo Turtle"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "GBA",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Discord seal-identification discussion.",
+          "evidence": [
+            {
+              "location": "00:41:14",
+              "quote": "tight group and like refuse to pay high prices and make those prices come down but nah I just want to talk about like I'm I'm going through the GBA uh room in the Discord uh the last thing people were talking about was turbo Turtle they were validating what the seal looked like on a legitimate one cuz it's a mesco game and they have shitty turb turtle is hard"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g035",
+      "canonical_title": "Dragon Tales: Dragon Adventures",
+      "spoken_forms": [
+        "Dragon Tales Dragon Adventures"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "GBA",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Discord purchase lead, not a confirmed host purchase.",
+          "evidence": [
+            {
+              "location": "00:42:17",
+              "quote": "to find I got to make sure your sealed turbo turtle is legit and then coffee with Mr Saturn posted a Buy It Now for a gba Dragon Tales Dragon Adventures for only $100 and he said if you want this it's going to be hard to find it cheaper and that is factual man can we forget this episode can we just talk about GBA and like I I'm sure people would love I they would love it"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g036",
+      "canonical_title": "Logo",
+      "spoken_forms": [
+        "turtle cursor"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Apple II",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "School programming anecdote, not Turbo Turtle.",
+          "evidence": [
+            {
+              "location": "00:43:18",
+              "quote": "turtle cursor and you could like give it coordinates and it would like draw stuff and it was like in every computer lab in like 19 88 I know half the people who are listening to the show are nodding their head right now so yeah so Pro"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g037",
+      "canonical_title": "Vice: Project Doom",
+      "spoken_forms": [
+        "vice project doom"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Example of endless good games to acquire.",
+          "evidence": [
+            {
+              "location": "00:45:26",
+              "quote": "like there was so many games that I had to own but like you know you look at NES it's like well I got to own Contra and Zelda and vice project doom and it it never ends if you if you try to get every seven out of 10 game or better like there's an unlimited supply of games that you could get for not a lot of money but because I did that for 10 years I didn't get like"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g038",
+      "canonical_title": "God of War II",
+      "spoken_forms": [
+        "God of War II"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "PS2",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Cheap good game versus saving for a major goal.",
+          "evidence": [
+            {
+              "location": "00:45:26",
+              "quote": "$25 games and I know that not $25 games $25 games and man when you don't have like a ton of games it is so easy to want the cheaper games because the cheaper games are good and we talk about all the time go get a copy of God of War II on PlayStation 2 while it's still probably a $12 game but because I didn't have like my long-term goals like what are the games that I would want the most in like my entire life if if Money Was No"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g039",
+      "canonical_title": "Prince of Persia: Warrior Within",
+      "spoken_forms": [
+        "Prince of Persia Warrior within"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Xbox",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "PC availability undermines Xbox best-version rationale.",
+          "evidence": [
+            {
+              "location": "00:47:33",
+              "quote": "best version of the Prince of Persia Warrior within but all those games are on PC too so it's not even the best version I'm sorry basically I'm apologizing to all caps for collecting Xbox uh instead of uh PS2 like I thought I was going to be the Xbox variant Guy this is when"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g040",
+      "canonical_title": "Mega Man 2",
+      "spoken_forms": [
+        "Mega Man 2"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Stefan's childhood collection.",
+          "evidence": [
+            {
+              "location": "00:51:45",
+              "quote": "Heather was getting sick and I was looking for something for else to do and uh and so I had just sort of serendipitously pulled out uh my shoe box my shoe box collection to video games and what was in there like Mario 3 and Mega Man 2 and um DuckTales and and uh Mega Man X and super Super Punch Out and Mario World just like you know just smattering of of good titles um and I decided that that's what I was going to to to try to do is to see see whether"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g041",
+      "canonical_title": "Mega Man X",
+      "spoken_forms": [
+        "Mega Man X"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "SNES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Stefan's childhood collection.",
+          "evidence": [
+            {
+              "location": "00:51:45",
+              "quote": "for something for else to do and uh and so I had just sort of serendipitously pulled out uh my shoe box my shoe box collection to video games and what was in there like Mario 3 and Mega Man 2 and um DuckTales and and uh Mega Man X and super Super Punch Out and Mario World just like you know just smattering of of good titles um and I decided that that's what I was going to to to try to do is to see see whether or not I could uh I could start collecting"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g042",
+      "canonical_title": "Super Punch-Out!!",
+      "spoken_forms": [
+        "Super Punch Out"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "SNES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Stefan's childhood collection.",
+          "evidence": [
+            {
+              "location": "00:51:45",
+              "quote": "else to do and uh and so I had just sort of serendipitously pulled out uh my shoe box my shoe box collection to video games and what was in there like Mario 3 and Mega Man 2 and um DuckTales and and uh Mega Man X and super Super Punch Out and Mario World just like you know just smattering of of good titles um and I decided that that's what I was going to to to try to do is to see see whether or not I could uh I could start collecting sets of video games as"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g043",
+      "canonical_title": "Super Mario World",
+      "spoken_forms": [
+        "Mario World"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "SNES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Stefan's childhood collection.",
+          "evidence": [
+            {
+              "location": "00:51:45",
+              "quote": "so I had just sort of serendipitously pulled out uh my shoe box my shoe box collection to video games and what was in there like Mario 3 and Mega Man 2 and um DuckTales and and uh Mega Man X and super Super Punch Out and Mario World just like you know just smattering of of good titles um and I decided that that's what I was going to to to try to do is to see see whether or not I could uh I could start collecting sets of video games as as a thing um"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g044",
+      "canonical_title": "Ninja Gaiden Trilogy",
+      "spoken_forms": [
+        "ninja Guiden Trilogy"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "SNES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Early SNES set attempt.",
+          "evidence": [
+            {
+              "location": "00:52:51",
+              "quote": "these old eBay photos but um we were going to try to put together a um a Super Nintendo set and just flip it just like something to do right we're just going to put it together and flip it um and that was back when like ninja Guiden Trilogy was like the most expensive sought after game on this on the super um and uh and um so uh that I was way more into it than he was uh and so that petered out and I probably got like three4 into that into that set and sold"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g045",
+      "canonical_title": "EarthBound",
+      "spoken_forms": [
+        "Earthbound ruler"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Nintendo employee ephemera acquisition.",
+          "evidence": [
+            {
+              "location": "01:03:31",
+              "quote": "like I was just like that's why I that's why I really love those those like last day boxes because that's the those are the those are the finds that have like just odd paper weights and rulers and that's how I found my Earthbound ruler was it was just like some some dude just had it in a box in his gr he's like yeah I got that yeah um he's like yeah they were just handing him out here um so uh and then at one point I had talk talked to a counselor that"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g046",
+      "canonical_title": "Devil's Crush / Devil Crash",
+      "spoken_forms": [
+        "devil crash"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Red's Japanese original-art acquisition, not a host purchase.",
+          "evidence": [
+            {
+              "location": "01:07:40",
+              "quote": "so um so it was a Japanese artist that was in Seattle and that was the only reason that I was ever able to Source it I have yet to Source Japanese art from Japan um red the game shark did Red the game shark with his uh devil crash original art from Japan did getting that original art from Japan super hard what a cool guy uh you've done it you invoked the name we have to do the thing all right if you're looking for import games and you want them for"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g047",
+      "canonical_title": "Dragon Warrior",
+      "spoken_forms": [
+        "Dragon Warrior map"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Stefan's original map artwork.",
+          "evidence": [
+            {
+              "location": "01:16:09",
+              "quote": "the long game with the Stu Tyler all right got to play the long game I mean you play the long game how what the still the craziest thing that you got I think is like all that uh that Dragon Warrior stuff especially the Dragon Warrior map but like I don't even think you've been collecting that kind of stuff long enough for that to have been the long game cuz that seems like something that should take a lifetime for you to get but you still got that Dragon"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g048",
+      "canonical_title": "Ogre Battle",
+      "spoken_forms": [
+        "ogre battle"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "PlayStation",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Johnny regrets a low trade-in amount.",
+          "evidence": [
+            {
+              "location": "01:19:10",
+              "quote": "they're not that old I still have a couple old Super Nintendo games at this point I've even sold a couple of PS1 games which made me cringe and decide to never sell anything to a GameStop ever again only took one time sold an ogre battle and uh when they're like they just quickly tell you like you bring in your 10 games and they like quickly tell you the total and then you find out that ogre ogre battle you sold was like $3 or whatever and you just feel"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g049",
+      "canonical_title": "Shining Force III",
+      "spoken_forms": [
+        "Shining Force 3"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Saturn",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Johnny's positive Saturn memory during military service.",
+          "evidence": [
+            {
+              "location": "01:22:13",
+              "quote": "have like even though it hadn't been that long since I got the Saturn I had a weird Nostalgia for the Saturn because I was not enjoying my time in the military at this point when I found the Saturn and I like found Shining Force 3 and it was such like a happy weird moment for me in a time when I was kind of unhappy and uh you know I was like man the Saturn like it just that emotional like fix like ah I found like I was not enjoying anything around"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g050",
+      "canonical_title": "Chrono Trigger",
+      "spoken_forms": [
+        "Chrono tricker"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "SNES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Maps and packaging motivate completeness.",
+          "evidence": [
+            {
+              "location": "01:24:19",
+              "quote": "start buying games and boxes it's like oh well it's not that much more for the box at this point or the cart is almost as much as the box or sometimes there was a big disparity um and you're like oh okay like I I got a Chrono tricker and like that was one of the first ones I went back and got up I was like like oh man I have to buy this in the box like it has its map and everything like if I just bought the cart that would be weird like the maps and"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g051",
+      "canonical_title": "Bible Adventures",
+      "spoken_forms": [
+        "Bible Adventures"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Incorrect shiny Nintendo sleeve example.",
+          "evidence": [
+            {
+              "location": "01:30:39",
+              "quote": "I'm never going to bother to go fix it because it's such a [ __ ] stupid thing I did yeah but you do have the cooler death sleeve on all of your games that is true I do my my copy of Bible Adventures is sitting there with a shiny Nintendo dust sleeve in it sweet excellent news that makes sense yeah um anyways so yeah this is like 2006 2007 I'm starting to evolve um and then I this is where an era where I shift like I'm"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g052",
+      "canonical_title": "Madden",
+      "spoken_forms": [
+        "Madden"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Games Johnny avoided despite low prices.",
+          "evidence": [
+            {
+              "location": "01:32:45",
+              "quote": "these like Madden Madden games were like just a zero figure it's like you can only spend money on these you can never make money on these so I wasn't that wasn't just the mass consumption you know I wasn't seeing big box computer games for"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g053",
+      "canonical_title": "Outback Joey",
+      "spoken_forms": [
+        "Outback Joey"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Genesis-related hardware",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Set-boundary debate involving 32X.",
+          "evidence": [
+            {
+              "location": "01:36:03",
+              "quote": "said that when I don't even know if it's a joke I don't know it it's real it says Genesis on the box just saying says Genesis on the box if 32x isn't a set then Outback Joey doesn't count for the Genesis set because it doesn't say Genesis on it uh it's I mean it's a Genesis and a Genesis shell I mean I don't know what else you would want it plays on a Genesis yeah 32x game doesn't though it"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g054",
+      "canonical_title": "The Flintstones: The Surprise at Dinosaur Peak",
+      "spoken_forms": [
+        "Flintstones 2"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Johnny's expensive pickup after correcting a different title.",
+          "evidence": [
+            {
+              "location": "01:38:10",
+              "quote": "$700 on which was like a lot a lot of money still a lot of money to spend on a video game but like a nice one I'm like I got a nice little Samson now it's complete in box I got I got a Donkey Kong uh or not Donkey Kong a Flintstones 2 I'm like I'm really working on the Super Nintendo set so I complete Nintendo I start completing Super Nintendo Dreamcast was like basically complete I only needed to go buy filler for that and then I I was buying Wii"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g055",
+      "canonical_title": "Donkey Kong",
+      "spoken_forms": [
+        "not Donkey Kong"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Explicitly retracted purchase identification.",
+          "evidence": [
+            {
+              "location": "01:38:10",
+              "quote": "I think I spent $700 on which was like a lot a lot of money still a lot of money to spend on a video game but like a nice one I'm like I got a nice little Samson now it's complete in box I got I got a Donkey Kong uh or not Donkey Kong a Flintstones 2 I'm like I'm really working on the Super Nintendo set so I complete Nintendo I start completing Super Nintendo Dreamcast was like basically complete I only needed to go buy filler for that and then I I was"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g056",
+      "canonical_title": "Akalabeth: World of Doom",
+      "spoken_forms": [
+        "a calth"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Apple II",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Scarcity limits spending compared with readily filled checklists.",
+          "evidence": [
+            {
+              "location": "01:47:48",
+              "quote": "on something and you could just spend whatever money you have on that checklist no matter what but if I'm if I'm collecting like rare games I basically can't find I can't do that I can't go and I can't buy like a copy of a calth for apple 2 which is uh the predecessor to Ultima cuz there's just"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g057",
+      "canonical_title": "Stadium Events",
+      "spoken_forms": [
+        "Stadium events"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Stefan retained this after selling the rest of his NES set.",
+          "evidence": [
+            {
+              "location": "02:01:35",
+              "quote": "for like to have something to look for uh and so super famcom is that thing for me um but and I was thinking about adding NES to that list and just like slowly picking up the set because I I I I never did get rid of my Stadium events yeah so that's you got the hardest part you done literally half the S yeah yeah value-wise you've done it you're halfway there yeah so uh yeah there's my very long-winded answer to uh I did not change my mind I've just evolved"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g058",
+      "canonical_title": "Ultima VI",
+      "spoken_forms": [
+        "Ultima 6"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Earlier limited-edition episode example.",
+          "evidence": [
+            {
+              "location": "02:04:39",
+              "quote": "find the earliest limited editions and I am still finding things that like we could have brought up on the show uh like there's I know like we brought up one or two of those origin pre-order things from around 1990 like uh Ultima 6 we brought up but there might be an Ultima 5 and I figured out and I found out there was a wing Commander uh that you could also pre-order and we didn't bring that up on the show so anyway sometimes we do a lot of preparation"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g059",
+      "canonical_title": "Ultima V",
+      "spoken_forms": [
+        "Ultima 5"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Tentative additional preorder research lead.",
+          "evidence": [
+            {
+              "location": "02:04:39",
+              "quote": "still finding things that like we could have brought up on the show uh like there's I know like we brought up one or two of those origin pre-order things from around 1990 like uh Ultima 6 we brought up but there might be an Ultima 5 and I figured out and I found out there was a wing Commander uh that you could also pre-order and we didn't bring that up on the show so anyway sometimes we do a lot of preparation sometimes we don't but know like so you"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g060",
+      "canonical_title": "Wing Commander",
+      "spoken_forms": [
+        "wing Commander"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Additional preorder research lead.",
+          "evidence": [
+            {
+              "location": "02:04:39",
+              "quote": "the show uh like there's I know like we brought up one or two of those origin pre-order things from around 1990 like uh Ultima 6 we brought up but there might be an Ultima 5 and I figured out and I found out there was a wing Commander uh that you could also pre-order and we didn't bring that up on the show so anyway sometimes we do a lot of preparation sometimes we don't but know like so you want to collect so does anyone want to collect R zone I did"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g061",
+      "canonical_title": "The Count",
+      "spoken_forms": [
+        "the count"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Atari computer",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Johnny reports a text-adventure purchase.",
+          "evidence": [
+            {
+              "location": "02:24:42",
+              "quote": "I bought I bought some Halloween games too I bought some Wii games uh I won't talk about the other thing cuz it hasn't got here yet so I'll save that for the next show let's let's go to the old eBay purchase history yes the count Scott Adams Atari uh it's not an Atari Atari game like I think it's a disc based game but yeah text Adventure woo those are the oh Tyler it's coming today so I'll say it but that hangman we talked about in the last episode"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g062",
+      "canonical_title": "Hangman / Hangmath",
+      "spoken_forms": [
+        "hangman hang math"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "VIC-20",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Order expected that day; arrival not yet confirmed.",
+          "evidence": [
+            {
+              "location": "02:24:42",
+              "quote": "but yeah text Adventure woo those are the oh Tyler it's coming today so I'll say it but that hangman we talked about in the last episode oh you got it I did yeah the grimmest [ __ ] I don't like creative software presents hangman hang math uh two home educational programs uh where they've even like on the box they failed to get hangman right uh because it says like the blank letter is an O but the the word is school so they've already guessed o so one o is"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g063",
+      "canonical_title": "Star Wars: The Old Republic",
+      "spoken_forms": [
+        "Old Republic"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Stefan plays an agent storyline; caption names it imprecisely.",
+          "evidence": [
+            {
+              "location": "02:26:45",
+              "quote": "but um but yeah I've been playing the Old Republic uh going through through the uh Sith agent storyline uh which is probably the best story line in that game um and then as far as purchasing well I bought uh I've been I've been dabbling in like trying to build old magic"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g064",
+      "canonical_title": "Magic: The Gathering",
+      "spoken_forms": [
+        "decks"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Tabletop",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Stefan recreates childhood Revised decks.",
+          "evidence": [
+            {
+              "location": "02:27:48",
+              "quote": "yeah not unlimited the before you know like what I think it was like technically like third right third third edition um that's wait Stephan are you building child like your shitty childhood decks or like the deck that were good when you were a kid no no no my shitty childhood deaths okay well as close as I can to like to memory sure sure yeah I mean I could I could memorize a lot of my my deck list that I used in"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g065",
+      "canonical_title": "Dr. Mario",
+      "spoken_forms": [
+        "Dr Mario figure"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Stefan acquires the cover's clay figure, not the whole cover.",
+          "evidence": [
+            {
+              "location": "02:27:48",
+              "quote": "some cards for that uh artwise I picked up the um I think the last major purchase that's going to be um at the game on Expo in Arizona in a couple weeks um is the um the Dr Mario Clay cover or rather the the dark the the Dr Mario figure from that cover fromint how does this [ __ ] still exist I just don't understand that's it's what I do Tyler finding [ __ ]"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g066",
+      "canonical_title": "Track & Field II",
+      "spoken_forms": [
+        "track and field two shoes"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Surviving cover props.",
+          "evidence": [
+            {
+              "location": "02:28:52",
+              "quote": "that one actually makes more sense as to someone just like stashing in in a drawer um the Wy ship when I found that that was like I don't understand this is a very large thing why does this still exist or like the uh the track and field two shoes like why why um but uh but yeah so found that um a couple other pieces I have in the works right now that I don't want to talk about just yet but um but things are in the works I'm always I mean that's that's really where"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g067",
+      "canonical_title": "Halo",
+      "spoken_forms": [
+        "master chief"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Half-size promotional statue for Stefan's forthcoming office.",
+          "evidence": [
+            {
+              "location": "02:28:52",
+              "quote": "right now that I don't want to talk about just yet but um but things are in the works I'm always I mean that's that's really where I'm putting all my attention um oh I bought uh so I did buy um one of the not the fullsize master Chiefs but the half-size master chief statues I bought one of those recently because if uh you hadn't heard uh as of the end of next next week I will be gainfully employed by Bungie uh and so I"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g068",
+      "canonical_title": "Myth: The Fallen Lords",
+      "spoken_forms": [
+        "myth one and two"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Stefan is paying for cover preliminaries.",
+          "evidence": [
+            {
+              "location": "02:29:54",
+              "quote": "decided I wanted to get some Bungie stuff uh for my office so um I got Master Chief and then I also got um years ago someone had posted on an art group um they had the prelims for the painted covers of myth one and two and and I was like I wonder if that guy still has those and sure enough he does so uh so we struck a deal and I am I am paying for those right now um day one at Bungie Bungie Super Fan coming and look at me with my prelims"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g069",
+      "canonical_title": "Myth II: Soulblighter",
+      "spoken_forms": [
+        "myth one and two"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Stefan is paying for cover preliminaries.",
+          "evidence": [
+            {
+              "location": "02:29:54",
+              "quote": "decided I wanted to get some Bungie stuff uh for my office so um I got Master Chief and then I also got um years ago someone had posted on an art group um they had the prelims for the painted covers of myth one and two and and I was like I wonder if that guy still has those and sure enough he does so uh so we struck a deal and I am I am paying for those right now um day one at Bungie Bungie Super Fan coming and look at me with my prelims"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g070",
+      "canonical_title": "Marathon",
+      "spoken_forms": [
+        "Marathon"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Stefan's earlier computer gaming.",
+          "evidence": [
+            {
+              "location": "02:29:54",
+              "quote": "right now um day one at Bungie Bungie Super Fan coming and look at me with my prelims for the myth games exactly um I mean I really was a big fan of myth it was my uh I I did play quite a bit of myth back in the day um and Marathon but uh all you computer Gamers just fell off and became these console trash people well I guess you're like an art person now so you're you don't even count but uh yeah you're all trash yeah he was wondering how he could"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g071",
+      "canonical_title": "Rogue",
+      "spoken_forms": [
+        "Rogue"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Comparison with Beneath Apple Manor and independent development.",
+          "evidence": [
+            {
+              "location": "02:30:59",
+              "quote": "the games I bought which is why I'm playing it um I think it it's pretty impressive it's a 1978 game I was playing the 1978 version it was re-released a few times it's the first Rog likee game it came out two years before Rogue and it didn't Inspire Rogue I think they were developed you know independently with similar ideas uh but it's a a game you explore a randomly generated dungeon with a with your guy and you know you go and you fight monsters"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g072",
+      "canonical_title": "Apple Panic",
+      "spoken_forms": [
+        "Apple Panic"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Explicitly distinguished from Beneath Apple Manor.",
+          "evidence": [
+            {
+              "location": "02:30:59",
+              "quote": "it's a a game you explore a randomly generated dungeon with a with your guy and you know you go and you fight monsters and you have to dive deeper apples horrifying apples what are you talking about we're not talking about Apple Panic beneath Apple manner Apple games love making apple puns with their magazine titles and their video games but uh yeah you basically just level up and keep going down deeper and deeper into the dungeon until you randomly open"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g073",
+      "canonical_title": "Space Panic",
+      "spoken_forms": [
+        "space Panic"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Debatable first-platformer label.",
+          "evidence": [
+            {
+              "location": "02:32:03",
+              "quote": "it's the the first platformer if you go to like space Panic it's the first platformer and you can't jump so it's like yeah is it is it really the first platformer but playing beneath Apple Manor you open a chest and one of the things will do it'll like have one of your stats it'll"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g074",
+      "canonical_title": "Super Bomberman 5",
+      "spoken_forms": [
+        "super bomber man 5"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Super Famicom",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Tyler buys gold-cartridge variant with battle maps unlocked.",
+          "evidence": [
+            {
+              "location": "02:33:03",
+              "quote": "for graphics it has actual Graphics so it's definitely not the cool one to own uh but you know I'm for some of these rare games I want so many of them that I'm going to have to deal with some placeholders here I got uh super bomber man 5 the gold cartridge for super famicom uh this was just a version of Super Bomberman 5 that was sold through Coro Coro comic uh technically a different game from Super Bomberman 5 all right does it count in this version of"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g075",
+      "canonical_title": "The Tower of Druaga",
+      "spoken_forms": [
+        "Tower of druaga"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "MSX",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Tyler buys MSX cassette after mistaken first-port assumption.",
+          "evidence": [
+            {
+              "location": "02:34:07",
+              "quote": "unlocked for you from the start when you put it in and you have to unlock them yourself in the original game does it count gold Super Bomberman 5 it counts counts sure uh and then I'll allow it you'll allow it uh and I got Tower of druaga for the MSX hey what why is that an a I like that game you like Tower I do oh all right yeah I'm uh I'm collecting Tower of draga ports when I was uh started looking into like this this would be because I want the history"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g076",
+      "canonical_title": "The Tower of Druaga",
+      "spoken_forms": [
+        "famicom version"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Famicom",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Tentatively identified as the actual first home port.",
+          "evidence": [
+            {
+              "location": "02:34:07",
+              "quote": "it's an arcade game but it's clearly something the RPG genre is built upon in Japan um for some reason when I first was looking for Tower duraga I thought the MSX was the first Home Port and it's not true at all it's the famicom version I think is the first Home Port but that's not interesting at all because that it's like super common that's like a $10 game complete in box uh but I got in my mind that this was the first home version and there's one"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g077",
+      "canonical_title": "Pocky & Rocky",
+      "spoken_forms": [
+        "Pocky and Rocky"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Patron nickname, not a review.",
+          "evidence": [
+            {
+              "location": "02:44:44",
+              "quote": "champion Daniel javick high-end collector Andrew brim greetings stranger I'm not surprised to see Andrew Shelton around here 50 HZ is good enough for me Andre Video Games Were Meant To Be slab Brandon akley Brian Gupta and Pocky and Rocky with Becky the strictly limited super rare Bruno coin operated Cameron couch fat cat collector Chris Jackson Chris SNK too many every time too many NES accessories marosek Johnny's GBA hookup Cofe with Mr Saturn playing"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g078",
+      "canonical_title": "Shinobi",
+      "spoken_forms": [
+        "Shinobi"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Patron nickname.",
+          "evidence": [
+            {
+              "location": "02:45:46",
+              "quote": "Shinobi just Sonic the kid red Pam thing Jonathan shatos Joseph Garris he's just out here having a good time achieving his goals proud of you the Nintendo tape archist Joseph Leo Joe you're talking to me about if you want to be"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g079",
+      "canonical_title": "Mad Dog McCree",
+      "spoken_forms": [
+        "Mad Dog McCree"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Patron nickname.",
+          "evidence": [
+            {
+              "location": "02:45:46",
+              "quote": "it someone's got to do it and it's going to be you and we all know it's going to be you Lance Lord hard Styles Z the degenerate Matt fall Mint Condition Mora Bros Mr CIB get your loose Genesis carts out of here Nicholas Mad Dog McCree dagio funand employee platform agnostic read the game shark the famicom Box Retro Game Enthusiast they call him that on the ljn podcast as well they could beat ghosts and golins twice cheff fish sha the gamer Collective"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g080",
+      "canonical_title": "Ghosts 'n Goblins",
+      "spoken_forms": [
+        "ghosts and golins"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Patron nickname references a gameplay challenge.",
+          "evidence": [
+            {
+              "location": "02:45:46",
+              "quote": "your loose Genesis carts out of here Nicholas Mad Dog McCree dagio funand employee platform agnostic read the game shark the famicom Box Retro Game Enthusiast they call him that on the ljn podcast as well they could beat ghosts and golins twice cheff fish sha the gamer Collective the new craft who could beat Mega Man without the Paw trick previously unknown variant Tim Walker from the internet God Fisher"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g081",
+      "canonical_title": "Mega Man",
+      "spoken_forms": [
+        "Mega Man"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Patron nickname references a pause trick.",
+          "evidence": [
+            {
+              "location": "02:45:46",
+              "quote": "platform agnostic read the game shark the famicom Box Retro Game Enthusiast they call him that on the ljn podcast as well they could beat ghosts and golins twice cheff fish sha the gamer Collective the new craft who could beat Mega Man without the Paw trick previously unknown variant Tim Walker from the internet God Fisher"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g082",
+      "canonical_title": "Super Mario 64",
+      "spoken_forms": [
+        "Mario 64 penguin"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Patron nickname references a penguin.",
+          "evidence": [
+            {
+              "location": "02:46:49",
+              "quote": "in the full PS2 set because Stephen W all caps no gods or Kings only Andy Lancaster what a 9.8 A++ Benji the actually rare bird dog gaming now YouTube video about stupid rare stuff that's not rare I love it dropping the Mario 64 penguin off the map Brandon Chalker Brandon Rogers whose favorite episode is the Wrestling episode Christopher Piper still shaking from what he found at Goodwill still finding deals in 2022 Colton Murphy a winner is him David Green"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g083",
+      "canonical_title": "Divinity: Original Sin II",
+      "spoken_forms": [
+        "divinity original sin 2"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Tyler's enthusiastic RPG opinion in the closing segment.",
+          "evidence": [
+            {
+              "location": "02:47:53",
+              "quote": "Nancy hollenbach Pro Skater Nick the video game database Morgan Homebrew Mastermind vertov off the map Enz collector the other guy who collects Korean releases peaceful games he told me the other day he's never heard of divinity original sin 2 I literally think it's the best RPG that has ever been made ever in the history of computer RPGs he's never even heard of it it's not even a computer game is poured into everything oh man dude come on it's so good I don't"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g084",
+      "canonical_title": "Donkey Kong",
+      "spoken_forms": [
+        "Donkey Kong kill screen"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Patron nickname references a kill screen.",
+          "evidence": [
+            {
+              "location": "02:47:53",
+              "quote": "for the POG talk Joe actually plays his game champ pity video game art collector because video games are art Justin toio strand type Game Chris Shipley lateral movement who's got a Donkey Kong kill screen coming up what a horrible night to have living in bits Michael Post in the Discord right now cheram Monti Nancy hollenbach Pro Skater Nick the video game database Morgan Homebrew Mastermind vertov off the map Enz collector"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g085",
+      "canonical_title": "Sinistar",
+      "spoken_forms": [
+        "sin star"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Patron nickname.",
+          "evidence": [
+            {
+              "location": "02:48:54",
+              "quote": "Chase savent toan he knows all 97 Nintendo games 32 bits or less do the math and Andrew actually collecting engage o Ben Parker a bad enough dude to rescue the president chz know all your base are belong to him Colby he is sin star coragen does what nintend don't Daniel McArdle who thought this was the retronaut patreon the modern database Danny Gomez the patus Dork Overlord my childhood PlayStation Idol game Dash rave.com he is 8bit John Brown like"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq200-g086",
+      "canonical_title": "Double Dragon",
+      "spoken_forms": [
+        "Double Dragon"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Patron nickname references a score.",
+          "evidence": [
+            {
+              "location": "02:48:54",
+              "quote": "thought this was the retronaut patreon the modern database Danny Gomez the patus Dork Overlord my childhood PlayStation Idol game Dash rave.com he is 8bit John Brown like like I am I don't know Joseph Rogers got 50,000 on Double Dragon collector of everything including Atari kayin mcateer video game console modding Guy MP3 Sam Sega Mark II marks sha the video game Illuminati lroy and hedgemon of the geek Empire and guy who listens to the lgm podcast Valor"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    }
+  ],
+  "lore": [
+    {
+      "id": "cq200-l001",
+      "kind": "show_discussion",
+      "summary": "Johnny marks 200 episodes; this does not claim Tyler and Stefan appeared in all of them.",
+      "topics": [
+        "host roster",
+        "anniversary"
+      ],
+      "evidence": [
+        {
+          "location": "00:00:00",
+          "quote": "[Music] [Applause] [Music] [Applause] [Music] hey welcome back to another episode of collector's Quest I'm Tyler here with Johnny and Stephan guys 200 episodes that Johnny's been on 200 Spees woo wow that was really our celebration for uh being one of the most regular game collecting podcasts of all time you know who else is really regular on this podcast Tyler"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l002",
+      "kind": "joke",
+      "summary": "Prunes and fiber banter explicitly continues the old-Tyler joke.",
+      "topics": [
+        "Tyler is old",
+        "prunes"
+      ],
+      "evidence": [
+        {
+          "location": "00:01:07",
+          "quote": "and I like this dramatic scene for his biography about how he has to make it make a hot choice between crackl o brand and and prunes and then in a moment of high drama he decides to uh to put the prunes on the crackling oand and and Tyler was away and then he comes back right when we talking about that and he's like oh I would try that yeah OB why not"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l003",
+      "kind": "show_discussion",
+      "summary": "Tyler retains editing because catching factual mistakes requires collecting knowledge.",
+      "topics": [
+        "production",
+        "editing"
+      ],
+      "evidence": [
+        {
+          "location": "00:03:17",
+          "quote": "patreon money to pay for an editor but a lot of things I edit out are like oh we said something like or something clearly super duper wrong about video games and there's no way like a Fiverr editor is going to know like what facts we got wrong and I like I like going back and listening to that stuff you need you need the experts and you know we are self-acclaimed experts because we said are we are are um I don't know that we are I mean I I'll say we are is we're"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l004",
+      "kind": "joke",
+      "summary": "Johnny jokingly calls himself the Grim Reaper of other podcasts; causation is not asserted.",
+      "topics": [
+        "Grim Reaper of podcasts"
+      ],
+      "evidence": [
+        {
+          "location": "00:09:37",
+          "quote": "died right there but also we probably didn't need those uh that's uh that's Nature's Way of keeping only the right amount of podcasts natural podcast selection yeah when Johnny is not Nature's Arbiter yeah when I I'm the Grim Reaper of podcasting comes to your show I I kind of I kind of like that as a title the Grim Reaper of podcast that's very funny to me you have a long running podcast doesn't make any sense no like it that that's that's the funny"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l005",
+      "kind": "show_discussion",
+      "summary": "A GBA episode is in a separate planning document, without a committed date.",
+      "topics": [
+        "show planning",
+        "GBA"
+      ],
+      "evidence": [
+        {
+          "location": "00:10:38",
+          "quote": "think so you want to collect it is it it 100% is okay but I mean it's not something I've been thinking about like oh in the future we're going to be doing this soon because I think we're going to do GameCube first it's not in the episode idea doc but it is in the so you want to collect doc uh that I have independent of that okay there was a"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l006",
+      "kind": "host_opinion",
+      "summary": "Tyler emphasizes the difficulty of large cardboard-box sets over merely expensive small sets.",
+      "topics": [
+        "set difficulty",
+        "GBA"
+      ],
+      "evidence": [
+        {
+          "location": "00:11:42",
+          "quote": "like what does the Neo Geo AES have 13 games and they come in like hard plastic cases and oh boohoo the average price of a game is $11,000 but there's not that many of them like the one that I would immediately go to is GBA because you're getting a thousand cardboard box games and half of them were exclusively owned by children so man I are crazy yeah thrown out by GameStop uh you know there"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l007",
+      "kind": "anecdote",
+      "summary": "Stefan recalls cheap licensed GBA development while working at Disney.",
+      "topics": [
+        "GBA",
+        "industry experience"
+      ],
+      "evidence": [
+        {
+          "location": "00:14:55",
+          "quote": "video games was just a like regular piece of their marketing push for whatever thing that they were doing that like GBA was was there when that when that was on the ground floor so like it really like there's cuz I mean I was at Disney during the GBA cycle right and uh we did a lot of shovelware on the GBA because it was really easy and cheap to do um so yeah there's just like a lot of stuff that no one cares about and it it's really interesting because"
+        }
+      ],
+      "speaker": {
+        "candidate": "Stefan",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l008",
+      "kind": "host_opinion",
+      "summary": "Hosts reject counting different games as identical solely because their titles match.",
+      "topics": [
+        "game identity",
+        "titles"
+      ],
+      "evidence": [
+        {
+          "location": "00:15:59",
+          "quote": "finding that but they're like yeah if it's got the same title it doesn't count and you're just like you don't understand that same title doesn't mean same so what they looked at like temple of doom on NES and they're like this is one video game yep I mean what are they going to do they're guis they're not going to get into the Nuance of all this [ __ ] they don't Ian they"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l009",
+      "kind": "show_discussion",
+      "summary": "Johnny recalls short early episodes with Kat before the later research-heavy format.",
+      "topics": [
+        "host eras",
+        "origins"
+      ],
+      "evidence": [
+        {
+          "location": "00:15:59",
+          "quote": "doing that that's not what we're doing apologies we'll get to that somewhere north of the episode 200 um but what we are doing is we're going to look back at goals as this show has changed you know since its Inception from me and cat doing like 25 to 35 minute episodes where it was basically just like a list of like hey here's some cool stuff I thought about telling you guys about that you could go and collect to uh you know in-depth"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l010",
+      "kind": "anecdote",
+      "summary": "Tyler dates his collecting start to Virtual Console announcements around 2005–06, not the Wii launch.",
+      "topics": [
+        "Tyler collecting origins"
+      ],
+      "evidence": [
+        {
+          "location": "00:19:12",
+          "quote": "life by becoming a game collector Game Gear is the one who put you on this horrible well that that defined my taste Johnny is here to correct your own history uh so I started collecting not when the Wii came out when the Virtual Console was announced and it was $5 per NES game this was like 2005 uh maybe early 2006 but they it was $5 per NES game absolute ripoff like NES games were still at GameStop I think like there was a tail end of it and they were all like a dollar"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l011",
+      "kind": "changed_opinion",
+      "summary": "Tyler formerly quit at early difficulty; he now enjoys learning challenging games.",
+      "topics": [
+        "game challenge"
+      ],
+      "evidence": [
+        {
+          "location": "00:20:12",
+          "quote": "so if I played one of these games and like I couldn't beat like the second level the first time I would just shut it off and be like oh this game this game sucks I'm going to go back to playing Rescue Rangers and like my my mindset has completely flipped on that now like now I want a game where I could sit down and I have to memorize things and get good at it but basically if I couldn't beat a game the first time I sat down and played it when I first started collecting NES"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l012",
+      "kind": "open_loop",
+      "summary": "Tyler intends to beat Mike Tyson's Punch-Out!! that year; completion is not reported.",
+      "topics": [
+        "Mike Tyson's Punch-Out!!",
+        "playing"
+      ],
+      "evidence": [
+        {
+          "location": "00:21:14",
+          "quote": "effort into like an NES game there are plenty of games where it's like oh I can't beat this game I feel that way with Mike Tyson's punch out now and yes it's still on my list I'm going to play it this year I'm going to try to beat it this year but the reason I had Haven beat it is cuz I hit the difficulty wall and it's like [ __ ] I can't beat this game um and that just didn't happen with the the more contemporary games I was playing at the time so I just basically"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l013",
+      "kind": "anecdote",
+      "summary": "Tyler sought cheap high-rarity games rather than saving for his most wanted items.",
+      "topics": [
+        "rarity",
+        "early buying"
+      ],
+      "evidence": [
+        {
+          "location": "00:23:21",
+          "quote": "really wanted to maximize my dollars it would be too SA save up for like the R9 r10 like the super good pieces which were probably like $200 to $300 or something for the stuff I was going after but I would look for like cowboy kid I got for $5 that's one I vividly remember buying specifically because it had a high Rarity value and cost no money after in this era I got into video game resale uh so my my average weekend"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l014",
+      "kind": "anecdote",
+      "summary": "Tyler historically funded collecting by selling NES bundles; never-sells jokes are not timeless facts.",
+      "topics": [
+        "reselling",
+        "NES"
+      ],
+      "evidence": [
+        {
+          "location": "00:24:25",
+          "quote": "screws yeah uh nobody cared that I also I to interject sorry but like can we all just take a moment to appreciate there was a time in in this world where Tyler was all about selling video games I know selling things 100% I funded the whole hobby by it's a Tyler that we've never known Johnny it's a Tyler we've never know it was neses dude Super Mario duck hun was gold cuz I knew if I got a Super Mario"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l015",
+      "kind": "changed_opinion",
+      "summary": "Tyler regrets fitting cheap replacement connectors to systems advertised as refurbished.",
+      "topics": [
+        "NES",
+        "refurbishing"
+      ],
+      "evidence": [
+        {
+          "location": "00:25:30",
+          "quote": "for like $60 and someone would buy it and this was also at the time where I would put in like the shitty Chinese new uh 72 pins in these consoles and I would call them refurbished not realizing yet that like I'm actually making the console worse by putting in this super lowquality connector but uh hey I got that money son of a [ __ ] people wanted them people didn't want NES unless it was quote unquote refurbished back then yeah because they did they didn't want"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l016",
+      "kind": "anecdote",
+      "summary": "Tyler says his best deals came from eBay and forums despite regular local hunting.",
+      "topics": [
+        "buying sources"
+      ],
+      "evidence": [
+        {
+          "location": "00:27:36",
+          "quote": "it was like 2006 maybe okay um yeah and so I told you like I was looking for like screw variants and uncommon games like this entire time where I was going out literally every weekend I never found anything good all my best deals ever in my life were from eBay or buying stuff on forums uh so that tells you like even when it was literally like my part-time job to resell video games during an era where you could find good deals on stuff I never found anything"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l017",
+      "kind": "anecdote",
+      "summary": "Tyler ranked very different games; Johnny recalls similarly obsessive list-making.",
+      "topics": [
+        "ranking games"
+      ],
+      "evidence": [
+        {
+          "location": "00:28:39",
+          "quote": "I thought like what if I just play every important video game that's ever come out and like rank them all I had a list of every I made a list of every game I played and I ranked them all from best to worst so I'd play a game and I'd be like oh is this better than Tetris but worse than Metal Gear Solid 2 I don't know uh it was a it was a crazy and stupid time in my life but uh I so glad you were like that"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l018",
+      "kind": "anecdote",
+      "summary": "Collection percentages encouraged Tyler to acquire broadly while accepting mixed condition.",
+      "topics": [
+        "checklists",
+        "quantity"
+      ],
+      "evidence": [
+        {
+          "location": "00:29:40",
+          "quote": "think I was big into RF generation.com that was what I was using to track my games at this point and they broke your collection down into sets based on Console like almost everybody does and then they would show you the percentage of each set you have and I don't know there were like a you know like a dozen consoles that actually mattered at this point and so I wanted everything I'm like what if I just got every video game and GameStop was selling older disc"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l019",
+      "kind": "changed_opinion",
+      "summary": "Tyler now prefers one genuinely wanted arcade cabinet to five merely available machines.",
+      "topics": [
+        "arcade",
+        "space"
+      ],
+      "evidence": [
+        {
+          "location": "00:33:54",
+          "quote": "uh because especially with arcade games that take up a ton of room and are big and heavy and hard to move around and sometimes could be hard to resell if it's not the really desirable stuff I would definitely rather have one game I actually wanted than five games that were available your collection sounds like the grossest yeah this what yeah my collection sucked for a long time it it basically only got good in the the past like eight years I don't think I didn't"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l020",
+      "kind": "anecdote",
+      "summary": "Price increases after his 2012–16 break drove Tyler toward completing NES, N64 and Genesis sets.",
+      "topics": [
+        "2016",
+        "FOMO"
+      ],
+      "evidence": [
+        {
+          "location": "00:34:59",
+          "quote": "double and triple what it used to be in 2016 so I I just immediately got into the mindset of oh my God prices are going up and they're going to go up forever and they're never going to come back down uh so I panicked and I completed all the sets that I had like like started and just been like oh I could just like pick at pick away at these a little bit and maybe I'll finish it one day I'm like oh my God I got to finish these now or I'm never going to do it again"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l021",
+      "kind": "anecdote",
+      "summary": "Tyler bought sealed and historically important games in 2019 amid fear of rising prices.",
+      "topics": [
+        "2019",
+        "sealed games"
+      ],
+      "evidence": [
+        {
+          "location": "00:37:04",
+          "quote": "GameCube eventually and what if I care about sealed games at once uh so I spent a year buying all the sealed video games and all the uh historically important video games that were important to me so uh doom and I got a sealed ocarine of time and I I loaded up on just [ __ ] sealed GameCube and Wii and just modern games that cost like 40 bucks each uh just in case they ever care about them uh my I mean I didn't really have a goal in when this was going stop my"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l022",
+      "kind": "host_opinion",
+      "summary": "Tyler wants the building blocks of genres rather than one definitive first game.",
+      "topics": [
+        "collecting goals",
+        "genre history"
+      ],
+      "evidence": [
+        {
+          "location": "00:38:07",
+          "quote": "going to spend $200 on a video game uh and that's when I and then then we're at Tyler now where I'm going after like history of genres and a lot of computer games and uh Japanese games so my goal is basically uh I want all the building blocks of all the genres I care about so uh I mean the one I've been going after a lot is computer RPGs and so you can look at certain games and say like oh blah blah blah the Temple of apshai is the first computer of our computer"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l023",
+      "kind": "show_discussion",
+      "summary": "The Ooze price check recalls an earlier show pick; general market growth complicates claims of success.",
+      "topics": [
+        "The Ooze",
+        "recurring joke"
+      ],
+      "evidence": [
+        {
+          "location": "00:39:12",
+          "quote": "to eBay all right whenever you inv the Oo we have to check I've invoked it I'm going to guess $37 complete in box whoa look at these prices there's even a bunch of them available and it's like an $80 game yep col the the first collector's"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l024",
+      "kind": "changed_opinion",
+      "summary": "Tyler regrets choosing Xbox over PS2 as his representative 2000s set.",
+      "topics": [
+        "Xbox",
+        "PS2"
+      ],
+      "evidence": [
+        {
+          "location": "00:47:33",
+          "quote": "best version of the Prince of Persia Warrior within but all those games are on PC too so it's not even the best version I'm sorry basically I'm apologizing to all caps for collecting Xbox uh instead of uh PS2 like I thought I was going to be the Xbox variant Guy this is when I met like Dan Gomez on Instagram because he was one of the only people like really going deep into"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l025",
+      "kind": "correction",
+      "summary": "Stefan corrects the immediate-sale story: it concerned GameCube, not Xbox.",
+      "topics": [
+        "Stefan",
+        "set sales"
+      ],
+      "evidence": [
+        {
+          "location": "00:48:37",
+          "quote": "when you were getting rid of everything you love Xbox so much you were like I should really keep this right okay in my defense I didn't immediately get rid of Xbox I immediately got rid of GameCube that is that is what what happened yeah immediately oh shh don't tell the podcast they love GameCube I know they hate Xbox they love GameCube uh but okay in my defense I also had very little invested in that because if you"
+        }
+      ],
+      "speaker": {
+        "candidate": "Stefan",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l026",
+      "kind": "anecdote",
+      "summary": "Stefan describes finishing his Turtles goals and seeking distraction during a difficult family period before collecting games in 2016.",
+      "topics": [
+        "Stefan collecting origins"
+      ],
+      "evidence": [
+        {
+          "location": "00:50:39",
+          "quote": "and I was looking for something to sort of help me not think about that all day um and uh and so I was asking these really existential questions about that that that collection because I I it felt like with like once I hit that definition of done that collection went from being a like thing that I was and I'm sure some of you at least at least some of you can relate that it went from being this like thing that I was growing and nurturing and caring for and it became"
+        }
+      ],
+      "speaker": {
+        "candidate": "Stefan",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l027",
+      "kind": "anecdote",
+      "summary": "An earlier joint SNES resale project around 2006 ended before completion; this differs from his later sustained collecting.",
+      "topics": [
+        "Stefan",
+        "SNES"
+      ],
+      "evidence": [
+        {
+          "location": "00:52:51",
+          "quote": "was back when like ninja Guiden Trilogy was like the most expensive sought after game on this on the super um and uh and um so uh that I was way more into it than he was uh and so that petered out and I probably got like three4 into that into that set and sold it all back on on eBay but CU because again at that point it was just like it was we were literally just trying something to do together um and so when he uh ducked out so did I um but so"
+        }
+      ],
+      "speaker": {
+        "candidate": "Stefan",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l028",
+      "kind": "anecdote",
+      "summary": "Stefan met Johnny through a boxed SNES RPG lot post where Johnny and Brony supported him.",
+      "topics": [
+        "community",
+        "meeting Johnny"
+      ],
+      "evidence": [
+        {
+          "location": "00:57:03",
+          "quote": "they're like yeah speed collecting is the way to go yeah so uh so yeah I was getting called the speed collector and uh and they it hit a crescendo when I had bought this a lot Johnny I know you remember it because this is the literally the post in which I met you um but I had posted this a lot of it was just a really nice clean lot of um SNES RPGs like CIB like pretty much every notable s NES RPG and um and I'd gotten it for not a song but a good deal um and today it would be a song"
+        }
+      ],
+      "speaker": {
+        "candidate": "Stefan",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l029",
+      "kind": "anecdote",
+      "summary": "Stefan acquired the complete Pico set in one purchase suggested by Tyler.",
+      "topics": [
+        "set purchases",
+        "Pico"
+      ],
+      "evidence": [
+        {
+          "location": "00:58:05",
+          "quote": "doing what 10 North American sets if you include the little ones like um Virtual Boy and uh Sega Pico I sent you that list that was great p is one of them yeah Pico is one that I bought just in one shot uh thanks Tyler 500 bucks for the whole Pico set complete box what"
+        }
+      ],
+      "speaker": {
+        "candidate": "Stefan",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l030",
+      "kind": "changed_opinion",
+      "summary": "Stefan preferred the hunt to ownership and moved from game sets toward displays.",
+      "topics": [
+        "Stefan",
+        "collecting goals"
+      ],
+      "evidence": [
+        {
+          "location": "00:59:12",
+          "quote": "Virtual Boy set all one shot too um but uh so then I guess I was probably I mean it couldn't have been that long because it's only been you know 6 years um a couple years into it I sort of realized that I was enjoying the hunt for games more than I was enjoying actually having these games uh and that at the time because this was before like the seal boom sealed wasn't even really on my personal radar as as a thing you would do and so like game collecting"
+        }
+      ],
+      "speaker": {
+        "candidate": "Stefan",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l031",
+      "kind": "anecdote",
+      "summary": "Searching for gameplay-counselor jackets connected Stefan with former Nintendo employees, ephemera and original art.",
+      "topics": [
+        "Nintendo Power",
+        "art origins"
+      ],
+      "evidence": [
+        {
+          "location": "01:02:25",
+          "quote": "with people guys don't try to figure out the price of something you can't figure out the price of just put it on eBay um so the the real turning point was when I had been looking for uh specifically Nintendo gameplay counselor jackets and how that happened was uh I was flipping through an an issue of Nintendo Power number one and the first thing the first advertisement in Nintendo Power number one is an ad for the the gameplay counselor hotline and uh"
+        }
+      ],
+      "speaker": {
+        "candidate": "Stefan",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l032",
+      "kind": "anecdote",
+      "summary": "Stefan reports roughly 400 original Nintendo Power artworks and describes a travelling museum as his current goal.",
+      "topics": [
+        "Nintendo Power",
+        "museum"
+      ],
+      "evidence": [
+        {
+          "location": "01:05:36",
+          "quote": "was like okay well what do I what do I do with this like I'm not just going to I don't want to just have it like what is the end game and that's when I decided that I was going to form a museum and uh and that's where the interactive art collection came from and so now I take that collection and I travel with it and that is kind of my endgame I do feel like I've like hit my like final form on this collecting Journey like this is just what I want to do with the rest"
+        }
+      ],
+      "speaker": {
+        "candidate": "Stefan",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l033",
+      "kind": "anecdote",
+      "summary": "Stefan sourced Japanese-origin art from an artist in Seattle, not directly from Japan.",
+      "topics": [
+        "Japanese art",
+        "provenance"
+      ],
+      "evidence": [
+        {
+          "location": "01:07:40",
+          "quote": "want to give you anything anything anything yeah it's certainly been I have I have about 70 pieces of art that from Nintendo power that were originated in Japan and that's only because I found uh I found someone who had later immigrated right so that and and took a bunch of art with her so um so it was a Japanese artist that was in Seattle and that was the only reason that I was ever able to Source it I have yet to Source Japanese art from Japan um red"
+        }
+      ],
+      "speaker": {
+        "candidate": "Stefan",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l034",
+      "kind": "open_loop",
+      "summary": "Stefan says he is working on an Ocarina cartridge for Tyler; details and delivery remain unresolved.",
+      "topics": [
+        "Ocarina of Time",
+        "prototypes"
+      ],
+      "evidence": [
+        {
+          "location": "01:16:09",
+          "quote": "cavens on mountains or or under the water no uh yeah Stephanie you want to get me that ocar of time cart though yeah I'm working on it okay okay you got to play the long game with the Stu Tyler all right got to play the long game I mean you play the long game how what the still the craziest thing that you got I think is like all that uh that Dragon Warrior"
+        }
+      ],
+      "speaker": {
+        "candidate": "Stefan",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l035",
+      "kind": "host_opinion",
+      "summary": "Stefan emphasizes patient relationship-building; leads sometimes result in acquisitions years later.",
+      "topics": [
+        "relationships",
+        "one-of-one collecting"
+      ],
+      "evidence": [
+        {
+          "location": "01:17:09",
+          "quote": "that's what it's all about stupid old Apple games and see what happens it's never it's never about walking away with the thing that you want it's all about making sure that they believe that when the time comes you are the best home for the thing I mean that sounds like it with oneon-one things but I'm just some guy collecting mass-produced retail items Stephan so there's always going to be multiple people who want my stuff that's true stupid stuff like the the stuff"
+        }
+      ],
+      "speaker": {
+        "candidate": "Stefan",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l036",
+      "kind": "anecdote",
+      "summary": "Johnny's Game Crazy visit around 2004 prompted a goal of owning games he had beaten.",
+      "topics": [
+        "Johnny collecting origins"
+      ],
+      "evidence": [
+        {
+          "location": "01:20:11",
+          "quote": "and it hits me I'm like man I should own every game I've ever beaten and I beat a lot of Nintendo games as a kid so I was like I I want that that's when the that's when the switch flips I'm like okay it doesn't matter I I'm not buying this to play it even though I might go play it what I"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l037",
+      "kind": "anecdote",
+      "summary": "Shining Force III brought Johnny joy during a difficult military period and helped establish his Saturn attachment.",
+      "topics": [
+        "Saturn",
+        "nostalgia"
+      ],
+      "evidence": [
+        {
+          "location": "01:22:13",
+          "quote": "have like even though it hadn't been that long since I got the Saturn I had a weird Nostalgia for the Saturn because I was not enjoying my time in the military at this point when I found the Saturn and I like found Shining Force 3 and it was such like a happy weird moment for me in a time when I was kind of unhappy and uh you know I was like man the Saturn like it just that emotional like fix like ah I found like I was not enjoying anything around"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l038",
+      "kind": "anecdote",
+      "summary": "Johnny's memories include Chrono Trigger's box and maps; his completeness standards initially varied by game.",
+      "topics": [
+        "completeness",
+        "Chrono Trigger"
+      ],
+      "evidence": [
+        {
+          "location": "01:24:19",
+          "quote": "tricker and like that was one of the first ones I went back and got up I was like like oh man I have to buy this in the box like it has its map and everything like if I just bought the cart that would be weird like the maps and everything are important so with Super Nintendo there was a lot of RPGs there so I was like oh very much so everything needs to be in the box if I can get it needs to have all the maps and manuals for the games I cared about most they all needed"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l039",
+      "kind": "reported_factual_claim",
+      "summary": "Johnny says revision suffixes need not match across components; specific combinations still require evidence.",
+      "topics": [
+        "component revisions"
+      ],
+      "evidence": [
+        {
+          "location": "01:28:31",
+          "quote": "dash one box it's fine because they mix that stuff anyways even at factory it's not it's not clean like everyone thinks it was it's not like if you have a -1 box it definitely has a -1 manual and a Dash One cart that is not how that exists that only means there's been a revision to that piece of to that"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l040",
+      "kind": "anecdote",
+      "summary": "Tyler replaced original NES dust sleeves with shiny Nintendo sleeves and has not repaired those mismatches.",
+      "topics": [
+        "dust sleeves",
+        "mistakes"
+      ],
+      "evidence": [
+        {
+          "location": "01:29:38",
+          "quote": "trying to know uh and yeah that's the difference between Johnny and Tyler Tyler it would drive him crazy Johnny does not give a [ __ ] yeah I've given up but man components are so hard I I've I've told the story where I uh I replaced every single dust sleeve in my NES games this was you know in the in the 2000s I replaced them all with Nintendo shiny sleeves cuz those were the coolest sleeves and I've never gone and fixed that and because of NES prices most of my complete and"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l041",
+      "kind": "anecdote",
+      "summary": "Johnny carried a reference binder before developing spreadsheet and data-gathering skills.",
+      "topics": [
+        "research",
+        "binders"
+      ],
+      "evidence": [
+        {
+          "location": "01:33:52",
+          "quote": "I had sections and like tabs and like some of it like if I did it at work on a computer they'd be like printed off I had game d price sheets in there Stefan you'll appreciate that I hole punched and like tossed in this binder then the digit press book I had their Rarity Guide I also kept in that folder and I just brought this stuff with me and like I'd be walking into stores like an insane person with this binder and I'd be like looking stuff"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l042",
+      "kind": "anecdote",
+      "summary": "Johnny describes exhaustive lists creating new collecting desires.",
+      "topics": [
+        "checklists",
+        "completionism"
+      ],
+      "evidence": [
+        {
+          "location": "01:37:08",
+          "quote": "what are you doing with that list otherwise why would you make a list so I used to I used to know this about myself so I used to only like make list of things I wanted because if I made a list of everything then every then everything on that list became everything I wanted do you understand like that's what the sicknesses I I understand the sickness so this is what happened and then as I made more and you find out that data is so [ __ ] bad everywhere everybody is so bad at making list all"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l043",
+      "kind": "changed_opinion",
+      "summary": "Johnny stopped pursuing Vita when continuing full-retail releases conflicted with his approach.",
+      "topics": [
+        "Vita",
+        "Limited Run"
+      ],
+      "evidence": [
+        {
+          "location": "01:40:17",
+          "quote": "for a good long time and yeah I eventually was like I can't keep paying 25 or 45 or $55 for V games I can't keep doing this this is not how I collect this is not my this is not part of my tenants um so that yeah that's why I stopped collecting Vita we how close did you get uh three qus"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l044",
+      "kind": "correction",
+      "summary": "The remembered Wii bulk purchase is revised from 700 to roughly 300–400 games; neither is a precise count.",
+      "topics": [
+        "PRGE",
+        "Wii bulk buy"
+      ],
+      "evidence": [
+        {
+          "location": "01:41:24",
+          "quote": "supply of va games uh we kind of the same thing you were with me on that Portland trip where I was like I'm I guess I'm going for it like now is the time I'm was it like 700 games it was a shitload uh it was like more like 300 or 400 but yeah it was a lot it was a lot of boxes that I shipped on the plane yeah yeah we we yeah cuz that's the memory I have is just actually flying home with them yeah boxes tumbling down the and then I did that with Xbox"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l045",
+      "kind": "host_opinion",
+      "summary": "Johnny describes factories using leftover components; this does not validate every assembled combination.",
+      "topics": [
+        "factory production",
+        "variants"
+      ],
+      "evidence": [
+        {
+          "location": "01:44:34",
+          "quote": "here's all this other stuff that has to go into the box to make it the complete part so a multicomponent builds in a factory like if you're like oh well this is the print run here like no like if they have leftover pieces they're not going to be like well that's not that should be part of this print run throw all that stuff away a Factory's job job is to you know use as many of the components as they can always get rid of all of it no waste"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l046",
+      "kind": "changed_opinion",
+      "summary": "Johnny increasingly permits himself to research a system without collecting its whole set.",
+      "topics": [
+        "information collecting"
+      ],
+      "evidence": [
+        {
+          "location": "01:44:34",
+          "quote": "started or 2009 when I started making all these lists and deciding on systems except um I've gotten better at not going for full sets and being able to make lists and being like okay I just want to know about this system collecting the information is the goal more so than the thing even though like I made the list and like got the list for 3DS and I was like yeah I'm going to go at this like I like I'll start a run I'll see if I'm interested like how far does it go I'll put a"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l047",
+      "kind": "open_loop",
+      "summary": "Johnny reports approximately 50 Wii games remaining and intends to finish.",
+      "topics": [
+        "Wii",
+        "set completion"
+      ],
+      "evidence": [
+        {
+          "location": "01:46:43",
+          "quote": "and I'll like okay I'll go pick up three or four with Wii I basically just said all right we're getting this [ __ ] done we're we're finishing we I just picked up like 40 games or 30 games so I'm down to like only needing 50 games left for the Wii so I'm in the I'm"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l048",
+      "kind": "host_opinion",
+      "summary": "Johnny finds open-ended Halloween collecting freeing because it is not tied to one console.",
+      "topics": [
+        "Halloween",
+        "collecting goals"
+      ],
+      "evidence": [
+        {
+          "location": "01:48:53",
+          "quote": "just been lingering I'm just filling that out so um it's been really easy for me to like what I've been enjoying most is just like I'm buying my weirdo Halloween games it's a set that never ends and only expands and it's liberating because I'm not bound by anything I'm not bound by a system I'm not bound by particular Nostalgia outside I love Halloween and I just love seeing what they did and I I can just go wild because I still love buying games I"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l049",
+      "kind": "changed_opinion",
+      "summary": "Johnny accepts not completing boxed Game Boy and might instead acquire missing cartridges.",
+      "topics": [
+        "Game Boy",
+        "sets"
+      ],
+      "evidence": [
+        {
+          "location": "01:51:01",
+          "quote": "these are games I pick at slowly and enjoy the process more than like I got a rush to complete it and if it never gets complete I'm also I've made peace with that like same with original game boy I made the decision I will never complete original Game Boy and if I do it might be like I'll just go grab all the carts that I'm missing to to if I want to check a box that says I completed the set but I'm not going after like Game Boy prices are dumb and I don't care that much"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l050",
+      "kind": "host_opinion",
+      "summary": "SNES is Johnny's central completed set; he can accept leaving others unfinished.",
+      "topics": [
+        "sets",
+        "priorities"
+      ],
+      "evidence": [
+        {
+          "location": "01:56:15",
+          "quote": "Super Nintendo and it's done and uh so I I I can be at peace with the rest all right I I know we're going to Portland soon is uh is Eric going to be at Portland I don't know I know he's a little bit uh disenfranchise by how stupid Collectibles have"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l051",
+      "kind": "host_opinion",
+      "summary": "Johnny keeps sets for personal enjoyment but recommends curation to preserve others' flexibility.",
+      "topics": [
+        "curation",
+        "advice"
+      ],
+      "evidence": [
+        {
+          "location": "01:58:23",
+          "quote": "and where I'm inconsistent and I try to make sure other people don't fall in the same holes I've fallen into so that's why I'm not a curated collector and why I preach so avidly like yeah it's not that like this this is not the best for Value especially because people are very concerned about the value especially with games being the prices they are right now I am not I did not do this for the money I did not do this for the value even though I buy based on value"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l052",
+      "kind": "host_opinion",
+      "summary": "Johnny would consider a large offer for family benefit; the hypothetical is not a collection valuation.",
+      "topics": [
+        "collection",
+        "sale hypothetical"
+      ],
+      "evidence": [
+        {
+          "location": "02:00:31",
+          "quote": "people say well you just said you're like keeping you love all this stuff but you also say you would sell it yeah if the right offer came around yeah I would because it is just stuff if someone said like hey let me give you $2 million for your stuff right now would you take it it's like yeah why because I I love my family I could just like be like here we we now have $2 million and I still am making money and then can go buy other games later yeah you"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l053",
+      "kind": "open_loop",
+      "summary": "Stefan considers rebuilding a loose NES set as a convention activity and has retained Stadium Events.",
+      "topics": [
+        "Stefan",
+        "NES"
+      ],
+      "evidence": [
+        {
+          "location": "02:01:35",
+          "quote": "more than just like me like hanging out with my friends which I love don't get me wrong but like I also want to be there for like to have something to look for uh and so super famcom is that thing for me um but and I was thinking about adding NES to that list and just like slowly picking up the set because I I I I never did get rid of my Stadium events yeah so that's you got the hardest part you done literally half the S yeah yeah value-wise you've done it you're"
+        }
+      ],
+      "speaker": {
+        "candidate": "Stefan",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l054",
+      "kind": "show_discussion",
+      "summary": "Research effort varies; obscure subjects can take weeks of intermittent work.",
+      "topics": [
+        "production",
+        "research load"
+      ],
+      "evidence": [
+        {
+          "location": "02:04:39",
+          "quote": "outline get some notes together and uh do some things I would say there's few topics that really we spend a lot of time preparing for the most recent one I can remember uh the history of limited editions I was doing like weeks of on andof Research trying to find the earliest limited editions and I am still finding things that like we could have brought up on the show uh like there's I know like we brought up one or two of those origin pre-order things from around"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l055",
+      "kind": "show_discussion",
+      "summary": "Tyler estimates post-production at about twice finished episode length, not a measured benchmark.",
+      "topics": [
+        "production",
+        "editing load"
+      ],
+      "evidence": [
+        {
+          "location": "02:05:43",
+          "quote": "four hours to to prep because we're doing like a three-hour show and then like sometimes we talk after dark for an hour or two um but then how much does it take after I would say like whatever however long the podcast is double it and that's probably how long it takes to edit and really get everything out and you know I listen at like 1.6 speed when I'm editing but then I've got to like check for new patreons I've got to uh do the the outro where"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l056",
+      "kind": "show_discussion",
+      "summary": "Johnny describes substantial research, conversations and community engagement beyond recording.",
+      "topics": [
+        "production",
+        "hidden work"
+      ],
+      "evidence": [
+        {
+          "location": "02:08:58",
+          "quote": "it's a lot and then also if you're like also I want to go look and hunt for games and stuff it it it's a it's my full-time hobby my full-time hobby is the podcast now and my secondary hobby is games and then all these other stupid Hobbies I have and then like if you talk about the other part of the podcast that you don't is when we interact with people"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l057",
+      "kind": "host_opinion",
+      "summary": "Tyler thinks simpler production could preserve much of the value; the percentage is subjective.",
+      "topics": [
+        "production",
+        "efficiency"
+      ],
+      "evidence": [
+        {
+          "location": "02:11:03",
+          "quote": "and if we literally just did a podcast from when we start recording to uh when we finished recording and literally just threw that through the audio thing and then threw it up I think it would be 95% as good as what we have now and it would take way less time to edit and I think people would be fine with it so if you do ever do a podcast just do it as simple as possible and don't try to make it this huge big production cuz man"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l058",
+      "kind": "host_opinion",
+      "summary": "Tyler then opposes YouTube distribution because of workload and feedback concerns; this is a dated position.",
+      "topics": [
+        "YouTube",
+        "distribution"
+      ],
+      "evidence": [
+        {
+          "location": "02:14:14",
+          "quote": "[ __ ] guy um yeah and then also I feel bad cuz like we have so many people who listen to the podcast as a podcast that the YouTube video would get like 17 views and then I'd feel like oh no one listens to us we suck so uh not going to do YouTube I mean also our episode so like 3 hours long like what would be feasible if more if we went like U the cup podcast where we just like that was an interesting segment cut it up into 10 minutes and put video God like they"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l059",
+      "kind": "anecdote",
+      "summary": "Johnny names Americone Dream, Moose Tracks and salted caramel; Neapolitan begins as a joke.",
+      "topics": [
+        "food preferences",
+        "Johnny"
+      ],
+      "evidence": [
+        {
+          "location": "02:16:21",
+          "quote": "right so uh yeah I think so yes the waffle it's got the waffle bits in it okay which I just know it's like a little bit salty yep and yeah you you'll see all my sweet I like a little salty and then I'm really fond of a salted caramel that's me Stefan uh these are all Thrifty brand specifically which I don't know I don't even know if you have Right Aid do you have Right Aid back there uh in the in the Backwoods Tyler uh yeah we sure do super I know I"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l060",
+      "kind": "anecdote",
+      "summary": "Stefan names Thrifty chocolate malted crunch, butter pecan and nostalgic black cherry.",
+      "topics": [
+        "food preferences",
+        "Stefan"
+      ],
+      "evidence": [
+        {
+          "location": "02:17:25",
+          "quote": "one the best solid pick Far and Away the best really good at Thrifty too yeah yeah distant second probably butter pecan and another solid Choice and then black cherry is a like a that's that's that was like my childhood pick that's 100% Nostalgia it's not that great I'm going to tell you right now not that great black cherry not feeling it"
+        }
+      ],
+      "speaker": {
+        "candidate": "Stefan",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l061",
+      "kind": "anecdote",
+      "summary": "Tyler names mint and pistachio gelato and cheesecake ice cream.",
+      "topics": [
+        "food preferences",
+        "Tyler"
+      ],
+      "evidence": [
+        {
+          "location": "02:21:34",
+          "quote": "don't understand I mean gelato is just Italian ice cream it's a slightly different textured ice cream like anyway I get tent gelato you sure do and my favorite flavors are mint and pistachio the two ones and uh my favorite flavor of actual ice cream is cheesecake relatively new flavor I discovered it tastes like cheesecake and it's amazing you should get it I find that more in frozen yogurt these days to me"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l062",
+      "kind": "anecdote",
+      "summary": "Tyler briefly microwaves ice cream to soften it; the other hosts prefer counter-thawing.",
+      "topics": [
+        "food habits",
+        "Tyler"
+      ],
+      "evidence": [
+        {
+          "location": "02:22:40",
+          "quote": "you want to mix them you're like no what what is happening so anyway uh I will say uh I don't know if this is something you would predicted of Tyler for whatever reason I'm being profiled here I do put my ice cream in the microwave for a few seconds before eating it to soften it up how do you feel about that gross don't like hard ice cream no I just n i mean I'm with you but I just"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l063",
+      "kind": "anecdote",
+      "summary": "Johnny reports Hangman/Hangmath is expected that day, not confirmed received.",
+      "topics": [
+        "Hangman",
+        "purchase"
+      ],
+      "evidence": [
+        {
+          "location": "02:24:42",
+          "quote": "for the next show let's let's go to the old eBay purchase history yes the count Scott Adams Atari uh it's not an Atari Atari game like I think it's a disc based game but yeah text Adventure woo those are the oh Tyler it's coming today so I'll say it but that hangman we talked about in the last episode oh you got it I did yeah the grimmest [ __ ] I don't like creative software presents hangman hang math uh two home educational programs uh where they've"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l064",
+      "kind": "anecdote",
+      "summary": "Stefan recreates childhood Revised Magic decks for nostalgia rather than competitive play.",
+      "topics": [
+        "Magic",
+        "nostalgia"
+      ],
+      "evidence": [
+        {
+          "location": "02:27:48",
+          "quote": "yeah not unlimited the before you know like what I think it was like technically like third right third third edition um that's wait Stephan are you building child like your shitty childhood decks or like the deck that were good when you were a kid no no no my shitty childhood deaths okay well as close as I can to like to memory sure sure yeah I mean I could I could memorize a lot of my my deck list that I used"
+        }
+      ],
+      "speaker": {
+        "candidate": "Stefan",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l065",
+      "kind": "correction",
+      "summary": "Stefan corrects his purchase description to the Dr. Mario figure from the cover, not the whole cover.",
+      "topics": [
+        "Dr. Mario",
+        "art"
+      ],
+      "evidence": [
+        {
+          "location": "02:27:48",
+          "quote": "uh yeah so I bought I bought some cards for that uh artwise I picked up the um I think the last major purchase that's going to be um at the game on Expo in Arizona in a couple weeks um is the um the Dr Mario Clay cover or rather the the dark the the Dr Mario figure from that cover fromint how does this [ __ ] still exist I just don't understand that's it's what I do Tyler finding [ __ ]"
+        }
+      ],
+      "speaker": {
+        "candidate": "Stefan",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l066",
+      "kind": "open_loop",
+      "summary": "Stefan is paying for Myth cover preliminaries and announces a forthcoming Bungie job; both are dated statements.",
+      "topics": [
+        "Bungie",
+        "art purchases"
+      ],
+      "evidence": [
+        {
+          "location": "02:29:54",
+          "quote": "someone had posted on an art group um they had the prelims for the painted covers of myth one and two and and I was like I wonder if that guy still has those and sure enough he does so uh so we struck a deal and I am I am paying for those right now um day one at Bungie Bungie Super Fan coming and look at me with my prelims for the myth games exactly um I mean I really was a big fan of myth it was my uh I I did play quite a bit of myth back in the day um and Marathon"
+        }
+      ],
+      "speaker": {
+        "candidate": "Stefan",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l067",
+      "kind": "host_opinion",
+      "summary": "Tyler admires Beneath Apple Manor's design but finds the original version painfully slow.",
+      "topics": [
+        "Beneath Apple Manor",
+        "playing"
+      ],
+      "evidence": [
+        {
+          "location": "02:32:03",
+          "quote": "to change the word Rog like into beneath Apple manner like is what I'm saying also uh you can make one move every about 3 seconds not on purpose just cuz the game was written in basic and runs so slow so it is absolutely agonizing to play this game I thought I was going to play it"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l068",
+      "kind": "anecdote",
+      "summary": "Tyler bought the 1982 reissue as a placeholder for the difficult-to-find 1978 folio.",
+      "topics": [
+        "Beneath Apple Manor",
+        "placeholder"
+      ],
+      "evidence": [
+        {
+          "location": "02:33:03",
+          "quote": "bought beneath Apple Mac but I bought the placeholder one um so the game came out in 1978 and it was released in like this plain looking folio Edition and it is absolutely rare and impossible to find as hell so I got the 1982 re-release of it which doesn't just have blocks for graphics it has actual Graphics so it's definitely not the cool one to own uh but you know I'm for some of these rare games I want so many of them that I'm going to have to deal with"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l069",
+      "kind": "correction",
+      "summary": "Tyler retracts the assumption that MSX was The Tower of Druaga's first home port and tentatively suggests Famicom.",
+      "topics": [
+        "Tower of Druaga",
+        "ports"
+      ],
+      "evidence": [
+        {
+          "location": "02:34:07",
+          "quote": "it's not really an RPG it's an arcade game but it's clearly something the RPG genre is built upon in Japan um for some reason when I first was looking for Tower duraga I thought the MSX was the first Home Port and it's not true at all it's the famicom version I think is the first Home Port but that's not interesting at all because that it's like super common that's like a $10 game complete in box uh but I got in my mind that this was the first home version"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l070",
+      "kind": "anecdote",
+      "summary": "Tyler reports winning an MSX cassette auction around $45 after seeing a $200 listing.",
+      "topics": [
+        "Tower of Druaga",
+        "purchase"
+      ],
+      "evidence": [
+        {
+          "location": "02:35:11",
+          "quote": "sitting on Yahoo Japan for like $200 and I'm not spending $200 for this stupid cassette game this was the first one in like two years that came up with a no Reserve auction so I got it for like 45 bucks so felt good about that and those are the main things in M you did it woo everyone cares about those games I care about I got a woo for Tower draga so you know what you did that's better than I normally do on the show yeah"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l071",
+      "kind": "open_loop",
+      "summary": "CQ plans to share a PRGE booth with Mr. CIB; patron bag storage depends on available space.",
+      "topics": [
+        "PRGE",
+        "booth"
+      ],
+      "evidence": [
+        {
+          "location": "02:40:26",
+          "quote": "probably don't actually have a box that you have to take but hey speaking of the Portland Retro Gaming Expo collector's Quest will have a booth woo what woo yep we have a booth yeah that's yeah we're we have a booth and we're sharing it with Mr CIB who will have he's got a ton of good stuff for sale so you're definitely going to want to check out that and we'll have probably some buttons and stuff out that you can come and help yourself too and you know one of the"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l072",
+      "kind": "joke",
+      "summary": "Stefan's co-worker pronounced CIB as a word, prompting pronunciation banter.",
+      "topics": [
+        "CIB",
+        "pronunciation"
+      ],
+      "evidence": [
+        {
+          "location": "02:41:31",
+          "quote": "for you no bombs please um thanks Johnny I have to say something before we move on because you mentioned the word CIB and it has finally happened after many years I was in conversation with a co-worker and they said CIB pronouncing"
+        }
+      ],
+      "speaker": {
+        "candidate": "Stefan",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq200-l073",
+      "kind": "host_opinion",
+      "summary": "Tyler calls Divinity: Original Sin II the best RPG; this is his opinion, not consensus.",
+      "topics": [
+        "Divinity Original Sin II"
+      ],
+      "evidence": [
+        {
+          "location": "02:47:53",
+          "quote": "database Morgan Homebrew Mastermind vertov off the map Enz collector the other guy who collects Korean releases peaceful games he told me the other day he's never heard of divinity original sin 2 I literally think it's the best RPG that has ever been made ever in the history of computer RPGs he's never even heard of it it's not even a computer game is poured into everything oh man dude come on it's so good I don't know if you like jrpgs maybe maybe"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    }
+  ],
+  "corrections": [],
+  "topic_coverage": [
+    {
+      "topic": "collecting goals",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "00:17:04",
+        "00:38:07",
+        "01:05:36",
+        "01:48:53"
+      ]
+    },
+    {
+      "topic": "host history",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "00:19:12",
+        "00:49:39",
+        "01:20:11"
+      ]
+    },
+    {
+      "topic": "set collecting",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "00:36:04",
+        "01:37:08",
+        "01:46:43"
+      ]
+    },
+    {
+      "topic": "Nintendo Power art",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "01:02:25",
+        "01:05:36"
+      ]
+    },
+    {
+      "topic": "podcast production",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "02:04:39",
+        "02:05:43",
+        "02:08:58"
+      ]
+    },
+    {
+      "topic": "buying and playing",
+      "depth": "SUPPORTING_EXAMPLE",
+      "locations": [
+        "02:24:42",
+        "02:30:59",
+        "02:34:07"
+      ]
+    }
+  ],
+  "related_episodes": [],
+  "review_queue": [
+    {
+      "id": "cq200-review01",
+      "priority": "medium",
+      "reason": "GBA title unresolved.",
+      "evidence": [
+        {
+          "location": "00:14:55",
+          "quote": "volleyball game or whatever that game is Ultimate beach volleyball is that it I feel like GBA was really at the like when entertainment at large like all got together and decided that like video games was just a like regular piece of their marketing push for whatever thing that they were"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq200-review02",
+      "priority": "medium",
+      "reason": "Retrospective timeline compresses discovery of sites across years; do not date every detail to2004.",
+      "evidence": [
+        {
+          "location": "01:21:11",
+          "quote": "places I find Nintendo age and yeah and it like whatever the sickness is and I'm like buying all these games and I'm I then start thinking about like what games meant to me and I was like you know as a kid I said I always wanted to complete a Super"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq200-review03",
+      "priority": "medium",
+      "reason": "Speech/caption blurs NES and SNES during LittleSamson/Flintstones discussion; preserve correct game identity without assuming chronological precision.",
+      "evidence": [
+        {
+          "location": "01:38:10",
+          "quote": "a lot of money to spend on a video game but like a nice one I'm like I got a nice little Samson now it's complete in box I got I got a Donkey Kong uh or not Donkey Kong a Flintstones 2 I'm like I'm really working on the Super Nintendo set so I complete Nintendo I start completing Super Nintendo Dreamcast was like basically complete I only needed to go buy filler for that and then I I was buying Wii"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq200-review04",
+      "priority": "medium",
+      "reason": "Star Wars agent storyline naming requires check.",
+      "evidence": [
+        {
+          "location": "02:26:45",
+          "quote": "but um but yeah I've been playing the Old Republic uh going through through the uh Sith agent storyline uh which is probably the best story line in that game um and then as far as purchasing well I bought uh I've been I've been dabbling in like trying to build old magic Decks that I used to have when I was a kid"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq200-review05",
+      "priority": "medium",
+      "reason": "GoldBomberman distribution and unlocked-map details need verification.",
+      "evidence": [
+        {
+          "location": "02:33:03",
+          "quote": "games I want so many of them that I'm going to have to deal with some placeholders here I got uh super bomber man 5 the gold cartridge for super famicom uh this was just a version of Super Bomberman 5 that was sold through Coro Coro comic uh technically a different game from Super Bomberman 5 all right does it count in this version of the game there are three battle maps"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq200-review06",
+      "priority": "medium",
+      "reason": "Tentative Famicom correction needs external evidence.",
+      "evidence": [
+        {
+          "location": "02:34:07",
+          "quote": "Tower Daga for I I don't know it's not really an RPG it's an arcade game but it's clearly something the RPG genre is built upon in Japan um for some reason when I first was looking for Tower duraga I thought the MSX was the first Home Port and it's not true at all it's the famicom version I think is the first Home Port but that's not interesting at all because that it's like super common that's like a $10 game complete in box uh but I got in my mind that this"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq200-review07",
+      "priority": "medium",
+      "reason": "Unrelated mountaineering figures are not validated; exclude from cohost advice.",
+      "evidence": [
+        {
+          "location": "01:10:50",
+          "quote": "higher than that I it might be like 3% what is it I don't know I don't know the Everest death rate all right let's instead of having you talk let's look up the Everest death rate I can't believe that anyone uh holy [ __ ] 14% fatality rate yeah I was going to say Everest is really difficult what the who is climbing this these are like a lot of there's just like Rich tourists right they see a 14% death rate and they're like oh yeah that seems"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq200-review08",
+      "priority": "medium",
+      "reason": "Patron nicknames are jokes/quotes, not substantive coverage or proof of patron gameplay.",
+      "evidence": [
+        {
+          "location": "02:45:46",
+          "quote": "platform agnostic read the game shark the famicom Box Retro Game Enthusiast they call him that on the ljn podcast as well they could beat ghosts and golins twice cheff fish sha the gamer Collective the new craft who could beat Mega Man without the Paw trick previously unknown variant Tim Walker from the internet God Fisher"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    }
+  ],
+  "exclusions": [
+    "Mountaineering claims are unrelated and unverified; do not use as practical advice.",
+    "Personal self-descriptions and comic references to mental illness are not diagnoses.",
+    "Patron shoutouts count only as joke/passing references, never substantive coverage."
+  ]
+}

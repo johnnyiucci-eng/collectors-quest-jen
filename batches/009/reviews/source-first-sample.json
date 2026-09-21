@@ -1,0 +1,147 @@
+{
+  "schema_version": "1",
+  "status": "frozen_before_extraction_record_comparison",
+  "frozen_utc": "2026-09-13 09:23:17 UTC",
+  "selection_rule": "Zero-based floor(N/4), floor(N/2), floor(3N/4) source windows per episode. Explicit named or uniquely contextual games and game products; preserve no-title windows. Hardware, generic character-branded hardware mentions, books, films and unnamed aggregate consoles are excluded. Source-adjacent context consulted for Faxanadu and Diablo record only, before extraction.",
+  "limits": "Six bounded game/product references, not statistical recall. All three CQ82 selected windows concern hardware/event organization; Pikachu one is ambiguous hardware/software and excluded with this explicit note, not silently normalized.",
+  "windows": [
+    {
+      "batch": "009",
+      "episode": 15,
+      "source_key": "sc-242519754",
+      "location": "Paragraph 7",
+      "text": "\nbox. I guess it’s supposed to look like the stone on a wall. It’s like this kind of not peach, but like this pale tan. It’s really ugly. I find the box to be like, every time I look at my game collection, just the top of it sticks out like this weird peachy color that it is. I’m like, but yeah, it almost looks kind of like marble-y, like really bad colored marble. It reminds me of like a 90s bathroom is what. Yes, but box color choices aside, no one gives a shit about that except me. It’s an excellent game. It’s really good. I got it as a child actually, and it’s still kind of under the radar. It’s not talked about. The game is kind of hard. It’s actually an RPG and I what I didn’t know about it is actually part of a series of games and it was part of the dragon slayer games. I think this was the second one released for him. And like you can find dragon slayer on Turbografx 16. So that’s where I know it from after the fact. I don’t know if dragon slayer has been released on any other systems, but it’s just a really fun game. It’s not very expensive. You can get it for, you\n\n",
+      "source_window_count": 24,
+      "references": [
+        {
+          "id": "cq15-sample-Paragraph7-1",
+          "title": "Faxanadu — continuing box/game discussion",
+          "quote": "excellent game",
+          "reviewed_game_ids": [
+            "cq015-g004"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq15-sample-Paragraph7-2",
+          "title": "Dragon Slayer series",
+          "quote": "dragon slayer games",
+          "reviewed_game_ids": [
+            "cq015-g005"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq15-sample-Paragraph7-3",
+          "title": "Dragon Slayer — TurboGrafx title, exact installment unresolved",
+          "quote": "dragon slayer on Turbografx 16",
+          "reviewed_game_ids": [
+            "cq015-g006"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "009",
+      "episode": 15,
+      "source_key": "sc-242519754",
+      "location": "Paragraph 13",
+      "text": "\nsome leeway in getting some, but I also picked up a Super Nintendo game. It’s not even here yet, but I’m pretty excited about it. And I know this is going to sound weird, but it’s Snow White for the Super Nintendo. And the... And may I ask why you’re excited about it? Because it’s one of these weird games that I’ve tried to buy several times, but have not been successful. I got out of it on it, you know, just didn’t happen. Decided to wait for whatever reason. And now, now it’s finally coming to me. I found a... it’s called Happily Ever After, right? Okay. And these are like some of the filmation games. Like, I think it even says \"filmation presents\" on it. So it’s like a weird game. Like, there’s this brand of Super Nintendo games where they come from 80s cartoons and 90s cartoons and some of the filmation stuff that was out there. And usually they’re kind of expensive games. Like, this... it’s not exactly a cheap game. It’s over $50 every time you see it complete. And I bought it in three separate pieces. I found the box for $15. I got the manual for $10 and I got the cart for $12. So... and all within the same day. I don’t\n\n",
+      "source_window_count": 24,
+      "references": [
+        {
+          "id": "cq15-sample-Paragraph13-1",
+          "title": "Happily Ever After — SNES",
+          "quote": "Happily Ever After",
+          "reviewed_game_ids": [
+            "cq015-g012"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "009",
+      "episode": 15,
+      "source_key": "sc-242519754",
+      "location": "Paragraph 19",
+      "text": "\nmaybe pick some from each kind of series to kind of get excited for it. But I’m looking forward to it. I really tend to like the 3DS games because I can play them wherever I want to. I’m not necessarily. I don’t feel like sitting on the couch. I don’t have to feel like sitting on the couch and doing it. So I am looking forward to that. So I think that’s going to be my plan. So for the next little while, I’ve kind of got my games laid out. Well, that sounds pretty good to me. What about you? Are you playing anything or getting ready to play anything? I’m still playing pinball. Okay. Of course you are. Yeah, I’m still still playing a lot of pinball. And in fact, I’m going to a pinball expo. I think by the time this comes out, I’ll already be back from that. But yeah, I’m making a trip out to an expo for pinball games specifically to play because I love pinball. Okay. Well, that’s interesting. Will you be coming back with any large unforeseen purchases? No. Okay. See here. Yeah, that’s the thing. I own the one pinball machine I want to own. Well, I don’t want to say the one pinball machine I want to own. I\n\n",
+      "source_window_count": 24,
+      "references": []
+    },
+    {
+      "batch": "009",
+      "episode": 82,
+      "source_key": "sc-381157055",
+      "location": "Paragraph 11",
+      "text": "\nyear we’re lacking on how held and I’m pretty sure people will get mad at us But I may I may ask a couple friends that I know have some like a last-ditch effort to have them on display So this was a couple fine-tuning things we’ve been doing since we’re so ahead and so ahead of the game No pun intended, but I guess it is So I rock robot Yeah, yeah first Robbie. I have a army of them actually. I know game swappers has like 30 of them Yeah Nice, okay. So yeah, um, yeah, we’re gonna pretty much have every console there. You were in having the PlayStation Nintendo prototype You know that will be there. That’s always great to see Terry’s a cool guy But yeah, you’ll see amazing consoles even imports. We’re gonna have to as well So we have we have actually accounted in over 140 different consoles that are gonna be there Sega Pico Yes, but on in a display case. Yeah, yeah, good. No one wants to play that No, unless you’ve got the Pikachu one, I would play that one Japanese only anyways So we have all these arcade machines vendors music. Do you have music? It’s a festival there better be music Yes, there is that we have a\n\n",
+      "source_window_count": 42,
+      "references": []
+    },
+    {
+      "batch": "009",
+      "episode": 82,
+      "source_key": "sc-381157055",
+      "location": "Paragraph 22",
+      "text": "\npretty huge and that all that is sponsored by arcade works So we’re gonna have original hardware running all these games with exception of the ps4 title They really wanted that one because obviously they want to pitch their new stuff, right? So they’re growing so but yeah, that was I had a lot of meetings at Like 11 in the morning because of the time difference or 11 at night and until like for the morning Because you know, I want to commentate their time, you know And then you know, they’re not gonna be on meeting with me that late. I’m just some dude So so it’s like yes, sir. I’ll be there. I’ll be the beyond this Skype at 11 p.m. Sure. Yeah Nice, so that was that was fun. That was pretty awesome. So it’s been awesome awesome, right? You should like everything about like that whole process was amazing and They’re really excited and they’re awesome people and they’re ready to do an awesome show. So all eyes on us. We’re worldwide I mean, wow, no stop for the SNK the Neo Geo That’s that’s pretty hot stuff. That’s good. Mm-hmm So we have awesome tournament stage and that’s gonna be all and feel more like they were like, how’d you get some more? No,\n\n",
+      "source_window_count": 42,
+      "references": []
+    },
+    {
+      "batch": "009",
+      "episode": 82,
+      "source_key": "sc-381157055",
+      "location": "Paragraph 32",
+      "text": "\nwhat they’re good at You know, um, and I think that’s what the spirit of the show is It’s just like a collaboration of people just wanting to come to do something that you do that they’ve known you’ve done And what your result is and it’s just been a very humbling experience Because honestly without like the support this is not possible And this is a big party that I want people to come to and enjoy And now I’m able to to put that together and I’m grateful for that and I’m really excited I feel like I bought an amazing present Uh christmas gift for my best friend and I can’t wait for him to open it So, um, what we tell you here is not even half of it. Wait till you get inside. There’s more secrets I want you guys to be shocked. Okay. Um, you know, I just there’s an awesome product here And I really want you guys to enjoy yourself. I’m I’m so excited and so pumped. You know, I look forward to this Every year and I can’t wait to see what you guys put together. I know it’s going to be amazing because each one has been um, any other any other a little antique though Do you want to\n\n",
+      "source_window_count": 42,
+      "references": []
+    },
+    {
+      "batch": "009",
+      "episode": 208,
+      "source_key": "sc-1381920739",
+      "location": "00:34:04",
+      "text": "\nSprite and telling me that the gray ones move slower than the red ones W I said it was basic I caveat that I didn't say they should but if you're just like they they're going to get me something stupid look tell them to go get you this and here's the other reason for this book to exist on your list it's easy to return I mean I wouldn't return it but I would would get it and be like oh thank you and I would put it on my shelf and never read it cuz what am I going to do read a list of Mario items have you seen the slip case it looks like a looks like a it's the question block you got to like it someone fig it's it's a square book and it comes in a a question box oh that's a limited edition but yeah it comes in a question block slip case someone figured out that like oh man you put a slip case on a book and make it look like something you don't have to want to read it you just kind of yeah you just have to put it on a shelf put it on a shelf I wonder if we are talking to people who just want to put [ __ ] on shelves um I mean but there are books\n\n",
+      "source_window_count": 128,
+      "references": []
+    },
+    {
+      "batch": "009",
+      "episode": 208,
+      "source_key": "sc-1381920739",
+      "location": "01:07:50",
+      "text": "\nwhatever the thing is you that that holds the record down to the turntable to get like one that has like a skull on it or something just like a bunch of stupid [ __ ] because people are buying records are buying Collectibles basically and they will pay up a lot of money if you got the right thing printed on that record pentagram 45 adapter yep uh a collectible uh htic staff pin and miniature a scroll premium Quirk and rubber record M so I've got I I've got like a some basic Amazon turntable I think my turntable was like $150 and I I could go buy the Diablo I record for 200 bucks hey you want a perfect dark LP you can get that too whatever you want it's available on record yeah all right I think everyone knows uh all right Johnny you got you got some wine mom [ __ ] for records I doubt it no like look if you're an LP person this is this is it\n\n",
+      "source_window_count": 128,
+      "references": [
+        {
+          "id": "cq208-sample-010750-1",
+          "title": "Diablo soundtrack LP — numeral uncertain",
+          "quote": "Diablo I record",
+          "reviewed_game_ids": [
+            "cq208-g105"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq208-sample-010750-2",
+          "title": "Perfect Dark soundtrack LP",
+          "quote": "perfect dark LP",
+          "reviewed_game_ids": [
+            "cq208-g106"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "009",
+      "episode": 208,
+      "source_key": "sc-1381920739",
+      "location": "01:41:52",
+      "text": "\nif I found that I'd be like oh man this is like this is a vintage card and it's from my dead grandma and it's like like I I would have this moment where like should I just keep this forever but the answer is which I figured out a long time ago thankfully no I don't need this I could just throw it out my memories of her will live on forever don't need this physical card that to be honest she put about 3 minutes of work into it there's not that much love in this card the love came from the person literally it doesn't even say anything it just says happy birthday grandma M so like who gives a [ __ ] yeah um yeah so yeah also like birthday cards you don't need to like if you're buying me a gift you don't need to throw a birthday I'm just not a card guy I'm not I'm not into I like sending Christmas cards that's something I usually do um but yeah not I don't like birthday cards Johnny I hope that uh it when you do your Christmas cards you do the the four like the essay style four pages of everything that happened to your family this year here God I love those no like literally it's like uh we have like\n\n",
+      "source_window_count": 128,
+      "references": []
+    }
+  ]
+}

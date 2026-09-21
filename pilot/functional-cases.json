@@ -1,0 +1,127 @@
+{
+  "schema_version": "1",
+  "evaluation_type": "development_retrieval_regression",
+  "independence": "Not blinded. Cases frozen after query inspection; no accuracy or held-out claim.",
+  "cases": [
+    {
+      "id": "cq6-development-recall",
+      "episode": 6,
+      "query": "Speed Racer Mountain Bike Rally",
+      "question": "Find the combo-cart acquisition and authentication discussion.",
+      "expected_answer": "Johnny describes the Speed Racer / Mountain Bike Rally SNES combo cart and verifying it.",
+      "limits": "Untimed paragraphs; no invented timestamps. Kat-era episode, not Tyler.",
+      "expected_local_id": "g-combo:0",
+      "expected_location": "Paragraph 1",
+      "answer_quality_status": "not_scored",
+      "retrieval_check_only": true
+    },
+    {
+      "id": "cq7-development-recall",
+      "episode": 7,
+      "query": "Tomb Raider",
+      "question": "What was Johnny playing, and had he opened Fallout?",
+      "expected_answer": "Current Tomb Raider briefly; Fallout still sealed.",
+      "limits": "Current Tomb Raider installment remains unresolved; do not say Fallout was played.",
+      "expected_local_id": "g-tomb-current:0",
+      "expected_location": "Paragraph 2",
+      "answer_quality_status": "not_scored",
+      "retrieval_check_only": true
+    },
+    {
+      "id": "cq146-development-recall",
+      "episode": 146,
+      "query": "Last of Us",
+      "question": "Find the hosts' Last of Us Part II discussion.",
+      "expected_answer": "Discussion includes bleakness and misery, not simply an agreed verdict that the game is bad.",
+      "limits": "Multiple speakers; preserve opinions and their qualifications.",
+      "expected_local_id": "cq146-g001:0",
+      "expected_location": "00:04:06",
+      "answer_quality_status": "not_scored",
+      "retrieval_check_only": true
+    },
+    {
+      "id": "cq200-development-recall",
+      "episode": 200,
+      "query": "Beneath Apple Manor",
+      "question": "Which version of Beneath Apple Manor was Tyler playing?",
+      "expected_answer": "He says he was playing the 1978 version; the later purchased copy is a separate edition.",
+      "limits": "A played version must not automatically become the purchased version.",
+      "expected_local_id": "cq200-g032:1",
+      "expected_location": "02:30:59",
+      "answer_quality_status": "not_scored",
+      "retrieval_check_only": true
+    },
+    {
+      "id": "cq222-development-recall",
+      "episode": 222,
+      "query": "Jedi Survivor",
+      "question": "Find the Jedi: Survivor collector-edition packaging comparison.",
+      "expected_answer": "Johnny's Xbox purchase is contrasted with the other platform's packaging.",
+      "limits": "Do not silently treat a caption's PS3 wording as verified platform metadata.",
+      "expected_local_id": "cq222-g036:0",
+      "expected_location": "01:31:44",
+      "answer_quality_status": "not_scored",
+      "retrieval_check_only": true
+    },
+    {
+      "id": "cq248-development-recall",
+      "episode": 248,
+      "query": "Mega Man refund",
+      "question": "Which refund insert belongs with the discussed Mega Man 3 print?",
+      "expected_answer": "The Mega Man refund, not the generic Captain Commando refund; later offer-removed prints differ.",
+      "limits": "Historical reported collecting advice, not live price guidance.",
+      "expected_local_id": "g-mega-man3:0",
+      "expected_location": "01:06:21",
+      "answer_quality_status": "not_scored",
+      "retrieval_check_only": true
+    },
+    {
+      "id": "cq259-development-recall",
+      "episode": 259,
+      "query": "Nostromo",
+      "question": "Find the early horror discussion of Nostromo.",
+      "expected_answer": "AX-2: Uchuu Yusousen Nostromo is discussed as part of a four-game collection.",
+      "limits": "Romanization and historical firsts require qualification, not external-fact certification.",
+      "expected_local_id": "cq259-g030:0",
+      "expected_location": "00:52:51",
+      "answer_quality_status": "not_scored",
+      "retrieval_check_only": true
+    },
+    {
+      "id": "cq263-development-recall",
+      "episode": 263,
+      "query": "Rusty",
+      "question": "Had Johnny received Rusty yet?",
+      "expected_answer": "No receipt established: the purchase was pending safe arrival.",
+      "limits": "Do not collapse ordered into received or invent delivery date.",
+      "expected_local_id": "cq263-g105:0",
+      "expected_location": "02:55:18",
+      "answer_quality_status": "not_scored",
+      "retrieval_check_only": true
+    },
+    {
+      "id": "cq299-development-recall",
+      "episode": 299,
+      "query": "Dracula French",
+      "question": "Was the Dracula development attribution corrected?",
+      "expected_answer": "The dialogue changes Eastern European to French.",
+      "limits": "Evidence of an on-show correction, not independent historical verification.",
+      "expected_local_id": "cq299-l032",
+      "expected_location": "02:19:30",
+      "answer_quality_status": "not_scored",
+      "retrieval_check_only": true
+    },
+    {
+      "id": "cq300-development-recall",
+      "episode": 300,
+      "query": "Witch Haven inconclusive",
+      "question": "Had Witchaven arrived, and was the prize-copy origin established?",
+      "expected_answer": "Not arrived; the promotional provenance is described as inconclusive.",
+      "limits": "No confirmed Spooky World distribution claim.",
+      "expected_local_id": "cq300-g288:0",
+      "expected_location": "03:44:06",
+      "answer_quality_status": "not_scored",
+      "retrieval_check_only": true
+    }
+  ]
+}

@@ -99,10 +99,52 @@ If the exchange has not naturally surfaced documentation, conflicts, source mapp
 
 ---
 
-# Tip 3 — Use Photos to Hunt Variants
+# Tip 3 — Use AI as a Virtual Assistant
 
 ## Status
-**Promising / approved for continued development.**
+**Approved.**
+
+## Core lesson
+Use AI to move routine collecting work forward: turn rough notes into an action list, prepare questions for a seller, compare listings against stated requirements, draft a convention plan, summarize what changed in a watchlist, or turn research into the next concrete steps. The collector sets the rules and approves consequential actions; the assistant handles preparation and follow-through.
+
+This is distinct from Tip 2. “Make a Better Brain” organizes and retrieves the collector's knowledge. A virtual assistant uses that knowledge to prepare work the collector can review and act on.
+
+## Useful assignments
+- Turn a weekend's pickup notes, receipts, and photos into a review queue.
+- Compare listings with a requirement such as region, edition, condition, included inserts, and maximum price; show which requirement each listing does or does not establish.
+- Draft a short seller message asking for the exact photos or details still needed.
+- Prepare a convention or store plan around priorities, budget, travel time, and likely distractions.
+- Convert research notes into follow-ups with an owner, deadline, and definition of done.
+
+## Guardrail
+Do not imply that AI has messaged a seller, set a reminder, monitored a marketplace, accessed an account, or completed a purchase unless the product has that capability and the action actually occurred. For purchases, messages, deletions, and other consequential steps, show the proposed action and leave approval with the collector.
+
+---
+
+# Tip 4 — Normalize Game Lists with Stable IDs
+
+## Status
+**Approved.**
+
+## Core lesson
+Game titles are labels, not reliable identities. The same release can appear as abbreviations, alternate spellings, regional titles, sequel-number changes, or marketplace shorthand, while two genuinely different releases can share nearly the same name. AI can help normalize lists when every record is anchored to a stable ID and the distinctions a collector cares about.
+
+Use a collector-controlled internal ID for each intended record, then attach applicable source identifiers such as UPC/EAN, product or catalog code, database ID, and platform/region identifiers. Keep platform, region, edition, label variant, and condition or completeness fields separate rather than packing every distinction into the title.
+
+## A safe normalization pass
+Preserve the original value, propose a canonical display name, map aliases to the stable record, and show the evidence for the match. Put uncertain matches and collisions in a review queue. Never merge records merely because the titles look similar, and never treat a barcode or outside database ID as proof of a packaging variant it does not encode.
+
+## Collector payoff
+A normalized list makes duplicate detection, missing-game reports, cross-sheet comparisons, and collection/want-list reconciliation more trustworthy. It also lets the collector change a display name without breaking the history attached to the item.
+
+The useful question is not just “Are these names close?” It is “Do these rows describe the same collectible under this collection's rules, and what evidence supports that decision?”
+
+---
+
+# Fifth Tip
+Not finalized. The two replaced tips are now developed candidates for this slot; neither is approved as Tip 5.
+
+## Candidate — Use Photos to Hunt Variants
 
 Sometimes a collector knows a variant exists because they have seen a picture, but the variant is poorly documented and no useful listing title exists. AI can turn the image into research clues: logos, rating marks, sticker wording, product codes, publisher marks, spine differences, region indicators, typography/packaging differences, and partially readable text. Then turn those clues into search terms and verification steps.
 
@@ -110,12 +152,7 @@ The best photos are often the boring ones: straight-on front, back, spine, and w
 
 A blurry photo does not automatically kill the hunt. Change the question from “identify this exact variant” to “what can you see with confidence, what is uncertain, and what clues can we turn into searches for clearer examples?” The AI may be a clue generator rather than the final identifier.
 
----
-
-# Tip 4 — Build a Buying Priority List
-
-## Status
-**Approved and substantially developed.**
+## Candidate — Build a Buying Priority List
 
 Give AI a list of active collecting targets and use it to help determine what deserves attention first by combining market movement, historical pricing, sales activity, edition-specific context, and current news. Output might be Buy sooner, Watch closely, Safe to wait, or Data too noisy/investigate.
 
@@ -127,12 +164,9 @@ Alerts can be threshold-based: meaningful percentage movement, target enters buy
 
 Do not imply perfect direct access to marketplace history. Availability and completeness vary; sell-through may be estimated rather than exact.
 
----
+Other brainstorms remain a personal collector scout/smarter saved searches, translating foreign listings/inserts/seller notes, a convention/store attack plan, or source/receipt tracking for collector research.
 
-# Fifth Tip
-Not finalized. It must be meaningfully distinct from the four above. Candidate directions include a personal collector scout/smarter saved searches, translating foreign listings/inserts/seller notes, a convention/store attack plan, or source/receipt tracking for collector research.
-
-The standalone “variant trap detector” was rejected as too weak and insufficiently useful to ordinary collectors. The candidates above remain brainstorms, not approved tips. A final candidate should solve a recognizable collector problem, show a material benefit from AI, be accessible to a normal collector, and support 3–5 minutes of worthwhile discussion.
+The standalone “variant trap detector” was rejected as too weak and insufficiently useful to ordinary collectors. All Tip 5 candidates remain unapproved. A final choice should be meaningfully distinct from the approved four, solve a recognizable collector problem, show a material benefit from AI, be accessible to a normal collector, and support 3–5 minutes of worthwhile discussion.
 
 ---
 

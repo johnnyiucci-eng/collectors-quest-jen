@@ -1,0 +1,2032 @@
+{
+  "schema_version": "0.1",
+  "extraction_version": "batch008-fullsource-v1",
+  "source": {
+    "key": "sc-241546714",
+    "episode_number": 14,
+    "title": "Episode 14 -SoCal Retro Gaming Expo - Interview With SuperVideoGameBros",
+    "date": "2016-01-12",
+    "path": "episodes/cq-014-sc-241546714.md",
+    "source_url": "https://soundcloud.com/collectors-quest/collectors-quest-episode-14-socal-retro-gaming-expo-interview-with-supervideogamebros",
+    "words": 8202,
+    "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+    "sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5"
+  },
+  "review": {
+    "status": "extracted_draft",
+    "read_coverage": "All38paragraphs read end to end; full source-first inventory and same-agent audit.",
+    "audio_verification": "not_performed",
+    "independent_review": "not_performed",
+    "timing": "No timestamps supplied; paragraph numbers are navigation aids"
+  },
+  "participants": [
+    {
+      "name": "Johnny",
+      "confidence": "high",
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "here with Johnny"
+        }
+      ]
+    },
+    {
+      "name": "Kat",
+      "confidence": "high",
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "I’m Kat"
+        }
+      ]
+    },
+    {
+      "name": "Steven",
+      "confidence": "high",
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "his name is Steven"
+        }
+      ]
+    }
+  ],
+  "main_topic": "Steven's SoCal Retro Gaming Expo plans and Super Video Game Bros collecting-to-retail history",
+  "secondary_topics": [
+    "Collector-focused retail service",
+    "Convention experience and access",
+    "Guest collection and favorite games",
+    "Recent purchases and play"
+  ],
+  "games": [
+    {
+      "id": "cq014-g001",
+      "canonical_title": "Star Fox — competition cartridge",
+      "spoken_forms": [
+        "Star Fox competition"
+      ],
+      "entity_granularity": "competition_variant",
+      "platform": "Super Nintendo context",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Planned competition and reproduction cartridge sale, not an original-cart purchase.",
+          "speaker": {
+            "candidate": "Steven",
+            "confidence": "medium",
+            "basis": "Named introduction and dialogue context; no audio diarization."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 5",
+              "quote": "Star Fox competition"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq014-g002",
+      "canonical_title": "Super Smash Bros.",
+      "spoken_forms": [
+        "Smash Bros tournament"
+      ],
+      "entity_granularity": "series",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Planned professional tournament; installment not specified.",
+          "speaker": {
+            "candidate": "Steven",
+            "confidence": "medium",
+            "basis": "Named introduction and dialogue context; no audio diarization."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 6",
+              "quote": "Smash Bros tournament"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq014-g003",
+      "canonical_title": "Castlevania: Dracula X",
+      "spoken_forms": [
+        "Castlevania Dracula X"
+      ],
+      "entity_granularity": "game",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Preserved childhood handwritten codes, not current play discussion.",
+          "speaker": {
+            "candidate": "Steven",
+            "confidence": "medium",
+            "basis": "Named introduction and dialogue context; no audio diarization."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 9",
+              "quote": "Castlevania Dracula X"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq014-g004",
+      "canonical_title": "Mega Man X — series",
+      "spoken_forms": [
+        "Mega Man X series"
+      ],
+      "entity_granularity": "series",
+      "platform": "SNES-era favorites context",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Series-level favorite despite NES prompt; not first Mega Man X alone.",
+          "speaker": {
+            "candidate": "Steven",
+            "confidence": "medium",
+            "basis": "Named introduction and dialogue context; no audio diarization."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 28",
+              "quote": "Mega Man X series is top number one"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq014-g005",
+      "canonical_title": "Chrono Trigger",
+      "spoken_forms": [
+        "Chrono Trigger"
+      ],
+      "entity_granularity": "game",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Rapid favorite-list name, no individual review.",
+          "speaker": {
+            "candidate": "Steven",
+            "confidence": "medium",
+            "basis": "Named introduction and dialogue context; no audio diarization."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 28",
+              "quote": "Chrono Trigger"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq014-g006",
+      "canonical_title": "Super Metroid",
+      "spoken_forms": [
+        "Super Metroid"
+      ],
+      "entity_granularity": "game",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Guest chooses it over Turtles; Johnny voices personal affection, not universal quality proof.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "low",
+            "basis": "Named introduction and dialogue context; no audio diarization."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 28",
+              "quote": "Super Metroid"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq014-g007",
+      "canonical_title": "Teenage Mutant Ninja Turtles IV: Turtles in Time",
+      "spoken_forms": [
+        "Turtles in Time"
+      ],
+      "entity_granularity": "game",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Favorite-list near miss and beat-em-up praise versus Super Metroid.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "low",
+            "basis": "Named introduction and dialogue context; no audio diarization."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 29",
+              "quote": "Turtles in Time"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq014-g008",
+      "canonical_title": "Metal Gear Solid V: The Phantom Pain",
+      "spoken_forms": [
+        "Metal Gear Solid Phantom Pain"
+      ],
+      "entity_granularity": "game",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Beat last week; lingering positive impression.",
+          "speaker": {
+            "candidate": "Steven",
+            "confidence": "medium",
+            "basis": "Named introduction and dialogue context; no audio diarization."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 31",
+              "quote": "Metal Gear Solid Phantom Pain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq014-g009",
+      "canonical_title": "Alien Crush",
+      "spoken_forms": [
+        "Alien Crush"
+      ],
+      "entity_granularity": "game",
+      "platform": "raw platform phrase: two of us",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Current play and multiplayer score anecdote.",
+          "speaker": {
+            "candidate": "Steven",
+            "confidence": "medium",
+            "basis": "Named introduction and dialogue context; no audio diarization."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 31",
+              "quote": "I’ve been playing Alien Crush"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Recommendation and Johnny copy-count correction five to three; no current Johnny play established.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "low",
+            "basis": "Named introduction and dialogue context; no audio diarization."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 32",
+              "quote": "You should pop in Alien Crush"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq014-g010",
+      "canonical_title": "Super Mario RPG",
+      "spoken_forms": [
+        "Super Mario RPG"
+      ],
+      "entity_granularity": "game",
+      "platform": "Super Nintendo",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Third copy acquired, intends to retain; play-start ambiguity and CIB-condition purchase report.",
+          "speaker": {
+            "candidate": "Kat",
+            "confidence": "medium",
+            "basis": "Named introduction and dialogue context; no audio diarization."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 31",
+              "quote": "I’m getting into some Super Mario RPG"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq014-g011",
+      "canonical_title": null,
+      "spoken_forms": [
+        "All virtual pins"
+      ],
+      "entity_granularity": "unresolved_collection",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "low",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Current aggregate virtual-pinball play; named software not supplied, do not import previous episode's title.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named introduction and dialogue context; no audio diarization."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 32",
+              "quote": "All virtual pins"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq014-g012",
+      "canonical_title": "Fallout",
+      "spoken_forms": [
+        "Fallout"
+      ],
+      "entity_granularity": "series",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Story-heavy game example and brief occasional play; installment not specified.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named introduction and dialogue context; no audio diarization."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 32",
+              "quote": "something like Fallout"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq014-g013",
+      "canonical_title": "The Pirates of Dark Water",
+      "spoken_forms": [
+        "The Pirates of the Dark, Darkwater"
+      ],
+      "entity_granularity": "game",
+      "platform": "Super Nintendo",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Personal $125 complete/all-inserts purchase, one of collection486/487.",
+          "speaker": {
+            "candidate": "Steven",
+            "confidence": "medium",
+            "basis": "Named introduction and dialogue context; no audio diarization."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 33",
+              "quote": "The Pirates of the Dark, Darkwater"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq014-g014",
+      "canonical_title": "GunForce",
+      "spoken_forms": [
+        "Gun Force"
+      ],
+      "entity_granularity": "game",
+      "platform": "Super Nintendo",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Personal pickup paired with Dark Water, Irem attribution reported.",
+          "speaker": {
+            "candidate": "Steven",
+            "confidence": "medium",
+            "basis": "Named introduction and dialogue context; no audio diarization."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 33",
+              "quote": "Gun Force"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq014-g015",
+      "canonical_title": "Advanced Dungeons & Dragons: Eye of the Beholder",
+      "spoken_forms": [
+        "advanced Dungeons and Dragons. I have the Beholder"
+      ],
+      "entity_granularity": "game",
+      "platform": "Super Nintendo",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Source title garble preserved; existing cart completed with box/manual, not new-cart buy.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named introduction and dialogue context; no audio diarization."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 34",
+              "quote": "advanced Dungeons and Dragons. I have the Beholder"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq014-g016",
+      "canonical_title": "Kirby’s Return to Dream Land",
+      "spoken_forms": [
+        "Kirby’s Return to Dreamland"
+      ],
+      "entity_granularity": "game",
+      "platform": "Wii",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Purchase/price comparison with cheap bulk Wii games, no play claim.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named introduction and dialogue context; no audio diarization."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 34",
+              "quote": "Kirby’s Return to Dreamland"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq014-g017",
+      "canonical_title": "Hotel for Dogs",
+      "spoken_forms": [
+        "Hotel for Dogs"
+      ],
+      "entity_granularity": "game",
+      "platform": "Wii",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Recent shovelware pickup example, not played review.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named introduction and dialogue context; no audio diarization."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 35",
+              "quote": "Hotel for Dogs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq014-g018",
+      "canonical_title": null,
+      "spoken_forms": [
+        "pets. My veterinarian"
+      ],
+      "entity_granularity": "unresolved",
+      "platform": "Wii",
+      "region_edition": null,
+      "identification_confidence": "low",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Acquired pet/vet game; exact regional title unresolved.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named introduction and dialogue context; no audio diarization."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 35",
+              "quote": "pets. My veterinarian"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq014-g019",
+      "canonical_title": null,
+      "spoken_forms": [
+        "big box. Jennifer McCarthy"
+      ],
+      "entity_granularity": "unresolved",
+      "platform": "Wii context",
+      "region_edition": null,
+      "identification_confidence": "low",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Question about big-box game and Johnny's dislike/ownership rationale; do not invent a canonical title.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "low",
+            "basis": "Named introduction and dialogue context; no audio diarization."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 35",
+              "quote": "Jennifer McCarthy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "lore": [
+    {
+      "id": "cq014-l001",
+      "kind": "ANNOUNCEMENT",
+      "summary": "Steven presents the inaugural SoCal Retro Gaming Expo as collector-designed and collector-organized; this is his event-positioning claim, not verified regional firstness.",
+      "topics": [
+        "expo purpose"
+      ],
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "first Expo in Southern California"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l002",
+      "kind": "DATED_LOGISTICS",
+      "summary": "Announced January30–31,2016, City of Industry,9–5 both days; all competitions/admission free per closing. These are historical plans, not current event information.",
+      "topics": [
+        "expo logistics"
+      ],
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 2",
+          "quote": "30th and 31st"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l003",
+      "kind": "PREFERENCE",
+      "summary": "Johnny prefers clean ready-to-play games and dislikes restoring dirty trade stock, even needing to clean his nails after handling it.",
+      "topics": [
+        "condition"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "I hate dirty nails"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l004",
+      "kind": "QUALIFICATION",
+      "summary": "Steven promises an organized professional environment but explicitly cannot control what every vendor brings.",
+      "topics": [
+        "vendor expectations"
+      ],
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "I can’t really control what they bring"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l005",
+      "kind": "RETAIL_PHILOSOPHY",
+      "summary": "Steven holds retail to a higher standard: clean/test merchandise and let customers go home and play it immediately.",
+      "topics": [
+        "service"
+      ],
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 4",
+          "quote": "We clean them, we test them"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l006",
+      "kind": "EVENT_PLANS",
+      "summary": "Expo activities include free-play arcades, a history museum, Star Fox competition reproductions and a professional Smash tournament, not merely sales tables.",
+      "topics": [
+        "expo activities"
+      ],
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 5",
+          "quote": "history museum"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l007",
+      "kind": "REPRODUCTION",
+      "summary": "Star Fox competition carts to be sold are explicitly reproductions; the $800 comparison is a dated original-price claim, not an actual purchase or current valuation.",
+      "topics": [
+        "reproductions"
+      ],
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 6",
+          "quote": "instead of paying $800"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l008",
+      "kind": "JOKE",
+      "summary": "Kat's 'Your favorite, Johnny' and his 'big fan' reproduction exchange is teasing; no sincere pro-reproduction policy established.",
+      "topics": [
+        "reproduction joke"
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "low",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 6",
+          "quote": "Your favorite, Johnny"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l009",
+      "kind": "EVENT_DESIGN",
+      "summary": "Steven wants an experience with actual retro-game booths and play, avoiding events dominated by ancillary shirts/perlers. Johnny agrees games are his draw.",
+      "topics": [
+        "expo experience"
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "low",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 6",
+          "quote": "more than just video games on tables"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l010",
+      "kind": "COLLECTING_PRACTICE",
+      "summary": "Steven pursues a complete SNES collection and reports trying every game acquired, discovering unknown games along the way.",
+      "topics": [
+        "play every acquisition"
+      ],
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 7",
+          "quote": "every game I get in"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l011",
+      "kind": "CHILDHOOD",
+      "summary": "Steven recalls winning a $2000 Toys R Us sweepstakes at agefive in1985 through a Showbiz Pizza contest entered by his mother; it enabled Atari2600/NES and toys.",
+      "topics": [
+        "origin story"
+      ],
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 8",
+          "quote": "$2,000 sweepstakes to Toys R Us"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l012",
+      "kind": "KEEPSAKES",
+      "summary": "Steven says he retained childhood packaging and even handwritten Dracula X codes by himself and his sister; condition is his rough7/10 judgment.",
+      "topics": [
+        "childhood ephemera"
+      ],
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 9",
+          "quote": "my sister has her codes too"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l013",
+      "kind": "CAREER",
+      "summary": "A layoff after his daughter's birth helped prompt self-employment thinking; he had accumulated duplicate inventory while shopping online/swap meets around2003/2004.",
+      "topics": [
+        "business origin"
+      ],
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 10",
+          "quote": "2003, 2004"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l014",
+      "kind": "CAREER",
+      "summary": "After seven months at a better-paying new job, Steven gave30days notice and began vending the following Saturday; chronology remains his recollection.",
+      "topics": [
+        "business transition"
+      ],
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 11",
+          "quote": "working seven months in this new company"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l015",
+      "kind": "VENUE",
+      "summary": "Frank & Son is described as 'Costco for nerds,' a mixed collectibles warehouse rather than exclusively a game shop; raw venue-name transcription varies.",
+      "topics": [
+        "Frank and Son"
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "low",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 11",
+          "quote": "Costco for nerds"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l016",
+      "kind": "RETAIL_PHILOSOPHY",
+      "summary": "Steven says he initially underpriced to build long-term customers and wanted a knowledgeable, fair, professional game retail experience.",
+      "topics": [
+        "customer relationships"
+      ],
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 12",
+          "quote": "trying to generate long-term customers"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l017",
+      "kind": "DATED_VENUE",
+      "summary": "Interview describes Wednesday and Saturday venue hours and sports/autograph traffic; do not treat these2016details as current opening hours.",
+      "topics": [
+        "venue hours"
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "low",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 13",
+          "quote": "Wednesdays from like three to nine"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l018",
+      "kind": "JOKE",
+      "summary": "Kat says she cannot skate, but denies being the only Canadian who cannot; Johnny's national-generalization joke is not a demographic fact.",
+      "topics": [
+        "skating callback"
+      ],
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 15",
+          "quote": "I know a few more"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l019",
+      "kind": "CHRONOLOGY",
+      "summary": "Steven clarifies booth opening as June2008 after a loose six/eight-year discussion; retain exact stated date rather than inferred start year.",
+      "topics": [
+        "store chronology"
+      ],
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 15",
+          "quote": "June of 2008"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l020",
+      "kind": "CUSTOMER_VIEW",
+      "summary": "Johnny values clean, well-cared-for stock and knowledgeable service, even if it costs a few dollars more; this is personal preference, not endorsement verification.",
+      "topics": [
+        "condition premium"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 16",
+          "quote": "pay a couple dollars more"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l021",
+      "kind": "MARKET_MEMORY",
+      "summary": "Johnny and Steven recall growth around2007/2010/2012 and wider N64/PS1/Dreamcast-era interest; these are dated qualitative memories, not market statistics.",
+      "topics": [
+        "collecting boom"
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "low",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 17",
+          "quote": "mini boom in 2010"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l022",
+      "kind": "BUSINESS_GROWTH",
+      "summary": "Steven describes keeping multiple booths after accepting a better location, then opening a separate store in April the prior year; he regrets not doing so sooner.",
+      "topics": [
+        "store expansion"
+      ],
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 19",
+          "quote": "store last year in April"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l023",
+      "kind": "LOCATION",
+      "summary": "Steven chose Diamond Bar after a year of research, abouttenminutes from Frank & Son, and describes long workdays while also organizing the expo.",
+      "topics": [
+        "store location"
+      ],
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 20",
+          "quote": "Diamond Bar, California"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l024",
+      "kind": "BUSINESS_IDENTITY",
+      "summary": "Store is Super Video Game Bros. At recording, online stock categories were SNES/NES/PS1/Genesis and rapid sell-through made website inventory hard to maintain.",
+      "topics": [
+        "store identity"
+      ],
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 21",
+          "quote": "Super Nintendo, Nintendo and PS1 and Sega Genesis"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l025",
+      "kind": "QUALIFICATION",
+      "summary": "Website can be a price guide but calling may find unposted stock; inventory availability is not guaranteed. April anniversary had not yet occurred.",
+      "topics": [
+        "stock freshness"
+      ],
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 22",
+          "quote": "sells before you have the time to take a picture"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l026",
+      "kind": "EVENT_MOTIVE",
+      "summary": "Travel costs to Vegas/Portland conventions and many local collectors motivated a Southern California event; venue partnership made it feasible.",
+      "topics": [
+        "local access"
+      ],
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 23",
+          "quote": "it’s expensive"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l027",
+      "kind": "PARTNERSHIP",
+      "summary": "Steven partnered with Frank & Son's owner and others, taking an industry-knowledge/connection leadership role. No sole-founder claim.",
+      "topics": [
+        "expo partnership"
+      ],
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 24",
+          "quote": "we partnered up with a few more people"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l028",
+      "kind": "BUDGET_REPORT",
+      "summary": "Steven contrasts estimated major-center rental costs with their partnership, says admission free and expects roughly break-even; not audited finances.",
+      "topics": [
+        "expo budget"
+      ],
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 25",
+          "quote": "I think we’re just breaking even"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l029",
+      "kind": "LAYOUT_LIMIT",
+      "summary": "Steven does not know exact floor area, gives approximate70spaces/50uniquevendors and10x10 or6x10booths, pointing to a vendor map.",
+      "topics": [
+        "layout uncertainty"
+      ],
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 26",
+          "quote": "As far as specs, I’m sorry. It’s not my division and I don’t know"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l030",
+      "kind": "GUEST_PLANS",
+      "summary": "Confirmed announced guests: Pat the NES Punk, Gamester81, Keith Robinson/Blue Sky Rangers. Later says talent will have panels as well as booths; sponsor hopes remain undisclosed.",
+      "topics": [
+        "announced guests"
+      ],
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 27",
+          "quote": "confirmation from Pat the NES Punk"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l031",
+      "kind": "COLLECTION_FOCUS",
+      "summary": "Steven's main collection is SNES with a soft spot for NES; expanding into TurboGrafx/PC Engine/Genesis. His favorites answer names Mega Man X series, Chrono Trigger and Super Metroid despite NES wording in prompt.",
+      "topics": [
+        "favorites"
+      ],
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 28",
+          "quote": "Mega Man X series is top number one"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l032",
+      "kind": "OPINION",
+      "summary": "Steven chooses Super Metroid over Turtles in Time; the exchange includes beat-em-up praise and Johnny's personal Super Metroid affection, not objective universal ranking.",
+      "topics": [
+        "favorite debate"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 29",
+          "quote": "personal deep affection for Super Metroid"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l033",
+      "kind": "ATTENDANCE_PLAN",
+      "summary": "Johnny plans to attend and send Kat updates while she stays in Canada. Flying her over next year is a wish, not booked travel.",
+      "topics": [
+        "attendance"
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "low",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 30",
+          "quote": "I’m going to be stuck in Canada"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l034",
+      "kind": "PLAY_REPORT",
+      "summary": "Steven beat Phantom Pain last week and is still thinking about it; he also plays Alien Crush and reports26million versus a friend's3million.",
+      "topics": [
+        "guest play"
+      ],
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 31",
+          "quote": "Then I sat down to like 26 million"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l035",
+      "kind": "RETURNING_GAME",
+      "summary": "Kat has Super Mario RPG for the third time and intends to keep this copy; play-start language shifts between getting into it and going to start.",
+      "topics": [
+        "reacquisition"
+      ],
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 31",
+          "quote": "This is the third time I’ve had it"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l036",
+      "kind": "PLAY_PREFERENCE",
+      "summary": "Johnny uses short virtual-pinball sessions because he lacks mental space for story-heavy play like Fallout; unnamed virtual pins are not silently equated with a previous episode's software.",
+      "topics": [
+        "short sessions"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 32",
+          "quote": "I have like 20 minutes to game"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l037",
+      "kind": "CORRECTION",
+      "summary": "Alien Crush five-copy teasing is corrected by Johnny to three, with some variants; do not invent three edition identities.",
+      "topics": [
+        "copy count"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 33",
+          "quote": "It’s not five. It’s three"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l038",
+      "kind": "PURCHASE",
+      "summary": "Steven's complete/all-inserts Dark Water cost125; GunForce joins it as SNEScollection486/487. This is personal collection, not reseller inventory.",
+      "topics": [
+        "guest purchases"
+      ],
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 33",
+          "quote": "that would make it 486 and 487"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l039",
+      "kind": "PURCHASE",
+      "summary": "Kat's reacquired Super Mario RPG is CIB, not pristine, but a good deal; no numeric price supplied.",
+      "topics": [
+        "condition tradeoff"
+      ],
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 33",
+          "quote": "Not pristine, but I also get it for a really great deal"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l040",
+      "kind": "COMPLETION",
+      "summary": "Johnny already had the Eye of the Beholder cartridge and added box/manual; Kirby Wii purchase is compared with his rough100gamesat$2spree.",
+      "topics": [
+        "packaging completion"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 34",
+          "quote": "I had a cart, but I finally found the box in the manual"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l041",
+      "kind": "PREFERENCE",
+      "summary": "Johnny likens buying bad Wii games to watching bad movies, cites Hotel for Dogs/pet-vet/uncertain McCarthy game, and only conditionally mentions a complete Wii set.",
+      "topics": [
+        "shovelware motive"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 35",
+          "quote": "if I ever decide to complete the Wii set"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq014-l042",
+      "kind": "DISPLAY",
+      "summary": "Johnny wants to share his collection, including Instagram; a walk-through museum is a fanciful possibility, not an announced operating museum. Steven recalls seeing the collection around2011.",
+      "topics": [
+        "sharing collection"
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "low",
+        "basis": "Interview turn prompts and contextual continuity; not audio."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 36",
+          "quote": "I personally saw your collection. I think it was in 2011"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    }
+  ],
+  "corrections": [
+    {
+      "id": "cq014-c01",
+      "category": "copy_count",
+      "original": "Alien Crush five copies",
+      "current": "Johnny corrects the tease to three; some variants but editions unnamed.",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context and explicit correction."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 33",
+          "quote": "It’s not five"
+        },
+        {
+          "location": "Paragraph 33",
+          "quote": "It’s three"
+        }
+      ]
+    },
+    {
+      "id": "cq014-c02",
+      "category": "prompt_scope",
+      "original": "Prompt asks for an NES favorite",
+      "current": "Guest answers a Mega Man X series/Chrono Trigger/Super Metroid list; preserve mismatch rather than silently label these NES releases.",
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Dialogue context and explicit correction."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 28",
+          "quote": "one NES game"
+        },
+        {
+          "location": "Paragraph 28",
+          "quote": "Mega Man X series is top number one"
+        }
+      ]
+    },
+    {
+      "id": "cq014-c03",
+      "category": "condition_scope",
+      "original": "All expo vendors will have clean stock",
+      "current": "Steven cannot control what each vendor brings; professional environment is not blanket merchandise guarantee.",
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Dialogue context and explicit correction."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "I can’t really control what they bring"
+        },
+        {
+          "location": "Paragraph 4",
+          "quote": "We clean them, we test them"
+        }
+      ]
+    },
+    {
+      "id": "cq014-c04",
+      "category": "calendar",
+      "original": "Store anniversary already passed",
+      "current": "Guest says anniversary is in April; episodeJanuary2016 and storeopenedlastApril.",
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Dialogue context and explicit correction."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 22",
+          "quote": "If you hit your anniversary? No"
+        },
+        {
+          "location": "Paragraph 22",
+          "quote": "April to the anniversary"
+        }
+      ]
+    },
+    {
+      "id": "cq014-c05",
+      "category": "booth_chronology",
+      "original": "Loose six/eight-year booth estimates",
+      "current": "Guest states June2008 explicitly.",
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Dialogue context and explicit correction."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 15",
+          "quote": "you said in six years"
+        },
+        {
+          "location": "Paragraph 15",
+          "quote": "June of 2008"
+        }
+      ]
+    },
+    {
+      "id": "cq014-c06",
+      "category": "purchase_scope",
+      "original": "New Eye of the Beholder cartridge purchased",
+      "current": "Johnny already had cart and just obtained box/manual.",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue context and explicit correction."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 34",
+          "quote": "I had a cart"
+        },
+        {
+          "location": "Paragraph 34",
+          "quote": "found the box in the manual"
+        }
+      ]
+    },
+    {
+      "id": "cq014-c07",
+      "category": "panel_plan",
+      "original": "Named guests merely have booths",
+      "current": "Steven clarifies talent also has panels.",
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Dialogue context and explicit correction."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 30",
+          "quote": "they’re not just booths"
+        },
+        {
+          "location": "Paragraph 30",
+          "quote": "they’re also going to have panels"
+        }
+      ]
+    }
+  ],
+  "topic_coverage": [
+    {
+      "topic": "Steven's SoCal Retro Gaming Expo plans and Super Video Game Bros collecting-to-retail history",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "Paragraph 1",
+        "Paragraph 27",
+        "Paragraph 30",
+        "Paragraph 36",
+        "Paragraph 37"
+      ]
+    },
+    {
+      "topic": "Collector preferences and favorite games",
+      "depth": "SUPPORTING_EXAMPLE",
+      "locations": [
+        "Paragraph 28",
+        "Paragraph 29"
+      ]
+    },
+    {
+      "topic": "Recent purchases and play",
+      "depth": "SUPPORTING_EXAMPLE",
+      "locations": [
+        "Paragraph 31",
+        "Paragraph 35"
+      ]
+    }
+  ],
+  "related_episodes": [],
+  "review_queue": [
+    {
+      "id": "cq014-q01",
+      "priority": "medium",
+      "reason": "Steven/Steve same guest; personal handle punctuation not recoverable from raw @steeve",
+      "evidence": [
+        {
+          "location": "Paragraph 37",
+          "quote": "some periods in between here"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq014-q02",
+      "priority": "medium",
+      "reason": "Venue raw Frankincense/Fregusons/Frank & Sons forms; no address guessed",
+      "evidence": [
+        {
+          "location": "Paragraph 26",
+          "quote": "Expo Center inside Fregusons"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq014-q03",
+      "priority": "medium",
+      "reason": "Exact expo floor area unknown; approximate spaces/vendors not exact counts",
+      "evidence": [
+        {
+          "location": "Paragraph 26",
+          "quote": "As far as specs, I’m sorry"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq014-q04",
+      "priority": "medium",
+      "reason": "NES favorite prompt/content mismatch",
+      "evidence": [
+        {
+          "location": "Paragraph 28",
+          "quote": "one NES game"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq014-q05",
+      "priority": "medium",
+      "reason": "Alien Crush platform garbled; retain raw two-of-us wording rather than silently infer",
+      "evidence": [
+        {
+          "location": "Paragraph 31",
+          "quote": "pinball game for the two of us"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq014-q06",
+      "priority": "medium",
+      "reason": "Kat Super Mario RPG current/future start ambiguous, receipt firm",
+      "evidence": [
+        {
+          "location": "Paragraph 32",
+          "quote": "I’m just gonna get into that now"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq014-q07",
+      "priority": "medium",
+      "reason": "Fallout installment unspecified",
+      "evidence": [
+        {
+          "location": "Paragraph 32",
+          "quote": "something like Fallout"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq014-q08",
+      "priority": "medium",
+      "reason": "Eye of Beholder title garble context-qualified normalization",
+      "evidence": [
+        {
+          "location": "Paragraph 34",
+          "quote": "I have the Beholder"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq014-q09",
+      "priority": "medium",
+      "reason": "Pet/veterinarian Wii title unresolved",
+      "evidence": [
+        {
+          "location": "Paragraph 35",
+          "quote": "pets. My veterinarian"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq014-q10",
+      "priority": "medium",
+      "reason": "Jennifer McCarthy big-box title unresolved",
+      "evidence": [
+        {
+          "location": "Paragraph 35",
+          "quote": "Jennifer McCarthy"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq014-q11",
+      "priority": "medium",
+      "reason": "Announced sponsors not named/confirmed; do not fill gaps",
+      "evidence": [
+        {
+          "location": "Paragraph 27",
+          "quote": "I can’t really disclose yet"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    }
+  ],
+  "non_video_game_items": [
+    {
+      "item": "SoCal Retro Gaming Expo",
+      "type": "event",
+      "evidence": [
+        {
+          "location": "Paragraph 2",
+          "quote": "January of this year, 2016"
+        }
+      ],
+      "note": "Dated announcement; not current visit advice."
+    },
+    {
+      "item": "Frank & Son collectibles venue",
+      "type": "venue",
+      "evidence": [
+        {
+          "location": "Paragraph 11",
+          "quote": "Frankincense Collectible Show"
+        }
+      ],
+      "note": "Raw variant naming; location/hours are historical reports."
+    },
+    {
+      "item": "Super Video Game Bros",
+      "type": "business",
+      "evidence": [
+        {
+          "location": "Paragraph 21",
+          "quote": "super video game, bros"
+        }
+      ],
+      "note": "Store/brand, not a softwaretitle."
+    },
+    {
+      "item": "Magic cards",
+      "type": "tabletop",
+      "evidence": [
+        {
+          "location": "Paragraph 11",
+          "quote": "magic cards"
+        }
+      ],
+      "note": "Collectible tabletop cards, excluded from video-game rankings."
+    },
+    {
+      "item": "Sports memorabilia/baseball cards/figures",
+      "type": "collectibles",
+      "evidence": [
+        {
+          "location": "Paragraph 11",
+          "quote": "Baseball cards, jerseys"
+        }
+      ],
+      "note": "Venue non-video-game inventory."
+    },
+    {
+      "item": "T-shirts/perlers/plushes",
+      "type": "merchandise",
+      "evidence": [
+        {
+          "location": "Paragraph 6",
+          "quote": "t-shirts"
+        }
+      ],
+      "note": "Ancillary expo goods, not video-game mentions."
+    },
+    {
+      "item": "Atari2600/NES and other platform hardware",
+      "type": "hardware",
+      "evidence": [
+        {
+          "location": "Paragraph 8",
+          "quote": "Atari 2600"
+        }
+      ],
+      "note": "Platform ownership/discovery, not specific games."
+    },
+    {
+      "item": "Dracula X handwritten codes",
+      "type": "ephemera",
+      "evidence": [
+        {
+          "location": "Paragraph 9",
+          "quote": "little codes and my handwriting"
+        }
+      ],
+      "note": "Keepsakes alongside game reference."
+    },
+    {
+      "item": "Eye of the Beholder box/manual",
+      "type": "packaging",
+      "evidence": [
+        {
+          "location": "Paragraph 34",
+          "quote": "box in the manual"
+        }
+      ],
+      "note": "Completes existing cartridge."
+    },
+    {
+      "item": "Star Fox competition reproductions",
+      "type": "reproduction_product",
+      "evidence": [
+        {
+          "location": "Paragraph 6",
+          "quote": "Star Fox competition cartridges"
+        }
+      ],
+      "note": "Explicit reproduction sale plan; preserve variant."
+    },
+    {
+      "item": "Collection museum",
+      "type": "hypothetical_venue",
+      "evidence": [
+        {
+          "location": "Paragraph 35",
+          "quote": "open up a museum"
+        }
+      ],
+      "note": "Possible display joke/wish, not operating institution."
+    }
+  ],
+  "unidentified_acquisitions": [
+    {
+      "description": "Steven's historical duplicates/childhood lot and ongoing SNES set purchases not fully enumerated.",
+      "evidence": [
+        {
+          "location": "Paragraph 10",
+          "quote": "buying doubles"
+        },
+        {
+          "location": "Paragraph 7",
+          "quote": "complete collection on my Super Nintendo"
+        }
+      ]
+    },
+    {
+      "description": "Johnny's roughly100Wii-game spree; only selected examples named, not a complete list.",
+      "evidence": [
+        {
+          "location": "Paragraph 34",
+          "quote": "a hundred Wii games"
+        }
+      ]
+    }
+  ],
+  "exclusions": [
+    "Expo2016announcements are not current logistics",
+    "No Tyler; guest Steven/Steve is distinct from Johnny",
+    "No exact prices/dates externally verified",
+    "No named title imported for generic virtual-pinball play"
+  ]
+}

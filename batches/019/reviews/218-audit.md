@@ -1,0 +1,62 @@
+# CQ218 — source-first draft audit and practical brief
+
+A1–A6 artifacts prepared. This is extraction-agent self-review, not independent adjudication; coordinator retrieval, A7/A8 and exact acceptance binding remain separate.
+
+## Source and coverage
+
+Source: CQ218 — When Are We Done Collecting?, dated2023-03-26;22,243 supplied words,107 caption windows. SHA-256 `2d7e5244a494003067aa4b8bad4c2d602e11035cf46c487d0281ffdd81b52507`. Read all107/107 windows sequentially with workbench reviewer audit218, finishing about04:27UTC. Initial combined instruction/source output clipped the early source display;0–12 was explicitly reread, then coverage continued through29→52→75→99→END. No source window remains unread. The independent reviewer is the coordinator, not this same-agent pass. No frozen sample or coordinator source notes were consulted.
+
+Current inputs: **124 references,173 spans,107 accounting rows,51 action states,36 lore items,6 source correction records,4 typed lists/18 members,25 complete task answers**. Full authoritative answers remain only in JSON. References include hardware, accessories, collections, franchises and media;124 is not a count of individual games. Source.status preserves selected_not_processed; record.review is extracted_draft.
+
+Early preflight passes107 windows/173 spans. **841 exact quotations and163 literal mapped-window spoken forms pass**. These checks establish source presence and structure, not perfect identity, attribution, audio accuracy or statistical semantic recall.
+
+## Actual findings and repairs
+
+A1/A2: Initial full-source inventory contained115 references/163 spans. Same-agent follow-up separated Rock Band DLC and packed instruments from the game series, and added named podcasts/attractions (seven references). Coordinator's initial frozen comparison was **20/22**, comprising2/2 quarter-sample buckets and18/20 separately selected rich-window buckets; these distinct selection methods are not a population recall estimate. The two misses were the named Metroidbrainia video and separate Contra franchise affection. Both are now retained as excluded-media/series references, not game-ranking credit. [00:48:42](../../../library/episodes/cq-218-sc-1478090170.md#004842), [01:09:03](../../../library/episodes/cq-218-sc-1478090170.md#010903), [01:15:31](../../../library/episodes/cq-218-sc-1478090170.md#011531), [01:26:07](../../../library/episodes/cq-218-sc-1478090170.md#012607), [01:39:56](../../../library/episodes/cq-218-sc-1478090170.md#013956)
+
+Conservative role repairs: Phase Shift's00:50:50 opening is supporting vocal-scoring continuation; Stadium Events at01:16:33 is a meaningful nonownership/no-pursuit example. Conversely Space Invaders Extreme's01:36:49 repeat is passing before film discussion, not another full supporting window. Caption windows remain coarse overbounds, especially when a topic changes within one window. No exact speaking-duration claim is made.
+
+Identity repairs: Disney Sports Basketball's platform was not spoken, so the initial GameCube assumption was removed. Tempest3000 is a candidate for raw “temp is3000”; Zombi's acquired copy platform remains unknown despite C64 and AtariST mentions. The Switch chicken-shoot bundle, “Max” SNES rarity and incomplete “blade” film reference remain unresolved rather than filled from familiarity. [00:24:28](../../../library/episodes/cq-218-sc-1478090170.md#002428), [00:37:11](../../../library/episodes/cq-218-sc-1478090170.md#003711), [00:51:56](../../../library/episodes/cq-218-sc-1478090170.md#005156), [01:36:49](../../../library/episodes/cq-218-sc-1478090170.md#013649), [01:38:54](../../../library/episodes/cq-218-sc-1478090170.md#013854)
+
+A3: Tyler and Johnny are both explicitly present. Unknown Assassin's Creed play attribution remains unknown. The father owns the Triumph cars; Tyler reports the story. The separate British-nationality correction speaker was initially inherited from Tyler's narrative and has been changed to unknown. Self-descriptions, banter and psychological explanations are not diagnoses. [00:00:00](../../../library/episodes/cq-218-sc-1478090170.md#000000), [01:21:52](../../../library/episodes/cq-218-sc-1478090170.md#012152), [01:22:55](../../../library/episodes/cq-218-sc-1478090170.md#012255), [01:23:58](../../../library/episodes/cq-218-sc-1478090170.md#012358), [01:32:34](../../../library/episodes/cq-218-sc-1478090170.md#013234), [01:33:38](../../../library/episodes/cq-218-sc-1478090170.md#013338)
+
+A4: Initial45 actions became51 after adding two explicit nonpurchase rows, Contra purchase confirmation and three material hypothetical actions (possible sale for son, movie-ticket temptation, illustrative Chrono Trigger play). Hypothetical states retain intended_action_state instead of becoming actual sold/purchased/played. DLC and accessory actions now target their own types. Ultima remains wanted; Geniac has wanted→purchased/received history. The unsold538-dollar listing is not his paid price. Joe's Geniac is a third-party report. [00:03:14](../../../library/episodes/cq-218-sc-1478090170.md#000314), [00:35:06](../../../library/episodes/cq-218-sc-1478090170.md#003506), [00:43:35](../../../library/episodes/cq-218-sc-1478090170.md#004335), [00:45:36](../../../library/episodes/cq-218-sc-1478090170.md#004536), [00:56:12](../../../library/episodes/cq-218-sc-1478090170.md#005612), [01:02:35](../../../library/episodes/cq-218-sc-1478090170.md#010235), [01:03:43](../../../library/episodes/cq-218-sc-1478090170.md#010343), [01:38:54](../../../library/episodes/cq-218-sc-1478090170.md#013854), [01:39:56](../../../library/episodes/cq-218-sc-1478090170.md#013956), [01:42:07](../../../library/episodes/cq-218-sc-1478090170.md#014207), [01:49:34](../../../library/episodes/cq-218-sc-1478090170.md#014934), [01:50:41](../../../library/episodes/cq-218-sc-1478090170.md#015041)
+
+The corrected Contra referent now includes the preceding delivery window; the mistaken Castlevania name is preserved in correction history, not a second simultaneous delivery. The Wii collection reason was changed from ambiguous “still delayed” to “were delayed before completion”: Johnny says it is completed now. [00:19:04](../../../library/episodes/cq-218-sc-1478090170.md#001904), [01:19:43](../../../library/episodes/cq-218-sc-1478090170.md#011943), [01:38:54](../../../library/episodes/cq-218-sc-1478090170.md#013854), [01:39:56](../../../library/episodes/cq-218-sc-1478090170.md#013956)
+
+List review: Johnny's six completion milestones, Tyler's two core collections plus explicit Stadium Events exclusion, seven shelf examples including the subordinate hang-tab copy, and two hypothetical Geniac games total18 memberships. The owned hang-tab example initially used “considered” to convey subordinate scope; it now correctly uses selected with an explicit subordinate-example reason. Membership is not derived from prominence.
+
+A5: Coordinator reported source support for the initial24 full answers; a25th map-derived prominence answer was then added for independent review. Questions and required windows have not been tuned to repair retrieval. The initial771 proof/154 alias checks passed before list/new-reference additions; final counts are above. No ordinary-query result is claimed by this audit.
+
+## Qualified prominence
+
+Metric: unioned substantial-plus-supporting caption intervals for individual video games only.
+
+| Game | Meaningful seconds | Substantial-only seconds |
+|---|---:|---:|
+| Ultima I baggie version | 259 | 259 |
+| Metroid | 253 | 127 |
+| Megamania | 132 | 132 |
+| Super Metroid | 130 | 0 |
+| Phase Shift | 129 | 63 |
+| Assassin's Creed | 128 | 128 |
+| Final Fantasy III | 128 | 0 |
+
+Default leaders are Ultima I, Metroid and Megamania. Substantial-only leaders differ: Ultima I259, Megamania132 and original Assassin's Creed128; Metroid follows at127. Small gaps such as132/130/129/128 are not reliable precise speech-time distinctions. Hardware Geniac, franchises, compilations and media have separate typed spans and never enter this individual-game table. Passing/joke references do not earn time; unknown final-window duration is not invented.
+
+## A6 practical pre-show brief
+
+Lead with the tension between **enjoying the collection** and **inventing another buying goal**. Johnny's life-raft metaphor explains continued enthusiasm; Tyler wants purchases grounded in a larger purpose. They do not agree that a finite final checklist is necessary, and neither reports quitting. A useful callback contrasts Tyler's telescope restraint and declined acquisition examples with his actual Geniac purchase. [00:03:14](../../../library/episodes/cq-218-sc-1478090170.md#000314), [00:11:39](../../../library/episodes/cq-218-sc-1478090170.md#001139), [00:12:41](../../../library/episodes/cq-218-sc-1478090170.md#001241), [00:26:36](../../../library/episodes/cq-218-sc-1478090170.md#002636), [00:27:37](../../../library/episodes/cq-218-sc-1478090170.md#002737), [00:38:15](../../../library/episodes/cq-218-sc-1478090170.md#003815), [01:49:34](../../../library/episodes/cq-218-sc-1478090170.md#014934), [01:50:41](../../../library/episodes/cq-218-sc-1478090170.md#015041)
+
+Keep the collecting milestones personal and scoped: Johnny's Wii is finished and Vita not quite; Tyler likes his loose NES set without Stadium Events. The Stadium Events→NWC preference shift is about what feels like a cooler collectible, not proof of ownership or an authoritative title-equivalence ruling. [00:19:04](../../../library/episodes/cq-218-sc-1478090170.md#001904), [01:15:31](../../../library/episodes/cq-218-sc-1478090170.md#011531), [01:16:33](../../../library/episodes/cq-218-sc-1478090170.md#011633), [01:17:37](../../../library/episodes/cq-218-sc-1478090170.md#011737), [01:19:43](../../../library/episodes/cq-218-sc-1478090170.md#011943)
+
+The strongest open loop is the baggie Ultima I hunt: he imagines brief unpacking/placement but still finds searching engaging. Game Historia is a delayed play-oriented website, not a physical museum. Scanning, research, videos and playing are alternatives to endless shopping; the hosts do not insist every collector must play every game. [00:50:50](../../../library/episodes/cq-218-sc-1478090170.md#005050), [00:51:56](../../../library/episodes/cq-218-sc-1478090170.md#005156), [00:55:08](../../../library/episodes/cq-218-sc-1478090170.md#005508), [00:56:12](../../../library/episodes/cq-218-sc-1478090170.md#005612), [01:02:35](../../../library/episodes/cq-218-sc-1478090170.md#010235), [01:03:43](../../../library/episodes/cq-218-sc-1478090170.md#010343), [01:04:47](../../../library/episodes/cq-218-sc-1478090170.md#010447), [01:05:51](../../../library/episodes/cq-218-sc-1478090170.md#010551), [01:20:49](../../../library/episodes/cq-218-sc-1478090170.md#012049)
+
+Corrections worth surfacing: Phase Shift vocals versus scoring; eStarland→DK Oldies; Triumph nationality with unknown correcting speaker; Castlevania→Contra delivery; FFIII question narrowed to American physical availability but still uncertain. Source corrections must not be confused with analyst safeguards or externally verified catalog facts. [00:49:47](../../../library/episodes/cq-218-sc-1478090170.md#004947), [00:50:50](../../../library/episodes/cq-218-sc-1478090170.md#005050), [00:59:29](../../../library/episodes/cq-218-sc-1478090170.md#005929), [01:23:58](../../../library/episodes/cq-218-sc-1478090170.md#012358), [01:38:54](../../../library/episodes/cq-218-sc-1478090170.md#013854), [01:39:56](../../../library/episodes/cq-218-sc-1478090170.md#013956), [01:41:02](../../../library/episodes/cq-218-sc-1478090170.md#014102), [01:42:07](../../../library/episodes/cq-218-sc-1478090170.md#014207)
+
+Fresh editorial proposal, not established history: ask what one non-buying activity each host completed with an existing item. It connects directly to the website/time problem without making an acquisition into an obligation. Avoid replaying investment advice, retailer/counterfeit allegations or imagined voices as facts. No live rehearsal, private-source use, external purchase, publication or persona changes occurred.
+
+## Remaining acceptance work
+
+Coordinator must run the ordinary original-question and query routes, source sample, fresh cases, regression suite and exact A7/A8 binding. Item-level uncertainties remain intentionally searchable; they are not grounds to invent a complete answer. This concise audit records real initial defects and repairs, not a blanket assertion that all checks passed.
+

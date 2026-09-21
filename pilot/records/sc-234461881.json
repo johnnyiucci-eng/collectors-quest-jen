@@ -1,0 +1,1199 @@
+{
+  "schema_version": "0.1",
+  "extraction_version": "manual-codex-2026-09-12-v1",
+  "source": {
+    "key": "sc-234461881",
+    "episode_number": 7,
+    "title": "Episode 3 (7) - Conventions",
+    "date": "2015-11-24",
+    "path": "episodes/cq-007-sc-234461881.md",
+    "words": 5918,
+    "source_url": "https://soundcloud.com/collectors-quest/collectors-quest-episode-7-conventions",
+    "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+    "sha256": "a8e2317b29956208f8a101c7aef0958c6bfd819e5add1a86f88c5ed43774d23f"
+  },
+  "review": {
+    "status": "extracted_draft",
+    "read_coverage": "All 27 supplied paragraphs read end to end, including closing outtake.",
+    "omission_review": "pending",
+    "audio_verification": "not_performed",
+    "independent_review": "pending",
+    "transcript_limit": "Attachment fully captured; recording completeness not independently verified.",
+    "timing": "Untimed. Paragraph headings only.",
+    "elapsed_model_time": null,
+    "subscription_usage": null
+  },
+  "participants": [
+    {
+      "name": "Kat",
+      "confidence": "high",
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "I’m Kat here with Johnny"
+        }
+      ]
+    },
+    {
+      "name": "Johnny",
+      "confidence": "high",
+      "evidence": [
+        {
+          "location": "Paragraph 27",
+          "quote": "I’m Johnny underscore I-U-C-C-I"
+        }
+      ]
+    }
+  ],
+  "main_topic": "Convention preparation and Johnny's Portland expo report",
+  "secondary_topics": [
+    "negotiation",
+    "transporting purchases",
+    "set collecting",
+    "homebrew",
+    "recent play"
+  ],
+  "games": [
+    {
+      "id": "g-alice",
+      "canonical_title": "Alice: Madness Returns",
+      "spoken_forms": [
+        "Alice Madness Returns"
+      ],
+      "entity_granularity": "release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Kat is still playing; no platform repeated in this episode.",
+          "evidence": [
+            {
+              "location": "Paragraph 1",
+              "quote": "Alice Madness Returns"
+            }
+          ],
+          "speaker": {
+            "candidate": "Kat",
+            "confidence": "medium",
+            "basis": "Named introduction and dialogue continuity; untimed source has no reliable turn labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-fallout",
+      "canonical_title": null,
+      "spoken_forms": [
+        "Fallout"
+      ],
+      "entity_granularity": "unresolved",
+      "platform": "Xbox context",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Likely contemporary Fallout 4, but number not spoken. Johnny's purchased copy remains sealed; Kat's household discusses regular rather than Pip-Boy edition.",
+          "evidence": [
+            {
+              "location": "Paragraph 1",
+              "quote": "I bought Fallout as well"
+            },
+            {
+              "location": "Paragraph 2",
+              "quote": "It is still sealed"
+            },
+            {
+              "location": "Paragraph 3",
+              "quote": "He just got the regular one"
+            },
+            {
+              "location": "Paragraph 4",
+              "quote": "It’s only been out like two days"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Speaker unresolved."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-tomb-current",
+      "canonical_title": null,
+      "spoken_forms": [
+        "Tomb Raider"
+      ],
+      "entity_granularity": "unresolved",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Current new installment not named; candidate Rise of the Tomb Raider must not be silently resolved.",
+          "evidence": [
+            {
+              "location": "Paragraph 2",
+              "quote": "playing Tomb Raider very briefly"
+            }
+          ],
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named introduction and dialogue continuity; untimed source has no reliable turn labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-tomb-reboot",
+      "canonical_title": null,
+      "spoken_forms": [
+        "first Tomb Raider for the Xbox and of the last generation"
+      ],
+      "entity_granularity": "unresolved",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Earlier reboot described favorably; exact year/release not spoken.",
+          "evidence": [
+            {
+              "location": "Paragraph 2",
+              "quote": "last one, just Tomb Raider"
+            }
+          ],
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named introduction and dialogue continuity; untimed source has no reliable turn labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-tomb-original",
+      "canonical_title": "Tomb Raider",
+      "spoken_forms": [
+        "first Tomb Raider"
+      ],
+      "entity_granularity": "release",
+      "platform": "PlayStation context",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Original distinguished from reboot; platform implied by following series discussion.",
+          "evidence": [
+            {
+              "location": "Paragraph 2",
+              "quote": "Obviously not the first Tomb Raider, though I did love that one as well"
+            }
+          ],
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named introduction and dialogue continuity; untimed source has no reliable turn labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-tomb-three",
+      "canonical_title": null,
+      "spoken_forms": [
+        "three"
+      ],
+      "entity_granularity": "unresolved",
+      "platform": "original PlayStation context",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Third Tomb Raider installment is indirectly referenced; this does not say the third itself was bad.",
+          "evidence": [
+            {
+              "location": "Paragraph 2",
+              "quote": "pretty bad after three"
+            }
+          ],
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named introduction and dialogue continuity; untimed source has no reliable turn labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-lego-dimensions",
+      "canonical_title": "LEGO Dimensions",
+      "spoken_forms": [
+        "Lego Dimensions"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Johnny reports playing together with his wife.",
+          "evidence": [
+            {
+              "location": "Paragraph 2",
+              "quote": "Lego Dimensions"
+            }
+          ],
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named introduction and dialogue continuity; untimed source has no reliable turn labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-yoshi",
+      "canonical_title": "Yoshi's Woolly World",
+      "spoken_forms": [
+        "Yoshi’s Woolly World"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Owned but not yet started.",
+          "evidence": [
+            {
+              "location": "Paragraph 2",
+              "quote": "Yoshi’s Woolly World"
+            }
+          ],
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named introduction and dialogue continuity; untimed source has no reliable turn labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-rodea",
+      "canonical_title": "Rodea the Sky Soldier",
+      "spoken_forms": [
+        "Rodaea the Sky Soldier"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Recent pickup/backlog mention; spelling normalized provisionally.",
+          "evidence": [
+            {
+              "location": "Paragraph 2",
+              "quote": "Rodaea the Sky Soldier"
+            }
+          ],
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named introduction and dialogue continuity; untimed source has no reliable turn labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-black-ops3",
+      "canonical_title": "Call of Duty: Black Ops III",
+      "spoken_forms": [
+        "Black Ops 3"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Casual play with friends; third item in reported Target buy-two-get-one offer.",
+          "evidence": [
+            {
+              "location": "Paragraph 2",
+              "quote": "Black Ops 3"
+            }
+          ],
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named introduction and dialogue continuity; untimed source has no reliable turn labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-fallout-pc",
+      "canonical_title": null,
+      "spoken_forms": [
+        "PC collection"
+      ],
+      "entity_granularity": "unresolved",
+      "platform": "PC",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Collection package spotted but not purchased; possible Fallout Anthology requires confirmation.",
+          "evidence": [
+            {
+              "location": "Paragraph 3",
+              "quote": "little bomb safe"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Speaker unresolved."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-alien-soldier",
+      "canonical_title": "Alien Soldier",
+      "spoken_forms": [
+        "alien soldier soldier"
+      ],
+      "entity_granularity": "release",
+      "platform": "Mega Drive",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Seen for sale at convention; not a reported purchase.",
+          "evidence": [
+            {
+              "location": "Paragraph 21",
+              "quote": "alien soldier soldier for the Mega Drive"
+            }
+          ],
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named introduction and dialogue continuity; untimed source has no reliable turn labels."
+          }
+        }
+      ]
+    }
+  ],
+  "lore": [
+    {
+      "id": "cq7-l01",
+      "kind": "show_discussion",
+      "summary": "The episode explicitly introduces Kat and Johnny. Kat's questions elicit Johnny's convention experience; Tyler is not a participant.",
+      "topics": [
+        "show_history",
+        "participants"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "I’m Kat here with Johnny"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Speaker unresolved."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq7-l02",
+      "kind": "host_opinion",
+      "summary": "Johnny praises the prior-generation Tomb Raider reboot while distinguishing it from the original; the current title he is playing is not named precisely.",
+      "topics": [
+        "playing",
+        "personal_taste"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 2",
+          "quote": "the best Tomb Raider game by far"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named introduction and dialogue continuity; untimed source has no reliable turn labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq7-l03",
+      "kind": "joke",
+      "summary": "Fallout play is framed as a temporary disappearance/hibernation, followed by a Wasteland-disease joke; not a real medical or relationship claim.",
+      "topics": [
+        "humor",
+        "playing"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 5",
+          "quote": "I’ve got Wasteland disease"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Speaker unresolved."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq7-l04",
+      "kind": "anecdote",
+      "summary": "Johnny reports his first Portland Retro Game Expo visit, while explicitly distinguishing it from his first gaming convention.",
+      "topics": [
+        "conventions",
+        "show_history"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 5",
+          "quote": "Not my first time at a video game convention"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named introduction and dialogue continuity; untimed source has no reliable turn labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq7-l05",
+      "kind": "host_opinion",
+      "summary": "He describes the expo as larger than expected, with vendors, free-play arcade, displays and panels. Unpriced stock at booths is a stated frustration.",
+      "topics": [
+        "conventions",
+        "buying"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 6",
+          "quote": "ask you on every single item"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named introduction and dialogue continuity; untimed source has no reliable turn labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq7-l06",
+      "kind": "anecdote",
+      "summary": "He reports buying about 40 SNES games, including cheap boxed sports games to fill set gaps, and about 50 games overall on the trip. These are different scopes, not contradictory totals.",
+      "topics": [
+        "completion",
+        "acquisition"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 7",
+          "quote": "about 40 Super Nintendo games"
+        },
+        {
+          "location": "Paragraph 11",
+          "quote": "about 50 games on this trip"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named introduction and dialogue continuity; untimed source has no reliable turn labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq7-l07",
+      "kind": "reported_factual_claim",
+      "summary": "Johnny recalls roughly 30% sports titles on Genesis versus 28% on SNES while discussing the influence of marketing. These are unverified recalled figures, not measured pilot statistics.",
+      "topics": [
+        "platforms",
+        "sports"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 8",
+          "quote": "I think it was like 30%"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named introduction and dialogue continuity; untimed source has no reliable turn labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq7-l08",
+      "kind": "host_opinion",
+      "summary": "He occasionally buys homebrews or well-made reproductions to support community work, while limiting their number. Counterfeit authenticity and disclosed repro collecting are distinct questions.",
+      "topics": [
+        "homebrew",
+        "reproductions"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 9",
+          "quote": "support the community and keep that going"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named introduction and dialogue continuity; untimed source has no reliable turn labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq7-l09",
+      "kind": "open_loop",
+      "summary": "The ethics/preferences of reproductions are explicitly parked as a topic for another time. A later resolution has not yet been located.",
+      "topics": [
+        "reproductions",
+        "open_questions"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 9",
+          "quote": "a topic for another time, how do you feel about repro’s"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named introduction and dialogue continuity; untimed source has no reliable turn labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq7-l10",
+      "kind": "host_opinion",
+      "summary": "Travel planning should leave space for boxed purchases; shipping is proposed as an alternative. Statements about carrier hours or security are historical advice requiring verification for a real trip.",
+      "topics": [
+        "conventions",
+        "logistics"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 10",
+          "quote": "You want to be able to take stuff back with you"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named introduction and dialogue continuity; untimed source has no reliable turn labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq7-l11",
+      "kind": "joke",
+      "summary": "The hygiene advice becomes a joke about whether smell helps or hurts negotiating. Preserve as humor, not a buying tactic.",
+      "topics": [
+        "humor",
+        "conventions"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 13",
+          "quote": "Maybe maybe being stinky gets you better deals"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Speaker unresolved."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq7-l12",
+      "kind": "host_opinion",
+      "summary": "Negotiate rather than reflexively accepting an asking price, but do not abandon an already good deal you actually want in a crowded convention. These are conditional opinions, not universal pricing rules.",
+      "topics": [
+        "negotiation",
+        "scarcity"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 14",
+          "quote": "If it’s already a good deal"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named introduction and dialogue continuity; untimed source has no reliable turn labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq7-l13",
+      "kind": "host_opinion",
+      "summary": "Gather a prospective bulk purchase before paying to preserve negotiating leverage; coordinate with the vendor and keep the pile clearly together.",
+      "topics": [
+        "negotiation",
+        "organization"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 15",
+          "quote": "Gather your things and then pay all at once"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named introduction and dialogue continuity; untimed source has no reliable turn labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq7-l14",
+      "kind": "anecdote",
+      "summary": "Another buyer tried to buy from Johnny's developing stack. The follow-on warning is not to fight over games.",
+      "topics": [
+        "conventions",
+        "etiquette"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 16",
+          "quote": "you should never fight over video games"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named introduction and dialogue continuity; untimed source has no reliable turn labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq7-l15",
+      "kind": "host_opinion",
+      "summary": "Advance tickets, food, water and suitable shoes are practical convention preparation ideas; the source does not establish current event policies.",
+      "topics": [
+        "conventions",
+        "planning"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 17",
+          "quote": "by your ticket early"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named introduction and dialogue continuity; untimed source has no reliable turn labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq7-l16",
+      "kind": "show_discussion",
+      "summary": "Kat contrasts catered fashion events with ordinary convention-counter food, sharpening the scope of Johnny's food complaint.",
+      "topics": [
+        "conversation_style"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 18",
+          "quote": "because it’s fashion, it’s usually fabulous"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Speaker unresolved."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq7-l17",
+      "kind": "host_opinion",
+      "summary": "Local shows offer recurring collector relationships; a larger expo is a different day-long experience. Have a list and research prices before arrival.",
+      "topics": [
+        "conventions",
+        "research"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 19",
+          "quote": "have a list. Do your research beforehand"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named introduction and dialogue continuity; untimed source has no reliable turn labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq7-l18",
+      "kind": "host_opinion",
+      "summary": "Budget separately for planned purchases and unexpected discoveries; choose trip scale and location deliberately.",
+      "topics": [
+        "buying_priorities",
+        "discovery"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 20",
+          "quote": "additional stack of money"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named introduction and dialogue continuity; untimed source has no reliable turn labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq7-l19",
+      "kind": "anecdote",
+      "summary": "Johnny saw Alien Soldier for Mega Drive on sale but did not report buying it. He missed a boxed NES Advantage because another collector reached it first.",
+      "topics": [
+        "acquisition",
+        "missed_opportunities"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 21",
+          "quote": "Not that I was looking to buy it"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named introduction and dialogue continuity; untimed source has no reliable turn labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq7-l20",
+      "kind": "open_loop",
+      "summary": "Johnny says he intends to return to the next Portland expo. This is a stated future plan, not evidence that the return occurred.",
+      "topics": [
+        "conventions",
+        "show_history"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 23",
+          "quote": "I’ll be going to the next one"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named introduction and dialogue continuity; untimed source has no reliable turn labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq7-l21",
+      "kind": "anecdote",
+      "summary": "A prior Vegas event was a same-day buying trip with an empty carry-on; he contrasts this with the longer Portland vacation.",
+      "topics": [
+        "conventions",
+        "logistics"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 24",
+          "quote": "really that was a buying trip for me"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named introduction and dialogue continuity; untimed source has no reliable turn labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq7-l22",
+      "kind": "host_opinion",
+      "summary": "Fit the convention into the trip's purpose: family vacation versus focused buying visit. Plan location, time and money together.",
+      "topics": [
+        "conventions",
+        "planning"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 26",
+          "quote": "depending on the scale of your trip"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named introduction and dialogue continuity; untimed source has no reliable turn labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq7-l23",
+      "kind": "joke",
+      "summary": "The ending contains an apparent repeated-intro outtake ending 'a snake, a snake'; do not label it a recurring bit.",
+      "topics": [
+        "humor",
+        "format"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 27",
+          "quote": "a snake, a snake"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Speaker unresolved."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    }
+  ],
+  "corrections": [],
+  "topic_coverage": [
+    {
+      "topic": "conventions",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "Paragraph 5",
+        "Paragraph 6",
+        "Paragraph 10",
+        "Paragraph 14",
+        "Paragraph 19",
+        "Paragraph 26"
+      ]
+    },
+    {
+      "topic": "negotiation",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "Paragraph 13",
+        "Paragraph 14",
+        "Paragraph 15"
+      ]
+    },
+    {
+      "topic": "travel_logistics",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "Paragraph 10",
+        "Paragraph 11",
+        "Paragraph 12",
+        "Paragraph 23",
+        "Paragraph 24",
+        "Paragraph 26"
+      ]
+    },
+    {
+      "topic": "completion",
+      "depth": "SUPPORTING_EXAMPLE",
+      "locations": [
+        "Paragraph 7",
+        "Paragraph 8"
+      ]
+    },
+    {
+      "topic": "homebrew_reproductions",
+      "depth": "SUPPORTING_EXAMPLE",
+      "locations": [
+        "Paragraph 9"
+      ]
+    },
+    {
+      "topic": "playing",
+      "depth": "SUPPORTING_EXAMPLE",
+      "locations": [
+        "Paragraph 1",
+        "Paragraph 2"
+      ]
+    },
+    {
+      "topic": "buying_priorities",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "Paragraph 19",
+        "Paragraph 20",
+        "Paragraph 21"
+      ]
+    }
+  ],
+  "related_episodes": [
+    {
+      "episode_number": 6,
+      "relation": "Portland report delivers the prior episode's promised follow-up; see relationships.json for paired excerpts.",
+      "status": "supported_by_transcripts"
+    }
+  ],
+  "review_queue": [
+    {
+      "id": "cq7-modern-titles",
+      "priority": "medium",
+      "reason": "Resolve the unnamed current Tomb Raider and Fallout installment before exact release-level queries; do not silently infer from publication date.",
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "I bought Fallout as well"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq7-fallout-collection",
+      "priority": "medium",
+      "reason": "Confirm the bomb-shaped PC collection's formal title. It was seen, not bought.",
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "I didn’t pick that up"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq7-speaker-attribution",
+      "priority": "high",
+      "reason": "Kat and Johnny are explicit participants; individual turns still require continuity checks or audio before high-confidence attribution.",
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "I’m Kat here with Johnny"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq7-repro-followup",
+      "priority": "medium",
+      "reason": "Find any later episode that takes up the explicitly deferred reproduction question.",
+      "evidence": [
+        {
+          "location": "Paragraph 9",
+          "quote": "a topic for another time"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq7-return-plan",
+      "priority": "low",
+      "reason": "Locate a future report before marking the promised next Portland visit fulfilled.",
+      "evidence": [
+        {
+          "location": "Paragraph 23",
+          "quote": "I’ll be going to the next one"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq7-sports-proportions",
+      "priority": "low",
+      "reason": "Check the underlying set definitions/counts before reusing approximate 30%/28% sports proportions.",
+      "evidence": [
+        {
+          "location": "Paragraph 8",
+          "quote": "on Nintendo, it’s like 28%"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq7-recording-date",
+      "priority": "medium",
+      "reason": "Dialogue says Fallout has been out two days and Halloween is past; publication date does not establish recording date.",
+      "evidence": [
+        {
+          "location": "Paragraph 4",
+          "quote": "only been out like two days"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq7-unnamed-homebrews",
+      "priority": "medium",
+      "reason": "Johnny reports homebrew purchases without titles; retain an unidentified-acquisition bucket rather than invent games.",
+      "evidence": [
+        {
+          "location": "Paragraph 9",
+          "quote": "got a few home bruise"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq7-travel-guidance",
+      "priority": "low",
+      "reason": "Historical pricing, opening hours, shipping assumptions and travel costs need checking before contemporary advice.",
+      "evidence": [
+        {
+          "location": "Paragraph 11",
+          "quote": "you can’t send post out on Sunday"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    }
+  ],
+  "non_video_game_items": [
+    {
+      "item": "NES Advantage",
+      "type": "controller",
+      "evidence": [
+        {
+          "location": "Paragraph 21",
+          "quote": "boxed nest advantage"
+        }
+      ],
+      "note": "Boxed accessory seen and missed, not purchased; spelling normalization provisional."
+    },
+    {
+      "item": "Nintendo World Championships",
+      "type": "event_reference",
+      "evidence": [
+        {
+          "location": "Paragraph 22",
+          "quote": "one of the guys who played in the Nintendo World Championships"
+        }
+      ],
+      "note": "Event participant, not a mention of a specific competition cartridge."
+    }
+  ],
+  "unidentified_acquisitions": [
+    {
+      "description": "Homebrews and possibly early/show-exclusive releases, not named.",
+      "evidence": [
+        {
+          "location": "Paragraph 9",
+          "quote": "got a few home bruise"
+        }
+      ]
+    },
+    {
+      "description": "SNES sports titles and some PlayStation games, no title list.",
+      "evidence": [
+        {
+          "location": "Paragraph 7",
+          "quote": "about 40 Super Nintendo games"
+        },
+        {
+          "location": "Paragraph 11",
+          "quote": "some PlayStation stuff"
+        }
+      ]
+    }
+  ],
+  "exclusions": [
+    "John, mentioned during Fallout banter, is not a third host; keep distinct from Johnny.",
+    "Generic homebrew, sports-game and arcade mentions do not justify invented titles.",
+    "Hibernation and Wasteland-disease remarks are jokes, not clinical facts."
+  ]
+}

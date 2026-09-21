@@ -1,0 +1,71 @@
+{
+  "schema_version": "1",
+  "relationships": [
+    {
+      "id": "cq025-harmful-wanted-cq026-emulated",
+      "kind": "action_state_progression",
+      "status": "supported_by_transcripts",
+      "review_status": "coordinator_source_reviewed",
+      "summary": "Johnny wants to play Harmful Park in CQ25 and reports playing it through computer emulation in CQ26. This closes the inability-to-try point, not the desired physical acquisition.",
+      "speaker": "Johnny",
+      "speaker_confidence": "medium",
+      "evidence": [
+        {
+          "source_key": "sc-257214294",
+          "location": "Paragraph 18",
+          "quote": "I’m really obsessed with getting to play that game. I have not yet been able to do it."
+        },
+        {
+          "source_key": "sc-258414918",
+          "location": "Paragraph 21",
+          "quote": "I’ve been playing Harmful Park shamefully on an emulator, on my computer with an Xbox controller, but I’m enjoying it."
+        }
+      ],
+      "limits": "Source-reported play across publication dates, not proof of physical purchase, exact first-play date or verified platform history."
+    },
+    {
+      "id": "cq025-minecraft-cq026-continued",
+      "kind": "continued_play",
+      "status": "supported_by_transcripts",
+      "review_status": "coordinator_source_reviewed",
+      "summary": "Kat reports first Minecraft play and landscaping in CQ25, then acknowledges continued landscaping despite saying she would not do it again in CQ26.",
+      "speaker": "Kat",
+      "speaker_confidence": "medium",
+      "evidence": [
+        {
+          "source_key": "sc-257214294",
+          "location": "Paragraph 19",
+          "quote": "I played Minecraft for the first time ever."
+        },
+        {
+          "source_key": "sc-258414918",
+          "location": "Paragraph 21",
+          "quote": "I’m still landscaping in Minecraft, which I said I wasn’t going to do again, but for some reason I’m still doing it."
+        }
+      ],
+      "limits": "Continued play is not game completion, ownership proof or a broad preference reversal."
+    },
+    {
+      "id": "cq025-lis-cq026-still-open",
+      "kind": "open_loop_still_unresolved",
+      "status": "supported_by_transcripts",
+      "review_status": "coordinator_source_reviewed",
+      "summary": "Kat's CQ25 intention to get through Life is Strange remains unresolved when she refuses the topic in CQ26. Her brief prior play is not erased, and no new completion is inferred.",
+      "speaker": "Kat",
+      "speaker_confidence": "medium",
+      "evidence": [
+        {
+          "source_key": "sc-257214294",
+          "location": "Paragraph 20",
+          "quote": "I have to get through life is strange."
+        },
+        {
+          "source_key": "sc-258414918",
+          "location": "Paragraph 21",
+          "quote": "So, life is strange? Don’t even ask. But... No. But... No. Are you sure? I’m sure."
+        }
+      ],
+      "limits": "Banter indicates reluctance; not exhaustive proof of every off-air action."
+    }
+  ]
+}

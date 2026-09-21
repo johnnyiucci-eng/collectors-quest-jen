@@ -1,0 +1,534 @@
+{
+  "schema_version": "1",
+  "review_scope": "Coordinator adjudicated all complete answers against primary contexts; CQ12/79 fully read, CQ205 received separate full174-window peer review plus coordinator answer-context read. Same-team captured-text development checks, not blind archive benchmark or live test.",
+  "cases": [
+    {
+      "id": "batch006-cq012-kat-goals",
+      "episode": 12,
+      "question": "What did Kat actually plan to finish in2016?",
+      "query": "Master System 29 N64 110 cart box",
+      "answer": "Kat hopes to finish Master System with about 29 games left and N64 with about 110 left. For N64 she targets at least cartridge and box, with manuals welcome when found. These are goals, not completed sets; she separately says she is not pursuing a full SNES collection.",
+      "evidence_locations": [
+        "Paragraph 5",
+        "Paragraph 6",
+        "Paragraph 19"
+      ],
+      "forbidden": [
+        "Sets already completed",
+        "All140mustbeCIB",
+        "FullSNESsetgoal"
+      ],
+      "status": "passed",
+      "reason": "P5–6 establishes scoped counts/cart-box intent; P19 rejects full-SNES objective, not completed sets."
+    },
+    {
+      "id": "batch006-cq012-repurchase",
+      "episode": 12,
+      "question": "Did Kat already own EarthBound again, and who wanted it back?",
+      "query": "Earthbound sold John prioritize back collection",
+      "answer": "No new EarthBound purchase is reported. Kat says it is no longer in the collection, recalls that she and husband John sold it, and agrees it should be prioritized for reacquisition. Super Mario RPG and Chrono Trigger are likewise named as games she wants back. John is her husband, not Johnny; a visible EarthBound poster is not cartridge ownership.",
+      "evidence_locations": [
+        "Paragraph 20",
+        "Paragraph 22"
+      ],
+      "forbidden": [
+        "EarthBound already repurchased",
+        "John equalsJohnny",
+        "Poster provesgameownership"
+      ],
+      "status": "passed",
+      "reason": "P20/P22 explicitly separate sold/shared game and repurchase goal; husband John not reporter Johnny, poster not ownership."
+    },
+    {
+      "id": "batch006-cq012-favorites",
+      "episode": 12,
+      "question": "What are Johnny's personal top3 SNES RPGs here, and are they claimed to be technically best?",
+      "query": "Final Fantasy II III Chrono Trigger favorite",
+      "answer": "Johnny places Final Fantasy IV/US II first as his personal favorite and Chrono Trigger next, then tentatively settles on the two Final Fantasies and Chrono Trigger as the trio. He says US III/VI may be the better RPG overall, distinguishing personal preference from objective best. EarthBound is outside his top three in this discussion.",
+      "evidence_locations": [
+        "Paragraph 23",
+        "Paragraph 24"
+      ],
+      "forbidden": [
+        "EarthBound top3",
+        "Permanent neverchangingranking",
+        "IVobjectivelybestclaim"
+      ],
+      "status": "passed",
+      "reason": "P23–24 distinguish subjective IV/II favorite and III/VI appraisal, tentative trio, EarthBound exclusion."
+    },
+    {
+      "id": "batch006-cq012-project",
+      "episode": 12,
+      "question": "What was the Nintendo Power photo project and what was still missing?",
+      "query": "Nintendo power285 72 210 fifteen",
+      "answer": "Johnny plans photos pairing each game from Nintendo Power 285's 285-game ranking with the magazine issue bearing that rank number, even when the cover subject differs. He may add 15 newer Wii U/late 3DS choices for about 300 posts with varied order. His current worksheet says 72 games and 210 magazine issues are missing, so the project is not already complete.",
+      "evidence_locations": [
+        "Paragraph 7",
+        "Paragraph 8",
+        "Paragraph 13"
+      ],
+      "forbidden": [
+        "285gamesalreadybought",
+        "Magazinecovermustmatchgame",
+        "300consecutivedailyphotosguaranteed"
+      ],
+      "status": "passed",
+      "reason": "P7–8 rank-number magazine pairing and optional15; P13 actual gaps support incomplete plan."
+    },
+    {
+      "id": "batch006-cq012-counts",
+      "episode": 12,
+      "question": "How many games did Johnny's lookup say he bought, and what was his new goal?",
+      "query": "667 901 389 under365 purchases",
+      "answer": "His lookup reports 667 purchases in 2015, 901 in 2014 and 389 in 2013. This corrects his initial impression that 2014 was smaller; Kat's 1190 and roughly 840 are guesses, not the accepted totals. He then sets a 2016 target below 365 purchases, which is a goal rather than a recorded outcome.",
+      "evidence_locations": [
+        "Paragraph 38",
+        "Paragraph 39",
+        "Paragraph 40"
+      ],
+      "forbidden": [
+        "1190or840finalcounts",
+        "Under365alreadyachieved",
+        "Annualtotalsaddedtorecentlotsasnewpurchases"
+      ],
+      "status": "passed",
+      "reason": "P38–40 database lookup supersedes guesses/initial impression; next-year target not outcome."
+    },
+    {
+      "id": "batch006-cq012-cost",
+      "episode": 12,
+      "question": "Was Kawasaki Caribbean Challenge literally bought alone for$3?",
+      "query": "Kawasaki Caribbean Challenge three dollars lot January",
+      "answer": "Johnny's ledger assigns the CIB copy $3 and a purchase date of January 18, 2014, but he explains that it came in a lot and he divides total cost equally among the games. The later $100/30-game numbers are an illustrative example, not proof of that actual lot's terms. The $3 allocation is not a standalone store price or market value.",
+      "evidence_locations": [
+        "Paragraph 41"
+      ],
+      "forbidden": [
+        "Standalone$3retailsale",
+        "Actual100dollar30gamelotproven",
+        "Currentmarketvalue3"
+      ],
+      "status": "passed",
+      "reason": "P41 supplies exact date/allocation and explicitly hypothetical lot math; no storefront or current-value claim."
+    },
+    {
+      "id": "batch006-cq012-gifts",
+      "episode": 12,
+      "question": "What hardware/game gifts were discussed, and was Kat's Pocket a color-screen system?",
+      "query": "purple Game Boy Pocket Uncharted collection Christmas",
+      "answer": "Kat reports a complete-in-box purple Japanese Game Boy Pocket and already having pink; she clarifies that the Pocket display is monochrome. Johnny reports receiving the PS4 Uncharted collection and looking forward to revisiting it, not receiving retro games or already finishing the collection. Shell color is not Game Boy Color hardware.",
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3"
+      ],
+      "forbidden": [
+        "PocketisGameBoyColor",
+        "Johnnyreceivedretrogames",
+        "Unchartedcompleted"
+      ],
+      "status": "passed",
+      "reason": "P1–3 actual hardware/game gifts and future Uncharted revisiting; shell versus display distinction."
+    },
+    {
+      "id": "batch006-cq012-scope",
+      "episode": 12,
+      "question": "Should the lore treat a changed top list or Johnny's casual Zelda answer as a contradiction?",
+      "query": "top five 2010 Zelda Game Gear only five",
+      "answer": "Not automatically. The hosts explain that recent replay and changing taste can reorder favorites; Johnny's example comparing a 2010 forum list with Instagram leaves the game unnamed. He sometimes answers Zelda simply because a casual questioner recognizes it. He also declines a Game Gear top three based on only about five games played, demonstrating that scope and experience matter.",
+      "evidence_locations": [
+        "Paragraph 28",
+        "Paragraph 29",
+        "Paragraph 31",
+        "Paragraph 27"
+      ],
+      "forbidden": [
+        "Unnamedgameidentified",
+        "Zeldafixedalltimefavorite",
+        "LimitedsampleisfullGameGearranking"
+      ],
+      "status": "passed",
+      "reason": "P27–31 full context supports fluid preferences, unnamed example and experience-limited GameGear scope."
+    },
+    {
+      "id": "batch006-cq012-uncertainty",
+      "episode": 12,
+      "question": "Can this transcript settle the V-titled digital game and Brawl's platform example?",
+      "query": "VVVVVVV five Vs Brawl Wii U",
+      "answer": "No confident cleanup is warranted from this text alone. It prints a run of Vs while the speaker calls it five Vs, and describes a digital DS/3DS-related entry. Separately, Brawl appears in a hypothetical post sequence alongside talk of Wii U additions. Preserve those raw forms and uncertainties instead of silently assigning corrected release/platform facts or claiming a purchase.",
+      "evidence_locations": [
+        "Paragraph 15",
+        "Paragraph 14",
+        "Paragraph 18"
+      ],
+      "forbidden": [
+        "ExactVcountverified",
+        "BrawlWiiUreleaseverified",
+        "Digitalgamepurchased"
+      ],
+      "status": "passed",
+      "reason": "P14–15/P18 raw contradiction preserved, no unsupported canonical cleanup or purchase inference."
+    },
+    {
+      "id": "cq079-task-roster",
+      "episode": 79,
+      "question": "Was Kat hosting CQ79 when KatSylvania was read at the end?",
+      "query": "Kat vacation absent impersonation microcast",
+      "answer": "No. Johnny explicitly says Kat is unavailable, and they repeat later that she is not there. The closing KatSylvania response is part of their impersonation/wrangling joke, not evidence she joined the recording. Johnny and Tyler are the two participating hosts.",
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 18",
+        "Paragraph 19",
+        "Paragraph 27",
+        "Paragraph 28"
+      ],
+      "forbidden": [
+        "Kat present",
+        "Tyler alone",
+        "real Kat signoff"
+      ],
+      "status": "passed",
+      "reason": "Opening and repeated absent statements override mock outro; fullsource confirms two actual hosts."
+    },
+    {
+      "id": "cq079-task-gift",
+      "episode": 79,
+      "question": "Who bought Secret of Mana and what did they pay?",
+      "query": "Secret Mana Secret Santa auctions 55",
+      "answer": "Tyler reports buying Secret of Mana for his Secret Santa recipient for $55 after two weeks of losing auctions with $50 bids. He considered $45 typical, but that is his dated comparison, not a current price. The purchase is reported; shipping to or receipt by the recipient is not confirmed.",
+      "evidence_locations": [
+        "Paragraph 13",
+        "Paragraph 14"
+      ],
+      "forbidden": [
+        "Johnny buyer",
+        "paid45",
+        "recipient received"
+      ],
+      "status": "passed",
+      "reason": "P13–14 exact amount and failed bids support Tyler as buyer, no receipt established."
+    },
+    {
+      "id": "cq079-task-data",
+      "episode": 79,
+      "question": "Does the episode prove every game's price rises every December?",
+      "query": "Christmas December exceptions Chrono volume",
+      "answer": "No. The hosts present a directional hypothesis and acknowledge exceptions. Chrono Trigger's later example levels off instead of rising, Magic Knight Rayearth gives a drop/plateau contrast, and they say they lack convenient month-by-month sales volume. Most main examples use loose carts while Magic Knight uses complete-copy prices, so neither universal timing nor a causal effect is proved.",
+      "evidence_locations": [
+        "Paragraph 4",
+        "Paragraph 7",
+        "Paragraph 8",
+        "Paragraph 9",
+        "Paragraph 10"
+      ],
+      "forbidden": [
+        "every game every year",
+        "causality proved",
+        "all loose"
+      ],
+      "status": "passed",
+      "reason": "P4/7–10 qualify universal and causal claims, plateau and sample condition difference explicit."
+    },
+    {
+      "id": "cq079-task-noah",
+      "episode": 79,
+      "question": "Did Johnny and Tyler acquire the same Noah's Ark edition?",
+      "query": "Noah Ark original re-release Wisdom Tree",
+      "answer": "The dialogue distinguishes them. Tyler has just obtained the original Super 3D Noah's Ark, while Johnny explicitly says he has the Wisdom Tree re-release, bought around $40, and does not own the original. Johnny's possible future original pickup is not a completed purchase. The edition attribution is contextual supplied-text evidence, not product authentication.",
+      "evidence_locations": [
+        "Paragraph 23",
+        "Paragraph 24",
+        "Paragraph 27"
+      ],
+      "forbidden": [
+        "Johnny original owned",
+        "Tyler only rerelease",
+        "authenticated"
+      ],
+      "status": "passed",
+      "reason": "P23–24/P27 distinguish original/reissue actors and contextual edition confidence."
+    },
+    {
+      "id": "cq079-task-steam",
+      "episode": 79,
+      "question": "Did Johnny buy High Leg Fantasy on Steam?",
+      "query": "High Leg Fantasy Turbo Steam sale",
+      "answer": "Johnny reports buying High Leg Fantasy as a TurboGrafx item. The Steam-sale line is a joke about how an adult Final Fantasy-like game sounds less surprising now, not a second purchase or confirmation of a Steam release. The source compares its mechanics with Final Fantasy V but does not establish it as an official Final Fantasy entry.",
+      "evidence_locations": [
+        "Paragraph 25",
+        "Paragraph 26"
+      ],
+      "forbidden": [
+        "Steam purchase",
+        "official Final Fantasy title",
+        "verified release catalog"
+      ],
+      "status": "passed",
+      "reason": "P25–26 actual Turbo pickup versus contemporary Steam comparison joke, no official-franchise implication."
+    },
+    {
+      "id": "cq079-task-playing",
+      "episode": 79,
+      "question": "How did Johnny's opinion of Odyssey change after playing?",
+      "query": "Odyssey Cappy hat controls Galaxy playing",
+      "answer": "Johnny says he expected not to like Odyssey because Cappy did not appeal to him, then changed his mind after playing and praised its controls. Both hosts are playing it, but their proposed future speedrun times are speculation rather than records they achieved. Johnny still distinguishes his affection for Galaxy from his lower enthusiasm for Mario 64.",
+      "evidence_locations": [
+        "Paragraph 20",
+        "Paragraph 21",
+        "Paragraph 22"
+      ],
+      "forbidden": [
+        "999moons complete",
+        "sevenminute record",
+        "Kat played here"
+      ],
+      "status": "passed",
+      "reason": "P20–22 actual play/change of attitude and future speedrun conjecture separate; no Kat present."
+    },
+    {
+      "id": "cq079-task-posts",
+      "episode": 79,
+      "question": "Can Tyler's Instagram post be dated as a new purchase?",
+      "query": "Instagram post things picked up picture cool",
+      "answer": "Not from the post alone. Tyler explicitly says some pictures show a cool item he already owns rather than something just acquired. A caption or separate purchase statement is needed before turning a post into a dated acquisition event.",
+      "evidence_locations": [
+        "Paragraph 28"
+      ],
+      "forbidden": [
+        "every post recent pickup",
+        "all posts old"
+      ],
+      "status": "passed",
+      "reason": "P28 explicitly disclaims post-date acquisition inference; no inverse all-old rule."
+    },
+    {
+      "id": "cq205-frankenstein-stickers",
+      "episode": 205,
+      "question": null,
+      "query": "What did the hosts actually establish about the Genesis Frankenstein rental variant?",
+      "answer": "They correct rental exclusive to rental special and do not prove exclusivity. A physical check establishes the rental-special sticker is on the inner artwork sleeve, while the also-available-on-Sega-CD sticker is on the outer case. They also discuss a no-text version. Tyler still wants missing variants and needs to check his copy; he ultimately rejects the $50 asking price rather than completing a purchase on air.",
+      "evidence_locations": [
+        "01:50:07",
+        "01:51:14",
+        "01:52:19",
+        "01:53:25",
+        "01:54:31"
+      ],
+      "forbidden": [
+        "Do not call rental wording printed on after physical correction.",
+        "Do not claim confirmed rental exclusivity or that Tyler bought two more copies."
+      ],
+      "status": "passed",
+      "reason": "Five windows include printed→physically checked inner-art sticker correction, separate outer sticker, explicit nonpurchase at50; safe variant uncertainty."
+    },
+    {
+      "id": "cq205-quarry-purchase",
+      "episode": 205,
+      "question": null,
+      "query": "Did Stefan give Johnny a free copy of The Quarry?",
+      "answer": "No such gift is established. The hosts explicitly say the supposed conversation requesting a free copy never happened. Johnny says he bought The Quarry and has played only about forty minutes, hoping for a longer session later. Do not turn that joking exchange into a gift or completed playthrough.",
+      "evidence_locations": [
+        "02:52:12",
+        "02:53:16"
+      ],
+      "forbidden": [
+        "Do not record a free copy, a real request to Stefan, or completion."
+      ],
+      "status": "passed",
+      "reason": "02:52–53 makes joking nonexistent free-copy conversation explicit, then purchase/40-minute play, no completion."
+    },
+    {
+      "id": "cq205-blair-witch-buyers",
+      "episode": 205,
+      "question": null,
+      "query": "Who bought the three big-box Blair Witch games?",
+      "answer": "Johnny reports buying all three PC volumes complete in big boxes: Rustin Parr, The Legend of Coffin Rock, and The Elly Kedward Tale (the third title is garbled in the caption). Tyler separately wants them but objects to the combined cost. Earlier talk about DVD cases and a three-game boxset is not evidence Johnny bought those instead.",
+      "evidence_locations": [
+        "02:07:23",
+        "02:08:25",
+        "02:09:27",
+        "02:54:24",
+        "02:55:28"
+      ],
+      "forbidden": [
+        "Do not give Tyler Johnny’s purchases.",
+        "Do not substitute DVD reissues or a sealed trilogy outer box.",
+        "Do not treat Tyler’s rushed-license theory as established development history."
+      ],
+      "status": "passed",
+      "reason": "Early wants/cost discussion and late explicit Johnny three-CIB-big-box list establish actor/product; captions' third-title uncertainty retained."
+    },
+    {
+      "id": "cq205-computer-pickups",
+      "episode": 205,
+      "question": null,
+      "query": "What first-print Space Quest I IBM PC grid-box pickup did Tyler collect even though he dislikes playing it?",
+      "answer": "Tyler bought a very nice first-print Space Quest I for IBM PC, identifying the 1986 black box by its faint grid background and praising the inserts and condition. He says the original is the only Space Quest he has played and describes reaching a late dead end after missing an early item. The expensive pickup therefore reflects collecting appeal, not a claim he loves Sierra-style adventure gameplay or completed another run.",
+      "evidence_locations": [
+        "02:50:01",
+        "02:51:06"
+      ],
+      "forbidden": [
+        "Do not invent the paid amount or a new completion.",
+        "Do not imply he played every Space Quest sequel."
+      ],
+      "status": "passed",
+      "reason": "02:50–51 exact black-grid first-print/condition and dislike despite acquisition; no amount or new completion invented."
+    },
+    {
+      "id": "cq205-three-accomplishments",
+      "episode": 205,
+      "question": null,
+      "query": "What collecting accomplishments do the three hosts value most?",
+      "answer": "Tyler chooses the effort of completing boxed Sega Genesis, Saturn and Sega CD sets. Johnny emphasizes the podcast, its Discord community and connections over a single purchased object. Stefan describes founding and building his nonprofit art museum as the work he expects to devote his life to. These are distinct answers, not three versions of biggest purchase.",
+      "evidence_locations": [
+        "02:17:55",
+        "02:18:57",
+        "02:20:03",
+        "02:21:10",
+        "02:22:13",
+        "02:23:17"
+      ],
+      "forbidden": [
+        "Do not make Johnny’s answer merely the SNES set.",
+        "Do not turn Stefan’s museum into a hypothetical future basement display."
+      ],
+      "status": "passed",
+      "reason": "All six answer windows directly support three distinct accomplishments, not equivalent purchases or future-only museum."
+    },
+    {
+      "id": "cq205-ghostbusters-wants",
+      "episode": 205,
+      "question": null,
+      "query": "Which Ghostbusters game do Tyler and Johnny both want, and which label do they recommend for the original?",
+      "answer": "Both want the scarce PAL Atari 2600 Ghostbusters II. Their claim that it may be the final commercial 2600 release is tentative and unverified here. For the original Atari Ghostbusters, they favor the picture label over the plain blue text label, with the speaker saying the text label is probably later. That preference is not proof of a fully verified print chronology.",
+      "evidence_locations": [
+        "00:57:05",
+        "00:58:07",
+        "00:59:10"
+      ],
+      "forbidden": [
+        "Do not record either host as owning or purchasing the rare sequel.",
+        "Do not merge original Ghostbusters, Ghostbusters II and New Ghostbusters II."
+      ],
+      "status": "passed",
+      "reason": "57–59min separates original label preference, tentative chronology and explicit shared sequel wants without receipt."
+    },
+    {
+      "id": "cq205-arachnophobia-bundle",
+      "episode": 205,
+      "question": null,
+      "query": "Which Arachnophobia variant does Johnny still want?",
+      "answer": "Johnny wants the version with the companion novel and the front sticker advertising it. He says his existing copy is not that version. The conversation also calls out Disney-branded disk sleeves, floppy formats and a custom registration card, so owning the game does not by itself establish that every bundle component is present.",
+      "evidence_locations": [
+        "01:29:59",
+        "01:31:02",
+        "01:32:09"
+      ],
+      "forbidden": [
+        "Do not mark the novel upgrade received or complete.",
+        "Do not infer the novel is present in every platform release."
+      ],
+      "status": "passed",
+      "reason": "89–92min explicit not-my-version and desired novel sticker, existing disks/sleeves, no completed upgrade."
+    },
+    {
+      "id": "cq205-jaws-history",
+      "episode": 205,
+      "question": null,
+      "query": "Did Stefan finally beat NES Jaws?",
+      "answer": "Not in this episode. Stefan remembers playing it with his sister April and reaching the final boat sequence without successfully stabbing the shark. He considers returning to finish it after the others encourage him. That is an unfinished childhood anecdote plus a possible future attempt, not evidence of a new completion.",
+      "evidence_locations": [
+        "01:04:31",
+        "01:05:36",
+        "01:06:41"
+      ],
+      "forbidden": [
+        "Do not report a completed run or a new cartridge purchase."
+      ],
+      "status": "passed",
+      "reason": "64–66min Stefan childhood failure and encouraged future attempt, not completed play."
+    },
+    {
+      "id": "cq205-qvc-gaia",
+      "episode": 205,
+      "question": null,
+      "query": "What did Stefan’s archival purchase reveal about Illusion of Gaia?",
+      "answer": "Stefan says recorded QVC material from a former Nintendo gameplay counselor showed an early selling window for Illusion of Gaia before store availability, and he explicitly distinguishes it from the T-shirt version. He acquired the materials and digitized the television segments. The episode does not speak the exact calendar date, so a lore answer should not invent one or pretend this extraction independently inspected the video.",
+      "evidence_locations": [
+        "02:43:38",
+        "02:44:38",
+        "02:45:42",
+        "02:46:46"
+      ],
+      "forbidden": [
+        "Do not invent a release date or external video verification.",
+        "Do not call the QVC copy the T-shirt bundle."
+      ],
+      "status": "passed",
+      "reason": "163–166min actual archival acquisition/digitization and reported QVC finding, no exact date spoken or independent video audit."
+    },
+    {
+      "id": "cq205-gremlins-mapping",
+      "episode": 205,
+      "question": null,
+      "query": "Why can’t the Gremlins games all be merged as ports of one game?",
+      "answer": "The hosts describe the Atari 2600 Gremlins as a catching/shooting design and the 5200 game as a sword-based overhead action game. For Gremlins 2 they distinguish Game Boy, NES, Amiga-related and separately developed DOS designs, while the print-shop add-on is explicitly not a game. The subtitle alone therefore cannot establish one shared design. Their broad counts and release dates remain source claims rather than a verified complete catalog.",
+      "evidence_locations": [
+        "00:42:20",
+        "00:43:20",
+        "00:44:20",
+        "00:45:27",
+        "00:46:31",
+        "00:47:33",
+        "00:48:35"
+      ],
+      "forbidden": [
+        "Do not merge two DOS designs.",
+        "Do not count print-shop software as a playable Gremlins game.",
+        "Do not preserve the corrected 5200/2600 compatibility claim."
+      ],
+      "status": "passed",
+      "reason": "42–48min design/platform distinctions, correction to7800 compatibility, print-shop nongame and uncertain count; not a port collapse."
+    },
+    {
+      "id": "cq205-maniac-variant",
+      "episode": 205,
+      "question": null,
+      "query": "Did Johnny buy the lust-box variant of Maniac Mansion?",
+      "answer": "That is not established. When the others suggest the lust wording, Johnny clarifies that his purchase is the Apple II/IIc version and the assumption is rejected. He says he needs multiple Maniac Mansion versions. Record the acquired Apple-family copy and the unresolved variant wants, not a confirmed lust-box acquisition.",
+      "evidence_locations": [
+        "02:55:28"
+      ],
+      "forbidden": [
+        "Do not silently label his copy the lust variant.",
+        "Do not invent additional completed purchases."
+      ],
+      "status": "passed",
+      "reason": "02:55:28 explicitly rejects assumed lust variant and specifies Apple family copy; additional versions remain need."
+    },
+    {
+      "id": "cq205-magic-randomness",
+      "episode": 205,
+      "question": null,
+      "query": "Why do they object to calling Magic anniversary packs accessible?",
+      "answer": "They contrast the $999 product’s four randomized packs with directly buying a desired older card or the older complete Collector’s Edition. Different backs make the new cards non-tournament versions in their discussion, and high expected spending does not guarantee a chosen pull—the hosts explicitly correct that language. Their price and future-market claims are dated opinions, not verified investment guidance.",
+      "evidence_locations": [
+        "00:05:16",
+        "00:06:21",
+        "00:07:25",
+        "00:08:29",
+        "00:09:34",
+        "00:11:39",
+        "00:12:44"
+      ],
+      "forbidden": [
+        "Do not treat $999 as a complete Beta set.",
+        "Do not promise a Lotus after any fixed spend or call these video-game cards."
+      ],
+      "status": "passed",
+      "reason": "05–12min randomized packs, differing backs, old full-set comparison and explicit not-guaranteed probability correction; dated source opinion."
+    }
+  ]
+}

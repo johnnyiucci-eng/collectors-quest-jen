@@ -1,0 +1,4322 @@
+{
+  "schema_version": "0.1",
+  "extraction_version": "manual-codex-2026-09-12-v1",
+  "source": {
+    "key": "sc-1943435095",
+    "episode_number": 259,
+    "title": "CQ 259 - Historic Halloween Firsts",
+    "date": "2024-10-28",
+    "path": "episodes/cq-259-sc-1943435095.md",
+    "words": 25178,
+    "source_url": "https://soundcloud.com/collectors-quest/cq-259-historic-halloween-firsts",
+    "timing": "YouTube caption timestamps",
+    "sha256": "85ad4c1efdd937cdda121f1a5a999d27049377b6d554464dc414fee9966fd492"
+  },
+  "review": {
+    "status": "extracted_draft",
+    "read_coverage": "All 133 supplied transcript windows read consecutively through closing.",
+    "omission_review": "pending",
+    "audio_verification": "not_performed",
+    "independent_review": "pending",
+    "transcript_limit": "Captured transcript completeness does not establish recognition accuracy or exact attribution.",
+    "timing": "Window-start timestamps are navigation locations, not precise utterance times.",
+    "elapsed_model_time": null,
+    "subscription_usage": null
+  },
+  "participants": [
+    {
+      "name": "Tyler",
+      "confidence": "high",
+      "evidence": [
+        {
+          "location": "00:00:00",
+          "quote": "[Music] [Applause] [Music] hey welcome back to another episode of collector's Quest I'm Tyler here with Johnny happy Halloween Johnny what's going on hey Tyler happy Halloween we're just about there it's a good time to be on collector's Quest if you care about Halloween uh why is that because we're doing more Halloween episodes this"
+        }
+      ]
+    },
+    {
+      "name": "Johnny",
+      "confidence": "high",
+      "evidence": [
+        {
+          "location": "00:00:00",
+          "quote": "[Music] [Applause] [Music] hey welcome back to another episode of collector's Quest I'm Tyler here with Johnny happy Halloween Johnny what's going on hey Tyler happy Halloween we're just about there it's a good time to be on collector's Quest if you care about Halloween uh why is that because we're doing more Halloween episodes this"
+        }
+      ]
+    }
+  ],
+  "main_topic": "Historic Halloween firsts, with retail-scope and genre caveats",
+  "secondary_topics": [
+    "horror firsts",
+    "survival horror taxonomy",
+    "obscure computer collecting",
+    "authentication",
+    "collecting routines",
+    "seasonal game events"
+  ],
+  "games": [
+    {
+      "id": "cq259-g001",
+      "canonical_title": "DND",
+      "spoken_forms": [
+        "D and D"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "PLATO antecedent excluded by physical-release scope",
+          "evidence": [
+            {
+              "location": "00:08:25",
+              "quote": "that have physical video games cuz I didn't want to go and and find some old 1974 Playdoh Network game that had like a ghost in it cuz that's not useful information for anybody there there's a lot hey guess what uh Playdoh D and D solves a lot of this uh yes the the game D and D has a lot of spooky creatures but Johnny that's not hard that's Dark Fantasy and you love making the distinction sure is but I know but if we were talking about what was the"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g002",
+      "canonical_title": "Haunted House",
+      "spoken_forms": [
+        "haunted house"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Odyssey",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Overlay horror first discussed with technicality caveats",
+          "evidence": [
+            {
+              "location": "00:09:30",
+              "quote": "rules for a bunch of different games you could play while moving squares around a TV and like it comes with all these cards and chips and dice like this was a toy extrav Anza as much as it was about just being pong uh and haunted house pretty universally agreed upon as the first video game with a horror theme uh in the same way that the Simon Says game is the first video game with a female protagonist because it shows a boy and a girl on the overlay so"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g003",
+      "canonical_title": "Pong",
+      "spoken_forms": [
+        "pong"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Odyssey mechanic comparison",
+          "evidence": [
+            {
+              "location": "00:09:30",
+              "quote": "six cartridges but there were multiple games you could play with each cartridge uh and so if you don't know what the Odyssey is so imagine each player gets basically a pong paddle they can move up down left and right with a blob on the screen and then you put an overlay over your TV and it comes with basically board game rules for a bunch of different games you could play while moving squares"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g004",
+      "canonical_title": "Simon Says",
+      "spoken_forms": [
+        "Simon Says"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Odyssey",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Overlay female-character technical first analogy",
+          "evidence": [
+            {
+              "location": "00:09:30",
+              "quote": "cards and chips and dice like this was a toy extrav Anza as much as it was about just being pong uh and haunted house pretty universally agreed upon as the first video game with a horror theme uh in the same way that the Simon Says game is the first video game with a female protagonist because it shows a boy and a girl on the overlay so there is a uh there's technically a girl in that game Magnavox Odyssey gets a lot of technicality first just cuz"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g005",
+      "canonical_title": "Hunt the Wumpus",
+      "spoken_forms": [
+        "hunt the wumpus"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Hosts reject survival-horror label",
+          "evidence": [
+            {
+              "location": "00:14:51",
+              "quote": "cited as the first personal computer horror game or even insanely an early example of survival Horror by who who is citing hunt the wumpus as survival horror I have a few questions here one how many people even know what hunt the wus is okay I if you haven't listened to this podcast have you ever even heard of this game like or and if you're not over the age"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g006",
+      "canonical_title": "Minesweeper",
+      "spoken_forms": [
+        "mind sweeper"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Hidden-hazard mechanics comparison",
+          "evidence": [
+            {
+              "location": "00:15:52",
+              "quote": "it a a Rog likee hide and seek game which is a very generous description of it it's it's basically mind sweeper so you're exploring a map similar to how you would explore mind sweeper and there's a wus in it and your goal is to shoot your arrow at the wus which you cannot see you only get hints as to where it is similar to the numbers"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g007",
+      "canonical_title": "Tunnels of Doom",
+      "spoken_forms": [
+        "tunnels of Doom"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "TI-99",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Counterexample to dismissal of TI-99 games",
+          "evidence": [
+            {
+              "location": "00:19:02",
+              "quote": "collecting video games I've known that ti99 is garbage people have always liked Apple games people have always liked Commodore games omiga games nobody likes ti99 games I love a ti99 nope that's not true it's got uh what's the tunnels of Doom you know tunnels of Doom all right that's hunt the wus it's I'm going to say it's not a horror game but we have to mention it on the show so no one actually SU don't add us we talked about hunt the wumpus all right and here's"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g008",
+      "canonical_title": "Death Race",
+      "spoken_forms": [
+        "Death Race"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Arcade",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Controversy, cabinet availability and personal play",
+          "evidence": [
+            {
+              "location": "00:20:02",
+              "quote": "probably shouldn't add us about Tyler tell me about Death Race from 1976 and what we're talking about it I all right I mean Death Race Death Race is maybe some kind of historically important game probably not uh Death Race is a 1976 arcade game uh maybe debly hor it's this squat little"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g009",
+      "canonical_title": "Little Samson",
+      "spoken_forms": [
+        "little Samson"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Arbitrary set-definition joke",
+          "evidence": [
+            {
+              "location": "00:21:05",
+              "quote": "keep modifying them yeah that's people do that with sets all the time when they're collecting sets well it's not it's not every NES game it's every you know licensed us NES game beginning with the letter L well no that is little Samson we can't do that beginning with the letter S no that has Stadium EV all right Johnny you're off track how about e excite bike we got there all right uh Death Race 500 cabinets were"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g010",
+      "canonical_title": "Stadium Events",
+      "spoken_forms": [
+        "Stadium"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Arbitrary set-definition joke",
+          "evidence": [
+            {
+              "location": "00:21:05",
+              "quote": "when they're collecting sets well it's not it's not every NES game it's every you know licensed us NES game beginning with the letter L well no that is little Samson we can't do that beginning with the letter S no that has Stadium EV all right Johnny you're off track how about e excite bike we got there all right uh Death Race 500 cabinets were"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g011",
+      "canonical_title": "Excitebike",
+      "spoken_forms": [
+        "excite bike"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Arbitrary set-definition joke",
+          "evidence": [
+            {
+              "location": "00:21:05",
+              "quote": "NES game it's every you know licensed us NES game beginning with the letter L well no that is little Samson we can't do that beginning with the letter S no that has Stadium EV all right Johnny you're off track how about e excite bike we got there all right uh Death Race 500 cabinets were"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g012",
+      "canonical_title": "Robotron: 2084",
+      "spoken_forms": [
+        "Robotron"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Arcade",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Objection to arcade as genre",
+          "evidence": [
+            {
+              "location": "00:23:08",
+              "quote": "but if you look at you know you go to like Wikipedia or mobi games a lot of the times those games will just be called arcade games rather than I don't know multi-directional shooter or something like I bet the genre for Robotron somewhere is listed as an arcade game which you know I kind of know what you mean but I also hate the descriptor because get like we're talking about the Golden Age of arcade we're in 2024 the Golden Age of arcades was like"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g013",
+      "canonical_title": "Geometry Wars",
+      "spoken_forms": [
+        "Geometry Wars"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Arcade-style game not originally arcade",
+          "evidence": [
+            {
+              "location": "00:23:08",
+              "quote": "Golden Age of arcades was like two years 40 years ago so like the genre doesn't mean as much anymore there are more arcade games that were never in arcades than there are arcade games that actually were in arcades true Geometry Wars Johnny is an"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g014",
+      "canonical_title": "Space Invaders",
+      "spoken_forms": [
+        "Space Invaders"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Rejects horror label despite tension and alien theme",
+          "evidence": [
+            {
+              "location": "00:25:14",
+              "quote": "starts speeding up and they start speeding up and it is almost similar to jaws and it creates the same tense atmosphere I mean there's something to it it's not a horror game I wouldn't even put horror as a sub genre on Space Invaders but there is that element of tension and it was such like a phenomenally popular game that I feel like it probably squeaks in just because of how phenomenally popular it is even if it's just for that one little element and"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g015",
+      "canonical_title": "Home Run",
+      "spoken_forms": [
+        "home run"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Atari 2600",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Launch lineup comparison",
+          "evidence": [
+            {
+              "location": "00:30:36",
+              "quote": "2600 cuz you could play Space Invaders the most popular game ever at home uh whereas Atari launched in 1977 with such hits as home run which was not as compelling as playing Pac-Man and Space Invaders at home Believe It or Not uh this is an extremely common game but if you look at the front of the there's this like little white copyright text at the bottom"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g016",
+      "canonical_title": "Pac-Man",
+      "spoken_forms": [
+        "Pac-Man"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Home conversion popularity comparison",
+          "evidence": [
+            {
+              "location": "00:30:36",
+              "quote": "2600 cuz you could play Space Invaders the most popular game ever at home uh whereas Atari launched in 1977 with such hits as home run which was not as compelling as playing Pac-Man and Space Invaders at home Believe It or Not uh this is an extremely common game but if you look at the front of the there's this like little white copyright text at the bottom you want to look for the version that doesn't"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g017",
+      "canonical_title": "The House of Seven Gables",
+      "spoken_forms": [
+        "Seven Gables"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Qualified first Dracula: unnamed vampire in Dracula's chamber",
+          "evidence": [
+            {
+              "location": "00:33:46",
+              "quote": "we're going back to like PlayDoh games that are there's going to be something that someone can get us with uh the first Dracula someone find me a game earlier than this that has Dracula so as you're exploring the house of Seven Gables of the Seven Gables one of the rooms is named Dracula's chamber and you have to kill Dracula with garlic and a steak technically he's not named Dracula he is a mean looking vampire that is in Dracula's chamber I'm going"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g018",
+      "canonical_title": "Roblox",
+      "spoken_forms": [
+        "Roblox"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Young programmer comparison",
+          "evidence": [
+            {
+              "location": "00:33:46",
+              "quote": "house okay yeah I can see that I'm not fighting you Johnny was programmed by Greg hasset who was apparently 12 when he programmed it uh so your kids are making stupid Roblox games and he was out here making a game that people are talking about 45 years later by people you just mean us right it's just us uh no it's people anyway Johnny this is probably unless we're going back to like PlayDoh"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g019",
+      "canonical_title": "The Count",
+      "spoken_forms": [
+        "the count"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Johnny's earlier first-Dracula assumption superseded; more obtainable",
+          "evidence": [
+            {
+              "location": "00:36:59",
+              "quote": "well I because I I assumed this was going to be the first Dracula game until you brought up the House of Seven Gables so this came out the count came out in 1979 and it was made by Scott Adams it's one of the Scott Adams graphic Adventures is it his second one is it the second one he did I can't remember um and I didn't look so if you don't it's Scott Adams not Dilbert"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g020",
+      "canonical_title": "Castlevania",
+      "spoken_forms": [
+        "Castlevania"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Box-art influence debate, causal link unverified",
+          "evidence": [
+            {
+              "location": "00:38:00",
+              "quote": "don't know if you've seen the trs8 cover but it's very bad and what's interesting about the count especially if you look at like the Atari 400 version of the count it is also leaning on uh the Frank fretta art that inspires Castlevania because it is totally like I don't know like they're like oh that art inspired Castlevania I don't know if that inspired Castlevania or they saw this art for the count and"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g021",
+      "canonical_title": "Chiller",
+      "spoken_forms": [
+        "chillers"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Arcade",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Exidy horror-history aside",
+          "evidence": [
+            {
+              "location": "00:42:17",
+              "quote": "this is the end of the exod segment cuz exod made Death Race they made House of they didn't make it but they had House of Seven Gables and the count ported to their very obscure failed computer uh and then they also made chillers so ex important in the"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g022",
+      "canonical_title": "Mystery House",
+      "spoken_forms": [
+        "Mystery House"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Apple II",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Graphic adventure history, baggies and scarcity",
+          "evidence": [
+            {
+              "location": "00:43:18",
+              "quote": "history of weird horror games I love it somehow the ex popular nowhere else but important here Johnny there's a game we bring up a lot on this show it's called Mystery House by Sierra online uh this game is not never heard of it uh yes uh Canon Roberta Williams made the first graphic adventure game and it's one of the Grails of computer gaming because people used to like adventure games in the"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g023",
+      "canonical_title": "Akalabeth: World of Doom",
+      "spoken_forms": [
+        "a calth"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Computer grail comparison; caption identity inferred",
+          "evidence": [
+            {
+              "location": "00:44:23",
+              "quote": "skeletons and guys in creepy robes and a calth I'll would say a calth is probably the Grail of computer gaming because there are so few original copies known to exist um Mystery House is much more common than a calth but it's still probably in the top 10 most collectible"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g024",
+      "canonical_title": "John Madden Football",
+      "spoken_forms": [
+        "John Madden football"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Sealed market comparison",
+          "evidence": [
+            {
+              "location": "00:44:23",
+              "quote": "gaming because there are so few original copies known to exist um Mystery House is much more common than a calth but it's still probably in the top 10 most collectible Boomer PC games not counting like whatever weird sealed John Madden football people are buying for tens of thousands of dollars like Boomer collectors who actually care about the stupid old [ __ ] that's it go buy a mystery house there's one on eBay that's been sitting for $4,000 is it signed it's"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g025",
+      "canonical_title": "Ultima",
+      "spoken_forms": [
+        "Ultima"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Reported California Pacific/second-release find, caption publisher unclear",
+          "evidence": [
+            {
+              "location": "00:45:30",
+              "quote": "definitely be the one who gets it then yeah I I definitely won't be but a Boy Can Dream uh didn't kakis just bought a uh like an apple two lot I think and he found some good stuff in there uh I think he found like a a pro game Ultima which is the second release of Ultima still worth like $1,000 um yeah it could happen get on that"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g026",
+      "canonical_title": "The House of Usher",
+      "spoken_forms": [
+        "stats"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Crystalware1980 adventure/RPG and alternate win conditions",
+          "evidence": [
+            {
+              "location": "00:47:34",
+              "quote": "RPG is a notoriously hard genre to Define um but you technically have stats in this game you've got stamina courage and defense and particularly defense that feels like a pretty RPG stat so a lot of these old adventure games they have score and like kind of the goal of the game is not just to beat"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g027",
+      "canonical_title": "Splatterhouse 3",
+      "spoken_forms": [
+        "Splatterhouse 3"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Rejected first-multiple-endings attribution",
+          "evidence": [
+            {
+              "location": "00:47:34",
+              "quote": "top down View and and you're running around a house and there's actually two ways to win which probably that's cool first uh maybe the first horror game with multiple endings something I've sometimes seen attributed to Splatterhouse 3 which is no internet get out of here what are you talking"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g028",
+      "canonical_title": "House of Usher",
+      "spoken_forms": [
+        "cartoony platformer"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Atari 8-bit",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Different1984 game, explicitly not Crystalware target",
+          "evidence": [
+            {
+              "location": "00:51:47",
+              "quote": "box or so to be clear so the the Atari game House of Usher I think it came out in 1984 that's a completely different game from crystalware House of Usher which is the one you want uh House of Usher on Atari it's like a cartoony platformer it's completely different yep so the crystalware one uh there are loose discs available for it right now and there are multiple labels uh even for that so um careful when you're buying it um but there's like one right now"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g029",
+      "canonical_title": "The Fall of the House of Usher",
+      "spoken_forms": [
+        "CD ROM"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Different later CD-ROM game, edition unresolved",
+          "evidence": [
+            {
+              "location": "00:50:44",
+              "quote": "the Fall of the House of Usher this is just the house of us there's a b there's like like an early ODS like one of these hidden object game that's not it there is a game called The Fall of the House of Usher uh which is a CD ROM game also clearly not it but there is like House of Usher for the Atari uh 800 you can get where it's just the cassette version"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g030",
+      "canonical_title": "AX-2: Uchuu Yusousen Nostromo",
+      "spoken_forms": [
+        "Nostromo"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "PC-6001",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Four-game collection; debated early survival horror; raw romanization uncertain",
+          "evidence": [
+            {
+              "location": "00:52:51",
+              "quote": "guys you can buy a loose floppy disc if you want do it then show us and see if Tyler says something mean to you Johnny 1981 we have uh an interesting game that has been brought up on the show a few times it is ax2 U yusen Nostromo which means ax2 space freighter Nostromo for the PC 6001 apparently also released for a Japanese Commodore pet and I've never seen that version so just pretend it doesn't exist but um this is a it's a collection of four"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g031",
+      "canonical_title": "3D Monster Maze",
+      "spoken_forms": [
+        "T-Rex"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "ZX81",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Pick of show: silent pursuit with subtitles, jump scare",
+          "evidence": [
+            {
+              "location": "01:04:37",
+              "quote": "about a T-Rex chasing you through a 3D maze while you search for the exit and because it has no sound that absolutely makes it creepier but even adding to the creep Factor there are subtitles about what is happening in the game and so"
+            },
+            {
+              "location": "01:09:50",
+              "quote": "I'll do it if you need cheap import games make sure you're contacting red the game shk where you can get those games cheap at cheap cheap games now you can go talk about r g uh retr games.co does have one in stock for 60 pounds which is kind of right about what it's worth so uh you can go get one there a good buy uh it is the it is the later print with the color cover I don't know I would wait for an earlier one yeah I like the black and white cover uh all right Johnny I love this game I don't know how uh so I I didn't want to bring this up as its own game in 1980 so like a year before 3d monster maze there was this game called death maze 5000 for the TRS 80 I really like early 3D games whether they're real time or wireframe I mean the history goes kind of all the way back to Playdoh Network games then you get like Battle Zone as like a real-time 3D game but I like all these like weird early 3D games when they're kind of figuring stuff out and they're cool one of them is called"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g032",
+      "canonical_title": "Frankenstein",
+      "spoken_forms": [
+        "hangman Frankenstein"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Computer",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Datasoft1981 Hangman variant; qualified first appearance",
+          "evidence": [
+            {
+              "location": "01:00:16",
+              "quote": "based off the captain um or boat swing of this [ __ ] ship anyways go go read it go read the book report back Johnny I wanted to find the first Frankenstein game I think yeah did you did you find 1981's dat data soft's 1981 hangman Frankenstein Game I have to imagine Frankenstein has appeared as a concept before this but I also remember I did look pretty deeply to find the first poker game and there wasn't like a poker game until the 1980s so potentially this is"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g033",
+      "canonical_title": "Frankenstein Adventure",
+      "spoken_forms": [
+        "descendant of Victor Frankenstein"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Computer",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Text adventure sequel narrative; distribution scarce",
+          "evidence": [
+            {
+              "location": "01:01:22",
+              "quote": "a descendant of Victor Frankenstein and have to gather the components gather the scientific components and body parts to reanimate the monster so they didn't even do a retelling of Frankenstein they made their own story that's a sequel to Frankenstein that's"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g034",
+      "canonical_title": "Dino Crisis",
+      "spoken_forms": [
+        "Dino Crisis"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "PlayStation",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Dinosaur horror comparison after name-recall repair",
+          "evidence": [
+            {
+              "location": "01:05:38",
+              "quote": "game I can't remember the what is the dinosaur game like that's basically from PS1 what Dino PS1 dinosaur game like uh Jurassic Park not res what it's basically an offshoot of Resident not an off res evil but yes thank you Dino Crisis yeah thank you God couldn't get there uh Dino Crisis that what people like to site as as a horror game all the time and I'm not opposed to it um you know dinosaurs just a stand in for a"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g035",
+      "canonical_title": "Jurassic Park",
+      "spoken_forms": [
+        "Jurassic Park"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Rejected candidate during Dino Crisis recall",
+          "evidence": [
+            {
+              "location": "01:05:38",
+              "quote": "they're adding elements in there to to make this a horror game and people people want um the dinosaur game I can't remember the what is the dinosaur game like that's basically from PS1 what Dino PS1 dinosaur game like uh Jurassic Park not res what it's basically an offshoot of Resident not an off res evil but yes thank you Dino Crisis yeah thank you God couldn't get there uh Dino Crisis that what people like to site as as a horror game all the time and"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g036",
+      "canonical_title": "Resident Evil",
+      "spoken_forms": [
+        "Resident"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Dino Crisis comparison",
+          "evidence": [
+            {
+              "location": "01:05:38",
+              "quote": "game and people people want um the dinosaur game I can't remember the what is the dinosaur game like that's basically from PS1 what Dino PS1 dinosaur game like uh Jurassic Park not res what it's basically an offshoot of Resident not an off res evil but yes thank you Dino Crisis yeah thank you God couldn't get there uh Dino Crisis that what people like to site as as a horror game all the time and I'm not opposed to it um you know dinosaurs just a"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g037",
+      "canonical_title": "Monster Maze",
+      "spoken_forms": [
+        "Monster maze"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Atari 8-bit",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Epyx game excluded from3D Monster Maze identification",
+          "evidence": [
+            {
+              "location": "01:08:46",
+              "quote": "so by the time you probably start looking uh people are probably over it less interested so it should start showing back up again also I want to say don't be confused by this because there is just a game called Monster maze that's out there for which is like an Atari uh 8bit game um by epics that's not that's not it there's also bunch of games called Monster Chase not it either yeah yeah so there are a lot of games with very similar titles"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g038",
+      "canonical_title": "Monster Chase",
+      "spoken_forms": [
+        "Monster Chase"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Similarly named games excluded",
+          "evidence": [
+            {
+              "location": "01:08:46",
+              "quote": "also I want to say don't be confused by this because there is just a game called Monster maze that's out there for which is like an Atari uh 8bit game um by epics that's not that's not it there's also bunch of games called Monster Chase not it either yeah yeah so there are a lot of games with very similar titles so if you do like an eBay search you're going to see a bunch of these you make sure it's very specifically 3d monster maze not monster maze not"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g039",
+      "canonical_title": "3D Maze",
+      "spoken_forms": [
+        "3D maze"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Name-confusion warning, release unresolved",
+          "evidence": [
+            {
+              "location": "01:08:46",
+              "quote": "not it either yeah yeah so there are a lot of games with very similar titles so if you do like an eBay search you're going to see a bunch of these you make sure it's very specifically 3d monster maze not monster maze not 3D maze but 3d monster maze put it all together to get the right one uh Johnny we haven't talked about the sponsor of our show yet which is retrogames.cc of the show and we have talked about red the game shark and he didn't even"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g040",
+      "canonical_title": "Deathmaze 5000",
+      "spoken_forms": [
+        "death maze 5000"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "TRS-80",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Early3D adventure explicitly not horror; watchlist not purchased",
+          "evidence": [
+            {
+              "location": "01:10:54",
+              "quote": "death m 5,000 this is uh not a horror game cuz we we were thinking about bringing this up cuz it's called death maze 5000 it basically seems like a 3D firstperson Adventure game and the only reason I'm bringing it up in here is cuz it's most similar to 3d monster maze um but if you are looking for a game called death maze 5000 which is a really"
+            },
+            {
+              "location": "01:09:50",
+              "quote": "I'll do it if you need cheap import games make sure you're contacting red the game shk where you can get those games cheap at cheap cheap games now you can go talk about r g uh retr games.co does have one in stock for 60 pounds which is kind of right about what it's worth so uh you can go get one there a good buy uh it is the it is the later print with the color cover I don't know I would wait for an earlier one yeah I like the black and white cover uh all right Johnny I love this game I don't know how uh so I I didn't want to bring this up as its own game in 1980 so like a year before 3d monster maze there was this game called death maze 5000 for the TRS 80 I really like early 3D games whether they're real time or wireframe I mean the history goes kind of all the way back to Playdoh Network games then you get like Battle Zone as like a real-time 3D game but I like all these like weird early 3D games when they're kind of figuring stuff out and they're cool one of them is called"
+            }
+          ],
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g041",
+      "canonical_title": "Battlezone",
+      "spoken_forms": [
+        "Battle Zone"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Arcade",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Early real-time3D comparison",
+          "evidence": [
+            {
+              "location": "01:09:50",
+              "quote": "maze there was this game called death maze 5000 for the TRS 80 I really like early 3D games whether they're real time or wireframe I mean the history goes kind of all the way back to Playdoh Network games then you get like Battle Zone as like a real-time 3D game but I like all these like weird early 3D games when they're kind of figuring stuff out and they're cool one of them is called"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g042",
+      "canonical_title": "Castles of Darkness",
+      "spoken_forms": [
+        "castles of Darkness"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Apple II",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Qualified animated-adventure first; dark fantasy not horror",
+          "evidence": [
+            {
+              "location": "01:11:58",
+              "quote": "really really amazing stuff here are you joking you joshing me no I love no you know I love all this stuff so this is a problem talk about castles of Darkness uh castles of Darkness uh it's one of these games with like the the creepy winding path up to a creepy Castle basically the same as the count um you would probably consider this a dark Fantasy game that has nothing to do"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g043",
+      "canonical_title": "King's Quest",
+      "spoken_forms": [
+        "King's Quest"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Animated adventure comparison",
+          "evidence": [
+            {
+              "location": "01:11:58",
+              "quote": "with horror and you would be correct but the game called castles of Darkness I don't care and it's on this list because I believe it's the first 3D animated Adventure game which is something that always gets attributed to King's Quest because Kings Quest really pioneered it and had much better animation I believe this is the first animated Adventure game which man I know we're loading up on the qualifiers here uh but I want people to care about castle"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g044",
+      "canonical_title": "The Caverns of Freitag",
+      "spoken_forms": [
+        "caverns of free tag"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Apple II",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Dealer scarcity/price example",
+          "evidence": [
+            {
+              "location": "01:14:03",
+              "quote": "weird Apple stuff like no one cares about but he has them all so specifically priced cuz it's clearly like an old guy collector selling his collection and he knows the relative value of everything so you know like uh the caverns of free tag that's $700 apparently caverns of free tag fairy tag that's a that's a real classic as opposed to Voyage of the valkyrie that's only $179 who the [ __ ] cares about Voyage of the valkyrie probably both games will just never"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g045",
+      "canonical_title": "Voyage of the Valkyrie",
+      "spoken_forms": [
+        "Voyage of the valkyrie"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Apple II",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Dealer price example",
+          "evidence": [
+            {
+              "location": "01:14:03",
+              "quote": "collector selling his collection and he knows the relative value of everything so you know like uh the caverns of free tag that's $700 apparently caverns of free tag fairy tag that's a that's a real classic as opposed to Voyage of the valkyrie that's only $179 who the [ __ ] cares about Voyage of the valkyrie probably both games will just never find one day one day Tyler I want to be a cool Computer Guy Johnny uh you can do it Tyler there's still time you have"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g046",
+      "canonical_title": "Poltergeist",
+      "spoken_forms": [
+        "Poltergeist"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "TRS-80",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Licensed horror movie first candidate; dates unresolved vsAlien",
+          "evidence": [
+            {
+              "location": "01:15:06",
+              "quote": "first licensed horor Movie game Tyler Poltergeist 1982 for the TRS 80 and it's uh kind of a miname compilation you it it is in color that that's something right wow it's in color yeah I there there's one where you're like where you go from like house to house I don't know"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g047",
+      "canonical_title": "Poltergeist",
+      "spoken_forms": [
+        "Vic 20"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "VIC-20",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Listing discovered, matching screenshots not definitive proof of same game",
+          "evidence": [
+            {
+              "location": "01:17:15",
+              "quote": "description says very rare and I am famously swayed by uh descriptions of random eBay [ __ ] me too but you know what I feel like we've mentioned this game multiple times in the show we have never mentioned uh a Vic 20 version and actually it's not on m games either so what's going on I'm feeling like this actually is genuinely rare what we're looking at it's only $30 bying nowy yeah that that's interesting all right well I'm not buying"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g048",
+      "canonical_title": "Frogger",
+      "spoken_forms": [
+        "Frogger"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Poltergeist minigame comparison",
+          "evidence": [
+            {
+              "location": "01:15:06",
+              "quote": "house in like the overc screen it doesn't really make any sense they this should be a singular haunted house game yep and we've also one of the mini games is like your footsteps like trying to get up a staircase almost like Frogger yep and uh there's like ghosts and stuff that pop out and the stairs are moving there's like holes and stuff it's it's interesting it's not a freaking Adventure game like the other games on this list so far so that's something"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g049",
+      "canonical_title": "Alien",
+      "spoken_forms": [
+        "alien"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Atari 2600",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Competing1982 licensed-first claim; Pac-Man-like gameplay",
+          "evidence": [
+            {
+              "location": "01:18:22",
+              "quote": "misremembering Johnny move us on I'm going to post this game in the Discord and hopefully someone will buy it okay so the next game on our list Tyler tell me if you know about this game um it has to do with the Nostromo it's alien for the Atari 2600 came out also in 1982 also maybe the first licensed horror movie game because we don't have exact dates on these two so these are our first um I think I saw an ad when we were trying to decide last time"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g050",
+      "canonical_title": "Frankenstein's Monster",
+      "spoken_forms": [
+        "Frankenstein's monster"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Atari 2600",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Tyler lost auction; seller recognized",
+          "evidence": [
+            {
+              "location": "01:20:35",
+              "quote": "Johnny I did all right um a sealed one also just sold for $400 from Josh byley who's getting rid of his like that was like an 8.0 sealed one it's like a pretty nice alien uh and then he's also we found out the seller of the Frankenstein's monster that I lost on Heritage auctions which that sld for like $1,500 but uh thanks Josh Josh had the nicest copy of Frankenstein's monster that uh anyone had ever seen and uh you know he's just like I need to get rid of this"
+            }
+          ],
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g051",
+      "canonical_title": "Grave Robbers",
+      "spoken_forms": [
+        "grave robbers"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Commodore 64",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Extra qualified first graphic adventure on C64 claim",
+          "evidence": [
+            {
+              "location": "01:21:41",
+              "quote": "graphic adventure ever available on the Commodore 64 wow that is some qualifiers what do you I have no idea what you're even talking about I know it's grave robbers is this even on our list where are you getting this from it's not I'm just looking at it I'm just telling you that's a lot of qualifiers though on the Comm 64 who cares that's like saying oh what's the first horror game"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g052",
+      "canonical_title": "Haunted House",
+      "spoken_forms": [
+        "haunted house"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Atari 2600",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Mass-market horror history, rejects survival-horror classification",
+          "evidence": [
+            {
+              "location": "01:22:45",
+              "quote": "ones in there I think like 3d monster maze that's a pretty good one but in terms of mass Market horam how many people know what Poltergeist is on the trs8 people do not remember Poltergeist on the trs8 people do remember haunted house on the Atari 2600 it's part of the series of go into the haunted house get the treasure and escape games I think there's only one treasure I think you're getting the Holy Grail on the top floor and then just getting out"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g053",
+      "canonical_title": "Haunted House",
+      "spoken_forms": [
+        "switch remake"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Wii/Switch remakes collectively mentioned",
+          "evidence": [
+            {
+              "location": "01:23:50",
+              "quote": "important line and it connects with Millennials because you play as meatwad once you play haunted house if you don't get that reference you'll understand very quickly yeah and they've remade it like three times there's a switch remake there's a Wii remake come on uh yeah there was a Haunted House 2"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g054",
+      "canonical_title": "Haunted House 2",
+      "spoken_forms": [
+        "Haunted House 2"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Uncertain unreleased sequel/prototype recollection",
+          "evidence": [
+            {
+              "location": "01:23:50",
+              "quote": "as meatwad once you play haunted house if you don't get that reference you'll understand very quickly yeah and they've remade it like three times there's a switch remake there's a Wii remake come on uh yeah there was a Haunted House 2"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g055",
+      "canonical_title": "Phantom Slayer",
+      "spoken_forms": [
+        "Phantom Slayer"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Early grid-based horror shooter, TRS-80/Dragon32",
+          "evidence": [
+            {
+              "location": "01:25:54",
+              "quote": "should like so far like this is the most obtainable thing we've talked about and the most relatable yep definitely um Johnny going back into unobtainable and unrelatable games I do want to give a special shout out to 1982's Phantom Slayer which is part of the Obscure history of firstperson shooter games maybe kind of you do you run around a grid it's not in real time it's one of those grid-based games um and you shoot creepy guys in robes so basically you"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g056",
+      "canonical_title": "Terror House",
+      "spoken_forms": [
+        "Terror house"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "LCD handheld",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "LCD horror and werewolf-first candidate; category boundary debated",
+          "evidence": [
+            {
+              "location": "01:27:57",
+              "quote": "you're saying don't don't make everything this mystery where I have to guess what you're going to talk about I I just going to tell you about it's not I don't make everything a mystery you settle down okay I'm talking about Terror house it's an LCD game and basically I'm just putting this on here because there's this whole swath of people and even if it's not exactly a video game I think they are consumed much in the same way video games are and it's meant"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g057",
+      "canonical_title": "Frankenstein",
+      "spoken_forms": [
+        "Frankenstein"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "LCD handheld",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Unspecified handheld among era's monster games",
+          "evidence": [
+            {
+              "location": "01:27:57",
+              "quote": "love to get into technical definitions might not includ include this in their video game collection um ter house 1982 it's the first LCD game uh that you might consider horror there's a a bunch of these from 1982 there's a Frankenstein some some Dracula ones a vampire game there's and there's"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g058",
+      "canonical_title": "Dracula / vampire game",
+      "spoken_forms": [
+        "Dracula"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "LCD handheld",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Unspecified handheld references, no individual release inferred",
+          "evidence": [
+            {
+              "location": "01:27:57",
+              "quote": "definitions might not includ include this in their video game collection um ter house 1982 it's the first LCD game uh that you might consider horror there's a a bunch of these from 1982 there's a Frankenstein some some Dracula ones a vampire game there's and there's"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g059",
+      "canonical_title": "Curse of the Werewolf",
+      "spoken_forms": [
+        "Curse of the werewolf"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "1983 text adventure; LCD predecessor modifies first claim",
+          "evidence": [
+            {
+              "location": "01:30:03",
+              "quote": "for our next game which is Curse of the werewolf trying to find the first iteration of a werewolf game and I rested on this before we even added the LCD stuff on this curse of the werewolf 1983 for the Commodore 64 and Vic 20 uh as the first werewolf game and then I'm"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g060",
+      "canonical_title": "Altered Beast",
+      "spoken_forms": [
+        "Altered Beast"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Rejected assumed werewolf-first",
+          "evidence": [
+            {
+              "location": "01:30:03",
+              "quote": "definitively a werewolf in a game that we can identify that was sold at retail terh house LCD game first werewolf game there you go that's why it's important to me it's so important everyone was wondering they're like is it Altered Beast no it's not no and then there is as I was mentioning before curse of the werewolf which came out in 1983 so we finally get"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g061",
+      "canonical_title": "Halloween",
+      "spoken_forms": [
+        "Halloween"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Atari 2600",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Johnny owns; signed/graded authentication debate",
+          "evidence": [
+            {
+              "location": "01:33:15",
+              "quote": "games are getting more complicated and finally we can talk about Halloween and the Texas Chainsaw Massacre games no one has ever talked about ever especially around Halloween especially never us uh do you have both of these or just one of them Johnny I'm curious I have both of these you're so cool"
+            }
+          ],
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g062",
+      "canonical_title": "The Texas Chain Saw Massacre",
+      "spoken_forms": [
+        "Texas Chainsaw Massacre"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Atari 2600",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Johnny owns cartridge, lacks box; scarce authentic copies",
+          "evidence": [
+            {
+              "location": "01:33:15",
+              "quote": "games are getting more complicated and finally we can talk about Halloween and the Texas Chainsaw Massacre games no one has ever talked about ever especially around Halloween especially never us uh do you have both of these or just one of them Johnny I'm curious I have both of these you're so cool man these games are so cool"
+            }
+          ],
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g063",
+      "canonical_title": "Shark Jaws",
+      "spoken_forms": [
+        "shark jaws"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Arcade",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Unlicensed earlier movie-inspired game excluded from horror-first",
+          "evidence": [
+            {
+              "location": "01:34:15",
+              "quote": "the first games based on slasher movies uh polter guys we feel like predates this this uh so you may say that's the first horror game or first game based off of a horror movie uh Tyler says he's definitely not counting shark jaws so shut up Johnny um yes I think shark Jaws came out in the mid to late 70s obviously ripping off Jaws but so shark jaws may be based on what you could call a horror movie but it's it's not a horror game at all yeah and"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g064",
+      "canonical_title": "The Evil Dead",
+      "spoken_forms": [
+        "Evil Dead"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Chronology comparison",
+          "evidence": [
+            {
+              "location": "01:34:15",
+              "quote": "based on what you could call a horror movie but it's it's not a horror game at all yeah and this are this are direct one to one like the there's a horror movie here's the game from it um there it predates alien and the Evil Dead uh you said it predates alien but we have alien listed 1982 so how does that work I don't know man what I don't know what I was thinking of yeah it doesn't um yeah this is not the first licensed horror movie game I just"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g065",
+      "canonical_title": "Sweet Home",
+      "spoken_forms": [
+        "sweet home"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Famicom",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Genuine survival-horror precursor; limited healing and permadeath",
+          "evidence": [
+            {
+              "location": "01:42:48",
+              "quote": "recurring recurring game on the collector's Quest podcast uh it is one of the famicom games like one of the 10 famicom games that people go and commonly seek out that aren't just the Japanese version of an American game sweet home from 1989 also based on a movie uh pretty much the foundation of what we know is survival horror uh this is the game that sort of came before Resident Evil and everything about it oozes the same themes and style of Resident"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g066",
+      "canonical_title": "Project Firestart",
+      "spoken_forms": [
+        "project fireart"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Commodore 64",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Survival-horror precursor; weak gun justified by spaceship setting",
+          "evidence": [
+            {
+              "location": "01:44:56",
+              "quote": "at the box and you're like oh it's an alien ripoff because they had to rip off alien because everyone was ripping off alien all the time even on this list is the ship named an asomo guess what the [ __ ] ship is named in Project fireart it's named Prometheus that's before they even made the movie how crazy is that uh my favorite it's literally alien you're solving puzzles around the ship you're running away from slow enemies and it's got like the Michael"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g067",
+      "canonical_title": "Friday the 13th",
+      "spoken_forms": [
+        "Friday the 13th"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Tyler argues genuine survival horror and underrated design",
+          "evidence": [
+            {
+              "location": "01:48:08",
+              "quote": "sweet home or project fire start um so go make a blog post about project fire start please always do I mean Johnny 1989 the third game I want to talk about the game that doesn't get its due in the survival horror Cannon Friday the 13th on NES it's a choice why tell me why uh Johnny it's another game where you have an Unstoppable bad guy that relentlessly chases you weapons that suck perade death of multiple characters inventory m management cuz you don't"
+            }
+          ],
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g068",
+      "canonical_title": "Alone in the Dark",
+      "spoken_forms": [
+        "alone in the dark"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Computer",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "3D survival horror and tiny-book insert",
+          "evidence": [
+            {
+              "location": "01:51:13",
+              "quote": "1992 we're we're cruising through the years now uh this is just yeah we're just basically this is all survival horror now we already had a whole episode on Survival horror so we don't really need to go into these um yeah alone in the dark another one where people point to as like this is the real origin of survival horror really next up project fire start I don't think that you could say that alone in the dark is the real origin they share too many similarities"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g069",
+      "canonical_title": "Resident Evil / Biohazard",
+      "spoken_forms": [
+        "biohazard"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "PlayStation",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Longbox recommendation vs cheaper Japanese equivalent",
+          "evidence": [
+            {
+              "location": "01:52:14",
+              "quote": "knows what Resident Evil is go buy the long box what is it $100 $200 it's worth it it's Resident Evil whatever you have to own a Resident Evil you can get it for like a 100 bucks just got to be careful go get it or go get biohazard I bet biohazard is literally worth nothing in Japan and that's the real version you could probably get it for 20 bucks go get that one if you don't want to spend $100 bucks yeah alone in the dark just remade too um came"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g070",
+      "canonical_title": "Alone in the Dark: The New Nightmare",
+      "spoken_forms": [
+        "New Nightmare"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Explicitly distinguished from2008 release after confusion",
+          "evidence": [
+            {
+              "location": "01:53:19",
+              "quote": "like it just came out right the new one yep it's such a weird franchise to reboot after doing nothing for so many years like they've rebooted it multiple times just called alone in the dark I didn't even real okay so wait New Nightmare is a different game than the 2008 alone in the dark I did not realize that all right whatever"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g071",
+      "canonical_title": "Alone in the Dark (2008)",
+      "spoken_forms": [
+        "2008"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Franchise chronology repair",
+          "evidence": [
+            {
+              "location": "01:54:24",
+              "quote": "Saturn as as one Jack's revenge or whatever that's called alone in the dark 3 in 1995 alone in the dark the new nightmare which is alone in the dark four in 2001 and then the Xbox 361 that was also ported to everything in 2008 yeah and then they made a third person shooter in 2015 what what is this what stop just let this rest it it it's part of History we don't need to reboot it they're just uh capitalizing on that franchise money that's got"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g072",
+      "canonical_title": "Alone in the Dark 2 / Jack's Revenge",
+      "spoken_forms": [
+        "Jack's revenge"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Saturn",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Phone-card first claim explicitly a joke",
+          "evidence": [
+            {
+              "location": "01:54:24",
+              "quote": "alone in the dark there's alone in the dark alone in the dark 2 that was the one that was ported to Saturn as as one Jack's revenge or whatever that's called alone in the dark 3 in 1995 alone in the dark the new nightmare which is alone in the dark four in 2001 and then the Xbox 361 that was also ported to everything in 2008 yeah and then they made a"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g073",
+      "canonical_title": "Alone in the Dark 3",
+      "spoken_forms": [
+        "alone in the dark 3"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Franchise chronology",
+          "evidence": [
+            {
+              "location": "01:54:24",
+              "quote": "alone in the dark there's alone in the dark alone in the dark 2 that was the one that was ported to Saturn as as one Jack's revenge or whatever that's called alone in the dark 3 in 1995 alone in the dark the new nightmare which is alone in the dark four in 2001 and then the Xbox 361 that was also ported to everything in 2008 yeah and then they made a third person shooter in 2015 what what is this"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g074",
+      "canonical_title": "EverQuest",
+      "spoken_forms": [
+        "EverQuest"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Holiday-event first candidate; release date stated1996 needs review",
+          "evidence": [
+            {
+              "location": "01:55:29",
+              "quote": "know what you're talking about at this point just this this isn't really for collectible this is just some fun stuff that now happens around Halloween that I'm throwing in at the end um EverQuest you you've heard of this game no never heard of EverQuest is that like some kind of pred like a successor to never winter nights on AOL yeah that's it you you nail it um so if you never heard of EverQuest and you never played"
+            }
+          ],
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g075",
+      "canonical_title": "Neverwinter Nights",
+      "spoken_forms": [
+        "never winter nights"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "AOL",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Predecessor aside",
+          "evidence": [
+            {
+              "location": "01:55:29",
+              "quote": "collectible this is just some fun stuff that now happens around Halloween that I'm throwing in at the end um EverQuest you you've heard of this game no never heard of EverQuest is that like some kind of pred like a successor to never winter nights on AOL yeah that's it you you nail it um so if you never heard of EverQuest and you never played it well guess what uh it's an MMO so go get this these MMO RPGs you can you can play them with your friends online and you"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g076",
+      "canonical_title": "World of Warcraft",
+      "spoken_forms": [
+        "World of Warcraft"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Trick-or-treat mechanics, historical claim",
+          "evidence": [
+            {
+              "location": "01:56:36",
+              "quote": "2001 is the first time where we really got an in-game Halloween event um they put in some pumpkin headed monsters that was special drops from them you could get get like a wearable pumpkin head sometimes they drop candy um World of Warcraft that expanded upon this and their Halloween events and you actually had a trick-or treat mechanic that came into the game you could go to the ends and you could click on there was like a little candy tub or or cauldron or"
+            }
+          ],
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g077",
+      "canonical_title": "Harvest Moon: Back to Nature",
+      "spoken_forms": [
+        "Back to Nature"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Pumpkin Festival example distinct from literalHalloween",
+          "evidence": [
+            {
+              "location": "01:57:41",
+              "quote": "representation of something that exists in a much bigger uh much more change State than what was originally in the box and then uh just back into Halloween events um Harvest Moon also had some Halloween events in it kind of in Back to Nature in 1999 and then also the Remake in 2003 for the Game Boy advanced friends of Mineral Town it's not specifically called uh Halloween it's called The Pumpkin Festival um you can visit houses there are treats there are kids"
+            }
+          ],
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g078",
+      "canonical_title": "Harvest Moon: Friends of Mineral Town",
+      "spoken_forms": [
+        "friends of Mineral Town"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "GBA",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Pumpkin Festival example",
+          "evidence": [
+            {
+              "location": "01:57:41",
+              "quote": "what was originally in the box and then uh just back into Halloween events um Harvest Moon also had some Halloween events in it kind of in Back to Nature in 1999 and then also the Remake in 2003 for the Game Boy advanced friends of Mineral Town it's not specifically called uh Halloween it's called The Pumpkin Festival um you can visit houses there are treats there are kids in costumes there's not it's not called trick-or-treating specifically it's not called Halloween"
+            }
+          ],
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g079",
+      "canonical_title": "City of Heroes",
+      "spoken_forms": [
+        "city of Heroes"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "MMO seasonal events",
+          "evidence": [
+            {
+              "location": "01:58:45",
+              "quote": "we kind of take it like we take for granted wasn't always a thing that these events now and uh you know getting into the season that there was Halloween events MMOs really did this city of Heroes did like every MMO I've ever played really had some Halloween or Christmas event attached to it I want to know I mean I don't want to know because I don't really care but I would not be surprised if there was a mud that"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g080",
+      "canonical_title": "Grave Yardage",
+      "spoken_forms": [
+        "grave yardage"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "DOS",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Bonus monster-football game",
+          "evidence": [
+            {
+              "location": "02:00:54",
+              "quote": "let's he what you bought and what you played Bo I should tell you I I want you know here's a bonus for you guys there is a sports game that is horror themed and I I don't know if I've ever talked about it and uh it's called grave yardage I don't know if you guys have heard of this game I believe it came out it's Activision 1989 um it's a PC game but basically it's a zombies playing football so go find grave yardage got a cool box looks like a tombstone on"
+            }
+          ],
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g081",
+      "canonical_title": "Blood Bowl",
+      "spoken_forms": [
+        "bloodbowl"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Monster football comparison and tabletop discussion",
+          "evidence": [
+            {
+              "location": "02:01:54",
+              "quote": "about such silly things Grave yardage is a great game and I use great very Loosely that you could go pick up I'm pretty sure Games Workshop is going to sue uh because of graveyard ages obviously obvious similarities to bloodbowl um and I'm just realizing why are there so many horror football things so blood bll is the big one there are multiple blood bll games and then like pig skin foot brawl I think is is does that one does one just says violence"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g082",
+      "canonical_title": "Pigskin 621 A.D.",
+      "spoken_forms": [
+        "pig skin foot brawl"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Monster/violent sports comparison; intended title needs confirmation",
+          "evidence": [
+            {
+              "location": "02:01:54",
+              "quote": "uh because of graveyard ages obviously obvious similarities to bloodbowl um and I'm just realizing why are there so many horror football things so blood bll is the big one there are multiple blood bll games and then like pig skin foot brawl I think is is does that one does one just says violence but then mutant League football has weird monsters who's playing these games I think maybe just football was important is uh is not important is popular I were were"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g083",
+      "canonical_title": "Mutant League Football",
+      "spoken_forms": [
+        "mutant League football"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Monster sports example",
+          "evidence": [
+            {
+              "location": "02:01:54",
+              "quote": "just realizing why are there so many horror football things so blood bll is the big one there are multiple blood bll games and then like pig skin foot brawl I think is is does that one does one just says violence but then mutant League football has weird monsters who's playing these games I think maybe just football was important is uh is not important is popular I were were you ever into tabletop War gaming I sure was not so in my local scene I I don't know maybe"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g084",
+      "canonical_title": "Warhammer Fantasy Battle",
+      "spoken_forms": [
+        "Warhammer fantasy"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Tabletop",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Tyler's small local wargaming scene",
+          "evidence": [
+            {
+              "location": "02:03:02",
+              "quote": "local scene in the small to mediumsized towns I've lived in for Warhammer has been like like at most if you're in a game shop like four guys and we're talking tops and usually it was just me and my friends cuz I played Warhammer fantasy which was less popular than Warhammer 40 K and as far as I know Warhammer fantasy like doesn't even exist anymore maybe uh and then man you get to blood bll sometimes the freaking blood bull guys were out there which is"
+            }
+          ],
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g085",
+      "canonical_title": "Warhammer 40,000",
+      "spoken_forms": [
+        "Warhammer 40 K"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Tabletop",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Popularity comparison",
+          "evidence": [
+            {
+              "location": "02:03:02",
+              "quote": "I've lived in for Warhammer has been like like at most if you're in a game shop like four guys and we're talking tops and usually it was just me and my friends cuz I played Warhammer fantasy which was less popular than Warhammer 40 K and as far as I know Warhammer fantasy like doesn't even exist anymore maybe uh and then man you get to blood bll sometimes the freaking blood bull guys were out there which is like Warhammer is known for being very expensive"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g086",
+      "canonical_title": "Warhammer Age of Sigmar",
+      "spoken_forms": [
+        "Warhammer age of Sigmar"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Tabletop",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Historical franchise status discussion, not current rules",
+          "evidence": [
+            {
+              "location": "02:04:06",
+              "quote": "ended like the current set of rules like a few years ago at some point I'm like oh okay great like all my old figures are just going to be completely worthless now which is fine I don't care but um oh yeah now it's called Warhammer age of Sigmar which is a terrible name all right whatever go play Blood bow you want to get you want to get into blood bow maybe we get like a vintage starter set for like $800 on eBay or something maybe hey can we just instead play it"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g087",
+      "canonical_title": "Blood Bowl 2",
+      "spoken_forms": [
+        "bloodb 2"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "PS4",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Digital alternative to painting figures",
+          "evidence": [
+            {
+              "location": "02:05:08",
+              "quote": "PS4 version of bloodb 2 and if you're not into that how about the PSP version from 2010 there are more blood bll games than I would have thought there really are there also is a ROM game from 1995 what is happening yeah blood I don't it's all for"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g088",
+      "canonical_title": "Blood Bowl",
+      "spoken_forms": [
+        "PSP"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "PSP",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "2010 portable reference",
+          "evidence": [
+            {
+              "location": "02:05:08",
+              "quote": "PS4 version of bloodb 2 and if you're not into that how about the PSP version from 2010 there are more blood bll games than I would have thought there really are there also is a ROM game from 1995 what is happening yeah blood I don't it's all for those two weird blood bull guys at the game"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g089",
+      "canonical_title": "Blood Bowl",
+      "spoken_forms": [
+        "1995"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Computer",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Older release reference",
+          "evidence": [
+            {
+              "location": "02:05:08",
+              "quote": "PS4 version of bloodb 2 and if you're not into that how about the PSP version from 2010 there are more blood bll games than I would have thought there really are there also is a ROM game from 1995 what is happening yeah blood I don't it's all for those two weird blood bull guys at the game store I swear to God they I have no idea who was into this like you would have to be so specifically into because like you cannot"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g090",
+      "canonical_title": "Super Mario Bros.",
+      "spoken_forms": [
+        "Super Mario Brothers"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Tyler browsing variants",
+          "evidence": [
+            {
+              "location": "02:08:20",
+              "quote": "so I always click it it's like oh it was already sold by it now uh that's been my experience a lot lately and then when buying stuff I guess like there's some things that I I drill down into um like I look a lot for like Super Mario Brothers variants uh I'll just spend like you know 30 minutes digging through every copy of Super Mario Brothers on eBay um other than that I'm not doing I'm not doing any crazy sets like I I have largely just I've been cruising"
+            }
+          ],
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g091",
+      "canonical_title": "Ultima Underworld: The Stygian Abyss",
+      "spoken_forms": [
+        "Ultima underworld"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Tyler box upgrade with mismatched contents",
+          "evidence": [
+            {
+              "location": "02:12:36",
+              "quote": "for $4 or don't just keep listening to how you are and that's all I got Tyler what else about you got anything else you want to talk about what you bought what you played uh Johnny it's not that interesting I upgraded my Ultima underworld box that's the only thing I bought uh some guy with one feedback had a really nice Ultima underworld box with incorrect components I don't even think it had the game discs and then it also had a bunch of extra Ultima Underworld"
+            }
+          ],
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g092",
+      "canonical_title": "Ultima Underworld II",
+      "spoken_forms": [
+        "Ultima Underworld 2"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Extra components in box upgrade lot",
+          "evidence": [
+            {
+              "location": "02:12:36",
+              "quote": "underworld box that's the only thing I bought uh some guy with one feedback had a really nice Ultima underworld box with incorrect components I don't even think it had the game discs and then it also had a bunch of extra Ultima Underworld 2 stuff it was like a"
+            }
+          ],
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g093",
+      "canonical_title": "Clannad",
+      "spoken_forms": [
+        "Clan ad"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Tyler playing visual novel",
+          "evidence": [
+            {
+              "location": "02:13:40",
+              "quote": "game it is super cool and important we love Ultima underworld we sure do all right um did you play anything uh like visual novels like what am I going to do explain explain the the day-to-day High School Slice of Life of Clan ad uh it's fine whatever I don't think I played any real games I played a little bit of the coin game I don't know if you've ever heard of the coin game I have not uh it is an indie I'll call it Survival game uh where you you"
+            }
+          ],
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g094",
+      "canonical_title": "The Coin Game",
+      "spoken_forms": [
+        "coin game"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Tyler playing carnival/ticket-game survival simulator",
+          "evidence": [
+            {
+              "location": "02:13:40",
+              "quote": "anything uh like visual novels like what am I going to do explain explain the the day-to-day High School Slice of Life of Clan ad uh it's fine whatever I don't think I played any real games I played a little bit of the coin game I don't know if you've ever heard of the coin game I have not uh it is an indie I'll call it Survival game uh where you you live on like a small island and there's multiple like carnivals and arcades around town it has a"
+            }
+          ],
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g095",
+      "canonical_title": null,
+      "spoken_forms": [
+        "card shop"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Unnamed card-shop simulator seen by others; not Johnny playing",
+          "evidence": [
+            {
+              "location": "02:14:42",
+              "quote": "run around and play all those so fun game okay I don't know if you're if you're you had to be there in the '90s playing arcade ticket games maybe you you there's a a new a new uh like a new sim game where uh you uh run a card shop if you're interested uh oh were you seeing that on the uh what are you playing that I'm not playing that I just I saw some people playing it some people told me about it I mean I have a friend who owns a card shop so there's"
+            }
+          ],
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g096",
+      "canonical_title": "Magic Online",
+      "spoken_forms": [
+        "magic online"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Johnny playing",
+          "evidence": [
+            {
+              "location": "02:16:44",
+              "quote": "and a mean Trope but that's that's what people expect yeah um what are you playing Johnny oh is that what you're playing that's what you're playing no I I'm not that's what I saw other people playing I I played a little magic online uh barely counts as a video game um totally counts as a video game played a little of the new season of Diablo but not much so that's that's kind of it Tyler that that was kind of uh the end that's the show for"
+            }
+          ],
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g097",
+      "canonical_title": "Diablo",
+      "spoken_forms": [
+        "Diablo"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Johnny new-season play; installment not explicit",
+          "evidence": [
+            {
+              "location": "02:16:44",
+              "quote": "playing that's what you're playing no I I'm not that's what I saw other people playing I I played a little magic online uh barely counts as a video game um totally counts as a video game played a little of the new season of Diablo but not much so that's that's kind of it Tyler that that was kind of uh the end that's the show for"
+            }
+          ],
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g098",
+      "canonical_title": "Ravenloft: Stone Prophet",
+      "spoken_forms": [
+        "Stone profit"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "PC",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Johnny upgraded to proper big box, not yet played",
+          "evidence": [
+            {
+              "location": "02:17:46",
+              "quote": "things oh what'd you buy oh I could tell you about it um I bought a raven Loft game you ever heard of Raven Loft I have it's the one with the spooky vampire count on the box strad yeah um but there there's a sequel called Stone profit I I have the other one and I have a version of stone profit but I got the proper box version Big Box version of stone profit that's a SSI PC game W advanced Dungeons and Dragons Stone profit so I haven't played it but it"
+            }
+          ],
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq259-g099",
+      "canonical_title": "Pyramid of Doom",
+      "spoken_forms": [
+        "Pyramid of Doom"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Spontaneous tentative first-mummy candidate, explicitly unresearched",
+          "evidence": [
+            {
+              "location": "02:18:48",
+              "quote": "metrics why it doesn't rate but it just like I it's just a personal feeling I'm just like I I don't know do mummies count like they're like Undead monsters you know they're basically zombie Kings they should probably count Pyramid of Doom 1979 Scott Adams text Adventure it's got I have no idea what this game is but it's called Pyramid of Doom and it has a mummy coming through a doorway on the cover we're going to count it that's a Halloween game right there"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    }
+  ],
+  "lore": [
+    {
+      "id": "cq259-l001",
+      "kind": "anecdote",
+      "summary": "Archive outage disrupts manuals, emulated play and Johnny's saved research leads.",
+      "topics": [
+        "research workflow",
+        "preservation"
+      ],
+      "evidence": [
+        {
+          "location": "00:01:03",
+          "quote": "and it is has been hurting me that it's been down for like over a week now I think so you realize that like for a lot of these old games when I search them and like I'll get them and how I save them for later is just like saving a link next to the name of the game when I don't have time to do the full research and I know I'm going to come back to it do you know how many of those links aren't working right now uh yeah wow that's uh that's a problem I mean there websites"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l002",
+      "kind": "joke",
+      "summary": "Hosts explicitly disavow preceding state-actor conspiracy banter.",
+      "topics": [
+        "internet archive"
+      ],
+      "evidence": [
+        {
+          "location": "00:04:15",
+          "quote": "archiving anything is just like hey if you want to save a page I've got this weird website to do it and then you know in in 15 years it'll be gone and you'll be like oh man all my stuff yeah uh just so we're quer we're not really into any conspiracy theories but uh please please leave the internet archive alone like just stop it uh yeah yeah all right that that that's uh that's my outreach program for the day okay I think you guys if you are serious about like weird data hoarding"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l003",
+      "kind": "open_loop",
+      "summary": "Tyler learning electronics to build independent GPS cycling game; stated intention, no completion.",
+      "topics": [
+        "personal projects",
+        "cycling"
+      ],
+      "evidence": [
+        {
+          "location": "00:06:19",
+          "quote": "electronic stuff I uh like Arduino and and esp32 like little microcontroller stuff because uh phones are evil they're the most device we own and I want to have a little game on my bike when I'm riding my bike but I don't want to have it on my phone cuz phones are evil and I don't want to develop"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l004",
+      "kind": "show_discussion",
+      "summary": "First claims are provisional, qualified categories, and open to corrections.",
+      "topics": [
+        "horror history",
+        "scope"
+      ],
+      "evidence": [
+        {
+          "location": "00:07:24",
+          "quote": "what are we going to we're going to talk about only trs8 games today yep yeah so this episode is historic Halloween first so looking back and just trying to find all old stuff yeah there's going to be there's going to be room for debate in some of these whether they're first I think some people may offer Corrections or exceptions or uh um actes I'm sure we'll get some of those uh but we did our best to compile a list of games uh cited on certain axes of"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l005",
+      "kind": "show_discussion",
+      "summary": "PLATO precedents largely excluded for physical-collecting relevance, not disproven.",
+      "topics": [
+        "physical collecting",
+        "scope"
+      ],
+      "evidence": [
+        {
+          "location": "00:08:25",
+          "quote": "these are relevant enough for you if you should be maybe looking to to your collection so that's the episode sure and we basically focused on platforms that have physical video games cuz I didn't want to go and and find some old 1974 Playdoh Network game that had like a ghost in it cuz that's not useful information for anybody there there's a lot hey guess what uh Playdoh D and D solves a lot of this"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l006",
+      "kind": "reported_factual_claim",
+      "summary": "Hosts position Odyssey Haunted House as horror-theme first, including printed overlays.",
+      "topics": [
+        "horror firsts",
+        "Odyssey"
+      ],
+      "evidence": [
+        {
+          "location": "00:09:30",
+          "quote": "rules for a bunch of different games you could play while moving squares around a TV and like it comes with all these cards and chips and dice like this was a toy extrav Anza as much as it was about just being pong uh and haunted house pretty universally agreed upon as the first video game with a horror theme uh in the same way that the Simon Says game is the first video game with a female protagonist because it shows a boy and a girl on the overlay so"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l007",
+      "kind": "host_opinion",
+      "summary": "Hosts reject Hunt the Wumpus survival-horror classification.",
+      "topics": [
+        "horror taxonomy"
+      ],
+      "evidence": [
+        {
+          "location": "00:14:51",
+          "quote": "podcast who so like I I think people like signing it as survival horror where where are these weirdo pseudo academics are like well I can see how we could tie this together no no stop it no you can't so hunt the wumpus is not a survival horror game I called"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l008",
+      "kind": "host_opinion",
+      "summary": "Tension alone insufficient for Space Invaders horror classification; science fiction preferred.",
+      "topics": [
+        "horror taxonomy",
+        "Space Invaders"
+      ],
+      "evidence": [
+        {
+          "location": "00:25:14",
+          "quote": "as the Invaders get closer to the bottom of the screen the music starts speeding up and they start speeding up and it is almost similar to jaws and it creates the same tense atmosphere I mean there's something to it it's not a horror game I wouldn't even put horror as a sub genre on Space Invaders but there is that element of tension and it was such like a phenomenally popular game that I feel like it probably squeaks in just because of how phenomenally popular"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l009",
+      "kind": "open_loop",
+      "summary": "Tyler predicts Space Invaders film, not known production announcement.",
+      "topics": [
+        "film speculation",
+        "Space Invaders"
+      ],
+      "evidence": [
+        {
+          "location": "00:28:23",
+          "quote": "at the cabinet right now weird yeah and the spaceships are very small you're just like what what is this I never yeah all right Johnny I'm GNA make a uh an pretty uncontroversial call there will be a Space Invaders movie In Our Lifetime I think that will happen Okay I I think you know like there's this Nostalgia cycles of stuff I think we probably missed like the original cycle that Space Invaders would have a stupid Nostalgia movie I think it'll come back"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l010",
+      "kind": "reported_factual_claim",
+      "summary": "2600 first-print identification based on missing front copyright text; requires external verification.",
+      "topics": [
+        "variants",
+        "Space Invaders"
+      ],
+      "evidence": [
+        {
+          "location": "00:30:36",
+          "quote": "Pac-Man and Space Invaders at home Believe It or Not uh this is an extremely common game but if you look at the front of the there's this like little white copyright text at the bottom you want to look for the version that doesn't have that text at the bottom that's the first print that's good to know uh that's space invader is not a horror game we talked about it a lot Johnny I'm just going to say space invader is like three out of 10 there's not why would you"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l011",
+      "kind": "reported_factual_claim",
+      "summary": "House of Seven Gables first-Dracula candidate relies on chamber name, not explicitly named creature.",
+      "topics": [
+        "Dracula firsts"
+      ],
+      "evidence": [
+        {
+          "location": "00:33:46",
+          "quote": "has Dracula so as you're exploring the house of Seven Gables of the Seven Gables one of the rooms is named Dracula's chamber and you have to kill Dracula with garlic and a steak technically he's not named Dracula he is a mean looking vampire that is in Dracula's chamber I'm going to say it's Dracula um that is not a concept from The House"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l012",
+      "kind": "correction",
+      "summary": "The Count assumed first until earlier House of Seven Gables brought forward.",
+      "topics": [
+        "Dracula firsts",
+        "The Count"
+      ],
+      "evidence": [
+        {
+          "location": "00:36:59",
+          "quote": "well I because I I assumed this was going to be the first Dracula game until you brought up the House of Seven Gables so this came out the count came out in 1979 and it was made by Scott Adams it's one of the Scott Adams graphic Adventures is it his second one is it the second"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l013",
+      "kind": "disagreement",
+      "summary": "Similar Dracula imagery discussed; direct causal influence on Castlevania unproven.",
+      "topics": [
+        "box art",
+        "influence"
+      ],
+      "evidence": [
+        {
+          "location": "00:40:13",
+          "quote": "positioning of all the art is definitely looks like the Castlevania art even like the action pose which is then based off the friends that are like come on you don't see the you don't see that these are connected all right I see that they're connected but you're basically saying that the reason to buy this what's the reason to buy this cuz I'm pretty sure the first Dracula game it's the first Dracula game you can buy really because you're not going to find House of the"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l014",
+      "kind": "correction",
+      "summary": "Johnny did not buy the just-sold copy; already owns game.",
+      "topics": [
+        "The Count",
+        "ownership"
+      ],
+      "evidence": [
+        {
+          "location": "00:41:17",
+          "quote": "game we can count on get it Tyler we can count on this one existing really count on it there's one copy of one version on eBay and eBay solds and I think you bought it no no no that wasn't me oh all right it sold for $130 I already own this no there there's more so if you look at the Vic 20 version or Commodore version there's a couple of versions of those right now and there's actually one of the Atari 400 ones with the good art on it and um there's all there's"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l015",
+      "kind": "reported_factual_claim",
+      "summary": "1983-dated baggie distinguished from original1980 release; baggie authenticity inference not proof.",
+      "topics": [
+        "Mystery House",
+        "variants"
+      ],
+      "evidence": [
+        {
+          "location": "00:45:30",
+          "quote": "House June 10th 1983 on it which is cool because that definitely means that's that's the original baggie and a lot of these baggie games have the baggies replaced yep but also this game came out in 1980 which means it's not the first print yeah it's it's definitely not the first print but who cares you're getting a Mystery House come on it's cool it would be nice to own a mystery house I I keep waiting for this game to just like show up in a bad lot of like"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l016",
+      "kind": "reported_factual_claim",
+      "summary": "Crystalware adventure has wealth/courage routes and timed exploration according to discussion.",
+      "topics": [
+        "House of Usher",
+        "alternate endings"
+      ],
+      "evidence": [
+        {
+          "location": "00:48:40",
+          "quote": "about but this is really cool because you can win by getting a thousand courage which is basically experience points so the more enemies you kill the more courage you get or by getting a thousand wealth which is exploring the house and getting stuff and there's a real timer ticking down in this game"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l017",
+      "kind": "correction",
+      "summary": "1984 cartoon platformer distinguished from sought Crystalware game.",
+      "topics": [
+        "House of Usher",
+        "identification"
+      ],
+      "evidence": [
+        {
+          "location": "00:51:47",
+          "quote": "um there's a couple different versions of that there's some loose discs but you want the good one the disc with the box or so to be clear so the the Atari game House of Usher I think it came out in 1984 that's a completely different game from crystalware House of Usher which is the one you want uh House of Usher on Atari it's like a cartoony platformer it's completely different yep so the crystalware one uh there are loose discs available for it right now"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l018",
+      "kind": "host_opinion",
+      "summary": "Nostromo has horror tension, but first-survival-horror label disputed.",
+      "topics": [
+        "Nostromo",
+        "horror taxonomy"
+      ],
+      "evidence": [
+        {
+          "location": "00:55:59",
+          "quote": "kind of a jump scare but you know what that Magnavox Odyssey haunted house game is I'm gonna say the first game with a jump scare so it doesn't really have that I think this is a very interesting game but I think it is pretty debatable to call it the first anything really"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l019",
+      "kind": "anecdote",
+      "summary": "Tyler owns purported sealed copy but doubts seal authenticity.",
+      "topics": [
+        "Nostromo",
+        "ownership"
+      ],
+      "evidence": [
+        {
+          "location": "00:58:06",
+          "quote": "seek it out so uh there are people who want to buy this and you know what maybe you should buy it I should buy it we should both buy it you should buy it should we buy it let's buy it now I uh I have a sealed copy that I doubt is actually sealed because who knows how PC 601 games were sealed Johnny but uh that was my chance to brag about that and you get to you get some Nostromo cred here you're like oh you don't know about the Nostromo Oh you mean the Joseph Conrad"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l020",
+      "kind": "host_opinion",
+      "summary": "3D Monster Maze picked as obtainable and effective horror example.",
+      "topics": [
+        "3D Monster Maze",
+        "recommendation"
+      ],
+      "evidence": [
+        {
+          "location": "01:03:31",
+          "quote": "7s is like on Modern computers anyways it's cool it's a cool concept that it exists I like that they went with the sequel I wish I could buy it more easily do you know what you can buy easily Johnny no I don't it's the pick of the show uh a game I'll Rave about every time we talk about it it's 3d monster maze for the zx81 that is the computer that came out before the ZX spectrum that is black and white with no sound it's black and white and red all over"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l021",
+      "kind": "host_opinion",
+      "summary": "Tyler prefers earlier-looking brown cover over later color; chronology claim not externally checked.",
+      "topics": [
+        "3D Monster Maze",
+        "variants"
+      ],
+      "evidence": [
+        {
+          "location": "01:07:45",
+          "quote": "impossible to find if you set up a save search there are multiple variants of it um there's the kind of the main ones you'll see there's a brown cover and a color cover obviously the brown one came before the color cover I would get the brown cover it looks older that makes it cooler yeah I mean it's also the exact wrong time to be buying a game like this this is when people would be looking for it so um thankfully this is coming out like when Halloween's already got"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l022",
+      "kind": "open_loop",
+      "summary": "Tyler watching listing and might buy at150, not confirmed purchase.",
+      "topics": [
+        "Deathmaze 5000",
+        "watchlist"
+      ],
+      "evidence": [
+        {
+          "location": "01:10:54",
+          "quote": "$629 I think oh yeah and you'll have that game that everyone's talking about people will walk into your game room and be like is that death maze 5000 hot damn you should yeah you should do that I think I watched it on eBay if he lowers it to like 150 I'll buy it Johnny okay I I hope you do I hope he does moving on anyways from The Pick of our sh's yep 1981 Johnny we've got castles of darkness and I we talking about"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l023",
+      "kind": "reported_factual_claim",
+      "summary": "Provisional animated-adventure first claim compared toKing's Quest, with qualifiers acknowledged.",
+      "topics": [
+        "Castles of Darkness",
+        "firsts"
+      ],
+      "evidence": [
+        {
+          "location": "01:11:58",
+          "quote": "list because I believe it's the first 3D animated Adventure game which is something that always gets attributed to King's Quest because Kings Quest really pioneered it and had much better animation I believe this is the first animated Adventure game which man I know we're loading up on the qualifiers here uh but I want people to care about castle of Darkness I don't know okay uh there's one on for a cool"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l024",
+      "kind": "open_loop",
+      "summary": "TI-99 version only weak article mentions; no confirmed retail evidence.",
+      "topics": [
+        "Poltergeist",
+        "ports"
+      ],
+      "evidence": [
+        {
+          "location": "01:16:09",
+          "quote": "yep and uh you know I can't imagine even if it was very popular I can't imagine that that many exist uh so keep your eyes out for it there's also I I was I read some stuff where there's a TI 99 version of this game I have zero evidence of that actually existing just like a couple like weird articles that mentioned it uh as a as not the same game as this so if you come across that one you let me know as not the same game so there is no not the same uh there's"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l025",
+      "kind": "open_loop",
+      "summary": "VIC-20 listing shared as lead, not authenticated port and not purchased.",
+      "topics": [
+        "Poltergeist",
+        "community"
+      ],
+      "evidence": [
+        {
+          "location": "01:17:15",
+          "quote": "actually it's not on m games either so what's going on I'm feeling like this actually is genuinely rare what we're looking at it's only $30 bying nowy yeah that that's interesting all right well I'm not buying it I'm gonna post it in the Discord one watched in the past 24 hours did you just watch it yes okay okay of course I did so uh anyways there might be other versions of this there it is interesting though he shows screenshots from this one um I don't know if"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l026",
+      "kind": "reported_factual_claim",
+      "summary": "Alien vsPoltergeist1982 order unresolved; last discussion/ad recollection insufficient.",
+      "topics": [
+        "licensed horror",
+        "chronology"
+      ],
+      "evidence": [
+        {
+          "location": "01:18:22",
+          "quote": "okay so the next game on our list Tyler tell me if you know about this game um it has to do with the Nostromo it's alien for the Atari 2600 came out also in 1982 also maybe the first licensed horror movie game because we don't have exact dates on these two so these are our first um I think I saw an ad when we were trying to decide last time and that would like Poltergeist was a little bit earlier but there was there's no definitive answer that I came up with I"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l027",
+      "kind": "correction",
+      "summary": "Claim1983 games predateAlien retracted; narrowed to first slasher licenses.",
+      "topics": [
+        "licensed horror",
+        "slasher films"
+      ],
+      "evidence": [
+        {
+          "location": "01:34:15",
+          "quote": "Evil Dead uh you said it predates alien but we have alien listed 1982 so how does that work I don't know man what I don't know what I was thinking of yeah it doesn't um yeah this is not the first licensed horror movie game I just was wrong no oh okay so yeah that's why I have this as the first slasher as"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l028",
+      "kind": "anecdote",
+      "summary": "Johnny owns Halloween andTexas Chainsaw Massacre but lacks latter box.",
+      "topics": [
+        "Halloween",
+        "ownership"
+      ],
+      "evidence": [
+        {
+          "location": "01:33:15",
+          "quote": "finally we can talk about Halloween and the Texas Chainsaw Massacre games no one has ever talked about ever especially around Halloween especially never us uh do you have both of these or just one of them Johnny I'm curious I have both of these you're so cool man these games are so cool and they've always been cool and they'll always be cool I I wish I had the box for Texas Chainsaw Maser I don't well there's one on eBay in kind of bad condition for $1800 if you"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l029",
+      "kind": "host_opinion",
+      "summary": "Tyler wants transparent authentication for obscure games and distrusts unexplained grading authority.",
+      "topics": [
+        "authentication",
+        "grading"
+      ],
+      "evidence": [
+        {
+          "location": "01:37:25",
+          "quote": "NES game but like for a famicom disc system game where there's like 200 copies of it I'm not going to trust them to authenticate it and I think this would fall into the category of like all right if you're not going to tell me how you authenticate this and I"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l030",
+      "kind": "show_discussion",
+      "summary": "Listing differences trigger suspicion, not validated counterfeit determinations.",
+      "topics": [
+        "authentication",
+        "Texas Chainsaw Massacre"
+      ],
+      "evidence": [
+        {
+          "location": "01:38:32",
+          "quote": "and some of them have to be fake frustrating some of them definitely are a lot of people have made Repros of this they've done all kinds of things with this um yeah yeah so this $429 one looks so different that like I'm I don't want to call it fake and just put this guy on blast but like I can see the pins look so different from the pins of the other ones I'm seeing man I hate fake video games why' you guys do this yeah when the pins look that clean too you're like"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l031",
+      "kind": "joke",
+      "summary": "Absurd projected value of signed cartridge is investment satire, not forecast.",
+      "topics": [
+        "investment",
+        "signed games"
+      ],
+      "evidence": [
+        {
+          "location": "01:39:35",
+          "quote": "$55,000 one that one is a nice box that is a nice box let me go drop5 $5,000 on it I mean I don't think you'll regret it uh and in terms of investment I think it could only grow I think in 10 years people are easily paying $4 million for your signed copy of the Texas Chainsaw Massacre for Atari 2600 signed by people who really had nothing to do with the video game version of it yeah so if I was going to recommend if you buy this like I would be looking"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l032",
+      "kind": "host_opinion",
+      "summary": "Hosts object to case signatures; prefer signed paper/manual, cite smudging.",
+      "topics": [
+        "autographs",
+        "graded cases"
+      ],
+      "evidence": [
+        {
+          "location": "01:40:41",
+          "quote": "actually got Michael Meer signature cuz that guy's still alive uh H so the one guy has it for $110,000 this is apparently an even bigger Grail than uh Texas Chainsaw Massacre because they got the right signature oh no the signature is on the water case [ __ ] that are you serious oh get the [ __ ] out of here oh I hate things that are signed on the case they they never hold up who's spending $110,000 on this like you've definitely seen like uh assigned Black"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l033",
+      "kind": "host_opinion",
+      "summary": "Scarce healing drove Tyler to overgrind, undermining enjoyment despite historical respect.",
+      "topics": [
+        "Sweet Home",
+        "resource management"
+      ],
+      "evidence": [
+        {
+          "location": "01:43:53",
+          "quote": "of sweet homes so that adds stress to the battles even though you'll just grind to the point where you can beat every battle without getting hit because that's how much that concept stresses me out so that really kind of ruined the game for me um I think this is a legit it survival horror game it's about $100 complete in Buck I'm going to say go buy copy sweet home as we always say and it's based off a movie which I know we've said before yeah one of the rare"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l034",
+      "kind": "host_opinion",
+      "summary": "Hosts position1989 pair as meaningful survival-horror precursors.",
+      "topics": [
+        "survival horror",
+        "Project Firestart"
+      ],
+      "evidence": [
+        {
+          "location": "01:48:08",
+          "quote": "nose if you want to talk about the true origin of survival horror and I think the two games people are going to come to our sweet home or project fire start um so go make a blog post about project fire start please always do I mean Johnny 1989 the third game I want to talk about the game that doesn't get its due in the survival horror Cannon Friday the 13th on NES it's a choice"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l035",
+      "kind": "host_opinion",
+      "summary": "Tyler defends design and argues manual-less play contributed to reputation.",
+      "topics": [
+        "Friday the 13th",
+        "reassessment"
+      ],
+      "evidence": [
+        {
+          "location": "01:49:10",
+          "quote": "angry Video Game Nerd and thinks that all his opinions are real uh maybe you'd be like oh I bet the the list of Wikipedia video games Noti for negative reception has Friday the 13th on it which is bananas cuz this game is innovative and interesting it's not like the best game in the world but this is a very cool video game and it's probably was made by"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l036",
+      "kind": "reported_factual_claim",
+      "summary": "Transcript says Rare; must verify rather than promote as historical fact.",
+      "topics": [
+        "Friday the 13th",
+        "developer"
+      ],
+      "evidence": [
+        {
+          "location": "01:50:12",
+          "quote": "rare and it's made by Rare what do you want yeah uh and speaking of rare it's super common like just go get it it's Frid the 13th uh even sealed it's common what is the Friday the 13th on NES I'm just this hot research I'm just going to eBay right"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l037",
+      "kind": "correction",
+      "summary": "Earlier New Nightmare/360-release conflation repaired.",
+      "topics": [
+        "Alone in the Dark",
+        "franchise"
+      ],
+      "evidence": [
+        {
+          "location": "01:53:19",
+          "quote": "like it just came out right the new one yep it's such a weird franchise to reboot after doing nothing for so many years like they've rebooted it multiple times just called alone in the dark I didn't even real okay so wait New Nightmare is a different game than the 2008 alone in the dark I did not realize that all right whatever"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l038",
+      "kind": "joke",
+      "summary": "First horror game with phone card explicitly joke, not firsts database entry.",
+      "topics": [
+        "phone cards",
+        "Alone in the Dark"
+      ],
+      "evidence": [
+        {
+          "location": "01:54:24",
+          "quote": "game to come with a phone card so make sure you get that very important Flex man there are some games that come with phone cards in Japan I would not be surprised if it's not the first horror game to come with a phone card it's a joke I I know I know make sure you got that phone card yeah um all right Tyler I don't know what the rest of this episode is I don't"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l039",
+      "kind": "reported_factual_claim",
+      "summary": "EverQuest holiday-first candidate expressly permits predecessors; stated release date needs correction audit.",
+      "topics": [
+        "seasonal events",
+        "MMO history"
+      ],
+      "evidence": [
+        {
+          "location": "01:56:36",
+          "quote": "they did an event in1 if there's one that did this before that let me know but as far as I could tell 2001 is the first time where we really got an in-game Halloween event um they put in some pumpkin headed monsters that was special drops from them you could get get like a wearable pumpkin head sometimes they drop candy um World"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l040",
+      "kind": "show_discussion",
+      "summary": "Box represents evolving online game, not necessarily event content on original disc.",
+      "topics": [
+        "MMOs",
+        "physical collecting"
+      ],
+      "evidence": [
+        {
+          "location": "01:57:41",
+          "quote": "ones where you could see it and yes you can go buy copies of World of Warcraft how does that incorporate the Halloween stuff it like on the physical box it won't but um when you buy I think any MMO you understand you are buying the representation of something that exists in a much bigger uh much more change State than what was originally in the box and then uh just back into Halloween events um Harvest Moon also had some Halloween events in it kind of in Back to"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l041",
+      "kind": "open_loop",
+      "summary": "EarlierMUD events possible; poorly documented history, no absence claim.",
+      "topics": [
+        "seasonal events",
+        "MUD history"
+      ],
+      "evidence": [
+        {
+          "location": "01:58:45",
+          "quote": "of Heroes did like every MMO I've ever played really had some Halloween or Christmas event attached to it I want to know I mean I don't want to know because I don't really care but I would not be surprised if there was a mud that had some kind of event before EverQuest in like the 2000s or whatever um I'm sure like so mud multiuser dungeon I'm sure everyone knows this is a text based MMO basically without Graphics that you would like SSH or"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l042",
+      "kind": "show_discussion",
+      "summary": "Hosts say their initially joke Facebook group became genuine fandom group; no link established.",
+      "topics": [
+        "running jokes",
+        "Pirates of Dark Water"
+      ],
+      "evidence": [
+        {
+          "location": "01:59:49",
+          "quote": "canceled before you got a resolution go find a mud Discussion Group yeah o a rare Pirates of Dark Water reference been a while yeah we were just talking about how that actually just like the one we the group we made on Facebook is actually just a Pirates of Dark Water group now that's just what it is it's not even a fake group anymore it's just people"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l043",
+      "kind": "anecdote",
+      "summary": "Tyler played less-popular fantasy system in small local scene.",
+      "topics": [
+        "Warhammer",
+        "tabletop"
+      ],
+      "evidence": [
+        {
+          "location": "02:03:02",
+          "quote": "scene the local scene in the small to mediumsized towns I've lived in for Warhammer has been like like at most if you're in a game shop like four guys and we're talking tops and usually it was just me and my friends cuz I played Warhammer fantasy which was less popular than Warhammer 40 K and as far as I know Warhammer fantasy like doesn't even exist anymore maybe uh and then man you get to blood bll sometimes the freaking blood bull guys were out there which is"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l044",
+      "kind": "open_loop",
+      "summary": "Invites Blood Bowl players to explain enduring appeal, not claims about all players.",
+      "topics": [
+        "Blood Bowl",
+        "community"
+      ],
+      "evidence": [
+        {
+          "location": "02:06:13",
+          "quote": "get a send me a DM if you're into blood bow and just tell me your thought process I don't think it's stupid I think it's fascinating how how it has survived so long um I was supposed to get a question I I apologize for that yeah tiger wolf"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l045",
+      "kind": "host_opinion",
+      "summary": "Both oppose recording ownership before arrival due to loss/condition risk.",
+      "topics": [
+        "cataloging",
+        "shipping"
+      ],
+      "evidence": [
+        {
+          "location": "02:07:14",
+          "quote": "that that's uh what you do on your daily Day Day day-to-day basis what does your collecting we look like how often does mail arrive then what's your routine after it arrives do you catalog before or after getting stuff cataloging before getting stuff what kind of crazy nonsense is that what if it get destroyed you're lost in the mail that's a guaranteed way to have your collection database be bad yeah you're asking to be jinxed that's that's I'm superstitious no thank"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l046",
+      "kind": "anecdote",
+      "summary": "Tyler now coasts on searches andMario variants, more comfortable with collection; dated search limit not current fact.",
+      "topics": [
+        "collecting habits",
+        "saved searches"
+      ],
+      "evidence": [
+        {
+          "location": "02:08:20",
+          "quote": "when we do the what whatever you bought what are you playing like if it hasn't arrived I don't like to talk about it yeah I agree I mean my the way I collect these days I have a few save searches set I mean a few being probably 200 cuz that's the max you can have but they're not stuff that gets hits all the time so I wake up I probably got four save search hits every once in a while it's something kind of cool and I click it but I I wake up late like"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l047",
+      "kind": "anecdote",
+      "summary": "Johnny opens, stores, removes packaging andquick-scans new arrivals; full old catalog still incomplete.",
+      "topics": [
+        "cataloging",
+        "workflow"
+      ],
+      "evidence": [
+        {
+          "location": "02:10:28",
+          "quote": "son and go to the bathroom um open those up put them away so they're not lingering on the Shelf get the boxes out of the house I hate having lingering cardboard boxes around so do that clear it out um scan it real quick so it's in uh my list of games I own not like this is not like a full cataloging of what I own now there's a lot of that that still has to happen I haven't got fully back to that but that way I'm not getting behind at least"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l048",
+      "kind": "anecdote",
+      "summary": "Johnny treats Halloween as ongoing source-linked classification and seasonal video project.",
+      "topics": [
+        "Halloween",
+        "research workflow"
+      ],
+      "evidence": [
+        {
+          "location": "02:11:32",
+          "quote": "is like nearly impossible to get completely right so I'm constantly refining and trying to save links and stuff to what I know so I have like some knowledge Source uh create a system create ratings uh how how to do all of it um currently right now too then I usually come up and try to do a video"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l049",
+      "kind": "anecdote",
+      "summary": "Tyler bought better box with mismatched components, not complete clean upgrade set.",
+      "topics": [
+        "Ultima Underworld",
+        "upgrades"
+      ],
+      "evidence": [
+        {
+          "location": "02:12:36",
+          "quote": "yeah do that for $4 or don't just keep listening to how you are and that's all I got Tyler what else about you got anything else you want to talk about what you bought what you played uh Johnny it's not that interesting I upgraded my Ultima underworld box that's the only thing I bought uh some guy with one feedback had a really nice Ultima underworld box with incorrect components I don't even think it had the game discs and then it also had a bunch of extra Ultima Underworld"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l050",
+      "kind": "show_discussion",
+      "summary": "Hosts brainstorm harsher realistic card-shop sim; percentages hypothetical, not business statistics.",
+      "topics": [
+        "simulation",
+        "card shops"
+      ],
+      "evidence": [
+        {
+          "location": "02:15:44",
+          "quote": "customers say they're going to buy something and then not buy it or dealing with returns like I don't know like if I had a card shop simulator I want it to be about the shitty parts of opening a card shop I want like a 90% failure rate after two years like that kind of stuff like oh no another a bigger card shop opened in town and now you used to be the Friday Night Magic spot and now you have eight players every week like that's what I want that's what"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l051",
+      "kind": "correction",
+      "summary": "Johnny explicitly not playing unnamed shop sim; only saw others playing.",
+      "topics": [
+        "playing",
+        "card-shop simulator"
+      ],
+      "evidence": [
+        {
+          "location": "02:16:44",
+          "quote": "customers but her knowledge is really low o that's that's a Trope and a mean Trope but that's that's what people expect yeah um what are you playing Johnny oh is that what you're playing that's what you're playing no I I'm not that's what I saw other people playing I I played a little magic online uh barely counts as a video game um totally counts as a video game played a little of the new season of Diablo but not much so that's that's kind of"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l052",
+      "kind": "anecdote",
+      "summary": "Johnny upgraded big-box Stone Prophet and has not played.",
+      "topics": [
+        "Stone Prophet",
+        "purchases"
+      ],
+      "evidence": [
+        {
+          "location": "02:17:46",
+          "quote": "sequel called Stone profit I I have the other one and I have a version of stone profit but I got the proper box version Big Box version of stone profit that's a SSI PC game W advanced Dungeons and Dragons Stone profit so I haven't played it but it looks like a Dungeon Crawler like every PC Dungeon Crawler ever has looked yep hey you're an ancient mummy you want to you want ancient mummies are mummies do mummies count for Halloween I don't know we didn't do"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq259-l053",
+      "kind": "reported_factual_claim",
+      "summary": "Spontaneous1979 first-mummy suggestion explicitly joked as well-researched; unverified.",
+      "topics": [
+        "mummies",
+        "firsts"
+      ],
+      "evidence": [
+        {
+          "location": "02:18:48",
+          "quote": "metrics why it doesn't rate but it just like I it's just a personal feeling I'm just like I I don't know do mummies count like they're like Undead monsters you know they're basically zombie Kings they should probably count Pyramid of Doom 1979 Scott Adams text Adventure it's got I have no idea what this game is but it's called Pyramid of Doom and it has a mummy coming through a doorway on the cover we're going to count it that's a Halloween game right there"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    }
+  ],
+  "corrections": [],
+  "topic_coverage": [
+    {
+      "topic": "horror firsts",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "00:07:24",
+        "00:09:30",
+        "00:33:46",
+        "01:18:22"
+      ]
+    },
+    {
+      "topic": "survival horror taxonomy",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "00:14:51",
+        "00:55:59",
+        "01:42:48",
+        "01:48:08"
+      ]
+    },
+    {
+      "topic": "obscure computer collecting",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "00:32:38",
+        "00:51:47",
+        "01:07:45"
+      ]
+    },
+    {
+      "topic": "authentication",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "01:37:25",
+        "01:38:32"
+      ]
+    },
+    {
+      "topic": "collecting routines",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "02:07:14",
+        "02:10:28"
+      ]
+    },
+    {
+      "topic": "seasonal game events",
+      "depth": "SUPPORTING_EXAMPLE",
+      "locations": [
+        "01:55:29",
+        "01:57:41"
+      ]
+    }
+  ],
+  "related_episodes": [],
+  "review_queue": [
+    {
+      "id": "cq259-review01",
+      "priority": "high",
+      "reason": "Developer assertion requires historical verification before use in factual answer.",
+      "evidence": [
+        {
+          "location": "01:50:12",
+          "quote": "rare and it's made by Rare what do you want yeah uh and speaking of rare it's super common like just go get it it's Frid the 13th uh even sealed it's common what is the Friday the 13th on NES I'm just this hot research I'm just going to eBay right"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq259-review02",
+      "priority": "high",
+      "reason": "EverQuest date and seasonal-first chronology need external-source check; don't accept transcript as truth.",
+      "evidence": [
+        {
+          "location": "01:55:29",
+          "quote": "firstperson Shooters MMOs like any game that you're playing online like you'll get Halloween themed skins like they take advantage of the holidays but really the first game to do that was EverQuest EverQuest came out in 1996"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq259-review03",
+      "priority": "medium",
+      "reason": "Normalize Japanese title against original packaging; differentiate mini-game and compilation.",
+      "evidence": [
+        {
+          "location": "00:52:51",
+          "quote": "guys you can buy a loose floppy disc if you want do it then show us and see if Tyler says something mean to you Johnny 1981 we have uh an interesting game that has been brought up on the show a few times it is ax2 U yusen Nostromo which means ax2 space freighter Nostromo for the PC 6001 apparently also released for a Japanese Commodore pet and I've never seen that version so just pretend it doesn't exist but um this is a it's a collection of four"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq259-review04",
+      "priority": "medium",
+      "reason": "VIC-20 listing may not establish licensed Poltergeist port; screenshots could be reused.",
+      "evidence": [
+        {
+          "location": "01:17:15",
+          "quote": "buying it I'm gonna post it in the Discord one watched in the past 24 hours did you just watch it yes okay okay of course I did so uh anyways there might be other versions of this there it is interesting though he shows screenshots from this one um I don't know if these are the real screenshots but he shows the same Poltergeist game that is the same for the trs8 but this one that I saw a couple mentions on for the ti99 says it's not the same uh but"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq259-review05",
+      "priority": "medium",
+      "reason": "Counterfeit suspicions not confirmed; do not publicly label sellers as counterfeiters.",
+      "evidence": [
+        {
+          "location": "01:38:32",
+          "quote": "people have made Repros of this they've done all kinds of things with this um yeah yeah so this $429 one looks so different that like I'm I don't want to call it fake and just put this guy on blast but like I can see the pins look so different from the pins of the other ones I'm seeing man I hate fake video games why' you guys do this yeah when the pins look that clean too you're like oh they look so clean why do these look so new well his pins"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq259-review06",
+      "priority": "medium",
+      "reason": "Mummy-first conclusion off-the-cuff and unresearched.",
+      "evidence": [
+        {
+          "location": "02:18:48",
+          "quote": "metrics why it doesn't rate but it just like I it's just a personal feeling I'm just like I I don't know do mummies count like they're like Undead monsters you know they're basically zombie Kings they should probably count Pyramid of Doom 1979 Scott Adams text Adventure it's got I have no idea what this game is but it's called Pyramid of Doom and it has a mummy coming through a doorway on the cover we're going to count it that's a Halloween game right there"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq259-review07",
+      "priority": "medium",
+      "reason": "Alone in the Dark remake dates and development biography uncertain.",
+      "evidence": [
+        {
+          "location": "01:52:14",
+          "quote": "or go get biohazard I bet biohazard is literally worth nothing in Japan and that's the real version you could probably get it for 20 bucks go get that one if you don't want to spend $100 bucks yeah alone in the dark just remade too um came out last year it was supposed to come out last October and then the Remake like failed and didn't come out until like I think December or after like yeah missed its window completely um what I don't understand"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq259-review08",
+      "priority": "medium",
+      "reason": "First-Dracula definition relies on inference and excludes potentially earlier network games.",
+      "evidence": [
+        {
+          "location": "00:33:46",
+          "quote": "to be something that someone can get us with uh the first Dracula someone find me a game earlier than this that has Dracula so as you're exploring the house of Seven Gables of the Seven Gables one of the rooms is named Dracula's chamber and you have to kill Dracula with garlic and a steak technically he's not named Dracula he is a mean looking vampire that is in Dracula's chamber I'm going to say it's Dracula um that is not a concept from The House"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    }
+  ],
+  "exclusions": [
+    "Do not treat jokes, hypothetical scenarios, unverified prices or psychological interpretations as established facts."
+  ]
+}

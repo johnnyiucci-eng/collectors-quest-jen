@@ -1,0 +1,248 @@
+{
+  "review_binding": {"version":"cq-review-binding-1","sha256":"47f879ee3f85e7f661e58fdef749d6a252467d62db2e524f05f132e21c611a9b","reviewed_utc":"2026-09-14T04:24:45.202272+00:00","meaning":"Exact reviewed local inputs; not independent semantic, audio or live certification"},
+  "schema_version": "1",
+  "required_for": "A1–A8 mandatory for every episode in every batch.",
+  "acceptance_scope": "Captured-text development review only; not audio, external-history, blind-recall or live certification.",
+  "episodes": [
+    {
+      "episode": 24,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All29 supplied windows fully read/accounted;42 typed references and77 spans reviewed. Life is Strange leads; four titles tie at the next meaningful-paragraph count. Hardware and library references excluded from game ranking.",
+          "evidence": [
+            "batches/018/reviews/024-audit.md",
+            "batches/018/reviews/024-annotations.json",
+            "batches/018/reviews/coordinator-progress.md"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "Full inventory/list reconciliation and frozen source-first batch sample20/20; earlier18/20 misses retained.",
+          "evidence": [
+            "batches/018/reviews/024-audit.md",
+            "batches/018/reviews/024-annotations.json",
+            "batches/018/reviews/coordinator-progress.md"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Kat/Johnny hosts, John distinct; Tyler absent. Hypothetical John enjoyment is not Kat play.",
+          "evidence": [
+            "batches/018/reviews/024-audit.md",
+            "batches/018/reviews/024-annotations.json",
+            "batches/018/reviews/coordinator-progress.md"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "All42 action rows reviewed. Collecting Wii is not proof of purchase; promised further trial is not completed play; unknown 32X actor preserved.",
+          "evidence": [
+            "batches/018/reviews/024-audit.md",
+            "batches/018/reviews/024-annotations.json",
+            "batches/018/reviews/coordinator-progress.md"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "All12 complete answer texts reviewed with exact snapshots; batch47 original/47 tuned and12 fresh pass.",
+          "evidence": [
+            "batches/018/reviews/answer-review.json",
+            "batches/018/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Episode-grounded brief desk-reviewed for useful conclusions, examples, corrections, jokes, uncertainty and open loops; not live rehearsal.",
+          "evidence": [
+            "batches/018/reviews/024-audit.md",
+            "batches/018/reviews/024-annotations.json",
+            "batches/018/reviews/coordinator-progress.md"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "All1566 literal batch proofs, complete accounting,47 original/47 tuned,20 frozen/12 fresh and228 shared tests pass;16 prior gates/original suites pass.",
+          "evidence": [
+            "batches/018/reviews/verification.md",
+            "batches/018/generated/hour-shared-tests.log",
+            "batches/018/generated/hour-prior-gates.json",
+            "batches/018/generated/hour-verification.json",
+            "batches/018/generated/hour-sample.json",
+            "batches/018/generated/hour-first-fresh.json"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "Explicit eight-check decision after full source and semantic review; exact input binding required and unresolved qualifications retained.",
+          "evidence": [
+            "batches/018/reviews/024-audit.md",
+            "batches/018/reviews/024-annotations.json",
+            "batches/018/reviews/coordinator-progress.md"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 91,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All74 supplied windows fully read/accounted;137 typed references and233 spans reviewed. Pro Wrestling9, No Mercy8, MUSCLE4 meaningful paragraphs; distinct compilation versions and passing merchandising references reconciled.",
+          "evidence": [
+            "batches/018/reviews/091-audit.md",
+            "batches/018/reviews/091-annotations.json",
+            "batches/018/reviews/coordinator-progress.md"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "Full inventory/list reconciliation and frozen source-first batch sample20/20; earlier18/20 misses retained.",
+          "evidence": [
+            "batches/018/reviews/091-audit.md",
+            "batches/018/reviews/091-annotations.json",
+            "batches/018/reviews/coordinator-progress.md"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Johnny/Tyler roles checked; CD-i journey is Tyler; unclear Peacekeeper/Archon actors remain unknown.",
+          "evidence": [
+            "batches/018/reviews/091-audit.md",
+            "batches/018/reviews/091-annotations.json",
+            "batches/018/reviews/coordinator-progress.md"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "All52 action rows reviewed. Paid, undelivered, requested refund, wanted and hypothetical resale distinguished; packaging upgrade does not mean new cart purchase.",
+          "evidence": [
+            "batches/018/reviews/091-audit.md",
+            "batches/018/reviews/091-annotations.json",
+            "batches/018/reviews/coordinator-progress.md"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "All20 complete answer texts reviewed with exact snapshots; batch47 original/47 tuned and12 fresh pass.",
+          "evidence": [
+            "batches/018/reviews/answer-review.json",
+            "batches/018/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Episode-grounded brief desk-reviewed for useful conclusions, examples, corrections, jokes, uncertainty and open loops; not live rehearsal.",
+          "evidence": [
+            "batches/018/reviews/091-audit.md",
+            "batches/018/reviews/091-annotations.json",
+            "batches/018/reviews/coordinator-progress.md"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "All1566 literal batch proofs, complete accounting,47 original/47 tuned,20 frozen/12 fresh and228 shared tests pass;16 prior gates/original suites pass.",
+          "evidence": [
+            "batches/018/reviews/verification.md",
+            "batches/018/generated/hour-shared-tests.log",
+            "batches/018/generated/hour-prior-gates.json",
+            "batches/018/generated/hour-verification.json",
+            "batches/018/generated/hour-sample.json",
+            "batches/018/generated/hour-first-fresh.json"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "Explicit eight-check decision after full source and semantic review; exact input binding required and unresolved qualifications retained.",
+          "evidence": [
+            "batches/018/reviews/091-audit.md",
+            "batches/018/reviews/091-annotations.json",
+            "batches/018/reviews/coordinator-progress.md"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 217,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All46 supplied windows fully read/accounted;53 typed references and70 spans reviewed. Timed split coverage reviewed; supporting versus substantial ranks, pet and software exclusions preserved.",
+          "evidence": [
+            "batches/018/reviews/217-audit.md",
+            "batches/018/reviews/217-annotations.json",
+            "batches/018/reviews/coordinator-progress.md"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "Full inventory/list reconciliation and frozen source-first batch sample20/20; earlier18/20 misses retained.",
+          "evidence": [
+            "batches/018/reviews/217-audit.md",
+            "batches/018/reviews/217-annotations.json",
+            "batches/018/reviews/coordinator-progress.md"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Johnny solo, Tyler absent; children future play is franchise-level, not completed game play.",
+          "evidence": [
+            "batches/018/reviews/217-audit.md",
+            "batches/018/reviews/217-annotations.json",
+            "batches/018/reviews/coordinator-progress.md"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "All19 action rows reviewed. Recovered escaped pet is household custody, not retail return; imagined downsizing is not sold; current and historical gifts separated.",
+          "evidence": [
+            "batches/018/reviews/217-audit.md",
+            "batches/018/reviews/217-annotations.json",
+            "batches/018/reviews/coordinator-progress.md"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "All15 complete answer texts reviewed with exact snapshots; batch47 original/47 tuned and12 fresh pass.",
+          "evidence": [
+            "batches/018/reviews/answer-review.json",
+            "batches/018/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Episode-grounded brief desk-reviewed for useful conclusions, examples, corrections, jokes, uncertainty and open loops; not live rehearsal.",
+          "evidence": [
+            "batches/018/reviews/217-audit.md",
+            "batches/018/reviews/217-annotations.json",
+            "batches/018/reviews/coordinator-progress.md"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "All1566 literal batch proofs, complete accounting,47 original/47 tuned,20 frozen/12 fresh and228 shared tests pass;16 prior gates/original suites pass.",
+          "evidence": [
+            "batches/018/reviews/verification.md",
+            "batches/018/generated/hour-shared-tests.log",
+            "batches/018/generated/hour-prior-gates.json",
+            "batches/018/generated/hour-verification.json",
+            "batches/018/generated/hour-sample.json",
+            "batches/018/generated/hour-first-fresh.json"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "Explicit eight-check decision after full source and semantic review; exact input binding required and unresolved qualifications retained.",
+          "evidence": [
+            "batches/018/reviews/217-audit.md",
+            "batches/018/reviews/217-annotations.json",
+            "batches/018/reviews/coordinator-progress.md"
+          ]
+        }
+      }
+    }
+  ]
+}

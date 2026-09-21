@@ -1,0 +1,451 @@
+{
+  "schema_version": "1",
+  "reviewer": "Root coordinator, separate complete107-window source read; all actual answer prose reviewed",
+  "status": "semantic_answers_reviewed",
+  "scope": "Source-informed development adjudication, not audio/live or blind semantic certification.",
+  "cases": [
+    {
+      "id": "cq218-guide",
+      "episode": 218,
+      "question": "Did they think Wata’s guide was useless?",
+      "query": "Did they think Wata’s guide was useless?",
+      "answer": "No. They thought its grading/submission/sales documentation could be useful to that audience, but it was not the broad collecting primer they expected. They preferred CGC’s platform-and-variant guide while questioning some rare-game examples. This was a live skim, not a verified exhaustive review.",
+      "evidence_locations": [
+        "00:05:17",
+        "00:06:21",
+        "00:07:25",
+        "00:08:28",
+        "00:09:32",
+        "00:10:36"
+      ],
+      "forbidden": [
+        "Do not call it universally useless or claim independently verified guide contents."
+      ],
+      "status": "passed",
+      "reason": "Audience-specific guide value, not blanket dismissal; skim qualified."
+    },
+    {
+      "id": "cq218-finish",
+      "episode": 218,
+      "question": "Do Johnny and Tyler agree on when collecting should end?",
+      "query": "Do Johnny and Tyler agree on when collecting should end?",
+      "answer": "They do not settle on a universal endpoint. Johnny sees new projects as ways to keep enjoying the hobby; Tyler worries about inventing checklist goals instead of enjoying what he owns. They distinguish satisfaction from stopping all purchases.",
+      "evidence_locations": [
+        "00:11:39",
+        "00:12:41",
+        "00:18:04",
+        "00:19:04",
+        "00:46:39",
+        "00:47:42"
+      ],
+      "forbidden": [
+        "Do not report either as having quit."
+      ],
+      "status": "passed",
+      "reason": "Different motivations/endpoints, neither quit."
+    },
+    {
+      "id": "cq218-wiiu",
+      "episode": 218,
+      "question": "Why did Tyler collect Wii U if it was outside his usual focus?",
+      "query": "Why did Tyler collect Wii U if it was outside his usual focus?",
+      "answer": "He says it seemed cheap, available and attainable, and gave him a checklist even though he normally prefers earlier games. He calls it busy work; Johnny softens that to extra credit. Their speculative price debate is not evidence the set will be a good investment.",
+      "evidence_locations": [
+        "00:22:19",
+        "00:23:25",
+        "00:24:28"
+      ],
+      "forbidden": [
+        "Do not turn historical rough costs into current prices or returns."
+      ],
+      "status": "passed",
+      "reason": "Opportunistic WiiU checklist with disputed investment rhetoric."
+    },
+    {
+      "id": "cq218-rusty",
+      "episode": 218,
+      "question": "Did Tyler decide to buy Rusty and all the movie-ticket games?",
+      "query": "Did Tyler decide to buy Rusty and all the movie-ticket games?",
+      "answer": "No. He admires Rusty, says he does not own it and is not really a PC-98 collector. Movie-ticket games illustrate an attainable side quest he could chase but is trying to admire without needing to own. No purchase or commitment is established.",
+      "evidence_locations": [
+        "00:25:31",
+        "00:26:36",
+        "00:27:37"
+      ],
+      "forbidden": [
+        "Do not turn admiration or attainable price into bought or ordered."
+      ],
+      "status": "passed",
+      "reason": "Admiration and hypothetical sidequest not acquisition."
+    },
+    {
+      "id": "cq218-pins",
+      "episode": 218,
+      "question": "What made PAX pin collecting stop feeling fun to Tyler?",
+      "query": "What made PAX pin collecting stop feeling fun to Tyler?",
+      "answer": "He says he kept up across regions for about three years, with new pins every few months, convention tasks and recurring costs. The unlimited stream became an obligation. The episode does not establish that he sold the collection.",
+      "evidence_locations": [
+        "00:30:52",
+        "00:31:58",
+        "00:33:01"
+      ],
+      "forbidden": [
+        "Do not invent final sale, exact complete inventory or current prices."
+      ],
+      "status": "passed",
+      "reason": "Recurring pins obligation without invented sale."
+    },
+    {
+      "id": "cq218-switch",
+      "episode": 218,
+      "question": "Did Johnny buy the Switch chicken-shoot gun bundle?",
+      "query": "Did Johnny buy the Switch chicken-shoot gun bundle?",
+      "answer": "No. He explicitly says he passed and stopped himself from buying it. He wants a curated Switch collection, not every release; the exact title of the discussed bundle remains unresolved in the captions.",
+      "evidence_locations": [
+        "00:37:11",
+        "00:38:15"
+      ],
+      "forbidden": [
+        "Do not identify the bundle solely from familiarity or claim purchase."
+      ],
+      "status": "passed",
+      "reason": "Explicit declined bundle; unresolved exact title."
+    },
+    {
+      "id": "cq218-exit",
+      "episode": 218,
+      "question": "What might Johnny do with his collection for his son?",
+      "query": "What might Johnny do with his collection for his son?",
+      "answer": "He might eventually sell it rather than leave an unwanted burden, perhaps giving his son the proceeds or housing help. He says he does not view it as his retirement fund. These are hypothetical future choices, not a current sale or legal estate plan.",
+      "evidence_locations": [
+        "00:43:35",
+        "00:44:35",
+        "00:45:36"
+      ],
+      "forbidden": [
+        "Do not report actual sale, inheritance or financial/legal advice."
+      ],
+      "status": "passed",
+      "reason": "Future son-related disposal not current sale or legal plan."
+    },
+    {
+      "id": "cq218-phase",
+      "episode": 218,
+      "question": "Does Phase Shift lack all vocal support?",
+      "query": "Does Phase Shift lack all vocal support?",
+      "answer": "The exchange initially says no vocal support, then clarifies the limitation as no vocal scoring: singing can still be present without being judged. That distinction matters to Johnny’s karaoke interest. This records their dated discussion, not a current technical compatibility guarantee.",
+      "evidence_locations": [
+        "00:48:42",
+        "00:49:47",
+        "00:50:50"
+      ],
+      "forbidden": [
+        "Do not repeat the initial broad statement after its clarification or guarantee software compatibility."
+      ],
+      "status": "passed",
+      "reason": "Vocal presence versus judging clarification retained."
+    },
+    {
+      "id": "cq218-website",
+      "episode": 218,
+      "question": "Was Tyler opening a physical museum?",
+      "query": "Was Tyler opening a physical museum?",
+      "answer": "No. The museum suggestion is a joke explicitly denied. Game Historia is described as a delayed website intended to get people playing older games with goals, and he says collecting and podcast work can crowd out that project.",
+      "evidence_locations": [
+        "00:50:50",
+        "00:51:56",
+        "00:55:08"
+      ],
+      "forbidden": [
+        "Do not claim a physical museum or completed website launch."
+      ],
+      "status": "passed",
+      "reason": "Museum joke denied; website delayed."
+    },
+    {
+      "id": "cq218-time",
+      "episode": 218,
+      "question": "Why do they say shopping can crowd out playing?",
+      "query": "Why do they say shopping can crowd out playing?",
+      "answer": "Shopping fits into brief moments, while a long game needs uninterrupted time and effort. Johnny describes setting up quiet play with snacks; Tyler uses Chrono Trigger and detailed variant hunting as examples. They explicitly do not require collectors to play every owned game.",
+      "evidence_locations": [
+        "00:56:12",
+        "00:57:19",
+        "00:58:23",
+        "00:59:29"
+      ],
+      "forbidden": [
+        "Do not infer a recent Chrono Trigger playthrough or actual misprint acquisition."
+      ],
+      "status": "passed",
+      "reason": "Shopping/play effort differs; no actual Chrono play inferred."
+    },
+    {
+      "id": "cq218-ultima",
+      "episode": 218,
+      "question": "Which Ultima copy is Tyler hunting, and has he got it?",
+      "query": "Which Ultima copy is Tyler hunting, and has he got it?",
+      "answer": "He wants the baggie version of Ultima I, not the boxed version. He is saving and searching for a suitable copy; his unpacking and placement timetable is imaginary. He has not reported obtaining it here.",
+      "evidence_locations": [
+        "01:02:35",
+        "01:03:43",
+        "01:04:47",
+        "01:05:51"
+      ],
+      "forbidden": [
+        "Do not convert imagined unboxing into receipt or authenticate counterfeit accusations."
+      ],
+      "status": "passed",
+      "reason": "Baggie Ultima still wanted; imagined unboxing not receipt."
+    },
+    {
+      "id": "cq218-milestones",
+      "episode": 218,
+      "question": "Which completed collections made the hosts feel satisfied?",
+      "query": "Which completed collections made the hosts feel satisfied?",
+      "answer": "Johnny names SNES, then NES, and PS1, with Genesis and N64 already completed and Saturn finished earlier. Tyler names Sega CD and his loose NES set, explicitly without Stadium Events. These are their stated collection scopes, not every possible print or regional variant.",
+      "evidence_locations": [
+        "01:15:31",
+        "01:16:33",
+        "01:17:37"
+      ],
+      "forbidden": [
+        "Do not claim Tyler owns Stadium Events or all sets are boxed/variant complete."
+      ],
+      "status": "passed",
+      "reason": "Different scoped milestone lists, loose NES excludes StadiumEvents."
+    },
+    {
+      "id": "cq218-stadium",
+      "episode": 218,
+      "question": "Does Tyler still prefer Stadium Events to Nintendo World Championships?",
+      "query": "Does Tyler still prefer Stadium Events to Nintendo World Championships?",
+      "answer": "No. He recalls once favoring Stadium Events because it completed a set, but now finds Nintendo World Championships cooler and uses a World Class Track Meet variant framing. He does not own or intend to pursue Stadium Events, and says he cares less about both than before.",
+      "evidence_locations": [
+        "01:16:33",
+        "01:17:37"
+      ],
+      "forbidden": [
+        "Do not turn preference into ownership or assert external catalog equivalence."
+      ],
+      "status": "passed",
+      "reason": "Retrospective preference change distinct from buying."
+    },
+    {
+      "id": "cq218-heirs",
+      "episode": 218,
+      "question": "Why does Tyler compare inherited games with his father’s cars?",
+      "query": "Why does Tyler compare inherited games with his father’s cars?",
+      "answer": "His father’s two Triumph cars illustrate how an heir would need unfamiliar condition, market and selling knowledge. Thousands of games and valuable packaging variants could be a much larger task. The car nationality is corrected to British, but no actual inheritance or sale occurs.",
+      "evidence_locations": [
+        "01:21:52",
+        "01:22:55",
+        "01:23:58"
+      ],
+      "forbidden": [
+        "Do not claim inheritance happened or give verified vehicle valuations."
+      ],
+      "status": "passed",
+      "reason": "Father owns cars; hypothetical heir not actual inheritance."
+    },
+    {
+      "id": "cq218-genres",
+      "episode": 218,
+      "question": "Why did they reject the label Metroidbrainia?",
+      "query": "Why did they reject the label Metroidbrainia?",
+      "answer": "They think it depends on too much insider knowledge and prefer words that explain the actual activity, such as puzzle or action-platformer. Tunic prompts the question; Obra Dinn and Outer Wilds are cited from a video. The Borderlands2 Diablo-Doom-like line is mocking wordplay, not a formal genre assignment.",
+      "evidence_locations": [
+        "01:25:07",
+        "01:26:07",
+        "01:27:13",
+        "01:28:15"
+      ],
+      "forbidden": [
+        "Do not infer play or establish a universal taxonomy."
+      ],
+      "status": "passed",
+      "reason": "Genre wordplay critique, no play inferred."
+    },
+    {
+      "id": "cq218-age",
+      "episode": 218,
+      "question": "Do they think every old game is only good for its time?",
+      "query": "Do they think every old game is only good for its time?",
+      "answer": "No. Johnny retains affection for Zelda and Metroid despite flaws; Tyler resists using age as an automatic excuse. They debate effects and cultural context, and Tyler later uses Megamania as both enjoyable now and strong relative to its era. Their positions are nuanced and not identical.",
+      "evidence_locations": [
+        "01:29:21",
+        "01:30:24",
+        "01:33:38",
+        "01:34:42",
+        "01:35:42",
+        "01:36:49"
+      ],
+      "forbidden": [
+        "Do not flatten disagreement into unanimous dismissal of old games."
+      ],
+      "status": "passed",
+      "reason": "Real disagreement and historical/present criterion retained."
+    },
+    {
+      "id": "cq218-assassin",
+      "episode": 218,
+      "question": "What did they dislike about the first Assassin’s Creed?",
+      "query": "What did they dislike about the first Assassin’s Creed?",
+      "answer": "They describe repeated mission types and boredom; one speaker recalls falling asleep playing it and being discouraged from later entries. The transcript does not justify assigning every sentence to the same host or claiming they played the whole franchise.",
+      "evidence_locations": [
+        "01:32:34",
+        "01:33:38"
+      ],
+      "forbidden": [
+        "Do not invent sequel play or certain speaker attribution."
+      ],
+      "status": "passed",
+      "reason": "Original AC played/disliked with actor uncertainty, not series completion."
+    },
+    {
+      "id": "cq218-anthology",
+      "episode": 218,
+      "question": "Which Limited Run anthology actually arrived for Johnny?",
+      "query": "Which Limited Run anthology actually arrived for Johnny?",
+      "answer": "He initially calls the delivery Castlevania Anniversary, then corrects himself to Contra. He says he scanned it and shelved it. Tyler says he resisted buying those anthologies. The correction should govern the delivery record, not erase the original slip.",
+      "evidence_locations": [
+        "01:38:54",
+        "01:39:56"
+      ],
+      "forbidden": [
+        "Do not retain Castlevania as a second confirmed delivery or give Tyler a purchase."
+      ],
+      "status": "passed",
+      "reason": "Castlevania-to-Contra correction governs arrival."
+    },
+    {
+      "id": "cq218-zombi",
+      "episode": 218,
+      "question": "What was Johnny’s Halloween computer-game pickup?",
+      "query": "What was Johnny’s Halloween computer-game pickup?",
+      "answer": "He says he got Zombi from Ubisoft for the Halloween collection and mentions Commodore64 and AtariST versions. The exact platform of his copy is not clearly settled by this exchange; the title and pickup are more secure than the edition details.",
+      "evidence_locations": [
+        "01:38:54"
+      ],
+      "forbidden": [
+        "Do not guess copy platform or verify the stated release year."
+      ],
+      "status": "passed",
+      "reason": "Zombi pickup secure, copy platform unresolved."
+    },
+    {
+      "id": "cq218-ffbundle",
+      "episode": 218,
+      "question": "Did they establish a first-ever American physical release of original Final Fantasy III?",
+      "query": "Did they establish a first-ever American physical release of original Final Fantasy III?",
+      "answer": "They discuss that possibility uncertainly while praising an I–VI bundle, contrasting it with the 3D version and qualifying the region as America. It is not a verified catalog conclusion, and no completed bundle purchase is explicit.",
+      "evidence_locations": [
+        "01:39:56",
+        "01:41:02",
+        "01:42:07"
+      ],
+      "forbidden": [
+        "Do not say first ever without verification or silently identify the unnamed new FF installment."
+      ],
+      "status": "passed",
+      "reason": "FFIII firstness/region uncertain, no verified catalog conclusion."
+    },
+    {
+      "id": "cq218-geniac",
+      "episode": 218,
+      "question": "Did Tyler pay $538 for his Geniac?",
+      "query": "Did Tyler pay $538 for his Geniac?",
+      "answer": "No. The $538 is an unsold asking price for another listing, previously $500. He says several examples appeared and he obtained one for much less, without stating the price he actually paid. He had wanted one for a year or two.",
+      "evidence_locations": [
+        "01:42:07",
+        "01:49:34",
+        "01:50:41",
+        "01:51:46"
+      ],
+      "forbidden": [
+        "Do not invent a100dollar purchase from his hypothetical threshold."
+      ],
+      "status": "passed",
+      "reason": "Unsold538ask differs from undisclosed lower paid price."
+    },
+    {
+      "id": "cq218-electronic",
+      "episode": 218,
+      "question": "Was Geniac confidently identified as the first home video-game system?",
+      "query": "Was Geniac confidently identified as the first home video-game system?",
+      "answer": "No. Tyler repeatedly qualifies any first claim and explicitly distinguishes this manually controlled educational electronic kit from a video-game platform. Tic-tac-toe and Nim are theoretical implementations, not games he demonstrated or played.",
+      "evidence_locations": [
+        "01:47:25",
+        "01:48:30"
+      ],
+      "forbidden": [
+        "Do not assert firstness or verified working game implementation."
+      ],
+      "status": "passed",
+      "reason": "Qualified electronic kit, not first video system or demonstrated games."
+    },
+    {
+      "id": "cq218-catalog",
+      "episode": 218,
+      "question": "Did Johnny oppose having a game catalog system at all?",
+      "query": "Did Johnny oppose having a game catalog system at all?",
+      "answer": "No. Tyler favors a shared reference even if imperfect; Johnny warns that bad or overcomplicated systems can do harm, then explicitly says he wants a system and trusts Joe. The Donkey Kong codes are hypothetical examples, not assigned catalog identifiers.",
+      "evidence_locations": [
+        "01:43:10",
+        "01:44:12",
+        "01:45:14",
+        "01:46:17"
+      ],
+      "forbidden": [
+        "Do not call this opposition to cataloging or treat example codes as real."
+      ],
+      "status": "passed",
+      "reason": "Both want catalog; disagreement over bad systems, fake examplecodes."
+    },
+    {
+      "id": "cq218-takeaways",
+      "episode": 218,
+      "question": "What practical changes did they recommend beyond buying more games?",
+      "query": "What practical changes did they recommend beyond buying more games?",
+      "answer": "They suggest goals grounded in genuine interest, checking enjoyment and harm, and contributing through content, research, scans, dumps or play. They also warn that leaving a large collection to someone is work, not automatically a gift of easy investment value. This is their discussion, not individualized financial or health advice.",
+      "evidence_locations": [
+        "01:19:43",
+        "01:20:49",
+        "01:21:52",
+        "01:22:55",
+        "01:23:58"
+      ],
+      "forbidden": [
+        "Do not diagnose collectors or guarantee investment outcomes."
+      ],
+      "status": "passed",
+      "reason": "Episode proposals not financial/health diagnosis."
+    },
+    {
+      "id": "cq218-prominence",
+      "episode": 218,
+      "question": "Which three individual games received the most discussion in CQ218?",
+      "query": "Which three individual games received the most discussion in CQ218?",
+      "answer": "Using unioned substantial-plus-supporting caption windows, the leaders are the baggie Ultima I discussion (259 seconds), Metroid (253) and Megamania (132). These are coarse window-coverage estimates, not exact speaking time, favorites or ownership ranks. Megamania is only narrowly ahead of nearby games under this metric; hardware such as Geniac, franchises and media are excluded from individual-game ranking.",
+      "evidence_locations": [
+        "01:02:35",
+        "01:03:43",
+        "01:04:47",
+        "01:05:51",
+        "01:06:54",
+        "01:29:21",
+        "01:33:38",
+        "01:34:42",
+        "01:35:42",
+        "01:36:49"
+      ],
+      "forbidden": [
+        "Do not rank Geniac hardware or game franchises as individual video games.",
+        "Do not present caption-window estimates as exact speech duration or imply the wanted Ultima was acquired.",
+        "Do not claim this is the substantial-only ranking."
+      ],
+      "status": "passed",
+      "reason": "Full source and changed span roles reviewed; qualified meaningful-window rank agrees with mapped prominence, not precise speech duration."
+    }
+  ]
+}

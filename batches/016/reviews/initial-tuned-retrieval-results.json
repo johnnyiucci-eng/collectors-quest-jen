@@ -1,0 +1,717 @@
+{
+  "passed": 57,
+  "total": 62,
+  "cases": [
+    {
+      "id": "cq022-roster",
+      "query": "Cam Sixteen Bit Toronto collection quality quantity complete box consoles six hundred",
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 4",
+        "Paragraph 5",
+        "Paragraph 6",
+        "Paragraph 7",
+        "Paragraph 51",
+        "Paragraph 52"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq022-origins",
+      "query": "Cam childhood Atari SNES RPG Wii Virtual Console repaired Nintendo Tetris",
+      "evidence_locations": [
+        "Paragraph 4",
+        "Paragraph 5",
+        "Paragraph 6"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq022-favorites",
+      "query": "Cam favorite Final Fantasy III VI Soul Blazer Castlevania Dr Mario NES SNES",
+      "evidence_locations": [
+        "Paragraph 16",
+        "Paragraph 17"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq022-turbo",
+      "query": "Cam Christmas TurboGrafx Genesis childhood Johnny Turbo Duo John wants",
+      "evidence_locations": [
+        "Paragraph 9",
+        "Paragraph 10",
+        "Paragraph 11",
+        "Paragraph 12",
+        "Paragraph 13"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq022-gaia",
+      "query": "Cam Illusion Gaia Zellers 9.97 one box lost Terranigma unplayed repro",
+      "evidence_locations": [
+        "Paragraph 19",
+        "Paragraph 20"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq022-survivors",
+      "query": "Cam old NES three two Tetris Mario 3 Back Future",
+      "evidence_locations": [
+        "Paragraph 22"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq022-rpgqueue",
+      "query": "Cam Lufia Twilight Princess HD Skies Arcadia Blazing Lazers first beat",
+      "evidence_locations": [
+        "Paragraph 28",
+        "Paragraph 29",
+        "Paragraph 35",
+        "Paragraph 36",
+        "Paragraph 37",
+        "Paragraph 41"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq022-pills",
+      "query": "Johnny sideways pills Dr Mario Dr Luigi wife friend Cam competitive",
+      "evidence_locations": [
+        "Paragraph 16",
+        "Paragraph 31",
+        "Paragraph 32",
+        "Paragraph 33",
+        "Paragraph 34"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq022-pinballamiibo",
+      "query": "Johnny Little Mermaid Pinball Frenzy twenty minutes Zelda HD amiibo opened joke",
+      "evidence_locations": [
+        "Paragraph 37",
+        "Paragraph 38"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq022-katgames",
+      "query": "Kat Paper Jam 3DS downstairs 2DS Borderlands wife Life Strange list",
+      "evidence_locations": [
+        "Paragraph 39",
+        "Paragraph 40",
+        "Paragraph 41"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq022-bundle",
+      "query": "Cam fourth Gamecube bundle two controllers Prime 2 Star Fox Four Swords Game Boy Player",
+      "evidence_locations": [
+        "Paragraph 41",
+        "Paragraph 42",
+        "Paragraph 43",
+        "Paragraph 44"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq022-katmilestone",
+      "query": "Kat N64 200 Gunstar Heroes WrestleMania Donkey Kong boxes manuals goal",
+      "evidence_locations": [
+        "Paragraph 44",
+        "Paragraph 45",
+        "Paragraph 46"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq022-disney",
+      "query": "Johnny bought Lizzie McGuire one two three Phil Raven Herbie Raven 2",
+      "evidence_locations": [
+        "Paragraph 46",
+        "Paragraph 47",
+        "Paragraph 48",
+        "Paragraph 49",
+        "Paragraph 50",
+        "Paragraph 51"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq022-lists",
+      "query": "Johnny Disney lists GBA seventy Game Boy thirty Star Wars Marvel Sleeping Beauty DS",
+      "evidence_locations": [
+        "Paragraph 46",
+        "Paragraph 47",
+        "Paragraph 48",
+        "Paragraph 49"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq022-prominence",
+      "query": "CQ22 top discussion Dr Mario Lufia Twilight Princess HD meaningful paragraphs",
+      "evidence_locations": [
+        "Paragraph 16",
+        "Paragraph 28",
+        "Paragraph 31",
+        "Paragraph 32",
+        "Paragraph 33",
+        "Paragraph 35",
+        "Paragraph 36",
+        "Paragraph 37",
+        "Paragraph 38"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq089-task-rank",
+      "query": "Dino Park Tycoon Stadium Events Mind Teaser rare CIB gift boxes",
+      "evidence_locations": [
+        "Paragraph 14",
+        "Paragraph 16",
+        "Paragraph 20",
+        "Paragraph 21",
+        "Paragraph 22",
+        "Paragraph 26",
+        "Paragraph 27",
+        "Paragraph 28",
+        "Paragraph 34",
+        "Paragraph 35",
+        "Paragraph 36",
+        "Paragraph 39",
+        "Paragraph 47",
+        "Paragraph 51",
+        "Paragraph 52",
+        "Paragraph 53"
+      ],
+      "missing_windows": [
+        "Paragraph 47"
+      ]
+    },
+    {
+      "id": "cq089-task-roster",
+      "query": "Stephan Stefan Archon 1981 pronunciation Kat Tyler Johnny",
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 80",
+        "Paragraph 81"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq089-task-scope",
+      "query": "full North American CIB 3DO 200 demos 170 172 Mental Messages",
+      "evidence_locations": [
+        "Paragraph 5",
+        "Paragraph 16",
+        "Paragraph 17",
+        "Paragraph 18"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq089-task-motivation",
+      "query": "Stephan wish fulfillment 700 parents Doom box art 3DO",
+      "evidence_locations": [
+        "Paragraph 11",
+        "Paragraph 12",
+        "Paragraph 13"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq089-task-rarity",
+      "query": "Lucien Quest Dino Park Tycoon Little Samson CIB two years rare price",
+      "evidence_locations": [
+        "Paragraph 14",
+        "Paragraph 15",
+        "Paragraph 16",
+        "Paragraph 26",
+        "Paragraph 27",
+        "Paragraph 28"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq089-task-golf",
+      "query": "ESPN golf Tom Kite Mental Messages proof purchase disc four",
+      "evidence_locations": [
+        "Paragraph 17",
+        "Paragraph 18"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq089-task-controllers",
+      "query": "Zad Nost Peoples Party Gold Star Panasonic controller daisy chain six buttons",
+      "evidence_locations": [
+        "Paragraph 18",
+        "Paragraph 20"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq089-task-media",
+      "query": "Mind Teaser Neuro Dancer Plumbers video Vivid Sex Woody",
+      "evidence_locations": [
+        "Paragraph 5",
+        "Paragraph 20",
+        "Paragraph 21",
+        "Paragraph 22",
+        "Paragraph 23"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq089-task-boxes",
+      "query": "Mind Teaser jewel case slip cover VHS Shelley Duvall bird life exterior flap",
+      "evidence_locations": [
+        "Paragraph 22",
+        "Paragraph 38",
+        "Paragraph 39",
+        "Paragraph 40",
+        "Paragraph 42",
+        "Paragraph 43"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq089-task-japan",
+      "query": "Virtual Cameraman police knots mouse Sailor Moon Super Famicom",
+      "evidence_locations": [
+        "Paragraph 24",
+        "Paragraph 25",
+        "Paragraph 26"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq089-task-gift",
+      "query": "Stephan wife gift Stadium events European PAL offer eBay",
+      "evidence_locations": [
+        "Paragraph 34",
+        "Paragraph 35",
+        "Paragraph 51",
+        "Paragraph 52",
+        "Paragraph 53"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq089-task-sixsets",
+      "query": "six sets Virtual Boy Super Nintendo NES Turbo cards 3DO Xbox",
+      "evidence_locations": [
+        "Paragraph 47",
+        "Paragraph 50",
+        "Paragraph 51",
+        "Paragraph 52",
+        "Paragraph 53",
+        "Paragraph 54"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq089-task-batteries",
+      "query": "lithium ion never leak Axe body spray Sharpie dry erase insurance",
+      "evidence_locations": [
+        "Paragraph 55",
+        "Paragraph 56",
+        "Paragraph 57",
+        "Paragraph 58"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq089-task-protection",
+      "query": "Odyssey 2 Mordorff 3DO box protectors Lethal Enforcers Justifier",
+      "evidence_locations": [
+        "Paragraph 58",
+        "Paragraph 59",
+        "Paragraph 60"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq089-task-tylerbuys",
+      "query": "Tyler Harvest Moon Troubleshooter Chrono Trigger DS coupon",
+      "evidence_locations": [
+        "Paragraph 64",
+        "Paragraph 70"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq089-task-guestbuys",
+      "query": "Stephan Sculptors Cut Steel Battalion PS2 PS1 Dreamcast",
+      "evidence_locations": [
+        "Paragraph 65",
+        "Paragraph 66"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq089-task-shipping",
+      "query": "Johnny Tyler Portland box post office Howlitt second adventure",
+      "evidence_locations": [
+        "Paragraph 66",
+        "Paragraph 67"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq089-task-johnnybuys",
+      "query": "Johnny bulk PS1 point blank gun con Namco Museum volume 2",
+      "evidence_locations": [
+        "Paragraph 68",
+        "Paragraph 69"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq089-task-coupon",
+      "query": "eBay speculation no insider 20 percent 8 percent aggregate price",
+      "evidence_locations": [
+        "Paragraph 69",
+        "Paragraph 70",
+        "Paragraph 71",
+        "Paragraph 72"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq089-task-play",
+      "query": "Galactic Attack beat Metroid map halfway Castlevania Frankenstein Evil Within 2",
+      "evidence_locations": [
+        "Paragraph 72",
+        "Paragraph 73",
+        "Paragraph 74",
+        "Paragraph 75",
+        "Paragraph 76",
+        "Paragraph 78",
+        "Paragraph 80"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq089-task-repro",
+      "query": "Stadium Events repro complete set denies words",
+      "evidence_locations": [
+        "Paragraph 73",
+        "Paragraph 74"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq089-task-films",
+      "query": "Dracula pinball Super Nintendo Sega CD Frankenstein Shelley Duvall Churchill",
+      "evidence_locations": [
+        "Paragraph 78",
+        "Paragraph 79",
+        "Paragraph 80"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq215-skill",
+      "query": "Why do they disagree about the hardest game to master?",
+      "evidence_locations": [
+        "00:00:00",
+        "00:01:01",
+        "00:02:05",
+        "00:03:07",
+        "00:04:13"
+      ],
+      "missing_windows": [
+        "00:02:05",
+        "00:03:07",
+        "00:04:13"
+      ]
+    },
+    {
+      "id": "cq215-gift",
+      "query": "How did Johnny get his first GameCube, and what did Tyler like about Metroid Prime?",
+      "evidence_locations": [
+        "00:18:12",
+        "00:19:19"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq215-launch",
+      "query": "Which games were available at US launch, and what would Tyler have chosen?",
+      "evidence_locations": [
+        "00:29:04",
+        "00:30:10"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq215-sunshine",
+      "query": "Why is Johnny down on Super Mario Sunshine?",
+      "evidence_locations": [
+        "00:23:38",
+        "00:24:41",
+        "00:25:45"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq215-set",
+      "query": "What counts toward their GameCube set, and what is optional?",
+      "evidence_locations": [
+        "00:26:52",
+        "00:27:57",
+        "00:29:04",
+        "01:11:38",
+        "01:33:07",
+        "02:02:43",
+        "02:03:45",
+        "02:05:53"
+      ],
+      "missing_windows": [
+        "01:11:38"
+      ]
+    },
+    {
+      "id": "cq215-player",
+      "query": "What should a Game Boy Player buyer keep separate?",
+      "evidence_locations": [
+        "00:36:31",
+        "00:37:34"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq215-expensive",
+      "query": "Which expensive GameCube items do they discuss, and are they calling them good buys?",
+      "evidence_locations": [
+        "00:46:05",
+        "00:49:18",
+        "00:50:22",
+        "00:52:32",
+        "00:53:35",
+        "00:54:38",
+        "00:55:39",
+        "00:57:53",
+        "00:58:59",
+        "01:01:07"
+      ],
+      "missing_windows": [
+        "00:46:05",
+        "00:49:18",
+        "00:50:22",
+        "00:52:32",
+        "00:53:35",
+        "00:54:38",
+        "00:55:39",
+        "00:57:53"
+      ]
+    },
+    {
+      "id": "cq215-colosseum",
+      "query": "What is unusual about the Pokemon Colosseum bonus-disc version?",
+      "evidence_locations": [
+        "01:02:10",
+        "01:03:12",
+        "01:04:14"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq215-uncommon",
+      "query": "What is their less-obvious GameCube watchlist, and did Tyler buy it?",
+      "evidence_locations": [
+        "01:05:14",
+        "01:06:14",
+        "01:07:17",
+        "01:08:21",
+        "01:09:27",
+        "01:10:30"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq215-potter",
+      "query": "Which Sorcerer’s Stone version are they discussing?",
+      "evidence_locations": [
+        "01:07:17",
+        "01:08:21",
+        "01:09:27",
+        "01:10:30"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq215-pac",
+      "query": "What is the CQ pick, why that version, and has Tyler received it?",
+      "evidence_locations": [
+        "01:10:30",
+        "01:11:38",
+        "01:12:44",
+        "01:13:47",
+        "01:14:52",
+        "02:53:37"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq215-pioneer",
+      "query": "What makes the Animal Crossing Pioneer edition desirable to Tyler?",
+      "evidence_locations": [
+        "01:22:15",
+        "01:23:22"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq215-boxes",
+      "query": "Which big boxes matter to them, and which are optional extras?",
+      "evidence_locations": [
+        "01:27:40",
+        "01:28:42",
+        "01:29:49",
+        "01:30:56",
+        "01:32:00",
+        "01:33:07"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq215-badge",
+      "query": "Does a Best Seller badge mean a later GameCube print?",
+      "evidence_locations": [
+        "01:35:11",
+        "01:36:15",
+        "01:37:19"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq215-comics",
+      "query": "What comic distinctions matter for Batman Dark Tomorrow?",
+      "evidence_locations": [
+        "01:48:01",
+        "01:49:05",
+        "01:50:06",
+        "01:51:06"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq215-bratz",
+      "query": "How complete is Johnny’s Bratz outfit collection?",
+      "evidence_locations": [
+        "01:52:11",
+        "01:53:17",
+        "01:54:20"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq215-japan",
+      "query": "Are Made in Japan GameCube copies better games?",
+      "evidence_locations": [
+        "01:58:36",
+        "01:59:40"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq215-controllers",
+      "query": "What controller tradeoffs do they raise?",
+      "evidence_locations": [
+        "02:12:21",
+        "02:13:29",
+        "02:14:32",
+        "02:15:33"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq215-console",
+      "query": "What special GameCube consoles are mentioned?",
+      "evidence_locations": [
+        "02:18:43",
+        "02:19:48",
+        "02:20:49",
+        "02:21:52",
+        "02:22:55",
+        "02:24:01",
+        "02:25:03"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq215-wii",
+      "query": "Do they still say Wii is simply a worse way to play GameCube?",
+      "evidence_locations": [
+        "02:28:19",
+        "02:29:21",
+        "02:30:21"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq215-offers",
+      "query": "Did Tyler buy the rare Famicom offer?",
+      "evidence_locations": [
+        "02:46:10",
+        "02:47:14",
+        "02:48:19"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq215-pickups",
+      "query": "What variants did Tyler actually add at the end?",
+      "evidence_locations": [
+        "02:53:37",
+        "02:54:41",
+        "02:55:43",
+        "02:56:47",
+        "02:57:47"
+      ],
+      "missing_windows": [
+        "02:55:43",
+        "02:56:47",
+        "02:57:47"
+      ]
+    },
+    {
+      "id": "cq215-monster",
+      "query": "How did Johnny complete Monster Rancher 4?",
+      "evidence_locations": [
+        "02:57:47",
+        "02:58:51"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq215-books",
+      "query": "What did Johnny buy besides games, and what is uncertain?",
+      "evidence_locations": [
+        "02:58:51",
+        "02:59:53",
+        "03:00:54"
+      ],
+      "missing_windows": []
+    },
+    {
+      "id": "cq215-cards",
+      "query": "What was Tyler’s Magic card purchase?",
+      "evidence_locations": [
+        "03:00:54",
+        "03:01:57"
+      ],
+      "missing_windows": []
+    }
+  ]
+}

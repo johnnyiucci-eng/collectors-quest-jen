@@ -1,0 +1,350 @@
+{
+  "schema_version": "1",
+  "selection_rule": "Before viewing new extraction records, select zero-based floor(N/4),floor(N/2),floor(3N/4) windows for each batch source; retain no-title windows. Read raw sources first, freeze identifiable contextual reference buckets, then compare.",
+  "independence": "Coordinator source-first selection; separate from episode extractors, not externally blind or statistically representative. Compound carts counted as contextual product buckets; explicitly named Donkey Kong components also retained.",
+  "status": "verified_27_of_27_reference_windows_covered",
+  "windows": [
+    {
+      "episode": 8,
+      "source_key": "sc-235355325",
+      "location": "Paragraph 7",
+      "text": "\nvery long, but you just, you know, with just X or Y, you know, A or B, you do this or you do this. I mean, you do have some other options. You can like look around, you’ve got the little cursor, you can move around. You know, mainly these were computer style games, but I played a lot of them. Yeah. Like Maniac Mansion and stuff. Another good one. Monkey Island. There’s a lot of point and click adventures I really like. I’m a fan of the genre. And then like later games, like Mist. I’m also a big fan of the Mist series. Yeah, I’m into it, but it’s not for everybody. Yeah, I think it’s a specific kind of thing. You either really like it or you really don’t is what I’ve come across for people. Like there’s not somebody who’s like, oh, yeah, I could play it or I could not play it. Right. So you’re just hanging out right now aside from doing this podcast, playing some Panic restaurant. So you didn’t get it as a kid. No. No. Found it as an adult from your tonic. But like what games, maybe we can talk about since we are going to the holiday season here, right? Where Canada still has Christmas, right? You guys have\n\n",
+      "references": [
+        {
+          "id": "batch002-ref-1-1",
+          "title": "Maniac Mansion",
+          "quote": "Maniac Mansion",
+          "reviewed_game_ids": [
+            "cq008-g010"
+          ],
+          "comparison_status": "covered_by_initial_reviewed_map"
+        },
+        {
+          "id": "batch002-ref-1-2",
+          "title": "Monkey Island (unspecified)",
+          "quote": "Monkey Island",
+          "reviewed_game_ids": [
+            "cq008-g011"
+          ],
+          "comparison_status": "covered_by_initial_reviewed_map"
+        },
+        {
+          "id": "batch002-ref-1-3",
+          "title": "Myst series (caption Mist)",
+          "quote": "Mist series",
+          "reviewed_game_ids": [
+            "cq008-g012"
+          ],
+          "comparison_status": "covered_by_initial_reviewed_map"
+        },
+        {
+          "id": "batch002-ref-1-4",
+          "title": "Panic Restaurant",
+          "quote": "Panic restaurant",
+          "reviewed_game_ids": [
+            "cq008-g004"
+          ],
+          "comparison_status": "covered_by_initial_reviewed_map"
+        }
+      ],
+      "exclusions": [
+        "Generic hardware, characters and unnamed lots do not create identified game buckets."
+      ]
+    },
+    {
+      "episode": 8,
+      "source_key": "sc-235355325",
+      "location": "Paragraph 14",
+      "text": "\nNintendo games and it might just be like one game that doesn’t fit. Oh no. And I’m like, like, okay, well if I take off seven box protectors out of these two shelves, like which games can not be in a box protector that I’m okay with that and then I can condense this one over and if I do that three times then I’ll have enough room for a game. Literally that’s the math I’m doing. Yeah. Yeah. You can tell when you do math for a job when you think about things in the game room in that much detail. Yeah. You know, just obsessively trying to get this just right. So anyways, that’s been my day with math. But as far as holiday gaming memories, mine are mixed bag. My childhood was not delightful growing up, but I was like every kid I pretty much looked forward to Christmas and my birthday. Those are the best times of year. Had some kind of crappy things happen. But you know, like I said, some of my favorite memories playing games happened in that time. And for me, my most prominent holiday memory is actually around Metroid, the original one for the Nintendo, which came out in 1986. I don’t know how I heard about this game because I\n\n",
+      "references": [
+        {
+          "id": "batch002-ref-2-1",
+          "title": "Metroid (NES)",
+          "quote": "Metroid, the original one for the Nintendo",
+          "reviewed_game_ids": [
+            "cq008-g017"
+          ],
+          "comparison_status": "covered_by_initial_reviewed_map"
+        }
+      ],
+      "exclusions": [
+        "Generic hardware, characters and unnamed lots do not create identified game buckets."
+      ]
+    },
+    {
+      "episode": 8,
+      "source_key": "sc-235355325",
+      "location": "Paragraph 21",
+      "text": "\nthat prevalent. Yeah. Now, Metroid sticks with me quite a bit. That’s awesome. So that’s my holiday gaming memory. You know, and you’ve got you’ve got Mario carts or not. I’m not sorry. Mario Cart Mario Party. Yeah. And now do you guys do you guys pick a random day or is that just like something you guys do at Christmas? No, it’s something we do at Christmas. It depends on when we usually never live, unfortunately, in the same place when it comes to Christmas time. So it depends on when she gets here, whether it’s before Christmas or after Christmas or if well, by the sounds of it, it may happen a couple times throughout Christmas because I’ve got a million texts about it so far. Okay. And is that something? Are you going to ever try and push her further out of it? Or are you just content to? Is it just the nostalgia? You just content to keep playing those three Mario Parties, the original ones? I think what I like about the fact that we play through those ones is there will be, you know, memories will be like, I remember that Christmas when so I think that’s nice. So I would like to try and get her to like maybe explore something a little\n\n",
+      "references": [
+        {
+          "id": "batch002-ref-3-1",
+          "title": "Metroid",
+          "quote": "Metroid sticks",
+          "reviewed_game_ids": [
+            "cq008-g017"
+          ],
+          "comparison_status": "covered_by_initial_reviewed_map"
+        },
+        {
+          "id": "batch002-ref-3-2",
+          "title": "Mario Party early trilogy",
+          "quote": "three Mario Parties",
+          "reviewed_game_ids": [
+            "cq008-g022"
+          ],
+          "comparison_status": "covered_by_initial_reviewed_map"
+        }
+      ],
+      "exclusions": [
+        "Mario Kart is immediately corrected to Mario Party; preserve correction, not a separate asserted tradition."
+      ]
+    },
+    {
+      "episode": 75,
+      "source_key": "sc-343883458",
+      "location": "Paragraph 15",
+      "text": "\nof awful sports games on the Super Nintendo. So I keep a list of consoles that I’m thinking about collecting of their price versus rarity so I could pick up all the cheap on common games. And on Super Nintendo, it’s just like a list of 100 bullshit sports titles. Yep. Yep, it’s pretty garbagy. Anyways, tell us the surprising data about what the most expensive games are. If you’re a hardcore Super Nintendo collector, you probably know this. Do you have very hardcore to know about Donkey Kong competition cart, which complete, according to game value now, is $2,800 and $2,807. And then number two is the Exertainment Double Pack Mountain Bike Rally Speed Racer for $2,427. Yep. If you want to know more about that, one of my first podcasts was about this one. The shady pickup I did to get it. I remember that. Yeah, it was roughly... It was a happy worked out. Yeah, me too. I’m glad I wasn’t chopped up and put in a gym bag. Send your hate mail about whether Donkey Kong competition cart counts for the Super Nintendo set to collect its best podcast. Yeah, we don’t actually have that email, but I should probably make it before someone does. Anyway, Donkey Kong competition, does it count? Sure, why not? Is\n\n",
+      "references": [
+        {
+          "id": "batch002-ref-4-1",
+          "title": "Donkey Kong competition cart",
+          "quote": "Donkey Kong competition cart",
+          "reviewed_game_ids": [
+            "cq075-g014"
+          ],
+          "comparison_status": "covered_by_initial_reviewed_map"
+        },
+        {
+          "id": "batch002-ref-4-2",
+          "title": "Speed Racer / Mountain Bike Rally combo",
+          "quote": "Exertainment Double Pack Mountain Bike Rally Speed Racer",
+          "reviewed_game_ids": [
+            "cq075-g015"
+          ],
+          "comparison_status": "covered_by_initial_reviewed_map"
+        }
+      ],
+      "exclusions": [
+        "Generic hardware, characters and unnamed lots do not create identified game buckets."
+      ]
+    },
+    {
+      "episode": 75,
+      "source_key": "sc-343883458",
+      "location": "Paragraph 30",
+      "text": "\nman. Hey, Odyssey 2, it’s real good. I don’t... We’ll discount it. It’s more powerful than it seems, even though it’s apparently super not powerful. I like that they’re saying Power Awards 2 is the most expensive game for it, which is like $160, which is most of the value of that system. That is true, but again, this is because they don’t count the buy it now. So the two in Magic games are Demon Attack and Atlantis, and those are games that just they never come up for auction. There’s just people with $100 buy it now for them. So they’re just fishing for someone to eventually be like, \"Spend $100 on this.\" So when is that going to be you? Probably when it’s my last game, because there’s also... There’s like Killer Bs, which I think there’s a $30 buy it now. I’m like, \"I’m not paying $30. Give me that $0.99 and no reserve auction. No one’s looking for this.\" I’m not a sucker, Johnny. I’m not a sucker. I’m not buying your stupid buy it now. Give me an auction. No one’s going to put those up for auction. It’ll happen. You have to find someone who doesn’t know anything about selling video games to put those up for auction. No one cares about Odyssey\n\n",
+      "references": [
+        {
+          "id": "batch002-ref-5-1",
+          "title": "Power Awards 2 (raw unresolved)",
+          "quote": "Power Awards 2",
+          "reviewed_game_ids": [
+            "cq075-g028"
+          ],
+          "comparison_status": "covered_by_initial_reviewed_map",
+          "identity_note": "Later Paragraph 31 explicitly says power lords; normalization has source support, raw selected-window wording retained."
+        },
+        {
+          "id": "batch002-ref-5-2",
+          "title": "Demon Attack",
+          "quote": "Demon Attack",
+          "reviewed_game_ids": [
+            "cq075-g029"
+          ],
+          "comparison_status": "covered_by_initial_reviewed_map"
+        },
+        {
+          "id": "batch002-ref-5-3",
+          "title": "Atlantis",
+          "quote": "Atlantis",
+          "reviewed_game_ids": [
+            "cq075-g026"
+          ],
+          "comparison_status": "covered_by_initial_reviewed_map"
+        },
+        {
+          "id": "batch002-ref-5-4",
+          "title": "Killer Bees (caption Killer Bs)",
+          "quote": "Killer Bs",
+          "reviewed_game_ids": [
+            "cq075-g030"
+          ],
+          "comparison_status": "covered_by_initial_reviewed_map"
+        }
+      ],
+      "exclusions": [
+        "Odyssey 2 is hardware; prices are historical reported values."
+      ]
+    },
+    {
+      "episode": 75,
+      "source_key": "sc-343883458",
+      "location": "Paragraph 45",
+      "text": "\nand I don’t hate it or anything yet. But I think it’s a game that you need to kind of invest a few hours into really playing to, to kind of get in the groove of it. So I’ve only been able to, to play it in drips and draps. So I’ve played it for like, maybe two hours total over like four sessions, which is not how I like to enjoy games. I like to, it seems like that’s the kind of game that would be like the worst thing to do is just play for a half hour at a time. Yeah. And it’s, it’s not one of those types of games, but I wanted to, to get some play into it to see if I enjoyed the theme. Cause a lot of times if I just don’t like the theme or if I hate the controls too much, I’m just like, no, I’m not, I’m not overly invested in it, especially I paid $11 for it. So I’m not going to beat myself up if I’m like, okay, done with this game. But now I’ve, I’m enjoying it so far. I have found a few tough moments, but I get to the point where I find some of it as hard because the controls are a little\n\n",
+      "references": [],
+      "exclusions": [
+        "Unnamed continued game assessment; no title in selected window. Adjacent context may legitimately continue a span."
+      ]
+    },
+    {
+      "episode": 201,
+      "source_key": "sc-1327980511",
+      "location": "00:39:32",
+      "text": "\nMaxi 15 seriously was a hell of a deal uh but stack and it came in an awful box like that silver terrible like tray like terrible yeah it's it comes in like a weird clam shell thing I don't know what's going on with it it's not a clam it's like liftoff top it's like your mom's like jewelry B gross it's a tin it's like a cookie tin that's what it's like it's like a comes in a tin all right sorry Johnny I've never opened mine mine sealed a look at me look at me all I have is Investments um I'm pretty sure I wanted it and like it was rare back when I wanted it and like it was basically just as easy to find it sealed as a loose cartridge cuz I was definitely collecting loose whenever I bought this um anyway there's an exclusive game called stack M so it has 14 existing games than one exclusive game so does Maxi 15 count for being mostly a multi pack with One exclusive game I'm definitely counting it I I know\n\n",
+      "references": [
+        {
+          "id": "batch002-ref-7-1",
+          "title": "Maxi 15",
+          "quote": "Maxi 15",
+          "reviewed_game_ids": [
+            "cq201-g038"
+          ],
+          "comparison_status": "identity_matched_coverage_verification_pending"
+        },
+        {
+          "id": "batch002-ref-7-2",
+          "title": "Stack M (raw unresolved)",
+          "quote": "stack M",
+          "reviewed_game_ids": [
+            "cq201-g039"
+          ],
+          "comparison_status": "identity_matched_coverage_verification_pending"
+        }
+      ],
+      "exclusions": [
+        "Generic hardware, characters and unnamed lots do not create identified game buckets."
+      ]
+    },
+    {
+      "episode": 201,
+      "source_key": "sc-1327980511",
+      "location": "01:20:02",
+      "text": "\nsuper strike super Spike volleyball and uh World Cup soccer gone uh absolutely yes three in one uh Super Mario gone mario.com world class track me gone okay um DK Classics gone absolutely that maybe the most controversial one cuz it's not exp it's not called Donkey Kong / Donkey Kong Jr it's called Donkey Kong what it is it is the same seem like its own thing but it's the same games it's the exact same games only the only reason you want Donkey Kong Classics on your list is one because it has the Box format that you like and two it's been drilled into your head that these 677 games they're all the ones that count get it out of here so and Super Mario duck hunt out yep and Sesame Street ABC 123 what why oh cuz that's a that's a double pack too that's a double pack oh almost forgot about that one oh I did O I have to add that to my list to be clear we're not getting rid of uh I'm not not getting rid like Quattro sports or calron 6 And1 cuz all those have\n\n",
+      "references": [
+        {
+          "id": "batch002-ref-8-1",
+          "title": "Super Spike / World Cup Soccer combo",
+          "quote": "super Spike volleyball and uh World Cup soccer",
+          "reviewed_game_ids": [
+            "cq201-g070"
+          ],
+          "comparison_status": "identity_matched_coverage_verification_pending"
+        },
+        {
+          "id": "batch002-ref-8-2",
+          "title": "Super Mario three-in-one (raw components unclear)",
+          "quote": "three in one",
+          "reviewed_game_ids": [
+            "cq201-g071"
+          ],
+          "comparison_status": "identity_matched_coverage_verification_pending"
+        },
+        {
+          "id": "batch002-ref-8-3",
+          "title": "Donkey Kong Classics",
+          "quote": "DK Classics",
+          "reviewed_game_ids": [
+            "cq201-g072"
+          ],
+          "comparison_status": "identity_matched_coverage_verification_pending"
+        },
+        {
+          "id": "batch002-ref-8-4",
+          "title": "Donkey Kong",
+          "quote": "Donkey Kong /",
+          "reviewed_game_ids": [
+            "cq201-g097"
+          ],
+          "comparison_status": "identity_matched_coverage_verification_pending"
+        },
+        {
+          "id": "batch002-ref-8-5",
+          "title": "Donkey Kong Jr.",
+          "quote": "Donkey Kong Jr",
+          "reviewed_game_ids": [
+            "cq201-g098"
+          ],
+          "comparison_status": "identity_matched_coverage_verification_pending"
+        },
+        {
+          "id": "batch002-ref-8-6",
+          "title": "Super Mario / Duck Hunt combo",
+          "quote": "Super Mario duck hunt",
+          "reviewed_game_ids": [
+            "cq201-g073"
+          ],
+          "comparison_status": "identity_matched_coverage_verification_pending"
+        },
+        {
+          "id": "batch002-ref-8-7",
+          "title": "Sesame Street ABC / 123",
+          "quote": "Sesame Street ABC 123",
+          "reviewed_game_ids": [
+            "cq201-g074"
+          ],
+          "comparison_status": "identity_matched_coverage_verification_pending"
+        },
+        {
+          "id": "batch002-ref-8-8",
+          "title": "Quattro Sports",
+          "quote": "Quattro sports",
+          "reviewed_game_ids": [
+            "cq201-g075"
+          ],
+          "comparison_status": "identity_matched_coverage_verification_pending"
+        },
+        {
+          "id": "batch002-ref-8-9",
+          "title": "Caltron 6-in-1",
+          "quote": "calron 6 And1",
+          "reviewed_game_ids": [
+            "cq201-g056"
+          ],
+          "comparison_status": "identity_matched_coverage_verification_pending"
+        }
+      ],
+      "exclusions": [
+        "Generic hardware, characters and unnamed lots do not create identified game buckets."
+      ]
+    },
+    {
+      "episode": 201,
+      "source_key": "sc-1327980511",
+      "location": "01:59:27",
+      "text": "\na console's lifespan or both at the end of a console's lifespan and the beginning of the next console's lifespan which version do you consider more collectible oo tough question give me some examples that are in Zelda games I think the obvious ones I think of Warriors Woods yes um the obvious ones are Zelda Twilight Princess was a GameCube game basically ported to Wii and then Zelda breath of the wild was a Wii U game ported to the switch every PS5 game oh [ __ ] all those oh but like see but I mean that's an excellent question for the P like yeah we these are all defined but think about like all this PS5 PS4 stuff that's going to be happening this I mean and there will be collectors there so think about it from that that's how I'm going to approach it man PS4 and PS5 are just like so like iterative and kind of the same thing uh like I don't even know how to answer that it's it's kind of because I'm not interested in that era of collecting so the the questions about like the Zelda\n\n",
+      "references": [
+        {
+          "id": "batch002-ref-9-1",
+          "title": "Wario’s Woods (candidate, raw Warriors Woods)",
+          "quote": "Warriors Woods",
+          "reviewed_game_ids": [
+            "cq201-g061"
+          ],
+          "comparison_status": "identity_matched_coverage_verification_pending"
+        },
+        {
+          "id": "batch002-ref-9-2",
+          "title": "Zelda: Twilight Princess",
+          "quote": "Zelda Twilight Princess",
+          "reviewed_game_ids": [
+            "cq201-g124"
+          ],
+          "comparison_status": "identity_matched_coverage_verification_pending"
+        },
+        {
+          "id": "batch002-ref-9-3",
+          "title": "Zelda: Breath of the Wild",
+          "quote": "Zelda breath of the wild",
+          "reviewed_game_ids": [
+            "cq201-g125"
+          ],
+          "comparison_status": "identity_matched_coverage_verification_pending"
+        }
+      ],
+      "exclusions": [
+        "Generic hardware, characters and unnamed lots do not create identified game buckets."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": "1",
+  "initial": {
+    "tuned": "49/50",
+    "original": "48/50",
+    "sample": "20/20"
+  },
+  "repairs": [
+    "Menu navigation played state downgraded to mentioned.",
+    "Pong aggregate summary joined already-evidenced firstness/popularity/preference/ownership; added19:07qualification.",
+    "Generic most-real-discussion routing; no question or required-window rewrite."
+  ],
+  "shared_regressions": {
+    "first": {
+      "tests": 195,
+      "failures": 1,
+      "test": "test_origin_and_correction_intents",
+      "cause": "Which collector bought this game misrouted as object acquisitions."
+    },
+    "final": {
+      "tests": 195,
+      "passed": 195,
+      "seconds": 61.909
+    }
+  },
+  "limits": "Fresh reviewer cases are development regressions once used; no live/audio certification."
+}

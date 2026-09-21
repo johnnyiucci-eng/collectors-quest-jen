@@ -1,0 +1,500 @@
+{
+  "schema_version": "1",
+  "review_scope": "Coordinator adjudicated every complete composed answer against primary source contexts; all three episodes read in full. Same-team development review, not external blind benchmark. Runtime context and exact answer snapshots checked separately.",
+  "cases": [
+    {
+      "id": "batch005-cq011-favorite",
+      "episode": 11,
+      "question": "Which Star Wars game did Johnny call his favorite, and why?",
+      "query": "Super Empire Strikes Back favorite lightsaber Force",
+      "answer": "In this episode Johnny answers Super Empire Strikes Back without hesitation. He connects it with his favorite Star Wars film and the satisfaction of having force moves and a lightsaber, recalling wanting a good Star Wars game with his cousin. That is his stated preference here, not Kat's favorite or proof his opinion never changed.",
+      "evidence_locations": [
+        "Paragraph 29",
+        "Paragraph 30"
+      ],
+      "forbidden": [
+        "Kat's favorite",
+        "Permanent archive-wide favorite",
+        "Current market recommendation"
+      ],
+      "status": "passed",
+      "reason": "P29–30 directly support Johnny's episode-specific Super Empire preference and remembered rationale."
+    },
+    {
+      "id": "batch005-cq011-naboo",
+      "episode": 11,
+      "question": "Did either host actually play Battle for Naboo, and how should its comments be used?",
+      "query": "Battle for Naboo Nimbu never played box",
+      "answer": "Neither host claims to have played it: Kat names it as her unplayed N64 entry and Johnny says he has not played it at all. Johnny's contribution is limited to having seen video and finding its box difficult to locate in good condition, alongside a dated relative-rarity claim. This is not a firsthand gameplay verdict or a verified current rarity ranking.",
+      "evidence_locations": [
+        "Paragraph 19",
+        "Paragraph 20"
+      ],
+      "forbidden": [
+        "Either host completed Naboo",
+        "Kat's negative gameplay review",
+        "Current rarity verified"
+      ],
+      "status": "passed",
+      "reason": "Both hosts deny Naboo play; video/box observations remain separate from firsthand review."
+    },
+    {
+      "id": "batch005-cq011-masters",
+      "episode": 11,
+      "question": "What happened to Johnny's Masters of Teräs Käsi copies?",
+      "query": "Masters Teres Kazi day one lent re-bought",
+      "answer": "Johnny reports buying the game day one and playing it in his military dorm. He later lent that copy out and never saw it again, then says he bought another for about five dollars. These are a first purchase, an unreturned loan and a later replacement—not a sale, a recovered loaned copy, or a verified exact purchase date.",
+      "evidence_locations": [
+        "Paragraph 23",
+        "Paragraph 24"
+      ],
+      "forbidden": [
+        "Loan was a sale",
+        "Original copy returned",
+        "Exact calendar purchase date"
+      ],
+      "status": "passed",
+      "reason": "P23–24 support first purchase, lost loan and replacement; no returned original or exact calendar date."
+    },
+    {
+      "id": "batch005-cq011-correction",
+      "episode": 11,
+      "question": "What Sega-platform correction and game-name correction should the lore preserve?",
+      "query": "Sega CD correct myself Vigilante Racer Vigilante 8",
+      "answer": "Johnny initially describes a Sega landscape dominated by Game Gear and 32X, then immediately adds Sega CD and Rebel Assault, including a 3DO version. Separately, he first calls Demolition's comparator Vigilante Racer, then checks and confirms Vigilante 8. The false start should remain correction history, not a second game identity or evidence that Sega CD had no Star Wars games.",
+      "evidence_locations": [
+        "Paragraph 11",
+        "Paragraph 12",
+        "Paragraph 22"
+      ],
+      "forbidden": [
+        "No Sega CD Star Wars",
+        "Vigilante Racer is another identified game",
+        "Externally verified first-release chronology"
+      ],
+      "status": "passed",
+      "reason": "Sega CD omission and Vigilante 8 correction retained, without treating false starts as true separate games."
+    },
+    {
+      "id": "batch005-cq011-checklist",
+      "episode": 11,
+      "question": "Was Johnny's Star Wars checklist already complete and published?",
+      "query": "checklist comprehensive accessories work in process",
+      "answer": "No completed publication is established. Johnny says he is revising earlier inaccuracies, has finished the Nintendo portion, and may post the document even while incomplete. He later explicitly says accessory coverage will not be comprehensive and invites missing items. The ambitious comprehensive language must be read with those limits, not as an accepted exhaustive inventory.",
+      "evidence_locations": [
+        "Paragraph 31",
+        "Paragraph 32",
+        "Paragraph 34",
+        "Paragraph 36"
+      ],
+      "forbidden": [
+        "Checklist fully published and verified",
+        "All accessories covered",
+        "No future revisions needed"
+      ],
+      "status": "passed",
+      "reason": "Checklist aspirations qualified by incomplete platform/accessory work and uncertain future posting."
+    },
+    {
+      "id": "batch005-cq011-playing",
+      "episode": 11,
+      "question": "What had Johnny and Kat actually played that day, versus only planned to try?",
+      "query": "played today Super Star Wars Shadow another go Leia",
+      "answer": "Johnny says he played through Super Star Wars that day and has been playing unspecified Battlefront intermittently. Kat says she gave Shadows of the Empire another go and still did not love it. Johnny may try the Game Gear Star Wars Leia level but explicitly has never played it; Kat likewise wants to try the 32X game she has never played. These future possibilities are not purchases or completed playthroughs.",
+      "evidence_locations": [
+        "Paragraph 29",
+        "Paragraph 30"
+      ],
+      "forbidden": [
+        "Kat played the Game Gear Leia level",
+        "All SNES trilogy games completed that day",
+        "Specific Battlefront release inferred"
+      ],
+      "status": "passed",
+      "reason": "P29–30 distinguish actual Super Star Wars/Battlefront/Shadows play from Leia-level/32X intentions."
+    },
+    {
+      "id": "batch005-cq011-variants",
+      "episode": 11,
+      "question": "Does the 32X NFR make another Star Wars game, and do Infinity figures count as games?",
+      "query": "NFR variant Disney Infinity 19 50",
+      "answer": "Johnny treats the 32X Star Wars Arcade NFR as a variant and tentatively describes it as a pack-in; Virtua Fighter is the other named NFR example, not another Star Wars title. The Disney Infinity discussion separately distinguishes about nineteen individual figures from about fifty variants plus starter/bundle configurations. Those are dated collectible-product counts, not fifty different video games or a current verified catalog.",
+      "evidence_locations": [
+        "Paragraph 30",
+        "Paragraph 31",
+        "Paragraph 33"
+      ],
+      "forbidden": [
+        "NFR is a new underlying game",
+        "Virtua Fighter is Star Wars",
+        "Fifty unique Infinity video games"
+      ],
+      "status": "passed",
+      "reason": "NFR remains edition variant; Infinity figures/variants are collectible products, not fifty video games."
+    },
+    {
+      "id": "batch005-cq011-ports",
+      "episode": 11,
+      "question": "What does the episode actually support about the NES, Master System and Game Gear Star Wars versions?",
+      "query": "Master System Nintendo Game Gear exclusive Leia",
+      "answer": "Johnny corrects his wording to call Master System Star Wars basically the Nintendo version, then says the Game Gear port adds an exclusive Leia level involving plans for R2. That supports a source-reported port-family link while preserving platform and content differences. It does not verify identical code, establish the Game Boy version as the same game, or prove Johnny had played the Leia level.",
+      "evidence_locations": [
+        "Paragraph 10",
+        "Paragraph 29"
+      ],
+      "forbidden": [
+        "Identical ROMs verified",
+        "GB version automatically merged",
+        "Johnny already played Leia level"
+      ],
+      "status": "passed",
+      "reason": "P10 source-reported NES/Master System/Game Gear link qualified; P29 confirms Leia nonplay."
+    },
+    {
+      "id": "cq078-task-figure",
+      "episode": 78,
+      "question": "Did Johnny finally buy the Monster in My Pocket figure?",
+      "query": "Monster Pocket figure hundred box",
+      "answer": "No acquisition is reported. Johnny says he opened his box after the earlier episode hoping the figure had been overlooked, but it was not there. They mention a roughly $100 eBay listing; that is an asking opportunity, not his payment or receipt.",
+      "evidence_locations": [
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5"
+      ],
+      "forbidden": [
+        "purchased figure",
+        "paid100",
+        "complete packin now"
+      ],
+      "status": "passed",
+      "reason": "P3–5 explicitly retain missing figurine and listing rather than payment."
+    },
+    {
+      "id": "cq078-task-coffins",
+      "episode": 78,
+      "question": "Which coffin items did Kat and Tyler choose, and did they own them?",
+      "query": "Splatterhouse Darkwatch coffin",
+      "answer": "Kat chooses the Splatterhouse PS3 press kit, describing a steel coffin, soundtrack and mask, and says she would like it. Tyler chooses Darkwatch's wooden coffin edition, reporting a forum-point acquisition system and an uncertain badge. Neither account establishes ownership. Darkwatch's 22,000-point cost and the highest member's 20,226 points are reported research, not a verified sale price.",
+      "evidence_locations": [
+        "Paragraph 6",
+        "Paragraph 7",
+        "Paragraph 8"
+      ],
+      "forbidden": [
+        "Kat owns presskit",
+        "Tyler paid22000 dollars",
+        "verified auctionprice"
+      ],
+      "status": "passed",
+      "reason": "Coffin picks and wants are not ownership; points are historical reported research, not dollars."
+    },
+    {
+      "id": "cq078-task-controllers",
+      "episode": 78,
+      "question": "Who wanted the Resident Evil4 chainsaw controller and who already had it?",
+      "query": "Resident Evil chainsaw Kat GameCube",
+      "answer": "Kat says she would like a chainsaw controller but does not own one. Johnny says he owns the GameCube version as a display piece and has never tried using it as a controller. Trying it with a Wii and making an Instagram story is suggested, not something this source confirms happened.",
+      "evidence_locations": [
+        "Paragraph 10",
+        "Paragraph 11"
+      ],
+      "forbidden": [
+        "Kat owns",
+        "Johnny daily controller",
+        "video already made"
+      ],
+      "status": "passed",
+      "reason": "Kat wants; Johnny owns unused display controller; proposed story/test not completed."
+    },
+    {
+      "id": "cq078-task-Rabbids",
+      "episode": 78,
+      "question": "Did Kat say she loved Rabbids?",
+      "query": "Kat Rabbids joke Life Strange",
+      "answer": "The apparent praise is teasing by another host, followed by explicit acknowledgment that it was a joke. Kat says she has never played the game being discussed. This should not become a positive preference claim, just as the Life Is Strange callback is not reliable evidence she enjoyed that game.",
+      "evidence_locations": [
+        "Paragraph 12",
+        "Paragraph 13"
+      ],
+      "forbidden": [
+        "Kat Rabbids favorite",
+        "Kat loves game"
+      ],
+      "status": "passed",
+      "reason": "Teasing praise and explicit joke/nonplay prevent positive Kat Rabbids preference."
+    },
+    {
+      "id": "cq078-task-mario-play",
+      "episode": 78,
+      "question": "Does CQ78 prove Tyler played Life Is Strange?",
+      "query": "Life Strange Super Mario Brothers2 played",
+      "answer": "No. Paragraph 29 immediately follows “I played Life is Strange” with a garbled denial/repair leading into Super Mario Bros. 2. The text lacks reliable turn punctuation, so it cannot safely certify Life Is Strange play. The Mario 2 discussion suggests a revisit, but the precise sentence boundary also remains unverified rather than being silently rewritten.",
+      "evidence_locations": [
+        "Paragraph 29"
+      ],
+      "forbidden": [
+        "Tyler definitely playedLife",
+        "definitely never playedLife forever",
+        "audio verified"
+      ],
+      "status": "passed",
+      "reason": "Garbled immediate denial makes Life Is Strange play unsafe to certify; no permanent negative invented."
+    },
+    {
+      "id": "cq078-task-saga",
+      "episode": 78,
+      "question": "Had Kat played her new Superstar Saga purchase, and was it a DS game?",
+      "query": "Superstar Saga Bowser Minions DS3DS",
+      "answer": "Kat says she got Mario & Luigi: Superstar Saga + Bowser's Minions, corrects DS to 3DS, and explicitly has yet to play it. She hopes to try it tomorrow. Discussion of the original GBA game's writing and tedious battles belongs to another host's older experience, not to a review of Kat's newly purchased copy.",
+      "evidence_locations": [
+        "Paragraph 32",
+        "Paragraph 33"
+      ],
+      "forbidden": [
+        "DS release",
+        "Kat completed",
+        "remake reviewafterplay"
+      ],
+      "status": "passed",
+      "reason": "Kat's 3DS correction and unplayed receipt are distinct from another host's original GBA experience."
+    },
+    {
+      "id": "cq078-task-expo-count",
+      "episode": 78,
+      "question": "Did Johnny buy40 TurboGrafx HuCards in Portland?",
+      "query": "Portland Retro Gaming Expo bought Turbo graphics games suitcase 22 40 100",
+      "answer": "No. Johnny rejects the 40-game/HuCard suggestion and says about 22 TurboGrafx games, some of which were CDs. He separately estimates roughly 80–100 games overall after describing purchases across several platforms. The total and TurboGrafx subset are different quantities, and the source does not give a complete individual-title purchase list.",
+      "evidence_locations": [
+        "Paragraph 33",
+        "Paragraph 34",
+        "Paragraph 35"
+      ],
+      "forbidden": [
+        "40HuCards",
+        "100Turbo",
+        "all titlesnamed"
+      ],
+      "status": "passed",
+      "reason": "Twenty-two Turbo games include CDs; overall eighty-to-hundred total not the same subset."
+    },
+    {
+      "id": "cq078-task-disc",
+      "episode": 78,
+      "question": "Which GameCube disc had the Atari Star Wars games?",
+      "query": "GameCube preview Rebel Assault Atari arcade",
+      "answer": "The hosts do not settle that. One guesses “Rebel Assault two or three,” another recalls buying a preview disc for the original Star Wars arcade game, and the first then questions his Atari/Empire memory. The exchange ends with an explicit admission they do not know. Keep the disc and inclusion identities unresolved instead of substituting a likely Rogue Squadron title.",
+      "evidence_locations": [
+        "Paragraph 41"
+      ],
+      "forbidden": [
+        "confirmed RebelAssault",
+        "confirmed RogueSquadron",
+        "all classicsincluded"
+      ],
+      "status": "passed",
+      "reason": "P41 ends explicitly unresolved; likely catalog identity not substituted for uncertain transcript."
+    },
+    {
+      "id": "cq078-task-pinball",
+      "episode": 78,
+      "question": "Did Johnny like every pinball he tried at Portland?",
+      "query": "Hobbit Mustang Metallica Scared Stiff",
+      "answer": "No. Johnny liked the Hobbit after about 30 minutes, enjoyed Scared Stiff and Metallica, but still disliked Mustang after giving it a try. Another host's preferences differ on Hobbit and Mustang. Johnny's enjoyment of Hobbit also does not prove he wanted to buy the large machine.",
+      "evidence_locations": [
+        "Paragraph 35",
+        "Paragraph 36"
+      ],
+      "forbidden": [
+        "unanimous pinballrating",
+        "bought Hobbit",
+        "all liked"
+      ],
+      "status": "passed",
+      "reason": "P35–36 preserve Johnny's liked/disliked pinball experiences and disagreement without purchase inference."
+    },
+    {
+      "id": "cq204-japanese-purchases",
+      "episode": 204,
+      "question": null,
+      "query": "What were Tyler’s two early Japanese computer purchases and why did the more obscure one cost more?",
+      "answer": "Tyler received first-release PC-88 Nobunaga’s Ambition after a two-year search, paying about $150 and assembling three different forms including a floppy-folder variant. From the same seller he also bought Hoi Hoi, paying about two to three times as much after Tiger Wolf’s encouragement. Hoi Hoi’s relevance to his genre-history collection supplied the reason: it is discussed as an early Stop That Roach antecedent with a hex grid, unlike the Game Boy game’s grid-based turn puzzle. These are dated purchase reports, not proof Hoi Hoi has a particular global print count.",
+      "evidence_locations": [
+        "01:23:52",
+        "01:24:53",
+        "01:25:54",
+        "01:26:55"
+      ],
+      "forbidden": [
+        "Do not substitute Kid Dracula for either of these two linked computer buys.",
+        "Do not claim exact Hoi Hoi paid total, print count, or identical Game Boy release."
+      ],
+      "status": "passed",
+      "reason": "Full source 01:23:52–01:26:55 supports the two linked computer purchases, approximate relative price, three versions and genre-history rationale; no global rarity certification."
+    },
+    {
+      "id": "cq204-dinosaur-followup",
+      "episode": 204,
+      "question": null,
+      "query": "Did Tyler eventually get the Dinosaur Rescue sticker variant?",
+      "answer": "Yes. In CQ204 Tyler explicitly says he got Jurassic Park Institute Tour Dinosaur Rescue and that he got the sticker variant. It follows CQ202’s discussion and sticker preference; that older passage did not establish a personal Tyler want. CQ204 retrospectively says the discussion made him need it. The new passage does not establish that he also obtained every exhibition bag or promotional item discussed earlier.",
+      "evidence_locations": [
+        "01:26:55"
+      ],
+      "forbidden": [
+        "Do not invent an explicit CQ202 wanted action from enthusiasm or recommendation.",
+        "Do not infer the exhibition carrier bag or full promotional bundle was acquired."
+      ],
+      "status": "passed",
+      "reason": "CQ204 01:26:55 explicitly confirms receipt/sticker. Coordinator also checked CQ202 discussion: no dated personal want can be asserted there; no bundle extras established."
+    },
+    {
+      "id": "cq204-rendering-purchase",
+      "episode": 204,
+      "question": null,
+      "query": "Did Johnny miss the Rendering Ranger R2 reissue?",
+      "answer": "No. Tyler initially thinks he missed it, but Johnny explicitly corrects him: he bought Rendering Ranger R2. The conversation separately mentions attempts to buy the expensive Japanese original. The supported current action is purchase of the reissue, not confirmed shipment or ownership of the original.",
+      "evidence_locations": [
+        "01:13:41",
+        "01:14:42",
+        "01:15:42"
+      ],
+      "forbidden": [
+        "Do not repeat the earlier missed-purchase assumption.",
+        "Do not turn reissue purchase into receipt or original ownership."
+      ],
+      "status": "passed",
+      "reason": "01:15:42 explicitly supersedes the preceding misunderstanding; purchase of reissue is separated from attempts at Japanese original and from receipt."
+    },
+    {
+      "id": "cq204-homebrew-state",
+      "episode": 204,
+      "question": null,
+      "query": "Did Johnny buy Whole Lot of Red, and had it arrived?",
+      "answer": "Johnny says he bought Whole Lot of Red after Tyler’s recommendation of the Game Boy horror homebrew. He does not know when it will be delivered, and they doubt it will arrive for Halloween. Record purchased, with receipt still unresolved. The earlier roughly 100-copy and $68 statements are dated claims, not verified current availability.",
+      "evidence_locations": [
+        "01:03:29",
+        "01:04:30",
+        "01:28:58",
+        "01:29:59"
+      ],
+      "forbidden": [
+        "Do not record it as only wanted or as already received.",
+        "Do not promise Halloween arrival or current stock."
+      ],
+      "status": "passed",
+      "reason": "Earlier recommendation and late explicit purchase/unknown delivery jointly support state, not arrival or current stock."
+    },
+    {
+      "id": "cq204-nba-case",
+      "episode": 204,
+      "question": null,
+      "query": "Was there really an NBA Elite 11 game available for $4,000?",
+      "answer": "The listing they inspect turns out to be an empty case, not the game. The episode corrects the apparent bargain immediately. Their broader claim that NBA Elite 11 is a stronger modern-rarity collectible than Poop Slinger is a host judgment, not a verified census of surviving copies.",
+      "evidence_locations": [
+        "01:05:30",
+        "01:06:32",
+        "01:07:33",
+        "01:08:35"
+      ],
+      "forbidden": [
+        "Do not use $4,000 as a completed game sale.",
+        "Do not assign either host ownership or a verified surviving-copy count."
+      ],
+      "status": "passed",
+      "reason": "01:05:30–01:08:35 contains the empty-case correction; judgment about desirability remains attributed, not sale or census."
+    },
+    {
+      "id": "cq204-hitchhiker-feelies",
+      "episode": 204,
+      "question": null,
+      "query": "What did Johnny pay for Hitchhiker and why was completeness notable?",
+      "answer": "Johnny paid $8 in an open auction for The Hitchhiker’s Guide to the Galaxy on Apple II, with the extra feelies. They mention the empty bag representing an invisible space fleet, pocket lint and cardboard shades as easy-to-lose components. Tyler’s C64 guess is rejected; exact IIc labeling and the earliest release platform are not settled by their conversation.",
+      "evidence_locations": [
+        "01:29:59",
+        "01:31:01",
+        "01:32:03",
+        "01:33:03"
+      ],
+      "forbidden": [
+        "Do not report $75 guessed price as the paid amount.",
+        "Do not turn the empty fleet bag into missing contents.",
+        "Do not claim externally verified first-platform chronology."
+      ],
+      "status": "passed",
+      "reason": "01:29:59–01:33:03 establishes Apple II, eight dollars and feelies; rejected C64/guessed price not propagated, chronology uncertainty retained."
+    },
+    {
+      "id": "cq204-kid-dracula",
+      "episode": 204,
+      "question": null,
+      "query": "Which Kid Dracula did Tyler buy and which version had he not played?",
+      "answer": "Tyler acquired a Konami Famicom Kid Dracula sample cartridge, adding it to his existing Contra and Metal Gear samples. He criticizes the Famicom game as slow and somewhat overrated. He explicitly says he has never played the Game Boy version; saying its pace may suit that handheld’s screen is speculation, not a comparative play review.",
+      "evidence_locations": [
+        "01:26:55",
+        "01:27:56",
+        "01:28:58"
+      ],
+      "forbidden": [
+        "Do not call sample cartridge an authenticated prototype.",
+        "Do not attribute first-hand Game Boy play to Tyler."
+      ],
+      "status": "passed",
+      "reason": "01:26:55–01:28:58 distinguishes new Famicom sample, existing samples and explicitly unplayed Game Boy version; speculative comparison remains such."
+    },
+    {
+      "id": "cq204-getting-up-manual",
+      "episode": 204,
+      "question": null,
+      "query": "Why does Tyler still care about a missing Getting Up manual if he owns another copy?",
+      "answer": "His Xbox limited edition of Marc Ecko’s Getting Up lacks its manual even though he owns the standard edition. That unresolved incompleteness still bothers him. He prefers complete variants because supposedly identical components can hide differences, and piecing copies together can be wrong; he does not report buying the missing manual or fixing the limited edition.",
+      "evidence_locations": [
+        "01:20:50",
+        "01:21:52",
+        "01:22:52"
+      ],
+      "forbidden": [
+        "Do not mark the limited edition complete.",
+        "Do not infer a replacement order or verified compatibility of all components."
+      ],
+      "status": "passed",
+      "reason": "01:20:50–01:22:52 supports continuing missing manual despite standard edition; no replacement transaction invented."
+    },
+    {
+      "id": "cq204-mega-man-return",
+      "episode": 204,
+      "question": null,
+      "query": "Besides the main price comparison, what late Mega Man points do they add?",
+      "answer": "In the outro they add that Mega Man’s famously bad box art is itself iconic and gives it notoriety. During patron acknowledgments they then explain the Yellow Devil pause/unpause damage trick as another recognizable feature absent from their Gotcha Force comparison. Those are meaningful late returns, not merely game names in a patron list.",
+      "evidence_locations": [
+        "01:38:23",
+        "01:40:27",
+        "01:41:27"
+      ],
+      "forbidden": [
+        "Do not treat all patron windows as noise.",
+        "Do not infer a host just completed the boss or that the trick applies to every sequel."
+      ],
+      "status": "passed",
+      "reason": "Full late-source reading confirms explicit box-art addition and Yellow Devil explanation among credits, not just patron names."
+    },
+    {
+      "id": "cq204-doom-myst",
+      "episode": 204,
+      "question": null,
+      "query": "Do they agree on the best collectible computer game?",
+      "answer": "No single objective winner is established. Tyler picks the mail-order Doom release using rarity, historical relevance and continuing genre importance; Johnny argues for Myst’s broad recognition. Tyler says he owns around twelve Myst copies, so his preference for Doom is not proof he dislikes or does not collect Myst. Half-Life is another answer Tyler accepts, while Zork receives a relevance objection.",
+      "evidence_locations": [
+        "01:34:05",
+        "01:35:06",
+        "01:36:07",
+        "01:37:07"
+      ],
+      "forbidden": [
+        "Do not turn the criteria argument into an investment guarantee.",
+        "Do not say Tyler lacks Myst or the hosts unanimously pick it."
+      ],
+      "status": "passed",
+      "reason": "01:34:05–01:37:07 is a criteria disagreement: Tyler Doom, Johnny Myst, Tyler approximately twelve Myst copies; no consensus or investment claim."
+    }
+  ]
+}

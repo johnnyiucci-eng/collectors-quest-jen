@@ -1,0 +1,11 @@
+# CQ208 coordinator source review
+
+Coordinator read all 128 supplied caption windows: first all 41 distinct composed-answer checkpoints, then all 87 remaining windows in source order. This supplements the extractor's full consecutive source-first read. No audio, external catalog authentication, shopping action or private source was used.
+
+All twelve full prose answers are supported with their stated uncertainty. Gift suggestions and purchase history remain separate; four Undertale plays are not four copies. Sierra One/Zero color advice is not reversed. GameCube Animal Crossing belongs to Johnny's wife's anecdote, not the preceding New Horizons ornament. Neither host owns the Steam Deck; the benchmark is looked up, and Arcade1Up criticism explicitly has limited hands-on scope. The positive cabinet-art assessment remains beside criticism.
+
+The late purchase/play section explicitly preserves earliest-known versus authenticated first Zelda, four-dollar Cable card versus another Game Gear game, invented Modern Warfare DLC versus actual complaints, and Sonic appearance-based interest versus completed play. All patron windows were read; Evil Twin is genuine intervening discussion, while patron handles alone do not establish purchases or host opinions.
+
+Additional full-source boundaries: the Sonic/Callisto closing preference does not erase current Ultima V/Divinity play; 50 hours in Divinity's second run with Ada is not completion. About twenty soundtrack records are owned even though Tyler does not identify as a record collector. Gimmick pins, Lego scenes, ornaments, soundtrack LPs, reference books and physical pinball remain typed products rather than inflated individual-game discussion. Early small-cake pronunciation, gift stress, stockings, household-name correction and sentimentality remain public episode lore, not private-history enrichment or literal diagnoses.
+
+Initial runtime retrieval was 28/31. Three compact semantic/raw-form query repairs recovered all required windows without removing evidence requirements. Separate independent peer reviews cover all CQ15 and CQ82 source text; this note records the additional full CQ208 coordinator read, not a blind benchmark.

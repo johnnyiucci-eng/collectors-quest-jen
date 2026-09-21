@@ -1,0 +1,45 @@
+# CQ130 — extraction audit and practical brief
+
+A1–A6 extractor work is complete. **A7/A8 integration, regression, independent acceptance and exact binding belong to the coordinator.** This is the extractor's same-agent desk review, not an independent audit of my own extraction or a live cohost rehearsal. The research skill required the primary-source read and this durable cited report.
+
+## Source, timing and coverage
+
+[Supplied CQ130 transcript](../../../library/episodes/cq-130-sc-694609366.md): 95 untimed paragraphs, 20,803 manifest words; publication 2019-10-12. Recording is explicitly October 1 in P7. SHA-256: `36c4ca812cb38d3d763aa55ccec650253265bf3073c3c9f675bb73c317e93cf5`.
+
+Reviewer `reviewer130` read the full source before drafting, **0 → 34 → 60 → 85 → EOF**, between **18:40:25 and 18:41:11 UTC**, September 14, 2026. First display transport clipped P16–19; those exact retained windows were recovered before proceeding, not silently counted as read. Extraction began 18:41:11; first record staged 18:50:46; map/preflight ready 18:54:16; answers composed by 18:58:42 and the final port-family correction landed 19:00:11. Readability repairs ended 19:05:47; final cheap checks completed 19:06:10. Concurrent root reading is not added to these elapsed intervals.
+
+The final inputs contain **150 reference buckets, 301 spans, 95 section accounts, 101 action claims, 44 lore entries, 26 corrections/safeguards, 19 flags, 6 lists / 31 memberships, and 14 complete answers / 91 grouped checkpoints**. Quiet sections and split returns are mapped. Contextual reference speakers: Johnny 57, Tyler 97, Stephan 41, unknown/mixed 106. Stephan is the existing canonical person spelling supplied by the coordinator; literal Stefan/Stephen captions remain untouched.
+
+## Practical pre-show brief
+
+The actual thirteen-game list mixes console and computer collecting; it is neither exhaustive nor a verified rarity ranking. NES Castlevania and Chronicles intentionally bookend it. Echo Night remains selected despite the closing “12 games plus Echo Night” joke; Haunting Ground is a contextual PS2-trio member, and Bubble Ghost was an alternative idea rather than an extra selection. Six typed lists preserve these distinctions and Mystery House's four releases instead of deriving choices from duration. [P7–8](../../../library/episodes/cq-130-sc-694609366.md#paragraph-7), [P43–44](../../../library/episodes/cq-130-sc-694609366.md#paragraph-43), [P65–70](../../../library/episodes/cq-130-sc-694609366.md#paragraph-65)
+
+Useful corrections are the distinction between a Castlevania hang-tab box and its cartridge print; Monster Manor footage watched rather than played; the editor's explicit Koudelka/Echo Night 2 retraction; Ju-on's Wii U slip corrected to Wii; and the fact that Mystery House's 1980 copyright does not establish its first release. Koudelka's $50–60 versus $90 and the sealed Ninja Gaiden III auction's $1,700 versus $700 remain unresolved source inconsistencies. [P9–17](../../../library/episodes/cq-130-sc-694609366.md#paragraph-9), [P35–38](../../../library/episodes/cq-130-sc-694609366.md#paragraph-35), [P48–56](../../../library/episodes/cq-130-sc-694609366.md#paragraph-48), [P90](../../../library/episodes/cq-130-sc-694609366.md#paragraph-90)
+
+Action-aware recall should retain Stephan's **cart-only** Virtual Boy set, still-one-short black-label GameCube set, actual Wii U lot and turquoise Switch Lite purchases, and future Portland plans. Johnny's Avenging Spirit offers failed, but his Kid Dracula purchase succeeded; Ninja Taro's manual came separately. Tyler's FDS Mario is reported sealed and outer-box complete, with a $150 bid/$60 win in context; Chase the Chuck Wagon and current CIB Robot Tank are bought, while expensive sealed wants remain unbought. [P28–34](../../../library/episodes/cq-130-sc-694609366.md#paragraph-28), [P42–43](../../../library/episodes/cq-130-sc-694609366.md#paragraph-42), [P71–84](../../../library/episodes/cq-130-sc-694609366.md#paragraph-71), [P89–95](../../../library/episodes/cq-130-sc-694609366.md#paragraph-89)
+
+Stephan and Johnny completed the **Switch remake** of Link's Awakening, not thereby the original. Tyler's racing account opens with Horizon 4 but drifts into Motorsport wording; that conflict stays qualified. The $3, $13 and $23 car-pack gates are not reported purchases, and theoretical subscription costs are not actual charges. [P74–76](../../../library/episodes/cq-130-sc-694609366.md#paragraph-74), [P85–88](../../../library/episodes/cq-130-sc-694609366.md#paragraph-85)
+
+Reusable chemistry is documented, not invented: bangers/yeet/true-first-print banter, Johnny's dog-damaged Rule of Rose callback, an unnamed future Lovecraftian Virtual Boy tease, Christmas crossover planning, pending variant decisions and Portland panel/display plans. Stephan's walnut concern is his report and suspicion, not a proven perpetrator or legal/veterinary conclusion. A useful editorial follow-up would ask which pending purchases actually arrived; that is a proposal, not already documented history. [P2–8](../../../library/episodes/cq-130-sc-694609366.md#paragraph-2), [P13–14](../../../library/episodes/cq-130-sc-694609366.md#paragraph-13), [P23–24](../../../library/episodes/cq-130-sc-694609366.md#paragraph-23), [P30–33](../../../library/episodes/cq-130-sc-694609366.md#paragraph-30), [P92–94](../../../library/episodes/cq-130-sc-694609366.md#paragraph-92)
+
+## Ranking, initial defects and limits
+
+The final meaningful-paragraph union places **Rule of Rose and Mystery House at seven each**. Third place is tied at **six** among Koudelka, Echo Night, NES Castlevania and the stated Chronicles/Sharp X68000 port family: six displayed identities at a top-three cutoff. No fabricated minutes or arbitrary winner. The source explicitly calls Chronicles a Sharp port; its reference platforms and purchase qualifiers remain separate. P79's new-copy interruption is passing, not additional discussion credit. Hardware, packaging-only products, series, compilations, television and music remain outside individual-game ranking. [P20–26](../../../library/episodes/cq-130-sc-694609366.md#paragraph-20), [P53–58](../../../library/episodes/cq-130-sc-694609366.md#paragraph-53), [P62](../../../library/episodes/cq-130-sc-694609366.md#paragraph-62), [P66–71](../../../library/episodes/cq-130-sc-694609366.md#paragraph-66), [P79](../../../library/episodes/cq-130-sc-694609366.md#paragraph-79)
+
+Actual repairs, preserved rather than erased:
+
+- Phantasmagoria P58 was initially passing; its selection, form and premise merit supporting coverage.
+- Lore019's “latter game” could point to Shadow Hearts instead of the Magic of Scheherazade candidate. It now names the intended game. Lore021 now has an explicit open-loop type.
+- Correction c16's universal French-text inference was not a host assertion; it is now an explicitly labelled analyst safeguard.
+- The first map separated Chronicles/Sharp and overcredited P79. The repaired port-family union expands the third-place tie from three to four identities; the full answer reflects that source correction.
+- Draft action references at the final inventory tail were off by one; this was caught and repaired before the first annotation/preflight.
+- Action prose had concatenated words. All 101 titles/summaries were reviewed and made readable; root reported 186 changed title/summary fields with unchanged actors, states, qualifiers and evidence. Seventy-four repeated reference-context/reason strings also received prose-only spacing cleanup. A first spacing-patch invocation had a JavaScript syntax error before any edit; the corrected invocation succeeded.
+
+The same-agent denominator is **301 recorded occurrences mapped / 301 recorded occurrences**, across 150 buckets and all 95 paragraphs. It is not an independently proven 100% recall rate. Root separately reported its first staged frozen sample at **25/25**, with no actual omitted reference found so far; this extractor did not inspect or design that sample. Specific caption identities, prices, port-history claims and unlabelled actors remain flagged.
+
+## Checks and handoff
+
+Early preflight passed before answer composition, with 1,194 exact proofs then. The final local run passed schema, **195 literal spoken forms, 95 section accounts, 301 reference mappings, 301 typed spans, 31 memberships and 1,341 exact quote/location proofs**, zero failures. All 14 original questions still equal their queries. Their 91 grouped material checkpoints were checked by the extractor; root separately reported reading and passing all 14 full answers. Neither measure is a blind atomic-accuracy claim.
+
+Actual answers live only in the annotation task cases, with full prose, required locations, exact evidence and forbidden inferences. This brief is a desk-usefulness review, not a live rehearsal. No frozen root question changed, no other episode was edited, and no web/audio/paid/private/GH/persona operation, DB build or shared-suite execution was performed by this worker. Coordinator integration and exact acceptance remain the next bounded step.
+

@@ -1,0 +1,57 @@
+# CQ84 — independent full-source peer review
+
+Research skill guided a complete read of the [supplied CQ84 transcript](../../../library/episodes/cq-084-sc-395702904.md), all **46 paragraphs** in four ordered blocks (P1–12, P13–24, P25–36, P37–46), before inspecting extraction. This reviewer did not extract CQ84. Parent supplied the task focus and current 95-bucket/153-span counts, not a map or answer key. No audio, external research, paid services or owner-file edits.
+
+Before extraction/query inspection, authored [six fresh natural questions](routing-paraphrases084.json) with expected windows and forbidden inferences. They are source-informed validation wordings, not blind-to-source questions. Routing code was not consulted. Root must preserve unchanged-query results separately.
+
+Frozen source-first probe: P45's **nine named acquisition buckets** are Johnny's Rayman 3, unspecified Spyro, Kelly Slater, raw Rappella fishing, Spider-Man 2, Monopoly Party, Cabela's deer hunt, corrected SpongeBob Lights Camera Pants, and Tyler's Halo 2 Platinum Hits. The hundred-game count corrects to PS1, not Xbox. MUSHA in the same paragraph is a returned prior pickup/want-to-play, not a tenth new acquisition there.
+
+Other frozen boundaries: game-themed hardware is not game coverage; P7 Johnny's Shining Force play/Genesis setup; P21 Pikachu box not automatically a purchased console; P24–25 Gears memories not hardware ownership; P27 liked FF15 console does not mean liked game; P33 future Cuphead physical version not shipped; P35 won Rollo auction but not played; P36 tentative Johnny PYST ownership; P37–38 Eleste-series nonplay corrected by Sega CD recollection; P40–42 Tyler physical pinball event versus Johnny software play; P44 Labo invention/email joke not actual product or sent message.
+
+## Extraction comparison
+
+Read all 95 retained bucket identities and all 153 span roles/locations, all 66 action summaries with their evidence locations, roster/lore summaries, all twelve actual answers and the complete practical brief after the primary-source read. Existing task queries were excluded from inspection output. The initial frozen P45 probe is **9/9 named acquisition buckets mapped and 9/9 actors correctly distinguished**. This is the nine-bucket acquisition probe, not an independently frozen 95-item recall denominator.
+
+### Material findings sent to owner and root
+
+1. **Rank answer/map mismatch.** The initial map and qualified leaders gave The Pinball Arcade two meaningful paragraphs (P40 and P43), but the actual rank answer and audit's six-way third-place tie omitted it. With that map unchanged, there were seven third-place ties, so the complete-answer claim was false even though every title it did name was individually supported. On source re-reading, the P43 question “What did you play in pinball arcade?” is immediately clarified to testing “the stern pinball arcade one.” The owner agrees that original-title P43 credit should be passing, while Stern retains its substantial P43 coverage. This is a real initial answer/map failure; repair must update the durable role inputs and leaders, not just omit a competing game from prose. [Source P40 and P43](../../../library/episodes/cq-084-sc-395702904.md).
+2. **New Leaf misclassified as an individual game.** Initial g012 has `entity_granularity: individual_game` and its P7 span is `video_game`. The source merely compares buying a “new leaf cart” with buying a Framemeister. It does not identify software named New Leaf. This should be hardware with an explicit prior-source rationale, or an unresolved reference if only this local passage is used. Canonical CQ83 already described the programmable cartridge; a hardware interpretation must not be confused with an Animal Crossing title. Passing role means this did not change current meaningful duration, but the false individual-game identity still affects lookup. [CQ84 P7](../../../library/episodes/cq-084-sc-395702904.md), [CQ83 P41–43](../../../library/episodes/cq-083-sc-388300934.md).
+3. **Remaining-set platform too definite.** The current PS1 answer and action057 assign the several-hundred remaining count confidently to PS1. P45 runs “I’m still several hundred away for Xbox. I bought Rayman three” in unlabelled, machine-punctuated text. It can be read as the end of the PS1 thought followed by an Xbox-list transition, but the text does not securely settle that punctuation. Preserve the explicit correction of about 100 purchases to PS1, and qualify which set has several hundred remaining. This does not make the eight named Xbox pickups or Tyler's Halo purchase ambiguous. Owner agrees to narrow the remaining-count wording. [Source P45](../../../library/episodes/cq-084-sc-395702904.md).
+
+The reviewer did not edit owner records or annotations. Initial defects remain recorded here after any repair.
+
+### Coverage, identities and hardware/game separation
+
+The full source read found no additional definite named software omission beyond the retained inventory. That is a qualitative review, not a claim of independently measured 100% archive recall. The frozen nine-item P45 probe and separate mapping/actor scores above are the actual quantified omission test.
+
+The hardware-heavy first half is generally handled correctly: R2-D2/Xbox, MGS4/PS3, Minecraft/Xbox, FF15/PS4, Batman/PS4, Halo/Xbox, Gears consoles and Zelda Wii U are product records, not automatically game-play discussions. Independent game evidence exists where they actually discuss Kinect Star Wars, Shining Force, GT5, MGS4, Minecraft or FF15. The Zelda GamePad decoration does not silently create a named Wind Waker game occurrence. Hypothetical Cheeto/Doritos hardware and Labo vertical pinball remain hypothetical products. New Leaf is the one definite type failure found in this pass. [P6–8, P12, P15–16, P24–29, P44](../../../library/episodes/cq-084-sc-395702904.md).
+
+The original WoW versus subsequent-release stock, Minecraft game versus franchise, actual game purchases versus artwork, and physical versus software pinball distinctions are useful. Unknown Zelda, Spyro, Donkey Kong bundle, Zen release and raw Aleste/Sol-Feace guesses stay qualified. The game-leader ordering is an untimed paragraph measure, not minutes. MUSHA's four and Pyst's three meaningful paragraphs are defensible; several two-paragraph games share the cutoff, and the repaired Pinball Arcade boundary is essential to reporting that tie correctly.
+
+All 46 source sections are accounted for, including quiet introduction, general design economics and signoff. Independent local validator calls returned **46 accounted sections, 153 mapped reference pairs and 153 explicit-kind spans**, plus passing record schema. Structural completeness alone did not catch the semantic New Leaf type or ranking-answer inconsistency.
+
+### Action and actor review
+
+Reviewed all 66 current action rows. The nine P45 purchases map to eight Johnny rows and one Tyler row, rather than following paragraph-level speaker attribution blindly. Source-supported distinctions retained include:
+
+- Johnny's R2-D2 use and office Genesis do not imply he sold or disconnected his Genesis. Tyler's controller repair failure is not a replacement purchase. [P7–8](../../../library/episodes/cq-084-sc-395702904.md).
+- Tyler uses grape N64 despite preferring gray in principle; Johnny uses gold N64. Childhood gold-controller memories are not certified present ownership. [P13–14](../../../library/episodes/cq-084-sc-395702904.md).
+- Johnny displays a Pikachu box for his wife's affinity; the exact matching console and her name are not established. His Gears gameplay is separate from Tyler's roommate-era blanket. [P21, P24–25](../../../library/episodes/cq-084-sc-395702904.md).
+- Cuphead co-op with an unnamed friend is a little more than halfway, not finished. A previously bought “little thing” is not an ordered final physical Switch release. [P32–33](../../../library/episodes/cq-084-sc-395702904.md).
+- Rolo is an auction win around $30 with joking nonplay intent, not a play session. Johnny's Pyst possession remains tentative; the Pyst/Myst pronoun is unresolved and no PC-game gift was agreed. [P34–37](../../../library/episodes/cq-084-sc-395702904.md).
+- Aleste nonplay is corrected by recalling the Sega CD entry, eventually named Robo Aleste. Sol-Feace is a rejected guess, not proof of that game's play. A requested extra Crusader is wanted, not bought; no extra for sale does not mean Johnny lacks his personal copy. [P37–38](../../../library/episodes/cq-084-sc-395702904.md).
+- Johnny's digital Stern/Zen discussion is not Tyler's physical state championship. Tyler reports four first-round losses, not a seventh-place finish or championship win. Opponent ranking, qualification rules and presumed motive are reported/unverified. [P40–44](../../../library/episodes/cq-084-sc-395702904.md).
+
+No definite completed sale, return, final Cuphead physical receipt, hypothetical Labo product acquisition or actually sent child-email is established. No additional definite unsupported positive acquisition/play actor was found beyond the count-platform overstatement above. This conclusion is limited to the reviewed source, not an assertion that every inference is audio-confirmed.
+
+### Actual answers and written usefulness
+
+The initial twelve actual answers were checked, not merely their expected terms. **10/12 current answers pass the full source-support/completeness check without requested revision**. The ranking and PS1-count answers need the specific repairs above. Among **54 grouped expected-fact checkpoints**, the incomplete third-place listing fails one (**53/54** at this peer snapshot); the over-specific remaining-count platform is an additional material sentence-level issue not separately enumerated by those expected-fact groups. This is why checklist hits alone are insufficient. Earlier extractor ranking repairs do not erase this later peer finding.
+
+The remaining answers correctly cover roster/scope, couch Shining Force, console/game opinion divergence, reported orange-Halo provenance, Cuphead progress/physical uncertainty, Tyler purchases, Aleste correction, pinball actors, future loops and tentative Pyst ownership. The brief is practically useful: design visibility versus boxes, favored-game association versus hardware aesthetics, Pyst/gray-case excitement versus expensive MUSHA, and actual play or future follow-ups. It avoids guaranteed appreciation, verified rarity totals, fabricated Kat participation and live-rehearsal claims. Rank repair must also reach the written audit table; the brief itself does not rely on the defective cutoff.
+
+### Literal validation and fresh questions
+
+At the initial peer snapshot, **564/564 quote/location objects** occur literally in the named paragraph and **96/96 spoken forms** occur literally in the full supplied source. Both JSON files parse. These measurements are independent local executions, not copied from the owner's reported counts.
+
+The [six fresh question wordings](routing-paraphrases084.json) were frozen before any current extraction or task-query inspection. They ask about the R2-D2 console versus bad bundled game, Tyler's pickup excitement, PS1 count versus Halo actor, Lost Sphear stock, Zelda GamePad decoration and pinball opponent versus placement. Source-informed expectations are preserved unchanged. Root runs them through the normal interface and retains initial failures; no routing pass is claimed here. A7/A8 remain root-owned.

@@ -1,0 +1,52 @@
+{
+  "schema_version": "0.1",
+  "created": "2026-09-13",
+  "status": "captured_text_review_complete",
+  "selection_basis": "Second era-varied batch in requested three-hour continuation; sequential lanes, not reserved-answer driven.",
+  "budget": "Local supplied public transcript files only; no paid services/publication/private imports/persona changes.",
+  "episodes": [
+    {
+      "key": "sc-244857076",
+      "episode_number": 17,
+      "title": "Episode 17 - SPORTSBALL!!! and Rare Sports Game",
+      "date": "2016-02-01",
+      "path": "episodes/cq-017-sc-244857076.md",
+      "source_url": "https://soundcloud.com/collectors-quest/collectors-quest-episode-17-sportsball-and-rare-sports-game",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "words": 6395,
+      "sha256": "ca238cb24c717de6c04d520458aaaa71adb6fcbd8356ed085076d910a894d697",
+      "reason": "Era-varied sequential lane continuation",
+      "status": "extracted_draft",
+      "record_path": "records/sc-244857076.json"
+    },
+    {
+      "key": "sc-395702904",
+      "episode_number": 84,
+      "title": "Episode 84 - Special Edition Consoles...They Suck",
+      "date": "2018-02-07",
+      "path": "episodes/cq-084-sc-395702904.md",
+      "source_url": "https://soundcloud.com/collectors-quest/episode-84-special-edition-consoles",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "words": 9931,
+      "sha256": "1fd11eed0669c8f9a35b2873a72fa9ad800412cc0707eb2055824cbd584f9d66",
+      "reason": "Era-varied sequential lane continuation",
+      "status": "extracted_draft",
+      "record_path": "records/sc-395702904.json"
+    },
+    {
+      "key": "sc-1400207374",
+      "episode_number": 210,
+      "title": "CQ 210 - So you want to collect... Nintendo Wii",
+      "date": "2022-12-10",
+      "path": "episodes/cq-210-sc-1400207374.md",
+      "source_url": "https://soundcloud.com/collectors-quest/cq-210-so-you-want-to-collect-nintendo-wii",
+      "timing": "YouTube caption timestamps",
+      "words": 38754,
+      "sha256": "883cb92705a599aaf68372a663dc78fc3d8921023540da66eafa66f958d79dae",
+      "reason": "Era-varied sequential lane continuation",
+      "status": "extracted_draft",
+      "record_path": "records/sc-1400207374.json"
+    }
+  ],
+  "duplicate_controls": []
+}

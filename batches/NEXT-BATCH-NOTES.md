@@ -1,0 +1,15 @@
+# Next batch readiness — September14 handoff
+
+The user-selected Halloween pair is complete: CQ102 in021 and CQ130 in022, all sixteen A1–A8 checks and exact bindings passed. The reviewed archive now has66 sources, no missing sources or stale indexes. See [the 33,407-word pair report](022/PROGRESS.md). No further episode was started.
+
+Remaining short early candidates CQ27–30 total22,600 words (6,555 +6,681 +5,326 +4,038), all with available transcripts. Follow with the23,805-word CQ92 singleton and26,471-word regular CQ219 singleton to rotate era lanes across batches. CQ219X remains a separately identified required source. These are proposed only;023 is not selected or read. Verify hashes and duplicate controls when actually starting.
+
+018–022 are accepted. Preserve every A1–A8 requirement and exact source identity. The pair-start64-source archive is now66 sources, no missing sources or stale databases; see022/generated/final-archive-preservation.json.
+
+CQ25/26 close the first two early slots after CQ218. CQ92 (23,805 words, guest Erik/Excitebyte) should remain a singleton under the current over20k rule; do not combine it and CQ219 into an oversized batch. No reading or semantic approval of these upcoming sources is implied.
+
+Important upcoming identity hazard: the library contains two distinct publisher sources numbered219. Regular CQ219, sc-1483798762, is the26,471-word Genesis starter-collection episode dated2023-04-03. CQ219X, sc-1482995356, is the2,293-word supplied April Fools Neo Geo attachment dated2023-04-01. The publisher explicitly labels219X a joke. These are not duplicate transcripts to discard or silently merge. Keep both source keys and suffix/title identities. Current per-collection code requires unique episode numbers, while archive queries reject ambiguous episode-number-only lookup; separate collections and explicit collection scope are available without inventing a new episode number. Resolve the desired permanent suffix-aware query interface before broader combined querying, not by dropping219X. Its untimed attachment completeness is not independently verified.
+
+Efficiency follow-up: compact references/spans now omit nested proof text while preserving uncertainty and whole-item boundaries. Avoid large combined shell outputs that still clip, and do not repeat full-source pages merely to resume. CQ218 conceptual routes retrieve52–62/107 windows: future precision work should preserve all qualifications and evaluate held-out wording before narrowing. The six first-use questions have now become development cases.
+
+CQ130 additionally exposed a mixed-action routing gap, now regression-tested without changing the frozen questions. Keep normal word boundaries in searchable summaries; compact output must not concatenate prose. Its original questions still retrieve30–93/95 windows, so precision/context-cost work remains open. CQ102→130 continuity is source-paired in review notes, not yet a cross-collection relationship index. These limitations do not authorize silently shrinking evidence or inventing timeline links.

@@ -1,0 +1,133 @@
+{
+  "schema_version": "1",
+  "review_type": "fresh_source_informed_proposals_same_extractor_not_blind",
+  "source_key": "sc-250618403",
+  "source_sha256": "3c4e3b8852da76319c9434cd4f3f9cf7367962de4628f07682f69281c387326a",
+  "scope": "All six use CQ22, whose complete 52-paragraph source this author read. CQ89/215 were not read by this author. Existing answers were seen; no routing code was inspected to design these questions. These become development cases once evaluated.",
+  "cases": [
+    {
+      "id": "cq022-fresh-packaging",
+      "episode": 22,
+      "question": "Why did Cam recognize Kat as Canadian, and did that mean her NES boxes were PAL?",
+      "required_locations": [
+        "Paragraph 17",
+        "Paragraph 18"
+      ],
+      "qualification": "Her French/English box text tipped him off; the hosts distinguish Canadian bilingual/Mattel packaging from automatic PAL identification. Cam says he has no boxed NES games, and Johnny's Canadian black-box subset is only a future low-priority wish.",
+      "evidence": [
+        {
+          "location": "Paragraph 17",
+          "quote": "you had games that had like French and English on it"
+        },
+        {
+          "location": "Paragraph 18",
+          "quote": "most of my black box games are French and English on them"
+        }
+      ]
+    },
+    {
+      "id": "cq022-fresh-manufacturer",
+      "episode": 22,
+      "question": "Which manufacturer did Johnny accidentally attach to the CD-i, and how was he corrected?",
+      "required_locations": [
+        "Paragraph 14",
+        "Paragraph 15"
+      ],
+      "qualification": "He says Panasonic and is corrected to Philips, rendered Phillips in the transcript. Preserve this as an in-episode correction, not confirmation that the hosts performed a catalog audit or that all games on either criticized system are worthless.",
+      "evidence": [
+        {
+          "location": "Paragraph 14",
+          "quote": "you said Panasonic CDI"
+        },
+        {
+          "location": "Paragraph 14",
+          "quote": "Phillips Phillips CDI"
+        }
+      ]
+    },
+    {
+      "id": "cq022-fresh-save_time",
+      "episode": 22,
+      "question": "Does Johnny's ninety-hour Dragon Warrior VII save tell us how long he actively played?",
+      "required_locations": [
+        "Paragraph 29",
+        "Paragraph 30"
+      ],
+      "qualification": "No. He gives an approximate save-file figure and explains he sometimes fell asleep with the game running during illness. It is not a completion time, benchmark, diagnosis or verified account of illness causation.",
+      "evidence": [
+        {
+          "location": "Paragraph 29",
+          "quote": "my save file is at like 90 hours"
+        },
+        {
+          "location": "Paragraph 30",
+          "quote": "fall asleep with it on"
+        }
+      ]
+    },
+    {
+      "id": "cq022-fresh-wii_actor",
+      "episode": 22,
+      "question": "Can we tell from this episode who owned Blazing Lazers on Wii Virtual Console?",
+      "required_locations": [
+        "Paragraph 35",
+        "Paragraph 36",
+        "Paragraph 37"
+      ],
+      "qualification": "The Wii ownership remark is unlabelled and should remain actor-uncertain. Cam is clearly the speaker reporting first completion on Thursday, but that does not automatically assign the separate Wii copy to him. No audio verification was performed.",
+      "evidence": [
+        {
+          "location": "Paragraph 36",
+          "quote": "I finally beat it for the first time on Thursday"
+        },
+        {
+          "location": "Paragraph 36",
+          "quote": "I have it on I have it on the Wii"
+        }
+      ]
+    },
+    {
+      "id": "cq022-fresh-expo",
+      "episode": 22,
+      "question": "What was Johnny's workaround for Canadian import costs, and did Cam really book an expo trip?",
+      "required_locations": [
+        "Paragraph 25",
+        "Paragraph 26",
+        "Paragraph 27"
+      ],
+      "qualification": "Johnny proposes saving avoided fees toward a Portland trip and wants an Instagram meetup. Cam's supposed commitment emerges in teasing banter; no booking or attendance is reported. Customs and price statements are historical host claims, not present travel/tax advice.",
+      "evidence": [
+        {
+          "location": "Paragraph 25",
+          "quote": "take whatever that import fee would be and then save it"
+        },
+        {
+          "location": "Paragraph 26",
+          "quote": "I’m trying to get everyone to Portland this year for like some kind of Instagram meetup"
+        }
+      ]
+    },
+    {
+      "id": "cq022-fresh-big_screen",
+      "episode": 22,
+      "question": "What would Johnny's ideal big-screen handheld setup look like, and what limits did he acknowledge?",
+      "required_locations": [
+        "Paragraph 42",
+        "Paragraph 43",
+        "Paragraph 44"
+      ],
+      "qualification": "He praises GameCube with Game Boy Player and a SNES-style Hori controller, and wishes for a Wii U DS player using its two screens. He acknowledges touch-heavy DS games would not all fit the idea, and EarthBound is an RPG-library exception. This is preference and a hypothetical accessory, not proof of an announced product, universal compatibility or legal approval.",
+      "evidence": [
+        {
+          "location": "Paragraph 43",
+          "quote": "I think the GameCube with a Gameboy player creates the best Nintendo system ever created"
+        },
+        {
+          "location": "Paragraph 44",
+          "quote": "like a Hori Super Nintendo controller for the GameCube"
+        }
+      ]
+    }
+  ]
+}
+

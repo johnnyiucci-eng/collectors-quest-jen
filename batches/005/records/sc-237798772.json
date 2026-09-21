@@ -1,0 +1,3509 @@
+{
+  "schema_version": "0.1",
+  "extraction_version": "batch005-fullsource-v1",
+  "source": {
+    "key": "sc-237798772",
+    "episode_number": 11,
+    "title": "Episode 11 - Collecting Star Wars Games",
+    "date": "2015-12-16",
+    "path": "episodes/cq-011-sc-237798772.md",
+    "words": 8357,
+    "source_url": "https://soundcloud.com/collectors-quest/collectors-quest-episode-11-star-wars-collecting",
+    "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+    "sha256": "f464d814094ca6c64340cafe770169472eef6478e52135791ca9865c61a972cb"
+  },
+  "review": {
+    "status": "extracted_draft",
+    "read_coverage": "All38 supplied paragraphs read consecutively in two displayed sections.",
+    "omission_review": "Independent root source-first sample found one missed negative Game Gear slot after same-agent42-bucket inventory; repaired inventory43/43, including2absent-platform negative controls.",
+    "audio_verification": "not_performed",
+    "independent_review": "not_performed",
+    "transcript_limit": "Captured attachment only; audio completeness and title recognition unverified.",
+    "timing": "Paragraph navigation only; no fabricated timestamps."
+  },
+  "participants": [
+    {
+      "name": "Kat",
+      "confidence": "high",
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "Hi, I’m Kat"
+        }
+      ]
+    },
+    {
+      "name": "Johnny",
+      "confidence": "high",
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "So Johnny, why don’t you tell me why we’re here"
+        }
+      ]
+    }
+  ],
+  "main_topic": "Star Wars game collecting from8-bit to64-bit, variants, preferences and checklist limitations",
+  "secondary_topics": [
+    "regional packaging",
+    "NFR variants",
+    "personal gameplay",
+    "Star Wars anticipation",
+    "toys-to-life bundles",
+    "checklist methodology"
+  ],
+  "games": [
+    {
+      "id": "cq011-g001",
+      "canonical_title": null,
+      "spoken_forms": [
+        "Atari games"
+      ],
+      "entity_granularity": "unresolved",
+      "platform": "Atari unspecified",
+      "region_edition": null,
+      "identification_confidence": "low",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Explicitly outside chosen collecting expertise; nostalgic generic games, no title inference.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 2",
+              "quote": "Atari games"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g002",
+      "canonical_title": null,
+      "spoken_forms": [
+        "Star Wars sitting down",
+        "fly the X-Wing"
+      ],
+      "entity_granularity": "unresolved",
+      "platform": "arcade",
+      "region_edition": null,
+      "identification_confidence": "low",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Uncertain sit-down/control-stick arcade memories; cabinets not confidently identified.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 2",
+              "quote": "Star Wars sitting down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g003",
+      "canonical_title": "Star Wars",
+      "spoken_forms": [
+        "Star Wars"
+      ],
+      "entity_granularity": "game",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Late arrival and missing trilogy shelf slot; release date uncertain.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 3",
+              "quote": "Star Wars game hit the Nintendo"
+            }
+          ]
+        },
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Johnny's difficult platforming and mushy-jump/Death-Star criticism, Kat questions.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 4",
+              "quote": "what did you think of the NES versions"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Compared with Master System/Game Gear ports.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 10",
+              "quote": "as the Nintendo one"
+            }
+          ]
+        },
+        {
+          "type": "PASSING_MENTION",
+          "context": "Possible future replay, not completed that day.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 29",
+              "quote": "original Star Wars on Nintendo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g004",
+      "canonical_title": "Star Wars: The Empire Strikes Back",
+      "spoken_forms": [
+        "Empire Strikes Back"
+      ],
+      "entity_granularity": "game",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Sequel and missing Return shelf slot.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 3",
+              "quote": "you get Empire Strikes Back"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Collective NES criticism; later Death Star specificity belongs to original.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 4",
+              "quote": "They’re a difficult set of games"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g005",
+      "canonical_title": null,
+      "spoken_forms": [
+        "Return of the Jedi"
+      ],
+      "entity_granularity": "unresolved",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "low",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Absent hypothetical NES trilogy slot, not a released game or possession.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 3",
+              "quote": "they do not put Return of the Jedi out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g006",
+      "canonical_title": "Star Wars",
+      "spoken_forms": [
+        "first Star Wars"
+      ],
+      "entity_granularity": "game",
+      "platform": "Game Boy",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Capcom-to-Ubisoft/Player's Choice packaging claim, source-scoped.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 4",
+              "quote": "the first Star Wars"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g007",
+      "canonical_title": "Star Wars: The Empire Strikes Back",
+      "spoken_forms": [
+        "Empire Strikes Back"
+      ],
+      "entity_granularity": "game",
+      "platform": "Game Boy",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Capcom/Ubisoft label-change claim.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 4",
+              "quote": "when you get over to Empire Strikes Back"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g008",
+      "canonical_title": null,
+      "spoken_forms": [
+        "Return"
+      ],
+      "entity_granularity": "unresolved",
+      "platform": "Game Boy",
+      "region_edition": null,
+      "identification_confidence": "low",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Exact full title unspoken; do not silently normalize to Super Return.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 4",
+              "quote": "Game Boy got Star Wars, Empire, and Return"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g009",
+      "canonical_title": "Star Wars",
+      "spoken_forms": [
+        "Star Wars on the Master System"
+      ],
+      "entity_granularity": "game",
+      "platform": "Sega Master System",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Reported regional release scope; US corrected to North American.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 5",
+              "quote": "Star Wars on the Master System"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Port comparison, source-scoped equivalence, not verified code identity.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 10",
+              "quote": "that Master System game"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g010",
+      "canonical_title": "Super Star Wars",
+      "spoken_forms": [
+        "Super Star Wars"
+      ],
+      "entity_granularity": "game",
+      "platform": "Super Nintendo",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Trilogy list; shared love stored at series level.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 6",
+              "quote": "Super Star Wars"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "JVC and Player's Choice labeling; date uncertain.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 7",
+              "quote": "Super Star Wars releases"
+            }
+          ]
+        },
+        {
+          "type": "PASSING_MENTION",
+          "context": "Dated PS4 rerelease availability, not acquisition.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 19",
+              "quote": "download Super Star Wars"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Actual current playthrough.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 29",
+              "quote": "I played through Super Star Wars today"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Original contrasted with Empire's force/lightsaber satisfaction.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 30",
+              "quote": "Super Star Wars was fun"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g011",
+      "canonical_title": "Super Star Wars: The Empire Strikes Back",
+      "spoken_forms": [
+        "Super Empire Strikes Back"
+      ],
+      "entity_granularity": "game",
+      "platform": "Super Nintendo",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Favorite trilogy installment, linked to favorite film.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 6",
+              "quote": "especially Super Empire Strikes Back"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "JVC/THQ box/manual variants; distinct from generic trilogy styling.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 7",
+              "quote": "Empire Strikes Back gets JVC release"
+            }
+          ]
+        },
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Favorite reaffirmed and explained through lightsaber/force moves and cousin memory.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 29",
+              "quote": "Super Empire Strikes Back"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g012",
+      "canonical_title": "Super Star Wars: Return of the Jedi",
+      "spoken_forms": [
+        "Super Return of the Jedi"
+      ],
+      "entity_granularity": "game",
+      "platform": "Super Nintendo",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Trilogy enumeration.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 6",
+              "quote": "Super Return of the Jedi"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "JVC/THQ print/manual differences.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 7",
+              "quote": "Super Return of the Jedi JVC release"
+            }
+          ]
+        },
+        {
+          "type": "PASSING_MENTION",
+          "context": "Collective replay plan/report; not individually completed.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 29",
+              "quote": "Super Nintendo Super Star Wars Empire Strikes Back in Return"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g013",
+      "canonical_title": "Super Star Wars — SNES trilogy",
+      "spoken_forms": [
+        "those games",
+        "Super Nintendo boxes"
+      ],
+      "entity_granularity": "series",
+      "platform": "Super Nintendo",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Collective gameplay affection, spine inconsistency and gold-super typography; not wholesale per-installment credit.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 6",
+              "quote": "those games I loved on the Super Nintendo"
+            }
+          ]
+        },
+        {
+          "type": "PASSING_MENTION",
+          "context": "Collective replay update.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 29",
+              "quote": "replaying the Super Nintendo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g014",
+      "canonical_title": "Star Wars",
+      "spoken_forms": [
+        "Game Gear",
+        "Leia level"
+      ],
+      "entity_granularity": "game",
+      "platform": "Game Gear",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Exclusive Leia level reported; not personally played here.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 10",
+              "quote": "they port it to Game Gear"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Has seen but never played level; possible future play.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 29",
+              "quote": "exclusive Leia level"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g015",
+      "canonical_title": "Super Return of the Jedi",
+      "spoken_forms": [
+        "Super Return of the Jedi"
+      ],
+      "entity_granularity": "game",
+      "platform": "Game Gear",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Cross-generation port observation, not a gameplay review.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 10",
+              "quote": "it has a Super Return of the Jedi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g016",
+      "canonical_title": "Star Wars Arcade",
+      "spoken_forms": [
+        "Star Wars Arcade"
+      ],
+      "entity_granularity": "game",
+      "platform": "Sega 32X",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Positive arcade-port recollection; raw trilogy equivalence uncertain.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 11",
+              "quote": "Star Wars Arcade"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Kat has not played and wants to; Johnny notes NFR variant, not separate game count.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 30",
+              "quote": "one on 32 X"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g017",
+      "canonical_title": "Star Wars: Rebel Assault",
+      "spoken_forms": [
+        "Star Wars Rebel Assault"
+      ],
+      "entity_granularity": "game",
+      "platform": "Sega CD / 3DO / PC",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Sega CD correction and3DO port.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 12",
+              "quote": "Star Wars Rebel Assault"
+            }
+          ]
+        },
+        {
+          "type": "PASSING_MENTION",
+          "context": "Garbled callback, identification contextual not new game.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 15",
+              "quote": "Rebels all"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g018",
+      "canonical_title": "Star Wars Chess",
+      "spoken_forms": [
+        "software tool works. Star Wars Chess",
+        "battle chess"
+      ],
+      "entity_granularity": "game",
+      "platform": "Sega CD",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Unfavorable play memory with childhood hardware setup story; rule recollection uncertain.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 12",
+              "quote": "Star Wars Chess"
+            }
+          ]
+        },
+        {
+          "type": "PASSING_MENTION",
+          "context": "Earlier non-film-tie-in example.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 15",
+              "quote": "Star Wars chess"
+            }
+          ]
+        },
+        {
+          "type": "PASSING_MENTION",
+          "context": "Comparison question, not a new Battle Chess title.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 23",
+              "quote": "battle chess"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Game-specific childhood setup friction, supporting context rather than a gameplay review.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Contextual continuation of Johnny's anecdote; no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 13",
+              "quote": "transferring it from room to room"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g019",
+      "canonical_title": "Star Wars: Shadows of the Empire",
+      "spoken_forms": [
+        "Star Wars Shadow of the Empire",
+        "Shadow of the Empire"
+      ],
+      "entity_granularity": "game",
+      "platform": "Nintendo 64",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Kat less enthusiastic about shooter; Johnny values story/media tie-in, admits imperfect memory.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 14",
+              "quote": "Star Wars Shadow of the Empire"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Rogue Squadron comparison.",
+          "speaker": {
+            "candidate": "Kat",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 17",
+              "quote": "Shadow of the Empire"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Current replay does not change dislike.",
+          "speaker": {
+            "candidate": "Kat",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 30",
+              "quote": "I gave Shadow of the Empire another go"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g020",
+      "canonical_title": "Star Wars: Rogue Squadron",
+      "spoken_forms": [
+        "Rogue Squadron"
+      ],
+      "entity_granularity": "game",
+      "platform": "Nintendo 64",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Kat prefers missions/controls/looks; Johnny likes it but not dogfights.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 17",
+              "quote": "Rogue Squadron came out"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Preference reaffirmed after Shadows replay.",
+          "speaker": {
+            "candidate": "Kat",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 30",
+              "quote": "Rogue Squadron is much better for me"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g021",
+      "canonical_title": "Star Wars Episode I: Racer",
+      "spoken_forms": [
+        "Star Wars Episode 1 Racer",
+        "Episode I Racer"
+      ],
+      "entity_granularity": "game",
+      "platform": "Nintendo 64 / Dreamcast / Game Boy Color",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Kat likes modes and played a lot; Johnny prefers sequel.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 18",
+              "quote": "Star Wars Episode 1 Racer"
+            }
+          ]
+        },
+        {
+          "type": "PASSING_MENTION",
+          "context": "Dreamcast list.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 21",
+              "quote": "Episode I Racer"
+            }
+          ]
+        },
+        {
+          "type": "PASSING_MENTION",
+          "context": "GBC list.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 24",
+              "quote": "episode one racer"
+            }
+          ]
+        },
+        {
+          "type": "PASSING_MENTION",
+          "context": "Raw GameCube bundle claim flagged, not verified software platform.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 26",
+              "quote": "episode one racer box"
+            }
+          ]
+        },
+        {
+          "type": "PASSING_MENTION",
+          "context": "Fun-game reaffirmation.",
+          "speaker": {
+            "candidate": "Kat",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 30",
+              "quote": "Star Wars episode one racers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g022",
+      "canonical_title": "Star Wars Racer Revenge",
+      "spoken_forms": [
+        "Racer Revenge",
+        "Race of Revenge"
+      ],
+      "entity_granularity": "game",
+      "platform": "PlayStation 2 / PS4 rerelease claim",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Preferred sequel and dated download claim; Kat has not played.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 19",
+              "quote": "Racer Revenge"
+            }
+          ]
+        },
+        {
+          "type": "PASSING_MENTION",
+          "context": "Future play intention.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 29",
+              "quote": "Race of Revenge"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g023",
+      "canonical_title": "Star Wars: Bounty Hunter",
+      "spoken_forms": [
+        "Bounty Hunter"
+      ],
+      "entity_granularity": "game",
+      "platform": "PS4 rerelease claim",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Download availability example only.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 19",
+              "quote": "Bounty Hunter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g024",
+      "canonical_title": "Star Wars Episode I: Battle for Naboo",
+      "spoken_forms": [
+        "Battle for Nimbu",
+        "Battle of Naboo"
+      ],
+      "entity_granularity": "game",
+      "platform": "Nintendo 64",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Both hosts explicitly have not played; Johnny's military-training gap.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 19",
+              "quote": "Battle for Nimbu"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Dated rarity/box-condition observation, no firsthand gameplay assessment.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 20",
+              "quote": "Battle of Naboo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g025",
+      "canonical_title": "Star Wars: Dark Forces",
+      "spoken_forms": [
+        "Dark Forces"
+      ],
+      "entity_granularity": "game",
+      "platform": "PlayStation / PC",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "PC-to-console landscape list.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 21",
+              "quote": "Dark Forces"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Kat has heard praise but not played; Johnny suggests aged visuals/sequels/computer.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 22",
+              "quote": "wonderful things about Dark Forces"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g026",
+      "canonical_title": "Star Wars: Rebel Assault II",
+      "spoken_forms": [
+        "Rebel Assault II"
+      ],
+      "entity_granularity": "game",
+      "platform": "PlayStation",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Console list; not the first Rebel Assault.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 21",
+              "quote": "Rebel Assault II"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g027",
+      "canonical_title": "Star Wars Episode I: The Phantom Menace",
+      "spoken_forms": [
+        "Episode I the Phantom Menace"
+      ],
+      "entity_granularity": "game",
+      "platform": "PlayStation",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Rapid platform list.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 21",
+              "quote": "Episode I the Phantom Menace"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g028",
+      "canonical_title": "Star Wars Episode I: Jedi Power Battles",
+      "spoken_forms": [
+        "Jedi power battles"
+      ],
+      "entity_granularity": "game",
+      "platform": "PlayStation / Dreamcast",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Platform list.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 21",
+              "quote": "Jedi power battles"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Expanded scope rather than strictly movie-plot retelling.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 22",
+              "quote": "games like Jedi power battles"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g029",
+      "canonical_title": "Star Wars: Demolition",
+      "spoken_forms": [
+        "Star Wars demolition"
+      ],
+      "entity_granularity": "game",
+      "platform": "PlayStation / Dreamcast",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Platform list.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 21",
+              "quote": "Star Wars demolition"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Vehicular combat and cross-era characters; Vigilante8 comparison corrected.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 22",
+              "quote": "Star Wars demolition"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g030",
+      "canonical_title": "Vigilante 8",
+      "spoken_forms": [
+        "Vigilante Racer",
+        "Vigilante 8"
+      ],
+      "entity_granularity": "game",
+      "platform": "Nintendo 64 context",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Self-corrected comparison for Demolition, not another title.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 22",
+              "quote": "Vigilante Racer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g031",
+      "canonical_title": "Twisted Metal",
+      "spoken_forms": [
+        "Twisted Metal"
+      ],
+      "entity_granularity": "series",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Generic vehicular-combat comparison, installment unspecified.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 22",
+              "quote": "Twisted Metal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g032",
+      "canonical_title": "Star Wars: Masters of Teräs Käsi",
+      "spoken_forms": [
+        "Masters of the Teres Kazi, Kasai or K.A.S.I."
+      ],
+      "entity_granularity": "game",
+      "platform": "PlayStation",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Day-one purchase/play, unreturned loan and later cheap replacement; raw title normalization provisional.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 23",
+              "quote": "Masters of the Teres Kazi"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Brief replacement-copy/price follow-up before moving to portable games.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Contextual continuation of Johnny's anecdote; no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 24",
+              "quote": "I’ve since re-bought it"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g033",
+      "canonical_title": "Star Wars: Yoda Stories",
+      "spoken_forms": [
+        "Yoda stories"
+      ],
+      "entity_granularity": "game",
+      "platform": "Game Boy Color",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Portable list only.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 24",
+              "quote": "Yoda stories"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g034",
+      "canonical_title": "Star Wars: Obi-Wan’s Adventures",
+      "spoken_forms": [
+        "Obi-Wan’s adventure"
+      ],
+      "entity_granularity": "game",
+      "platform": "Game Boy Color",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Portable list; plural title normalization provisional.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 24",
+              "quote": "Obi-Wan’s adventure"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g035",
+      "canonical_title": "Disney Infinity",
+      "spoken_forms": [
+        "Disney Infinity"
+      ],
+      "entity_granularity": "series",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Console bundle content.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 25",
+              "quote": "Disney Infinity pack"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Figure/starter/retail variants and mutable checklist, not individual-game gameplay or per-figure game ranks.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 32",
+              "quote": "Disney Infinity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g036",
+      "canonical_title": null,
+      "spoken_forms": [
+        "Battlefront"
+      ],
+      "entity_granularity": "unresolved",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "low",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Current intermittent play; release/year unspoken.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 29",
+              "quote": "Battlefront"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g037",
+      "canonical_title": "Donkey Kong Country",
+      "spoken_forms": [
+        "Donkey Kong Country"
+      ],
+      "entity_granularity": "series",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Family visit play expectation, installment/platform unspoken.",
+          "speaker": {
+            "candidate": "Kat",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 28",
+              "quote": "Donkey Kong Country"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g038",
+      "canonical_title": "Virtua Fighter",
+      "spoken_forms": [
+        "Virtua Fighter"
+      ],
+      "entity_granularity": "game",
+      "platform": "Sega 32X",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Other NFR example, no purchase.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 31",
+              "quote": "Virtua Fighter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g039",
+      "canonical_title": "Harry Potter",
+      "spoken_forms": [
+        "Harry Potter"
+      ],
+      "entity_granularity": "series",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Earlier checklist project compared with Star Wars; no particular game identified.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 35",
+              "quote": "Harry Potter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g040",
+      "canonical_title": "Street Fighter",
+      "spoken_forms": [
+        "Street Fighter games"
+      ],
+      "entity_granularity": "series",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Hypothetical franchise-collector example.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 37",
+              "quote": "Street Fighter games"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g041",
+      "canonical_title": "Star Wars: Rebel Assault — series",
+      "spoken_forms": [
+        "Rebel Assault games"
+      ],
+      "entity_granularity": "series",
+      "platform": "PC / console",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Collective PC franchise context distinct from sequel list.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 21",
+              "quote": "Rebel Assault games"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g042",
+      "canonical_title": "Star Wars — game franchise",
+      "spoken_forms": [
+        "Star Wars games"
+      ],
+      "entity_granularity": "series",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Scope of retrospective; Atari expertise explicitly limited.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 2",
+              "quote": "Star Wars as it relates to retro gaming"
+            }
+          ]
+        },
+        {
+          "type": "PASSING_MENTION",
+          "context": "Era-summary transition.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 14",
+              "quote": "eight bit 16 bit picture"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Collector-era boundaries and cross-platform expansion.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 24",
+              "quote": "world of classic Star Wars games"
+            }
+          ]
+        },
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Checklist/variant methodology and collecting scope, not every title's individual coverage.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and conversational continuity; untimed undiarized source, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 31",
+              "quote": "wide breadth of Star Wars games"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq011-g043",
+      "canonical_title": null,
+      "spoken_forms": [
+        "Empire Strikes Back"
+      ],
+      "entity_granularity": "absent_platform_slot",
+      "platform": "Game Gear",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Explicitly absent Game Gear Empire slot between Star Wars and Super Return; not a released title, ownership, or gameplay claim.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Contextual Game Gear lineup explanation, no audio verification."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 10",
+              "quote": "it doesn’t have Empire Strikes Back"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "lore": [
+    {
+      "id": "cq011-l001",
+      "kind": "show_history",
+      "summary": "Midweek special focuses on retro Star Wars games, while Johnny anticipates the new film and avoids spoilers; film opinions are not game reviews.",
+      "topics": [
+        "episode_scope"
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "special edition"
+        },
+        {
+          "location": "Paragraph 1",
+          "quote": "we’re not here to review movies"
+        },
+        {
+          "location": "Paragraph 2",
+          "quote": "Star Wars as it relates to retro gaming"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq011-l002",
+      "kind": "scope_limit",
+      "summary": "Johnny explicitly limits Atari/early arcade claims to childhood anecdotes outside his comfortable collecting expertise.",
+      "topics": [
+        "scope_limits"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 2",
+          "quote": "outside of where you and I collect and where my knowledge is comfortable"
+        },
+        {
+          "location": "Paragraph 2",
+          "quote": "I can only give you anecdotal evidence"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq011-l003",
+      "kind": "reported_claim",
+      "summary": "Johnny notes NES Star Wars/Empire but no Return of the Jedi, while Game Boy gets a trilogy; this is a shelf-gap observation with uncertain early release dates.",
+      "topics": [
+        "platform_libraries"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "I believe, 1991, or I’m sorry, 1990"
+        },
+        {
+          "location": "Paragraph 3",
+          "quote": "they do not put Return of the Jedi out"
+        },
+        {
+          "location": "Paragraph 4",
+          "quote": "Game Boy got Star Wars, Empire, and Return"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq011-l004",
+      "kind": "reported_claim",
+      "summary": "Game Boy Star Wars and Empire show reported Capcom/Ubisoft label changes; original Star Wars also has different Player's Choice art. Treat as source-scoped packaging history.",
+      "topics": [
+        "regional_packaging"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 4",
+          "quote": "first Star Wars, it’s produced by Capcom"
+        },
+        {
+          "location": "Paragraph 4",
+          "quote": "player’s choice, it says Ubisoft"
+        },
+        {
+          "location": "Paragraph 4",
+          "quote": "little red box from Capcom to a black box that says Ubisoft"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq011-l005",
+      "kind": "host_opinion",
+      "summary": "Johnny finds the NES games difficult and unforgiving, with mushy jumping and an unpleasant original-Star-Wars Death Star climb.",
+      "topics": [
+        "gameplay_preferences"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 4",
+          "quote": "They’re a difficult set of games"
+        },
+        {
+          "location": "Paragraph 5",
+          "quote": "jump is a little mushy"
+        },
+        {
+          "location": "Paragraph 5",
+          "quote": "when you get to the Death Star"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq011-l006",
+      "kind": "reported_claim",
+      "summary": "Master System regional non-release is clarified from US to North American, with Europe release asserted; no independent catalog verification.",
+      "topics": [
+        "regional_release"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 5",
+          "quote": "released in Europe, but not in America"
+        },
+        {
+          "location": "Paragraph 6",
+          "quote": "it is correct for me to say North American release"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq011-l007",
+      "kind": "host_opinion",
+      "summary": "Johnny favors Super Empire Strikes Back among the SNES games, linking force/lightsaber satisfaction to his favorite film and a cousin memory.",
+      "topics": [
+        "favorites"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 6",
+          "quote": "I find to be the best of the three"
+        },
+        {
+          "location": "Paragraph 29",
+          "quote": "Super Empire Strikes Back"
+        },
+        {
+          "location": "Paragraph 30",
+          "quote": "you got Force moves all of a sudden you’ve got a lightsaber"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq011-l008",
+      "kind": "variant_claim",
+      "summary": "Johnny describes JVC initial SNES trilogy packaging, THQ Empire/Return printings and manual changes, plus a Super Star Wars Player's Choice with only LucasArts visible. Timing is admitted uncertain.",
+      "topics": [
+        "packaging_variants"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 7",
+          "quote": "I’m not sure what the timing is"
+        },
+        {
+          "location": "Paragraph 7",
+          "quote": "only thing you find on there is LucasArts"
+        },
+        {
+          "location": "Paragraph 8",
+          "quote": "Manual switches from color to black and white"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq011-l009",
+      "kind": "running_joke",
+      "summary": "Inconsistent spines and the smeared-gold super typography frustrate Johnny; he says listeners will never unsee it. Colloquial OCD language is not clinical evidence.",
+      "topics": [
+        "box_art"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 8",
+          "quote": "inconsistent box art like spines across the three"
+        },
+        {
+          "location": "Paragraph 9",
+          "quote": "someone took a gold sharpie"
+        },
+        {
+          "location": "Paragraph 9",
+          "quote": "You’ll never unsee it"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq011-l010",
+      "kind": "reported_claim",
+      "summary": "Johnny calls Master System Star Wars basically the NES game and says Game Gear adds an exclusive Leia/plans-to-R2 level. Port-family grouping follows this source claim, not independently verified code equivalence.",
+      "topics": [
+        "ports"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 10",
+          "quote": "same one as the Super, I’m sorry, as the Nintendo one"
+        },
+        {
+          "location": "Paragraph 10",
+          "quote": "they port it to Game Gear and it gets an exclusive level"
+        },
+        {
+          "location": "Paragraph 10",
+          "quote": "Leia level where she’s giving the plans to R2"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq011-l011",
+      "kind": "reported_claim",
+      "summary": "Game Gear's stated lineup omits Empire but includes a Super Return port; 32X has Star Wars Arcade. The source's arcade-trilogy equivalence should not be independently certified.",
+      "topics": [
+        "platform_libraries"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 10",
+          "quote": "it doesn’t have Empire Strikes Back"
+        },
+        {
+          "location": "Paragraph 10",
+          "quote": "it has a Super Return of the Jedi"
+        },
+        {
+          "location": "Paragraph 11",
+          "quote": "Star Wars Arcade"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq011-l012",
+      "kind": "correction",
+      "summary": "After describing a Sega dead zone, Johnny immediately remembers Sega CD, introducing Rebel Assault and its3DO version.",
+      "topics": [
+        "platform_libraries"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 11",
+          "quote": "There is Sega CD games too. I want to correct myself"
+        },
+        {
+          "location": "Paragraph 12",
+          "quote": "Star Wars Rebel Assault"
+        },
+        {
+          "location": "Paragraph 12",
+          "quote": "it’s also on the 3DO"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq011-l013",
+      "kind": "personal_anecdote",
+      "summary": "Johnny says he played Star Wars Chess a few times and found it frustrating; remembered mechanics are tentative. Moving a friend's Genesis/SegaCD setup between TVs made it cumbersome.",
+      "topics": [
+        "playing"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 12",
+          "quote": "I have played it a few times"
+        },
+        {
+          "location": "Paragraph 12",
+          "quote": "It is frustrating and stupid"
+        },
+        {
+          "location": "Paragraph 12",
+          "quote": "I believe there’s some like specific rules"
+        },
+        {
+          "location": "Paragraph 13",
+          "quote": "transferring it from room to room"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq011-l014",
+      "kind": "host_opinion",
+      "summary": "Kat dislikes Shadows of the Empire's early third-person-shooter feel. Johnny's more positive memory emphasizes its story/media tie-in, while admitting uncertain plot/book details.",
+      "topics": [
+        "shadows_reception"
+      ],
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 14",
+          "quote": "I’m not terribly fond of this one"
+        },
+        {
+          "location": "Paragraph 16",
+          "quote": "I don’t remember the exact storyline"
+        },
+        {
+          "location": "Paragraph 16",
+          "quote": "my memory of it is a little more positive"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq011-l015",
+      "kind": "reported_claim",
+      "summary": "Johnny describes Shadows as a formerly canonical expanded-universe tie-in between Empire and Return, linked to a contemporary book; he explicitly mentions changed canon and imperfect character memory.",
+      "topics": [
+        "story_context"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 15",
+          "quote": "at the time"
+        },
+        {
+          "location": "Paragraph 15",
+          "quote": "they’ve since like a rat and all expanded universe stuff"
+        },
+        {
+          "location": "Paragraph 15",
+          "quote": "between Empire Strikes Back and Return of the Jedi"
+        },
+        {
+          "location": "Paragraph 15",
+          "quote": "you’re gonna have to forgive me"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq011-l016",
+      "kind": "host_opinion",
+      "summary": "Kat prefers Rogue Squadron's objectives, controls and looks. Johnny likes it but finds space dogfights less appealing than Hoth battles; expansion-pack recollection is tentative.",
+      "topics": [
+        "rogue_preferences"
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 17",
+          "quote": "mission objective based"
+        },
+        {
+          "location": "Paragraph 17",
+          "quote": "the controls are better"
+        },
+        {
+          "location": "Paragraph 18",
+          "quote": "I love Hoth battles but I don’t really love space battles"
+        },
+        {
+          "location": "Paragraph 17",
+          "quote": "If I remember correctly"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq011-l017",
+      "kind": "host_opinion",
+      "summary": "Kat likes Episode I Racer's tournament/free-race options and recalls playing a lot; Johnny prefers Racer Revenge, which Kat has not played.",
+      "topics": [
+        "racing"
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 18",
+          "quote": "I remember playing it lots"
+        },
+        {
+          "location": "Paragraph 18",
+          "quote": "tournament mode which I really liked"
+        },
+        {
+          "location": "Paragraph 19",
+          "quote": "what I actually like better than that is the sequel"
+        },
+        {
+          "location": "Paragraph 19",
+          "quote": "I haven’t played that one"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq011-l018",
+      "kind": "negative_evidence",
+      "summary": "Both hosts say they have not played Battle for Naboo. Johnny offers only viewed-video/collector impressions and a relative rarity/box-condition claim; no firsthand game review.",
+      "topics": [
+        "unplayed"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 19",
+          "quote": "one that I have not played on the N64"
+        },
+        {
+          "location": "Paragraph 19",
+          "quote": "I haven’t played it at all"
+        },
+        {
+          "location": "Paragraph 20",
+          "quote": "I’ve seen some video"
+        },
+        {
+          "location": "Paragraph 20",
+          "quote": "hard to find the box in good condition"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq011-l019",
+      "kind": "personal_context",
+      "summary": "Johnny describes a1999–2001 military-training gap in gaming/pop culture, clarifying that it is not a memory-loss claim. Do not infer health conditions or fuller service biography.",
+      "topics": [
+        "source_context"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 19",
+          "quote": "training for the military"
+        },
+        {
+          "location": "Paragraph 19",
+          "quote": "99 to 2001"
+        },
+        {
+          "location": "Paragraph 20",
+          "quote": "not a hole in my memory but a gap in my pop culture knowledge"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq011-l020",
+      "kind": "reported_claim",
+      "summary": "PlayStation/PC/Dreamcast discussion emphasizes Star Wars beyond literal film retellings; rapid platform lists do not establish ownership or substantial gameplay coverage.",
+      "topics": [
+        "platform_libraries"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 21",
+          "quote": "outside of just these are movie tie-in games"
+        },
+        {
+          "location": "Paragraph 21",
+          "quote": "Dark Forces super big on the PC"
+        },
+        {
+          "location": "Paragraph 22",
+          "quote": "not following necessarily the plot"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq011-l021",
+      "kind": "open_loop",
+      "summary": "Kat has heard praise for Dark Forces but has never played it; she intends to try it. Johnny suggests considering sequels/computer versions because the old visuals are aging.",
+      "topics": [
+        "future_play"
+      ],
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 22",
+          "quote": "but I’ve never played it"
+        },
+        {
+          "location": "Paragraph 22",
+          "quote": "I will do that in the near future"
+        },
+        {
+          "location": "Paragraph 22",
+          "quote": "maybe play them on the computer"
+        },
+        {
+          "location": "Paragraph 22",
+          "quote": "not actually aging super well"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq011-l022",
+      "kind": "correction",
+      "summary": "Johnny initially calls the Demolition comparison Vigilante Racer, then checks and confirms Vigilante8; Twisted Metal is a separate broad comparison.",
+      "topics": [
+        "title_identity"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 22",
+          "quote": "Vigilante Racer"
+        },
+        {
+          "location": "Paragraph 22",
+          "quote": "I just checked it is Vigilante 8"
+        },
+        {
+          "location": "Paragraph 22",
+          "quote": "similar to Twisted Metal"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq011-l023",
+      "kind": "purchase_history",
+      "summary": "Johnny bought Masters of Teräs Käsi day one, played it at his military dorm, lent it out without return, and later bought another copy for about$5. These are separate acquisition/disposition events, not a sale.",
+      "topics": [
+        "personal_collection"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 23",
+          "quote": "I bought it day one"
+        },
+        {
+          "location": "Paragraph 23",
+          "quote": "play Bell out of it"
+        },
+        {
+          "location": "Paragraph 23",
+          "quote": "lent it to someone never saw it again"
+        },
+        {
+          "location": "Paragraph 24",
+          "quote": "I’ve since re-bought it"
+        },
+        {
+          "location": "Paragraph 24",
+          "quote": "like five dollars"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq011-l024",
+      "kind": "host_opinion",
+      "summary": "Johnny dislikes the Darth Vader PS4/controller look despite wanting to like and buy it; mismatched trigger colors are a specific complaint, not actual purchase.",
+      "topics": [
+        "hardware_design"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 25",
+          "quote": "one of the trigger buttons is red and then like one’s blue"
+        },
+        {
+          "location": "Paragraph 26",
+          "quote": "I want to buy one"
+        },
+        {
+          "location": "Paragraph 26",
+          "quote": "I just find the PS4 console to be ugly"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq011-l025",
+      "kind": "uncertain_claim",
+      "summary": "The white PSP is praised, but the raw GameCube/Episode I Racer box claim is preserved as uncertain hardware/package history, not silently corrected to another console.",
+      "topics": [
+        "hardware_variants"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 26",
+          "quote": "They did a white PSP"
+        },
+        {
+          "location": "Paragraph 26",
+          "quote": "They did do a console for GameCube"
+        },
+        {
+          "location": "Paragraph 26",
+          "quote": "episode one racer box"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq011-l026",
+      "kind": "personal_context",
+      "summary": "Johnny plans a Friday film visit rather than Thursday to avoid bringing disappointment to work; Kat's timing may be delayed by Christmas and a family Donkey Kong Country visit. These are plans, not verified later attendance.",
+      "topics": [
+        "film_context"
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 27",
+          "quote": "I’m seeing it Friday directly after work"
+        },
+        {
+          "location": "Paragraph 28",
+          "quote": "Donkey Kong Country from now until they leave"
+        },
+        {
+          "location": "Paragraph 28",
+          "quote": "a little delayed"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq011-l027",
+      "kind": "play_update",
+      "summary": "Johnny is replaying the SNES trilogy and says he played through Super Star Wars that day; he also plays unspecified Battlefront intermittently, plans Racer Revenge and may try NES/Game Gear Star Wars.",
+      "topics": [
+        "playing"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 29",
+          "quote": "I played through Super Star Wars today"
+        },
+        {
+          "location": "Paragraph 29",
+          "quote": "Battlefront on and off"
+        },
+        {
+          "location": "Paragraph 29",
+          "quote": "I’m going to play some Race of Revenge"
+        },
+        {
+          "location": "Paragraph 29",
+          "quote": "I might grab the Game Gear one"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq011-l028",
+      "kind": "play_update",
+      "summary": "Kat gives Shadows another try without changing her dislike, still prefers Rogue Squadron, and wants to try the32X game she has never played.",
+      "topics": [
+        "playing"
+      ],
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 30",
+          "quote": "I gave Shadow of the Empire another go"
+        },
+        {
+          "location": "Paragraph 30",
+          "quote": "Still not loving it"
+        },
+        {
+          "location": "Paragraph 30",
+          "quote": "I have never played the one on 32 X"
+        },
+        {
+          "location": "Paragraph 30",
+          "quote": "I’d really like to play that"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq011-l029",
+      "kind": "variant_claim",
+      "summary": "Johnny identifies a32X Star Wars Arcade NFR version, reportedly a pack-in, and says it can be counted as a variant; Virtua Fighter is the other named example, not another Star Wars game.",
+      "topics": [
+        "nfr"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 30",
+          "quote": "There’s an NFR version"
+        },
+        {
+          "location": "Paragraph 30",
+          "quote": "I believe it was just packed in"
+        },
+        {
+          "location": "Paragraph 31",
+          "quote": "count it as a variant"
+        },
+        {
+          "location": "Paragraph 31",
+          "quote": "The other one is Virtua Fighter"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq011-l030",
+      "kind": "project_history",
+      "summary": "Johnny is revising an earlier inaccurate Star Wars checklist, with Nintendo finished in the current work and intended system breakdown; publication by episode time is uncertain.",
+      "topics": [
+        "checklist"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 31",
+          "quote": "I’m currently revising that checklist"
+        },
+        {
+          "location": "Paragraph 32",
+          "quote": "There’s some real inaccuracies"
+        },
+        {
+          "location": "Paragraph 32",
+          "quote": "So far I finished Nintendo"
+        },
+        {
+          "location": "Paragraph 32",
+          "quote": "I don’t know if I’ll have the checklist done"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq011-l031",
+      "kind": "reported_claim",
+      "summary": "Disney Infinity collection scope distinguishes roughly19 individual figures from about50 variants plus system-specific starter/saga/console packs and retail/light-up differences. These are dated working-list counts, not game counts.",
+      "topics": [
+        "toys_to_life"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 33",
+          "quote": "19 individual figures"
+        },
+        {
+          "location": "Paragraph 33",
+          "quote": "50 total variants"
+        },
+        {
+          "location": "Paragraph 33",
+          "quote": "five systems"
+        },
+        {
+          "location": "Paragraph 34",
+          "quote": "this figure has a light saber versus this other version"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq011-l032",
+      "kind": "reported_claim",
+      "summary": "The source describes Boba Fett as a saga-pack exclusive at that time with later individual availability expected, and names Force Awakens figures in raw recognition forms. Do not treat 2015 exclusivity as current shopping advice.",
+      "topics": [
+        "toys_to_life"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 33",
+          "quote": "special Boba Fett"
+        },
+        {
+          "location": "Paragraph 33",
+          "quote": "eventually be put out as an individual figure"
+        },
+        {
+          "location": "Paragraph 34",
+          "quote": "Phin"
+        },
+        {
+          "location": "Paragraph 34",
+          "quote": "Kylo Ren, Ray and Poe Damon"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq011-l033",
+      "kind": "correction",
+      "summary": "The checklist's earlier comprehensive-language ambition is narrowed: accessories will not be comprehensive and readers are asked to report omissions. It is a mutable work, not a certified complete inventory.",
+      "topics": [
+        "checklist_limits"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 32",
+          "quote": "comprehensive list"
+        },
+        {
+          "location": "Paragraph 34",
+          "quote": "work in process"
+        },
+        {
+          "location": "Paragraph 36",
+          "quote": "It’s not going to be a comprehensive list of the accessories"
+        },
+        {
+          "location": "Paragraph 36",
+          "quote": "please let me know"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq011-l034",
+      "kind": "project_history",
+      "summary": "Johnny compares checklist work with prior Harry Potter and Genesis cardboard lists and invites additions rather than pretending omissions are impossible.",
+      "topics": [
+        "checklist"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 35",
+          "quote": "I did that with Harry Potter too"
+        },
+        {
+          "location": "Paragraph 36",
+          "quote": "Genesis cardboard list"
+        },
+        {
+          "location": "Paragraph 36",
+          "quote": "I will add it to the list"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq011-l035",
+      "kind": "reported_opinion",
+      "summary": "Closing claims of affordable/common retro Star Wars games and residual value are broad historical opinions, not verified rarity, investment guarantees or future supply facts.",
+      "topics": [
+        "collecting_scope"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; no audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 37",
+          "quote": "none of these games are super rare right now"
+        },
+        {
+          "location": "Paragraph 38",
+          "quote": "hold some sort of residual value"
+        },
+        {
+          "location": "Paragraph 38",
+          "quote": "they’re probably all going to be common games"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    }
+  ],
+  "corrections": [
+    {
+      "id": "cq011-c01",
+      "category": "regional_scope",
+      "original": "Master System absence first phrased as US release.",
+      "current": "Johnny clarifies North American release, explicitly including both hosts' territories.",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity; not verified audio turns."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 5",
+          "quote": "US release"
+        },
+        {
+          "location": "Paragraph 6",
+          "quote": "North American release"
+        }
+      ]
+    },
+    {
+      "id": "cq011-c02",
+      "category": "platform_omission",
+      "original": "Sega discussion initially mentions only GameGear and32X.",
+      "current": "Johnny immediately adds SegaCD/RebelAssault; preserve correction rather than claiming no SegaCD StarWars.",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity; not verified audio turns."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 11",
+          "quote": "only one that pop up"
+        },
+        {
+          "location": "Paragraph 11",
+          "quote": "There is Sega CD games too. I want to correct myself"
+        },
+        {
+          "location": "Paragraph 12",
+          "quote": "Star Wars Rebel Assault"
+        }
+      ]
+    },
+    {
+      "id": "cq011-c03",
+      "category": "title_identity",
+      "original": "Demolition comparator first called Vigilante Racer.",
+      "current": "He checks and confirms Vigilante8; preserve raw false start as alias, not another game.",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity; not verified audio turns."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 22",
+          "quote": "Vigilante Racer"
+        },
+        {
+          "location": "Paragraph 22",
+          "quote": "I just checked it is Vigilante 8"
+        }
+      ]
+    },
+    {
+      "id": "cq011-c04",
+      "category": "scope_qualification",
+      "original": "Checklist described as comprehensive.",
+      "current": "Later explicitly excludes comprehensive accessory coverage and invites missing items; no completed exhaustive archive claim.",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity; not verified audio turns."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 32",
+          "quote": "comprehensive list"
+        },
+        {
+          "location": "Paragraph 36",
+          "quote": "It’s not going to be a comprehensive list of the accessories"
+        },
+        {
+          "location": "Paragraph 36",
+          "quote": "please let me know"
+        }
+      ]
+    },
+    {
+      "id": "cq011-c05",
+      "category": "wording_qualification",
+      "original": "Johnny calls it a hole in memory.",
+      "current": "He immediately specifies a pop-culture knowledge gap, not memory loss.",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity; not verified audio turns."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 20",
+          "quote": "not a hole in my memory but a gap in my pop culture knowledge"
+        }
+      ]
+    },
+    {
+      "id": "cq011-c06",
+      "category": "port_comparison",
+      "original": "Master System StarWars called same as Super, then corrected mid-sentence.",
+      "current": "The corrected comparison is to Nintendo/NES, not SNES SuperStarWars.",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity; not verified audio turns."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 10",
+          "quote": "same one as the Super, I’m sorry, as the Nintendo one"
+        }
+      ]
+    }
+  ],
+  "topic_coverage": [
+    {
+      "topic": "8bit_platforms",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5",
+        "Paragraph 6",
+        "Paragraph 10"
+      ]
+    },
+    {
+      "topic": "snes_variants",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "Paragraph 6",
+        "Paragraph 7",
+        "Paragraph 8",
+        "Paragraph 9"
+      ]
+    },
+    {
+      "topic": "sega_platforms",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "Paragraph 10",
+        "Paragraph 11",
+        "Paragraph 12",
+        "Paragraph 13"
+      ]
+    },
+    {
+      "topic": "n64_preferences",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "Paragraph 14",
+        "Paragraph 15",
+        "Paragraph 16",
+        "Paragraph 17",
+        "Paragraph 18",
+        "Paragraph 19",
+        "Paragraph 20",
+        "Paragraph 29",
+        "Paragraph 30"
+      ]
+    },
+    {
+      "topic": "playstation_expansion",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "Paragraph 21",
+        "Paragraph 22",
+        "Paragraph 23",
+        "Paragraph 24"
+      ]
+    },
+    {
+      "topic": "hardware_design",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "Paragraph 25",
+        "Paragraph 26"
+      ]
+    },
+    {
+      "topic": "checklist_method",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "Paragraph 31",
+        "Paragraph 32",
+        "Paragraph 33",
+        "Paragraph 34",
+        "Paragraph 35",
+        "Paragraph 36",
+        "Paragraph 37"
+      ]
+    },
+    {
+      "topic": "toys_to_life",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "Paragraph 25",
+        "Paragraph 32",
+        "Paragraph 33",
+        "Paragraph 34",
+        "Paragraph 35",
+        "Paragraph 36"
+      ]
+    }
+  ],
+  "related_episodes": [],
+  "review_queue": [
+    {
+      "id": "cq011-early-dates",
+      "priority": "medium",
+      "reason": "Early Nintendo/SNES release years explicitly uncertain; not authoritative chronology.",
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "1991, or I’m sorry, 1990"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq011-raw-identities",
+      "priority": "medium",
+      "reason": "Atari/arcade memories, GBReturn, current Battlefront, DKC installment remain unresolved; Masters/Naboo/ObiWan normalized provisionally.",
+      "evidence": [
+        {
+          "location": "Paragraph 19",
+          "quote": "Battle for Nimbu"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq011-port-family",
+      "priority": "medium",
+      "reason": "NES/MS/GG grouping follows source's basically-same/port claim, not verified code identity; platforms and Leia difference retained.",
+      "evidence": [
+        {
+          "location": "Paragraph 10",
+          "quote": "So it’s basically the same"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq011-hardware-claim",
+      "priority": "medium",
+      "reason": "Raw GameCube/Episode1Racer package claim is unverified and must not be silently repaired or indexed as a verified GameCube game.",
+      "evidence": [
+        {
+          "location": "Paragraph 26",
+          "quote": "They did do a console for GameCube"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq011-arcade-equivalence",
+      "priority": "medium",
+      "reason": "32X Arcade described as arcade trilogy; do not independently assert exact arcade-game equivalence.",
+      "evidence": [
+        {
+          "location": "Paragraph 11",
+          "quote": "That was the trilogy game"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq011-story-memory",
+      "priority": "medium",
+      "reason": "Shadows plot/characters/book/canon context is hedged and dated.",
+      "evidence": [
+        {
+          "location": "Paragraph 15",
+          "quote": "you’re gonna have to forgive me"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq011-speaker",
+      "priority": "medium",
+      "reason": "Johnny/Kat explicit; turns contextual. Friend/father/cousin/wife/husband/sister-in-law not hosts.",
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "Hi, I’m Kat"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq011-historical",
+      "priority": "medium",
+      "reason": "Prices, rarity, downloadable releases, retail exclusives, film plans and figure counts are2015 claims, not current verification.",
+      "evidence": [
+        {
+          "location": "Paragraph 33",
+          "quote": "50 total variants"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq011-chess",
+      "priority": "medium",
+      "reason": "Chess rules and childhood hardware chronology uncertain; friend's father bought-this object ambiguous.",
+      "evidence": [
+        {
+          "location": "Paragraph 12",
+          "quote": "I believe there’s some like specific rules"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq011-checklist",
+      "priority": "medium",
+      "reason": "Publication not confirmed; accessories explicitly incomplete, later-era scope still lacking.",
+      "evidence": [
+        {
+          "location": "Paragraph 34",
+          "quote": "Maybe I’ll post the list up"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq011-negative-play",
+      "priority": "medium",
+      "reason": "Both hosts unplayed Naboo; Kat unplayed DarkForces/Revenge/32X; Johnny unplayed GameGear Leia level.",
+      "evidence": [
+        {
+          "location": "Paragraph 19",
+          "quote": "I haven’t played it at all"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    }
+  ],
+  "non_video_game_items": [
+    {
+      "item": "Darth Vader PS4 console/controller",
+      "type": "hardware",
+      "evidence": [
+        {
+          "location": "Paragraph 25",
+          "quote": "PS4 which with Darth Vader on it"
+        }
+      ],
+      "note": "Design opinions and retail/bundle claims, no purchase."
+    },
+    {
+      "item": "White PSP",
+      "type": "hardware",
+      "evidence": [
+        {
+          "location": "Paragraph 26",
+          "quote": "white PSP"
+        }
+      ],
+      "note": "Positive design example, no acquisition."
+    },
+    {
+      "item": "Raw GameCube Episode1Racer box",
+      "type": "hardware_packaging",
+      "evidence": [
+        {
+          "location": "Paragraph 26",
+          "quote": "console for GameCube"
+        }
+      ],
+      "note": "Unverified raw platform claim; no silent correction."
+    },
+    {
+      "item": "3DS Boba Fett case",
+      "type": "accessory",
+      "evidence": [
+        {
+          "location": "Paragraph 32",
+          "quote": "3DS Boba Fett case"
+        }
+      ],
+      "note": "Checklist example, not owned-item proof."
+    },
+    {
+      "item": "Disney Infinity starter/saga/console packs",
+      "type": "toys_to_life_bundle",
+      "evidence": [
+        {
+          "location": "Paragraph 33",
+          "quote": "Star Wars saga bundle"
+        }
+      ],
+      "note": "System-specific variants, not individual-game count."
+    },
+    {
+      "item": "Boba Fett figure",
+      "type": "toy",
+      "evidence": [
+        {
+          "location": "Paragraph 33",
+          "quote": "special Boba Fett"
+        }
+      ],
+      "note": "Dated exclusive/expected individual release claim."
+    },
+    {
+      "item": "Luke / Leia / Anakin / raw Shoketano figures",
+      "type": "toys",
+      "evidence": [
+        {
+          "location": "Paragraph 33",
+          "quote": "Luke, Leia, Anakin, Shoketano"
+        }
+      ],
+      "note": "Raw names preserved; not game titles."
+    },
+    {
+      "item": "Raw Phin / Kylo Ren / Ray / Poe Damon figures",
+      "type": "toys",
+      "evidence": [
+        {
+          "location": "Paragraph 34",
+          "quote": "Phin"
+        }
+      ],
+      "note": "Raw figure list, release timing unclear."
+    },
+    {
+      "item": "Retail-exclusive and light-up-saber figures",
+      "type": "toy_variants",
+      "evidence": [
+        {
+          "location": "Paragraph 34",
+          "quote": "light saber doesn’t light up"
+        }
+      ],
+      "note": "Variant comparison, not multiple games."
+    },
+    {
+      "item": "Shadows of the Empire novel / Courtship of Princess Leia",
+      "type": "books",
+      "evidence": [
+        {
+          "location": "Paragraph 17",
+          "quote": "courtship of Princess Leia"
+        }
+      ],
+      "note": "Reading and story context; no gaming action inferred."
+    },
+    {
+      "item": "The Way",
+      "type": "song",
+      "evidence": [
+        {
+          "location": "Paragraph 19",
+          "quote": "song called The Way"
+        }
+      ],
+      "note": "Pop-culture gap anecdote; artist unremembered."
+    },
+    {
+      "item": "Star Wars films / new Force Awakens",
+      "type": "film",
+      "evidence": [
+        {
+          "location": "Paragraph 37",
+          "quote": "Force Awakens"
+        }
+      ],
+      "note": "Anticipation and planning, no current schedule claims."
+    },
+    {
+      "item": "Genesis/SegaCD power cords and setup",
+      "type": "hardware",
+      "evidence": [
+        {
+          "location": "Paragraph 13",
+          "quote": "two power plugs"
+        }
+      ],
+      "note": "Childhood setup complaint, not exact verified hardware inventory."
+    }
+  ],
+  "unidentified_acquisitions": [
+    {
+      "description": "Johnny's earlier StarWars editions/games/toys not itemized; friend's father's bought-this object ambiguous.",
+      "evidence": [
+        {
+          "location": "Paragraph 8",
+          "quote": "additions that were bought"
+        },
+        {
+          "location": "Paragraph 13",
+          "quote": "his dad bought him this"
+        },
+        {
+          "location": "Paragraph 28",
+          "quote": "I’ve collected a lot of the games"
+        }
+      ]
+    }
+  ],
+  "exclusions": [
+    "No Tyler or Nick participation.",
+    "NES Return of the Jedi is an absent shelf slot, not a released NES game.",
+    "Film/book/song references and figures/hardware are not independent video games.",
+    "2015 availability, prices, rarity and predictions are not current verified facts.",
+    "Johnny's colloquial OCD/anxiety language is reported taste/banter, not a diagnosis or private biography."
+  ]
+}

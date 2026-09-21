@@ -1,0 +1,194 @@
+{
+  "schema_version": "1",
+  "status": "frozen_before_extraction_record_comparison",
+  "frozen_utc": "2026-09-13 11:41:59 UTC",
+  "selection_rule": "Zero-based floor(N/4),floor(N/2),floor(3N/4). Root read primary windows and adjacent context before extraction comparison.",
+  "limits": "Bounded source-first development sample, not statistical recall. Continuations anchored to adjacent windows; platform assertions and family references are not silently exact installments.",
+  "windows": [
+    {
+      "location": "Paragraph 8",
+      "text": "\nbut there’s a game called Study Hall on the Genesis. I think it was also released on the NES independently. But you know, these aren’t games that were ever sold. They were created now and you know, in many years after the console’s natural life cycle is over. Yeah. Right. These are people creating new products. It’s not and I think we should delineate from what a hack is because you may play something like hyper Metroid and hyper Metroid is a hack. You know, they’re using elements from a game that already exists or taking super Metroid and they’re twisting it around and they’re using all of the artifacts in that game to create a new game. A homebrew doesn’t do that. Homebrew is completely authentic. A hack is kind of in its own world, leans more towards reproduction, but it’s not a full reproduction because that game was never sold. And that’s why that’s why this stuff is confusing, right? Because kind of these things blur the lines a little bit of where they lay. Yeah. No, I agree. Like there’s a lot that I don’t know about it and it’s interesting to talk about it and think about it and really, you know, find out where the line is because I’ve heard some people, you know, get\n\n",
+      "batch": "013",
+      "episode": 19,
+      "source_key": "sc-247140249",
+      "source_window_count": 31,
+      "references": [
+        {
+          "id": "cq19-sample-Paragraph8-1",
+          "title": "Study Hall; claimed Genesis/NES releases, platform assertion unverified",
+          "quote": "Study Hall",
+          "reviewed_game_ids": ["cq019-g009"],
+          "comparison_status": "matched"
+        },
+        {
+          "id": "cq19-sample-Paragraph8-2",
+          "title": "Hyper Metroid ROM hack",
+          "quote": "hyper Metroid",
+          "reviewed_game_ids": ["cq019-g010"],
+          "comparison_status": "matched"
+        },
+        {
+          "id": "cq19-sample-Paragraph8-3",
+          "title": "Super Metroid source game",
+          "quote": "super Metroid",
+          "reviewed_game_ids": ["cq019-g011"],
+          "comparison_status": "matched"
+        }
+      ]
+    },
+    {
+      "location": "Paragraph 16",
+      "text": "\nthe actual correct pronunciation for Super Nintendo. I’ve seen a couple because they get these really bad labels or have notoriously bad labels and people are putting reproduction labels. They’re scraping off the old labels or they’ll buy a game for cheap with a torn label on it. Yeah. They’ll clean it and then put a fake label on it to sell it for more money. And again, we can go right back to why this is bad because you are trying to deceive someone. Yes. Right. If you sell it even stating, like, and here’s the problem. Even people who fully state this is a reproduction, like if you look on eBay, it still, it still fills a little shady in a lot of these auctions because they’ve got a price tie. They make it look like the original and they’re like, oh, but this is a repro like in small print down in their auction description. You know, it’s just about how honest and upfront you’re being. And I feel like, you know, this is the problem with repro’s. This is why they get a bad rap and why people, you know, people are upset and why we can’t have nice things is because someone is out there trying to take advantage. Yeah. And I think that’s a\n\n",
+      "batch": "013",
+      "episode": 19,
+      "source_key": "sc-247140249",
+      "source_window_count": 31,
+      "references": [
+        {
+          "id": "cq19-sample-Paragraph16-1",
+          "title": "Hagane relabeling example continued from Paragraph15",
+          "quote": "bad labels",
+          "reviewed_game_ids": ["cq019-g020"],
+          "comparison_status": "matched"
+        }
+      ]
+    },
+    {
+      "location": "Paragraph 24",
+      "text": "\nthese come out of Russia. I think they’re really funny. And then the last thing is pirating in general. So this is, this is kind of a tough point, right? And this is kind of where some arguments fall apart. Is it okay to pirate games? I don’t believe so. But then what’s the different, you know, I don’t think you should go download a ROM of a new game and play it and take money out of a publisher’s pocket right now, because especially out of a small publisher or they won’t be able to make games. In fact, you know, personally, I don’t even think people should buy used games from GameStop. Okay. And I’m, that’s a pretty controversial opinion. I know kids want to keep it cheap. But I’m talking about new games like Wii games, things that are out of, out of circulation, three, six games, sure, whatever. I’m talking about like Xbox one PS4 and Wii U games. And the reason I don’t think that, you know, maybe from EA go ahead because screw EA, but like a little publisher, small publishers, you know, if they don’t get that revenue sale like on a new title, then they make less games. And that I feel like hurts gaming and it homogenizes gaming into just the\n\n",
+      "batch": "013",
+      "episode": 19,
+      "source_key": "sc-247140249",
+      "source_window_count": 31,
+      "references": []
+    },
+    {
+      "location": "Paragraph 11",
+      "text": "\nI guess to be fair, it was only given to Coke employees, or it was only given to like Coke salesmen, so it’s not like they were gonna go out and buy Pepsi. And this was probably never meant to actually be seen by anyone else. And yet now it’s become this like mythical Atari 2600 game that’s pretty like really rare. - True, but I’m just like, I think by today’s standards, you just wouldn’t have that. Follow up to this, not to this game, but to follow up what we’re talking about, Pepsi Man, that is a game in Japan for the PlayStation, where you are Pepsi Man, who is like their weird mascot. And I think it’s like kind of an action platformer. - It’s like a running game. Like I think you are constantly running forward down kind of a hallway. - Yeah, it’s, yeah. God, what’s that called? Like 3D World Runner? - I haven’t played it until the 3D World Runner. When do you say that? I just think of Space Harrier, so I don’t know. - Okay, yeah. Well, anyways, it’s like running and the screen is coming at you and you can only see the back of the character. - Yeah, but no one cares about that, because the coolest part about\n\n",
+      "batch": "013",
+      "episode": 86,
+      "source_key": "sc-405814233",
+      "source_window_count": 40,
+      "references": [
+        {
+          "id": "cq86-sample-Paragraph11-1",
+          "title": "Pepsi Invaders continued from Paragraph10",
+          "quote": "Coke employees",
+          "reviewed_game_ids": ["cq086-g016"],
+          "comparison_status": "matched"
+        },
+        {
+          "id": "cq86-sample-Paragraph11-2",
+          "title": "Pepsiman",
+          "quote": "Pepsi Man",
+          "reviewed_game_ids": ["cq086-g017"],
+          "comparison_status": "matched"
+        },
+        {
+          "id": "cq86-sample-Paragraph11-3",
+          "title": "3-D WorldRunner",
+          "quote": "3D World Runner",
+          "reviewed_game_ids": ["cq086-g019"],
+          "comparison_status": "matched"
+        },
+        {
+          "id": "cq86-sample-Paragraph11-4",
+          "title": "Space Harrier comparison",
+          "quote": "Space Harrier",
+          "reviewed_game_ids": ["cq086-g020"],
+          "comparison_status": "matched"
+        }
+      ]
+    },
+    {
+      "location": "Paragraph 21",
+      "text": "\ngame that doesn’t use a lot of the same words. This was on everything, DOS Amiga, Master System in Europe, Game Boy, Super Nintendo Genesis, and this is just some platform game is what I wrote about it. - Yeah, big deal. Look, you’ve seen Cool Spot, it’s everywhere. It’s on all kinds of systems. So, you know, it’s on what, PlayStation, Super Nintendo, Genesis. - Is Cool Spot on PlayStation, geez. - Maybe it isn’t, I can’t remember. But it feels like this game is everywhere. - It does. And then the sequel is Spot Goes to Hollywood, which is like this isometric platform game and the one notable thing about this is the European box art is actually awesome. - Yeah, the European ox. Like, well, you should first compare it to the American box art, which is such dog shit. - It’s just spot standing in front of a red curtain with a spotlight. It’s just like, yeah, you bought the first three spot games. You’re just here for spot, buy this fucking game. - I like that there’s kind of a pun that spot isn’t a spotlight in Hollywood, you know, spotlight, get it, get it guys, the joke. - You have to explain references. I would have never got that. This is like the second\n\n",
+      "batch": "013",
+      "episode": 86,
+      "source_key": "sc-405814233",
+      "source_window_count": 40,
+      "references": [
+        {
+          "id": "cq86-sample-Paragraph21-1",
+          "title": "Cool Spot; PlayStation claim uncertain and corrected later",
+          "quote": "Cool Spot",
+          "reviewed_game_ids": ["cq086-g040"],
+          "comparison_status": "matched"
+        },
+        {
+          "id": "cq86-sample-Paragraph21-2",
+          "title": "Spot Goes to Hollywood",
+          "quote": "Spot Goes to Hollywood",
+          "reviewed_game_ids": ["cq086-g041"],
+          "comparison_status": "matched"
+        },
+        {
+          "id": "cq86-sample-Paragraph21-3",
+          "title": "Spot game family retrospective",
+          "quote": "first three spot games",
+          "reviewed_game_ids": ["cq086-g013"],
+          "comparison_status": "matched"
+        }
+      ]
+    },
+    {
+      "location": "Paragraph 31",
+      "text": "\nsome guys in the room. They’re like, \"All right, make a game about McDonald’s.\" And they’re like, \"All right, let’s, what’s the most popular game? Let’s do that.\" - Yeah, fine. Anyways. - You can hate it. That’s fine. I’ll keep hating RPGs. - So it was a weird, it’s a weird game that exists. It’s weird that McDonald’s had some... Like that’s, I mean, I don’t know if that’s a testament to how big McDonald’s was or to how big Nintendo was, or both. - I mean, it seems like it had to be McDonald’s ’cause they had like Genesis and Mega Drive games too. - I don’t have anything left to say. - That’s McDonald’s, great. - Yeah. They have video games, multiple video games. So let’s talk about something near and dear to my heart though. Skittles. What can you tell me about Skittles and video games? - I could tell you that you told me about a half hour ago that the original name of Dark and Sky on the X, or on the GameCube was Skittles Dark and Sky. And I had no idea. - Yeah. That game is revolves around Skittles. - So I knew that there was a Skittles advertising tie into that game. I didn’t realize that the entire magic system of\n\n",
+      "batch": "013",
+      "episode": 86,
+      "source_key": "sc-405814233",
+      "source_window_count": 40,
+      "references": [
+        {
+          "id": "cq86-sample-Paragraph31-1",
+          "title": "M.C. Kids critique continued from Paragraph30",
+          "quote": "make a game about McDonald’s",
+          "reviewed_game_ids": ["cq086-g036"],
+          "comparison_status": "matched"
+        },
+        {
+          "id": "cq86-sample-Paragraph31-2",
+          "title": "Darkened Skye GameCube; spoken title retained",
+          "quote": "Dark and Sky",
+          "reviewed_game_ids": ["cq086-g057"],
+          "comparison_status": "matched"
+        }
+      ]
+    },
+    {
+      "location": "00:35:17",
+      "text": "\nlove them uh popular genres like the genres that really had value jrpgs cuz RPGs always hold their value Shooters like 2D Shooters and fighting games uh mostly because of how much like Neo Geo and some like arcade stuff and some maybe some PS1 games um I think that's kind of all the same as it is now like yeah RPGs hold value and then the games that uh that you could play in short bursts people really like those uh I put this you didn't even know what these are SSI gold box games Johnny I'm not sure what this is what is this so not a lot of the collectors on Digi press collect PC games but but for some reason I always I I always saw people have these games the SSI Gold boox Series it's a huge series of RPGs for like Commodore Atari computers is this I wait there's like dungeon dragon games yeah yeah yeah okay yeah yeah I'm here now I got you they're just super common it is like if I was going to find computer games at a flea market like these stand out cuz they have like a\n\n",
+      "batch": "013",
+      "episode": 212,
+      "source_key": "sc-1419684073",
+      "source_window_count": 135,
+      "references": [
+        {
+          "id": "cq212-sample-00:35:17-1",
+          "title": "SSI Gold Box licensed D&D computer RPG family",
+          "quote": "SSI gold box games",
+          "reviewed_game_ids": ["cq212-g028"],
+          "comparison_status": "matched"
+        }
+      ]
+    },
+    {
+      "location": "01:11:35",
+      "text": "\nshould be worth $10,000 no it shouldn't cuz I could buy an entire arcade cabinet for that I'm like you should stop taking crazy the the shitty Sega Genesis things the JVC XI and CDX don't you dare don't you dare cared about those I still still care okay the JVC XI I'm a champion of I love that thing how dare you yep any if it just sounds like we said a bunch of letters it's because they named them really stupidly the JVC XI uh it was a Sega Genesis with a built-in karaoke machine really welld well positioned for the US market and thus very common also it was a SE CD player I'm sorry and Sega CD player how dare you um cool very cool costs like a $1,000 now probably more to get one of those complete in box like they're still very desirable but uh I think like and still excellent it's\n\n",
+      "batch": "013",
+      "episode": 212,
+      "source_key": "sc-1419684073",
+      "source_window_count": 135,
+      "references": []
+    },
+    {
+      "location": "01:47:47",
+      "text": "\ncollectors I don't think that's different from now that much I think people who collect older consoles they still a lot of cartridge collectors uh I think more the interesting thing is if you're the type of person who only collects like PS2 and newer games or even like PlayStation and newer games the concept of owning you might not even own any loose games because if you're collecting you know like Xbox and PS3 and PS4 like you're not collecting discs don't be a crazy person I mean that that might just become a moot thing at some at some point if people don't collect cartridges right I just thought that was kind of interesting I never really consider Ed it yeah well I think back then you just like you got what you got and like you were happy when you found something and it didn't matter so yeah it's a little different um also not many specialists so I said before that there were definitely Atari Specialists and there's definitely Nintendo Specialists um but I feel like you can find it's not common to find a specialist but like you know Dan Gomez a bit of an Xbox specialist you look at\n\n",
+      "batch": "013",
+      "episode": 212,
+      "source_key": "sc-1419684073",
+      "source_window_count": 135,
+      "references": []
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+# Batch016 verification
+
+CQ22/89/215:610 reference buckets,1,098 typed spans,223 action claims,312 source windows,1,278 searchable rows. Exact proofs2,260 record+1,995 fragment=4,255; fragments match and database fresh. Nineteen lists with181 memberships. Root full-source, all62 answer texts,223 action rows and181 memberships reviewed; see coordinator-source-read.md and exact answer-review.json.
+
+Final tuned62/62, original62/62, frozen17/17 in9 windows including2 no-reference windows; fresh10/10 across all three episodes. Initial57/62 tuned and56/62 original remain preserved. Fresh initial9/10 included one nonexistent locator introduced by coordinator; corrected to the actual01:20:08 heading, with the initial artifact and authoring-defect explanation retained. New preflight catches such invalid task/fresh locations before retrieval. No existing original question or required source evidence was relaxed.
+
+Shared suite218/218 passed in65.784seconds after final edits; the preceding217-test run also passed in118.658seconds. Logs are in generated/hour-regressions/. All accepted batch002–015 gates reran successfully after shared retrieval changes, pilot and all databases rebuilt, and archive preservation52/52 passed with no database failures. No old acceptance binding was renewed merely because code changed.
+
+These are captured-text development checks, not audio, external-history authentication, statistical blind recall or live cohosting. Fresh returned context ranges28–54windows; original results retain per-case returned-window counts. Broad context is still an efficiency limitation, not hidden by perfect required-window recall. Hardware, media, utilities, packaging, hypothetical games and series remain separate from individual-game rankings. Unresolved item flags remain represented and do not become confident answers.

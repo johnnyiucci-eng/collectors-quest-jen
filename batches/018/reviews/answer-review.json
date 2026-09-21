@@ -1,0 +1,880 @@
+{
+  "schema_version": "1",
+  "reviewer": "Root coordinator; separate complete supplied-source read retained, actual full answer prose reviewed",
+  "status": "semantic_answers_reviewed_runtime_passed",
+  "scope": "Root retained full independent149-window read, reviewed all47 actual complete answers and stored exact original/query/prose/forbidden/location snapshots. Record identity/action/list repairs and first retrieval failures are preserved separately. No blind/audio/live certification; acceptance requires final runtime and exact ledger binding.",
+  "cases": [
+    {
+      "id": "cq024-motivation",
+      "episode": 24,
+      "question": "Was nostalgia the only reason they gave for collecting?",
+      "query": "motivation nostalgia sets knowledge money reasons",
+      "answer": "No. Kat and Johnny describe nostalgia as their starting point, followed by goals such as completing sets and learning unfamiliar libraries. Johnny says discovering Genesis games beyond what he had borrowed as a child helped drive him to complete that collection. They discuss money as another possible motive but explicitly invite other explanations and doubt that their joking two-reason list is exhaustive.",
+      "forbidden": [
+        "No universal psychological rule.",
+        "No literal only-two-motives finding."
+      ],
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 16",
+        "Paragraph 17"
+      ],
+      "status": "passed",
+      "reason": "Nostalgia begins the discussion, but learning, sets and non-exhaustive motives remain explicit; Kat/Johnny, not Tyler."
+    },
+    {
+      "id": "cq024-classics",
+      "episode": 24,
+      "question": "Which Genesis examples illustrated the difference between sports-only collecting and learning the classics?",
+      "query": "Genesis classic Madden EA sports Sonics Shining Force Gunstar Ultra Beasts",
+      "answer": "The conversation contrasts a Madden or EA Sports-focused collection with examples such as Sonic, Shining Force, Gunstar Heroes and the unresolved caption form 'Ultra Beasts.' The point is to learn the library and its representative games, not that collecting sports games is invalid. The source does not give a ranked best-four list, and the unclear last title should not be silently corrected to a different catalog game.",
+      "forbidden": [
+        "No guessed correction of Ultra Beasts.",
+        "No unspoken sequel expansion or starter-set ranking."
+      ],
+      "evidence_locations": [
+        "Paragraph 4",
+        "Paragraph 5",
+        "Paragraph 6"
+      ],
+      "status": "passed",
+      "reason": "Four illustration buckets are not ranked starters; sports collecting remains valid and Ultra Beasts unresolved."
+    },
+    {
+      "id": "cq024-snes",
+      "episode": 24,
+      "question": "Why was Johnny nervous about finally finishing Super Nintendo?",
+      "query": "Super Nintendo unfinished emotional magic complete set 2004",
+      "answer": "Super Nintendo is Johnny's personal nostalgia anchor, and he says he has taken his time with it since roughly 2004. Although close to finishing, he fears that putting the last game on the shelf might end the motivation or magic that has kept him collecting. He repeatedly says he does not know whether that would happen. It is an unfinished set and a speculative fear, not a completed library or announced retirement.",
+      "forbidden": [
+        "No completed SNES set.",
+        "No declared retirement or invented private backstory."
+      ],
+      "evidence_locations": [
+        "Paragraph 6",
+        "Paragraph 7",
+        "Paragraph 8",
+        "Paragraph 15"
+      ],
+      "status": "passed",
+      "reason": "Unfinished emotional anchor and possible future loss of drive, not retirement or private biography."
+    },
+    {
+      "id": "cq024-sets",
+      "episode": 24,
+      "question": "Which sets were finished, and were Game Gear or Wii anywhere near the same kind of commitment?",
+      "query": "Genesis NES finished N64 Master System Game Gear fifty seventy Wii1200 32X",
+      "answer": "Johnny reports completing Genesis, and Kat's NES set is described as finished. Her N64 and Master System sets are still unfinished, despite being close. Johnny says Game Gear is about fifty carts short, with roughly seventy boxes owned, and that he chose a cart-only goal. He is also collecting Wii but is unsure he has the drive for a roughly twelve-hundred-game library. A finished-32X remark occurs across an unlabelled transition; the supplied wording is insufficient to confidently assign it to Kat.",
+      "forbidden": [
+        "No seventy CIB GameGear games.",
+        "No1200 Wii games owned.",
+        "No definitive Kat32X completion."
+      ],
+      "evidence_locations": [
+        "Paragraph 3",
+        "Paragraph 8",
+        "Paragraph 9",
+        "Paragraph 10",
+        "Paragraph 14",
+        "Paragraph 15"
+      ],
+      "status": "passed",
+      "reason": "Genesis/NES completed versus other unfinished goals; box/cart counts and uncertain 32X actor preserved."
+    },
+    {
+      "id": "cq024-kat_origin",
+      "episode": 24,
+      "question": "Why did Kat say NES collecting was more exciting even though N64 was more nostalgic?",
+      "query": "Kat NES gift friends original N64 Donkey Kong excitement",
+      "answer": "Kat retains her original N64 and Donkey Kong cartridge in that system's context and remembers playing N64 with friends. Yet she says the NES set brought an excitement the later sets have not matched. It began when a friend gave the household a couple of NES consoles and a lot of games, and finding things in the wild felt more like an adventure. The source does not supply the Donkey Kong cartridge's full title, and the household gift is not a new gift during this episode.",
+      "forbidden": [
+        "No exact Donkey Kong title forced.",
+        "No gift to Johnny.",
+        "No fresh console purchase."
+      ],
+      "evidence_locations": [
+        "Paragraph 9",
+        "Paragraph 17",
+        "Paragraph 18"
+      ],
+      "status": "passed",
+      "reason": "Retained childhood N64 differs from historical household NES gift; exact Donkey Kong installment unknown."
+    },
+    {
+      "id": "cq024-gameboy",
+      "episode": 24,
+      "question": "Did Kat decide to collect every Game Boy game complete in box?",
+      "query": "Game Boy curated cart box CIB cart only shelf NES",
+      "answer": "No. She initially considers a curated Game Boy collection with at least carts and boxes, perhaps CIB, rather than the entire boxed library. Johnny then suggests a cart-only set paired visually with her cart-only NES collection. Kat welcomes that as more obtainable and potentially fun, while still wanting boxes for selected games. That is an evolving possibility, not a completed set or a firm promise to buy every boxed release.",
+      "forbidden": [
+        "No fullCIB commitment.",
+        "No completed new collection.",
+        "No shelf already built."
+      ],
+      "evidence_locations": [
+        "Paragraph 10",
+        "Paragraph 15",
+        "Paragraph 18",
+        "Paragraph 19"
+      ],
+      "status": "passed",
+      "reason": "Curated boxed preference evolves into possible cart-only pairing, not whole-library CIB commitment."
+    },
+    {
+      "id": "cq024-prices",
+      "episode": 24,
+      "question": "Were they predicting a market crash, or explaining why collecting could lose its appeal?",
+      "query": "prices exchange import Canada supply demotivator2011",
+      "answer": "They explore demotivators rather than predict a crash. Kat highlights prices, Canadian exchange and import costs, and difficulty getting to local listings before others. Johnny wonders where prices might drive casual collectors away, while distinguishing common nostalgia games from scarce set-completion targets. He also remembers calling prices excessive in 2011 yet still collecting five years later. These are dated opinions and experiences, not verified supply statistics, current prices or a market forecast.",
+      "forbidden": [
+        "No investment advice or crash prediction.",
+        "No present-day exchange rate.",
+        "No objective all-games supply claim."
+      ],
+      "evidence_locations": [
+        "Paragraph 11",
+        "Paragraph 12",
+        "Paragraph 13",
+        "Paragraph 14"
+      ],
+      "status": "passed",
+      "reason": "Dated cost/access observations and 2011 recollection, not market forecasts or current financial guidance."
+    },
+    {
+      "id": "cq024-display",
+      "episode": 24,
+      "question": "How did Johnny organize the boxes, and did color grouping mean he abandoned alphabetization?",
+      "query": "Super Nintendo NES Genesis publisher color alphabetical shelf",
+      "answer": "Johnny prefers the Super Nintendo boxes and says that collection is alphabetical. He groups much of his NES packaging by publisher and color, naming Tengen, Konami, Capcom and Black Box groups, but clarifies that the publisher groups are alphabetized too. Genesis is organized by color. The boasting about superior organization is banter; the episode even acknowledges items temporarily out of place.",
+      "forbidden": [
+        "No universal perfectlyorderedcollection.",
+        "No completepublisher subset inference."
+      ],
+      "evidence_locations": [
+        "Paragraph 20",
+        "Paragraph 21",
+        "Paragraph 22"
+      ],
+      "status": "passed",
+      "reason": "Publisher/color organization still includes alphabetical groups; no perfect universal ordering."
+    },
+    {
+      "id": "cq024-pickups",
+      "episode": 24,
+      "question": "Who got the Mattel Final Fantasy box and Lost Vikings, and did Johnny really receive a mailed gift?",
+      "query": "Kat Final Fantasy Mattel box Lost Vikings N64 pickup gift Johnny",
+      "answer": "Kat reports the Final Fantasy box with the Mattel logo, Lost Vikings and a handful of unnamed N64 games. Johnny says the Mattel Final Fantasy variant is the one he lacks and wants. Their supposed mailed Lost Vikings gift is teasing, not an established transfer to him. Kat says she has never played Lost Vikings and asks whether it is worth trying; Johnny recommends it. The Final Fantasy evidence is box-only, not proof of a newly purchased cartridge or complete game.",
+      "forbidden": [
+        "No Johnny receivedgift.",
+        "No exact N64titles/count.",
+        "No new CIB FinalFantasy game."
+      ],
+      "evidence_locations": [
+        "Paragraph 23"
+      ],
+      "status": "passed",
+      "reason": "Kat receives box/pickups; Johnny wants variant; teasing shipment not actual transfer."
+    },
+    {
+      "id": "cq024-cabinet",
+      "episode": 24,
+      "question": "Had Johnny's virtual pinball machine arrived, and what else did he get for Wii?",
+      "query": "virtual pinball bought month Arizona Wii Target two pack slipcover",
+      "answer": "Johnny says he bought a virtual pinball cabinet, but it had not arrived: parts and building were expected to take about a month, with shipping from Arizona perhaps taking about three days afterward. These are estimates. He also reports about five or six recent Wii games, items sent by Wing Games, and a Target two-pack with an exclusive slipcover. Its component captions read 'Enchanted Princesses' and 'Entangled' followed by 'And Tangle'; the exact catalog identities remain qualified rather than silently normalized.",
+      "forbidden": [
+        "No guaranteed delivery date.",
+        "No cabinet played.",
+        "No everyitem gifted byWingGames.",
+        "No exact component identityforced."
+      ],
+      "evidence_locations": [
+        "Paragraph 23",
+        "Paragraph 24",
+        "Paragraph 25"
+      ],
+      "status": "passed",
+      "reason": "Paid cabinet remains unfulfilled; Wii pickups distinct from uncertain two-pack component identities."
+    },
+    {
+      "id": "cq024-life",
+      "episode": 24,
+      "question": "What did this episode establish about their Life is Strange copies and Kat's reaction?",
+      "query": "Life Strange collector edition physical download Canadian ten seven 45minutes",
+      "answer": "Johnny explicitly says he bought the collector's edition and has a physical disc. Kat went with the download, described as about ten Canadian dollars, conversationally compared with seven US dollars. She says she needs to give it another good try and promises forty-five minutes, but remains unsure whether it suits her. The promised trial and a possible future opinion from John are not completed play or final reviews. The US-dollar comparison is a historical conversational approximation, not a current conversion.",
+      "forbidden": [
+        "No final Katdislike.",
+        "No Johnplayed.",
+        "No already45minutesnewplay.",
+        "No currentexchangerate."
+      ],
+      "evidence_locations": [
+        "Paragraph 25",
+        "Paragraph 26"
+      ],
+      "status": "passed",
+      "reason": "Physical versus download and historical approximate price; further trial and John's hypothetical opinion remain uncompleted."
+    },
+    {
+      "id": "cq024-prominence",
+      "episode": 24,
+      "question": "Which individual games actually received the most discussion, excluding all the talk about system collections?",
+      "query": "individual games meaningful Life Strange Lost Vikings Shining Force Gunstar Ultra Beasts",
+      "answer": "Life is Strange has two meaningful paragraphs, 25 and 26. Lost Vikings, Shining Force, Gunstar Heroes and the unresolved 'Ultra Beasts' reference each have one meaningful paragraph, forming a four-way tie next; there is no unique third-place game. The Genesis examples receive supporting credit as explicitly selected classics, while Lost Vikings has a play/recommendation exchange. Library sets, consoles, box variants, the Wii two-pack as a collection product and Life is Strange's collector-edition packaging are excluded from individual-game coverage. These are paragraph units, not timed speech or a favorites ranking.",
+      "forbidden": [
+        "No SNESsetrankedasgame.",
+        "No fabricatedUltraBeastscanonicaltitle.",
+        "No top3forced."
+      ],
+      "evidence_locations": [
+        "Paragraph 4",
+        "Paragraph 23",
+        "Paragraph 25",
+        "Paragraph 26"
+      ],
+      "status": "passed",
+      "reason": "Two paragraph leader and four-way next tie; series, library collections and accessories excluded."
+    },
+    {
+      "id": "cq217-solo",
+      "episode": 217,
+      "question": "Was Tyler part of this AMA?",
+      "query": "Was Tyler part of this AMA?",
+      "answer": "No. Johnny says he is hosting alone while Tyler takes a break; this is an experimental AMA, not a researched regular episode.",
+      "forbidden": [
+        "Do not attribute Johnny’s answers to Tyler."
+      ],
+      "evidence_locations": [
+        "00:00:00",
+        "00:01:04"
+      ],
+      "status": "passed",
+      "reason": "Johnny alone, Tyler absent; public AMA not a researched regular episode."
+    },
+    {
+      "id": "cq217-ps1",
+      "episode": 217,
+      "question": "What were Johnny’s three favorite PS1-era RPGs?",
+      "query": "What were Johnny’s three favorite PS1-era RPGs?",
+      "answer": "Dragon Warrior VII is firm and Final Fantasy VII is considered nostalgically. The third answer is inconsistent: he says Dragon Warrior V and then Final Fantasy V. Chrono Cross is a later aside. A clean definitive three-title list would overstate the source.",
+      "forbidden": [
+        "Do not silently change Dragon Warrior V to Final Fantasy V or claim three settled choices."
+      ],
+      "evidence_locations": [
+        "00:03:09",
+        "00:04:10",
+        "00:11:35"
+      ],
+      "status": "passed",
+      "reason": "Definite Dragon Warrior VII, tentative FFVII, unresolved V slip and later Chrono Cross aside remain distinct."
+    },
+    {
+      "id": "cq217-five",
+      "episode": 217,
+      "question": "What five RPGs did Johnny finally pick for 1980–1999?",
+      "query": "What five RPGs did Johnny finally pick for 1980–1999?",
+      "answer": "His final five are Final Fantasy, Dragon Warrior IV, Final Fantasy II, Final Fantasy V and Chrono Trigger. Dragon Warrior III was an earlier choice he replaced; Chrono Cross and EarthBound are mentioned but not in the final five.",
+      "forbidden": [
+        "Do not include every named RPG as a final member."
+      ],
+      "evidence_locations": [
+        "00:10:35",
+        "00:11:35"
+      ],
+      "status": "passed",
+      "reason": "Final five preserves III-to-IV revision and excludes merely considered Cross/EarthBound."
+    },
+    {
+      "id": "cq217-cover",
+      "episode": 217,
+      "question": "Did Johnny hate Amidar after playing it?",
+      "query": "Did Johnny hate Amidar after playing it?",
+      "answer": "No play is established. He first says he does not know the game transcribed as amadar, then dislikes the supplied cover image. His explicit brief-play complaint concerns Beyond Good & Evil instead.",
+      "forbidden": [
+        "Do not convert cover criticism into gameplay experience."
+      ],
+      "evidence_locations": [
+        "00:11:35",
+        "00:12:42",
+        "00:13:47"
+      ],
+      "status": "passed",
+      "reason": "Initial unfamiliarity and image criticism cannot imply play; separate Beyond Good & Evil experience."
+    },
+    {
+      "id": "cq217-hunt",
+      "episode": 217,
+      "question": "What was Johnny’s first difficult game hunt?",
+      "query": "What was Johnny’s first difficult game hunt?",
+      "answer": "He identifies Virtua Fighter Remix for Sega Saturn, during his first complete-set pursuit. He says finding it was difficult, but this answer does not explicitly confirm the hunt ended in acquisition.",
+      "forbidden": [
+        "Do not infer purchase or delivery."
+      ],
+      "evidence_locations": [
+        "00:13:47"
+      ],
+      "status": "passed",
+      "reason": "Saturn Virtua Fighter Remix hunt difficulty, not proved purchase or delivery."
+    },
+    {
+      "id": "cq217-keep",
+      "episode": 217,
+      "question": "Which games would Johnny keep if he reduced his collection?",
+      "query": "Which games would Johnny keep if he reduced his collection?",
+      "answer": "His tentative five centers on Final Fantasy II, original Zelda, Metroid, Castlevania and maybe Symphony of the Night. He then gives a firmer three-game core of Final Fantasy, Zelda and Final Fantasy II, despite initially excluding the first Final Fantasy from the five. It is a hypothetical changing answer, not an actual sale.",
+      "forbidden": [
+        "Do not force stable five or report a sale."
+      ],
+      "evidence_locations": [
+        "00:14:50",
+        "00:15:50"
+      ],
+      "status": "passed",
+      "reason": "Tentative five and later three core differ; hypothetical retention not sale."
+    },
+    {
+      "id": "cq217-switch",
+      "episode": 217,
+      "question": "Is Johnny going for a complete Switch set?",
+      "query": "Is Johnny going for a complete Switch set?",
+      "answer": "No. He describes regions, boutique releases and unfamiliar games as making it a nightmare set, though he wants to see others attempt it.",
+      "forbidden": [
+        "Do not interpret refusal of set as owning no Switch games."
+      ],
+      "evidence_locations": [
+        "00:18:55",
+        "00:20:00"
+      ],
+      "status": "passed",
+      "reason": "Declines full set, not all Switch ownership."
+    },
+    {
+      "id": "cq217-father",
+      "episode": 217,
+      "question": "What game does Johnny most want to play with his son?",
+      "query": "What game does Johnny most want to play with his son?",
+      "answer": "He hopes to share Final Fantasy and Zelda, but says he is most excited for whatever game his son discovers and loves; that game is still unknown. Fatherhood also changed collection space and his approach to respectful handling.",
+      "forbidden": [
+        "Do not claim the son has played these or identify his favorite."
+      ],
+      "evidence_locations": [
+        "00:22:11",
+        "00:24:17",
+        "00:25:18"
+      ],
+      "status": "passed",
+      "reason": "Future family hopes with unknown son's favorite; installment scope remains unspecified."
+    },
+    {
+      "id": "cq217-inventory",
+      "episode": 217,
+      "question": "Had Johnny finished cataloguing all his games?",
+      "query": "Had Johnny finished cataloguing all his games?",
+      "answer": "No. He reports about 4,500 rescanned games, using UPCs and correcting covers after earlier database/life disruptions. He hopes staying current will be easier once the backlog is finished. Space and display are also major problems.",
+      "forbidden": [
+        "Do not equate scanned count with total collection or completed inventory."
+      ],
+      "evidence_locations": [
+        "00:28:32",
+        "00:29:32"
+      ],
+      "status": "passed",
+      "reason": "Approximate 4500 rescans with unfinished backlog; not total collection count."
+    },
+    {
+      "id": "cq217-future",
+      "episode": 217,
+      "question": "Did Johnny guarantee old games will avoid a value crash?",
+      "query": "Did Johnny guarantee old games will avoid a value crash?",
+      "answer": "No. He thinks a train-like decline is possible but less likely, using an informal 20/80 estimate and Nintendo brand persistence as his reasoning. Physical-media changes and future collecting habits remain open questions.",
+      "forbidden": [
+        "Do not present percentages as measured probability or investment advice."
+      ],
+      "evidence_locations": [
+        "00:31:40",
+        "00:32:45",
+        "00:33:48"
+      ],
+      "status": "passed",
+      "reason": "Informal 20/80 speculation, not measured forecast or guarantee."
+    },
+    {
+      "id": "cq217-planned",
+      "episode": 217,
+      "question": "Were the movie-ticket and Harry Potter episodes confirmed?",
+      "query": "Were the movie-ticket and Harry Potter episodes confirmed?",
+      "answer": "No. He hopes to cover his favorite movie-ticket variants with Tyler and says a Harry Potter episode might involve asking Dialogue Alley. Neither a booking nor completed episode is established.",
+      "forbidden": [
+        "Do not report scheduled guests or completed publication."
+      ],
+      "evidence_locations": [
+        "00:26:19"
+      ],
+      "status": "passed",
+      "reason": "Desired episode topics/possible invitation, not scheduled guest or publication."
+    },
+    {
+      "id": "cq217-pickups",
+      "episode": 217,
+      "question": "What did Johnny buy recently, and what Metroid gift did he remember?",
+      "query": "What did Johnny buy recently, and what Metroid gift did he remember?",
+      "answer": "Recent items are unnamed GameCube games, Magic cards for his Cube and Metroid Prime Remastered on Switch. The original GameCube and Metroid Prime were older gifts bought by his wife after he wanted to play; she had also bought him an Xbox. Do not merge the old gift with the current remaster.",
+      "forbidden": [
+        "Do not invent unnamed games or make wife the buyer of current remaster."
+      ],
+      "evidence_locations": [
+        "00:45:38",
+        "00:46:39",
+        "00:47:40"
+      ],
+      "status": "passed",
+      "reason": "Recent remaster and unnamed purchases distinguished from wife's historical GameCube/Prime/Xbox gifts."
+    },
+    {
+      "id": "cq217-stories",
+      "episode": 217,
+      "question": "Were the exorcism, Nantucket and tortoise stories all factual claims?",
+      "query": "Were the exorcism, Nantucket and tortoise stories all factual claims?",
+      "answer": "No. The apartment story is Johnny’s recollection, with explicit skepticism about the supernatural interpretation and no independent verification here. The Nantucket tale is an invented adult bedtime joke. He also admits making up the tortoise distress explanation to tease Carly; it is not animal-care information.",
+      "forbidden": [
+        "Do not authenticate crime or supernatural claims, adopt fiction as biography, or repeat prank as zoology."
+      ],
+      "evidence_locations": [
+        "00:06:19",
+        "00:07:22",
+        "00:08:28",
+        "00:09:30",
+        "00:10:35",
+        "00:34:51",
+        "00:41:19",
+        "00:44:35"
+      ],
+      "status": "passed",
+      "reason": "Skeptical recollection, invented adult story and admitted prank have different truth status."
+    },
+    {
+      "id": "cq217-obscure",
+      "episode": 217,
+      "question": "What obscure Genesis game did Johnny recommend?",
+      "query": "What obscure Genesis game did Johnny recommend?",
+      "answer": "He names Undead Line on Mega Drive, calls it a vertical shooter and says it was not released locally. The recommendation is clear; the release geography remains his unverified dated claim.",
+      "forbidden": [
+        "Do not treat local release claim as externally verified."
+      ],
+      "evidence_locations": [
+        "00:05:16"
+      ],
+      "status": "passed",
+      "reason": "Clear Undead Line recommendation; release geography retained as attributed unverified claim."
+    },
+    {
+      "id": "cq217-hogwarts",
+      "episode": 217,
+      "question": "What did Johnny enjoy about Hogwarts Legacy?",
+      "query": "What did Johnny enjoy about Hogwarts Legacy?",
+      "answer": "He says he has played it and finds it enjoyable, especially exploring Hogwarts and its surroundings even if someone dislikes the story or other gameplay elements. This records his experience, not agreement on unrelated political issues.",
+      "forbidden": [
+        "Do not attribute a political position beyond the source or claim Tyler played."
+      ],
+      "evidence_locations": [
+        "00:25:18",
+        "00:45:38"
+      ],
+      "status": "passed",
+      "reason": "Johnny's enjoyed exploration and play, not Tyler's or inferred politics."
+    },
+    {
+      "id": "cq091-task-variant",
+      "episode": 91,
+      "question": "What made Tyler's No Mercy copy special?",
+      "query": "No Mercy dash1 Canada13 save deletion",
+      "answer": "Tyler describes a -1 cartridge product code identifying a fixed version of No Mercy, with unchanged box and manual. He says he searched for over a year and found his copy in Canada for about $13. The save-fix story, historical batch sale and possible bounty are attributed reports, not independently verified current rarity or value.",
+      "forbidden": [
+        "Current price",
+        "Verified fix",
+        "Every No Mercy copy is fixed"
+      ],
+      "evidence_locations": [
+        "Paragraph 35",
+        "Paragraph 36",
+        "Paragraph 37"
+      ],
+      "status": "passed",
+      "reason": "-1 cartridge code and historical Canadian find; unchanged packaging, uncertainty and unverified value/fix kept."
+    },
+    {
+      "id": "cq091-task-cover",
+      "episode": 91,
+      "question": "Were they criticizing the same wrestling cover?",
+      "query": "ECW Hardcore Revolution No Mercy cover correction",
+      "answer": "No. Johnny was describing ECW Hardcore Revolution's chair-kick image while Tyler initially looked at No Mercy. They explicitly resolve the mismatch, so the entire criticism should not be assigned to the No Mercy cover.",
+      "forbidden": [
+        "Both ECW throughout"
+      ],
+      "evidence_locations": [
+        "Paragraph 32",
+        "Paragraph 33",
+        "Paragraph 34"
+      ],
+      "status": "passed",
+      "reason": "ECW cover is Johnny's referent while Tyler initially views No Mercy; actual misalignment retained."
+    },
+    {
+      "id": "cq091-task-cdi",
+      "episode": 91,
+      "question": "Did Tyler finally receive a CD-i?",
+      "query": "CDi400130 shipping refund console",
+      "answer": "Not in this episode. The $400 lot went silent for two months and he pursued his money back. The later $130 seller demanded another $45 for shipping. Other refurbished or bundled listings are only considered, and the conversation ends without a confirmed delivered console.",
+      "forbidden": [
+        "Received third listing",
+        "Refund completion certain"
+      ],
+      "evidence_locations": [
+        "Paragraph 64",
+        "Paragraph 65",
+        "Paragraph 66",
+        "Paragraph 68",
+        "Paragraph 69"
+      ],
+      "status": "passed",
+      "reason": "Tyler paid but no delivered CD-i; first refund outcome qualified, third listing only considered."
+    },
+    {
+      "id": "cq091-task-zelda",
+      "episode": 91,
+      "question": "Which CD-i Zelda games did he have already?",
+      "query": "Faces Evil Wand Gamalon Zelda Adventure",
+      "answer": "Tyler says he bought Faces of Evil and The Wand of Gamelon earlier in the year. Zelda's Adventure is still wanted. He wants a console to play those games; purchase is not evidence that he has played them.",
+      "forbidden": [
+        "All three owned",
+        "Played"
+      ],
+      "evidence_locations": [
+        "Paragraph 64",
+        "Paragraph 67"
+      ],
+      "status": "passed",
+      "reason": "Two earlier CD-i Zelda purchases, Adventure still wanted; no inferred play."
+    },
+    {
+      "id": "cq091-task-bom",
+      "episode": 91,
+      "question": "How did Johnny get his boxed Bomberman?",
+      "query": "Bomberman93 box HuCard separate150160",
+      "answer": "Johnny sourced the Bomberman '93 box separately and negotiated a HuCard from another seller, assembling the complete copy for roughly $150–160 and also mentioning use of eBay bucks. The exact net cash outlay is not established. Tyler's much cheaper memory concerns the PC Engine version, not that same regional boxed purchase.",
+      "forbidden": [
+        "Single CIB listing"
+      ],
+      "evidence_locations": [
+        "Paragraph 60",
+        "Paragraph 61"
+      ],
+      "status": "passed",
+      "reason": "Separate box/HuCard assembly with approximate total and eBay bucks mentioned; exact net payment not established."
+    },
+    {
+      "id": "cq091-task-upgrade",
+      "episode": 91,
+      "question": "Did Tyler buy another Time Killers cartridge?",
+      "query": "Time Killers box manual registration Eternal Champions",
+      "answer": "He says he already had the cartridge for years and finally got the box, manual and registration card after losing auctions. His description of a very violent game then shifts to Eternal Champions on Sega CD; the Dreamcast suggestion is banter, not a release identification.",
+      "forbidden": [
+        "New cartridge",
+        "Dreamcast title"
+      ],
+      "evidence_locations": [
+        "Paragraph 61",
+        "Paragraph 62",
+        "Paragraph 63"
+      ],
+      "status": "passed",
+      "reason": "Packaging upgrade for existing cartridge; violent-game confusion and Dreamcast joke not new title purchase."
+    },
+    {
+      "id": "cq091-task-changes",
+      "episode": 91,
+      "question": "What did they correct from the previous show?",
+      "query": "Limited Run benefit Iron Maiden Metallica artist",
+      "answer": "Johnny acknowledges that giving digital games physical releases is a benefit while retaining his criticism of Limited Run's sales model. Tyler corrects the artist claim: raw Dirty Donnie for Metallica, and Zombie Eddie for Iron Maiden and Ghostbusters. These are their stated corrections, not externally checked credits.",
+      "forbidden": [
+        "Johnny endorses model",
+        "Credits independently verified"
+      ],
+      "evidence_locations": [
+        "Paragraph 48",
+        "Paragraph 49",
+        "Paragraph 50"
+      ],
+      "status": "passed",
+      "reason": "Physical-release benefit qualifies rather than retracts sales-model criticism; artist names are attributed raw forms."
+    },
+    {
+      "id": "cq091-task-play",
+      "episode": 91,
+      "question": "Which axe games had Tyler actually finished?",
+      "query": "Astyanax Legendary Axe Golden Axe beaten",
+      "answer": "Tyler is playing Astyanax and Legendary Axe but explicitly has not beaten Legendary Axe. He reports his first completion of Genesis Golden Axe and dislikes it, whereas Johnny likes the trilogy. Legendary Axe II is discussed without a completed play report, and their prequel/arcade lineage explanation is confused rather than verified history.",
+      "forbidden": [
+        "All axe games finished",
+        "Verified lineage"
+      ],
+      "evidence_locations": [
+        "Paragraph 70",
+        "Paragraph 71",
+        "Paragraph 72",
+        "Paragraph 73"
+      ],
+      "status": "passed",
+      "reason": "Golden Axe completion contrasts with unfinished Legendary Axe; sequel and lineage uncertainty retained."
+    },
+    {
+      "id": "cq091-task-rank",
+      "episode": 91,
+      "question": "Which individual games receive the most discussion?",
+      "query": "Pro Wrestling No Mercy Muscle meaningful coverage",
+      "answer": "Pro Wrestling leads with nine meaningful paragraphs, followed by No Mercy with eight and M.U.S.C.L.E. with four. These are untimed paragraph unions, not minutes, favorites or purchase counts. No Mercy includes the replacement-cartridge story and the cover mixup; Pro Wrestling combines play memories, design and collecting. Passing mentions and non-game items do not earn this coverage.",
+      "forbidden": [
+        "Exact minutes",
+        "Preference ranking"
+      ],
+      "evidence_locations": [
+        "Paragraph 15",
+        "Paragraph 16",
+        "Paragraph 17",
+        "Paragraph 18",
+        "Paragraph 19",
+        "Paragraph 20",
+        "Paragraph 22",
+        "Paragraph 27",
+        "Paragraph 28",
+        "Paragraph 32",
+        "Paragraph 33",
+        "Paragraph 34",
+        "Paragraph 35",
+        "Paragraph 36",
+        "Paragraph 37",
+        "Paragraph 46",
+        "Paragraph 47",
+        "Paragraph 21",
+        "Paragraph 24"
+      ],
+      "status": "passed",
+      "reason": "Actual mapped paragraph unions9/8/4; not seconds, favorites or acquisition counts."
+    },
+    {
+      "id": "cq091-task-roster",
+      "episode": 91,
+      "question": "How did the hosts differ in their wrestling backgrounds?",
+      "query": "Tyler Johnny wrestling six years childhood WWF binge Attitude",
+      "answer": "Tyler is the newer fan who says he started around six years earlier, then watched a great deal of older wrestling while skipping the Attitude Era. Johnny recalls childhood WWF and only recently watched NXT and WrestleMania with friends while playing board games. Neither presents this as complete expertise, and the episode has no guest host.",
+      "forbidden": [
+        "Kat present",
+        "Tyler lifelong wrestling fan",
+        "Complete expertise"
+      ],
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 5",
+        "Paragraph 6",
+        "Paragraph 7",
+        "Paragraph 9",
+        "Paragraph 11",
+        "Paragraph 12",
+        "Paragraph 26"
+      ],
+      "status": "passed",
+      "reason": "Distinct Tyler newer fandom and Johnny childhood memories; no guest or expertise claim."
+    },
+    {
+      "id": "cq091-task-scope",
+      "episode": 91,
+      "question": "Was this meant to be a complete guide to wrestling games?",
+      "query": "wrestling games selective knowledge collectible eighty licensed",
+      "answer": "No. The opening says they cannot cover all roughly eighty licensed WWE/WCW games, and Tyler later explains that he chose games he can discuss or finds collectible. Their uncertain NES counts and self-corrections reinforce that this is a selective conversation, not an authoritative complete catalog. The approximately eighty figure is their scope estimate, not an independently counted total.",
+      "forbidden": [
+        "Every wrestling game covered",
+        "All unmentioned games unimportant"
+      ],
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 27",
+        "Paragraph 28",
+        "Paragraph 29"
+      ],
+      "status": "passed",
+      "reason": "Deliberately selective discussion; approximate licensed-game count not an exhaustive verified catalog."
+    },
+    {
+      "id": "cq091-task-favorites",
+      "episode": 91,
+      "question": "Did they agree about the best wrestling game?",
+      "query": "Johnny Pro Wrestling Amazon Tyler No Mercy Starman",
+      "answer": "Johnny's nostalgia centers on Pro Wrestling and Amazon, while Tyler recalls using Starman without getting deeply into that game and names No Mercy as his favorite. Their later Def Jam comparison is complicated by whether it belongs in the wrestling genre. That is not a single agreed ranking of every wrestling game.",
+      "forbidden": [
+        "Unanimous favorite"
+      ],
+      "evidence_locations": [
+        "Paragraph 15",
+        "Paragraph 16",
+        "Paragraph 32",
+        "Paragraph 45",
+        "Paragraph 46",
+        "Paragraph 47"
+      ],
+      "status": "passed",
+      "reason": "Different favorite histories and genre dispute, not consensus ranking."
+    },
+    {
+      "id": "cq091-task-prices",
+      "episode": 91,
+      "question": "Which cheap-game assumptions did the other host challenge?",
+      "query": "MUSCLE3 ten twelve fifty Smackdown Raw2011 dollar bin Fire Pro GBA",
+      "answer": "M.U.S.C.L.E. moves from Tyler's casual $3 estimate to roughly $10–12 loose and about $50 boxed in their lookup. SmackDown vs. Raw 2011's dollar-bin dismissal is challenged with platform and brand-value qualifications. The vague claim of an expensive GBA Fire Pro game is also tested against two modest price examples. These are dated discussion prices, not current buying advice.",
+      "forbidden": [
+        "Current valuations",
+        "Every WWE game always same price"
+      ],
+      "evidence_locations": [
+        "Paragraph 19",
+        "Paragraph 20",
+        "Paragraph 21",
+        "Paragraph 22",
+        "Paragraph 30",
+        "Paragraph 31"
+      ],
+      "status": "passed",
+      "reason": "Historical price assumptions challenged for MUSCLE/SmackDown/FirePro, not current prices."
+    },
+    {
+      "id": "cq091-task-greatesthits",
+      "episode": 91,
+      "question": "Which games did Johnny name during the PS2 Greatest Hits lookup?",
+      "query": "PS2 greatest hits SmackDown2006 Raw2011 Here Comes Pain Shut Mouth Just Bring",
+      "answer": "The tentative lookup names SmackDown vs. Raw 2006, SmackDown vs. Raw 2011, Here Comes the Pain, Shut Your Mouth and Just Bring It. The 2006 wording is fragmented, and Johnny ends with 'five or six' rather than a firm complete count. These are reported candidates from that conversation, not independently verified Greatest Hits editions or a preference list.",
+      "forbidden": [
+        "Definitive five-title catalog",
+        "Preferred games"
+      ],
+      "evidence_locations": [
+        "Paragraph 41",
+        "Paragraph 42"
+      ],
+      "status": "passed",
+      "reason": "Five tentative Greatest Hits candidates plus uncertain five-or-six count; source list not verified catalog."
+    },
+    {
+      "id": "cq091-task-pcvariant",
+      "episode": 91,
+      "question": "Did Johnny actually verify three Player's Choice wrestling variants?",
+      "query": "N64 Players Choice three one WCW nWo shelf",
+      "answer": "No. He initially wonders about three, then thinks it may be only one WCW/nWo game, without securely naming the installment. He also says he never got up to inspect the shelf. His broad claim of owning all Player's Choice games does not resolve that uncertain wrestling count.",
+      "forbidden": [
+        "Specific World Tour confirmed",
+        "Three verified"
+      ],
+      "evidence_locations": [
+        "Paragraph 38",
+        "Paragraph 39",
+        "Paragraph 40",
+        "Paragraph 41"
+      ],
+      "status": "passed",
+      "reason": "Possibly one unresolved WCW/nWo variant; no actual shelf inspection or verified three."
+    },
+    {
+      "id": "cq091-task-xbox",
+      "episode": 91,
+      "question": "What should we infer from the Xbox exclusivity and Halo discussion?",
+      "query": "Raw2 Halo2 PC Xbox360 Metal Wolf Chaos exclusives",
+      "answer": "Raw 2 and Metal Wolf Chaos are examples in their dated Xbox-exclusivity argument. Tyler first says he played Halo 2 on PC, then retracts that memory toward Xbox 360. The conversation does not support recording a certain PC session or treating their 2018 exclusivity opinions as a current platform list.",
+      "forbidden": [
+        "Certain PC play",
+        "Current exclusive list"
+      ],
+      "evidence_locations": [
+        "Paragraph 42",
+        "Paragraph 43",
+        "Paragraph 58"
+      ],
+      "status": "passed",
+      "reason": "PC-play statement retracted toward360; dated exclusivity not present fact."
+    },
+    {
+      "id": "cq091-task-notifications",
+      "episode": 91,
+      "question": "Did the auction notification mean Tyler bought Primal Rage?",
+      "query": "Primal Rage32X losing auction",
+      "answer": "No. Tyler starts by joking about winning auctions, then reads the notification and corrects himself: he lost Primal Rage on 32X. It is a failed attempt, not an acquisition.",
+      "forbidden": [
+        "Won",
+        "Received"
+      ],
+      "evidence_locations": [
+        "Paragraph 47"
+      ],
+      "status": "passed",
+      "reason": "Notification is a lost auction, not bought/received Primal Rage."
+    },
+    {
+      "id": "cq091-task-sega",
+      "episode": 91,
+      "question": "Was Sega announcing a brand-new competing console?",
+      "query": "Sega console hypothetical Shenmue port mini AtGames Ages",
+      "answer": "The hosts question why people wanted a new competing Sega console, but the news they discuss is different: Shenmue ports/upscales, a Mini-style product they associate with AtGames, compilations and SEGA AGES downloads. Those are their contemporary reports and interpretations; the imagined new high-end console is not an announced purchase opportunity.",
+      "forbidden": [
+        "New competing console announced",
+        "Current product specs verified"
+      ],
+      "evidence_locations": [
+        "Paragraph 50",
+        "Paragraph 51",
+        "Paragraph 54",
+        "Paragraph 55",
+        "Paragraph 56",
+        "Paragraph 57",
+        "Paragraph 59"
+      ],
+      "status": "passed",
+      "reason": "Hypothetical competing console differs from attributed port/Mini/compilation announcements."
+    },
+    {
+      "id": "cq091-task-compilations",
+      "episode": 91,
+      "question": "Were all those Sega collections the same release?",
+      "query": "Genesis compilation XboxOne PS4 PS3 Xbox360 PS2 Sega Ages Saturn CD",
+      "answer": "No. They distinguish the announced Xbox One/PS4 compilation from older PS3/Xbox 360 versions and an earlier PS2 product, then separately mention Saturn SEGA AGES and two unnamed Sega CD compilations. The Switch SEGA AGES discussion is about download branding rather than confidently one all-in-one collection. Exact contents and edition equivalence are not established.",
+      "forbidden": [
+        "One identical product",
+        "Complete contents"
+      ],
+      "evidence_locations": [
+        "Paragraph 56",
+        "Paragraph 57",
+        "Paragraph 58"
+      ],
+      "status": "passed",
+      "reason": "Current and earlier platform compilations distinct; contents and exact equivalence remain unknown."
+    },
+    {
+      "id": "cq091-task-exchanges",
+      "episode": 91,
+      "question": "Were either host's promised games already delivered?",
+      "query": "Johnny Tyler address waiting send games CDi discs",
+      "answer": "The exchange remains open: Johnny says he sent his address and has waited over a month, while the conversation also acknowledges Tyler has been waiting for Johnny. Separately, Johnny offers his CD-i in-house discs and Tyler rejects the format. Neither discussion proves a completed shipment or transfer.",
+      "forbidden": [
+        "Delivery done",
+        "Tyler owns Johnny discs"
+      ],
+      "evidence_locations": [
+        "Paragraph 43",
+        "Paragraph 44",
+        "Paragraph 68"
+      ],
+      "status": "passed",
+      "reason": "Reciprocal promised exchange remains open; rejected disc offer not transferred."
+    }
+  ]
+}

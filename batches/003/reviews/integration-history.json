@@ -1,0 +1,13 @@
+{
+  "schema_version": "1",
+  "initial_failures": [
+    {"stage": "first_build", "issue": "CQ9 c01/c02 lacked mandatory speaker objects", "repair": "Contextual Johnny attribution with medium confidence added to durable corrections."},
+    {"stage": "second_build", "issue": "Six CQ76 joke spans used unsupported JOKE_REFERENCE enum", "repair": "Record and annotation roles aligned to JOKE_ASIDE without duration inflation."},
+    {"stage": "manual_answer_citation_review", "issue": "CQ202 dinosaur-bundle answer's Japanese GBA context was outside its required cited windows", "repair": "Added 00:16:07/00:17:11 exact evidence and retrieval requirements."},
+    {"stage": "initial_frozen_sample", "passed": 23, "total": 24, "missing_reference": "cq202-sample-003054-1", "issue": "Turok series discussion lacked a separate series identity; individual games do not substitute.", "repair_status": "repaired and rerun 24/24"},
+    {"stage": "canonical_person_query", "issue": "actions('Kat') omitted CQ76 actions recorded under Cat", "repair": "Canonical person fields normalized to Kat; raw quotes unchanged. Source-bound regression passes."},
+    {"stage": "regression_oracle", "issue": "Overbroad test rejected any played title containing remake, including genuinely played unspecified handheld remakes", "repair": "Narrowed forbidden played identity to Final Fantasy VII Remake and retained positive handheld-remake assertion; no extraction change."}
+  ],
+  "initial_integrated_answers": {"passed": 22, "total": 22},
+  "sample_gold_limitation": "Coordinator subsequently noticed the explicit Caveman reference in frozen 01:02:54 text was absent from the original 24-bucket gold. Existing cq202-g027 already captures it. Preserve the original denominator; report this as an additional observation, not a newly recovered extraction miss or an independently frozen test."
+}

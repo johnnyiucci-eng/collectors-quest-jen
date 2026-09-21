@@ -1,0 +1,19 @@
+{
+  "schema_version": "1",
+  "events": [
+    {
+      "check": "runtime_answers",
+      "initial": "27/28",
+      "failure": "cq205-computer-pickups missing02:50:01",
+      "repair": "Meaningful Space Quest first-print grid-box query expansion; required windows unchanged",
+      "final": "28/28"
+    },
+    {
+      "check": "cq205_peer",
+      "initial": "0/4 actor matches;9/10 explicit tail buckets;two missing play rows;63s movie-only game credit",
+      "repair": "Canonical subjects/co_subjects; Sonic series joke; two unknown-actor played claims; Vampire Hunter D passing role",
+      "final": "4/4 actor matches;10/10 narrow tail;74 actions;330 spans",
+      "evidence": "reviews/205-peer-review.md"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.1",
+  "created": "2026-09-14",
+  "status": "captured_text_review_complete",
+  "selection_basis": "Next later-era lane; over20,000-word singleton under throughput discipline, after018 acceptance.",
+  "budget": "Supplied public text only; no paid calls, private history, publication or persona change.",
+  "duplicate_controls": [],
+  "episodes": [
+    {
+      "key": "sc-1478090170",
+      "episode_number": 218,
+      "title": "CQ218 - When Are We Done Collecting?",
+      "date": "2023-03-26",
+      "path": "episodes/cq-218-sc-1478090170.md",
+      "source_url": "https://soundcloud.com/collectors-quest/cq218-when-are-we-done-collecting",
+      "timing": "YouTube caption timestamps",
+      "words": 22243,
+      "sha256": "2d7e5244a494003067aa4b8bad4c2d602e11035cf46c487d0281ffdd81b52507",
+      "reason": "Sequential later lane, separately sized long episode.",
+      "status": "selected_not_processed",
+      "record_path": "records/sc-1478090170.json"
+    }
+  ]
+}

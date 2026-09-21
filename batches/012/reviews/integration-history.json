@@ -1,0 +1,47 @@
+{
+  "initial_tuned": {
+    "passed": 44,
+    "total": 48
+  },
+  "initial_original": {
+    "passed": 43,
+    "total": 48
+  },
+  "initial_detail": "initial-retrieval-results.json",
+  "stages": [
+    "Generic contrast-aware prominence, ports, release ideas, preorder and collecting-process context: tuned47/48, originals48/48.",
+    "Separate three-hit reviewed-lore channel prevents repeated occurrence rows crowding out multi-game explanations: tuned48/48."
+  ],
+  "final": {
+    "tuned": [
+      48,
+      48
+    ],
+    "original": [
+      48,
+      48
+    ],
+    "fresh": [
+      6,
+      6
+    ],
+    "manual": [
+      48,
+      48
+    ],
+    "sample": [
+      13,
+      13
+    ],
+    "tests": [
+      191,
+      191
+    ]
+  },
+  "semantic_repairs": [
+    "FFVII demo Japanese region adjective removed from list reason, independently verified.",
+    "75 exclusive non-game record granularities aligned with already typed spans.",
+    "Prior Nobunaga unboxed lot corrected from packaging to collection_lot; uncertain media terminology retained."
+  ],
+  "limits": "No question, answer, forbidden inference or required evidence window weakened. Initial failures retained; scores are development evidence retrieval, not independent semantic accuracy."
+}

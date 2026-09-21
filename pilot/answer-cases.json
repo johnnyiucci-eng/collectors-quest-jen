@@ -1,0 +1,166 @@
+{
+  "schema_version": "1",
+  "evaluation_type": "source_adjudicated_development_answers_not_blind",
+  "cases": [
+    {
+      "id": "integrated-6-0",
+      "episode": 6,
+      "query": "Speed Racer Mountain Bike Rally",
+      "question": "How did Johnny check the combo cart?",
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 11"
+      ],
+      "answer": "Johnny reports obtaining the boxed combo cart with cellophane, opening the cartridge to inspect it, and testing it on an unclearly named portable device. That does not establish a factory-sealed copy, a confidently identified test device or seller fraud.",
+      "forbidden": [
+        "factory-sealed copy",
+        "verified device identity",
+        "proven seller fraud"
+      ]
+    },
+    {
+      "id": "integrated-7-1",
+      "episode": 7,
+      "query": "Fallout Tomb Raider",
+      "question": "What was Johnny playing, and who owned Fallout?",
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3"
+      ],
+      "answer": "Kat reports her spouse John's regular Fallout copy. Johnny separately bought Fallout but says it remained sealed, while he had briefly played the current Tomb Raider. The exact current installments remain unresolved; John is not Johnny, and Tyler is not a host in this episode.",
+      "forbidden": [
+        "Tyler present",
+        "Johnny played sealed Fallout",
+        "John equals Johnny"
+      ]
+    },
+    {
+      "id": "integrated-146-2",
+      "episode": 146,
+      "query": "Last of Us seven eight",
+      "question": "Did the hosts simply dislike The Last of Us Part II?",
+      "evidence_locations": [
+        "00:08:12",
+        "00:09:13",
+        "00:10:14",
+        "00:12:16",
+        "02:24:12"
+      ],
+      "answer": "No. Johnny describes an interesting, challenging game with pacing and length reservations; Tyler distinguishes bleakness from calling it bad. The closing gives roughly seven out of ten from Tyler and eight from Johnny. Stefan had not played it, so this is not three matching reviews.",
+      "forbidden": [
+        "all hosts disliked it",
+        "Stefan reviewed it"
+      ]
+    },
+    {
+      "id": "integrated-200-3",
+      "episode": 200,
+      "query": "Beneath Apple Manor",
+      "question": "Which edition did Tyler play and buy?",
+      "evidence_locations": [
+        "02:30:59",
+        "02:32:03",
+        "02:33:03"
+      ],
+      "answer": "Tyler played the 1978 version of Beneath Apple Manor but bought the 1982 graphical rerelease as a placeholder for the elusive original. He found the hostile dungeon systems interesting but execution painfully slow. The two editions must not be conflated, and the episode is not external proof of historical firsts.",
+      "forbidden": [
+        "purchased 1978 copy",
+        "independently verified first roguelike"
+      ]
+    },
+    {
+      "id": "integrated-222-4",
+      "episode": 222,
+      "query": "Survivor Xbox box packaging",
+      "question": "How did the Survivor collector editions differ?",
+      "evidence_locations": [
+        "01:31:44",
+        "01:32:45",
+        "01:34:47"
+      ],
+      "answer": "Johnny's Xbox edition has the game outside the collector box, contrasted with the PlayStation version having it inside. That is the episode's packaging comparison, not confirmation of the PC edition or a reason to treat a stray caption's PS3 wording as verified platform metadata.",
+      "forbidden": [
+        "PC layout confirmed",
+        "PS3 release verified"
+      ]
+    },
+    {
+      "id": "integrated-263-5",
+      "episode": 263,
+      "query": "Rusty tracking transit",
+      "question": "Had Johnny received Rusty?",
+      "evidence_locations": [
+        "02:55:18",
+        "02:56:21",
+        "02:57:25"
+      ],
+      "answer": "Johnny won or bought Rusty and calls it his best purchase, but it was still in transit. He checks tracking and hopes it arrives safely. The episode does not establish receipt, completeness on arrival or an exact delivery date.",
+      "forbidden": [
+        "received safely",
+        "delivery date established"
+      ]
+    },
+    {
+      "id": "integrated-300-6",
+      "episode": 300,
+      "query": "Blasty flexi disc",
+      "question": "Did Tyler say he played Blasty?",
+      "evidence_locations": [
+        "02:25:41",
+        "02:26:42"
+      ],
+      "answer": "Tyler explicitly says he played his Cruise Chaser Blasty flexi disc. That establishes music playback, not that he played or completed the game.",
+      "forbidden": [
+        "gameplay established",
+        "completed game"
+      ]
+    },
+    {
+      "id": "integrated-300-7",
+      "episode": 300,
+      "query": "Witchaven inconclusive",
+      "question": "Had Johnny received and authenticated Witchaven?",
+      "evidence_locations": [
+        "03:44:06",
+        "03:46:10"
+      ],
+      "answer": "Johnny's unusual Witchaven prize-copy variant was ordered and had not arrived. Its origin was still under investigation; the conversation calls the findings inconclusive. Neither receipt nor authenticated provenance is established.",
+      "forbidden": [
+        "received",
+        "authenticated provenance"
+      ]
+    },
+    {
+      "id": "integrated-300-8",
+      "episode": 300,
+      "query": "Jack Ripper floppy",
+      "question": "Why did Johnny think his Terror package was missing a game?",
+      "evidence_locations": [
+        "03:50:20",
+        "03:51:20",
+        "03:52:21"
+      ],
+      "answer": "Johnny bought a second Terror of the Catacombs package thinking Jack the Ripper was missing. He then found its label on the reverse of a floppy and realized he already had it. He corrected his complaint to the seller. This is not established fraud or a separately purchased standalone Jack the Ripper copy.",
+      "forbidden": [
+        "seller fraud established",
+        "standalone purchase"
+      ]
+    },
+    {
+      "id": "integrated-300-9",
+      "episode": 300,
+      "query": "Manhole CDROM",
+      "question": "Did Tyler buy the original Manhole CD-ROM?",
+      "evidence_locations": [
+        "01:44:52",
+        "01:45:52"
+      ],
+      "answer": "Tyler describes looking for the original CD-ROM edition, distinct from the Masterpiece rerelease, seeing incomplete components at different times and ultimately being fine not owning it. His interest is not a purchase report, and his historical-first claim is not independently verified.",
+      "forbidden": [
+        "purchase confirmed",
+        "historical first verified"
+      ]
+    }
+  ]
+}

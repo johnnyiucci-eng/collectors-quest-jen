@@ -1,0 +1,24 @@
+# Batch017 — captured-text review complete
+
+Accepted2026-09-13T22:03UTC: all24 A1–A8 checks passed with exact UTF-8 review binding. CQ23/90/216 added to reviewed search; archive58, no missing prior identities. All59 original/tuned,37frozen,12fresh and225 shared tests pass. Earlier pending/failure checkpoints below are historical. The20-minute block continues with018; these three episodes were previously drafted and reviewed, not freshly extracted in this block.
+
+## Twenty-minute measured continuation
+
+22:02 UTC authoring correction: the first binding failed because the ad-hoc generator read UTF-8 ledger JSON using Windows locale decoding. Comparing the two fingerprints reproduced it exactly; no reviewed source/record/decision bytes changed. Recomputed using the project's UTF-8 read helper and corrected only the binding hash. Future binding commands must use lore_store.read or explicit encoding='utf-8'. Initial bad hashb601b3504ac2684e54e5849169314ff2de3ac5194a366a7fbc06524693b85725 retained here; actual UTF-8 hash9536661f41c098c9b6a0b51b2b8e6e076ea0cda3537814e856471b8e75931cb2. Gate rerun required.
+
+Started2026-09-13T21:52:29UTC; requested work ends no earlier than22:12:29UTC. Baseline55 accepted episodes. This block resumes existing draft/review work; it is not three new episodes extracted from scratch.
+
+-21:52:29–21:55:55: focused diagnosis/repair. Initial triage1/4 original+tuned variants; final4/4. Generic criticism routing now adds one reviewed explanation, and explicit four-digit topic anchors retrieve at most three matching reviewed summaries. No question, required window, answer, episode record or mapping changed. Pinball original context increased28→30 windows after reducing an initial39-window expansion; numeric matching is whole-token and does not assert a historical date.52 retrieval tests pass.
+-21:56: full shared regressions and batch acceptance verification begun. Source reads and59 semantic answer snapshots from the previous block remain valid; only the specific newly recovered passages and neighboring qualifications were reread.
+
+Final fresh-wording development rerun after all source repairs remains12/12 (generated/final-fresh-questions.json); initial first-use report retained separately. Generated reports and diagnostics are not approval artifacts. All researcher files are stable and no agent has remaining assigned extraction work.
+
+Final stable-input rerun18:36 UTC: build and exact fragment checks pass;58/59 tuned and57/59 original remain, with no input-instability warning. Logs: generated/workbench-runs/20260913T183622141818Z. All218 shared tests passed in64.493 seconds (generated/handoff-tests.log). The relevant CQ90 pinball lore ranks fourth and CQ2161982 narrative ranks tenth in the original-query lore channel, which currently selects three. Candidate lists/evidence locations are saved in generated/remaining-retrieval-diagnostics.json. This establishes candidate crowding for these misses, not a general proven fix; simply raising all context limits would trade recall against excessive context. No shared ranking change was rushed into this checkpoint.
+
+18:35 UTC checkpoint: all282 supplied windows independently read;559 reference buckets,1013 split spans,172 actions,59 composed answers and254 list memberships reviewed. Extractor audits and coordinator semantic review are recorded. Source-informed fresh retrieval12/12 and final frozen mention coverage37/37 pass; neither is blind semantic scoring. The initial35/37 machine sample and omitted unresolved character are retained in audit history.
+
+Latest integration:58/59 tuned and57/59 original questions. Still missing cq090-task-physics Paragraph23 under original wording, and cq216-zero02:07:46 under both wordings. Source-backed summaries were improved without changing questions, queries, answers or required windows; preservation wording now passes. Latest logs: generated/workbench-runs/20260913T183427430662Z. Annotation merge changed the build fingerprint; a stable rerun remains required. Do not mark A7/A8 or create acceptance binding yet. Archive guard preserves55 accepted episodes and excludes017/018.
+
+Resume: diagnose bounded lore-candidate ranking/route coverage for the two remaining failures, add generic regressions if shared logic changes, rerun unchanged original/tuned and all frozen/fresh checks, then perform A7/A8, ledger and exact binding only after successful verification. No title-specific rules, benchmark-text padding, relaxed windows or automatic approvals.
+
+CQ23/90/216 continue early/middle/later lanes.282 supplied windows and57,915 words. Frozen source-first sampling precedes extraction comparison; full-source reading, A1–A8, actual answers and exact binding remain required. No paid services, publication, private imports or persona changes.

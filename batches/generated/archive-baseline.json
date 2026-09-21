@@ -1,0 +1,429 @@
+{
+  "episodes": [
+    {
+      "collection": "pilot",
+      "episode": 6,
+      "source_key": "sc-232561251",
+      "source_sha256": "0203c31a55faca428e36b2cadd84dd5fdaec9c8bbfeecbf17eb68838f24fe1a3",
+      "date": "2015-11-11",
+      "title": "Episode 2 (6) -Speed Racer Mountain Bike Rally Combo Cart For Super Nintendo"
+    },
+    {
+      "collection": "pilot",
+      "episode": 7,
+      "source_key": "sc-234461881",
+      "source_sha256": "a8e2317b29956208f8a101c7aef0958c6bfd819e5add1a86f88c5ed43774d23f",
+      "date": "2015-11-24",
+      "title": "Episode 3 (7) - Conventions"
+    },
+    {
+      "collection": "batches/002",
+      "episode": 8,
+      "source_key": "sc-235355325",
+      "source_sha256": "4f753a1e5f05d840272c7ff7a9b4d30a6d04071b416b425a4426c8dd854cebf3",
+      "date": "2015-11-30",
+      "title": "Episode 3 (8) - Retro Gaming Holiday Memories"
+    },
+    {
+      "collection": "batches/003",
+      "episode": 9,
+      "source_key": "sc-236603975",
+      "source_sha256": "68e5be56c5b25130831008678d96f774d0659e5b017ad7391cb2d7d71a1de869",
+      "date": "2015-12-08",
+      "title": "Episode 4 (9) - Final Fantasy 7 And Kickle Cubicle"
+    },
+    {
+      "collection": "batches/004",
+      "episode": 10,
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "date": "2015-12-14",
+      "title": "Episode 10 - TheVGDB Nick Morgan Interview"
+    },
+    {
+      "collection": "batches/005",
+      "episode": 11,
+      "source_key": "sc-237798772",
+      "source_sha256": "f464d814094ca6c64340cafe770169472eef6478e52135791ca9865c61a972cb",
+      "date": "2015-12-16",
+      "title": "Episode 11 - Collecting Star Wars Games"
+    },
+    {
+      "collection": "batches/006",
+      "episode": 12,
+      "source_key": "sc-239520041",
+      "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+      "date": "2015-12-29",
+      "title": "Episode 12 - Happy New Year"
+    },
+    {
+      "collection": "batches/007",
+      "episode": 13,
+      "source_key": "sc-240452758",
+      "source_sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "date": "2016-01-05",
+      "title": "Episode 13 -Game Boy's And Which To Smuggle"
+    },
+    {
+      "collection": "batches/008",
+      "episode": 14,
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "date": "2016-01-12",
+      "title": "Episode 14 -SoCal Retro Gaming Expo - Interview With SuperVideoGameBros"
+    },
+    {
+      "collection": "batches/009",
+      "episode": 15,
+      "source_key": "sc-242519754",
+      "source_sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "date": "2016-01-18",
+      "title": "Episode 15 -Game Spotlight Comix Zone & Faxanadu"
+    },
+    {
+      "collection": "batches/010",
+      "episode": 16,
+      "source_key": "sc-243666752",
+      "source_sha256": "21816611076da58854bc1e65333457eb76f6d1b91dcfa5faa53f5b8250ec9e4e",
+      "date": "2016-01-25",
+      "title": "Episode 16 - TheyCallMeSolo Interview"
+    },
+    {
+      "collection": "batches/011",
+      "episode": 17,
+      "source_key": "sc-244857076",
+      "source_sha256": "ca238cb24c717de6c04d520458aaaa71adb6fcbd8356ed085076d910a894d697",
+      "date": "2016-02-01",
+      "title": "Episode 17 - SPORTSBALL!!! and Rare Sports Game"
+    },
+    {
+      "collection": "batches/012",
+      "episode": 18,
+      "source_key": "sc-245993586",
+      "source_sha256": "15efce75233a0688e49043451f60c0bc5daebbca89369676f0709740ed9c76da",
+      "date": "2016-02-08",
+      "title": "Episode 18 - How to Deal with Collection Envy and Other Questions."
+    },
+    {
+      "collection": "batches/013",
+      "episode": 19,
+      "source_key": "sc-247140249",
+      "source_sha256": "ac261ebf30d0a10a2c4912491c65af5183f07554c317daabc91fc766b0a9ba8d",
+      "date": "2016-02-15",
+      "title": "Episode 19 - Repros, Home Brew, and Pirates"
+    },
+    {
+      "collection": "batches/014",
+      "episode": 20,
+      "source_key": "sc-248293457",
+      "source_sha256": "7f4ab8057432ccd3889b91b5acdedaf18f7045f17d1f99a88c34bf0618326644",
+      "date": "2016-02-22",
+      "title": "Episode 20 - Interview Dain Anderson Founder Of Nintendo Age"
+    },
+    {
+      "collection": "batches/015",
+      "episode": 21,
+      "source_key": "sc-249439500",
+      "source_sha256": "30412ee08a25183fd4a6a034f7906a28a50e830b219b730fec14e2afdd49da8f",
+      "date": "2016-02-29",
+      "title": "Episode 21 - Kat & Johnny Take A Sick Day"
+    },
+    {
+      "collection": "batches/002",
+      "episode": 75,
+      "source_key": "sc-343883458",
+      "source_sha256": "1b5bea682a8f559df8906e62b7cbedd63c99c8381216eb3064326d6e7e88f077",
+      "date": "2017-09-25",
+      "title": "Episode 75 - Most and Least Expensive System to Collect For"
+    },
+    {
+      "collection": "batches/003",
+      "episode": 76,
+      "source_key": "sc-346021102",
+      "source_sha256": "8819f9b68bf8133df221d63903337e7f7805fc7725ef1cc4662ad5c2117f0c92",
+      "date": "2017-10-09",
+      "title": "Episode 76 - Family Friendly Halloween Games"
+    },
+    {
+      "collection": "batches/004",
+      "episode": 77,
+      "source_key": "sc-347109412",
+      "source_sha256": "c96ebc0928e874090bfd1e462e2e1670b11ae82eef5fa5cc6456353c70bf0a6c",
+      "date": "2017-10-16",
+      "title": "Episode 77 - Scooby Doo Console Game Retrospective"
+    },
+    {
+      "collection": "batches/005",
+      "episode": 78,
+      "source_key": "sc-349518307",
+      "source_sha256": "15ddf8e725381bef886cc58a421476574af14e0e1391854591cb55834c7fb0e2",
+      "date": "2017-10-31",
+      "title": "Episode 78 - Halloween Games That Came With Cool Pack In Items"
+    },
+    {
+      "collection": "batches/006",
+      "episode": 79,
+      "source_key": "sc-355496906",
+      "source_sha256": "1f9e9bab8fdff43b62a6c84a6af5531f5dae8d6e8440467d998d3babd8f12022",
+      "date": "2017-11-14",
+      "title": "Episode 79 - Holiday Price Spike and Dip"
+    },
+    {
+      "collection": "batches/007",
+      "episode": 80,
+      "source_key": "sc-362816366",
+      "source_sha256": "d99f3540b3336a78ffacc0d54911cdbe958dcb863c29e55517b737a3d3a388f0",
+      "date": "2017-11-30",
+      "title": "Episode 80 - Mario Games"
+    },
+    {
+      "collection": "batches/008",
+      "episode": 81,
+      "source_key": "sc-378768386",
+      "source_sha256": "1784b1ac59378518984b6203acaa923abc7bfb226f09eb01fb71fe85d605326e",
+      "date": "2018-01-04",
+      "title": "Episode 81 - Video Game Collectors 2017 Recap"
+    },
+    {
+      "collection": "batches/009",
+      "episode": 82,
+      "source_key": "sc-381157055",
+      "source_sha256": "a1b1e0c01429f073e0a15ceaa1661c08bda168cde8119ff3ca4e2661ffb22bb3",
+      "date": "2018-01-09",
+      "title": "Episode 82 - Building a Retro Gaming Convention: Retro City Festival 2018"
+    },
+    {
+      "collection": "batches/010",
+      "episode": 83,
+      "source_key": "sc-388300934",
+      "source_sha256": "1abecc1a3e8537dd84915ff698779a8ac0694f4c9724c8c4a042444712e4ec94",
+      "date": "2018-01-24",
+      "title": "Episode 83 - Aftermarket Reproductions (The legal kind)"
+    },
+    {
+      "collection": "batches/011",
+      "episode": 84,
+      "source_key": "sc-395702904",
+      "source_sha256": "1fd11eed0669c8f9a35b2873a72fa9ad800412cc0707eb2055824cbd584f9d66",
+      "date": "2018-02-07",
+      "title": "Episode 84 - Special Edition Consoles...They Suck"
+    },
+    {
+      "collection": "batches/012",
+      "episode": 85,
+      "source_key": "sc-402327105",
+      "source_sha256": "740056111f313892a901405242777f6aee5592a5a94eefde7a42c121dbea7e44",
+      "date": "2018-02-20",
+      "title": "Episode 85 - Is The Nintendo Switch Killing the Collectiblity of the Wii-U"
+    },
+    {
+      "collection": "batches/013",
+      "episode": 86,
+      "source_key": "sc-405814233",
+      "source_sha256": "4575e550e97b8c80c22024ac8dc531cd996f0df7786caad823f16037b497ecb9",
+      "date": "2018-02-27",
+      "title": "Episode 86 - Licensed Food Games? Dominos, McDonalds, 7-Up M&Ms???"
+    },
+    {
+      "collection": "batches/014",
+      "episode": 87,
+      "source_key": "sc-412882248",
+      "source_sha256": "df9e7d8639536251c321b015a66b6efccc61434b4ad69aae5c49f034dd00df8e",
+      "date": "2018-03-13",
+      "title": "Episode 87 - Tips to Protect Your Collection, and Things to Never Do."
+    },
+    {
+      "collection": "batches/015",
+      "episode": 88,
+      "source_key": "sc-417155358",
+      "source_sha256": "61f60397793c1ee65346bc0eec334cfab78d62d3c97686ae9ea18229741fcc92",
+      "date": "2018-03-21",
+      "title": "Episode 88 - What We Talk About Before We Record (Limited Run Games, Dragon Warrior, and More).mp3"
+    },
+    {
+      "collection": "pilot",
+      "episode": 146,
+      "source_key": "sc-852741172",
+      "source_sha256": "6112079e5c3c41efafa3440cb5cf37b54fab7fab8eb2848682842d2cb1720c59",
+      "date": "2020-07-05",
+      "title": "Episode 146 - How Game Collectors Can Collect Information"
+    },
+    {
+      "collection": "pilot",
+      "episode": 200,
+      "source_key": "sc-1316628157",
+      "source_sha256": "054403ac8ed130e4057eb18a329c216b48b2b9106f395e58701fb54f5f2e27c0",
+      "date": "2022-08-02",
+      "title": "CQ 200 - The History of Our Collecting Goals"
+    },
+    {
+      "collection": "batches/002",
+      "episode": 201,
+      "source_key": "sc-1327980511",
+      "source_sha256": "eff28d3c954554ce99abdb4cae21c58ad70ee372fafa32e9d83ec27a97d1520c",
+      "date": "2022-08-21",
+      "title": "CQ 201 - Reconsidering the List of 677 NES Games"
+    },
+    {
+      "collection": "batches/003",
+      "episode": 202,
+      "source_key": "sc-1335372241",
+      "source_sha256": "b675c6517f33acb1172b67b82c3e2b07ee8a73d7de870b0a98909df9c47a205c",
+      "date": "2022-09-01",
+      "title": "CQ 202 - Collecting 6 Rare Dinosaur Games That're Totally Cretaceous!"
+    },
+    {
+      "collection": "batches/004",
+      "episode": 203,
+      "source_key": "sc-1343296345",
+      "source_sha256": "b13a8327936ab28db198e07bb337f000a6e47b2fce9154a343940e2aa0130328",
+      "date": "2022-09-13",
+      "title": "CQ 203 - Collecting Games From Dead Genres"
+    },
+    {
+      "collection": "batches/005",
+      "episode": 204,
+      "source_key": "sc-1350766930",
+      "source_sha256": "073bf3d58ed44afdba03944982f12ed98daca75349a9c0500afe7e63d3f45a95",
+      "date": "2022-09-25",
+      "title": "CQ 204 - Price History is BS"
+    },
+    {
+      "collection": "batches/006",
+      "episode": 205,
+      "source_key": "sc-1360671826",
+      "source_sha256": "de30cbc3b2f0c8e3691dfbad2f4aafb9339b80bb861e12d7c0a82cc986976842",
+      "date": "2022-10-11",
+      "title": "CQ 205 - Too Many Horror Movie Games from the '70s to '90s"
+    },
+    {
+      "collection": "batches/007",
+      "episode": 206,
+      "source_key": "sc-1369678939",
+      "source_sha256": "87f29418c3ec61a7a5505088f729ab772c13e31fda998682c31a559d7a73ec51",
+      "date": "2022-10-25",
+      "title": "CQ 206 - So You Want To Collect Halloween Games #5 Current Gen Games"
+    },
+    {
+      "collection": "batches/008",
+      "episode": 207,
+      "source_key": "sc-1377327931",
+      "source_sha256": "0344962807cccaa4eab5270311d3dbd6f57ab1c11fca71390875dea26d149974",
+      "date": "2022-11-06",
+      "title": "CQ 207 - Retro Game Collecting is Dead"
+    },
+    {
+      "collection": "batches/009",
+      "episode": 208,
+      "source_key": "sc-1381920739",
+      "source_sha256": "3b35ff10ec83d1edf86f670258ca7dae3343eca47584d8325d334ecc8cc1fd67",
+      "date": "2022-11-12",
+      "title": "CQ 208 - CQ Holiday Gift Guide 2022"
+    },
+    {
+      "collection": "batches/010",
+      "episode": 209,
+      "source_key": "sc-1391155801",
+      "source_sha256": "4f6be5acfa245e1b9cbb965aa7803c34664088575c871fb4b995c03999a6e29f",
+      "date": "2022-11-27",
+      "title": "CQ 209 - 10 SNES Games We'd Start Our Collections With"
+    },
+    {
+      "collection": "batches/011",
+      "episode": 210,
+      "source_key": "sc-1400207374",
+      "source_sha256": "883cb92705a599aaf68372a663dc78fc3d8921023540da66eafa66f958d79dae",
+      "date": "2022-12-10",
+      "title": "CQ 210 - So you want to collect... Nintendo Wii"
+    },
+    {
+      "collection": "batches/012",
+      "episode": 211,
+      "source_key": "sc-1406930341",
+      "source_sha256": "173698d4ba7ae4a0e2f1b50ec6e48174c32e3b41bd555ec3fe62d2b6f8c88fc4",
+      "date": "2022-12-24",
+      "title": "CQ 211 - What Happened and What Did We Collect in 2022?"
+    },
+    {
+      "collection": "batches/013",
+      "episode": 212,
+      "source_key": "sc-1419684073",
+      "source_sha256": "281c89fb26475829cddf17df8630290557e7edb9d1212835d555a4ee20ff5ae0",
+      "date": "2023-01-09",
+      "title": "CQ 212 - What Was Cool to Collect in the Mid 2000s?"
+    },
+    {
+      "collection": "batches/014",
+      "episode": 213,
+      "source_key": "sc-1430232622",
+      "source_sha256": "8c7de91e2734bd5aac1e3704eb8212264c8a9940a9cfb38dfe17a0aefa3a4ad3",
+      "date": "2023-01-23",
+      "title": "CQ 213 - Collecting Mail Order Exclusives"
+    },
+    {
+      "collection": "batches/015",
+      "episode": 214,
+      "source_key": "sc-1440534046",
+      "source_sha256": "c77ee7e0f8b7d800c341dd50498c29be949f94726c2376c5c79b2c85daeae880",
+      "date": "2023-02-05",
+      "title": "CQ 214 - Collecting the Most Influential Games Ever"
+    },
+    {
+      "collection": "pilot",
+      "episode": 222,
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "date": "2023-05-19",
+      "title": "CQ 222 - Psychological Effects That Affect Collectors"
+    },
+    {
+      "collection": "pilot",
+      "episode": 248,
+      "source_key": "sc-1829470383",
+      "source_sha256": "60b7240987c60d172a5235eeb3e0d93259aa2201ab9534e4ed4a55c9e926d87f",
+      "date": "2024-05-24",
+      "title": "CQ 248 - Easy Inserts You're Missing"
+    },
+    {
+      "collection": "pilot",
+      "episode": 259,
+      "source_key": "sc-1943435095",
+      "source_sha256": "85ad4c1efdd937cdda121f1a5a999d27049377b6d554464dc414fee9966fd492",
+      "date": "2024-10-28",
+      "title": "CQ 259 - Historic Halloween Firsts"
+    },
+    {
+      "collection": "pilot",
+      "episode": 263,
+      "source_key": "sc-1993480675",
+      "source_sha256": "064cf9d5ca988164654997a4845bceb88f3a9d42ab508768b5bbf054a917f021",
+      "date": "2024-12-24",
+      "title": "CQ 263 - A 2024 Market Recap for your Holiday Car Trip"
+    },
+    {
+      "collection": "pilot",
+      "episode": 299,
+      "source_key": "sc-2387089140",
+      "source_sha256": "2bd2fb1f85e8e8e5fbc52ef655208947cee19434554382de1584d4eec1d8b259",
+      "date": "2026-08-24",
+      "title": "CQ 299 - Will your collection ALWAYS have an empty slot?"
+    },
+    {
+      "collection": "pilot",
+      "episode": 300,
+      "source_key": "sc-2396296749",
+      "source_sha256": "231fa0907e939c249ce38ad38af7f8e59943d24b1ae2aa89dc626251d014f6ed",
+      "date": "2026-09-07",
+      "title": "CQ 300 - Important Announcement and 22 other WEIRD EPISODES?"
+    }
+  ],
+  "reviewed_episode_count": 52,
+  "reviewed_source_count": 52,
+  "excluded_collections": [
+    {
+      "collection": "batches/016",
+      "reason": "No complete review ledger"
+    }
+  ],
+  "warning": "Reviewed local collections only; not the full archive. Catalog verifies bound review metadata; queries also verify database freshness."
+}

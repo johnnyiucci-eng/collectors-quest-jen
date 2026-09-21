@@ -1,0 +1,99 @@
+{
+  "passed": 6,
+  "total": 6,
+  "cases": [
+    {
+      "id": "cq211-fresh-signed-plastic",
+      "episode": 211,
+      "question": "Why couldn't Tyler just unwrap that signed Ultima copy?",
+      "required": [
+        "01:08:36",
+        "01:09:37"
+      ],
+      "missing_windows": [],
+      "context_coverage": {
+        "returned_windows": 40,
+        "episode_windows": 177
+      },
+      "route": "lexical"
+    },
+    {
+      "id": "cq211-fresh-inserts-wait",
+      "episode": 211,
+      "question": "Did they buy Contra while hunting its missing 3D glasses?",
+      "required": [
+        "01:53:54",
+        "01:54:58",
+        "01:56:00"
+      ],
+      "missing_windows": [],
+      "context_coverage": {
+        "returned_windows": 30,
+        "episode_windows": 177
+      },
+      "route": "lexical"
+    },
+    {
+      "id": "cq211-fresh-audit-mail",
+      "episode": 211,
+      "question": "Was the Wii inventory audit finished even with deliveries outstanding?",
+      "required": [
+        "01:59:18",
+        "02:13:59"
+      ],
+      "missing_windows": [],
+      "context_coverage": {
+        "returned_windows": 62,
+        "episode_windows": 177
+      },
+      "route": "lexical"
+    },
+    {
+      "id": "cq211-fresh-cloud-photos",
+      "episode": 211,
+      "question": "Were every extra desktop photo and variant picture backed up to the cloud?",
+      "required": [
+        "02:09:48",
+        "02:10:52"
+      ],
+      "missing_windows": [],
+      "context_coverage": {
+        "returned_windows": 41,
+        "episode_windows": 177
+      },
+      "route": "lexical"
+    },
+    {
+      "id": "cq211-fresh-manual-export",
+      "episode": 211,
+      "question": "Did Johnny use scripts to classify the eBay export?",
+      "required": [
+        "02:37:32",
+        "02:38:39"
+      ],
+      "missing_windows": [],
+      "context_coverage": {
+        "returned_windows": 48,
+        "episode_windows": 177
+      },
+      "route": "lexical"
+    },
+    {
+      "id": "cq211-fresh-goal-pivot",
+      "episode": 211,
+      "question": "What collecting process could tell them whether to drop a goal or cut filler buying?",
+      "required": [
+        "02:38:39",
+        "02:39:40",
+        "02:40:43"
+      ],
+      "missing_windows": [],
+      "context_coverage": {
+        "returned_windows": 74,
+        "episode_windows": 177
+      },
+      "route": "collecting_process"
+    }
+  ],
+  "limits": "Source-informed fresh wording, not blind semantic testing."
+}

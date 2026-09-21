@@ -1,0 +1,41 @@
+{
+  "schema_version": "1",
+  "initial_failures": [
+    {
+      "stage": "peer_action_review",
+      "episode": 10,
+      "issue": "Outgoing N64-box trade appeared in sold filter; joint ownership hid from Kat filter.",
+      "repair": "Trade changed to mentioned with traded disposition; canonical Kat subject plus John co-subject. Root query now supports co-subjects and case-insensitive names."
+    },
+    {
+      "stage": "peer_semantic_review",
+      "episode": 77,
+      "issue": "Maze Chase willingness overstated as completed purchase; manual actor overattributed to Johnny.",
+      "observation": "Coordinator's initial reading also missed these two overclaims; peer full-source check caught them before acceptance.",
+      "pre_repair_answers": {
+        "passed": 6,
+        "total": 7
+      },
+      "repair_status": "owner repairing"
+    },
+    {
+      "stage": "initial_runtime",
+      "passed": 24,
+      "total": 25,
+      "issue": "cq077-task-purchase failed to retrieve Paragraph1 omitted-segment context",
+      "repair_status": "owner repairing query while preserving required context"
+    },
+    {
+      "stage": "ranking_identity",
+      "episode": 77,
+      "issue": "Missing types ranked franchise as individual game; same Wii Spooky Swamp edition split across entities.",
+      "repair_status": "owner repairing"
+    },
+    {
+      "stage": "ranking_identity",
+      "episode": 203,
+      "issue": "SNES Star Fox explicit title conflated with broad series; general series typed as video_game.",
+      "repair_status": "SNES split authored; series audit underway"
+    }
+  ]
+}

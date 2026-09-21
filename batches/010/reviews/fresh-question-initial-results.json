@@ -1,0 +1,145 @@
+{
+  "passed": 10,
+  "total": 12,
+  "cases": [
+    {
+      "id": "cq016-natural-01",
+      "episode": 16,
+      "question": "What were the biggest game discussions, keeping controllers and other gear out of the ranking?",
+      "route": "lexical",
+      "missing_windows": [
+        "Paragraph 20",
+        "Paragraph 37",
+        "Paragraph 40"
+      ],
+      "context_coverage": {
+        "returned_windows": 27,
+        "episode_windows": 46
+      }
+    },
+    {
+      "id": "cq016-natural-02",
+      "episode": 16,
+      "question": "Was he already a collector when he first bought another N64, or did that happen later?",
+      "route": "lexical",
+      "missing_windows": [],
+      "context_coverage": {
+        "returned_windows": 31,
+        "episode_windows": 46
+      }
+    },
+    {
+      "id": "cq016-natural-03",
+      "episode": 16,
+      "question": "Why does that employee controller mean so much to him, and do we actually know how many were made?",
+      "route": "lexical",
+      "missing_windows": [],
+      "context_coverage": {
+        "returned_windows": 35,
+        "episode_windows": 46
+      }
+    },
+    {
+      "id": "cq016-natural-04",
+      "episode": 16,
+      "question": "Is the Brazilian racing game the same thing as the Australian steering-wheel bundle?",
+      "route": "lexical",
+      "missing_windows": [],
+      "context_coverage": {
+        "returned_windows": 21,
+        "episode_windows": 46
+      }
+    },
+    {
+      "id": "cq016-natural-05",
+      "episode": 16,
+      "question": "What is he still hunting for after finishing the regular games?",
+      "route": "lexical",
+      "missing_windows": [
+        "Paragraph 13",
+        "Paragraph 23"
+      ],
+      "context_coverage": {
+        "returned_windows": 35,
+        "episode_windows": 46
+      }
+    },
+    {
+      "id": "cq016-natural-06",
+      "episode": 16,
+      "question": "Had Kat tried the imported shooter yet, and did she really need to buy a Wii U?",
+      "route": "lexical",
+      "missing_windows": [],
+      "context_coverage": {
+        "returned_windows": 28,
+        "episode_windows": 46
+      }
+    },
+    {
+      "id": "fresh-cq083-terms",
+      "episode": 83,
+      "question": "When they call these reissues licensed, who actually gave permission—and how is that different from homebrew?",
+      "route": "lexical",
+      "missing_windows": [],
+      "context_coverage": {
+        "returned_windows": 29,
+        "episode_windows": 50
+      }
+    },
+    {
+      "id": "fresh-cq083-bid",
+      "episode": 83,
+      "question": "Did either host actually win that cheap glowing Street Fighter cartridge, or were they only bidding?",
+      "route": "lexical",
+      "missing_windows": [],
+      "context_coverage": {
+        "returned_windows": 32,
+        "episode_windows": 50
+      }
+    },
+    {
+      "id": "fresh-cq083-co_op",
+      "episode": 83,
+      "question": "Which co-op game did Tyler and Ada finish, and why did he prefer Snipperclips?",
+      "route": "lexical",
+      "missing_windows": [],
+      "context_coverage": {
+        "returned_windows": 24,
+        "episode_windows": 50
+      }
+    },
+    {
+      "id": "fresh-cq083-absence",
+      "episode": 83,
+      "question": "Why did Johnny step away mid-show—was he really measuring the distance to his television?",
+      "route": "lexical",
+      "missing_windows": [],
+      "context_coverage": {
+        "returned_windows": 29,
+        "episode_windows": 50
+      }
+    },
+    {
+      "id": "fresh-cq083-platform",
+      "episode": 83,
+      "question": "Why did Johnny give up on the Wii U version of LEGO Dimensions and restart elsewhere?",
+      "route": "lexical",
+      "missing_windows": [],
+      "context_coverage": {
+        "returned_windows": 26,
+        "episode_windows": 50
+      }
+    },
+    {
+      "id": "fresh-cq083-newleaf",
+      "episode": 83,
+      "question": "What was unusual about Johnny's New Leaf cartridge, and why was Ecco the Dolphin mentioned?",
+      "route": "lexical",
+      "missing_windows": [],
+      "context_coverage": {
+        "returned_windows": 23,
+        "episode_windows": 50
+      }
+    }
+  ]
+}

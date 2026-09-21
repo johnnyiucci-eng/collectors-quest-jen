@@ -1,0 +1,97 @@
+{
+  "passed": 6,
+  "total": 6,
+  "cases": [
+    {
+      "id": "cq019-fresh-labels",
+      "episode": 19,
+      "question": "Did a forum settle whether Johnny's Super Copa label and shell were genuine?",
+      "required": [
+        "Paragraph 15",
+        "Paragraph 20"
+      ],
+      "missing_windows": [],
+      "context_coverage": {
+        "returned_windows": 23,
+        "episode_windows": 31
+      },
+      "route": "lexical"
+    },
+    {
+      "id": "cq086-fresh-mayo-owner",
+      "episode": 86,
+      "question": "Does the mayonnaise-label promotion prove how the host obtained Wonder Kitchen?",
+      "required": [
+        "Paragraph 25",
+        "Paragraph 26",
+        "Paragraph 27"
+      ],
+      "missing_windows": [],
+      "context_coverage": {
+        "returned_windows": 10,
+        "episode_windows": 40
+      },
+      "route": "lexical"
+    },
+    {
+      "id": "cq086-fresh-credit",
+      "episode": 86,
+      "question": "Was the twenty-game Xbox haul itemized, and had Johnny finished Odyssey?",
+      "required": [
+        "Paragraph 39",
+        "Paragraph 40"
+      ],
+      "missing_windows": [],
+      "context_coverage": {
+        "returned_windows": 24,
+        "episode_windows": 40
+      },
+      "route": "lexical"
+    },
+    {
+      "id": "cq212-fresh-double-gta",
+      "episode": 212,
+      "question": "Should we count the repeated GTA 2 box discount as a second purchase?",
+      "required": [
+        "02:10:33",
+        "02:11:36"
+      ],
+      "missing_windows": [],
+      "context_coverage": {
+        "returned_windows": 43,
+        "episode_windows": 135
+      },
+      "route": "lexical"
+    },
+    {
+      "id": "cq212-fresh-gift-test",
+      "episode": 212,
+      "question": "What did Johnny try on his Christmas Steam Deck before claiming he hadn't played anything?",
+      "required": [
+        "02:06:13",
+        "02:07:20"
+      ],
+      "missing_windows": [],
+      "context_coverage": {
+        "returned_windows": 63,
+        "episode_windows": 135
+      },
+      "route": "lexical"
+    },
+    {
+      "id": "cq212-fresh-fourth",
+      "episode": 212,
+      "question": "Had Tyler already obtained the fourth Tunnels of Doom box or sent Johnny a spare?",
+      "required": [
+        "02:04:03",
+        "02:05:08"
+      ],
+      "missing_windows": [],
+      "context_coverage": {
+        "returned_windows": 37,
+        "episode_windows": 135
+      },
+      "route": "lexical"
+    }
+  ]
+}

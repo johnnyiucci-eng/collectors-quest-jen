@@ -1,0 +1,34 @@
+{
+  "schema_version": "1",
+  "history": [
+    {
+      "stage": "source_first_comparison",
+      "issue": "CQ11 absent GameGear Empire slot omitted",
+      "repair": "Added cq011-g043 hypothetical_game/PASSING_MENTION atP10; denominator21 unchanged",
+      "measurement": "Known source-comparison miss repaired before full runtime; first observed runtime21/21."
+    },
+    {
+      "stage": "initial_answer_runtime",
+      "result": "26/27",
+      "issue": "CQ78 expo missing requiredP33/P34/P35",
+      "repair": "Meaningful expo/count query retains source requirements",
+      "final": "27/27"
+    },
+    {
+      "stage": "identity_type_audit",
+      "issue": "Implicit video_game defaults admitted series/accessories/physical pinball",
+      "repair": "Explicit types; RE4 controller coverage separate, game meaningful5→3"
+    },
+    {
+      "stage": "coordinator_semantics",
+      "issue": "DinosaurRescue shorthand backdated a personal want toCQ202",
+      "repair": "CQ204 retrospective desire/receipt distinct fromCQ202discussion/preference"
+    },
+    {
+      "stage": "ranking_precision",
+      "issue": "CQ204 broad GotchaForce return credits",
+      "repair": "Same-agent coarse918→670meaningfulseconds after incidental roles removed"
+    }
+  ],
+  "limits": "Failures preserved; not an external blind test."
+}

@@ -1,0 +1,5 @@
+# CQ102 complete-answer adjudication
+
+Root independently read all58 paragraphs before extracted records, then all14 actual complete answer texts, citations and forbidden inferences. Exact snapshots and individual adjudication reasons are in answer-review.json. All14 pass source adjudication and original/configured required-window retrieval. Six source-first fresh wordings pass first execution and are now development cases; their context sizes30–50/58 show broad retrieval, not precision certification. No rewritten question or weakened required window was used to obtain these passes.
+
+Critical distinctions: full refund with retained bootleg, incoming Bloodlines clamshell, unresolved Mexico-box origin, separate Elemental Master buyers/prices, list exclusions rather than ranking, attributed play versus watches/opinions, and four-way prominence tie. The82 extractor-grouped checkpoints are not82 independently blind atomic trials. No current market, external catalog, audio or live verification claimed.

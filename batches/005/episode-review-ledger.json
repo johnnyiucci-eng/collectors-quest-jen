@@ -1,0 +1,226 @@
+{
+  "review_binding": {
+    "version": "cq-review-binding-1",
+    "sha256": "f5ecf0e070daf17ea1efe139e80d3cc4c5eae66d5b2af347ba8dedff62f78ddc",
+    "reviewed_utc": "2026-09-13 11:15:39 UTC",
+    "meaning": "Exact reviewed local inputs; not independent semantic, audio or live certification"
+  },
+  "schema_version": "1",
+  "required_for": "A1–A8 mandatory for every episode in every batch.",
+  "acceptance_scope": "Captured-text development review only; no audio, external-history or live certification.",
+  "episodes": [
+    {
+      "episode": 11,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All38paragraphs read/accounted; source-claimed NES/MS/GG family grouped only for ranking, platform records retained; franchise separate.",
+          "evidence": [
+            "batches/005/reviews/011-audit.md",
+            "batches/005/reviews/011-annotations.json"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "Forty-three buckets and13frozen references; absent GameGearEmpire omission repaired with hypothetical passing slot, not fabricated release.",
+          "evidence": [
+            "batches/005/reviews/011-audit.md",
+            "batches/005/reviews/011-annotations.json",
+            "batches/005/reviews/source-first-sample.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Johnny/Kat only; early-era identities not replaced by Tyler, Kat's husband not conflated.",
+          "evidence": [
+            "batches/005/reviews/011-audit.md",
+            "batches/005/reviews/011-annotations.json"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "Thirty-seven actions preserve lost loan, replacement, unplayed BattleNaboo and favorite versus played/finished distinctions.",
+          "evidence": [
+            "batches/005/reviews/011-audit.md",
+            "batches/005/reviews/011-annotations.json"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Eight complete answers source-adjudicated from full reading; all context windows and exact snapshots pass.",
+          "evidence": [
+            "batches/005/reviews/answer-review.json",
+            "batches/005/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Brief offers favorites, port caution and unfinished catalog work without pretending accessory list complete.",
+          "evidence": [
+            "batches/005/reviews/011-audit.md",
+            "batches/005/reviews/011-annotations.json"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Durable rebuild, exact quotes, explicit types, complete section/reference maps, runtime/manual snapshots, frozen sample and99regressions pass after recorded repairs.",
+          "evidence": [
+            "batches/005/reviews/verification.md",
+            "tests/test_lore_continuation.py"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All eight mandatory checks have episode-specific evidence/reasons; open item-level uncertainty remains visible.",
+          "evidence": [
+            "batches/005/PROGRESS.md",
+            "pilot/WORKFLOW.md"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 78,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All44paragraphs read/accounted including caption artifacts; RE4 accessory inflation removed, three games tied on meaningful coverage.",
+          "evidence": [
+            "batches/005/reviews/078-audit.md",
+            "batches/005/reviews/078-annotations.json"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "Sixty-six buckets and seven frozen references checked; Elvira/StarWars raw uncertainty retained, physical pinball/accessories excluded from game ranking.",
+          "evidence": [
+            "batches/005/reviews/078-audit.md",
+            "batches/005/reviews/078-annotations.json",
+            "batches/005/reviews/source-first-sample.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "All three hosts distinct; husband John not Johnny, reported purchase/press-item possession not inferred from proximity.",
+          "evidence": [
+            "batches/005/reviews/078-audit.md",
+            "batches/005/reviews/078-annotations.json"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "Fifty-two actions preserve missing Monsterfigure, lost tomebid, coffins' uncertainty, actual BattleSport and dated Turbo aggregate.",
+          "evidence": [
+            "batches/005/reviews/078-audit.md",
+            "batches/005/reviews/078-annotations.json"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Nine actual answers source-checked; expo context query repaired from initial missingP33–35 to all required windows, no relaxed requirements.",
+          "evidence": [
+            "batches/005/reviews/answer-review.json",
+            "batches/005/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Written brief provides tangible pack-ins, differing tastes and open completeness loops, not current shopping claims or live rehearsal.",
+          "evidence": [
+            "batches/005/reviews/078-audit.md",
+            "batches/005/reviews/078-annotations.json"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Durable rebuild, exact quotes, explicit types, complete section/reference maps, runtime/manual snapshots, frozen sample and99regressions pass after recorded repairs.",
+          "evidence": [
+            "batches/005/reviews/verification.md",
+            "tests/test_lore_continuation.py"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All eight mandatory checks have episode-specific evidence/reasons; open item-level uncertainty remains visible.",
+          "evidence": [
+            "batches/005/PROGRESS.md",
+            "pilot/WORKFLOW.md"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 204,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All104windows read/accounted including meaningful MegaMan outro returns; coarse leaders917/861/670seconds with substantial-only counts distinct.",
+          "evidence": [
+            "batches/005/reviews/204-audit.md",
+            "batches/005/reviews/204-annotations.json"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "122reference buckets and one frozen FFIIref; series/title types, uncertain raw identities and case-versus-game boundary retained.",
+          "evidence": [
+            "batches/005/reviews/204-audit.md",
+            "batches/005/reviews/204-annotations.json",
+            "batches/005/reviews/source-first-sample.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Johnny/Tyler identified with confidence; purchase subjects kept separate from questions and collector comparisons.",
+          "evidence": [
+            "batches/005/reviews/204-audit.md",
+            "batches/005/reviews/204-annotations.json"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "Forty-nine actions preserve RenderingRanger correction, WholeLotRed unknown delivery, Dinosaur sticker receipt and missing manual.",
+          "evidence": [
+            "batches/005/reviews/204-audit.md",
+            "batches/005/reviews/204-annotations.json"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Ten complete answers manually source-checked; exact snapshots and all required runtime context pass.",
+          "evidence": [
+            "batches/005/reviews/answer-review.json",
+            "batches/005/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Brief gives feelies, Japanese computer buys, variants and Doom/Myst disagreement; no live or externally verified market claims.",
+          "evidence": [
+            "batches/005/reviews/204-audit.md",
+            "batches/005/reviews/204-annotations.json"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Durable rebuild, exact quotes, explicit types, complete section/reference maps, runtime/manual snapshots, frozen sample and99regressions pass after recorded repairs.",
+          "evidence": [
+            "batches/005/reviews/verification.md",
+            "tests/test_lore_continuation.py"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All eight mandatory checks have episode-specific evidence/reasons; open item-level uncertainty remains visible.",
+          "evidence": [
+            "batches/005/PROGRESS.md",
+            "pilot/WORKFLOW.md"
+          ]
+        }
+      }
+    }
+  ]
+}

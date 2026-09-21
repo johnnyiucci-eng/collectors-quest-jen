@@ -1,0 +1,1766 @@
+{
+  "schema_version": "1",
+  "review_status": "source_first_same_agent_not_independent",
+  "note": "Complete captured-text paragraph mapping; integration pending, no audio/external checks.",
+  "overrides": [],
+  "new_games": [],
+  "claims": [
+    {
+      "id": "cq008-action-01",
+      "source_key": "sc-235355325",
+      "source_sha256": "4f753a1e5f05d840272c7ff7a9b4d30a6d04071b416b425a4426c8dd854cebf3",
+      "title": "Unnamed earlier game promotions",
+      "action_state": "purchased",
+      "summary": "Titles not fully enumerated.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue, not verified turn labels."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 2",
+          "quote": "I’d already bought most of the games I needed"
+        }
+      ],
+      "entity_type": "unidentified_lot"
+    },
+    {
+      "id": "cq008-action-02",
+      "source_key": "sc-235355325",
+      "source_sha256": "4f753a1e5f05d840272c7ff7a9b4d30a6d04071b416b425a4426c8dd854cebf3",
+      "title": "Christmas decorations",
+      "action_state": "purchased",
+      "summary": "Household purchase, not game.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue, not verified turn labels."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "We did get like some Christmas decorations"
+        }
+      ],
+      "entity_type": "household"
+    },
+    {
+      "id": "cq008-action-03",
+      "source_key": "sc-235355325",
+      "source_sha256": "4f753a1e5f05d840272c7ff7a9b4d30a6d04071b416b425a4426c8dd854cebf3",
+      "title": "Current Tomb Raider",
+      "action_state": "played",
+      "summary": "Completed; subtitle unresolved.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue, not verified turn labels."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "I finished Tomb Raider, beat Tomb Raider, enjoyed it very much"
+        }
+      ]
+    },
+    {
+      "id": "cq008-action-04",
+      "source_key": "sc-235355325",
+      "source_sha256": "4f753a1e5f05d840272c7ff7a9b4d30a6d04071b416b425a4426c8dd854cebf3",
+      "title": "Fallout",
+      "action_state": "owned",
+      "summary": "Disc possessed; substantive play not established.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue, not verified turn labels."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "I just literally put in the Fallout disc"
+        }
+      ]
+    },
+    {
+      "id": "cq008-action-05",
+      "source_key": "sc-235355325",
+      "source_sha256": "4f753a1e5f05d840272c7ff7a9b4d30a6d04071b416b425a4426c8dd854cebf3",
+      "title": "Fallout",
+      "action_state": "wanted",
+      "summary": "Planned start after recording, not already played.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue, not verified turn labels."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "so I can start playing tonight"
+        }
+      ]
+    },
+    {
+      "id": "cq008-action-06",
+      "source_key": "sc-235355325",
+      "source_sha256": "4f753a1e5f05d840272c7ff7a9b4d30a6d04071b416b425a4426c8dd854cebf3",
+      "title": "Black Ops III",
+      "action_state": "played",
+      "summary": "Current play report; ensuing Fallout-only qualification not applied toBlackOps.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue, not verified turn labels."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "Fallout and Black Ops 3 that I’m working on. So that’s what I’m playing"
+        }
+      ]
+    },
+    {
+      "id": "cq008-action-07",
+      "source_key": "sc-235355325",
+      "source_sha256": "4f753a1e5f05d840272c7ff7a9b4d30a6d04071b416b425a4426c8dd854cebf3",
+      "title": "Panic Restaurant",
+      "action_state": "played",
+      "summary": "Current play, adult discovery.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue, not verified turn labels."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 4",
+          "quote": "I played some Panic Restaurant today"
+        }
+      ]
+    },
+    {
+      "id": "cq008-action-08",
+      "source_key": "sc-235355325",
+      "source_sha256": "4f753a1e5f05d840272c7ff7a9b4d30a6d04071b416b425a4426c8dd854cebf3",
+      "title": "Panic Restaurant",
+      "action_state": "received",
+      "summary": "Contextual adult acquisition, price/payment not supplied.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue, not verified turn labels."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 7",
+          "quote": "So you didn’t get it as a kid. No. No. Found it as an adult"
+        }
+      ]
+    },
+    {
+      "id": "cq008-action-09",
+      "source_key": "sc-235355325",
+      "source_sha256": "4f753a1e5f05d840272c7ff7a9b4d30a6d04071b416b425a4426c8dd854cebf3",
+      "title": "Panic Restaurant",
+      "action_state": "mentioned",
+      "summary": "Uncertain prior play despite liking artwork.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue, not verified turn labels."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 4",
+          "quote": "I don’t know if I’ve ever played it"
+        }
+      ]
+    },
+    {
+      "id": "cq008-action-10",
+      "source_key": "sc-235355325",
+      "source_sha256": "4f753a1e5f05d840272c7ff7a9b4d30a6d04071b416b425a4426c8dd854cebf3",
+      "title": "Tonic Trouble",
+      "action_state": "received",
+      "summary": "Historical acquisition, not verified release date.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue, not verified turn labels."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 5",
+          "quote": "ever since I got it when, you know, when it came out for the N64"
+        }
+      ]
+    },
+    {
+      "id": "cq008-action-11",
+      "source_key": "sc-235355325",
+      "source_sha256": "4f753a1e5f05d840272c7ff7a9b4d30a6d04071b416b425a4426c8dd854cebf3",
+      "title": "Tonic Trouble",
+      "action_state": "played",
+      "summary": "Longstanding play.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue, not verified turn labels."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 5",
+          "quote": "I’ve always loved playing Tonic Trouble"
+        }
+      ]
+    },
+    {
+      "id": "cq008-action-12",
+      "source_key": "sc-235355325",
+      "source_sha256": "4f753a1e5f05d840272c7ff7a9b4d30a6d04071b416b425a4426c8dd854cebf3",
+      "title": "BurgerTime",
+      "action_state": "mentioned",
+      "summary": "Negative taste, no purchase.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue, not verified turn labels."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 4",
+          "quote": "I can’t seem terribly fond of Burger Time"
+        }
+      ]
+    },
+    {
+      "id": "cq008-action-13",
+      "source_key": "sc-235355325",
+      "source_sha256": "4f753a1e5f05d840272c7ff7a9b4d30a6d04071b416b425a4426c8dd854cebf3",
+      "title": "Princess Tomato",
+      "action_state": "mentioned",
+      "summary": "Negative play preference, no purchase.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue, not verified turn labels."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 6",
+          "quote": "really, really don’t love Princess Tomato"
+        }
+      ]
+    },
+    {
+      "id": "cq008-action-14",
+      "source_key": "sc-235355325",
+      "source_sha256": "4f753a1e5f05d840272c7ff7a9b4d30a6d04071b416b425a4426c8dd854cebf3",
+      "title": "Shadowgate",
+      "action_state": "played",
+      "summary": "Continuation of specific gameplay description; contextual, platform not established.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue, not verified turn labels."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 7",
+          "quote": "mainly these were computer style games, but I played a lot of them"
+        }
+      ]
+    },
+    {
+      "id": "cq008-action-15",
+      "source_key": "sc-235355325",
+      "source_sha256": "4f753a1e5f05d840272c7ff7a9b4d30a6d04071b416b425a4426c8dd854cebf3",
+      "title": "Adventure games unspecified",
+      "action_state": "played",
+      "summary": "Brief genre attempts; garbled phrase, not named-title completion.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue, not verified turn labels."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 6",
+          "quote": "I’ve really tried a boat for like two minutes"
+        }
+      ]
+    },
+    {
+      "id": "cq008-action-16",
+      "source_key": "sc-235355325",
+      "source_sha256": "4f753a1e5f05d840272c7ff7a9b4d30a6d04071b416b425a4426c8dd854cebf3",
+      "title": "N64 console",
+      "action_state": "received",
+      "summary": "Recalled timing uncertain.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue, not verified turn labels."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 10",
+          "quote": "I got the N64 the Christmas after it would have come out"
+        }
+      ],
+      "entity_type": "hardware"
+    },
+    {
+      "id": "cq008-action-17",
+      "source_key": "sc-235355325",
+      "source_sha256": "4f753a1e5f05d840272c7ff7a9b4d30a6d04071b416b425a4426c8dd854cebf3",
+      "title": "Mario Party original",
+      "action_state": "received",
+      "summary": "Holiday gift; laterChristmas99 recollection unverified.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue, not verified turn labels."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 10",
+          "quote": "the Christmas, I got Mario Party"
+        }
+      ]
+    },
+    {
+      "id": "cq008-action-18",
+      "source_key": "sc-235355325",
+      "source_sha256": "4f753a1e5f05d840272c7ff7a9b4d30a6d04071b416b425a4426c8dd854cebf3",
+      "title": "Mario Party original",
+      "action_state": "played",
+      "summary": "Kat and cousin, not later sequels at firstChristmas.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue, not verified turn labels."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 10",
+          "quote": "played the heck out of that. We stayed up all night long"
+        }
+      ]
+    },
+    {
+      "id": "cq008-action-19",
+      "source_key": "sc-235355325",
+      "source_sha256": "4f753a1e5f05d840272c7ff7a9b4d30a6d04071b416b425a4426c8dd854cebf3",
+      "title": "Mario Party2",
+      "action_state": "played",
+      "summary": "RecurringN64 tradition.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue, not verified turn labels."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 11",
+          "quote": "we stick to the original 1, 2, and 3"
+        }
+      ]
+    },
+    {
+      "id": "cq008-action-20",
+      "source_key": "sc-235355325",
+      "source_sha256": "4f753a1e5f05d840272c7ff7a9b4d30a6d04071b416b425a4426c8dd854cebf3",
+      "title": "Mario Party3",
+      "action_state": "played",
+      "summary": "RecurringN64 tradition.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue, not verified turn labels."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 11",
+          "quote": "we stick to the original 1, 2, and 3"
+        }
+      ]
+    },
+    {
+      "id": "cq008-action-21",
+      "source_key": "sc-235355325",
+      "source_sha256": "4f753a1e5f05d840272c7ff7a9b4d30a6d04071b416b425a4426c8dd854cebf3",
+      "title": "Mario Party10",
+      "action_state": "mentioned",
+      "summary": "No newer installment play.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue, not verified turn labels."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 11",
+          "quote": "I can’t get her to move beyond the N64"
+        }
+      ]
+    },
+    {
+      "id": "cq008-action-22",
+      "source_key": "sc-235355325",
+      "source_sha256": "4f753a1e5f05d840272c7ff7a9b4d30a6d04071b416b425a4426c8dd854cebf3",
+      "title": "Metroid NES",
+      "action_state": "wanted",
+      "summary": "Childhood wish; no normalized date.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue, not verified turn labels."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 15",
+          "quote": "I really wanted this game"
+        }
+      ]
+    },
+    {
+      "id": "cq008-action-23",
+      "source_key": "sc-235355325",
+      "source_sha256": "4f753a1e5f05d840272c7ff7a9b4d30a6d04071b416b425a4426c8dd854cebf3",
+      "title": "Metroid NES",
+      "action_state": "received",
+      "summary": "ChildhoodChristmas gift.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue, not verified turn labels."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 17",
+          "quote": "I had one present under the tree. And it was Metroid"
+        }
+      ]
+    },
+    {
+      "id": "cq008-action-24",
+      "source_key": "sc-235355325",
+      "source_sha256": "4f753a1e5f05d840272c7ff7a9b4d30a6d04071b416b425a4426c8dd854cebf3",
+      "title": "Metroid NES",
+      "action_state": "played",
+      "summary": "Childhood immersion.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue, not verified turn labels."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 17",
+          "quote": "I just played the shit out of that game"
+        }
+      ]
+    },
+    {
+      "id": "cq008-action-25",
+      "source_key": "sc-235355325",
+      "source_sha256": "4f753a1e5f05d840272c7ff7a9b4d30a6d04071b416b425a4426c8dd854cebf3",
+      "title": "Metroid NES",
+      "action_state": "purchased",
+      "summary": "Later return-to-gaming repurchase.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue, not verified turn labels."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 19",
+          "quote": "Metroid was one of the first games I bought"
+        }
+      ]
+    },
+    {
+      "id": "cq008-action-26",
+      "source_key": "sc-235355325",
+      "source_sha256": "4f753a1e5f05d840272c7ff7a9b4d30a6d04071b416b425a4426c8dd854cebf3",
+      "title": "Metroid NES",
+      "action_state": "played",
+      "summary": "Self-imposed faster/no-death challenges, not modern competitive runs.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue, not verified turn labels."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 20",
+          "quote": "I did like speed runs as a child"
+        }
+      ]
+    },
+    {
+      "id": "cq008-action-27",
+      "source_key": "sc-235355325",
+      "source_sha256": "4f753a1e5f05d840272c7ff7a9b4d30a6d04071b416b425a4426c8dd854cebf3",
+      "title": "Zelda unresolved installment",
+      "action_state": "played",
+      "summary": "Childhood most-played list, edition unresolved.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue, not verified turn labels."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 20",
+          "quote": "Metroid, Zelda and Final Fantasy"
+        }
+      ]
+    },
+    {
+      "id": "cq008-action-28",
+      "source_key": "sc-235355325",
+      "source_sha256": "4f753a1e5f05d840272c7ff7a9b4d30a6d04071b416b425a4426c8dd854cebf3",
+      "title": "Final Fantasy unresolved installment",
+      "action_state": "played",
+      "summary": "Childhood most-played list, installment unresolved.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue, not verified turn labels."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 20",
+          "quote": "Metroid, Zelda and Final Fantasy"
+        }
+      ]
+    },
+    {
+      "id": "cq008-action-29",
+      "source_key": "sc-235355325",
+      "source_sha256": "4f753a1e5f05d840272c7ff7a9b4d30a6d04071b416b425a4426c8dd854cebf3",
+      "title": "N64 Mario Party group",
+      "action_state": "played",
+      "summary": "Past participation, next session conditional.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue, not verified turn labels."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 22",
+          "quote": "John will probably jump in there at one of those times as he has for the last few Christmases"
+        }
+      ],
+      "subject": "John (Kat's spouse)"
+    },
+    {
+      "id": "cq008-action-30",
+      "source_key": "sc-235355325",
+      "source_sha256": "4f753a1e5f05d840272c7ff7a9b4d30a6d04071b416b425a4426c8dd854cebf3",
+      "title": "N64 Mario Party group",
+      "action_state": "played",
+      "summary": "Cousin, not host.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and contextual dialogue, not verified turn labels."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 11",
+          "quote": "She just plays Mario Party at Christmas"
+        }
+      ],
+      "subject": "Laura (Kat's cousin)"
+    }
+  ],
+  "task_cases": [
+    {
+      "id": "batch002-cq008-panic",
+      "episode": 8,
+      "question": "Why did Kat like Panic Restaurant, and was it a childhood game?",
+      "query": "Panic Restaurant animated food adult",
+      "speaker": "Kat",
+      "answer": "Kat says she played Panic Restaurant that day, likes its animated food and graphics, and had never heard of it before collecting as an adult. This is Kat's taste, not Tyler's, and does not establish an exact purchase price.",
+      "expected": "Kat says she played Panic Restaurant that day, likes its animated food and graphics, and had never heard of it before collecting as an adult. This is Kat's taste, not Tyler's, and does not establish an exact purchase price.",
+      "evidence_locations": [
+        "Paragraph 4",
+        "Paragraph 5"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 4",
+          "quote": "I played some Panic Restaurant today"
+        },
+        {
+          "location": "Paragraph 4",
+          "quote": "I like Panic Restaurant because it’s got food in it that’s animated"
+        },
+        {
+          "location": "Paragraph 5",
+          "quote": "the graphics are really great"
+        },
+        {
+          "location": "Paragraph 5",
+          "quote": "I had never even heard of it"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 4",
+            "quote": "I played some Panic Restaurant today"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 4",
+            "quote": "I like Panic Restaurant because it’s got food in it that’s animated"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 5",
+            "quote": "the graphics are really great"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 5",
+            "quote": "I had never even heard of it"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Tyler was the speaker",
+        "Childhood Panic Restaurant gift",
+        "All food-themed games are favorites"
+      ],
+      "review_result": "Same-agent full-answer source adjudication: 4 source-supported material checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch002-cq008-party",
+      "episode": 8,
+      "question": "Was Kat's Christmas tradition Mario Kart or Mario Party?",
+      "query": "Mario Party Mario Kart tradition",
+      "speaker": "Kat",
+      "answer": "It was Mario Party: Johnny immediately corrects his Mario Kart slip. Kat and her cousin keep playing N64 Mario Party1–3; the visit timing can fall before or after Christmas, and the point is their shared memories and bonding—not moving to a newer installment.",
+      "expected": "It was Mario Party: Johnny immediately corrects his Mario Kart slip. Kat and her cousin keep playing N64 Mario Party1–3; the visit timing can fall before or after Christmas, and the point is their shared memories and bonding—not moving to a newer installment.",
+      "evidence_locations": [
+        "Paragraph 21",
+        "Paragraph 11",
+        "Paragraph 22"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 21",
+          "quote": "Mario Cart Mario Party"
+        },
+        {
+          "location": "Paragraph 11",
+          "quote": "we stick to the original 1, 2, and 3"
+        },
+        {
+          "location": "Paragraph 21",
+          "quote": "whether it’s before Christmas or after Christmas"
+        },
+        {
+          "location": "Paragraph 22",
+          "quote": "The playing of the game is just a vehicle for the bonding"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 21",
+            "quote": "Mario Cart Mario Party"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 11",
+            "quote": "we stick to the original 1, 2, and 3"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 21",
+            "quote": "whether it’s before Christmas or after Christmas"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 22",
+            "quote": "The playing of the game is just a vehicle for the bonding"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "claim": "Cousin does not move to newer installments.",
+          "evidence": {
+            "location": "Paragraph 11",
+            "quote": "I can’t get her to move beyond the N64"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Mario Kart tradition",
+        "Mario Party10 already played",
+        "Fixed December25 appointment"
+      ],
+      "review_result": "Same-agent full-answer source adjudication: 5 source-supported material checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch002-cq008-metroid",
+      "episode": 8,
+      "question": "What did Metroid mean to Johnny, and did he buy it later?",
+      "query": "Metroid Christmas first games bought",
+      "speaker": "Johnny",
+      "answer": "Johnny remembers receiving Metroid as his one Christmas present, immersing himself in its exploration, buying it again when he returned to gaming, and trying faster/no-death runs as a child. The recalled year and age remain unverified; these were not modern competitive speedruns.",
+      "expected": "Johnny remembers receiving Metroid as his one Christmas present, immersing himself in its exploration, buying it again when he returned to gaming, and trying faster/no-death runs as a child. The recalled year and age remain unverified; these were not modern competitive speedruns.",
+      "evidence_locations": [
+        "Paragraph 17",
+        "Paragraph 18",
+        "Paragraph 19",
+        "Paragraph 20"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 17",
+          "quote": "I had one present under the tree. And it was Metroid"
+        },
+        {
+          "location": "Paragraph 18",
+          "quote": "the backtracking was also new exploration because you had access to new areas"
+        },
+        {
+          "location": "Paragraph 19",
+          "quote": "Metroid was one of the first games I bought"
+        },
+        {
+          "location": "Paragraph 20",
+          "quote": "It wasn’t very fast because I wasn’t like, wasn’t like a modern speed run"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 17",
+            "quote": "I had one present under the tree. And it was Metroid"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 18",
+            "quote": "the backtracking was also new exploration because you had access to new areas"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 19",
+            "quote": "Metroid was one of the first games I bought"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 20",
+            "quote": "It wasn’t very fast because I wasn’t like, wasn’t like a modern speed run"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "claim": "Childhood no-death challenges.",
+          "evidence": {
+            "location": "Paragraph 20",
+            "quote": "how many times can I do it without dying"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Confirmed regional release year1986",
+        "Verified exact childhood age",
+        "Modern competitive record"
+      ],
+      "review_result": "Same-agent full-answer source adjudication: 5 source-supported material checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch002-cq008-current",
+      "episode": 8,
+      "question": "Had Johnny already played Fallout, and what had he finished?",
+      "query": "Fallout start playing tonight Tomb Raider",
+      "speaker": "Johnny",
+      "answer": "Johnny says he finished and enjoyed the current Tomb Raider, whose subtitle is not given. Although he loosely says he is working on Fallout, he specifically explains that he loaded the disc so he could start playing that night. The source therefore establishes possession and intended play, not that a Fallout play session had already happened.",
+      "expected": "Johnny says he finished and enjoyed the current Tomb Raider, whose subtitle is not given. Although he loosely says he is working on Fallout, he specifically explains that he loaded the disc so he could start playing that night. The source therefore establishes possession and intended play, not that a Fallout play session had already happened.",
+      "evidence_locations": [
+        "Paragraph 3"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "I finished Tomb Raider, beat Tomb Raider"
+        },
+        {
+          "location": "Paragraph 3",
+          "quote": "enjoyed it very much"
+        },
+        {
+          "location": "Paragraph 3",
+          "quote": "I just literally put in the Fallout disc"
+        },
+        {
+          "location": "Paragraph 3",
+          "quote": "so I can start playing tonight"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 3",
+            "quote": "I finished Tomb Raider, beat Tomb Raider"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 3",
+            "quote": "enjoyed it very much"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 3",
+            "quote": "I just literally put in the Fallout disc"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 3",
+            "quote": "so I can start playing tonight"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Fallout already completed",
+        "Fallout definitely played before recording",
+        "Exact Tomb Raider subtitle or Fallout number"
+      ],
+      "review_result": "Same-agent full-answer source adjudication: 4 source-supported material checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch002-cq008-feed",
+      "episode": 8,
+      "question": "Who hosted this episode and where did the Kat-era feed start?",
+      "query": "Kat iTunes episode five old host",
+      "speaker": "Johnny",
+      "answer": "The episode names Johnny and Kat as hosts. They announce iTunes availability and distinguish the new Kat-era feed, which starts at episode5, from a similarly presented older feed with an unnamed former host. This records the episode's announcement, not verified current availability.",
+      "expected": "The episode names Johnny and Kat as hosts. They announce iTunes availability and distinguish the new Kat-era feed, which starts at episode5, from a similarly presented older feed with an unnamed former host. This records the episode's announcement, not verified current availability.",
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 25",
+        "Paragraph 26"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "I’m Johnny"
+        },
+        {
+          "location": "Paragraph 25",
+          "quote": "Kat"
+        },
+        {
+          "location": "Paragraph 25",
+          "quote": "We are finally on iTunes"
+        },
+        {
+          "location": "Paragraph 26",
+          "quote": "new one I do with Kat. You can see that one picks up on episode five"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 1",
+            "quote": "I’m Johnny"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 25",
+            "quote": "Kat"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 25",
+            "quote": "We are finally on iTunes"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 26",
+            "quote": "new one I do with Kat. You can see that one picks up on episode five"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "claim": "Older feed with unnamed former host.",
+          "evidence": {
+            "location": "Paragraph 25",
+            "quote": "There are two there listed. It’s my old one, which I used to do with the old host."
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 6,
+          "claim": "Feeds similarly presented.",
+          "evidence": {
+            "location": "Paragraph 26",
+            "quote": "It’s got kind of the same cover art. So it’s a little bit confusing"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Tyler cohosted episode8",
+        "Former host named by this passage",
+        "iTunes status verified today"
+      ],
+      "review_result": "Same-agent full-answer source adjudication: 6 source-supported material checkpoints; integrated retrieval pending."
+    }
+  ],
+  "episodes": [
+    {
+      "source_key": "sc-235355325",
+      "source_sha256": "4f753a1e5f05d840272c7ff7a9b4d30a6d04071b416b425a4426c8dd854cebf3",
+      "mapping_status": "complete",
+      "review_note": "All27 paragraphs read consecutively, then22 source-first reference buckets reconciled. Quiet paragraphs and garbled lyrics accounted. Generic series discussion not inherited by every installment; same-agent development review.",
+      "spans": [
+        {
+          "id": "cq008-span-01",
+          "entity_id": "cq008-entity-cq008-g001",
+          "title": "Tomb Raider (identity unresolved)",
+          "game_refs": [
+            "cq008-g001"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 3",
+          "end_exclusive": "Paragraph 4",
+          "reason": "Johnny finished the current title; subtitle not spoken, do not silently choose Rise of the Tomb Raider. Coarse paragraph units, not seconds. Generic series coverage is not independently assigned to every installment.",
+          "evidence": [
+            {
+              "location": "Paragraph 3",
+              "quote": "finished Tomb Raider, beat Tomb Raider"
+            }
+          ]
+        },
+        {
+          "id": "cq008-span-02",
+          "entity_id": "cq008-entity-cq008-g002",
+          "title": "Fallout (identity unresolved)",
+          "game_refs": [
+            "cq008-g002"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 3",
+          "end_exclusive": "Paragraph 4",
+          "reason": "Disc loaded so Johnny can start tonight; generic working-on phrase does not prove he already played. Coarse paragraph units, not seconds. Generic series coverage is not independently assigned to every installment.",
+          "evidence": [
+            {
+              "location": "Paragraph 3",
+              "quote": "put in the Fallout disc"
+            }
+          ]
+        },
+        {
+          "id": "cq008-span-03",
+          "entity_id": "cq008-entity-cq008-g003",
+          "title": "Call of Duty: Black Ops III",
+          "game_refs": [
+            "cq008-g003"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 3",
+          "end_exclusive": "Paragraph 4",
+          "reason": "Current playing/backlog report; exact platform unstated. Coarse paragraph units, not seconds. Generic series coverage is not independently assigned to every installment.",
+          "evidence": [
+            {
+              "location": "Paragraph 3",
+              "quote": "Black Ops 3"
+            }
+          ]
+        },
+        {
+          "id": "cq008-span-04",
+          "entity_id": "cq008-entity-cq008-g004",
+          "title": "Panic Restaurant",
+          "game_refs": [
+            "cq008-g004"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUBSTANTIAL_COVERAGE",
+          "start": "Paragraph 4",
+          "end_exclusive": "Paragraph 6",
+          "reason": "Kat likes animated food, graphics and challenge; discovered as adult collector. Johnny loves box art but unsure he has played. Coarse paragraph units, not seconds. Generic series coverage is not independently assigned to every installment.",
+          "evidence": [
+            {
+              "location": "Paragraph 4",
+              "quote": "I played some Panic Restaurant today"
+            }
+          ]
+        },
+        {
+          "id": "cq008-span-05",
+          "entity_id": "cq008-entity-cq008-g004",
+          "title": "Panic Restaurant",
+          "game_refs": [
+            "cq008-g004"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 6",
+          "end_exclusive": "Paragraph 7",
+          "reason": "Kat likes animated food, graphics and challenge; discovered as adult collector. Johnny loves box art but unsure he has played. Coarse paragraph units, not seconds. Generic series coverage is not independently assigned to every installment.",
+          "evidence": [
+            {
+              "location": "Paragraph 6",
+              "quote": "vegetable thing, I guess, or the that one’s mainly vegetables, carrots and tomatoes and things like that. But the food based games, I guess, started then. And then when I found out what Panic Restaurant was, it was a I need to have this. Okay. Yeah. So you went from there, Tonic led you into this weird subcategory of games that only you really super enjoy, which is animated vegetables. Yeah, except I really, really don’t love Princess Tomato. No, you don’t love Princess Tomato? No, I think the name’s adorable. It’s awesome. It’s in a bright pink box with, you know, like clay formed vegetables on the front. But this point and click adventure thing, not my cup of tea. No, no, no point and click. I love point and click. Really? I can’t get it. Yeah, like, did did you not like games like Shadowgate or Wizardry or? I’m just can’t get into the point and click like I try. I’ve really tried a boat for like two minutes. And then I’ve like, no, that’s enough. Oh, yeah. It’s, I mean, it has to be well written. And, you know, it’s a very narrative driven experience because you don’t have to button mash or anything. Shadowgate is one of my favorite games of all time. It doesn’t take"
+            }
+          ]
+        },
+        {
+          "id": "cq008-span-06",
+          "entity_id": "cq008-entity-cq008-g004",
+          "title": "Panic Restaurant",
+          "game_refs": [
+            "cq008-g004"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 7",
+          "end_exclusive": "Paragraph 8",
+          "reason": "Kat likes animated food, graphics and challenge; discovered as adult collector. Johnny loves box art but unsure he has played. Coarse paragraph units, not seconds. Generic series coverage is not independently assigned to every installment.",
+          "evidence": [
+            {
+              "location": "Paragraph 7",
+              "quote": "very long, but you just, you know, with just X or Y, you know, A or B, you do this or you do this. I mean, you do have some other options. You can like look around, you’ve got the little cursor, you can move around. You know, mainly these were computer style games, but I played a lot of them. Yeah. Like Maniac Mansion and stuff. Another good one. Monkey Island. There’s a lot of point and click adventures I really like. I’m a fan of the genre. And then like later games, like Mist. I’m also a big fan of the Mist series. Yeah, I’m into it, but it’s not for everybody. Yeah, I think it’s a specific kind of thing. You either really like it or you really don’t is what I’ve come across for people. Like there’s not somebody who’s like, oh, yeah, I could play it or I could not play it. Right. So you’re just hanging out right now aside from doing this podcast, playing some Panic restaurant. So you didn’t get it as a kid. No. No. Found it as an adult from your tonic. But like what games, maybe we can talk about since we are going to the holiday season here, right? Where Canada still has Christmas, right? You guys have"
+            }
+          ]
+        },
+        {
+          "id": "cq008-span-07",
+          "entity_id": "cq008-entity-cq008-g005",
+          "title": "Tonic Trouble",
+          "game_refs": [
+            "cq008-g005"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 4",
+          "end_exclusive": "Paragraph 7",
+          "reason": "Kat's earlier animated-vegetable favorite led into Panic Restaurant interest. Coarse paragraph units, not seconds. Generic series coverage is not independently assigned to every installment.",
+          "evidence": [
+            {
+              "location": "Paragraph 4",
+              "quote": "one of my favorites. I played some Panic Restaurant today. Oh, you played some Panic Restaurant? Just casually played one of the most expensive games for the NES? Okay, but this is my reasoning why I like it, which is going to sound totally weird. I don’t even care. I’m going to put it out there. I like Panic Restaurant because it’s got food in it that’s animated. So I either like adorable looking food or I like to eat. I’m not sure what that means. So your logic train here is so I like it because it’s animated food? Yes, because I also like games like Tonic Trouble, which coincidentally also has animated food in it. So do you like Burger Time? I can’t seem terribly fond of Burger Time. But I guess really the food isn’t animated so much there. No, it’s not the same. I will say Panic Restaurant and I think I posted this on Instagram when I was asked my top five box arts. Yes. Panic Restaurant is one of my favorite box arts of all time. I think it’s amazing. It is a pretty different box art I find than any of the other NES games. It’s got a really unique style. Yeah, it’s really bizarre. I don’t know if I’ve ever played it"
+            }
+          ]
+        },
+        {
+          "id": "cq008-span-08",
+          "entity_id": "cq008-entity-cq008-g006",
+          "title": "BurgerTime",
+          "game_refs": [
+            "cq008-g006"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 4",
+          "end_exclusive": "Paragraph 5",
+          "reason": "Negative example: animated-food preference is not all food-themed games. Coarse paragraph units, not seconds. Generic series coverage is not independently assigned to every installment.",
+          "evidence": [
+            {
+              "location": "Paragraph 4",
+              "quote": "I can’t seem terribly fond of Burger Time"
+            }
+          ]
+        },
+        {
+          "id": "cq008-span-09",
+          "entity_id": "cq008-entity-cq008-g007",
+          "title": "Princess Tomato (identity unresolved)",
+          "game_refs": [
+            "cq008-g007"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 6",
+          "end_exclusive": "Paragraph 7",
+          "reason": "Likes name/pink clay-vegetable cover, rejects point-and-click play; full title unspoken. Coarse paragraph units, not seconds. Generic series coverage is not independently assigned to every installment.",
+          "evidence": [
+            {
+              "location": "Paragraph 6",
+              "quote": "really, really don’t love Princess Tomato"
+            }
+          ]
+        },
+        {
+          "id": "cq008-span-10",
+          "entity_id": "cq008-entity-cq008-g008",
+          "title": "Shadowgate",
+          "game_refs": [
+            "cq008-g008"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 6",
+          "end_exclusive": "Paragraph 8",
+          "reason": "Johnny's favorite contrasted with Kat's point-and-click aversion. Coarse paragraph units, not seconds. Generic series coverage is not independently assigned to every installment.",
+          "evidence": [
+            {
+              "location": "Paragraph 6",
+              "quote": "Shadowgate is one of my favorite games of all time"
+            }
+          ]
+        },
+        {
+          "id": "cq008-span-11",
+          "entity_id": "cq008-entity-cq008-g009",
+          "title": "Wizardry",
+          "game_refs": [
+            "cq008-g009"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 6",
+          "end_exclusive": "Paragraph 7",
+          "reason": "Asked amid point-and-click discussion; this does not verify Wizardry genre or a specific installment. Coarse paragraph units, not seconds. Generic series coverage is not independently assigned to every installment.",
+          "evidence": [
+            {
+              "location": "Paragraph 6",
+              "quote": "Shadowgate or Wizardry"
+            }
+          ]
+        },
+        {
+          "id": "cq008-span-12",
+          "entity_id": "cq008-entity-cq008-g010",
+          "title": "Maniac Mansion",
+          "game_refs": [
+            "cq008-g010"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 7",
+          "end_exclusive": "Paragraph 8",
+          "reason": "Johnny's genre-enjoyment example; platform unspecified. Coarse paragraph units, not seconds. Generic series coverage is not independently assigned to every installment.",
+          "evidence": [
+            {
+              "location": "Paragraph 7",
+              "quote": "Like Maniac Mansion and stuff. Another good one."
+            }
+          ]
+        },
+        {
+          "id": "cq008-span-13",
+          "entity_id": "cq008-entity-cq008-g011",
+          "title": "Monkey Island",
+          "game_refs": [
+            "cq008-g011"
+          ],
+          "entity_kind": "game_series",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 7",
+          "end_exclusive": "Paragraph 8",
+          "reason": "Adventure example; no installment stated. Coarse paragraph units, not seconds. Generic series coverage is not independently assigned to every installment.",
+          "evidence": [
+            {
+              "location": "Paragraph 7",
+              "quote": "Monkey Island"
+            }
+          ]
+        },
+        {
+          "id": "cq008-span-14",
+          "entity_id": "cq008-entity-cq008-g012",
+          "title": "Myst",
+          "game_refs": [
+            "cq008-g012"
+          ],
+          "entity_kind": "game_series",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 7",
+          "end_exclusive": "Paragraph 8",
+          "reason": "Phonetic normalization provisional, expressly series-level. Coarse paragraph units, not seconds. Generic series coverage is not independently assigned to every installment.",
+          "evidence": [
+            {
+              "location": "Paragraph 7",
+              "quote": "I’m also a big fan of the Mist series"
+            }
+          ]
+        },
+        {
+          "id": "cq008-span-15",
+          "entity_id": "cq008-entity-cq008-g013",
+          "title": "Mario Party",
+          "game_refs": [
+            "cq008-g013"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUBSTANTIAL_COVERAGE",
+          "start": "Paragraph 10",
+          "end_exclusive": "Paragraph 11",
+          "reason": "Original gift begins Kat/cousin tradition; date recalled as Christmas99 in next discussion. Coarse paragraph units, not seconds. Generic series coverage is not independently assigned to every installment.",
+          "evidence": [
+            {
+              "location": "Paragraph 10",
+              "quote": "the Christmas, I got Mario Party"
+            }
+          ]
+        },
+        {
+          "id": "cq008-span-16",
+          "entity_id": "cq008-entity-cq008-g013",
+          "title": "Mario Party",
+          "game_refs": [
+            "cq008-g013"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 11",
+          "end_exclusive": "Paragraph 12",
+          "reason": "Original gift begins Kat/cousin tradition; date recalled as Christmas99 in next discussion. Coarse paragraph units, not seconds. Generic series coverage is not independently assigned to every installment.",
+          "evidence": [
+            {
+              "location": "Paragraph 11",
+              "quote": "macaroni and cheese. Okay. Yeah. It’s called craft dinner. Oh, yeah. It’s just mac and cheese here. Yeah. Okay. Yeah. I’m working now. Yeah. So anyway, it became a tradition every Christmas. You know, we would play Mario Party and then of course, Mario Party 2 came out, Mario Party 3 came out. But even now, we still play it. Of course, we drink while we play it, which I think makes it more entertaining as the evening goes on. But it’s been a tradition ever since and we still do it now. I actually got a text from her the other day and she was like, \"I hope you have the N64 and Mario Party.\" And she does not play games. She just plays Mario Party at Christmas. Okay. So you guys don’t even, so strictly N64? You like, you guys haven’t even progressed like playing Mario Party 10 or anything? This is strictly 1, 2, or 3 N64 only? I can’t get her to move beyond the N64. I can’t get her to entertain the GameCube. No, it’s for her. I think it’s so nostalgic and that’s the only thing that she likes to play. So we stick to the original 1, 2, and 3. Okay. And how old were you when this started? Christmas 99 would have"
+            }
+          ]
+        },
+        {
+          "id": "cq008-span-17",
+          "entity_id": "cq008-entity-cq008-g013",
+          "title": "Mario Party",
+          "game_refs": [
+            "cq008-g013"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 12",
+          "end_exclusive": "Paragraph 13",
+          "reason": "Original gift begins Kat/cousin tradition; date recalled as Christmas99 in next discussion. Coarse paragraph units, not seconds. Generic series coverage is not independently assigned to every installment.",
+          "evidence": [
+            {
+              "location": "Paragraph 12",
+              "quote": "been when I got Mario Party. Oh God, now I’m going to have to try and think about how old I was. I don’t want to do that right now. Okay. Well, you’re 27, right? Yeah. So, and this is now 16 years past that. So you were like 11? Yeah. And she would have been 9 and a half, maybe 10. Okay. It’s going to be very embarrassing if our math is all wrong there. Yeah. Well, I was thinking about it and I was just thinking after a day of doing math all day for work, I just can’t, my brain’s fried. Yeah. I’m with you on that. It’s been a long day. I’ve actually been doing a lot of math because I’m moving a lot of my gaming room around right now. I’m switching the shelves that certain Nintendo consoles are on. And then because they’re not, they’re mostly the same size, but like the Super Nintendo box and the Nintendo box aren’t the same size and they’re making sure they fit on the other wall. I’ve been, it sounds less hard than it actually has been. Like I’m just trying to fit everything in, into these spaces and it’s not quite right. And I have to account for box protectors and like future box protectors because"
+            }
+          ]
+        },
+        {
+          "id": "cq008-span-18",
+          "entity_id": "cq008-entity-cq008-g014",
+          "title": "Mario Party 2",
+          "game_refs": [
+            "cq008-g014"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 11",
+          "end_exclusive": "Paragraph 12",
+          "reason": "Part of N64-only tradition, not separate newly reported purchase. Coarse paragraph units, not seconds. Generic series coverage is not independently assigned to every installment.",
+          "evidence": [
+            {
+              "location": "Paragraph 11",
+              "quote": "Mario Party 2 came out"
+            }
+          ]
+        },
+        {
+          "id": "cq008-span-19",
+          "entity_id": "cq008-entity-cq008-g015",
+          "title": "Mario Party 3",
+          "game_refs": [
+            "cq008-g015"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 11",
+          "end_exclusive": "Paragraph 12",
+          "reason": "Part of N64-only tradition, not separate newly reported purchase. Coarse paragraph units, not seconds. Generic series coverage is not independently assigned to every installment.",
+          "evidence": [
+            {
+              "location": "Paragraph 11",
+              "quote": "Mario Party 3 came out"
+            }
+          ]
+        },
+        {
+          "id": "cq008-span-20",
+          "entity_id": "cq008-entity-cq008-g016",
+          "title": "Mario Party 10",
+          "game_refs": [
+            "cq008-g016"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 11",
+          "end_exclusive": "Paragraph 12",
+          "reason": "Johnny asks about moving beyondN64; Kat says cousin won't, no play/purchase. Coarse paragraph units, not seconds. Generic series coverage is not independently assigned to every installment.",
+          "evidence": [
+            {
+              "location": "Paragraph 11",
+              "quote": "playing Mario Party 10 or anything"
+            }
+          ]
+        },
+        {
+          "id": "cq008-span-21",
+          "entity_id": "cq008-entity-cq008-g017",
+          "title": "Metroid",
+          "game_refs": [
+            "cq008-g017"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUBSTANTIAL_COVERAGE",
+          "start": "Paragraph 14",
+          "end_exclusive": "Paragraph 16",
+          "reason": "Johnny's Christmas gift, immersion/escape, repurchase and childhood self-challenges. Recalled year/age uncertain. Coarse paragraph units, not seconds. Generic series coverage is not independently assigned to every installment.",
+          "evidence": [
+            {
+              "location": "Paragraph 14",
+              "quote": "Metroid, the original one for the Nintendo"
+            }
+          ]
+        },
+        {
+          "id": "cq008-span-22",
+          "entity_id": "cq008-entity-cq008-g017",
+          "title": "Metroid",
+          "game_refs": [
+            "cq008-g017"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUBSTANTIAL_COVERAGE",
+          "start": "Paragraph 17",
+          "end_exclusive": "Paragraph 21",
+          "reason": "Johnny's Christmas gift, immersion/escape, repurchase and childhood self-challenges. Recalled year/age uncertain. Coarse paragraph units, not seconds. Generic series coverage is not independently assigned to every installment.",
+          "evidence": [
+            {
+              "location": "Paragraph 17",
+              "quote": "like, I think he made the stand. Yeah, like, like two days before and like I the only thing I talked about was Metroid. And I don’t know where I heard about it. And I don’t know where my parents where they got it in their head that I wanted Metroid because I don’t remember telling them, but I must have. But they were pretty, you know, Adelbrain during that time. So it was like, they weren’t super reliable adults. They weren’t people you would put your trust or faith in. But somehow, like that Christmas morning, like I came down expecting just nothing like we had this horrible bush with one like light string on it and like a homemade ornament or two on there. Super depressing looking. It was like Charlie Brown Christmas. You know, super sad. And then I had one present under the tree. And it was Metroid. Oh my goodness. Yep. That was that was it for me. Like I just played the shit out of that game. That’s all I wanted to play. And Metroid is probably the first game I credited to like making me fall in love with games as as a, you know, something you do not just like Mario’s to downplay for 10 minutes, but something like you immerse yourself"
+            }
+          ]
+        },
+        {
+          "id": "cq008-span-23",
+          "entity_id": "cq008-entity-cq008-g017",
+          "title": "Metroid",
+          "game_refs": [
+            "cq008-g017"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 21",
+          "end_exclusive": "Paragraph 22",
+          "reason": "Johnny's Christmas gift, immersion/escape, repurchase and childhood self-challenges. Recalled year/age uncertain. Coarse paragraph units, not seconds. Generic series coverage is not independently assigned to every installment.",
+          "evidence": [
+            {
+              "location": "Paragraph 21",
+              "quote": "that prevalent. Yeah. Now, Metroid sticks with me quite a bit. That’s awesome. So that’s my holiday gaming memory. You know, and you’ve got you’ve got Mario carts or not. I’m not sorry. Mario Cart Mario Party. Yeah. And now do you guys do you guys pick a random day or is that just like something you guys do at Christmas? No, it’s something we do at Christmas. It depends on when we usually never live, unfortunately, in the same place when it comes to Christmas time. So it depends on when she gets here, whether it’s before Christmas or after Christmas or if well, by the sounds of it, it may happen a couple times throughout Christmas because I’ve got a million texts about it so far. Okay. And is that something? Are you going to ever try and push her further out of it? Or are you just content to? Is it just the nostalgia? You just content to keep playing those three Mario Parties, the original ones? I think what I like about the fact that we play through those ones is there will be, you know, memories will be like, I remember that Christmas when so I think that’s nice. So I would like to try and get her to like maybe explore something a little"
+            }
+          ]
+        },
+        {
+          "id": "cq008-span-24",
+          "entity_id": "cq008-entity-cq008-g018",
+          "title": "Super Mario",
+          "game_refs": [
+            "cq008-g018"
+          ],
+          "entity_kind": "game_series",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 17",
+          "end_exclusive": "Paragraph 18",
+          "reason": "Brief-play contrast, no specific Mario game identified. Coarse paragraph units, not seconds. Generic series coverage is not independently assigned to every installment.",
+          "evidence": [
+            {
+              "location": "Paragraph 17",
+              "quote": "not just like Mario’s to downplay for 10 minutes"
+            }
+          ]
+        },
+        {
+          "id": "cq008-span-25",
+          "entity_id": "cq008-entity-cq008-g019",
+          "title": "The Legend of Zelda",
+          "game_refs": [
+            "cq008-g019"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 20",
+          "end_exclusive": "Paragraph 21",
+          "reason": "Childhood top-three most-played post plan; exact Zelda installment not specified. Coarse paragraph units, not seconds. Generic series coverage is not independently assigned to every installment.",
+          "evidence": [
+            {
+              "location": "Paragraph 20",
+              "quote": "Metroid, Zelda and Final Fantasy"
+            }
+          ]
+        },
+        {
+          "id": "cq008-span-26",
+          "entity_id": "cq008-entity-cq008-g020",
+          "title": "Final Fantasy",
+          "game_refs": [
+            "cq008-g020"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 20",
+          "end_exclusive": "Paragraph 21",
+          "reason": "Childhood top-three most-played post plan; installment unspoken. Coarse paragraph units, not seconds. Generic series coverage is not independently assigned to every installment.",
+          "evidence": [
+            {
+              "location": "Paragraph 20",
+              "quote": "Metroid, Zelda and Final Fantasy"
+            }
+          ]
+        },
+        {
+          "id": "cq008-span-27",
+          "entity_id": "cq008-entity-cq008-g021",
+          "title": "Mario Kart",
+          "game_refs": [
+            "cq008-g021"
+          ],
+          "entity_kind": "game_series",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 21",
+          "end_exclusive": "Paragraph 22",
+          "reason": "Immediately corrected verbal slip, not the family tradition. Coarse paragraph units, not seconds. Generic series coverage is not independently assigned to every installment.",
+          "evidence": [
+            {
+              "location": "Paragraph 21",
+              "quote": "Mario Cart Mario Party"
+            }
+          ]
+        },
+        {
+          "id": "cq008-span-28",
+          "entity_id": "cq008-entity-cq008-g022",
+          "title": "Mario Party — N64 trilogy/series discussion",
+          "game_refs": [
+            "cq008-g022"
+          ],
+          "entity_kind": "game_series",
+          "role": "SUBSTANTIAL_COVERAGE",
+          "start": "Paragraph 11",
+          "end_exclusive": "Paragraph 12",
+          "reason": "Collective recurring play/bonding and competitive-luck discussion. Do not credit all duration independently to every installment. Coarse paragraph units, not seconds. Generic series coverage is not independently assigned to every installment.",
+          "evidence": [
+            {
+              "location": "Paragraph 11",
+              "quote": "macaroni and cheese. Okay. Yeah. It’s called craft dinner. Oh, yeah. It’s just mac and cheese here. Yeah. Okay. Yeah. I’m working now. Yeah. So anyway, it became a tradition every Christmas. You know, we would play Mario Party and then of course, Mario Party 2 came out, Mario Party 3 came out. But even now, we still play it. Of course, we drink while we play it, which I think makes it more entertaining as the evening goes on. But it’s been a tradition ever since and we still do it now. I actually got a text from her the other day and she was like, \"I hope you have the N64 and Mario Party.\" And she does not play games. She just plays Mario Party at Christmas. Okay. So you guys don’t even, so strictly N64? You like, you guys haven’t even progressed like playing Mario Party 10 or anything? This is strictly 1, 2, or 3 N64 only? I can’t get her to move beyond the N64. I can’t get her to entertain the GameCube. No, it’s for her. I think it’s so nostalgic and that’s the only thing that she likes to play. So we stick to the original 1, 2, and 3. Okay. And how old were you when this started? Christmas 99 would have"
+            }
+          ]
+        },
+        {
+          "id": "cq008-span-29",
+          "entity_id": "cq008-entity-cq008-g022",
+          "title": "Mario Party — N64 trilogy/series discussion",
+          "game_refs": [
+            "cq008-g022"
+          ],
+          "entity_kind": "game_series",
+          "role": "SUBSTANTIAL_COVERAGE",
+          "start": "Paragraph 21",
+          "end_exclusive": "Paragraph 25",
+          "reason": "Collective recurring play/bonding and competitive-luck discussion. Do not credit all duration independently to every installment. Coarse paragraph units, not seconds. Generic series coverage is not independently assigned to every installment.",
+          "evidence": [
+            {
+              "location": "Paragraph 21",
+              "quote": "those three Mario Parties, the original ones"
+            }
+          ]
+        },
+        {
+          "id": "cq008-span-30",
+          "entity_id": "cq008-entity-cq008-g022",
+          "title": "Mario Party — N64 trilogy/series discussion",
+          "game_refs": [
+            "cq008-g022"
+          ],
+          "entity_kind": "game_series",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 25",
+          "end_exclusive": "Paragraph 26",
+          "reason": "Collective recurring play/bonding and competitive-luck discussion. Do not credit all duration independently to every installment. Coarse paragraph units, not seconds. Generic series coverage is not independently assigned to every installment.",
+          "evidence": [
+            {
+              "location": "Paragraph 25",
+              "quote": "end, it’s winning or losing 10 or 20 or 30 times. Yes. Right. Okay. Well, that I think wraps up this very quick episode of Collector’s Quest. Do you have any, any shout outs or anything you want to say, Kat? No, I think I got in everything I wanted to mention. Okay, well, tell us where we can find you on Instagram. You can find me at @katsilvania. And I’m at @jonyjoh and n y underscore I U C C I on Instagram and you can always find my my not updated blog at gameoverjohnny.com. Oh, and hey, Kat, are we on iTunes? We are finally on iTunes. You will all be happy to know that because it will make life so much easier. Yeah, we are totally on iTunes now and all all of our previous episodes are on there. If you’re listening to this and you found it on iTunes, congratulations and this you can stop listening here. If you were listening just from our SoundCloud page and keep doing that if you want, that’s fine. But if you want to take us on the go and get us on iTunes, look up collector’s quest podcast. There are two there listed. It’s my old one, which I used to do with the old host. And now the"
+            }
+          ]
+        }
+      ],
+      "section_accounting": [
+        {
+          "location": "Paragraph 1",
+          "status": "read_and_accounted",
+          "summary": "Named Johnny/Kat; Thanksgiving and BlackFriday, no games."
+        },
+        {
+          "location": "Paragraph 2",
+          "status": "read_and_accounted",
+          "summary": "Shopping avoidance and unnamed earlier promotion purchases."
+        },
+        {
+          "location": "Paragraph 3",
+          "status": "read_and_accounted",
+          "summary": "Tomb Raider completion, Fallout loading, BlackOps update; decorations."
+        },
+        {
+          "location": "Paragraph 4",
+          "status": "read_and_accounted",
+          "summary": "Panic/Tonic/BurgerTime preferences and artwork."
+        },
+        {
+          "location": "Paragraph 5",
+          "status": "read_and_accounted",
+          "summary": "Panic graphics/discovery, Tonic history."
+        },
+        {
+          "location": "Paragraph 6",
+          "status": "read_and_accounted",
+          "summary": "Tonic/Panic, PrincessTomato rejection, Shadowgate/Wizardry."
+        },
+        {
+          "location": "Paragraph 7",
+          "status": "read_and_accounted",
+          "summary": "Maniac Mansion/MonkeyIsland/Myst examples, Panic return."
+        },
+        {
+          "location": "Paragraph 8",
+          "status": "read_and_accounted",
+          "summary": "Snowy/warm Christmas banter, no games."
+        },
+        {
+          "location": "Paragraph 9",
+          "status": "read_and_accounted",
+          "summary": "Holiday framing and friend's consoles, no identified game."
+        },
+        {
+          "location": "Paragraph 10",
+          "status": "read_and_accounted",
+          "summary": "N64 gift, originalMarioParty and cousin all-night play."
+        },
+        {
+          "location": "Paragraph 11",
+          "status": "read_and_accounted",
+          "summary": "N64MarioParty1–3 tradition, rejected newer installments."
+        },
+        {
+          "location": "Paragraph 12",
+          "status": "read_and_accounted",
+          "summary": "MarioParty age/date then general shelf-math transition."
+        },
+        {
+          "location": "Paragraph 13",
+          "status": "read_and_accounted",
+          "summary": "Shelves/protectors/gaps only, no games."
+        },
+        {
+          "location": "Paragraph 14",
+          "status": "read_and_accounted",
+          "summary": "Shelf overflow then Metroid memory introduction."
+        },
+        {
+          "location": "Paragraph 15",
+          "status": "read_and_accounted",
+          "summary": "WantedMetroid within difficult holiday setting."
+        },
+        {
+          "location": "Paragraph 16",
+          "status": "read_and_accounted",
+          "summary": "Family/tree context only, not game duration."
+        },
+        {
+          "location": "Paragraph 17",
+          "status": "read_and_accounted",
+          "summary": "Metroid gift, immersion and Mario contrast."
+        },
+        {
+          "location": "Paragraph 18",
+          "status": "read_and_accounted",
+          "summary": "Metroid exploration/backtracking/escape."
+        },
+        {
+          "location": "Paragraph 19",
+          "status": "read_and_accounted",
+          "summary": "Uncertain chronology, Metroid significance/repurchase."
+        },
+        {
+          "location": "Paragraph 20",
+          "status": "read_and_accounted",
+          "summary": "Most-played image plan: Metroid/Zelda/FinalFantasy; challenges."
+        },
+        {
+          "location": "Paragraph 21",
+          "status": "read_and_accounted",
+          "summary": "Metroid wrap; MarioKart corrected; MarioParty visits."
+        },
+        {
+          "location": "Paragraph 22",
+          "status": "read_and_accounted",
+          "summary": "MarioParty bonding and John participation."
+        },
+        {
+          "location": "Paragraph 23",
+          "status": "read_and_accounted",
+          "summary": "Laura/luck/competitive/wine banter."
+        },
+        {
+          "location": "Paragraph 24",
+          "status": "read_and_accounted",
+          "summary": "MarioParty enjoyment versus anger and repeated losses."
+        },
+        {
+          "location": "Paragraph 25",
+          "status": "read_and_accounted",
+          "summary": "Final minigame fragment; handles/iTunes announcement."
+        },
+        {
+          "location": "Paragraph 26",
+          "status": "read_and_accounted",
+          "summary": "Kat feed begins5, guest invitation, music credits."
+        },
+        {
+          "location": "Paragraph 27",
+          "status": "read_and_accounted",
+          "summary": "Garbled music/lyric tail, no game or reliable lore."
+        }
+      ]
+    }
+  ],
+  "omission_audit": {
+    "unit": "Distinct source-adjudicated game/series/unresolved reference buckets, including corrected-away MarioKart; no hardware/lyrics/unnamed lots.",
+    "source_first_buckets": 22,
+    "encoded_buckets": 22,
+    "second_pass_misses": 0,
+    "prior_extraction_baseline": "none_new_episode",
+    "independent": false,
+    "notes": "Manual source-first reconciliation, not blind recall or game-identity verification."
+  }
+}

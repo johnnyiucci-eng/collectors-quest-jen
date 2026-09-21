@@ -1,0 +1,248 @@
+{
+  "review_binding": {"version":"cq-review-binding-1","sha256":"9536661f41c098c9b6a0b51b2b8e6e076ea0cda3537814e856471b8e75931cb2","reviewed_utc":"2026-09-13T22:01:34.266535+00:00","meaning":"Exact reviewed local inputs; not independent semantic, audio or live certification"},
+  "schema_version": "1",
+  "required_for": "A1–A8 mandatory for every episode in every batch.",
+  "acceptance_scope": "Captured-text development review only; not audio, external-history, blind-recall or live certification.",
+  "episodes": [
+    {
+      "episode": 23,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All29 supplied windows fully read/accounted;34 typed split spans reviewed. Life is Strange leads at3 meaningful paragraphs; six references tie next at1. No fabricated unique second/third.",
+          "evidence": [
+            "batches/017/reviews/023-audit.md",
+            "batches/017/reviews/023-annotations.json",
+            "batches/017/reviews/coordinator-progress.md"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "28 reference buckets reconciled and0 list memberships reviewed for owner/purpose/status. Final frozen comparison37/37 across the batch; actual earlier omissions and identity repairs retained.",
+          "evidence": [
+            "batches/017/reviews/023-audit.md",
+            "batches/017/reviews/023-annotations.json",
+            "batches/017/reviews/coordinator-progress.md"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Kat and Johnny host; Tyler absent. John remains distinct from Johnny.",
+          "evidence": [
+            "batches/017/reviews/023-audit.md",
+            "batches/017/reviews/023-annotations.json",
+            "batches/017/reviews/coordinator-progress.md"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "All38 action rows reviewed. Actual returns/disposal, wanted Empire box, received magazines/box-only pickups, tentative play and jokes remain separate.",
+          "evidence": [
+            "batches/017/reviews/023-audit.md",
+            "batches/017/reviews/023-annotations.json",
+            "batches/017/reviews/coordinator-progress.md"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "All12 actual answers and required qualifications reviewed; exact original/query/prose snapshots unchanged. Batch59original/59tuned,12fresh pass.",
+          "evidence": [
+            "batches/017/reviews/answer-review.json",
+            "batches/017/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Episode-grounded practical brief reviewed for conclusions, examples, corrections, jokes, open loops, uncertainty and distinct editorial angles. Desk usefulness, not live rehearsal.",
+          "evidence": [
+            "batches/017/reviews/023-audit.md",
+            "batches/017/reviews/023-annotations.json",
+            "batches/017/reviews/coordinator-progress.md"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "4270 exact batch proofs, complete accounting,59original/59tuned,37frozen/12fresh pass.225 shared tests and15 prior batch gates pass after016 generated-index rebuild. First failures retained; no test relaxation.",
+          "evidence": [
+            "batches/017/reviews/verification.md",
+            "batches/017/generated/twenty-minute-sample.json",
+            "batches/017/generated/twenty-minute-fresh.json",
+            "batches/017/generated/twenty-minute-prior-gates.json",
+            "batches/017/generated/twenty-minute-prior-016-recheck.json",
+            "batches/017/generated/twenty-minute-tests.log"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "Explicit eight-check decision after full source/semantic review and runtime checks; exact binding required. Safely qualified unresolved items remain visible.",
+          "evidence": [
+            "batches/017/reviews/023-audit.md",
+            "batches/017/reviews/023-annotations.json",
+            "batches/017/reviews/coordinator-progress.md"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 90,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All89 supplied windows fully read/accounted;251 typed split spans reviewed. Castlevania ReBirth8 meaningful paragraphs, Human Fall Flat6, Contra/Gradius ReBirth tie5; untimed units and hypothetical compilation context qualified.",
+          "evidence": [
+            "batches/017/reviews/090-audit.md",
+            "batches/017/reviews/090-annotations.json",
+            "batches/017/reviews/coordinator-progress.md"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "130 reference buckets reconciled and11 list memberships reviewed for owner/purpose/status. Final frozen comparison37/37 across the batch; actual earlier omissions and identity repairs retained.",
+          "evidence": [
+            "batches/017/reviews/090-audit.md",
+            "batches/017/reviews/090-annotations.json",
+            "batches/017/reviews/coordinator-progress.md"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Johnny and Tyler identified contextually; unknown turns and raw title/platform candidates remain qualified.",
+          "evidence": [
+            "batches/017/reviews/090-audit.md",
+            "batches/017/reviews/090-annotations.json",
+            "batches/017/reviews/coordinator-progress.md"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "All91 action rows reviewed. Tyler's WiiWare purchases differ from Johnny's nonparticipation; paid preamp not received, failed/wanted buys not ownership, future co-op not played.",
+          "evidence": [
+            "batches/017/reviews/090-audit.md",
+            "batches/017/reviews/090-annotations.json",
+            "batches/017/reviews/coordinator-progress.md"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "All22 actual answers and required qualifications reviewed; exact original/query/prose snapshots unchanged. Batch59original/59tuned,12fresh pass.",
+          "evidence": [
+            "batches/017/reviews/answer-review.json",
+            "batches/017/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Episode-grounded practical brief reviewed for conclusions, examples, corrections, jokes, open loops, uncertainty and distinct editorial angles. Desk usefulness, not live rehearsal.",
+          "evidence": [
+            "batches/017/reviews/090-audit.md",
+            "batches/017/reviews/090-annotations.json",
+            "batches/017/reviews/coordinator-progress.md"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "4270 exact batch proofs, complete accounting,59original/59tuned,37frozen/12fresh pass.225 shared tests and15 prior batch gates pass after016 generated-index rebuild. First failures retained; no test relaxation.",
+          "evidence": [
+            "batches/017/reviews/verification.md",
+            "batches/017/generated/twenty-minute-sample.json",
+            "batches/017/generated/twenty-minute-fresh.json",
+            "batches/017/generated/twenty-minute-prior-gates.json",
+            "batches/017/generated/twenty-minute-prior-016-recheck.json",
+            "batches/017/generated/twenty-minute-tests.log"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "Explicit eight-check decision after full source/semantic review and runtime checks; exact binding required. Safely qualified unresolved items remain visible.",
+          "evidence": [
+            "batches/017/reviews/090-audit.md",
+            "batches/017/reviews/090-annotations.json",
+            "batches/017/reviews/coordinator-progress.md"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 216,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All164 supplied windows fully read/accounted;728 typed split spans reviewed. Meaningful-duration leaders Castlevania631s, NinjaGaiden518s, Wolfenstein3D508s; substantial-only leaders differ. Two repaired passing returns add no ranking credit.",
+          "evidence": [
+            "batches/017/reviews/216-audit.md",
+            "batches/017/reviews/216-annotations.json",
+            "batches/017/reviews/coordinator-progress.md"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "401 reference buckets reconciled and243 list memberships reviewed for owner/purpose/status. Final frozen comparison37/37 across the batch; actual earlier omissions and identity repairs retained.",
+          "evidence": [
+            "batches/017/reviews/216-audit.md",
+            "batches/017/reviews/216-annotations.json",
+            "batches/017/reviews/coordinator-progress.md"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Johnny/Tyler preserved; shared year discussion is not consensus. SimCity/1989 decision belongs to Tyler; uncertain dialogue and character/film candidates remain unresolved.",
+          "evidence": [
+            "batches/017/reviews/216-audit.md",
+            "batches/017/reviews/216-annotations.json",
+            "batches/017/reviews/coordinator-progress.md"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "All43 action rows reviewed. Cotton receipt not play; mug almost discarded not discarded; PS2 card transfer intended not completed; RE bottle/Chex packaging uncertain; TheQuest on PocketPC.",
+          "evidence": [
+            "batches/017/reviews/216-audit.md",
+            "batches/017/reviews/216-annotations.json",
+            "batches/017/reviews/coordinator-progress.md"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "All25 actual answers and required qualifications reviewed; exact original/query/prose snapshots unchanged. Batch59original/59tuned,12fresh pass.",
+          "evidence": [
+            "batches/017/reviews/answer-review.json",
+            "batches/017/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Episode-grounded practical brief reviewed for conclusions, examples, corrections, jokes, open loops, uncertainty and distinct editorial angles. Desk usefulness, not live rehearsal.",
+          "evidence": [
+            "batches/017/reviews/216-audit.md",
+            "batches/017/reviews/216-annotations.json",
+            "batches/017/reviews/coordinator-progress.md"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "4270 exact batch proofs, complete accounting,59original/59tuned,37frozen/12fresh pass.225 shared tests and15 prior batch gates pass after016 generated-index rebuild. First failures retained; no test relaxation.",
+          "evidence": [
+            "batches/017/reviews/verification.md",
+            "batches/017/generated/twenty-minute-sample.json",
+            "batches/017/generated/twenty-minute-fresh.json",
+            "batches/017/generated/twenty-minute-prior-gates.json",
+            "batches/017/generated/twenty-minute-prior-016-recheck.json",
+            "batches/017/generated/twenty-minute-tests.log"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "Explicit eight-check decision after full source/semantic review and runtime checks; exact binding required. Safely qualified unresolved items remain visible.",
+          "evidence": [
+            "batches/017/reviews/216-audit.md",
+            "batches/017/reviews/216-annotations.json",
+            "batches/017/reviews/coordinator-progress.md"
+          ]
+        }
+      }
+    }
+  ]
+}

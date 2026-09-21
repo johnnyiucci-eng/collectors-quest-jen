@@ -1,0 +1,134 @@
+{
+  "windows": 9,
+  "total": 14,
+  "passed": 14,
+  "no_title_windows": 3,
+  "results": [
+    {
+      "id": "cq19-sample-Paragraph8-1",
+      "episode": 19,
+      "location": "Paragraph 8",
+      "title": "Study Hall; claimed Genesis/NES releases, platform assertion unverified",
+      "spans": [
+        "cq019-span-009-1"
+      ]
+    },
+    {
+      "id": "cq19-sample-Paragraph8-2",
+      "episode": 19,
+      "location": "Paragraph 8",
+      "title": "Hyper Metroid ROM hack",
+      "spans": [
+        "cq019-span-010-1"
+      ]
+    },
+    {
+      "id": "cq19-sample-Paragraph8-3",
+      "episode": 19,
+      "location": "Paragraph 8",
+      "title": "Super Metroid source game",
+      "spans": [
+        "cq019-span-011-1"
+      ]
+    },
+    {
+      "id": "cq19-sample-Paragraph16-1",
+      "episode": 19,
+      "location": "Paragraph 16",
+      "title": "Hagane relabeling example continued from Paragraph15",
+      "spans": [
+        "cq019-span-020-2"
+      ]
+    },
+    {
+      "id": "cq86-sample-Paragraph11-1",
+      "episode": 86,
+      "location": "Paragraph 11",
+      "title": "Pepsi Invaders continued from Paragraph10",
+      "spans": [
+        "cq086-span-016-2"
+      ]
+    },
+    {
+      "id": "cq86-sample-Paragraph11-2",
+      "episode": 86,
+      "location": "Paragraph 11",
+      "title": "Pepsiman",
+      "spans": [
+        "cq086-span-017-2"
+      ]
+    },
+    {
+      "id": "cq86-sample-Paragraph11-3",
+      "episode": 86,
+      "location": "Paragraph 11",
+      "title": "3-D WorldRunner",
+      "spans": [
+        "cq086-span-019-1"
+      ]
+    },
+    {
+      "id": "cq86-sample-Paragraph11-4",
+      "episode": 86,
+      "location": "Paragraph 11",
+      "title": "Space Harrier comparison",
+      "spans": [
+        "cq086-span-020-1"
+      ]
+    },
+    {
+      "id": "cq86-sample-Paragraph21-1",
+      "episode": 86,
+      "location": "Paragraph 21",
+      "title": "Cool Spot; PlayStation claim uncertain and corrected later",
+      "spans": [
+        "cq086-span-040-3"
+      ]
+    },
+    {
+      "id": "cq86-sample-Paragraph21-2",
+      "episode": 86,
+      "location": "Paragraph 21",
+      "title": "Spot Goes to Hollywood",
+      "spans": [
+        "cq086-span-041-1"
+      ]
+    },
+    {
+      "id": "cq86-sample-Paragraph21-3",
+      "episode": 86,
+      "location": "Paragraph 21",
+      "title": "Spot game family retrospective",
+      "spans": [
+        "cq086-span-013-5"
+      ]
+    },
+    {
+      "id": "cq86-sample-Paragraph31-1",
+      "episode": 86,
+      "location": "Paragraph 31",
+      "title": "M.C. Kids critique continued from Paragraph30",
+      "spans": [
+        "cq086-span-036-6"
+      ]
+    },
+    {
+      "id": "cq86-sample-Paragraph31-2",
+      "episode": 86,
+      "location": "Paragraph 31",
+      "title": "Darkened Skye GameCube; spoken title retained",
+      "spans": [
+        "cq086-span-057-1"
+      ]
+    },
+    {
+      "id": "cq212-sample-00:35:17-1",
+      "episode": 212,
+      "location": "00:35:17",
+      "title": "SSI Gold Box licensed D&D computer RPG family",
+      "spans": [
+        "cq212-span-028-1"
+      ]
+    }
+  ]
+}

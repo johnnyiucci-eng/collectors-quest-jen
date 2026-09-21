@@ -1,0 +1,751 @@
+{
+  "schema_version": "1",
+  "review_scope": "Root independently read all46/50/158source windows and all38actual proseanswers. CQ16/CQ83 separate fullsourcepeerreviews; CQ209 explicitlists independentlypeerchecked. Contextrecall is separate from semanticadjudication; no blind/audio/livecertification.",
+  "cases": [
+    {
+      "id": "batch010-cq016-roster",
+      "episode": 16,
+      "question": "Who is the guest and which hosts are here?",
+      "query": "Justin theycallmesolo Johnny Kat interview",
+      "answer": "Johnny and Kat interview Justin, whose Instagram handle is clarified at the end as theycallmesolo. The opening garble is not a second person. Tyler is not a participant in this early episode.",
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 46"
+      ],
+      "forbidden": [
+        "Tyler present",
+        "Guest Johnny",
+        "Different person for raw handle"
+      ],
+      "status": "passed",
+      "reason": "P1/P46 explicit guest Justin/handle and Johnny/Kat roster, no Tyler."
+    },
+    {
+      "id": "batch010-cq016-origin",
+      "episode": 16,
+      "question": "When did Justin become a collector rather than simply rebuying childhood games?",
+      "query": "Justin bundle Nintendo Power100 Conker years collecting",
+      "answer": "Justin distinguishes buying an N64 bundle roughly four or five years earlier from becoming a collector about two and a half years earlier. The bundle included Rugrats in Paris, Mario Kart, Beetle Adventure Racing and Pokémon Snap. The Nintendo Power 100 controller was his tipping point toward collecting controllers, after increasingly expensive purchases such as Conker. These are approximate recollections, not exact calendar dates.",
+      "evidence_locations": [
+        "Paragraph 5",
+        "Paragraph 21",
+        "Paragraph 22",
+        "Paragraph 23"
+      ],
+      "forbidden": [
+        "Five years all serious collecting",
+        "Exact acquisition date",
+        "Bundle controller count certain"
+      ],
+      "status": "passed",
+      "reason": "P5/P21–23 approximate return-to-play versus intentional collecting and Power100 turning point, not a precise date."
+    },
+    {
+      "id": "batch010-cq016-beetle",
+      "episode": 16,
+      "question": "How do the three people differ on Beetle Adventure Racing?",
+      "query": "Beetle Adventure Racing played have not Mario Kart complete",
+      "answer": "Justin calls it his second-favorite N64 racing game behind Mario Kart. Kat owns it but explicitly has not played it and tends to return to Mario Kart. Johnny has played only a little through a friend's copy and says it is in his complete N64 set. Owning the game does not mean all three have played it.",
+      "evidence_locations": [
+        "Paragraph 4"
+      ],
+      "forbidden": [
+        "Kat played",
+        "Johnny extensive play",
+        "Justin prefers Beetle to Mario Kart"
+      ],
+      "status": "passed",
+      "reason": "P4 separates guest preference, Kat nonplay/ownership and Johnny brief play/complete-set ownership."
+    },
+    {
+      "id": "batch010-cq016-regional",
+      "episode": 16,
+      "question": "Is Justin missing Rugrats in Paris, and which F1 game did he obtain?",
+      "query": "Rugrats regrets Paris gray Brazil racing championship performance pack",
+      "answer": "Justin received ordinary Rugrats in Paris in his early bundle but still wants its gray-cartridge variant, along with gray WCW Backstage Assault. The recent Brazilian cartridge is F1 Racing Championship, not the Australian F1 World Grand Prix Performance Pack with a wheel. The claimed 297-game NTSC library and 13 gray variants are Justin's reported classification, not independently verified catalog totals.",
+      "evidence_locations": [
+        "Paragraph 5",
+        "Paragraph 8",
+        "Paragraph 9",
+        "Paragraph 10",
+        "Paragraph 12",
+        "Paragraph 13"
+      ],
+      "forbidden": [
+        "Gray Rugrats owned",
+        "F1 performance pack received",
+        "297 independently certified"
+      ],
+      "status": "passed",
+      "reason": "P5/P8–10/P12–13 standard-versus-gray Rugrats and distinct F1 titles; totals attributed to guest classification."
+    },
+    {
+      "id": "batch010-cq016-ascii",
+      "episode": 16,
+      "question": "How complete is Justin's ASCII controller collection?",
+      "query": "ASCI nine thirteen eight fourteen white mauve",
+      "answer": "The transcript cannot support one clean total. Justin first says he has nine of a supposed thirteen, then says actually eight of fourteen. He names white, metallic black, clear-front/blue-back and mauve among hard-to-find variants, but the list does not resolve the conflicting arithmetic. He is still seeking controllers, not claiming the set is complete.",
+      "evidence_locations": [
+        "Paragraph 13",
+        "Paragraph 14"
+      ],
+      "forbidden": [
+        "Exactly9of13verified",
+        "Exactly8of14verified",
+        "Allmissingmodelsnameddefinitively"
+      ],
+      "status": "passed",
+      "reason": "P13–14 conflicting9/13 and8/14 preserved; missing-color list cannot repair arithmetic."
+    },
+    {
+      "id": "batch010-cq016-provenance",
+      "episode": 16,
+      "question": "Why is Justin's favorite piece meaningful, and what is not authenticated?",
+      "query": "Hiroto Alexander product testing controller juice jacket mug",
+      "answer": "Justin's favorite is a two-tone N64 controller engraved for Hiroto Alexander's product testing in 1999, acquired through The Juice with employee jackets and a mug. He values the personal story and reported connection to work on Ocarina of Time and Star Fox 64. His research, the alleged thirteen-person testing group and uniqueness claims are reported provenance, not independent authentication or proof that only thirteen such controllers exist.",
+      "evidence_locations": [
+        "Paragraph 15",
+        "Paragraph 16",
+        "Paragraph 17",
+        "Paragraph 18"
+      ],
+      "forbidden": [
+        "Provenance authenticated",
+        "Only13verified",
+        "Johnny owns this controller"
+      ],
+      "status": "passed",
+      "reason": "P15–18 employee bundle/controller personal meaning and provenance remain reported, not authenticated."
+    },
+    {
+      "id": "batch010-cq016-hori",
+      "episode": 16,
+      "question": "Why does Justin recommend the Hori pad, and what limits should the answer retain?",
+      "query": "Hori pad D pad GameCube stick Wii never wear",
+      "answer": "Justin strongly recommends the N64 Hori pad for comfort and its GameCube-style stick, but says the D-pad's placement is poor for games that need it. His claim that the stick will never wear out is not verified durability evidence. Johnny says he lacks the pad under discussion and owns a Wii classic-SNES-style controller; his sudden GameCube wording makes the exact missing model worth qualifying, not silently resolving.",
+      "evidence_locations": [
+        "Paragraph 33",
+        "Paragraph 34"
+      ],
+      "forbidden": [
+        "Durability guaranteed",
+        "Johnny owns N64 Hori",
+        "Model mismatch erased"
+      ],
+      "status": "passed",
+      "reason": "P33–34 D-pad caveat and ambiguous Johnny controller model, never-wears-out claim not certified."
+    },
+    {
+      "id": "batch010-cq016-sin",
+      "episode": 16,
+      "question": "Who played or completed Sin and Punishment, and who only wants to try it?",
+      "query": "Sin Punishment Japanese import beat top three Kat list",
+      "answer": "Justin recently beat the Japanese N64 import for the first time and ranks it among his top three N64 games, sometimes his favorite. He praises the smooth rail-shooting but says the story makes little sense. Johnny confirms having played it; Kat says she has not and later adds it to her list. Neither the recommendation nor his CIB price comparison proves Kat ordered a copy.",
+      "evidence_locations": [
+        "Paragraph 35",
+        "Paragraph 36"
+      ],
+      "forbidden": [
+        "Kat played",
+        "Kat purchased",
+        "Johnny completed",
+        "English statement certifies every text language"
+      ],
+      "status": "passed",
+      "reason": "P35–36 guest first completion, Johnny play and Kat nonplay/want, no implied purchase."
+    },
+    {
+      "id": "batch010-cq016-metroid",
+      "episode": 16,
+      "question": "Was Johnny replaying the original Metroid or Zero Mission?",
+      "query": "Metroid Zero Mission original speed run energy tanks missiles",
+      "answer": "His current game is Metroid: Zero Mission, which he describes as a remake with extra material. The estimate of thirty or forty completions and self-imposed speed, energy-tank and missile challenges concerns his childhood play of the original Metroid. It is a recollection, not an independently certified speedrun record or thirty Zero Mission completions.",
+      "evidence_locations": [
+        "Paragraph 39"
+      ],
+      "forbidden": [
+        "30ZeroMissionclears",
+        "Verified speedrun record"
+      ],
+      "status": "passed",
+      "reason": "P39 Zero Mission current play versus original game's childhood completions and self-imposed challenges."
+    },
+    {
+      "id": "batch010-cq016-partners",
+      "episode": 16,
+      "question": "Who beat whom at Mario Kart, and did the co-op cup succeed?",
+      "query": "John Carly Double Dash blue shelled Rainbow Road eighth",
+      "answer": "Kat says she plays Mario Kart 8 with John and beats him. Johnny's separate story starts with buying Double Dash when newly dating Carly, who beat him immediately. During a shared cup attempt she blue-shelled him near the finish on Rainbow Road; he says he finished eighth and they missed the goal. He later clarifies he was not a collector when they first played. The episode does not establish a successful mirror unlock, and John is not Johnny.",
+      "evidence_locations": [
+        "Paragraph 40",
+        "Paragraph 41",
+        "Paragraph 42",
+        "Paragraph 44"
+      ],
+      "forbidden": [
+        "John equals Johnny",
+        "Carly beat Justin",
+        "Mirror unlock completed",
+        "Johnny collecting at first match"
+      ],
+      "status": "passed",
+      "reason": "P40–42/P44 separate partners/games, failed shared cup and earlier noncollector context."
+    },
+    {
+      "id": "batch010-cq016-pinball",
+      "episode": 16,
+      "question": "Did Johnny get a virtual pinball machine after the expo?",
+      "query": "pinball expo last weekend virtual machines looked where put",
+      "answer": "Johnny says he attended a pinball expo and played over the weekend. He then spent time looking at virtual cabinets and thinking about where one would go, but does not report buying or receiving one. The discussion of Pinball Arcade and physical Medieval Madness explains the appeal and cost comparison; it is not a list of physical tables he owns.",
+      "evidence_locations": [
+        "Paragraph 37",
+        "Paragraph 38",
+        "Paragraph 39"
+      ],
+      "forbidden": [
+        "Virtual cabinet bought",
+        "Owns Medieval Madness",
+        "Expo only future"
+      ],
+      "status": "passed",
+      "reason": "P37–39 actual expo attendance/playing versus prospective virtual cabinet, physical examples not owned list."
+    },
+    {
+      "id": "batch010-cq016-pickups",
+      "episode": 16,
+      "question": "What were the closing purchases, and which identities remain unresolved?",
+      "query": "Sculptor cut Pop Japanese PAL ASCI metal slug GBA Wii",
+      "answer": "Kat repeats her Sculptor's Cut cartridge purchase, not a second copy or a complete boxed set. Justin reports Pop figures, Japanese/PAL exclusives and ASCII pads without naming every acquisition. Johnny bought Metal Slug releases for GBA and Wii, but the exact titles are not supplied; the Wii purchase should not be silently treated as a particular individual game or compilation.",
+      "evidence_locations": [
+        "Paragraph 19",
+        "Paragraph 20",
+        "Paragraph 45"
+      ],
+      "forbidden": [
+        "Kat second Sculptor copy",
+        "Kat CIB",
+        "SpecificWiiMetalSlugtitleverified"
+      ],
+      "status": "passed",
+      "reason": "P19–20/P45 repeated cart report not second acquisition; unnamed regional games and platform-only Metal Slug remain unresolved."
+    },
+    {
+      "id": "cq083-task-roster",
+      "episode": 83,
+      "question": "Is Kat hosting this episode?",
+      "query": "Cat actually Tyler other guy Johnny first episode",
+      "answer": "No. The opening imitation says Cat, but the speaker immediately corrects himself to Tyler and explicitly introduces Tyler with Johnny. Later he says he had hoped Kat would be there. Her name in the opening is not evidence of her participation.",
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 49"
+      ],
+      "forbidden": [
+        "Kat hosting",
+        "Three hosts present"
+      ],
+      "status": "passed",
+      "reason": "P1–2/P49 explicit Tyler correction and absent Kat; name mention is not roster."
+    },
+    {
+      "id": "cq083-task-terms",
+      "episode": 83,
+      "question": "What do they mean by licensed, aftermarket and homebrew here?",
+      "query": "license IP holder Nintendo seal aftermarket lifespan homebrew ground up",
+      "answer": "The preface defines licensed rereleases as existing games republished with IP-holder permission, not necessarily Nintendo's seal. Aftermarket means released after the console's lifespan; homebrew means newly built games. The speaker warns that they use the terms loosely later. These are the episode's stated distinctions, not a current legal assessment of each product.",
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 4",
+        "Paragraph 5"
+      ],
+      "forbidden": [
+        "Nintendo approved all",
+        "Every product legality independently verified"
+      ],
+      "status": "passed",
+      "reason": "P1/P4–5 defines episode terminology, not external product legal verification."
+    },
+    {
+      "id": "cq083-task-compilations",
+      "episode": 83,
+      "question": "What did they correct about the compilation game lists?",
+      "query": "Buggy Popper Bump Jump Tough Enough Brawl Brothers Kongo Kaper",
+      "answer": "Buggy Popper is identified in the conversation as Bump and Jump rather than a new game. The proposed Jaleco trio initially includes Tough Enough, but that is questioned and Brawl Brothers is suggested instead. Congo's Caper's relationship to Joe and Mac remains unresolved; they explicitly joke that they still do not know. None of these exchanges should be turned into a confidently verified complete catalog.",
+      "evidence_locations": [
+        "Paragraph 11",
+        "Paragraph 12"
+      ],
+      "forbidden": [
+        "ToughEnough confirmed trilogy",
+        "Congo confirmed spinoff"
+      ],
+      "status": "passed",
+      "reason": "P11–12 correction/questioning remains provisional; Congo relation not silently solved."
+    },
+    {
+      "id": "cq083-task-holy",
+      "episode": 83,
+      "question": "Had Holy Diver arrived, and was its future budget release confirmed?",
+      "query": "Holy Diver preorder today now have thousand Amazon35",
+      "answer": "The episode introduces Holy Diver as newly available for preorder. Later acquisition wording does not establish shipment or delivery. They are unsure whether the thousand-copy wording applies to colored carts or the whole collector edition, and a cheaper future Amazon copy is a prediction. Their interest and pricing opinions are real episode statements; confirmed receipt and later release details are not.",
+      "evidence_locations": [
+        "Paragraph 8",
+        "Paragraph 17",
+        "Paragraph 18",
+        "Paragraph 19"
+      ],
+      "forbidden": [
+        "Received copy",
+        "Confirmed35release",
+        "Precise edition limit settled"
+      ],
+      "status": "passed",
+      "reason": "P8/P17–19 preorder context, uncertain thousand-edition scope and predicted cheaper product, no receipt."
+    },
+    {
+      "id": "cq083-task-bid",
+      "episode": 83,
+      "question": "Did either host buy the glow-in-the-dark Street Fighter cartridge for20?",
+      "query": "Street Fighter glow dark20 bid90 shipping ten sealed22 hours",
+      "answer": "No completed purchase is established. An unlabelled speaker reports a $20 bid on an auction; there is no winning result, payment or receipt. They also question how a listing can claim unopened while identifying the glow-in-the-dark cart. The cited $90 sale plus $10 shipping totals $100 before any other costs, so it should not become a delivered purchase below $100 by a host.",
+      "evidence_locations": [
+        "Paragraph 26",
+        "Paragraph 27",
+        "Paragraph 28"
+      ],
+      "forbidden": [
+        "Host bought20",
+        "Delivered under100",
+        "Sealed identity verified"
+      ],
+      "status": "passed",
+      "reason": "P26–28 bid notwin, actorunlabelled,90plus10 arithmetic and uncertain listing seal."
+    },
+    {
+      "id": "cq083-task-strawman",
+      "episode": 83,
+      "question": "Does Johnny insist that reproductions are the only way to play Terranigma?",
+      "query": "Terranigma flash cart emulator straw man real Johnny",
+      "answer": "No. Johnny explicitly says he is describing arguments heard from other people, and the exchange calls that position straw-man Johnny. He says he will load ROMs on his SNES Classic. Both hosts acknowledge owning Terranigma reproductions, but that does not make the anti-emulation argument Johnny's actual belief.",
+      "evidence_locations": [
+        "Paragraph 23",
+        "Paragraph 24"
+      ],
+      "forbidden": [
+        "Johnny rejects flashcarts",
+        "Only way repro"
+      ],
+      "status": "passed",
+      "reason": "P23–24 explicit straw-man attribution with repro ownership separate from personal emulator stance."
+    },
+    {
+      "id": "cq083-task-coop",
+      "episode": 83,
+      "question": "What did Tyler and Ada finish, and why did Tyler prefer Snipperclips?",
+      "query": "Ada Snipperclips Plus LEGO Dimensions story gold bricks",
+      "answer": "Tyler praises Snipperclips Plus for varied puzzles that begin promptly without excessive tutorial filler. He and Ada completed LEGO Dimensions' story after other side activity, not every gold brick or all content. He criticizes its repeated ability gates and contrasts them with actual puzzles. His roughly45-hour/low-completion recollection reinforces that story completion is not full completion.",
+      "evidence_locations": [
+        "Paragraph 31",
+        "Paragraph 32",
+        "Paragraph 33"
+      ],
+      "forbidden": [
+        "All goldbricks",
+        "Ada unmentioned",
+        "LEGO entirely hated"
+      ],
+      "status": "passed",
+      "reason": "P31–33 co-play and main story complete, low goldbricks and mixedopinion retained."
+    },
+    {
+      "id": "cq083-task-streets",
+      "episode": 83,
+      "question": "Which Ninja Gaiden and Streets of Rage games did Tyler complete or abandon?",
+      "query": "Ninja Gaiden1 four times Streets Rage3 two hours gave up",
+      "answer": "Tyler says he beat the first Ninja Gaiden four times at MagFest, not Ninja Gaiden3. He recalls Streets of Rage through childhood Game Gear play and playing its Genesis version, and calls Streets of Rage2 fun and easy. He explicitly gave up on Streets of Rage3 after about two hours, so it is not a completed run.",
+      "evidence_locations": [
+        "Paragraph 31",
+        "Paragraph 36",
+        "Paragraph 37"
+      ],
+      "forbidden": [
+        "Ninja3completed",
+        "Streets3finished"
+      ],
+      "status": "passed",
+      "reason": "P31/P36–37 firstNinjaGaiden fourclears, Streets3abandonment; no falsecompletion."
+    },
+    {
+      "id": "cq083-task-newleaf",
+      "episode": 83,
+      "question": "What did Johnny buy, and what historical claims remain unverified?",
+      "query": "New Leaf Echo Dolphin Blockbuster Game Factory five eight Outback Joey",
+      "answer": "Johnny bought and now owns a New Leaf Genesis cartridge, with Echo the Dolphin discussed as its content. He describes New Leaf as a precursor to Blockbuster's Game Factory cartridges and estimates only a handful known. Those distribution-history and population claims are his reported account, not independently checked facts. He separately confirms Outback Joey, its system box and a Blockbuster championship cartridge.",
+      "evidence_locations": [
+        "Paragraph 41",
+        "Paragraph 42",
+        "Paragraph 43"
+      ],
+      "forbidden": [
+        "Echo separately bought",
+        "Known population verified",
+        "All Genesis games owned"
+      ],
+      "status": "passed",
+      "reason": "P41–43 actualNewLeafcart and separatelyowned rarities; Eccocontent not separate purchase, historyqualified."
+    },
+    {
+      "id": "cq083-task-progress",
+      "episode": 83,
+      "question": "Who played Zelda DLC and who still had not finished Odyssey?",
+      "query": "Zelda Breath Wild last week Mario Odyssey last level finish next week",
+      "answer": "Johnny says he had not played that particular weekend but had resumed Breath of the Wild DLC the previous week. The following unlabelled Odyssey exchange says the player remains on the last level, became absorbed in Zelda and has not finished Odyssey; finishing next week is a plan. The local turn order does not securely identify that player as Tyler or Johnny. Earlier episode completion claims must not force the attribution.",
+      "evidence_locations": [
+        "Paragraph 45"
+      ],
+      "forbidden": [
+        "Confident Tyler Odyssey attribution",
+        "Confident Johnny Odyssey attribution",
+        "Next-week plan already completed",
+        "Earlier episode state resolves this speaker"
+      ],
+      "status": "passed",
+      "reason": "P45 JohnnyDLC context and unresolved Odysseyturn explicitlyqualified afteractual attribution repair."
+    },
+    {
+      "id": "cq083-task-quiz",
+      "episode": 83,
+      "question": "What was the Super Mario quiz disagreement?",
+      "query": "Jeopardy Echo Super Mario Brothers Donkey Kong Raccoon Little Mario",
+      "answer": "Tyler reports that the Echo Jeopardy quiz rejected Super Mario Bros. and accepted Donkey Kong for the first game starring Super Mario. Both hosts argue that Super Mario is the powered-up form rather than merely the same character's name, using a Raccoon Mario analogy after questioning the Batman analogy. The record preserves their argument and reported quiz outcome without declaring either externally verified.",
+      "evidence_locations": [
+        "Paragraph 46",
+        "Paragraph 47",
+        "Paragraph 48",
+        "Paragraph 49"
+      ],
+      "forbidden": [
+        "Externally verified quiz",
+        "Kat agreed on air",
+        "SMB3 explicitly named"
+      ],
+      "status": "passed",
+      "reason": "P46–49 reported quiz outcome and hostargument, not verifiedfirstappearance; Katnotparticipant."
+    },
+    {
+      "id": "cq209-starter-lists",
+      "episode": 209,
+      "question": "What are the two ten-game starter lists, and why do they differ?",
+      "query": "What are the two ten-game starter lists, and why do they differ?",
+      "answer": "Both include Super Mario World, A Link to the Past, Super Metroid, Super Castlevania IV and Chrono Trigger. Tyler adds Yoshi’s Island, Mega Man X, Super Ghouls ’n Ghosts, Donkey Kong Country 2 and Contra III. Johnny adds Final Fantasy III/VI, Super Mario Kart, EarthBound, Street Fighter II Turbo and Turtles in Time. Johnny wants a representative shelf with broad recognition; Tyler leans toward his own favorites, especially platformers. These are ten starter selections each, not a unanimous ranking or their three separate aspirational picks.",
+      "evidence_locations": [
+        "00:04:17",
+        "00:05:21",
+        "00:08:36",
+        "00:15:59",
+        "00:19:09",
+        "00:25:36",
+        "00:31:56",
+        "00:42:32",
+        "00:45:46",
+        "00:52:14",
+        "00:59:27",
+        "01:06:48",
+        "01:08:56",
+        "01:14:09",
+        "01:17:19",
+        "01:22:41",
+        "01:25:53"
+      ],
+      "forbidden": [
+        "Do not count rejected alternatives or fake Utopia/Vortex/Warlock picks.",
+        "Do not merge aspirational picks into the ten.",
+        "Do not call Johnny’s representative choices personal favorites."
+      ],
+      "status": "passed",
+      "reason": "Root independently read all158 source windows. Five shared selections and each host's five unique picks agree with named list transitions; rejected variety suggestions and fake Utopia/Vortex/Warlock banter are excluded. Representative shelf versus personal platformer criteria are explicit in opening."
+    },
+    {
+      "id": "cq209-mario-world",
+      "episode": 209,
+      "question": "Is the four-line boxed Super Mario World the original release, and which copy does Johnny have?",
+      "query": "Is the four-line boxed Super Mario World the original release, and which copy does Johnny have?",
+      "answer": "The four-line red box beside the UPC is described as the first standalone black-box print, while three lines marks the later standalone print. But the game had already come with the earlier Super Set, so first standalone is not the first release overall. They suggest an early Super Set with a locking-tab, single-line-title cartridge as a cheaper original boxed context. Johnny checks his standalone copy and finds the three-line version, while also owning other packaging forms. The print chronology is a transcript-backed collecting claim, not external authentication.",
+      "evidence_locations": [
+        "00:09:41",
+        "00:10:47",
+        "00:12:48",
+        "00:13:53",
+        "00:14:56",
+        "00:15:59"
+      ],
+      "forbidden": [
+        "Do not call standalone the first-ever release.",
+        "Do not give Johnny the four-line copy.",
+        "Do not certify print authenticity externally."
+      ],
+      "status": "passed",
+      "reason": "00:09:41–00:15:59 establishes pack-in before standalone, red-box line variants and Johnny's three-line copy. Answer correctly limits first print to standalone and attributes authentication claims to transcript."
+    },
+    {
+      "id": "cq209-castlevania",
+      "episode": 209,
+      "question": "Do both hosts think Super Castlevania IV is the best Castlevania, and which release do they recommend?",
+      "query": "Do both hosts think Super Castlevania IV is the best Castlevania, and which release do they recommend?",
+      "answer": "No. Tyler champions IV, but Johnny explicitly disagrees with calling it the franchise’s best and puts Symphony of the Night above it. Both still choose IV for the SNES starter shelf and favor the made-in-Japan release over Majesco’s lower-quality budget materials. The PAL silver-box version is a bonus collecting idea, not their replacement recommendation.",
+      "evidence_locations": [
+        "00:25:36",
+        "00:27:46",
+        "00:28:46",
+        "00:29:49",
+        "00:30:49"
+      ],
+      "forbidden": [
+        "Do not claim unanimous franchise-best opinion.",
+        "Do not call Majesco counterfeit.",
+        "Do not substitute PAL as main recommendation."
+      ],
+      "status": "passed",
+      "reason": "00:25:36 immediate disagreement and00:27:46 Symphony preference defeat unanimous-best framing.00:29:49–00:31:56 supports materials-based Japan recommendation and optional PAL bonus."
+    },
+    {
+      "id": "cq209-chrono-versions",
+      "episode": 209,
+      "question": "Which Chrono Trigger would they play, collect, or buy as a cheaper original alternative?",
+      "query": "Which Chrono Trigger would they play, collect, or buy as a cheaper original alternative?",
+      "answer": "They agree on DS as the preferred play version and distinguish its first-print poster copy. Their SNES starter pick should have two posters and a registration card. Tyler offers the much cheaper regular Super Famicom edition as an original-region shelf alternative, while Johnny’s list remains aimed at North American SNES collecting. The V Jump contest edition discussed later is another packaging variant, not the ordinary cheap Japanese copy. None of these recommendations establishes a purchase during this discussion.",
+      "evidence_locations": [
+        "00:31:56",
+        "00:32:58",
+        "00:38:15",
+        "00:39:19",
+        "00:40:20",
+        "01:37:22",
+        "01:38:25"
+      ],
+      "forbidden": [
+        "Do not confuse DS poster with SNES inserts.",
+        "Do not price VJump as ordinary20-dollarSFC.",
+        "Do not turn advice into purchase."
+      ],
+      "status": "passed",
+      "reason": "00:31:56–00:40:20 separates preferred DS play/poster, SNES two posters+registration and cheaper regularSFC;01:37:22–01:38:25 separately identifies VJump packaging. Advice is not transaction."
+    },
+    {
+      "id": "cq209-super-metroid",
+      "episode": 209,
+      "question": "What is known and unknown about the Super Metroid orange-badge variant?",
+      "query": "What is known and unknown about the Super Metroid orange-badge variant?",
+      "answer": "The hosts describe an earlier green “Only For” arrow and a later orange-corner arrangement, with the orange one showing up less often. Tyler still prefers the earlier look and does not want rarity to override that preference, though he would not mind both variants. They do not establish a cartridge difference, and the Player’s Choice scarcity discussion stays uncertain rather than becoming a firm rarity ranking.",
+      "evidence_locations": [
+        "00:22:20",
+        "00:23:26",
+        "00:24:30"
+      ],
+      "forbidden": [
+        "Do not certify cartridge differences.",
+        "Do not claim the orange variant was bought.",
+        "Do not make tentative PlayerChoice scarcity definite."
+      ],
+      "status": "passed",
+      "reason": "00:22:20–00:24:30 supplies orange/green box differences, Tyler's aesthetic preference and uncertain cartridge/PlayerChoice statements. Answer does not turn three copies in list into owned inventory."
+    },
+    {
+      "id": "cq209-firemen-two",
+      "episode": 209,
+      "question": "Did Tyler actually buy The Firemen 2 when he discovered it?",
+      "query": "Did Tyler actually buy The Firemen 2 when he discovered it?",
+      "answer": "No. His immediate “buy it now” reaction turns into a search for an original Japanese PlayStation copy in good condition with its obi. The cheap options have problems or lack the spine card, and the available sealed original is more than he wants to spend on a game just discovered. After learning the Christmas Eve setting, the interest remains, but Tyler explicitly says he will buy it one day, not today. Johnny also becomes interested; neither checkout is confirmed.",
+      "evidence_locations": [
+        "01:41:34",
+        "01:42:36",
+        "01:43:39",
+        "01:44:42"
+      ],
+      "forbidden": [
+        "Do not mark ordered or purchased.",
+        "Do not equate budget rerelease with desired original.",
+        "Do not assert gameplay review from watching video."
+      ],
+      "status": "passed",
+      "reason": "01:41:34 starts buy-now excitement but01:42:36–01:44:42 discusses obi/condition and explicitly ends one day not today. Neither host has a confirmed checkout."
+    },
+    {
+      "id": "cq209-rendering-errata",
+      "episode": 209,
+      "question": "What corrected the claim that Rendering Ranger R2 was the last Super Famicom game?",
+      "query": "What corrected the claim that Rendering Ranger R2 was the last Super Famicom game?",
+      "answer": "The outro explicitly retracts it: Rendering Ranger is dated to 1995, while Fire Emblem: Thracia 776 is identified as the final physical release in 2000. The speaker says he had confused it with Metal Slader Glory, discussed separately as a Nintendo Power download-cartridge release. Nintendo Power here means the download service, not the magazine. These are the episode’s corrected claims, not an independently verified release catalog.",
+      "evidence_locations": [
+        "01:35:20",
+        "02:38:52",
+        "02:39:52"
+      ],
+      "forbidden": [
+        "Do not retain Rendering as last release.",
+        "Do not collapse physical and download categories.",
+        "Do not call source chronology externally verified."
+      ],
+      "status": "passed",
+      "reason": "02:38:52–02:39:52 explicit outro correction separates1995Rendering,2000physicalThracia and NintendoPower-downloadMetalSlader; answer preserves source-claim status."
+    },
+    {
+      "id": "cq209-vjump",
+      "episode": 209,
+      "question": "What makes Tyler’s V Jump Chrono Trigger different, and is it a different game?",
+      "query": "What makes Tyler’s V Jump Chrono Trigger different, and is it a different game?",
+      "answer": "Tyler says he bought the V Jump contest version because of its copper-tone packaging. The account says 2,000 winners received copies, but whether they arrived before ordinary release is uncertain. It is the same game with special packaging and possibly a different sticker, not a different game or automatically a prototype. Boxed sample-ROM demos are discussed as a separate collectible alternative.",
+      "evidence_locations": [
+        "01:37:22",
+        "01:38:25",
+        "01:39:30"
+      ],
+      "forbidden": [
+        "Do not call it prototype.",
+        "Do not certify pre-release delivery.",
+        "Do not merge store demo into VJump."
+      ],
+      "status": "passed",
+      "reason": "01:37:22–01:39:30 attributes VJump acquisition toTyler and same-game copper packaging; prerelease delivery/sticker uncertainty and separate boxed demos retained."
+    },
+    {
+      "id": "cq209-earthbound",
+      "episode": 209,
+      "question": "What does the EarthBound discussion establish about packaging and Tyler’s experience?",
+      "query": "What does the EarthBound discussion establish about packaging and Tyler’s experience?",
+      "answer": "The described complete package is the large box, game and guide, with the guide’s scratch-and-sniff material and internal cardboard worth checking. The hosts admit uncertainty about identifying reproduction cardboard. Tyler owns EarthBound but has only played a little and has not beaten it; Johnny likes its weird narrative and chooses its collector-recognition value. Tyler’s discarded childhood insert story is about Pokémon Stadium, not his EarthBound copy.",
+      "evidence_locations": [
+        "00:05:21",
+        "01:08:56",
+        "01:10:01",
+        "01:11:05",
+        "01:12:07"
+      ],
+      "forbidden": [
+        "Do not claim reproduction expertise.",
+        "Do not say Tyler threw away Earthbound insert.",
+        "Do not turn partial play into completion."
+      ],
+      "status": "passed",
+      "reason": "00:05:21Tylerownership,01:08:56–01:12:07 packaging/repro uncertainty and limited noncompleted play agree. Discarded toy-storage insert is PokemonStadium, notEarthBound."
+    },
+    {
+      "id": "cq209-mayhem-deal",
+      "episode": 209,
+      "question": "Which Emergency Mayhem offer did Johnny accept?",
+      "query": "Which Emergency Mayhem offer did Johnny accept?",
+      "answer": "He did not accept the $10.75 counteroffer on the $11 listing. After offering $10 there, he bought a different $10 copy instead. That other copy was slightly less nice because of a sticker he would have to remove. Tyler sides with the first seller’s frustration, while Johnny sees refusing a small discount on common Wii stock as poor business; the disagreement is not resolved into a shared principle.",
+      "evidence_locations": [
+        "02:03:54",
+        "02:04:58",
+        "02:07:06",
+        "02:08:10",
+        "02:13:23",
+        "02:14:26"
+      ],
+      "forbidden": [
+        "Do not mark the first listing purchased.",
+        "Do not say he paid11 or10.75.",
+        "Do not report consensus on bargaining."
+      ],
+      "status": "passed",
+      "reason": "02:03:54offer plus02:07:06actual different$10purchase and02:08:10/02:13:23–02:14:26 continuing disagreement support each sentence. First$10.75counter not accepted; sticker copy separate."
+    },
+    {
+      "id": "cq209-wii-progress",
+      "episode": 209,
+      "question": "Had Johnny finished the Wii set, and which games had arrived?",
+      "query": "Had Johnny finished the Wii set, and which games had arrived?",
+      "answer": "No. He is working through the tail of the set and later says eleven remain. The named arrivals are FlatOut, Rock Band Track Pack: Classic Rock, MTV Pimp My Ride and Nat Geo Challenge! Wild Life. A separate unnamed racing game in the Maximum Games discussion is still being negotiated, so it must not be counted as received or silently identified as FlatOut. A detailed final-price postmortem is planned, not delivered here.",
+      "evidence_locations": [
+        "02:02:48",
+        "02:03:54",
+        "02:12:22",
+        "02:24:58",
+        "02:26:03"
+      ],
+      "forbidden": [
+        "Do not mark set complete.",
+        "Do not equate unnamedracer with FlatOut.",
+        "Do not claim finished postmortem."
+      ],
+      "status": "passed",
+      "reason": "02:02:48–02:03:54 enumerates four arrivals and excludes unnamed negotiatedracer;02:12:22 says11remaining,02:24:58–02:26:03 futurepostmortem notfinished."
+    },
+    {
+      "id": "cq209-auction-outcomes",
+      "episode": 209,
+      "question": "Which auction games did Tyler win or lose, and what happened with Super Mario Odyssey?",
+      "query": "Which auction games did Tyler win or lose, and what happened with Super Mario Odyssey?",
+      "answer": "Tyler was the underbidder on first-print Metroid Prime and original Super Monkey Ball, so neither was a purchase. He unexpectedly won first-print sealed Super Mario Odyssey, recalling a roughly $320 bid and about $350 paid for a 9.8 A+ copy. He already had another first-print sealed Odyssey bought around $40 that had suffered bubble-mailer condition problems; no sale or return of that copy is reported. The $7,000 second-print Breath of the Wild was someone else’s auction result.",
+      "evidence_locations": [
+        "02:29:10",
+        "02:30:17",
+        "02:31:18",
+        "02:32:24"
+      ],
+      "forbidden": [
+        "Do not turn losing bids into acquisitions.",
+        "Do not give Tyler7kZelda purchase.",
+        "Do not infer priorOdyssey soldorreturned."
+      ],
+      "status": "passed",
+      "reason": "02:29:10–02:32:24 separates two lost bids, Odysseywinningbid and approximatepaidtotal, prior$40bubblemailercopy and someoneelse$7000Zelda. No unsupported sale/return."
+    },
+    {
+      "id": "cq209-sealed-duplicates",
+      "episode": 209,
+      "question": "Did Johnny’s two Maximum Carnage QVC sets prove he owned both platform versions?",
+      "query": "Did Johnny’s two Maximum Carnage QVC sets prove he owned both platform versions?",
+      "answer": "No. He has two sets, but one is sealed and he says he does not know its contents. The suggestion to weigh it is banter, not a completed test. Tyler’s parallel duplicate story concerns two sealed Famicom Disk System Zeldas, both with yellow text and one an earlier variant. The dialogue does not justify replacing sealed-content uncertainty with a confirmed SNES-and-Genesis pair.",
+      "evidence_locations": [
+        "01:59:35",
+        "02:00:40"
+      ],
+      "forbidden": [
+        "Do not claim weight test happened.",
+        "Do not certify bothQVCplatforms.",
+        "Do not merge FDSduplicate with Mario64question."
+      ],
+      "status": "passed",
+      "reason": "01:59:35–02:00:40 explicitly sealedunknowncontents, unperformed weighingjoke and Tyler's twoFDSZeldas. Answer refuses tocertify twoQVCplatformversions."
+    },
+    {
+      "id": "cq209-play-attribution",
+      "episode": 209,
+      "question": "Who played which Montezuma’s Revenge, and did Johnny finally play Modern Warfare with Strange?",
+      "query": "Who played which Montezuma’s Revenge, and did Johnny finally play Modern Warfare with Strange?",
+      "answer": "Tyler is currently playing old platformers including Miner 2049er, Manic Miner and Montezuma’s Revenge. Johnny recalls trying Montezuma’s Revenge on a childhood friend’s brown-screen computer, but the exact computer platform is not identified; the separate Master System-port discussion does not identify that childhood machine. Johnny has played the current Modern Warfare II season and is now Xbox friends with Strange, but they still have not played together, partly because Johnny has not been online much.",
+      "evidence_locations": [
+        "02:32:24",
+        "02:33:31",
+        "02:34:33",
+        "02:35:40"
+      ],
+      "forbidden": [
+        "Do not assign Johnny’s childhood game to MasterSystem.",
+        "Do not count friend connection as sharedplay.",
+        "Do not substitute CallOfDuty4forcurrentrelease."
+      ],
+      "status": "passed",
+      "reason": "02:32:24–02:35:40 turn sequence anchors JohnnycurrentModernWarfare/Strangefriend-notcoplay and childhoodbrown-screenMontezuma; Tylercurrentearlyplatformers distinct. Exactchildhoodplatform remainsunknown."
+    },
+    {
+      "id": "cq209-late-loan",
+      "episode": 209,
+      "question": "Was Dungeon of Doom returned to John Brown, and was the video finished?",
+      "query": "Was Dungeon of Doom returned to John Brown, and was the video finished?",
+      "answer": "Neither is confirmed. In the outro Tyler thanks John Brown for lending Dungeon of Doom for much of the year, promises to send it back soon and says he will finish the video. That supports temporary custody and two open commitments, not ownership, completed return or a published video.",
+      "evidence_locations": [
+        "02:39:52"
+      ],
+      "forbidden": [
+        "Do not mark returned.",
+        "Do not mark Tyler owner.",
+        "Do not claim video published."
+      ],
+      "status": "passed",
+      "reason": "02:39:52 clearly Tyleroutroloanthanks/returnpromise/video commitment. Answer accuratelytemporarycustody, notownership, notcompletedreturn/publication."
+    }
+  ]
+}

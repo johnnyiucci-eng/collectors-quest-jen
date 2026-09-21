@@ -1,0 +1,2071 @@
+{
+  "schema_version": "0.1",
+  "extraction_version": "batch003-fullsource-v1",
+  "source": {
+    "key": "sc-236603975",
+    "episode_number": 9,
+    "title": "Episode 4 (9) - Final Fantasy 7 And Kickle Cubicle",
+    "date": "2015-12-08",
+    "path": "episodes/cq-009-sc-236603975.md",
+    "words": 5081,
+    "source_url": "https://soundcloud.com/collectors-quest/collectors-quest-episode-9-final-fantasy-7-and-kickle-cubicle",
+    "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+    "sha256": "68e5be56c5b25130831008678d96f774d0659e5b017ad7391cb2d7d71a1de869"
+  },
+  "review": {
+    "status": "extracted_draft",
+    "read_coverage": "All 24 supplied paragraphs read consecutively, including closing music.",
+    "omission_review": "same_agent_source_first_30_bucket_inventory_reconciled",
+    "audio_verification": "not_performed",
+    "independent_review": "not_performed",
+    "transcript_limit": "Captured untimed attachment only; audio completeness and recognition accuracy unverified.",
+    "timing": "Paragraph units only; no invented timestamps."
+  },
+  "participants": [
+    {
+      "name": "Johnny",
+      "confidence": "high",
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "I’m Cat here with Johnny"
+        }
+      ]
+    },
+    {
+      "name": "Kat",
+      "confidence": "high",
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "I’m Cat here with Johnny"
+        },
+        {
+          "location": "Paragraph 23",
+          "quote": "Any last words, Kat?"
+        }
+      ]
+    }
+  ],
+  "main_topic": "Kickle Cubicle spotlight and Johnny's 2015 Final Fantasy VII remake concerns",
+  "secondary_topics": [
+    "puzzle preferences",
+    "episodic releases",
+    "regional numbering",
+    "Canadian packaging",
+    "show spotlight policy",
+    "collection updates"
+  ],
+  "games": [
+    {
+      "id": "cq009-g001",
+      "canonical_title": "Kickle Cubicle",
+      "spoken_forms": [
+        "Kickel Cubicle",
+        "Kikkel Cubicle"
+      ],
+      "entity_granularity": "game",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Preview only.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 1",
+              "quote": "Him Spotlight"
+            }
+          ]
+        },
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Spotlight: price, mechanics, alternatives, difficulty and animated vegetables.",
+          "speaker": {
+            "candidate": "Kat",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 2",
+              "quote": "My game for today is more reasonably priced"
+            }
+          ]
+        },
+        {
+          "type": "PASSING_MENTION",
+          "context": "Retrospective segment-name reference.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 19",
+              "quote": "Kikkel Cubicle"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq009-g002",
+      "canonical_title": "Tetris",
+      "spoken_forms": [
+        "Tetris"
+      ],
+      "entity_granularity": "game",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Puzzle archetype.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 3",
+              "quote": "Tetris"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Mixed-host negative taste comparison; no particular release.",
+          "speaker": {
+            "candidate": "Kat",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 4",
+              "quote": "I’m really not a Tetris fan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq009-g003",
+      "canonical_title": "Dr. Mario",
+      "spoken_forms": [
+        "Dr. Mario",
+        "Doctor Mario"
+      ],
+      "entity_granularity": "game",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Puzzle archetype.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 3",
+              "quote": "Dr. Mario"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Contextual Johnny reports difficulty and family teasing; Kat also dislikes the style.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 4",
+              "quote": "I look at it left to right instead of up and down"
+            }
+          ]
+        },
+        {
+          "type": "PASSING_MENTION",
+          "context": "Alternative-puzzle wrap-up.",
+          "speaker": {
+            "candidate": "Kat",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 6",
+              "quote": "Doctor Mario"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq009-g004",
+      "canonical_title": "Chip’s Challenge",
+      "spoken_forms": [
+        "Chip’s Challenge",
+        "Chips Challenge"
+      ],
+      "entity_granularity": "game",
+      "platform": "computer",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Kat's remembered comparison; Johnny unfamiliar.",
+          "speaker": {
+            "candidate": "Kat",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 3",
+              "quote": "loosely of Chip’s Challenge"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Unfamiliarity and comparative limits, not Johnny's gameplay.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 6",
+              "quote": "I’ve never heard of Chips Challenge"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq009-g005",
+      "canonical_title": "Dr. Luigi",
+      "spoken_forms": [
+        "Dr. Luigi"
+      ],
+      "entity_granularity": "game",
+      "platform": "Wii U",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Wife's possession, not Johnny's purchase.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 4",
+              "quote": "She has Dr. Luigi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq009-g006",
+      "canonical_title": null,
+      "spoken_forms": [
+        "Lolo"
+      ],
+      "entity_granularity": "unresolved",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "low",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Base title or series unspecific; limited play and tentative comparison.",
+          "speaker": {
+            "candidate": "Kat",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 5",
+              "quote": "I haven’t played a whole lot of Lolo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq009-g007",
+      "canonical_title": "Adventures of Lolo 2",
+      "spoken_forms": [
+        "two"
+      ],
+      "entity_granularity": "game",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Numbered sequel price comparison, no detailed review.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 6",
+              "quote": "as you get to like two and three, Lolo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq009-g008",
+      "canonical_title": "Adventures of Lolo 3",
+      "spoken_forms": [
+        "three"
+      ],
+      "entity_granularity": "game",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Numbered sequel price comparison, no detailed review.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 6",
+              "quote": "as you get to like two and three, Lolo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq009-g009",
+      "canonical_title": "Final Fantasy VII",
+      "spoken_forms": [
+        "Final Fantasy seven",
+        "Final Fantasy 7",
+        "Final Fantasy VII"
+      ],
+      "entity_granularity": "game",
+      "platform": "PlayStation",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Original as purchase motivation and combat/world comparator.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "This the game I bought a PlayStation for"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Personal long-play memory, not exact verified playtime.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 13",
+              "quote": "You could log 100 hours"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Original flaws, long summon animations and retained story affection.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 15",
+              "quote": "Final Fantasy VII by no means was a perfect game"
+            }
+          ]
+        },
+        {
+          "type": "PASSING_MENTION",
+          "context": "Series preference boundary.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 17",
+              "quote": "end of Final Fantasy 7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq009-g010",
+      "canonical_title": "Final Fantasy VII Remake",
+      "spoken_forms": [
+        "Final Fantasy 7 remake"
+      ],
+      "entity_granularity": "game",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Preview.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 1",
+              "quote": "Final Fantasy 7 remake"
+            }
+          ]
+        },
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "2015 pre-release reaction: episodic/combat/art concerns, speculative prices and intended first-entry play; not a played review.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "There’s also no turn based combat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq009-g011",
+      "canonical_title": "Final Fantasy",
+      "spoken_forms": [
+        "Final Fantasy",
+        "Final Fantasies"
+      ],
+      "entity_granularity": "series",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Opinion and regional-numbering examples, not universal consensus.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "Final Fantasy games have gotten much worse"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Preferences, unnamed handheld remakes and disappointment; no per-installment expansion.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 17",
+              "quote": "I love Final Fantasy series"
+            }
+          ]
+        },
+        {
+          "type": "PASSING_MENTION",
+          "context": "Frequently posted franchise example.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 20",
+              "quote": "Final Fantasy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq009-g012",
+      "canonical_title": "Final Fantasy VIII",
+      "spoken_forms": [
+        "eight",
+        "Final Fantasy 8"
+      ],
+      "entity_granularity": "game",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Dismissive preference, not sustained coverage.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "some people say eight"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Explicit strong dislike within series comparison.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 17",
+              "quote": "Final Fantasy 8. I was just like, wow, I hate this"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq009-g013",
+      "canonical_title": "Final Fantasy IX",
+      "spoken_forms": [
+        "nine"
+      ],
+      "entity_granularity": "game",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Brief preference example.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "Some people kind of like nine"
+            }
+          ]
+        },
+        {
+          "type": "PASSING_MENTION",
+          "context": "Qualified exception.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 17",
+              "quote": "nine I was okay with"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq009-g014",
+      "canonical_title": "Final Fantasy X",
+      "spoken_forms": [
+        "10"
+      ],
+      "entity_granularity": "game",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Opinion, not verified franchise consensus.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "at 10, it like definitely goes off the rails"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq009-g015",
+      "canonical_title": "Final Fantasy X-2",
+      "spoken_forms": [
+        "10, two"
+      ],
+      "entity_granularity": "game",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Rapid numbered list.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "10 and 10, two"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq009-g016",
+      "canonical_title": "Final Fantasy XI",
+      "spoken_forms": [
+        "11"
+      ],
+      "entity_granularity": "game",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Rapid list; unnamed online PS2 play kept separately unresolved.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "11 and 12 and 14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq009-g017",
+      "canonical_title": "Final Fantasy XII",
+      "spoken_forms": [
+        "12"
+      ],
+      "entity_granularity": "game",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Rapid list.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "11 and 12 and 14"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Partial-play report and dislike, not completion.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 17",
+              "quote": "I got through most of 12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq009-g018",
+      "canonical_title": "Final Fantasy XIV",
+      "spoken_forms": [
+        "14"
+      ],
+      "entity_granularity": "game",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Rapid list.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "11 and 12 and 14"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Hearsay positive online-game report, explicit numbering uncertainty.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 9",
+              "quote": "I don’t know if that’s 14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq009-g019",
+      "canonical_title": "Final Fantasy XIII",
+      "spoken_forms": [
+        "13"
+      ],
+      "entity_granularity": "game",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Rapid list continuation.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 9",
+              "quote": "13 and the"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq009-g020",
+      "canonical_title": "Final Fantasy VI",
+      "spoken_forms": [
+        "Final Fantasy six",
+        "three"
+      ],
+      "entity_granularity": "game",
+      "platform": "Super Nintendo",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Explicit VI/US III alias relationship; favorite-example claim.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 9",
+              "quote": "six is the Japanese numbering"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq009-g021",
+      "canonical_title": "Final Fantasy IV",
+      "spoken_forms": [
+        "Final Fantasy two",
+        "four",
+        "Final Fantasy 2 or 4"
+      ],
+      "entity_granularity": "game",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Explicit IV/US II alias; favorite and contrast with episodic add-on.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 9",
+              "quote": "Final Fantasy two or four in Japan"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "iPad playthrough distinct from original regional numbering.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 18",
+              "quote": "I even played through Final Fantasy 2 or 4 on the iPad"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq009-g022",
+      "canonical_title": "Final Fantasy IV: The After Years",
+      "spoken_forms": [
+        "the after years"
+      ],
+      "entity_granularity": "game",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Disliked episodic extra-content experience; raw platform wording PSP and Wii U is not verified.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 9",
+              "quote": "the after years"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq009-g023",
+      "canonical_title": "The Legend of Zelda",
+      "spoken_forms": [
+        "Zelda"
+      ],
+      "entity_granularity": "series",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Frequently posted franchise, not a specific release.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 20",
+              "quote": "Zelda"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq009-g024",
+      "canonical_title": "Castlevania",
+      "spoken_forms": [
+        "Castlevania"
+      ],
+      "entity_granularity": "series",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Frequently posted franchise.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 20",
+              "quote": "Castlevania"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq009-g025",
+      "canonical_title": "Metroid",
+      "spoken_forms": [
+        "Metroid"
+      ],
+      "entity_granularity": "series",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Frequently posted franchise.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 20",
+              "quote": "Metroid"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq009-g026",
+      "canonical_title": "Star Wars",
+      "spoken_forms": [
+        "Star Wars"
+      ],
+      "entity_granularity": "series",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Countdown-post project, specific games unnamed; not equal time for each franchise game.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 21",
+              "quote": "a Star Wars game that I’ve played"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq009-g027",
+      "canonical_title": null,
+      "spoken_forms": [
+        "Harvest Moon"
+      ],
+      "entity_granularity": "unresolved",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "low",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Kat's recent find, subtitle/platform/price unspoken.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 21",
+              "quote": "that Harvest Moon was a especially nice find"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq009-g028",
+      "canonical_title": null,
+      "spoken_forms": [
+        "final fantasy"
+      ],
+      "entity_granularity": "unresolved",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "low",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Canadian bilingual/red-band package discussion; exact installment unspoken.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 22",
+              "quote": "the final fantasy that has the red band on top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq009-g029",
+      "canonical_title": "Jurassic Park",
+      "spoken_forms": [
+        "Jurassic Park games"
+      ],
+      "entity_granularity": "series",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Hypothetical specialist guest example, not an actual collector count.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 23",
+              "quote": "500 Jurassic Park games"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq009-g030",
+      "canonical_title": null,
+      "spoken_forms": [
+        "online version on the PS2"
+      ],
+      "entity_granularity": "unresolved",
+      "platform": "PlayStation 2",
+      "region_edition": null,
+      "identification_confidence": "low",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Actual attempted play; candidate XI not silently resolved from outside knowledge.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Named Johnny/Kat opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 18",
+              "quote": "online version on the PS2"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "lore": [
+    {
+      "id": "cq009-l001",
+      "kind": "show_history",
+      "summary": "The spotlight offers fun, affordable or underappreciated games; hosts explicitly avoid hidden-gem hype and price-driving intent.",
+      "topics": [
+        "show_policy"
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 2",
+          "quote": "we’re not really saying these are hidden gems"
+        },
+        {
+          "location": "Paragraph 20",
+          "quote": "we’re not trying to make anything more expensive"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq009-l002",
+      "kind": "historical_price_claim",
+      "summary": "Kat quotes cartridge-only Kickle Cubicle eBay prices of $12–20 and says local copies can be cheaper; dated anecdote, not current guidance.",
+      "topics": [
+        "collecting"
+      ],
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 2",
+          "quote": "anywhere from $12 to $20"
+        },
+        {
+          "location": "Paragraph 2",
+          "quote": "That’s card only"
+        },
+        {
+          "location": "Paragraph 2",
+          "quote": "I have seen it locally cheaper"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq009-l003",
+      "kind": "game_description",
+      "summary": "Kat presents Kickle Cubicle as a single-player puzzle game with magic-bag collection, lands, bosses and ice-block attacks; mechanics are reported, not independently verified.",
+      "topics": [
+        "puzzle_games"
+      ],
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "It’s a single player"
+        },
+        {
+          "location": "Paragraph 3",
+          "quote": "collect all of these magic bags"
+        },
+        {
+          "location": "Paragraph 4",
+          "quote": "throw little ice blocks"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq009-l004",
+      "kind": "host_opinion",
+      "summary": "Kat dislikes the Tetris/Dr. Mario style and finds Kickle Cubicle a different, increasingly difficult but enjoyable alternative.",
+      "topics": [
+        "puzzle_preferences"
+      ],
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 4",
+          "quote": "I’m really not a Tetris fan"
+        },
+        {
+          "location": "Paragraph 5",
+          "quote": "It does get, I find, quite hard"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq009-l005",
+      "kind": "personal_anecdote",
+      "summary": "Johnny says he reads Dr. Mario horizontally, struggles, and is teased while playing by his wife and a friend. This is contextual attribution, not a medical/ability diagnosis.",
+      "topics": [
+        "playing"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 4",
+          "quote": "I look at it left to right instead of up and down"
+        },
+        {
+          "location": "Paragraph 4",
+          "quote": "my wife and one of my good friends"
+        },
+        {
+          "location": "Paragraph 5",
+          "quote": "I feel like if I turn the screen sideways"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq009-l006",
+      "kind": "host_opinion",
+      "summary": "Kat's strongest comparison is Chip’s Challenge; Lolo comparison stays tentative because she has played only some of it.",
+      "topics": [
+        "puzzle_preferences"
+      ],
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "loosely of Chip’s Challenge"
+        },
+        {
+          "location": "Paragraph 6",
+          "quote": "I’ve played Lolo some"
+        },
+        {
+          "location": "Paragraph 6",
+          "quote": "I don’t know how much I would say it’s the same"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq009-l007",
+      "kind": "running_joke",
+      "summary": "Kat discovered Kickle Cubicle's animated vegetables after trying it, and the hosts joke about an A for animated vegetables.",
+      "topics": [
+        "animated_food"
+      ],
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 7",
+          "quote": "Actually, I found out after"
+        },
+        {
+          "location": "Paragraph 7",
+          "quote": "A for animated vegetables"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq009-l008",
+      "kind": "host_opinion",
+      "summary": "Johnny's pre-release remake concerns concern non-turn-based combat, visual style and episodic structure; he allows that it could still turn out well.",
+      "topics": [
+        "remake_expectations"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 15",
+          "quote": "maybe, maybe it’ll be great"
+        },
+        {
+          "location": "Paragraph 15",
+          "quote": "I don’t like the lack of turn-based combat. I don’t like the visual look. I don’t like it being broken into episodes"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq009-l009",
+      "kind": "personal_anecdote",
+      "summary": "Johnny reports buying a PlayStation for the original Final Fantasy VII and owning about five versions of that game; this is not a remake purchase.",
+      "topics": [
+        "collection_history"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 8",
+          "quote": "This the game I bought a PlayStation for"
+        },
+        {
+          "location": "Paragraph 10",
+          "quote": "I own like five versions of Final Fantasy seven"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq009-l010",
+      "kind": "reported_claim",
+      "summary": "Johnny supplies VI/US III and IV/US II regional-numbering explanations; the episode explicitly connects these labels, unlike unrelated similarly numbered games.",
+      "topics": [
+        "regional_numbering"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 9",
+          "quote": "six is the Japanese numbering. Three is what it was here in America on the Super Nintendo"
+        },
+        {
+          "location": "Paragraph 9",
+          "quote": "Final Fantasy two or four in Japan"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq009-l011",
+      "kind": "host_opinion",
+      "summary": "Johnny calls Final Fantasy IV a favorite but disliked the episodic After Years additions, offered as a cautionary comparison.",
+      "topics": [
+        "episodic_releases"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 9",
+          "quote": "Final Fantasy four is one of my favorite games"
+        },
+        {
+          "location": "Paragraph 9",
+          "quote": "I hated playing episodic, like extra additions"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq009-l012",
+      "kind": "speculation",
+      "summary": "Quarterly-report timing, publisher cash motives, microtransactions, part counts and prices are speculative possibilities in 2015, not established plans.",
+      "topics": [
+        "remake_expectations"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 11",
+          "quote": "Maybe they’ve got bad quarterly reports coming"
+        },
+        {
+          "location": "Paragraph 12",
+          "quote": "Maybe three"
+        },
+        {
+          "location": "Paragraph 17",
+          "quote": "Are we like looking at like $15 per episode"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq009-l013",
+      "kind": "reported_claim",
+      "summary": "The hosts read an attributed Square Enix statement about multiple entries and full-sized content. The attribution is preserved without independently verifying the original press statement.",
+      "topics": [
+        "remake_expectations"
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 12",
+          "quote": "Square Enix updated a reply"
+        },
+        {
+          "location": "Paragraph 12",
+          "quote": "each entry will have the volume of content equal to a full-sized game"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq009-l014",
+      "kind": "personal_anecdote",
+      "summary": "Johnny recalls extensive original Final Fantasy VII play after a breakup around age 18, with jokingly hedged 100-hour talk; exact duration and private biography are not established.",
+      "topics": [
+        "nostalgia"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 13",
+          "quote": "Some of us may have done that"
+        },
+        {
+          "location": "Paragraph 13",
+          "quote": "I may have just broken up with a girlfriend"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq009-l015",
+      "kind": "host_opinion",
+      "summary": "Johnny dislikes the Advent Children-style realism for Cloud and the oversized sword, but calls it a personal quibble.",
+      "topics": [
+        "visual_style"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 14",
+          "quote": "Advent Children format"
+        },
+        {
+          "location": "Paragraph 15",
+          "quote": "the more real it looks, the more impractical the sword looks"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq009-l016",
+      "kind": "running_joke",
+      "summary": "Long materia/summon animations prompt a make-a-sandwich joke; Knights of the Round is a spell/summon context, not a separate game review.",
+      "topics": [
+        "gameplay"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 16",
+          "quote": "make a sandwich"
+        },
+        {
+          "location": "Paragraph 16",
+          "quote": "Knights of the Round"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq009-l017",
+      "kind": "open_loop",
+      "summary": "Johnny intends to play at least the remake's first episode and avoid reviews; Kat wants a later opinion check. No actual remake gameplay, purchase or follow-up result occurs here.",
+      "topics": [
+        "follow_up"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 16",
+          "quote": "I’m gonna play the first episode at least"
+        },
+        {
+          "location": "Paragraph 18",
+          "quote": "I’m going to try not read reviews"
+        },
+        {
+          "location": "Paragraph 18",
+          "quote": "interested to hear your follow up"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq009-l018",
+      "kind": "host_opinion",
+      "summary": "Johnny strongly dislikes VIII, is okay with IX, and reports getting through most of XII before rejecting it; this is his taste, not universal agreement.",
+      "topics": [
+        "series_preferences"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 17",
+          "quote": "Final Fantasy 8. I was just like, wow, I hate this"
+        },
+        {
+          "location": "Paragraph 17",
+          "quote": "nine I was okay with"
+        },
+        {
+          "location": "Paragraph 17",
+          "quote": "I got through most of 12"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq009-l019",
+      "kind": "show_history",
+      "summary": "Johnny describes Star Wars countdown posts combining merchandise and played games, followed by planned Christmas-game posts; no particular Star Wars game is identified.",
+      "topics": [
+        "show_projects"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 21",
+          "quote": "countdown to Star Wars"
+        },
+        {
+          "location": "Paragraph 21",
+          "quote": "some random merch and a Star Wars game that I’ve played"
+        },
+        {
+          "location": "Paragraph 21",
+          "quote": "kick off some Christmas posts"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq009-l020",
+      "kind": "collection_update",
+      "summary": "Kat reports recent local additions; Johnny specifically praises an unspecified Harvest Moon find. Cost, installment, platform and transaction details are unstated.",
+      "topics": [
+        "acquisitions"
+      ],
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 21",
+          "quote": "new things that I’ve been adding to the collection"
+        },
+        {
+          "location": "Paragraph 21",
+          "quote": "that Harvest Moon was a especially nice find"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq009-l021",
+      "kind": "host_opinion",
+      "summary": "Johnny welcomes Canadian Mattel boxes and likes bilingual red-band packaging, mentioning an unspecified Final Fantasy copy he has shown.",
+      "topics": [
+        "regional_packaging"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 22",
+          "quote": "I love Mattel boxes"
+        },
+        {
+          "location": "Paragraph 22",
+          "quote": "the final fantasy that has the red band on top"
+        },
+        {
+          "location": "Paragraph 23",
+          "quote": "both English and French"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq009-l022",
+      "kind": "show_history",
+      "summary": "The hosts invite specialist collectors with an interesting perspective, not only huge collections; 500 Jurassic Park games is a hypothetical example.",
+      "topics": [
+        "guest_invitation"
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 23",
+          "quote": "if you’re the guy who has like 500 Jurassic Park games"
+        },
+        {
+          "location": "Paragraph 23",
+          "quote": "You just have a point of view"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    }
+  ],
+  "corrections": [
+    {
+      "id": "cq009-c01",
+      "speaker": {"candidate":"Johnny","confidence":"medium","basis":"Regional-numbering explanation and remake intent in contextual Johnny turns; no audio verification."},
+      "category": "numbering_clarification",
+      "original": "VI/IV versus regional III/II labels.",
+      "current": "Explicit regional aliases are not separate underlying games.",
+      "evidence": [
+        {
+          "location": "Paragraph 9",
+          "quote": "six is the Japanese numbering. Three is what it was here in America on the Super Nintendo"
+        },
+        {
+          "location": "Paragraph 9",
+          "quote": "Final Fantasy two or four in Japan"
+        }
+      ]
+    },
+    {
+      "id": "cq009-c02",
+      "speaker": {"candidate":"Johnny","confidence":"medium","basis":"Regional-numbering explanation and remake intent in contextual Johnny turns; no audio verification."},
+      "category": "expectation_qualification",
+      "original": "Initial negative reaction might read as a boycott.",
+      "current": "Plans first-entry play and a fair shot; no purchase or played remake review.",
+      "evidence": [
+        {
+          "location": "Paragraph 12",
+          "quote": "I’m probably not going to boycott it"
+        },
+        {
+          "location": "Paragraph 16",
+          "quote": "I’m gonna play the first episode at least"
+        },
+        {
+          "location": "Paragraph 19",
+          "quote": "it its fair shot"
+        }
+      ]
+    }
+  ],
+  "topic_coverage": [
+    {
+      "topic": "puzzle_spotlight",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5",
+        "Paragraph 6",
+        "Paragraph 7"
+      ]
+    },
+    {
+      "topic": "remake_expectations",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "Paragraph 8",
+        "Paragraph 9",
+        "Paragraph 10",
+        "Paragraph 11",
+        "Paragraph 12",
+        "Paragraph 13",
+        "Paragraph 14",
+        "Paragraph 15",
+        "Paragraph 16",
+        "Paragraph 17",
+        "Paragraph 18",
+        "Paragraph 19"
+      ]
+    },
+    {
+      "topic": "show_policy",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "Paragraph 19",
+        "Paragraph 20",
+        "Paragraph 23"
+      ]
+    },
+    {
+      "topic": "regional_packaging",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "Paragraph 22",
+        "Paragraph 23"
+      ]
+    },
+    {
+      "topic": "collection_updates",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "Paragraph 21",
+        "Paragraph 22"
+      ]
+    }
+  ],
+  "related_episodes": [],
+  "review_queue": [
+    {
+      "id": "cq009-identities",
+      "priority": "medium",
+      "reason": "Lolo base/series, Harvest Moon, red-band FF installment and online PS2 game unresolved.",
+      "evidence": [
+        {
+          "location": "Paragraph 5",
+          "quote": "Lolo"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq009-speaker",
+      "priority": "medium",
+      "reason": "Presence explicit; turns contextual; wife/friend not hosts; Tyler absent.",
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "I’m Cat here with Johnny"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq009-historical",
+      "priority": "medium",
+      "reason": "2015 predictions, prices, dates and publisher motives not verified.",
+      "evidence": [
+        {
+          "location": "Paragraph 12",
+          "quote": "Maybe three"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq009-afteryears-platform",
+      "priority": "medium",
+      "reason": "Raw PSP/Wii U wording not externally corrected.",
+      "evidence": [
+        {
+          "location": "Paragraph 9",
+          "quote": "on the PSP and the Wii U"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq009-playtime",
+      "priority": "medium",
+      "reason": "Hours and age/breakup talk hedged, not exact biography.",
+      "evidence": [
+        {
+          "location": "Paragraph 13",
+          "quote": "Some of us may have done that"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq009-episode-number",
+      "priority": "medium",
+      "reason": "Publisher Episode4(9); canonical spoken episode9.",
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "Episode 9"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq009-followup",
+      "priority": "medium",
+      "reason": "No completed remake review here.",
+      "evidence": [
+        {
+          "location": "Paragraph 18",
+          "quote": "interested to hear your follow up"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    }
+  ],
+  "non_video_game_items": [
+    {
+      "item": "PlayStation",
+      "type": "console",
+      "evidence": [
+        {
+          "location": "Paragraph 8",
+          "quote": "I bought a PlayStation"
+        }
+      ],
+      "note": "Non-game context; not ranked as a game or current verified fact."
+    },
+    {
+      "item": "Advent Children",
+      "type": "media",
+      "evidence": [
+        {
+          "location": "Paragraph 14",
+          "quote": "Advent Children format"
+        }
+      ],
+      "note": "Non-game context; not ranked as a game or current verified fact."
+    },
+    {
+      "item": "Knights of the Round / materia",
+      "type": "in_game_mechanics",
+      "evidence": [
+        {
+          "location": "Paragraph 16",
+          "quote": "Knights of the Round"
+        }
+      ],
+      "note": "Non-game context; not ranked as a game or current verified fact."
+    },
+    {
+      "item": "Canadian Mattel boxes / bilingual packaging",
+      "type": "packaging",
+      "evidence": [
+        {
+          "location": "Paragraph 22",
+          "quote": "Mattel boxes"
+        }
+      ],
+      "note": "Non-game context; not ranked as a game or current verified fact."
+    },
+    {
+      "item": "Star Wars film/merchandise",
+      "type": "media",
+      "evidence": [
+        {
+          "location": "Paragraph 21",
+          "quote": "Star Wars comes out on the 18th"
+        }
+      ],
+      "note": "Non-game context; not ranked as a game or current verified fact."
+    }
+  ],
+  "unidentified_acquisitions": [
+    {
+      "description": "Kat's recent local additions; Harvest Moon installment unknown.",
+      "evidence": [
+        {
+          "location": "Paragraph 21",
+          "quote": "new things that I’ve been adding to the collection"
+        }
+      ]
+    }
+  ],
+  "exclusions": [
+    "Tyler is not a participant.",
+    "Knights of the Round and materia are in-game mechanics, not independently mentioned game titles.",
+    "Advent Children is a visual-style/media reference, not a game ranked here.",
+    "2015 predictions, prices, release details and publisher motivations are not current verified facts."
+  ]
+}

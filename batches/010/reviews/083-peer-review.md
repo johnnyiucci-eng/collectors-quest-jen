@@ -1,0 +1,49 @@
+# CQ83 independent full-source peer review
+
+Read all 50 paragraphs of the [primary source](../../../library/episodes/cq-083-sc-388300934.md) in order in three blocks (P1–17, P18–34, P35–50) before examining the extraction. This reviewer did not extract CQ83. Root had disclosed one source boundary and its repair: P45's unfinished Odyssey actor is unresolved. Therefore this is independent of drafting, not blind to every prior finding. Research skill guides primary-source review and durable findings. No audio, web, paid services or external facts used.
+
+Before examining the extraction or its tuned queries, this reviewer authored [six fresh natural routing questions](routing-paraphrases083.json), freezing their expected source windows and forbidden inferences. They are source-informed new phrasings, not blind-to-source questions. Routing code was not consulted for their design. Root will run the unchanged questions and preserve failures.
+
+Frozen source-first probes: P6's nine named reissue-game buckets (Super Noah's Ark3D, EscapeAtlantis, NoahArk, DorkeImp, MrBlobby, CornBuster, Legend, Humans, Pinky); P27's twenty-dollar bid is not a win; P31–32 Tyler/Ada co-op story completion is not100percent; P36–37 measurement guess corrected to package signature; P40–41 Johnny abandoned WiiU after20hours and switchedPS4; NewLeaf programmable cart distinct from Ecco retailcopy; P45 unfinishedOdyssey actor unresolved; P46–49 Jeopardy SuperMario distinction is their argument rather than independent adjudication.
+
+## Extraction comparison
+
+Reviewed all 88 retained buckets, all 166 paragraph spans, the 57 action summaries with source locations, roster/lore/correction summaries, all 11 actual composed answers and the written cohost brief after the full source read. Existing retrieval queries were excluded from the inspection output. This is a semantic peer review, not an integrated routing pass.
+
+### Findings reported to root and extractor
+
+1. **Missing structured negative action.** P19 says, “Yep, never played it,” about Holy Diver. Existing claims007–008 preserve almost buying a reproduction and preorder-era acquisition, but none of the initial 57 action rows preserves this explicit non-play statement. Its presence inside long evidence quotes is not equivalent to a structured negative. Add an unknown-actor `mentioned` row with an explicit not-played qualifier; do not create `played`, infer an actor or infer that all speakers had never played it. Initial coverage of this deliberately targeted negative-action probe: **0/1**. This is an action-model omission, not a missing game-reference bucket. [Source P19](../../../library/episodes/cq-083-sc-388300934.md#paragraph-19).
+2. **Overconfident title identity.** g088 normalizes “Mario Bro” to the individual game *Mario Bros.*, with medium confidence and `clarification_needed=false`. P48 says, “It’s Mario Bro, right? And then there’s Super Mario,” amid a discussion of the character and powered-up form. A named-title interpretation is possible but not secure. Retain the raw wording and occurrence, explicitly mark unresolved title/character interpretation, and do not silently assert an individual release. The current passing role does not inflate meaningful rankings, but the identity would still produce an overconfident lookup. Initial targeted ambiguity-flag probe: **0/1**. [Source P48](../../../library/episodes/cq-083-sc-388300934.md#paragraph-48).
+3. **Role-precision note, not a top-three failure.** g007's P14 return says, “you don’t see like very many dorky and imp games like in the, in the repro scene,” following the unavailable-ROM discussion. Its generic passing/transitional reason understates a concrete scarcity example. A supporting-example role with an explicit source-qualified rationale is defensible; P6's bare list occurrence should remain passing. This does not change the three leaders. [Source P14](../../../library/episodes/cq-083-sc-388300934.md#paragraph-14).
+
+No owner artifacts were edited by this reviewer. These initial findings are retained even if the extractor repairs them subsequently.
+
+Repair follow-through: read-only verification confirms new action058 explicitly preserves unknown-actor Holy Diver non-play, and g088 now has null canonical title, low confidence, clarification required and an unresolved-reference span. The two targeted probes improve from 0/1 to 1/1 each. The owner retained Dorky's passing role but replaced the generic reason with an explicit scarcity rationale; this remains a disclosed judgement boundary, not a required ranking repair. Owner reports 575 literal proofs after changes; this peer's independently executed pre-repair count remains 573 above.
+
+### Reference coverage and discussion boundaries
+
+The frozen P6 nine-title inventory is **9/9 mapped**, not an estimate of whole-episode recall: Super Noah's Ark, Escape from Atlantis, Noah's Ark, raw Dorky and Himp, Mr. Blobby, Corn Buster, Legend, The Humans and Pinky all have source-window occurrences. Bare list names are not credited as long game discussions. The record preserves P14's raw-name return, P30's Death Race return, the uncertain Battle Kid 1/2 alternatives, and the R-Type compilation versus its two games.
+
+The full-source reading found no additional definite named game missing from the retained inventory. This is a qualitative full read with the quantified nine-bucket probe above, **not** an independently frozen 88-item recall denominator. Hardware, compilation, series, accessory and quiz-product typing prevents their durations from becoming individual-game coverage. In particular, New Leaf/Game Factory hardware is distinct from Ecco content; LEGO figures and the extension cable do not create extra games; Raccoon Mario does not manufacture an explicitly named SMB3 occurrence.
+
+All 50 paragraph dispositions are covered by contiguous section ranges, including terminology/opening and final signoff. Splitting at paragraph boundaries avoids exact timestamp claims but cannot supply exclusive speaking time. The declared leaders—Holy Diver 9 meaningful paragraphs, Street Fighter II 8 and LEGO Dimensions 7—are defensible under the source-paragraph metric. The P14 role note concerns a lower-ranked title. It would be misleading to call this a measured nine-versus-eight-minute ordering.
+
+### Actors, states and corrections
+
+Six frozen state/attribution boundaries are preserved **6/6**: P27 bid is not a win; Tyler/Ada's P31–33 LEGO story completion is not all content; P36's TV-measurement guess is superseded by P37's package signature; P40–41's Wii U-to-PS4 move belongs to Johnny; New Leaf purchase does not imply a separate recent retail Ecco purchase; P45's unfinished Odyssey actor remains unknown. This denominator is these six boundary tests, not all possible action questions.
+
+Reviewed all 57 existing action rows against the read source. No definite unsupported positive action found. Holy Diver `ordered` remains deliberately qualified by preorder framing, not receipt. Unlabelled all-figures ownership remains unknown. Tyler and Ada are canonical/co-subjects for cooperative play; Johnny's separate LEGO platform experience stays separate. The fixed Odyssey claims055/056 have null subjects/reporters and do not match either host by default. Their earlier attribution failure was found by root and remains documented by the extractor; this peer did not discover it independently.
+
+No completed return, auction win, confirmed Holy Diver delivery or completed future expo attendance is established. P1/P2 explicitly resolves the Kat imitation to Tyler; P49 reinforces Kat's absence. Johnny's borrowed anti-emulation argument is not his personal stance. Catalog, licensing, performance, prices and known-copy figures remain reported conversation, not externally verified facts.
+
+### Actual answers and practical usefulness
+
+All **11/11 current composed answers** support their **40/40 grouped expected-fact checkpoints** in the cited primary context: roster3, terminology4, compilation corrections3, Holy Diver4, bid4, straw-man3, co-op4, play outcomes3, New Leaf4, progress4, quiz4. These are grouped semantic checkpoints, not a count of every sentence or word, and do not erase the previously failed Odyssey answer. I read the actual prose, including qualifications, not merely the keywords. No forbidden inference was found in the current answers. In particular, the quiz answer reports the hosts' argument without independently adjudicating Mario history.
+
+The written brief is useful for a cohost: it draws out original-era collecting versus new playable releases, package/value comparisons, co-op friction and the New Leaf acquisition. Its questions about future bid/delivery/progress outcomes remain open loops rather than invented answers. No live persona rehearsal was performed.
+
+### Local validation and fresh routing handoff
+
+At the initial peer snapshot, **573/573 quote/location objects** occur literally in the named source paragraph and **89/89 spoken forms** occur literally in the complete supplied transcript. Both JSON inputs parse. These checks establish literal anchoring, not speaker truth or catalog correctness; the g088 identity finding demonstrates that difference.
+
+The six questions in [routing-paraphrases083.json](routing-paraphrases083.json) were authored after the full source read and before extraction inspection, without consulting existing tuned queries or routing code. They cover permission/terminology, the glowing-cart bid, Tyler/Ada co-op, Johnny's interruption, the LEGO platform switch and New Leaf/Ecco. Expected windows and forbidden inferences are frozen. **No routing execution is claimed here**; root must preserve unchanged-question results, including failures, separately from semantic answer support. A7/A8 remain root-owned.

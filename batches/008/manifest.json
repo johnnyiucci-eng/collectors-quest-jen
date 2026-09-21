@@ -1,0 +1,52 @@
+{
+  "schema_version": "0.1",
+  "created": "2026-09-13",
+  "status": "captured_text_review_complete",
+  "selection_basis": "Era-varied sequential continuation in the ongoing two-hour work session; not answer-key driven.",
+  "budget": "Local public transcript processing only; no paid services, publication or persona changes.",
+  "episodes": [
+    {
+      "key": "sc-241546714",
+      "episode_number": 14,
+      "title": "Episode 14 -SoCal Retro Gaming Expo - Interview With SuperVideoGameBros",
+      "date": "2016-01-12",
+      "path": "episodes/cq-014-sc-241546714.md",
+      "source_url": "https://soundcloud.com/collectors-quest/collectors-quest-episode-14-socal-retro-gaming-expo-interview-with-supervideogamebros",
+      "words": 8202,
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "reason": "Era-varied sequential continuation within lane",
+      "status": "extracted_draft",
+      "record_path": "records/sc-241546714.json"
+    },
+    {
+      "key": "sc-378768386",
+      "episode_number": 81,
+      "title": "Episode 81 - Video Game Collectors 2017 Recap",
+      "date": "2018-01-04",
+      "path": "episodes/cq-081-sc-378768386.md",
+      "source_url": "https://soundcloud.com/collectors-quest/video-game-collectors-2017-recap",
+      "words": 14470,
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "sha256": "1784b1ac59378518984b6203acaa923abc7bfb226f09eb01fb71fe85d605326e",
+      "reason": "Era-varied sequential continuation within lane",
+      "status": "extracted_draft",
+      "record_path": "records/sc-378768386.json"
+    },
+    {
+      "key": "sc-1377327931",
+      "episode_number": 207,
+      "title": "CQ 207 - Retro Game Collecting is Dead",
+      "date": "2022-11-06",
+      "path": "episodes/cq-207-sc-1377327931.md",
+      "source_url": "https://soundcloud.com/collectors-quest/cq-207-retro-game-collecting-is-dead",
+      "words": 25084,
+      "timing": "YouTube caption timestamps",
+      "sha256": "0344962807cccaa4eab5270311d3dbd6f57ab1c11fca71390875dea26d149974",
+      "reason": "Era-varied sequential continuation within lane",
+      "status": "extracted_draft",
+      "record_path": "records/sc-1377327931.json"
+    }
+  ],
+  "duplicate_controls": []
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": "1",
+  "initial": {
+    "tuned": "51/52",
+    "original": "48/52",
+    "sample": "17/17",
+    "intermediate": "51/52: scope recovered, pickup context missed"
+  },
+  "repairs": [
+    "Completed enum normalized to played with completion text preserved.",
+    "Unknown bidder and Air Buster nonowner, wife-only source identity, three patron hardware kinds, omitted Star Fox hat and corrected Barkley brief.",
+    "Restoration counterexample and distribution-exception aggregate links.",
+    "Generic prominence wordings and actual-object/purchases routes; person-identification guard restored after a failing test."
+  ],
+  "shared_regressions": {
+    "first": {
+      "tests": 195,
+      "failures": 1,
+      "test": "test_origin_and_correction_intents",
+      "cause": "Which collector bought this game misrouted as object acquisitions."
+    },
+    "final": {
+      "tests": 195,
+      "passed": 195,
+      "seconds": 61.909
+    }
+  },
+  "limits": "Fresh reviewer cases are development regressions once used; no live/audio certification."
+}

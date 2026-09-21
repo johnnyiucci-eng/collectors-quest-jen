@@ -1,0 +1,2460 @@
+{
+  "schema_version": "1",
+  "review_status": "A1-A6 same-agent source work; A7-A8 integration pending",
+  "note": "Untimed38paragraphs. Frozen inventory19buckets before extraction; not independent.",
+  "episodes": [
+    {
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "mapping_status": "complete",
+      "review_note": "All38read and19frozenreferencebucketsrepresented; section accounting includes quietbusiness/logistics.",
+      "spans": [
+        {
+          "id": "cq014-span-001-1",
+          "entity_id": "cq014-g001",
+          "title": "Star Fox — competition cartridge",
+          "game_refs": [
+            "cq014-g001"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "competition_variant",
+          "variant_context": "Super Nintendo context",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 5",
+          "end_exclusive": "Paragraph 7",
+          "reason": "Planned competition and reproduction cartridge sale, not an original-cart purchase.",
+          "evidence": [
+            {
+              "location": "Paragraph 5",
+              "quote": "Star Fox competition"
+            }
+          ]
+        },
+        {
+          "id": "cq014-span-002-1",
+          "entity_id": "cq014-g002",
+          "title": "Super Smash Bros.",
+          "game_refs": [
+            "cq014-g002"
+          ],
+          "entity_kind": "game_series",
+          "identity_granularity": "series",
+          "variant_context": null,
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 6",
+          "end_exclusive": "Paragraph 7",
+          "reason": "Planned professional tournament; installment not specified.",
+          "evidence": [
+            {
+              "location": "Paragraph 6",
+              "quote": "Smash Bros tournament"
+            }
+          ]
+        },
+        {
+          "id": "cq014-span-003-1",
+          "entity_id": "cq014-g003",
+          "title": "Castlevania: Dracula X",
+          "game_refs": [
+            "cq014-g003"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": null,
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 9",
+          "end_exclusive": "Paragraph 10",
+          "reason": "Preserved childhood handwritten codes, not current play discussion.",
+          "evidence": [
+            {
+              "location": "Paragraph 9",
+              "quote": "Castlevania Dracula X"
+            }
+          ]
+        },
+        {
+          "id": "cq014-span-004-1",
+          "entity_id": "cq014-g004",
+          "title": "Mega Man X — series",
+          "game_refs": [
+            "cq014-g004"
+          ],
+          "entity_kind": "game_series",
+          "identity_granularity": "series",
+          "variant_context": "SNES-era favorites context",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 28",
+          "end_exclusive": "Paragraph 29",
+          "reason": "Series-level favorite despite NES prompt; not first Mega Man X alone.",
+          "evidence": [
+            {
+              "location": "Paragraph 28",
+              "quote": "Mega Man X series is top number one"
+            }
+          ]
+        },
+        {
+          "id": "cq014-span-005-1",
+          "entity_id": "cq014-g005",
+          "title": "Chrono Trigger",
+          "game_refs": [
+            "cq014-g005"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": null,
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 28",
+          "end_exclusive": "Paragraph 29",
+          "reason": "Rapid favorite-list name, no individual review.",
+          "evidence": [
+            {
+              "location": "Paragraph 28",
+              "quote": "Chrono Trigger"
+            }
+          ]
+        },
+        {
+          "id": "cq014-span-006-1",
+          "entity_id": "cq014-g006",
+          "title": "Super Metroid",
+          "game_refs": [
+            "cq014-g006"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": null,
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 28",
+          "end_exclusive": "Paragraph 30",
+          "reason": "Guest chooses it over Turtles; Johnny voices personal affection, not universal quality proof.",
+          "evidence": [
+            {
+              "location": "Paragraph 28",
+              "quote": "Super Metroid"
+            }
+          ]
+        },
+        {
+          "id": "cq014-span-007-1",
+          "entity_id": "cq014-g007",
+          "title": "Teenage Mutant Ninja Turtles IV: Turtles in Time",
+          "game_refs": [
+            "cq014-g007"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": null,
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 29",
+          "end_exclusive": "Paragraph 30",
+          "reason": "Favorite-list near miss and beat-em-up praise versus Super Metroid.",
+          "evidence": [
+            {
+              "location": "Paragraph 29",
+              "quote": "Turtles in Time"
+            }
+          ]
+        },
+        {
+          "id": "cq014-span-008-1",
+          "entity_id": "cq014-g008",
+          "title": "Metal Gear Solid V: The Phantom Pain",
+          "game_refs": [
+            "cq014-g008"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": null,
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 31",
+          "end_exclusive": "Paragraph 32",
+          "reason": "Beat last week; lingering positive impression.",
+          "evidence": [
+            {
+              "location": "Paragraph 31",
+              "quote": "Metal Gear Solid Phantom Pain"
+            }
+          ]
+        },
+        {
+          "id": "cq014-span-009-1",
+          "entity_id": "cq014-g009",
+          "title": "Alien Crush",
+          "game_refs": [
+            "cq014-g009"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "raw platform phrase: two of us",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 31",
+          "end_exclusive": "Paragraph 32",
+          "reason": "Current play and multiplayer score anecdote.",
+          "evidence": [
+            {
+              "location": "Paragraph 31",
+              "quote": "I’ve been playing Alien Crush"
+            }
+          ]
+        },
+        {
+          "id": "cq014-span-009-2",
+          "entity_id": "cq014-g009",
+          "title": "Alien Crush",
+          "game_refs": [
+            "cq014-g009"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "raw platform phrase: two of us",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 32",
+          "end_exclusive": "Paragraph 34",
+          "reason": "Recommendation and Johnny copy-count correction five to three; no current Johnny play established.",
+          "evidence": [
+            {
+              "location": "Paragraph 32",
+              "quote": "You should pop in Alien Crush"
+            }
+          ]
+        },
+        {
+          "id": "cq014-span-010-1",
+          "entity_id": "cq014-g010",
+          "title": "Super Mario RPG",
+          "game_refs": [
+            "cq014-g010"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Super Nintendo",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 31",
+          "end_exclusive": "Paragraph 34",
+          "reason": "Third copy acquired, intends to retain; play-start ambiguity and CIB-condition purchase report.",
+          "evidence": [
+            {
+              "location": "Paragraph 31",
+              "quote": "I’m getting into some Super Mario RPG"
+            }
+          ]
+        },
+        {
+          "id": "cq014-span-011-1",
+          "entity_id": "cq014-g011",
+          "title": "All virtual pins",
+          "game_refs": [
+            "cq014-g011"
+          ],
+          "entity_kind": "unidentified_collection",
+          "identity_granularity": "unresolved_collection",
+          "variant_context": null,
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 32",
+          "end_exclusive": "Paragraph 33",
+          "reason": "Current aggregate virtual-pinball play; named software not supplied, do not import previous episode's title.",
+          "evidence": [
+            {
+              "location": "Paragraph 32",
+              "quote": "All virtual pins"
+            }
+          ]
+        },
+        {
+          "id": "cq014-span-012-1",
+          "entity_id": "cq014-g012",
+          "title": "Fallout",
+          "game_refs": [
+            "cq014-g012"
+          ],
+          "entity_kind": "game_series",
+          "identity_granularity": "series",
+          "variant_context": null,
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 32",
+          "end_exclusive": "Paragraph 33",
+          "reason": "Story-heavy game example and brief occasional play; installment not specified.",
+          "evidence": [
+            {
+              "location": "Paragraph 32",
+              "quote": "something like Fallout"
+            }
+          ]
+        },
+        {
+          "id": "cq014-span-013-1",
+          "entity_id": "cq014-g013",
+          "title": "The Pirates of Dark Water",
+          "game_refs": [
+            "cq014-g013"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Super Nintendo",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 33",
+          "end_exclusive": "Paragraph 34",
+          "reason": "Personal $125 complete/all-inserts purchase, one of collection486/487.",
+          "evidence": [
+            {
+              "location": "Paragraph 33",
+              "quote": "The Pirates of the Dark, Darkwater"
+            }
+          ]
+        },
+        {
+          "id": "cq014-span-014-1",
+          "entity_id": "cq014-g014",
+          "title": "GunForce",
+          "game_refs": [
+            "cq014-g014"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Super Nintendo",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 33",
+          "end_exclusive": "Paragraph 34",
+          "reason": "Personal pickup paired with Dark Water, Irem attribution reported.",
+          "evidence": [
+            {
+              "location": "Paragraph 33",
+              "quote": "Gun Force"
+            }
+          ]
+        },
+        {
+          "id": "cq014-span-015-1",
+          "entity_id": "cq014-g015",
+          "title": "Advanced Dungeons & Dragons: Eye of the Beholder",
+          "game_refs": [
+            "cq014-g015"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Super Nintendo",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 34",
+          "end_exclusive": "Paragraph 35",
+          "reason": "Source title garble preserved; existing cart completed with box/manual, not new-cart buy.",
+          "evidence": [
+            {
+              "location": "Paragraph 34",
+              "quote": "advanced Dungeons and Dragons. I have the Beholder"
+            }
+          ]
+        },
+        {
+          "id": "cq014-span-016-1",
+          "entity_id": "cq014-g016",
+          "title": "Kirby’s Return to Dream Land",
+          "game_refs": [
+            "cq014-g016"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Wii",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 34",
+          "end_exclusive": "Paragraph 35",
+          "reason": "Purchase/price comparison with cheap bulk Wii games, no play claim.",
+          "evidence": [
+            {
+              "location": "Paragraph 34",
+              "quote": "Kirby’s Return to Dreamland"
+            }
+          ]
+        },
+        {
+          "id": "cq014-span-017-1",
+          "entity_id": "cq014-g017",
+          "title": "Hotel for Dogs",
+          "game_refs": [
+            "cq014-g017"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "variant_context": "Wii",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 35",
+          "end_exclusive": "Paragraph 36",
+          "reason": "Recent shovelware pickup example, not played review.",
+          "evidence": [
+            {
+              "location": "Paragraph 35",
+              "quote": "Hotel for Dogs"
+            }
+          ]
+        },
+        {
+          "id": "cq014-span-018-1",
+          "entity_id": "cq014-g018",
+          "title": "pets. My veterinarian",
+          "game_refs": [
+            "cq014-g018"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "unresolved",
+          "variant_context": "Wii",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 35",
+          "end_exclusive": "Paragraph 36",
+          "reason": "Acquired pet/vet game; exact regional title unresolved.",
+          "evidence": [
+            {
+              "location": "Paragraph 35",
+              "quote": "pets. My veterinarian"
+            }
+          ]
+        },
+        {
+          "id": "cq014-span-019-1",
+          "entity_id": "cq014-g019",
+          "title": "big box. Jennifer McCarthy",
+          "game_refs": [
+            "cq014-g019"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "unresolved",
+          "variant_context": "Wii context",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 35",
+          "end_exclusive": "Paragraph 36",
+          "reason": "Question about big-box game and Johnny's dislike/ownership rationale; do not invent a canonical title.",
+          "evidence": [
+            {
+              "location": "Paragraph 35",
+              "quote": "Jennifer McCarthy"
+            }
+          ]
+        }
+      ],
+      "section_accounting": [
+        {
+          "location": "Paragraph 1",
+          "status": "read_and_accounted",
+          "summary": "Opening names Johnny/Kat/guestSteven and collector-organized expo."
+        },
+        {
+          "location": "Paragraph 2",
+          "status": "read_and_accounted",
+          "summary": "HistoricalJan30–31,2016 logistics and cleaninventory expectations."
+        },
+        {
+          "location": "Paragraph 3",
+          "status": "read_and_accounted",
+          "summary": "Johnny dirtytradebox/nails, guestlimitsvendorcontrol."
+        },
+        {
+          "location": "Paragraph 4",
+          "status": "read_and_accounted",
+          "summary": "Retailclean/teststandards and organizedenvironment promise."
+        },
+        {
+          "location": "Paragraph 5",
+          "status": "read_and_accounted",
+          "summary": "Expo year-twohope, freeplay/historymuseum/StarFoxplans."
+        },
+        {
+          "location": "Paragraph 6",
+          "status": "read_and_accounted",
+          "summary": "StarFoxreproductionspricecomparison, Smash tournament, ancillaryboothconcern."
+        },
+        {
+          "location": "Paragraph 7",
+          "status": "read_and_accounted",
+          "summary": "Gameplaydiscovery and Steven's completeSNESgoal."
+        },
+        {
+          "location": "Paragraph 8",
+          "status": "read_and_accounted",
+          "summary": "Guestchildhoodsweepstakes/AtariNESacquisition, tryeverygame continuation."
+        },
+        {
+          "location": "Paragraph 9",
+          "status": "read_and_accounted",
+          "summary": "Retainedboxes/DraculaXcodes; layoff/businessmotivation."
+        },
+        {
+          "location": "Paragraph 10",
+          "status": "read_and_accounted",
+          "summary": "Historicalduplicates and careercontrolmotivation."
+        },
+        {
+          "location": "Paragraph 11",
+          "status": "read_and_accounted",
+          "summary": "Quittingafter7months, vendingorigin, venueinventoryincludingtabletopcards."
+        },
+        {
+          "location": "Paragraph 12",
+          "status": "read_and_accounted",
+          "summary": "Underpricing/customerretention and knowledgeable service."
+        },
+        {
+          "location": "Paragraph 13",
+          "status": "read_and_accounted",
+          "summary": "Venuehours and autograph/warehousecontext."
+        },
+        {
+          "location": "Paragraph 14",
+          "status": "read_and_accounted",
+          "summary": "Celebrity/sportsmemorabilia venuecontext; rawnameuncertainty."
+        },
+        {
+          "location": "Paragraph 15",
+          "status": "read_and_accounted",
+          "summary": "Skatingjoke; boothJune2008clarification, earlygamesales."
+        },
+        {
+          "location": "Paragraph 16",
+          "status": "read_and_accounted",
+          "summary": "Johnny conditionpremium and knowledgeable collectorservice."
+        },
+        {
+          "location": "Paragraph 17",
+          "status": "read_and_accounted",
+          "summary": "Qualitativemarketboomrecollections, noverifiedstatistics."
+        },
+        {
+          "location": "Paragraph 18",
+          "status": "read_and_accounted",
+          "summary": "Era-shiftintoN64/PS1/Dreamcast and boothgrowth."
+        },
+        {
+          "location": "Paragraph 19",
+          "status": "read_and_accounted",
+          "summary": "Multiplebooths and priorAprilphysicalstore opening."
+        },
+        {
+          "location": "Paragraph 20",
+          "status": "read_and_accounted",
+          "summary": "DiamondBarlocationchoice/yearresearch/longworkdays."
+        },
+        {
+          "location": "Paragraph 21",
+          "status": "read_and_accounted",
+          "summary": "Storebrand and limitedonlinecategories, stockturnover."
+        },
+        {
+          "location": "Paragraph 22",
+          "status": "read_and_accounted",
+          "summary": "Websitefreshness and anniversarynotyetreached."
+        },
+        {
+          "location": "Paragraph 23",
+          "status": "read_and_accounted",
+          "summary": "ExpoinspirationfromCGE/Portland and travelbarriers."
+        },
+        {
+          "location": "Paragraph 24",
+          "status": "read_and_accounted",
+          "summary": "Localneed, venueownerpartnership and organization."
+        },
+        {
+          "location": "Paragraph 25",
+          "status": "read_and_accounted",
+          "summary": "Rentalcostestimate/freeadmission/break-evenreport."
+        },
+        {
+          "location": "Paragraph 26",
+          "status": "read_and_accounted",
+          "summary": "Approximate70spaces/50vendors; exactfloorareaunknown."
+        },
+        {
+          "location": "Paragraph 27",
+          "status": "read_and_accounted",
+          "summary": "Namedguestsconfirmed, sponsorhopesunresolved, transitiontocollecting."
+        },
+        {
+          "location": "Paragraph 28",
+          "status": "read_and_accounted",
+          "summary": "GuestNES/SNESfocus and favorite-listpromptmismatch."
+        },
+        {
+          "location": "Paragraph 29",
+          "status": "read_and_accounted",
+          "summary": "SuperMetroidvsTurtlespersonalpreferences."
+        },
+        {
+          "location": "Paragraph 30",
+          "status": "read_and_accounted",
+          "summary": "Johnnyattend/KatinCanada plans, guestpanelsclarified."
+        },
+        {
+          "location": "Paragraph 31",
+          "status": "read_and_accounted",
+          "summary": "StevenPhantomPain/AlienCrushplay; KatSMRPGthirdcopy."
+        },
+        {
+          "location": "Paragraph 32",
+          "status": "read_and_accounted",
+          "summary": "Katfutureplaylanguage; Johnnyunnamedvirtualpinball/Falloutcontext."
+        },
+        {
+          "location": "Paragraph 33",
+          "status": "read_and_accounted",
+          "summary": "AlienCrushcopycorrection, StevenDarkWater/GunForce, KatCIBSMRPG."
+        },
+        {
+          "location": "Paragraph 34",
+          "status": "read_and_accounted",
+          "summary": "JohnnyBeholderpackaging/Kirby and Wii-spreepricecomparison."
+        },
+        {
+          "location": "Paragraph 35",
+          "status": "read_and_accounted",
+          "summary": "HotelDogs/petvet/McCarthyunresolvedgames, hypotheticalWiiset/museum."
+        },
+        {
+          "location": "Paragraph 36",
+          "status": "read_and_accounted",
+          "summary": "Sharingcollection, guest2011visitmemory, freeexpo/competitions."
+        },
+        {
+          "location": "Paragraph 37",
+          "status": "read_and_accounted",
+          "summary": "Datedeventlogistics/contacthandles; guesthandlepunctuationunresolved."
+        },
+        {
+          "location": "Paragraph 38",
+          "status": "read_and_accounted",
+          "summary": "Johnnywebsite/signoff/music; no newgame references."
+        }
+      ],
+      "span_review": {
+        "paragraphs_read": 38,
+        "existing_game_ids_represented": 19,
+        "new_reference_ids": 0,
+        "method": "Frozen source-first identity/reference map, same-agent omission and role review."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "cq014-action-01",
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "title": "Dirty trade/sale stock",
+      "action_state": "owned",
+      "summary": "Owns unsorteddirtyitems; statement 'gonna sell/trytrade' is prospective, not completed sale.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Guest prompts and contextualdialogue, notaudio."
+      },
+      "subject": "Johnny",
+      "entity_type": "collection",
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "my box of unclean stuff"
+        }
+      ]
+    },
+    {
+      "id": "cq014-action-02",
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "title": "Dirty trade/sale stock",
+      "action_state": "hypothetical",
+      "summary": "Possible disposition; notcashsale.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Guest prompts and contextualdialogue, notaudio."
+      },
+      "subject": "Johnny",
+      "entity_type": "collection",
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "I’m gonna try and trade this"
+        }
+      ]
+    },
+    {
+      "id": "cq014-action-03",
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "title": "Star Fox competition reproductions",
+      "action_state": "mentioned",
+      "summary": "Planned expo reproduction sales, notoriginalcart purchases orcompletedtransactions.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Guest prompts and contextualdialogue, notaudio."
+      },
+      "subject": "Steven",
+      "entity_type": "reproduction_product",
+      "evidence": [
+        {
+          "location": "Paragraph 5",
+          "quote": "we’re gonna be selling"
+        }
+      ]
+    },
+    {
+      "id": "cq014-action-04",
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "title": "Super Nintendo collection",
+      "action_state": "owned",
+      "summary": "Personal SNEScollection distinct fromstorestock.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Guest prompts and contextualdialogue, notaudio."
+      },
+      "subject": "Steven",
+      "entity_type": "collection",
+      "evidence": [
+        {
+          "location": "Paragraph 7",
+          "quote": "my collection"
+        }
+      ]
+    },
+    {
+      "id": "cq014-action-05",
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "title": "Complete Super Nintendo set",
+      "action_state": "wanted",
+      "summary": "Goal, notfinishedset.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Guest prompts and contextualdialogue, notaudio."
+      },
+      "subject": "Steven",
+      "entity_type": "collection",
+      "evidence": [
+        {
+          "location": "Paragraph 7",
+          "quote": "going for a complete collection on my Super Nintendo"
+        }
+      ]
+    },
+    {
+      "id": "cq014-action-06",
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "title": "Acquired games aggregate",
+      "action_state": "played",
+      "summary": "He reports tryingevery acquiredgame; aggregatepractice notproofeverytitlecompleted.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Guest prompts and contextualdialogue, notaudio."
+      },
+      "subject": "Steven",
+      "entity_type": "collection",
+      "evidence": [
+        {
+          "location": "Paragraph 7",
+          "quote": "every game I get in"
+        },
+        {
+          "location": "Paragraph 8",
+          "quote": "pop in and play"
+        }
+      ]
+    },
+    {
+      "id": "cq014-action-07",
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "title": "Atari2600 and NES childhood consoles",
+      "action_state": "received",
+      "summary": "Sweepstakesenabled childhoodhardware acquisition.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Guest prompts and contextualdialogue, notaudio."
+      },
+      "subject": "Steven",
+      "entity_type": "hardware",
+      "evidence": [
+        {
+          "location": "Paragraph 8",
+          "quote": "that’s when I got my Atari 2600 and that’s when I got my NES console"
+        }
+      ]
+    },
+    {
+      "id": "cq014-action-08",
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "title": "Childhood games/packaging",
+      "action_state": "owned",
+      "summary": "Retained childhoodcollectionreport, notindependentlyverifiedcompleteinventory.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Guest prompts and contextualdialogue, notaudio."
+      },
+      "subject": "Steven",
+      "entity_type": "collection",
+      "evidence": [
+        {
+          "location": "Paragraph 9",
+          "quote": "I still have all of it"
+        }
+      ]
+    },
+    {
+      "id": "cq014-action-09",
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "title": "Dracula X code sheets",
+      "action_state": "owned",
+      "summary": "Personal handwrittenpasswords; sisterhasherown, notrecentgamebuy.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Guest prompts and contextualdialogue, notaudio."
+      },
+      "subject": "Steven",
+      "entity_type": "ephemera",
+      "evidence": [
+        {
+          "location": "Paragraph 9",
+          "quote": "I have my little codes and my handwriting"
+        }
+      ]
+    },
+    {
+      "id": "cq014-action-10",
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "title": "Duplicate collection inventory",
+      "action_state": "purchased",
+      "summary": "Historical online/swapmeet stock, titlesunnamed.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Guest prompts and contextualdialogue, notaudio."
+      },
+      "subject": "Steven",
+      "entity_type": "collection",
+      "evidence": [
+        {
+          "location": "Paragraph 10",
+          "quote": "buying doubles for my collection"
+        }
+      ]
+    },
+    {
+      "id": "cq014-action-11",
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "title": "Games at Frank & Son booth",
+      "action_state": "sold",
+      "summary": "Actualaggregate retail sales report, notnamedgamepurchase.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Guest prompts and contextualdialogue, notaudio."
+      },
+      "subject": "Steven",
+      "entity_type": "retail_inventory",
+      "evidence": [
+        {
+          "location": "Paragraph 11",
+          "quote": "Day one, amazing in sales"
+        }
+      ]
+    },
+    {
+      "id": "cq014-action-12",
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "title": "NES/SNES/TurboGrafx/PC Engine/Genesis collection",
+      "action_state": "owned",
+      "summary": "Reported evolving collection; completeplatformsetsnotclaimed.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Guest prompts and contextualdialogue, notaudio."
+      },
+      "subject": "Steven",
+      "entity_type": "collection",
+      "evidence": [
+        {
+          "location": "Paragraph 28",
+          "quote": "starting to collect more TurboGrafx, PC Engine, Sega Genesis"
+        }
+      ]
+    },
+    {
+      "id": "cq014-action-13",
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "title": "Expo attendance",
+      "action_state": "wanted",
+      "summary": "Announced attendance plan, notconfirmedpastattendance.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Guest prompts and contextualdialogue, notaudio."
+      },
+      "subject": "Johnny",
+      "entity_type": "event",
+      "evidence": [
+        {
+          "location": "Paragraph 26",
+          "quote": "I’m coming as you know"
+        }
+      ]
+    },
+    {
+      "id": "cq014-action-14",
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "title": "Next-year flight for Kat",
+      "action_state": "hypothetical",
+      "summary": "Wish contingentonbudget, notbookedflight.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": null,
+        "confidence": "low",
+        "basis": "Guest prompts and contextualdialogue, notaudio."
+      },
+      "subject": null,
+      "entity_type": "travel",
+      "evidence": [
+        {
+          "location": "Paragraph 30",
+          "quote": "hopefully next year, budget grows. We could just fly you over here"
+        }
+      ]
+    },
+    {
+      "id": "cq014-action-15",
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "title": "Metal Gear Solid V: The Phantom Pain",
+      "action_state": "played",
+      "summary": "Completed playreport, platformnotstated.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Guest prompts and contextualdialogue, notaudio."
+      },
+      "subject": "Steven",
+      "entity_type": "game",
+      "evidence": [
+        {
+          "location": "Paragraph 31",
+          "quote": "just beat it last week"
+        }
+      ]
+    },
+    {
+      "id": "cq014-action-16",
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "title": "Alien Crush",
+      "action_state": "played",
+      "summary": "Recentgameplay andscoreanecdote; notJohnnycurrentplay.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Guest prompts and contextualdialogue, notaudio."
+      },
+      "subject": "Steven",
+      "entity_type": "game",
+      "evidence": [
+        {
+          "location": "Paragraph 31",
+          "quote": "I’ve been playing Alien Crush"
+        }
+      ]
+    },
+    {
+      "id": "cq014-action-17",
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "title": "Alien Crush",
+      "action_state": "owned",
+      "summary": "Threecopiescorrectsfivejoke; somevariants, exactvariantsnotnamed.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Guest prompts and contextualdialogue, notaudio."
+      },
+      "subject": "Johnny",
+      "entity_type": "game",
+      "evidence": [
+        {
+          "location": "Paragraph 33",
+          "quote": "It’s not five. It’s three"
+        }
+      ]
+    },
+    {
+      "id": "cq014-action-18",
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "title": "Super Mario RPG",
+      "action_state": "received",
+      "summary": "Thirdownershipcycle; alreadyreceived, intendstoretain.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Guest prompts and contextualdialogue, notaudio."
+      },
+      "subject": "Kat",
+      "entity_type": "game",
+      "evidence": [
+        {
+          "location": "Paragraph 31",
+          "quote": "I finally actually have it again"
+        }
+      ]
+    },
+    {
+      "id": "cq014-action-19",
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "title": "Super Mario RPG",
+      "action_state": "wanted",
+      "summary": "Playstart intention, prior'gettinginto' ambiguous; nofinishedplayasserted.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Guest prompts and contextualdialogue, notaudio."
+      },
+      "subject": "Kat",
+      "entity_type": "game",
+      "evidence": [
+        {
+          "location": "Paragraph 32",
+          "quote": "I’m just gonna get into that now"
+        }
+      ]
+    },
+    {
+      "id": "cq014-action-20",
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "title": "Super Mario RPG",
+      "action_state": "purchased",
+      "summary": "CIBnotpristinegooddeal, noactualnumericprice.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Guest prompts and contextualdialogue, notaudio."
+      },
+      "subject": "Kat",
+      "entity_type": "game",
+      "evidence": [
+        {
+          "location": "Paragraph 33",
+          "quote": "what I’m bought is what I’m getting into"
+        }
+      ]
+    },
+    {
+      "id": "cq014-action-21",
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "title": "Virtual pinball — unnamed titles",
+      "action_state": "played",
+      "summary": "Current aggregatevirtualplay, roughlythreeweeks; notattributedtoanimportedtitle.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Guest prompts and contextualdialogue, notaudio."
+      },
+      "subject": "Johnny",
+      "entity_type": "collection",
+      "evidence": [
+        {
+          "location": "Paragraph 32",
+          "quote": "I’m still playing pinball"
+        }
+      ]
+    },
+    {
+      "id": "cq014-action-22",
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "title": "Fallout — installment unspecified",
+      "action_state": "played",
+      "summary": "Contextualoccasionalplay, noinstallment/platform/completion.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Guest prompts and contextualdialogue, notaudio."
+      },
+      "subject": "Johnny",
+      "entity_type": "game_series",
+      "evidence": [
+        {
+          "location": "Paragraph 32",
+          "quote": "I play a little bit here and there"
+        }
+      ]
+    },
+    {
+      "id": "cq014-action-23",
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "title": "The Pirates of Dark Water",
+      "action_state": "purchased",
+      "summary": "Personalpurchase125, completeallinserts; notstoreinventory.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Guest prompts and contextualdialogue, notaudio."
+      },
+      "subject": "Steven",
+      "entity_type": "game",
+      "evidence": [
+        {
+          "location": "Paragraph 33",
+          "quote": "I got for 125"
+        }
+      ]
+    },
+    {
+      "id": "cq014-action-24",
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "title": "GunForce",
+      "action_state": "purchased",
+      "summary": "PersonalSNESpickup, collectivecount486/487; nopricegiven.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Steven",
+        "confidence": "medium",
+        "basis": "Guest prompts and contextualdialogue, notaudio."
+      },
+      "subject": "Steven",
+      "entity_type": "game",
+      "evidence": [
+        {
+          "location": "Paragraph 33",
+          "quote": "what else did I just get? Gun Force"
+        }
+      ]
+    },
+    {
+      "id": "cq014-action-25",
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "title": "Eye of the Beholder cartridge",
+      "action_state": "owned",
+      "summary": "Existingcartridgebeforepackagingcompletion.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Guest prompts and contextualdialogue, notaudio."
+      },
+      "subject": "Johnny",
+      "entity_type": "game",
+      "evidence": [
+        {
+          "location": "Paragraph 34",
+          "quote": "I had a cart"
+        }
+      ]
+    },
+    {
+      "id": "cq014-action-26",
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "title": "Eye of the Beholder box/manual",
+      "action_state": "received",
+      "summary": "Packagingacquiredforalreadyownedcart; notanothernewcartridge.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Guest prompts and contextualdialogue, notaudio."
+      },
+      "subject": "Johnny",
+      "entity_type": "accessory",
+      "evidence": [
+        {
+          "location": "Paragraph 34",
+          "quote": "I finally found the box in the manual to wrap it up in"
+        }
+      ]
+    },
+    {
+      "id": "cq014-action-27",
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "title": "Kirby’s Return to Dream Land",
+      "action_state": "purchased",
+      "summary": "Purchasepricecontextabout35, marketcomparisonnotcurrentvaluation.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Guest prompts and contextualdialogue, notaudio."
+      },
+      "subject": "Johnny",
+      "entity_type": "game",
+      "evidence": [
+        {
+          "location": "Paragraph 34",
+          "quote": "I got Kirby’s Return to Dreamland for the Wii"
+        }
+      ]
+    },
+    {
+      "id": "cq014-action-28",
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "title": "Wii bulk purchases",
+      "action_state": "purchased",
+      "summary": "Approximateaggregatebuying spree, notallnamedgamescost2.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Guest prompts and contextualdialogue, notaudio."
+      },
+      "subject": "Johnny",
+      "entity_type": "collection",
+      "evidence": [
+        {
+          "location": "Paragraph 34",
+          "quote": "like a hundred Wii games for like $2 each"
+        }
+      ]
+    },
+    {
+      "id": "cq014-action-29",
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "title": "Hotel for Dogs",
+      "action_state": "purchased",
+      "summary": "RecentWiiacquisition example.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Guest prompts and contextualdialogue, notaudio."
+      },
+      "subject": "Johnny",
+      "entity_type": "game",
+      "evidence": [
+        {
+          "location": "Paragraph 35",
+          "quote": "one of them I just got was Hotel for Dogs"
+        }
+      ]
+    },
+    {
+      "id": "cq014-action-30",
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "title": "Petz/veterinarian game — unresolved",
+      "action_state": "purchased",
+      "summary": "Rawtitlepreserved, exactentryunresolved.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Guest prompts and contextualdialogue, notaudio."
+      },
+      "subject": "Johnny",
+      "entity_type": "game",
+      "evidence": [
+        {
+          "location": "Paragraph 35",
+          "quote": "I also got like pets. My veterinarian"
+        }
+      ]
+    },
+    {
+      "id": "cq014-action-31",
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "title": "Jennifer McCarthy big-box game — unresolved",
+      "action_state": "owned",
+      "summary": "Contextowncollection/whybuyanswer, nopreciseacquisitiondate orcanonicaltitle.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Guest prompts and contextualdialogue, notaudio."
+      },
+      "subject": "Johnny",
+      "entity_type": "game",
+      "evidence": [
+        {
+          "location": "Paragraph 35",
+          "quote": "one of my least favorite games"
+        }
+      ]
+    },
+    {
+      "id": "cq014-action-32",
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "title": "Complete Wii set",
+      "action_state": "hypothetical",
+      "summary": "Conditionalfuturegoal, notcurrentlycommitted/completedset.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Guest prompts and contextualdialogue, notaudio."
+      },
+      "subject": "Johnny",
+      "entity_type": "collection",
+      "evidence": [
+        {
+          "location": "Paragraph 35",
+          "quote": "if I ever decide to complete the Wii set"
+        }
+      ]
+    },
+    {
+      "id": "cq014-action-33",
+      "source_key": "sc-241546714",
+      "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+      "title": "Collection museum",
+      "action_state": "hypothetical",
+      "summary": "Fancifulpublicdisplaydiscussion, notbuilt/openmuseum.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Guest prompts and contextualdialogue, notaudio."
+      },
+      "subject": "Johnny",
+      "entity_type": "venue",
+      "evidence": [
+        {
+          "location": "Paragraph 35",
+          "quote": "I would love to have"
+        }
+      ]
+    }
+  ],
+  "overrides": [],
+  "new_games": [],
+  "task_cases": [
+    {
+      "id": "batch008-cq014-expo-history",
+      "episode": 14,
+      "question": "What expo was announced, when, and did admission cover competitions?",
+      "query": "SoCal Expo January free competitions",
+      "speaker": null,
+      "answer": "The interview announced the SoCal Retro Gaming Expo for January 30–31, 2016, in City of Industry, with 9 a.m.–5 p.m. hours both days. Steven says admission and all competitions would be free. It is a historical announcement, not a current event listing. The planned program included free play, a small history museum, a Star Fox competition and a professional Smash Bros. tournament.",
+      "expected": "The interview announced the SoCal Retro Gaming Expo for January 30–31, 2016, in City of Industry, with 9 a.m.–5 p.m. hours both days. Steven says admission and all competitions would be free. It is a historical announcement, not a current event listing. The planned program included free play, a small history museum, a Star Fox competition and a professional Smash Bros. tournament.",
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 37",
+        "Paragraph 36",
+        "Paragraph 5",
+        "Paragraph 6"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "SoCal Retro Gaming Expo"
+        },
+        {
+          "location": "Paragraph 2",
+          "quote": "January of this year, 2016"
+        },
+        {
+          "location": "Paragraph 37",
+          "quote": "the 30th and 31st"
+        },
+        {
+          "location": "Paragraph 37",
+          "quote": "both days, nine to five"
+        },
+        {
+          "location": "Paragraph 37",
+          "quote": "city of industry"
+        },
+        {
+          "location": "Paragraph 36",
+          "quote": "completely free expo. All the competitions are completely free"
+        },
+        {
+          "location": "Paragraph 5",
+          "quote": "history museum"
+        },
+        {
+          "location": "Paragraph 5",
+          "quote": "free play"
+        },
+        {
+          "location": "Paragraph 5",
+          "quote": "Star Fox competition"
+        },
+        {
+          "location": "Paragraph 6",
+          "quote": "professionally done Smash Bros tournament"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 1",
+            "quote": "SoCal Retro Gaming Expo"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 2",
+            "quote": "January of this year, 2016"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 37",
+            "quote": "the 30th and 31st"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 37",
+            "quote": "both days, nine to five"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 37",
+            "quote": "city of industry"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 6,
+          "evidence": {
+            "location": "Paragraph 36",
+            "quote": "completely free expo. All the competitions are completely free"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 7,
+          "evidence": {
+            "location": "Paragraph 5",
+            "quote": "history museum"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 8,
+          "evidence": {
+            "location": "Paragraph 5",
+            "quote": "free play"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 9,
+          "evidence": {
+            "location": "Paragraph 5",
+            "quote": "Star Fox competition"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 10,
+          "evidence": {
+            "location": "Paragraph 6",
+            "quote": "professionally done Smash Bros tournament"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Current event schedule",
+        "Paid admission required",
+        "Announced plans already carried out"
+      ],
+      "review_result": "Same-agent source adjudication: 10 supported checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch008-cq014-vendor-guarantee",
+      "episode": 14,
+      "question": "Did Steven guarantee every vendor would have clean games?",
+      "query": "clean vendors retail standard",
+      "speaker": "Steven",
+      "answer": "No. Steven promised an organized, professional environment but explicitly said he could not control what every vendor brought. He separately explained that retail should meet a higher standard, including cleaning and testing games so buyers can go home and play them. Johnny values that service and condition enough to pay a few dollars more.",
+      "expected": "No. Steven promised an organized, professional environment but explicitly said he could not control what every vendor brought. He separately explained that retail should meet a higher standard, including cleaning and testing games so buyers can go home and play them. Johnny values that service and condition enough to pay a few dollars more.",
+      "evidence_locations": [
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 16"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "I can’t really control what they bring"
+        },
+        {
+          "location": "Paragraph 3",
+          "quote": "clean, organized professional environment"
+        },
+        {
+          "location": "Paragraph 4",
+          "quote": "retail is held to"
+        },
+        {
+          "location": "Paragraph 4",
+          "quote": "We clean them, we test them"
+        },
+        {
+          "location": "Paragraph 4",
+          "quote": "go home and play things and it should play right away"
+        },
+        {
+          "location": "Paragraph 16",
+          "quote": "pay a couple dollars more"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 3",
+            "quote": "I can’t really control what they bring"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 3",
+            "quote": "clean, organized professional environment"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 4",
+            "quote": "retail is held to"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 4",
+            "quote": "We clean them, we test them"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 4",
+            "quote": "go home and play things and it should play right away"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 6,
+          "evidence": {
+            "location": "Paragraph 16",
+            "quote": "pay a couple dollars more"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "All vendors guaranteed pristine stock",
+        "Externally verified store quality",
+        "Retail premium means unlimited price"
+      ],
+      "review_result": "Same-agent source adjudication: 6 supported checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch008-cq014-guest-origin",
+      "episode": 14,
+      "question": "How did Steven's collecting become a store?",
+      "query": "Steven sweepstakes doubles hoarding laid off seven months company June 2008 Diamond Bar April",
+      "speaker": "Steven",
+      "answer": "Steven recalls a childhood $2,000 Toys R Us sweepstakes win that helped him get Atari 2600 and NES hardware, and says he kept his collection and packaging. Later duplicate-buying supplied inventory. After a layoff, a new job and seven months there, he left to vend; he gives June 2008 as his booth opening. He later opened Super Video Game Bros in Diamond Bar in April of the prior year—April 2015 relative to this January 2016 episode. These are his recollections, not independently audited dates.",
+      "expected": "Steven recalls a childhood $2,000 Toys R Us sweepstakes win that helped him get Atari 2600 and NES hardware, and says he kept his collection and packaging. Later duplicate-buying supplied inventory. After a layoff, a new job and seven months there, he left to vend; he gives June 2008 as his booth opening. He later opened Super Video Game Bros in Diamond Bar in April of the prior year—April 2015 relative to this January 2016 episode. These are his recollections, not independently audited dates.",
+      "evidence_locations": [
+        "Paragraph 8",
+        "Paragraph 9",
+        "Paragraph 10",
+        "Paragraph 11",
+        "Paragraph 15",
+        "Paragraph 19",
+        "Paragraph 20",
+        "Paragraph 21"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 8",
+          "quote": "$2,000 sweepstakes to Toys R Us"
+        },
+        {
+          "location": "Paragraph 8",
+          "quote": "Atari 2600 and that’s when I got my NES console"
+        },
+        {
+          "location": "Paragraph 9",
+          "quote": "I still have all of it"
+        },
+        {
+          "location": "Paragraph 10",
+          "quote": "buying doubles for my collection"
+        },
+        {
+          "location": "Paragraph 11",
+          "quote": "working seven months in this new company"
+        },
+        {
+          "location": "Paragraph 15",
+          "quote": "June of 2008"
+        },
+        {
+          "location": "Paragraph 19",
+          "quote": "store last year in April"
+        },
+        {
+          "location": "Paragraph 20",
+          "quote": "Diamond Bar, California"
+        },
+        {
+          "location": "Paragraph 21",
+          "quote": "super video game, bros"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 8",
+            "quote": "$2,000 sweepstakes to Toys R Us"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 8",
+            "quote": "Atari 2600 and that’s when I got my NES console"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 9",
+            "quote": "I still have all of it"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 10",
+            "quote": "buying doubles for my collection"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 11",
+            "quote": "working seven months in this new company"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 6,
+          "evidence": {
+            "location": "Paragraph 15",
+            "quote": "June of 2008"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 7,
+          "evidence": {
+            "location": "Paragraph 19",
+            "quote": "store last year in April"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 8,
+          "evidence": {
+            "location": "Paragraph 20",
+            "quote": "Diamond Bar, California"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 9,
+          "evidence": {
+            "location": "Paragraph 21",
+            "quote": "super video game, bros"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Business started in 2003 definitely",
+        "Booth and store opened same date",
+        "Childhood sweepstakes verified independently"
+      ],
+      "review_result": "Same-agent source adjudication: 9 supported checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch008-cq014-favorite-scope",
+      "episode": 14,
+      "question": "What was Steven's favorite-game trio, and what is odd about the prompt?",
+      "query": "Mega Man X Chrono Trigger Super Metroid NES",
+      "speaker": "Steven",
+      "answer": "Although Kat's prompt asks for an NES favorite or top three, Steven answers with the Mega Man X series first, then Chrono Trigger and Super Metroid. He explicitly chooses the series level for Mega Man X and says he considered Turtles in Time before selecting Super Metroid. Preserve that prompt/content mismatch; do not relabel the named games as NES releases or reduce the series to the first Mega Man X.",
+      "expected": "Although Kat's prompt asks for an NES favorite or top three, Steven answers with the Mega Man X series first, then Chrono Trigger and Super Metroid. He explicitly chooses the series level for Mega Man X and says he considered Turtles in Time before selecting Super Metroid. Preserve that prompt/content mismatch; do not relabel the named games as NES releases or reduce the series to the first Mega Man X.",
+      "evidence_locations": [
+        "Paragraph 28",
+        "Paragraph 29"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 28",
+          "quote": "one NES game"
+        },
+        {
+          "location": "Paragraph 28",
+          "quote": "I’m going to do it in series"
+        },
+        {
+          "location": "Paragraph 28",
+          "quote": "Mega Man X series is top number one"
+        },
+        {
+          "location": "Paragraph 28",
+          "quote": "Chrono Trigger"
+        },
+        {
+          "location": "Paragraph 28",
+          "quote": "Super Metroid"
+        },
+        {
+          "location": "Paragraph 29",
+          "quote": "struggling between that and Turtles in Time"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 28",
+            "quote": "one NES game"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 28",
+            "quote": "I’m going to do it in series"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 28",
+            "quote": "Mega Man X series is top number one"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 28",
+            "quote": "Chrono Trigger"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 28",
+            "quote": "Super Metroid"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 6,
+          "evidence": {
+            "location": "Paragraph 29",
+            "quote": "struggling between that and Turtles in Time"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Three NES releases",
+        "First Mega Man X alone",
+        "Turtles in Time is the selected third"
+      ],
+      "review_result": "Same-agent source adjudication: 6 supported checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch008-cq014-guest-purchases",
+      "episode": 14,
+      "question": "What two games did the guest buy for his own collection?",
+      "query": "Steven Pirates Dark Water Gun Force 125 486 487",
+      "speaker": "Steven",
+      "answer": "Steven names The Pirates of Dark Water and GunForce as personal Super Nintendo purchases, not store inventory. Dark Water was $125 and complete with all inserts. Together they take his count to 486 and 487; the episode does not give GunForce's price or establish which number belongs to which game.",
+      "expected": "Steven names The Pirates of Dark Water and GunForce as personal Super Nintendo purchases, not store inventory. Dark Water was $125 and complete with all inserts. Together they take his count to 486 and 487; the episode does not give GunForce's price or establish which number belongs to which game.",
+      "evidence_locations": [
+        "Paragraph 33"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 33",
+          "quote": "what have you bought for yourself"
+        },
+        {
+          "location": "Paragraph 33",
+          "quote": "The Pirates of the Dark, Darkwater"
+        },
+        {
+          "location": "Paragraph 33",
+          "quote": "I got for 125"
+        },
+        {
+          "location": "Paragraph 33",
+          "quote": "complete 100% with all the inserts"
+        },
+        {
+          "location": "Paragraph 33",
+          "quote": "Gun Force"
+        },
+        {
+          "location": "Paragraph 33",
+          "quote": "for the Super Nintendo"
+        },
+        {
+          "location": "Paragraph 33",
+          "quote": "486 and 487"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 33",
+            "quote": "what have you bought for yourself"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 33",
+            "quote": "The Pirates of the Dark, Darkwater"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 33",
+            "quote": "I got for 125"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 33",
+            "quote": "complete 100% with all the inserts"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 33",
+            "quote": "Gun Force"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 6,
+          "evidence": {
+            "location": "Paragraph 33",
+            "quote": "for the Super Nintendo"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 7,
+          "evidence": {
+            "location": "Paragraph 33",
+            "quote": "486 and 487"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Johnny bought these",
+        "GunForce cost125",
+        "Definite individual count-number assignment"
+      ],
+      "review_result": "Same-agent source adjudication: 7 supported checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch008-cq014-beholder-purchase",
+      "episode": 14,
+      "question": "Did Johnny buy another Eye of the Beholder cartridge?",
+      "query": "Eye Beholder cart box manual Kirby",
+      "speaker": "Johnny",
+      "answer": "The clear distinction is that Johnny already had the cartridge and found its box and manual to complete it; the transcript garbles the Eye of the Beholder title, so that normalization remains context-qualified. He separately reports getting Kirby's Return to Dream Land for Wii. Do not turn the packaging completion into a new-cartridge purchase.",
+      "expected": "The clear distinction is that Johnny already had the cartridge and found its box and manual to complete it; the transcript garbles the Eye of the Beholder title, so that normalization remains context-qualified. He separately reports getting Kirby's Return to Dream Land for Wii. Do not turn the packaging completion into a new-cartridge purchase.",
+      "evidence_locations": [
+        "Paragraph 34"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 34",
+          "quote": "advanced Dungeons and Dragons. I have the Beholder"
+        },
+        {
+          "location": "Paragraph 34",
+          "quote": "I had a cart"
+        },
+        {
+          "location": "Paragraph 34",
+          "quote": "found the box in the manual to wrap it up in"
+        },
+        {
+          "location": "Paragraph 34",
+          "quote": "I got Kirby’s Return to Dreamland for the Wii"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 34",
+            "quote": "advanced Dungeons and Dragons. I have the Beholder"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 34",
+            "quote": "I had a cart"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 34",
+            "quote": "found the box in the manual to wrap it up in"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 34",
+            "quote": "I got Kirby’s Return to Dreamland for the Wii"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "New Beholder cartridge",
+        "Packaging mistaken for game edition",
+        "Exact current Kirby market price"
+      ],
+      "review_result": "Same-agent source adjudication: 4 supported checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch008-cq014-alien-copies",
+      "episode": 14,
+      "question": "Who was playing Alien Crush, and who had how many copies?",
+      "query": "Alien Crush Steven Johnny five three score",
+      "speaker": null,
+      "answer": "Steven reports playing Alien Crush and tells the score story: a friend made a big deal of roughly three million, then Steven scored roughly 26 million. Later Johnny is teased about having five copies and corrects that to three, with some variants. The episode does not identify all three variants or confirm Johnny was currently playing Alien Crush.",
+      "expected": "Steven reports playing Alien Crush and tells the score story: a friend made a big deal of roughly three million, then Steven scored roughly 26 million. Later Johnny is teased about having five copies and corrects that to three, with some variants. The episode does not identify all three variants or confirm Johnny was currently playing Alien Crush.",
+      "evidence_locations": [
+        "Paragraph 31",
+        "Paragraph 33"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 31",
+          "quote": "I’ve been playing Alien Crush"
+        },
+        {
+          "location": "Paragraph 31",
+          "quote": "one of our friends made the biggest deal"
+        },
+        {
+          "location": "Paragraph 31",
+          "quote": "three million points"
+        },
+        {
+          "location": "Paragraph 31",
+          "quote": "Then I sat down to like 26 million"
+        },
+        {
+          "location": "Paragraph 33",
+          "quote": "It’s not five. It’s three"
+        },
+        {
+          "location": "Paragraph 33",
+          "quote": "All the variants, right? A few of them"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 31",
+            "quote": "I’ve been playing Alien Crush"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 31",
+            "quote": "one of our friends made the biggest deal"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 31",
+            "quote": "three million points"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 31",
+            "quote": "Then I sat down to like 26 million"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 33",
+            "quote": "It’s not five. It’s three"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 6,
+          "evidence": {
+            "location": "Paragraph 33",
+            "quote": "All the variants, right? A few of them"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Johnny scored26million",
+        "Five copies accepted",
+        "All three variants named",
+        "Current Johnny Alien Crush play"
+      ],
+      "review_result": "Same-agent source adjudication: 6 supported checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch008-cq014-kat-rpg",
+      "episode": 14,
+      "question": "What changed for Kat's Super Mario RPG collection?",
+      "query": "Kat Super Mario RPG third copy complete deal",
+      "speaker": "Kat",
+      "answer": "Kat had Super Mario RPG again for the third time and intended to keep this copy. She describes a complete-in-box copy that is not pristine but was a good deal. Her play wording moves from 'getting into' it to saying she is going to start now, so acquisition is clear while an already-started play session is not certain. No price or completion claim is supplied.",
+      "expected": "Kat had Super Mario RPG again for the third time and intended to keep this copy. She describes a complete-in-box copy that is not pristine but was a good deal. Her play wording moves from 'getting into' it to saying she is going to start now, so acquisition is clear while an already-started play session is not certain. No price or completion claim is supplied.",
+      "evidence_locations": [
+        "Paragraph 31",
+        "Paragraph 33",
+        "Paragraph 32"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 31",
+          "quote": "I finally actually have it again"
+        },
+        {
+          "location": "Paragraph 31",
+          "quote": "This is the third time I’ve had it"
+        },
+        {
+          "location": "Paragraph 31",
+          "quote": "I’m holding on to this copy"
+        },
+        {
+          "location": "Paragraph 33",
+          "quote": "complete Imox coffee of Super Mario RPG"
+        },
+        {
+          "location": "Paragraph 33",
+          "quote": "Not pristine"
+        },
+        {
+          "location": "Paragraph 33",
+          "quote": "really great deal"
+        },
+        {
+          "location": "Paragraph 32",
+          "quote": "I’m just gonna get into that now"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 31",
+            "quote": "I finally actually have it again"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 31",
+            "quote": "This is the third time I’ve had it"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 31",
+            "quote": "I’m holding on to this copy"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 33",
+            "quote": "complete Imox coffee of Super Mario RPG"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 33",
+            "quote": "Not pristine"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 6,
+          "evidence": {
+            "location": "Paragraph 33",
+            "quote": "really great deal"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 7,
+          "evidence": {
+            "location": "Paragraph 32",
+            "quote": "I’m just gonna get into that now"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "First copy ever",
+        "Definitely finished or actively started",
+        "Pristine copy",
+        "Exact price"
+      ],
+      "review_result": "Same-agent source adjudication: 7 supported checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch008-cq014-play-format",
+      "episode": 14,
+      "question": "What were Steven and Johnny playing, and why did pinball fit Johnny?",
+      "query": "Phantom Pain virtual pinball Fallout short sessions",
+      "speaker": null,
+      "answer": "Steven had beaten The Phantom Pain the previous week and was still thinking about it. Johnny says he had been playing virtual pinball for about three weeks because short sessions fit his busy schedule and limited mental space for a story-heavy game like Fallout, which he played only a little here and there. No specific virtual-pinball title or Fallout installment is named in that report.",
+      "expected": "Steven had beaten The Phantom Pain the previous week and was still thinking about it. Johnny says he had been playing virtual pinball for about three weeks because short sessions fit his busy schedule and limited mental space for a story-heavy game like Fallout, which he played only a little here and there. No specific virtual-pinball title or Fallout installment is named in that report.",
+      "evidence_locations": [
+        "Paragraph 31",
+        "Paragraph 32"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 31",
+          "quote": "Metal Gear Solid Phantom Pain just beat it last week"
+        },
+        {
+          "location": "Paragraph 31",
+          "quote": "It’s been in my mind all week"
+        },
+        {
+          "location": "Paragraph 32",
+          "quote": "three weeks straight"
+        },
+        {
+          "location": "Paragraph 32",
+          "quote": "All virtual pins"
+        },
+        {
+          "location": "Paragraph 32",
+          "quote": "something like Fallout"
+        },
+        {
+          "location": "Paragraph 32",
+          "quote": "I play a little bit here and there"
+        },
+        {
+          "location": "Paragraph 32",
+          "quote": "I have like 20 minutes to game"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 31",
+            "quote": "Metal Gear Solid Phantom Pain just beat it last week"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 31",
+            "quote": "It’s been in my mind all week"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 32",
+            "quote": "three weeks straight"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 32",
+            "quote": "All virtual pins"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 32",
+            "quote": "something like Fallout"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 6,
+          "evidence": {
+            "location": "Paragraph 32",
+            "quote": "I play a little bit here and there"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 7,
+          "evidence": {
+            "location": "Paragraph 32",
+            "quote": "I have like 20 minutes to game"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Johnny beat Phantom Pain",
+        "The Pinball Arcade explicitly named here",
+        "Fallout installment known",
+        "Exactly uninterrupted three-week play"
+      ],
+      "review_result": "Same-agent source adjudication: 7 supported checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch008-cq014-floor-uncertainty",
+      "episode": 14,
+      "question": "How large was the expo, and what should the lore master avoid overstating?",
+      "query": "70 spaces 50 vendors floor dimensions",
+      "speaker": "Steven",
+      "answer": "Steven estimates about 70 spaces and about 50 unique vendors, with 10-by-10 booths or 6-by-10 showcase/table spaces. He says exact floor specifications are not his division and points to the vendor map. Those are approximate plans, not a measured attendance count or exact floor area.",
+      "expected": "Steven estimates about 70 spaces and about 50 unique vendors, with 10-by-10 booths or 6-by-10 showcase/table spaces. He says exact floor specifications are not his division and points to the vendor map. Those are approximate plans, not a measured attendance count or exact floor area.",
+      "evidence_locations": [
+        "Paragraph 26"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 26",
+          "quote": "As far as specs, I’m sorry. It’s not my division and I don’t know"
+        },
+        {
+          "location": "Paragraph 26",
+          "quote": "70 spaces"
+        },
+        {
+          "location": "Paragraph 26",
+          "quote": "50 unique different vendors"
+        },
+        {
+          "location": "Paragraph 26",
+          "quote": "10 by 10"
+        },
+        {
+          "location": "Paragraph 26",
+          "quote": "six by 10"
+        },
+        {
+          "location": "Paragraph 26",
+          "quote": "vendors tab, you will see a whole map"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 26",
+            "quote": "As far as specs, I’m sorry. It’s not my division and I don’t know"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 26",
+            "quote": "70 spaces"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 26",
+            "quote": "50 unique different vendors"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 26",
+            "quote": "10 by 10"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 26",
+            "quote": "six by 10"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 6,
+          "evidence": {
+            "location": "Paragraph 26",
+            "quote": "vendors tab, you will see a whole map"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Exactly70vendors",
+        "Attendance count50",
+        "Exact square footage known"
+      ],
+      "review_result": "Same-agent source adjudication: 6 supported checkpoints; integrated retrieval pending."
+    }
+  ]
+}

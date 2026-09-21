@@ -1,0 +1,1428 @@
+{
+  "passed": 52,
+  "total": 52,
+  "excluded": 0,
+  "results": [
+    {
+      "collection": "batches/014",
+      "passed": 52,
+      "total": 52,
+      "excluded_without_original_question": [],
+      "cases": [
+        {
+          "id": "cq020-task-rank",
+          "episode": 20,
+          "question": "Which games dominated the interview, and was there a single third-place game?",
+          "missing_windows": [],
+          "required_windows": 12,
+          "context_coverage": {
+            "returned_windows": 36,
+            "episode_windows": 56
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "games",
+              "dominated",
+              "interview",
+              "single",
+              "third",
+              "place",
+              "game"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "game_prominence"
+        },
+        {
+          "id": "cq020-task-roster",
+          "episode": 20,
+          "question": "Who was interviewed, and is Kat's John the same person as the cohost?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 33,
+            "episode_windows": 56
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "interviewed",
+              "kat",
+              "s",
+              "john",
+              "same",
+              "person",
+              "cohost"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq020-task-origin",
+          "episode": 20,
+          "question": "Why did the site take years to open after it was built?",
+          "missing_windows": [],
+          "required_windows": 5,
+          "context_coverage": {
+            "returned_windows": 24,
+            "episode_windows": 56
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "site",
+              "take",
+              "years",
+              "open",
+              "after",
+              "built"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq020-task-rename",
+          "episode": 20,
+          "question": "Had PlayStation Age already replaced the old site during this interview?",
+          "missing_windows": [],
+          "required_windows": 2,
+          "context_coverage": {
+            "returned_windows": 40,
+            "episode_windows": 56
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "playstation",
+              "age",
+              "already",
+              "replaced",
+              "old",
+              "site",
+              "during",
+              "interview"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq020-task-database",
+          "episode": 20,
+          "question": "Why didn't the Nintendo Age database contain every collecting detail?",
+          "missing_windows": [],
+          "required_windows": 6,
+          "context_coverage": {
+            "returned_windows": 40,
+            "episode_windows": 56
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "didn",
+              "t",
+              "nintendo",
+              "age",
+              "database",
+              "contain",
+              "every",
+              "collecting",
+              "detail"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq020-task-community",
+          "episode": 20,
+          "question": "Did Dain see Instagram or Atari Age as enemies of Nintendo Age?",
+          "missing_windows": [],
+          "required_windows": 7,
+          "context_coverage": {
+            "returned_windows": 25,
+            "episode_windows": 56
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "dain",
+              "see",
+              "instagram",
+              "atari",
+              "age",
+              "enemies",
+              "nintendo"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq020-task-refocus",
+          "episode": 20,
+          "question": "Did Dain abandon NES collecting after completing other systems?",
+          "missing_windows": [],
+          "required_windows": 5,
+          "context_coverage": {
+            "returned_windows": 38,
+            "episode_windows": 56
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "dain",
+              "abandon",
+              "nes",
+              "collecting",
+              "after",
+              "completing",
+              "other",
+              "systems"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq020-task-boxes",
+          "episode": 20,
+          "question": "What made the supposedly common handheld sets difficult to finish?",
+          "missing_windows": [],
+          "required_windows": 6,
+          "context_coverage": {
+            "returned_windows": 24,
+            "episode_windows": 56
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "made",
+              "supposedly",
+              "common",
+              "handheld",
+              "sets",
+              "difficult",
+              "finish"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq020-task-stadium",
+          "episode": 20,
+          "question": "How did Dain finally get Stadium Events without paying cash for it?",
+          "missing_windows": [],
+          "required_windows": 2,
+          "context_coverage": {
+            "returned_windows": 36,
+            "episode_windows": 56
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "dain",
+              "finally",
+              "get",
+              "stadium",
+              "events",
+              "without",
+              "paying",
+              "cash"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq020-task-battleship",
+          "episode": 20,
+          "question": "Why was a cheap Battleship cartridge still keeping Johnny's NES set unfinished?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 22,
+            "episode_windows": 56
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "cheap",
+              "battleship",
+              "cartridge",
+              "still",
+              "keeping",
+              "johnny",
+              "s",
+              "nes",
+              "set",
+              "unfinished"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq020-task-graded",
+          "episode": 20,
+          "question": "Which expensive or graded NES pieces did the guest actually acquire?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 34,
+            "episode_windows": 56
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "expensive",
+              "graded",
+              "nes",
+              "pieces",
+              "guest",
+              "actually",
+              "acquire"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "acquisitions"
+        },
+        {
+          "id": "cq020-task-pickups",
+          "episode": 20,
+          "question": "What did Kat and Johnny buy near the close, and which copies were complete?",
+          "missing_windows": [],
+          "required_windows": 2,
+          "context_coverage": {
+            "returned_windows": 39,
+            "episode_windows": 56
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "kat",
+              "johnny",
+              "buy",
+              "near",
+              "close",
+              "copies",
+              "complete"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "acquisitions"
+        },
+        {
+          "id": "cq020-task-play",
+          "episode": 20,
+          "question": "Were all the games in the closing favorites exchange Dain's current playthroughs?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 36,
+            "episode_windows": 56
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "all",
+              "games",
+              "closing",
+              "favorites",
+              "exchange",
+              "dain",
+              "s",
+              "current",
+              "playthroughs"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq020-task-motivations",
+          "episode": 20,
+          "question": "Did Kat agree that collecting was only about filling a childhood void?",
+          "missing_windows": [],
+          "required_windows": 6,
+          "context_coverage": {
+            "returned_windows": 28,
+            "episode_windows": 56
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "kat",
+              "agree",
+              "collecting",
+              "only",
+              "about",
+              "filling",
+              "childhood",
+              "void"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq020-task-interface",
+          "episode": 20,
+          "question": "What happened to the annoying corner mascot, and did they launch an Instagram page?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 21,
+            "episode_windows": 56
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "happened",
+              "annoying",
+              "corner",
+              "mascot",
+              "launch",
+              "instagram",
+              "page"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq087-task-rank",
+          "episode": 87,
+          "question": "Which games got the most meaningful discussion, accounting for editions and ties?",
+          "missing_windows": [],
+          "required_windows": 20,
+          "context_coverage": {
+            "returned_windows": 48,
+            "episode_windows": 61
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "games",
+              "got",
+              "most",
+              "meaningful",
+              "discussion",
+              "accounting",
+              "editions",
+              "ties"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "game_prominence"
+        },
+        {
+          "id": "cq087-task-insurance",
+          "episode": 87,
+          "question": "Did they establish that their collections were properly insured?",
+          "missing_windows": [],
+          "required_windows": 6,
+          "context_coverage": {
+            "returned_windows": 25,
+            "episode_windows": 61
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "establish",
+              "collections",
+              "properly",
+              "insured"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq087-task-cleaning",
+          "episode": 87,
+          "question": "What did they disagree about in cleaning, and is the Sharpie touch-up line serious?",
+          "missing_windows": [],
+          "required_windows": 8,
+          "context_coverage": {
+            "returned_windows": 29,
+            "episode_windows": 61
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "disagree",
+              "about",
+              "cleaning",
+              "sharpie",
+              "touch",
+              "up",
+              "line",
+              "serious"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq087-task-protection",
+          "episode": 87,
+          "question": "Did they agree every box protector was identical, and had Johnny protected all his SNES games?",
+          "missing_windows": [],
+          "required_windows": 6,
+          "context_coverage": {
+            "returned_windows": 31,
+            "episode_windows": 61
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "agree",
+              "every",
+              "box",
+              "protector",
+              "identical",
+              "johnny",
+              "protected",
+              "all",
+              "his",
+              "snes",
+              "games"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq087-task-nwc",
+          "episode": 87,
+          "question": "Why did they argue about Stadium Events and Nintendo World Championships, and did anyone buy Lizard?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 34,
+            "episode_windows": 61
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "argue",
+              "about",
+              "stadium",
+              "events",
+              "nintendo",
+              "world",
+              "championships",
+              "anyone",
+              "buy",
+              "lizard"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq087-task-manuals",
+          "episode": 87,
+          "question": "Did Tyler get his Cowlitz game or the Chiki Chiki Boys manual?",
+          "missing_windows": [],
+          "required_windows": 2,
+          "context_coverage": {
+            "returned_windows": 25,
+            "episode_windows": 61
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "tyler",
+              "get",
+              "his",
+              "cowlitz",
+              "game",
+              "chiki",
+              "boys",
+              "manual"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq087-task-printer",
+          "episode": 87,
+          "question": "What did Tyler actually make, and was box pressing described as a miracle fix?",
+          "missing_windows": [],
+          "required_windows": 4,
+          "context_coverage": {
+            "returned_windows": 31,
+            "episode_windows": 61
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "tyler",
+              "actually",
+              "make",
+              "box",
+              "pressing",
+              "described",
+              "miracle",
+              "fix"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq087-task-atari",
+          "episode": 87,
+          "question": "Which four Atari games did Johnny say he owned, and did Tyler win the double-ender?",
+          "missing_windows": [],
+          "required_windows": 2,
+          "context_coverage": {
+            "returned_windows": 34,
+            "episode_windows": 61
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "four",
+              "atari",
+              "games",
+              "johnny",
+              "say",
+              "he",
+              "owned",
+              "tyler",
+              "win",
+              "double",
+              "ender"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq087-task-discs",
+          "episode": 87,
+          "question": "What happened to Star Control II, and were they against every kind of repair?",
+          "missing_windows": [],
+          "required_windows": 5,
+          "context_coverage": {
+            "returned_windows": 40,
+            "episode_windows": 61
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "happened",
+              "star",
+              "control",
+              "ii",
+              "against",
+              "every",
+              "kind",
+              "repair"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq087-task-purchases",
+          "episode": 87,
+          "question": "Which new purchases were theirs, and why was Johnny annoyed about BattleSport?",
+          "missing_windows": [],
+          "required_windows": 5,
+          "context_coverage": {
+            "returned_windows": 47,
+            "episode_windows": 61
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "new",
+              "purchases",
+              "theirs",
+              "johnny",
+              "annoyed",
+              "about",
+              "battlesport"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "acquisitions"
+        },
+        {
+          "id": "cq087-task-mario",
+          "episode": 87,
+          "question": "Which Mario 3 version did Johnny finally get, and what did Tyler still want?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 30,
+            "episode_windows": 61
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "mario",
+              "3",
+              "version",
+              "johnny",
+              "finally",
+              "get",
+              "tyler",
+              "still",
+              "want"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq087-task-sweet",
+          "episode": 87,
+          "question": "Who actually finished Sweet Home, and how did that compare with Galactic Attack and 1-2-Switch?",
+          "missing_windows": [],
+          "required_windows": 4,
+          "context_coverage": {
+            "returned_windows": 26,
+            "episode_windows": 61
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "actually",
+              "finished",
+              "sweet",
+              "home",
+              "compare",
+              "galactic",
+              "attack",
+              "1",
+              "2",
+              "switch"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq087-task-evil",
+          "episode": 87,
+          "question": "Did Johnny finish both Evil Within games, and why did the first break his immersion?",
+          "missing_windows": [],
+          "required_windows": 5,
+          "context_coverage": {
+            "returned_windows": 31,
+            "episode_windows": 61
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "johnny",
+              "finish",
+              "both",
+              "evil",
+              "within",
+              "games",
+              "first",
+              "break",
+              "his",
+              "immersion"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq087-task-ports",
+          "episode": 87,
+          "question": "Was Tyler simply against Nintendo porting games, and was the new Smash confirmed to be a Wii U port?",
+          "missing_windows": [],
+          "required_windows": 5,
+          "context_coverage": {
+            "returned_windows": 26,
+            "episode_windows": 61
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "tyler",
+              "simply",
+              "against",
+              "nintendo",
+              "porting",
+              "games",
+              "new",
+              "smash",
+              "confirmed",
+              "wii",
+              "u",
+              "port"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "port_classification"
+        },
+        {
+          "id": "cq087-task-vr",
+          "episode": 87,
+          "question": "Why did Resident Evil 7 in VR feel different to Johnny, and had they bought new VR hardware?",
+          "missing_windows": [],
+          "required_windows": 2,
+          "context_coverage": {
+            "returned_windows": 29,
+            "episode_windows": 61
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "resident",
+              "evil",
+              "7",
+              "vr",
+              "feel",
+              "different",
+              "johnny",
+              "bought",
+              "new",
+              "hardware"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq213-scope",
+          "episode": 213,
+          "question": "Were all the items in this episode really mail-order exclusives?",
+          "missing_windows": [],
+          "required_windows": 9,
+          "context_coverage": {
+            "returned_windows": 49,
+            "episode_windows": 127
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "all",
+              "items",
+              "episode",
+              "really",
+              "mail",
+              "order",
+              "exclusives"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq213-birthday",
+          "episode": 213,
+          "question": "Why did Johnny think Birthday Mania was so cool, and do its personalized copies count as different games?",
+          "missing_windows": [],
+          "required_windows": 5,
+          "context_coverage": {
+            "returned_windows": 55,
+            "episode_windows": 127
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "johnny",
+              "think",
+              "birthday",
+              "mania",
+              "so",
+              "cool",
+              "personalized",
+              "copies",
+              "count",
+              "different",
+              "games"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq213-chuckwagon",
+          "episode": 213,
+          "question": "Was Chase the Chuck Wagon actually the holy grail, and what did Tyler pay?",
+          "missing_windows": [],
+          "required_windows": 5,
+          "context_coverage": {
+            "returned_windows": 59,
+            "episode_windows": 127
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "chase",
+              "chuck",
+              "wagon",
+              "actually",
+              "holy",
+              "grail",
+              "tyler",
+              "pay"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq213-jurassic",
+          "episode": 213,
+          "question": "What was the Jurassic Park mail-away toy, and was it exclusive?",
+          "missing_windows": [],
+          "required_windows": 6,
+          "context_coverage": {
+            "returned_windows": 52,
+            "episode_windows": 127
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "jurassic",
+              "park",
+              "mail",
+              "away",
+              "toy",
+              "exclusive"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq213-allstars",
+          "episode": 213,
+          "question": "How did the Super Mario All-Stars mail offer differ from a bundled game?",
+          "missing_windows": [],
+          "required_windows": 7,
+          "context_coverage": {
+            "returned_windows": 54,
+            "episode_windows": 127
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "super",
+              "mario",
+              "all",
+              "stars",
+              "mail",
+              "offer",
+              "differ",
+              "bundled",
+              "game"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq213-videolife",
+          "episode": 213,
+          "question": "Why was Video Life a double mail-order item, and did Scott get the auction copy?",
+          "missing_windows": [],
+          "required_windows": 5,
+          "context_coverage": {
+            "returned_windows": 86,
+            "episode_windows": 127
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "video",
+              "life",
+              "double",
+              "mail",
+              "order",
+              "item",
+              "scott",
+              "get",
+              "auction",
+              "copy"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq213-skylanders",
+          "episode": 213,
+          "question": "Did the episode prove that nobody still collects Skylanders?",
+          "missing_windows": [],
+          "required_windows": 8,
+          "context_coverage": {
+            "returned_windows": 59,
+            "episode_windows": 127
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "episode",
+              "prove",
+              "nobody",
+              "still",
+              "collects",
+              "skylanders"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq213-sidekicks",
+          "episode": 213,
+          "question": "Which Skylanders did Johnny actually get for his wife?",
+          "missing_windows": [],
+          "required_windows": 6,
+          "context_coverage": {
+            "returned_windows": 32,
+            "episode_windows": 127
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "skylanders",
+              "johnny",
+              "actually",
+              "get",
+              "his",
+              "wife"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq213-powerstrike",
+          "episode": 213,
+          "question": "Why did Tyler favor Power Strike over Buster Douglas, and did he finally get it?",
+          "missing_windows": [],
+          "required_windows": 7,
+          "context_coverage": {
+            "returned_windows": 75,
+            "episode_windows": 127
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "tyler",
+              "favor",
+              "power",
+              "strike",
+              "over",
+              "buster",
+              "douglas",
+              "he",
+              "finally",
+              "get"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq213-watch",
+          "episode": 213,
+          "question": "Was the Ninja Gaiden watch a special branded watch, and what happened to Tyler’s Mario watch?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 66,
+            "episode_windows": 127
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "ninja",
+              "gaiden",
+              "watch",
+              "special",
+              "branded",
+              "happened",
+              "tyler",
+              "s",
+              "mario"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq213-cereal",
+          "episode": 213,
+          "question": "Did Tyler collect every Nintendo cereal box he discovered?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 85,
+            "episode_windows": 127
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "tyler",
+              "collect",
+              "every",
+              "nintendo",
+              "cereal",
+              "box",
+              "he",
+              "discovered"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq213-faria",
+          "episode": 213,
+          "question": "What makes a Faria copy complete if the owner mailed away for the map?",
+          "missing_windows": [],
+          "required_windows": 6,
+          "context_coverage": {
+            "returned_windows": 72,
+            "episode_windows": 127
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "makes",
+              "faria",
+              "copy",
+              "complete",
+              "if",
+              "owner",
+              "mailed",
+              "away",
+              "map"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq213-pager",
+          "episode": 213,
+          "question": "What was special about the Rockstar pager, and did GTA really lack the sticker?",
+          "missing_windows": [],
+          "required_windows": 6,
+          "context_coverage": {
+            "returned_windows": 51,
+            "episode_windows": 127
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "special",
+              "about",
+              "rockstar",
+              "pager",
+              "gta",
+              "really",
+              "lack",
+              "sticker"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq213-gauntlet",
+          "episode": 213,
+          "question": "Were the Gauntlet mail-away miniatures the same as the N64 figure bundle?",
+          "missing_windows": [],
+          "required_windows": 6,
+          "context_coverage": {
+            "returned_windows": 51,
+            "episode_windows": 127
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "gauntlet",
+              "mail",
+              "away",
+              "miniatures",
+              "same",
+              "n64",
+              "figure",
+              "bundle"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq213-warhammer",
+          "episode": 213,
+          "question": "What should a collector check on Warhammer Dark Omen and Thousand Arms?",
+          "missing_windows": [],
+          "required_windows": 4,
+          "context_coverage": {
+            "returned_windows": 78,
+            "episode_windows": 127
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "should",
+              "collector",
+              "check",
+              "warhammer",
+              "dark",
+              "omen",
+              "thousand",
+              "arms"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq213-preserve",
+          "episode": 213,
+          "question": "Where did Tyler suggest preserving an obscure game, and did they actually upload one?",
+          "missing_windows": [],
+          "required_windows": 4,
+          "context_coverage": {
+            "returned_windows": 53,
+            "episode_windows": 127
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "tyler",
+              "suggest",
+              "preserving",
+              "obscure",
+              "game",
+              "actually",
+              "upload",
+              "one"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq213-lottery",
+          "episode": 213,
+          "question": "Would unlimited money make them collect the same way?",
+          "missing_windows": [],
+          "required_windows": 13,
+          "context_coverage": {
+            "returned_windows": 102,
+            "episode_windows": 127
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "unlimited",
+              "money",
+              "make",
+              "collect",
+              "same",
+              "way"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq213-familybasic",
+          "episode": 213,
+          "question": "Why did Tyler get Family BASIC V3, and was there really no version2?",
+          "missing_windows": [],
+          "required_windows": 5,
+          "context_coverage": {
+            "returned_windows": 28,
+            "episode_windows": 127
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "tyler",
+              "get",
+              "family",
+              "basic",
+              "v3",
+              "really",
+              "no",
+              "version2"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq213-popeye",
+          "episode": 213,
+          "question": "What mattered about Tyler’s Popeye English pickup?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 34,
+            "episode_windows": 127
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "mattered",
+              "about",
+              "tyler",
+              "s",
+              "popeye",
+              "english",
+              "pickup"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq213-exercise",
+          "episode": 213,
+          "question": "Why did Tyler buy exercise NFTs if he expected to lose money?",
+          "missing_windows": [],
+          "required_windows": 6,
+          "context_coverage": {
+            "returned_windows": 64,
+            "episode_windows": 127
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "tyler",
+              "buy",
+              "exercise",
+              "nfts",
+              "if",
+              "he",
+              "expected",
+              "lose",
+              "money"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq213-peach",
+          "episode": 213,
+          "question": "Which Peach-playable claim did they correct at the end?",
+          "missing_windows": [],
+          "required_windows": 4,
+          "context_coverage": {
+            "returned_windows": 29,
+            "episode_windows": 127
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "peach",
+              "playable",
+              "claim",
+              "correct",
+              "end"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "corrections"
+        },
+        {
+          "id": "cq213-pickups",
+          "episode": 213,
+          "question": "Which mail-order-related things did Johnny really buy, and what was still pending?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 77,
+            "episode_windows": 127
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "mail",
+              "order",
+              "related",
+              "things",
+              "johnny",
+              "really",
+              "buy",
+              "still",
+              "pending"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "acquisitions"
+        }
+      ]
+    }
+  ],
+  "limits": "Original wording, not blind paraphrases. Required-window retrieval only; read context to judge claims. High returned-window coverage is reported, not treated as precision or semantic correctness."
+}

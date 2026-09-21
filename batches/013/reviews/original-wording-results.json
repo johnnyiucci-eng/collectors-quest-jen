@@ -1,0 +1,1297 @@
+{
+  "passed": 48,
+  "total": 48,
+  "excluded": 0,
+  "results": [
+    {
+      "collection": "batches/013",
+      "passed": 48,
+      "total": 48,
+      "excluded_without_original_question": [],
+      "cases": [
+        {
+          "id": "cq019-task-scope",
+          "episode": 19,
+          "question": "Did they say reproductions and ROM downloads were legal?",
+          "missing_windows": [],
+          "required_windows": 6,
+          "context_coverage": {
+            "returned_windows": 24,
+            "episode_windows": 31
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "say",
+              "reproductions",
+              "rom",
+              "downloads",
+              "legal"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq019-task-definitions",
+          "episode": 19,
+          "question": "How did they separate a homebrew from a hack and a reproduction?",
+          "missing_windows": [],
+          "required_windows": 6,
+          "context_coverage": {
+            "returned_windows": 30,
+            "episode_windows": 31
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "separate",
+              "homebrew",
+              "hack",
+              "reproduction"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq019-task-stadium",
+          "episode": 19,
+          "question": "Why did both hosts buy Stadium Events repros but still say their sets were incomplete?",
+          "missing_windows": [],
+          "required_windows": 4,
+          "context_coverage": {
+            "returned_windows": 24,
+            "episode_windows": 31
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "both",
+              "hosts",
+              "buy",
+              "stadium",
+              "events",
+              "repros",
+              "but",
+              "still",
+              "say",
+              "sets",
+              "incomplete"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq019-task-collection",
+          "episode": 19,
+          "question": "How many repros did Johnny have, and were they mixed into his licensed collection?",
+          "missing_windows": [],
+          "required_windows": 2,
+          "context_coverage": {
+            "returned_windows": 22,
+            "episode_windows": 31
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "many",
+              "repros",
+              "johnny",
+              "mixed",
+              "into",
+              "his",
+              "licensed",
+              "collection"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq019-task-reward",
+          "episode": 19,
+          "question": "Did Johnny get a working SNES cartridge of Mighty No. 9?",
+          "missing_windows": [],
+          "required_windows": 2,
+          "context_coverage": {
+            "returned_windows": 22,
+            "episode_windows": 31
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "johnny",
+              "get",
+              "working",
+              "snes",
+              "cartridge",
+              "mighty",
+              "no",
+              "9"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq019-task-supercopa",
+          "episode": 19,
+          "question": "Was Johnny's Super Copa a fake, and did he sell it?",
+          "missing_windows": [],
+          "required_windows": 4,
+          "context_coverage": {
+            "returned_windows": 24,
+            "episode_windows": 31
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "johnny",
+              "s",
+              "super",
+              "copa",
+              "fake",
+              "he",
+              "sell"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq019-task-pirates",
+          "episode": 19,
+          "question": "What were the two Harry Potter games Johnny bought, and had they arrived?",
+          "missing_windows": [],
+          "required_windows": 4,
+          "context_coverage": {
+            "returned_windows": 29,
+            "episode_windows": 31
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "two",
+              "harry",
+              "potter",
+              "games",
+              "johnny",
+              "bought",
+              "arrived"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "acquisitions"
+        },
+        {
+          "id": "cq019-task-batman",
+          "episode": 19,
+          "question": "Did Kat buy or play the Mega Drive LEGO Batman pirate?",
+          "missing_windows": [],
+          "required_windows": 2,
+          "context_coverage": {
+            "returned_windows": 25,
+            "episode_windows": 31
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "kat",
+              "buy",
+              "play",
+              "mega",
+              "drive",
+              "lego",
+              "batman",
+              "pirate"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq019-task-play",
+          "episode": 19,
+          "question": "What were they actually playing, rather than planning to play?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 31,
+            "episode_windows": 31
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "actually",
+              "playing",
+              "rather",
+              "than",
+              "planning",
+              "play"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq019-task-rivalry",
+          "episode": 19,
+          "question": "Why did Kat like playing Mario Kart with John, and was he Johnny?",
+          "missing_windows": [],
+          "required_windows": 2,
+          "context_coverage": {
+            "returned_windows": 24,
+            "episode_windows": 31
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "kat",
+              "like",
+              "playing",
+              "mario",
+              "kart",
+              "john",
+              "he",
+              "johnny"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq019-task-valentine",
+          "episode": 19,
+          "question": "What did Johnny and his wife plan for Valentine's Day—video games or something else?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 25,
+            "episode_windows": 31
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "johnny",
+              "his",
+              "wife",
+              "plan",
+              "valentine",
+              "s",
+              "day",
+              "video",
+              "games",
+              "something",
+              "else"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq019-task-rank",
+          "episode": 19,
+          "question": "Which individual games received the most meaningful discussion?",
+          "missing_windows": [],
+          "required_windows": 11,
+          "context_coverage": {
+            "returned_windows": 29,
+            "episode_windows": 31
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "individual",
+              "games",
+              "received",
+              "most",
+              "meaningful",
+              "discussion"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "game_prominence"
+        },
+        {
+          "id": "cq086-task-rank",
+          "episode": 86,
+          "question": "Which three games got the most discussion, and is there a clear third place?",
+          "missing_windows": [],
+          "required_windows": 25,
+          "context_coverage": {
+            "returned_windows": 39,
+            "episode_windows": 40
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "three",
+              "games",
+              "got",
+              "most",
+              "discussion",
+              "clear",
+              "third",
+              "place"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "game_prominence"
+        },
+        {
+          "id": "cq086-task-scope",
+          "episode": 86,
+          "question": "Were these just games from the nineties, and was it supposed to be a complete list?",
+          "missing_windows": [],
+          "required_windows": 9,
+          "context_coverage": {
+            "returned_windows": 32,
+            "episode_windows": 40
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "just",
+              "games",
+              "nineties",
+              "supposed",
+              "complete",
+              "list"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq086-task-pepsi",
+          "episode": 86,
+          "question": "Why is a game called Pepsi Invaders actually associated with Coke, and what appealed to them about Pepsiman?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 26,
+            "episode_windows": 40
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "game",
+              "called",
+              "pepsi",
+              "invaders",
+              "actually",
+              "associated",
+              "coke",
+              "appealed",
+              "about",
+              "pepsiman"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq086-task-japan",
+          "episode": 86,
+          "question": "What were the Japanese Mario and Gradius food promotions, and did the expensive-game guess hold up?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 30,
+            "episode_windows": 40
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "japanese",
+              "mario",
+              "gradius",
+              "food",
+              "promotions",
+              "expensive",
+              "game",
+              "guess",
+              "hold",
+              "up"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq086-task-noid",
+          "episode": 86,
+          "question": "Did Johnny actually like Yo-Noid as a kid, and what was the mascot supposed to do?",
+          "missing_windows": [],
+          "required_windows": 2,
+          "context_coverage": {
+            "returned_windows": 31,
+            "episode_windows": 40
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "johnny",
+              "actually",
+              "like",
+              "yo",
+              "noid",
+              "kid",
+              "mascot",
+              "supposed"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq086-task-spot",
+          "episode": 86,
+          "question": "How do the Spot games fit together, and which one was the PlayStation game?",
+          "missing_windows": [],
+          "required_windows": 6,
+          "context_coverage": {
+            "returned_windows": 25,
+            "episode_windows": 40
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "spot",
+              "games",
+              "fit",
+              "together",
+              "one",
+              "playstation",
+              "game"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq086-task-pinball",
+          "episode": 86,
+          "question": "Did either host get the Domino's pinball machine or finish a Zelda one?",
+          "missing_windows": [],
+          "required_windows": 2,
+          "context_coverage": {
+            "returned_windows": 19,
+            "episode_windows": 40
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "either",
+              "host",
+              "get",
+              "domino",
+              "s",
+              "pinball",
+              "machine",
+              "finish",
+              "zelda",
+              "one"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq086-task-mayo",
+          "episode": 86,
+          "question": "Who got the mayonnaise game, and did they obtain it by mailing in jar labels?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 36,
+            "episode_windows": 40
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "got",
+              "mayonnaise",
+              "game",
+              "obtain",
+              "by",
+              "mailing",
+              "jar",
+              "labels"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq086-task-mckids",
+          "episode": 86,
+          "question": "Did they agree M.C. Kids was terrible, and what other McDonald's games stood out?",
+          "missing_windows": [],
+          "required_windows": 5,
+          "context_coverage": {
+            "returned_windows": 26,
+            "episode_windows": 40
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "agree",
+              "m",
+              "c",
+              "kids",
+              "terrible",
+              "other",
+              "mcdonald",
+              "s",
+              "games",
+              "stood",
+              "out"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq086-task-skittles",
+          "episode": 86,
+          "question": "Was Darkened Skye just carrying a Skittles ad, and did it include candy?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 30,
+            "episode_windows": 40
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "darkened",
+              "skye",
+              "just",
+              "carrying",
+              "skittles",
+              "ad",
+              "include",
+              "candy"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq086-task-burger",
+          "episode": 86,
+          "question": "Which three Burger King games did they name, and did Tyler pay for them?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 26,
+            "episode_windows": 40
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "three",
+              "burger",
+              "king",
+              "games",
+              "name",
+              "tyler",
+              "pay"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq086-task-hardware",
+          "episode": 86,
+          "question": "What branded hardware did they mention near the end, and did anyone win it?",
+          "missing_windows": [],
+          "required_windows": 2,
+          "context_coverage": {
+            "returned_windows": 28,
+            "episode_windows": 40
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "branded",
+              "hardware",
+              "mention",
+              "near",
+              "end",
+              "anyone",
+              "win"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq086-task-mms",
+          "episode": 86,
+          "question": "What M&M titles were in the rapid list, and was that the complete catalog?",
+          "missing_windows": [],
+          "required_windows": 4,
+          "context_coverage": {
+            "returned_windows": 24,
+            "episode_windows": 40
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "m",
+              "titles",
+              "rapid",
+              "list",
+              "complete",
+              "catalog"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq086-task-updates",
+          "episode": 86,
+          "question": "What did Tyler and Johnny actually buy and play at the end?",
+          "missing_windows": [],
+          "required_windows": 2,
+          "context_coverage": {
+            "returned_windows": 27,
+            "episode_windows": 40
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "tyler",
+              "johnny",
+              "actually",
+              "buy",
+              "play",
+              "end"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq212-status",
+          "episode": 212,
+          "question": "What made someone a cool game collector in the mid-2000s, and does that still apply?",
+          "missing_windows": [],
+          "required_windows": 7,
+          "context_coverage": {
+            "returned_windows": 76,
+            "episode_windows": 135
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "made",
+              "someone",
+              "cool",
+              "game",
+              "collector",
+              "mid",
+              "2000s",
+              "still",
+              "apply"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq212-panesian",
+          "episode": 212,
+          "question": "Which three NES porn games did they mean, and were they saying to buy them?",
+          "missing_windows": [],
+          "required_windows": 2,
+          "context_coverage": {
+            "returned_windows": 92,
+            "episode_windows": 135
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "three",
+              "nes",
+              "porn",
+              "games",
+              "mean",
+              "saying",
+              "buy"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "acquisitions"
+        },
+        {
+          "id": "cq212-tetris",
+          "episode": 212,
+          "question": "Why did Tengen Tetris lose some of its status if it was considered the better version?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 74,
+            "episode_windows": 135
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "tengen",
+              "tetris",
+              "lose",
+              "some",
+              "status",
+              "if",
+              "considered",
+              "better",
+              "version"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq212-variant-stock",
+          "episode": 212,
+          "question": "Did finding more copies make the rare NES games identical or no longer rare?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 87,
+            "episode_windows": 135
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "finding",
+              "more",
+              "copies",
+              "make",
+              "rare",
+              "nes",
+              "games",
+              "identical",
+              "no",
+              "longer"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq212-m82",
+          "episode": 212,
+          "question": "What happened to Tyler’s supposedly coolest NES demo unit?",
+          "missing_windows": [],
+          "required_windows": 4,
+          "context_coverage": {
+            "returned_windows": 72,
+            "episode_windows": 135
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "happened",
+              "tyler",
+              "s",
+              "supposedly",
+              "coolest",
+              "nes",
+              "demo",
+              "unit"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq212-cabinets",
+          "episode": 212,
+          "question": "Why didn’t Tyler get a World of Nintendo cabinet?",
+          "missing_windows": [],
+          "required_windows": 5,
+          "context_coverage": {
+            "returned_windows": 65,
+            "episode_windows": 135
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "didn",
+              "t",
+              "tyler",
+              "get",
+              "world",
+              "nintendo",
+              "cabinet"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq212-prototypes",
+          "episode": 212,
+          "question": "Which prototype story was an actual purchase, and which was a missed chance?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 42,
+            "episode_windows": 135
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "prototype",
+              "story",
+              "actual",
+              "purchase",
+              "missed",
+              "chance"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq212-decor",
+          "episode": 212,
+          "question": "Were the Mario mug and Nintendo trash can the prestige items?",
+          "missing_windows": [],
+          "required_windows": 6,
+          "context_coverage": {
+            "returned_windows": 70,
+            "episode_windows": 135
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "mario",
+              "mug",
+              "nintendo",
+              "trash",
+              "can",
+              "prestige",
+              "items"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq212-dogbone",
+          "episode": 212,
+          "question": "Why did Tyler turn against the NES top-loader and dogbone controller?",
+          "missing_windows": [],
+          "required_windows": 4,
+          "context_coverage": {
+            "returned_windows": 60,
+            "episode_windows": 135
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "tyler",
+              "turn",
+              "against",
+              "nes",
+              "top",
+              "loader",
+              "dogbone",
+              "controller"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq212-rarity",
+          "episode": 212,
+          "question": "Why bring up a Carlos Santana disc during a Neo Geo discussion?",
+          "missing_windows": [],
+          "required_windows": 4,
+          "context_coverage": {
+            "returned_windows": 59,
+            "episode_windows": 135
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "bring",
+              "up",
+              "carlos",
+              "santana",
+              "disc",
+              "during",
+              "neo",
+              "geo",
+              "discussion"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq212-vectrex",
+          "episode": 212,
+          "question": "Did they dislike Vectrex only because they had emulated it?",
+          "missing_windows": [],
+          "required_windows": 6,
+          "context_coverage": {
+            "returned_windows": 34,
+            "episode_windows": 135
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "dislike",
+              "vectrex",
+              "only",
+              "because",
+              "emulated"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq212-display",
+          "episode": 212,
+          "question": "Was Framemeister definitely a2007 must-have, and what TV should I buy from this episode?",
+          "missing_windows": [],
+          "required_windows": 8,
+          "context_coverage": {
+            "returned_windows": 72,
+            "episode_windows": 135
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "framemeister",
+              "definitely",
+              "a2007",
+              "must",
+              "tv",
+              "should",
+              "buy",
+              "episode"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq212-magazines",
+          "episode": 212,
+          "question": "Who got rid of Nintendo Power, and who was still trying to finish it?",
+          "missing_windows": [],
+          "required_windows": 5,
+          "context_coverage": {
+            "returned_windows": 25,
+            "episode_windows": 135
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "got",
+              "rid",
+              "nintendo",
+              "power",
+              "still",
+              "trying",
+              "finish"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq212-pc-divide",
+          "episode": 212,
+          "question": "Why was Tyler annoyed about Half-Life PS2 and StarCraft64?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 39,
+            "episode_windows": 135
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "tyler",
+              "annoyed",
+              "about",
+              "half",
+              "life",
+              "ps2",
+              "starcraft64"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq212-rebuild",
+          "episode": 212,
+          "question": "If they lost their collections, would they build full sets again?",
+          "missing_windows": [],
+          "required_windows": 6,
+          "context_coverage": {
+            "returned_windows": 73,
+            "episode_windows": 135
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "if",
+              "lost",
+              "collections",
+              "build",
+              "full",
+              "sets",
+              "again"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq212-snowball",
+          "episode": 212,
+          "question": "How did Tyler accidentally end up with a SegaCD set?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 40,
+            "episode_windows": 135
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "tyler",
+              "accidentally",
+              "end",
+              "up",
+              "segacd",
+              "set"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq212-condition",
+          "episode": 212,
+          "question": "What practical advice would they give their earlier collecting selves?",
+          "missing_windows": [],
+          "required_windows": 4,
+          "context_coverage": {
+            "returned_windows": 33,
+            "episode_windows": 135
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "practical",
+              "advice",
+              "give",
+              "earlier",
+              "collecting",
+              "selves"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq212-steamdeck",
+          "episode": 212,
+          "question": "Did Johnny actually get and use the Steam Deck they had talked about?",
+          "missing_windows": [],
+          "required_windows": 2,
+          "context_coverage": {
+            "returned_windows": 43,
+            "episode_windows": 135
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "johnny",
+              "actually",
+              "get",
+              "use",
+              "steam",
+              "deck",
+              "talked",
+              "about"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq212-pickups",
+          "episode": 212,
+          "question": "What did Tyler actually buy, and was Dungeons of Daggorath Josh’s copy?",
+          "missing_windows": [],
+          "required_windows": 2,
+          "context_coverage": {
+            "returned_windows": 31,
+            "episode_windows": 135
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "tyler",
+              "actually",
+              "buy",
+              "dungeons",
+              "daggorath",
+              "josh",
+              "s",
+              "copy"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq212-gta",
+          "episode": 212,
+          "question": "Were Johnny’s GTA pickup and the mistaken discount the same purchase?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 39,
+            "episode_windows": 135
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "johnny",
+              "s",
+              "gta",
+              "pickup",
+              "mistaken",
+              "discount",
+              "same",
+              "purchase"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq212-wii-variant",
+          "episode": 212,
+          "question": "Was Johnny done buying Wii things after completing the set?",
+          "missing_windows": [],
+          "required_windows": 1,
+          "context_coverage": {
+            "returned_windows": 90,
+            "episode_windows": 135
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "johnny",
+              "done",
+              "buying",
+              "wii",
+              "things",
+              "after",
+              "completing",
+              "set"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq212-funko",
+          "episode": 212,
+          "question": "Was Johnny’s Funko catalog just another plan, or did he actually build it?",
+          "missing_windows": [],
+          "required_windows": 7,
+          "context_coverage": {
+            "returned_windows": 73,
+            "episode_windows": 135
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "johnny",
+              "s",
+              "funko",
+              "catalog",
+              "just",
+              "another",
+              "plan",
+              "he",
+              "actually",
+              "build"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        }
+      ]
+    }
+  ],
+  "limits": "Original wording, not blind paraphrases. Required-window retrieval only; read context to judge claims. High returned-window coverage is reported, not treated as precision or semantic correctness."
+}

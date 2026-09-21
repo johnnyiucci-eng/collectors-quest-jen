@@ -1,0 +1,331 @@
+{
+  "schema_version": "1",
+  "status": "repaired_after_initial21of26",
+  "frozen_utc": "2026-09-13 08:17:53 UTC",
+  "selection_rule": "For each episode choose zero-based floor(N/4), floor(N/2), floor(3N/4) supplied transcript windows. Freeze explicit named or uniquely contextual game/product reference buckets before viewing extraction. Preserve no-title windows. Platform/edition identities distinct when contrasted; same source game can satisfy underlying and novel-variant buckets only if its evidence preserves the difference. Hardware, films, magazines, unnamed aggregate system sets and music excluded.",
+  "limits": "Deterministic bounded source-first sample; not a blind statistical archive recall estimate. Adjacent source consulted for Gremlins, Arachnophobia novel and Layers of Fear context only; not extraction records.",
+  "windows": [
+    {
+      "batch": "007",
+      "episode": 13,
+      "source_key": "sc-240452758",
+      "location": "Paragraph 12",
+      "text": "\npieces do you feel like that’s going to kind of spark something that you’re gonna want to collect even more are you gonna be okay you’re gonna be just feeling now that’s good I think I’m gonna be no that’s good I’m trying to be right because I have I have goals beyond even 2016 if I do go over it all though it will be for Game Boy Color okay which is kind of interesting because that is one that I don’t have I don’t think I’ve ever had it’s probably the Game Boy that I know the least about oh really yeah which is I know very odd because I have friends who still have their ass from when they were younger and I but it’s something that I don’t know a lot about I do have I think one Game Boy Color game and it’s like I’m spending Crazy Castle really just just the one huh just the one it was sealed and ridiculously cheap so I have 48 Game Boy Color games and you have a favorite there’s a few games I really like for but the ones I’ve actually played in Beat the Dragon Warrior games right at Dragon Warrior 3 was really good on that because I had like a metal collecting system okay\n\n",
+      "source_window_count": 47,
+      "references": [
+        {
+          "id": "cq13-sample-Paragraph12-1",
+          "title": "Crazy Castle — exact title unresolved",
+          "quote": "Crazy Castle",
+          "reviewed_game_ids": [
+            "cq013-g003"
+          ],
+          "comparison_status": "mapped_after_review"
+        },
+        {
+          "id": "cq13-sample-Paragraph12-2",
+          "title": "Dragon Warrior series",
+          "quote": "Dragon Warrior games",
+          "reviewed_game_ids": [
+            "cq013-g036"
+          ],
+          "comparison_status": "mapped_after_review"
+        },
+        {
+          "id": "cq13-sample-Paragraph12-3",
+          "title": "Dragon Warrior III — GBC",
+          "quote": "Dragon Warrior 3",
+          "reviewed_game_ids": [
+            "cq013-g004"
+          ],
+          "comparison_status": "mapped_after_review"
+        }
+      ]
+    },
+    {
+      "batch": "007",
+      "episode": 13,
+      "source_key": "sc-240452758",
+      "location": "Paragraph 24",
+      "text": "\ncuz I’m not sure that those two would be acceptable together but still I mean I guess if you had to think about size it’s probably the most versatile yeah also if you needed one to smuggle into prison like I would probably choose the micro are you planning on a trip to prison I’m not but there I mean you could know people there I don’t know what your life is like no no I’m not planning for 2016 to go to prison I think I will just keep my you know I’m good it could be people you know I’m not I mean you’re only a low-level criminal and you’re probably never gonna get caught so it’s probably fine and whatever it’s Canadian jail so who cares right well everything I’m sure in my game room it’s legitimate I think I hope who knows maybe there’s a story to something in there so what is Canadian prison like I don’t know I’ve never been to prison I assume the same as US prison you assume I don’t know isn’t it all the same we know you know cat no come clean tell us Canadian jail I’m sorry guys I’ve got no insight on this one nor do I really have much insight on how the jail system works\n\n",
+      "source_window_count": 47,
+      "references": []
+    },
+    {
+      "batch": "007",
+      "episode": 13,
+      "source_key": "sc-240452758",
+      "location": "Paragraph 36",
+      "text": "\nlike okay well I don’t know where I went wrong I was just gonna collect it like for me it’s like I was just gonna collect the games I beat as a kid on the Nintendo and Super Nintendo this is my life I know and I think that kind of scares me more about entering this not with a plan because usually I have a plan I’m not kind of like oh I’m just gonna float and see what happens so I think that’s almost a little bit more scary because I can be like well just gonna get one more I’m just gonna get one more I’m just gonna get one more because I have no reason to not just get one more I have no plan well and you can really do really yourself there too because you’re like well I’ll just get this one limited edition you’re like well and then that one then you’re like well there’s only two other limited edition ones yeah I might as well just have all of them I mean why just have only two I mean you know you get into that kind of mindset and yeah that’s how it snowballs yeah so maybe a year from now I’m gonna have like every Game Boy ever and that’s not\n\n",
+      "source_window_count": 47,
+      "references": []
+    },
+    {
+      "batch": "007",
+      "episode": 80,
+      "source_key": "sc-362816366",
+      "location": "Paragraph 12",
+      "text": "\ndoesn’t fit other times. So there’s no rhyme or reason. Yes. Just like Johnny doesn’t consider Super Mario Sunshine a Mario game. A Super Mario game even. It’s not that I don’t consider it a Super Mario... I just think we should try to ignore it. It just doesn’t exist at all. We should pretend it doesn’t exist, because it’s the worst Mario game. And I’m including Mario Parties in that, and I hate Mario Parties. Well, you think Mario Party 9 is better than Super Mario Sunshine? Yep. I’m just saying, I’m more likely to play Super Mario Party, or Mario Party, than Super Mario Sunshine. Super Mario Party sounds like it would be pretty awesome. Wait till it gets there, then it’ll fuck up your list some more. Also, Mario Sunshine, you know, that one’s got a few label variants if you care about such a thing. It’s got like a knot for resale. That game is just... Does anyone like Mario at the beach? Is that a thing people like? Kat, do you like Mario at the beach? I did not like that game at all. I’m terrible for not giving games a chance, so I probably got like five minutes into it, and then I was like, \"I’m done!\" No, I’ve never played it again. That\n\n",
+      "source_window_count": 45,
+      "references": [
+        {
+          "id": "cq80-sample-Paragraph12-1",
+          "title": "Super Mario Sunshine",
+          "quote": "Super Mario Sunshine",
+          "reviewed_game_ids": [
+            "cq080-g021"
+          ],
+          "comparison_status": "mapped_after_review"
+        },
+        {
+          "id": "cq80-sample-Paragraph12-2",
+          "title": "Mario Party series",
+          "quote": "Mario Parties",
+          "reviewed_game_ids": [
+            "cq080-g015"
+          ],
+          "comparison_status": "mapped_after_review"
+        },
+        {
+          "id": "cq80-sample-Paragraph12-3",
+          "title": "Mario Party 9",
+          "quote": "Mario Party 9",
+          "reviewed_game_ids": [
+            "cq080-g022"
+          ],
+          "comparison_status": "mapped_after_review"
+        },
+        {
+          "id": "cq80-sample-Paragraph12-4",
+          "title": "Super Mario Party — hypothetical 2017 name",
+          "quote": "Super Mario Party sounds",
+          "reviewed_game_ids": [
+            "cq080-g023"
+          ],
+          "comparison_status": "mapped_after_review"
+        }
+      ]
+    },
+    {
+      "batch": "007",
+      "episode": 80,
+      "source_key": "sc-362816366",
+      "location": "Paragraph 23",
+      "text": "\nabout as far as just a Super Mario... Super Mario 3D land, did you like that one? I liked that one. That game...I thought that was really good, right? Especially on, like, a mobile console. I’m like, wow, a good 3D portable Mario game. This is crazy. Yeah. Pretty good. And then Mario Kart 7 was kind of like an amazing Mario Kart, actually. That’s a lot coming from you and a portable. I know. You know what? Actually, Mario Kart DS was really good, too. I played that...like, that was one of my go-to games on trips, especially, like, the local play of someone else had a DS with you. It was really good. You know, a lot of people give grief to the Mario Kart series in general, because it’s like, oh, it’s just more Mario Kart. Or they didn’t like Double Dash or something. Like, Mario Kart is a series that, for me, has gotten better with each generation. Like, my favorite Mario Kart is now Mario Kart on the Switch, which is just a remix of the Wii U one. Or a remake. And I think that is great. I bought it again happily and, you know, still play it. It’s an amazing game. I just do not care about Mario Kart. Mario Kart DS is\n\n",
+      "source_window_count": 45,
+      "references": [
+        {
+          "id": "cq80-sample-Paragraph23-1",
+          "title": "Super Mario 3D Land",
+          "quote": "Super Mario 3D land",
+          "reviewed_game_ids": [
+            "cq080-g052"
+          ],
+          "comparison_status": "mapped_after_review"
+        },
+        {
+          "id": "cq80-sample-Paragraph23-2",
+          "title": "Mario Kart 7",
+          "quote": "Mario Kart 7",
+          "reviewed_game_ids": [
+            "cq080-g053"
+          ],
+          "comparison_status": "mapped_after_review"
+        },
+        {
+          "id": "cq80-sample-Paragraph23-3",
+          "title": "Mario Kart DS",
+          "quote": "Mario Kart DS",
+          "reviewed_game_ids": [
+            "cq080-g054"
+          ],
+          "comparison_status": "mapped_after_review"
+        },
+        {
+          "id": "cq80-sample-Paragraph23-4",
+          "title": "Mario Kart series",
+          "quote": "Mario Kart series",
+          "reviewed_game_ids": [
+            "cq080-g018"
+          ],
+          "comparison_status": "mapped_after_review"
+        },
+        {
+          "id": "cq80-sample-Paragraph23-5",
+          "title": "Mario Kart: Double Dash!!",
+          "quote": "Double Dash",
+          "reviewed_game_ids": [
+            "cq080-g071"
+          ],
+          "comparison_status": "mapped_after_review"
+        },
+        {
+          "id": "cq80-sample-Paragraph23-6",
+          "title": "Mario Kart 8 Deluxe — Switch contextual identity",
+          "quote": "Mario Kart on the Switch",
+          "reviewed_game_ids": [
+            "cq080-g056"
+          ],
+          "comparison_status": "mapped_after_review"
+        },
+        {
+          "id": "cq80-sample-Paragraph23-7",
+          "title": "Mario Kart 8 — Wii U contextual identity",
+          "quote": "Wii U one",
+          "reviewed_game_ids": [
+            "cq080-g055"
+          ],
+          "comparison_status": "mapped_after_review"
+        }
+      ]
+    },
+    {
+      "batch": "007",
+      "episode": 80,
+      "source_key": "sc-362816366",
+      "location": "Paragraph 34",
+      "text": "\nmake more music? Not that when I played through some of it, I was like, what is this? I’m sure I’ve never heard it. I think we mainly just downloaded it for that one song. Yeah. Are we talking about Aqua or no doubt now? We moved on to Aqua. Aqua. Oh, they’re, I don’t know if it’s the newest album anymore, but I think Megalomania is the name of it. It’s real good. They got a song called Playmate to Jesus to segue back into that. One of my favorite Aqua songs. People have favorite Aqua songs? Oh, I love Aqua. I’m not just a Barbie girl fan. I’m not no like sunny weather Barbie girl fan. I’m way into all of Aqua’s discography. You’re not into, you’re just not some Hollaback girl. You’re a full Aqua fan. There we go. Yes. That shit is bananas. B-A-N-A-N-A-S. You guys need to listen to CDs. That’s where my music tastes come from. It’s basically whatever people donate to Goodwill is what I’ll listen to. Okay, Kat, do you think Tyler’s music tastes can be trusted? And I ask all of Instagram this, but we’ll go with you first, Kat. Does anyone who really know, like who knows more than like two Aqua songs should be trusted? Okay, do you have\n\n",
+      "source_window_count": 45,
+      "references": []
+    },
+    {
+      "batch": "007",
+      "episode": 206,
+      "source_key": "sc-1369678939",
+      "location": "00:09:37",
+      "text": "\ncall of cthulu to to let you know that's 20 bucks and like innocence is 25 bucks and then Ream's like $40 on their website put them all together you get 10% off your first order you'll save some money and down the line you may have yourself a collectible now let's get into the next the next zone of limited print games okay I'm sorry we just have to talk about it it it's it's going to be in modern gaming when we start to talk about print runs of physical games companies like limited run games especially for like PS4 titles when it's not like switch and they just did an open pre-order for Xbox uh not Xbox for PS4 stuff they did like print runs of 2,500 and stuff so we got to talk about those games and if a game is going to be expensive later and if people are collecting sets this these games are going to be a problem or or if people are filling out their collections of these types of games you know horror FMV then they're going to have to go and there's not going to be that many copies around 1500 kind of seems like a lot but when you think about the millions uh and\n\n",
+      "source_window_count": 37,
+      "references": [
+        {
+          "id": "cq206-sample-000937-1",
+          "title": "Call of Cthulhu",
+          "quote": "call of cthulu",
+          "reviewed_game_ids": [
+            "cq206-g007"
+          ],
+          "comparison_status": "mapped_after_review"
+        },
+        {
+          "id": "cq206-sample-000937-2",
+          "title": "A Plague Tale: Innocence",
+          "quote": "innocence",
+          "reviewed_game_ids": [
+            "cq206-g008"
+          ],
+          "comparison_status": "mapped_after_review"
+        },
+        {
+          "id": "cq206-sample-000937-3",
+          "title": "A Plague Tale: Requiem",
+          "quote": "Ream",
+          "reviewed_game_ids": [
+            "cq206-g009"
+          ],
+          "comparison_status": "mapped_after_review"
+        }
+      ]
+    },
+    {
+      "batch": "007",
+      "episode": 206,
+      "source_key": "sc-1369678939",
+      "location": "00:19:12",
+      "text": "\nfuture we're talking so these are these are a good bet because people like them they are well reviewed like I said people come back to them they are also games which have sequels for them coming out layers of fear they've talked about making another one Outlast already has Outlast one and two and there's talk of a third one so these are becoming series and these are the original of Series so if it's building that kind of cache you can expect that people are going to want to come back to the first physical releases that they can find and if these are them it should carry that that value even further but it's not like these are just cheap now the PlayStation version's about $100 and you sometimes you can find it for as low as like 70 I see people listing as high as 150 the switch version is like 120 to 15 50 seeing it as high as 200 sometimes depending on what the demand is limited run made a lot of these I don't know if the PS4 version was like only x amount of copies I do know layers of fear for the switch\n\n",
+      "source_window_count": 37,
+      "references": [
+        {
+          "id": "cq206-sample-001912-1",
+          "title": "Layers of Fear — PS4",
+          "quote": "PlayStation version",
+          "reviewed_game_ids": [
+            "cq206-g020"
+          ],
+          "comparison_status": "mapped_after_review"
+        },
+        {
+          "id": "cq206-sample-001912-2",
+          "title": "Layers of Fear: Legacy — Switch",
+          "quote": "switch version",
+          "reviewed_game_ids": [
+            "cq206-g019"
+          ],
+          "comparison_status": "mapped_after_review"
+        },
+        {
+          "id": "cq206-sample-001912-3",
+          "title": "Outlast",
+          "quote": "Outlast one",
+          "reviewed_game_ids": [
+            "cq206-g012"
+          ],
+          "comparison_status": "mapped_after_review"
+        },
+        {
+          "id": "cq206-sample-001912-4",
+          "title": "Outlast 2",
+          "quote": "two",
+          "reviewed_game_ids": [
+            "cq206-g013"
+          ],
+          "comparison_status": "mapped_after_review"
+        },
+        {
+          "id": "cq206-sample-001912-5",
+          "title": "Outlast third game — prospective, exact title unresolved",
+          "quote": "talk of a third one",
+          "reviewed_game_ids": [
+            "cq206-g048"
+          ],
+          "comparison_status": "mapped_after_review"
+        }
+      ]
+    },
+    {
+      "batch": "007",
+      "episode": 206,
+      "source_key": "sc-1369678939",
+      "location": "00:28:37",
+      "text": "\nif people are into this whole genre you can start to see how the price could pick up I'm not saying it will but if I'm trying to predict the future and I'm into horror and I'm into FMV I would definitely be tar getting these games first so that's nightbook I saw black clouds the Infectious Madness of Dr Decker and simulakra the Infectious Madness of Dr Decker is kind of an an interesting one you take the role of a psychiatrist who is taking over patients from another psychiatrist who was killed or disappeared and it's lovecraftian it's got a great cover that one does nightbook bad cover this one good cover simulacra has like a weird take that you are you are you are investigating through a phone of a girl who's gone missing trying to uncover what happened through the details in her phone and her life and it deals with some ult stuff I saw black cloud just more psychological but these are all limited run games FMV\n\n",
+      "source_window_count": 37,
+      "references": [
+        {
+          "id": "cq206-sample-002837-1",
+          "title": "Night Book",
+          "quote": "nightbook",
+          "reviewed_game_ids": [
+            "cq206-g030"
+          ],
+          "comparison_status": "mapped_after_review"
+        },
+        {
+          "id": "cq206-sample-002837-2",
+          "title": "I Saw Black Clouds",
+          "quote": "I saw black clouds",
+          "reviewed_game_ids": [
+            "cq206-g032"
+          ],
+          "comparison_status": "mapped_after_review"
+        },
+        {
+          "id": "cq206-sample-002837-3",
+          "title": "The Infectious Madness of Doctor Dekker",
+          "quote": "Infectious Madness of Dr Decker",
+          "reviewed_game_ids": [
+            "cq206-g033"
+          ],
+          "comparison_status": "mapped_after_review"
+        },
+        {
+          "id": "cq206-sample-002837-4",
+          "title": "Simulacra",
+          "quote": "simulakra",
+          "reviewed_game_ids": [
+            "cq206-g034"
+          ],
+          "comparison_status": "mapped_after_review"
+        }
+      ]
+    }
+  ],
+  "comparison_note": "Actual first validator result21/26: missing Dragon Warrior series13; Mario Kart8WiiU P23 return80; Outlast1/2 P19:12 returns206; distinct prospective thirdOutlast206. Keep all26 original reference buckets and three no-title windows. Repairs are recorded in episode audits."
+}

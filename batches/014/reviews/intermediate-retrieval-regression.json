@@ -1,0 +1,7 @@
+{
+  "stage": "After source-supported peer repairs and initial generic routes",
+  "tuned_passed": 51,
+  "total": 52,
+  "failure": {"id":"cq213-pickups","missing_windows":["01:49:37","01:50:41","01:51:45"]},
+  "meaning": "Scope case recovered, but ordinary things-did-buy phrasing still missed actual acquisition context. Required windows and questions preserved. Later generic acquisition repair is separately evaluated."
+}

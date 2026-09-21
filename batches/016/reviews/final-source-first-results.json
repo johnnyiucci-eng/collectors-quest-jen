@@ -1,0 +1,161 @@
+{
+  "windows": 9,
+  "total": 17,
+  "passed": 17,
+  "no_title_windows": 2,
+  "results": [
+    {
+      "id": "cq22-sample-39-1",
+      "episode": 22,
+      "location": "Paragraph 40",
+      "title": "Life Is Strange",
+      "spans": [
+        "cq022-span-042-1"
+      ]
+    },
+    {
+      "id": "cq89-sample-20-1",
+      "episode": 89,
+      "location": "Paragraph 21",
+      "title": "Mind Teaser",
+      "spans": [
+        "cq089-span-045-2"
+      ]
+    },
+    {
+      "id": "cq89-sample-20-2",
+      "episode": 89,
+      "location": "Paragraph 21",
+      "title": "Neuro Dancer",
+      "spans": [
+        "cq089-span-049-1"
+      ]
+    },
+    {
+      "id": "cq89-sample-20-3",
+      "episode": 89,
+      "location": "Paragraph 21",
+      "title": "Invented adult-themed Tetris proposal",
+      "spans": [
+        "cq089-span-046-1"
+      ]
+    },
+    {
+      "id": "cq89-sample-40-1",
+      "episode": 89,
+      "location": "Paragraph 41",
+      "title": "American Game Gun accessory",
+      "spans": [
+        "cq089-span-043-2"
+      ]
+    },
+    {
+      "id": "cq89-sample-40-2",
+      "episode": 89,
+      "location": "Paragraph 41",
+      "title": "3DO Blaster hardware",
+      "spans": [
+        "cq089-span-086-1"
+      ]
+    },
+    {
+      "id": "cq89-sample-60-1",
+      "episode": 89,
+      "location": "Paragraph 61",
+      "title": "Unresolved comic title, not a game",
+      "spans": [
+        "cq089-span-105-1"
+      ]
+    },
+    {
+      "id": "cq215-sample-44-1",
+      "episode": 215,
+      "location": "00:47:08",
+      "title": "Pokemon Box management utility",
+      "spans": [
+        "cq215-span-031-4"
+      ]
+    },
+    {
+      "id": "cq215-sample-44-2",
+      "episode": 215,
+      "location": "00:47:08",
+      "title": "Pokemon Ruby continuation",
+      "spans": [
+        "cq215-span-093-1"
+      ]
+    },
+    {
+      "id": "cq215-sample-44-3",
+      "episode": 215,
+      "location": "00:47:08",
+      "title": "Pokemon Sapphire continuation",
+      "spans": [
+        "cq215-span-094-1"
+      ]
+    },
+    {
+      "id": "cq215-sample-89-1",
+      "episode": 215,
+      "location": "01:35:11",
+      "title": "Mario Party family continuation",
+      "spans": [
+        "cq215-span-028-4"
+      ]
+    },
+    {
+      "id": "cq215-sample-134-1",
+      "episode": 215,
+      "location": "02:22:55",
+      "title": "Char red GameCube hardware continuation",
+      "spans": [
+        "cq215-span-268-1"
+      ]
+    },
+    {
+      "id": "cq215-sample-134-2",
+      "episode": 215,
+      "location": "02:22:55",
+      "title": "Zelda-branded console package",
+      "spans": [
+        "cq215-span-269-1"
+      ]
+    },
+    {
+      "id": "cq215-sample-134-3",
+      "episode": 215,
+      "location": "02:22:55",
+      "title": "Paper Mario console package",
+      "spans": [
+        "cq215-span-269-1"
+      ]
+    },
+    {
+      "id": "cq215-sample-134-4",
+      "episode": 215,
+      "location": "02:22:55",
+      "title": "Metroid Prime lenticular console package",
+      "spans": [
+        "cq215-span-270-1"
+      ]
+    },
+    {
+      "id": "cq215-sample-134-5",
+      "episode": 215,
+      "location": "02:22:55",
+      "title": "Smash Brothers console package",
+      "spans": [
+        "cq215-span-269-1"
+      ]
+    },
+    {
+      "id": "cq215-sample-134-6",
+      "episode": 215,
+      "location": "02:22:55",
+      "title": "Mario Party 7 console package",
+      "spans": [
+        "cq215-span-269-1"
+      ]
+    }
+  ]
+}

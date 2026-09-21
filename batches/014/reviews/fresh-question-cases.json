@@ -1,0 +1,68 @@
+{
+  "schema_version": "1",
+  "scope": "Fresh source-informed reviewer wordings; become development regressions after use, not blind tests.",
+  "cases": [
+    {
+      "id": "cq20-fresh-trade",
+      "episode": 20,
+      "question": "Did Dain pay cash to acquire his Stadium Events?",
+      "required_windows": [
+        "Paragraph 41",
+        "Paragraph 42"
+      ],
+      "expected": "Traded Atari collection and received money from other party; not simple cash buy."
+    },
+    {
+      "id": "cq20-fresh-gap",
+      "episode": 20,
+      "question": "Was Battleship only an imagined missing game for Johnny?",
+      "required_windows": [
+        "Paragraph 41",
+        "Paragraph 42",
+        "Paragraph 43"
+      ],
+      "expected": "Actually missing cartridge but owned box/manual;676withoutBattleship scenario is joke."
+    },
+    {
+      "id": "cq87-fresh-bidder",
+      "episode": 87,
+      "question": "Who lost the Burning Desire and Bachelorette auction?",
+      "required_windows": [
+        "Paragraph 38"
+      ],
+      "expected": "Unlabelled turn does not securely identify bidder."
+    },
+    {
+      "id": "cq87-fresh-sequel",
+      "episode": 87,
+      "question": "Had Johnny finished Evil Within 2 or just bought it?",
+      "required_windows": [
+        "Paragraph 52",
+        "Paragraph 53",
+        "Paragraph 54"
+      ],
+      "expected": "Bought both, finished first; sequel not played yet."
+    },
+    {
+      "id": "cq213-fresh-sticker",
+      "episode": 213,
+      "question": "What happened when Johnny checked the GTA Game Boy Color pager sticker?",
+      "required_windows": [
+        "01:16:46",
+        "01:17:52",
+        "01:51:45"
+      ],
+      "expected": "Earlier absence corrected after checking box; different-sized inserts."
+    },
+    {
+      "id": "cq213-fresh-lottery",
+      "episode": 213,
+      "question": "Did the lottery discussion mean Johnny had hired cataloging staff?",
+      "required_windows": [
+        "01:37:04",
+        "01:44:18"
+      ],
+      "expected": "Hypothetical wealth/collection scenario, no actual hires."
+    }
+  ]
+}

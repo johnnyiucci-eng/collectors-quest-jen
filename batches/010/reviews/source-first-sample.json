@@ -1,0 +1,184 @@
+{
+  "schema_version": "1",
+  "status": "frozen_before_extraction_record_comparison",
+  "frozen_utc": "2026-09-13 10:37:13 UTC",
+  "selection_rule": "Zero-based floor(N/4),floor(N/2),floor(3N/4) windows. Game/game-product buckets; hardware-only and generic buying windows are explicit no-title. Adjacent CQ16P34 identifies continuing Syndicate; no extraction consulted.",
+  "limits": "11 bounded reference buckets across9 windows, not statistical recall. Contra variants share one gold title bucket; separate platform/edition claims still require extraction review.",
+  "windows": [
+    {
+      "location": "Paragraph 12",
+      "text": "\noverall, I just don’t see it going anywhere. I had a follow up question to what Kat was asking about as far as collecting. Are you aware, I’m sure you are aware of the Australian exclusive F1 performance pack? Do you have any desire to grab that? The F1 performance pack. What, what exactly does that entail? Well, it’s a bigger box and has, it comes with like a steering wheel and it was Australia only and it was a million seller title, but it, it looks pretty much like the USA box except it’s got the little square, the white square on the right hand corner with the G in it. Yeah, but it’s called the performance pack and it was a limited edition with the wheel in the game. Okay, I actually don’t think that I’ve heard of that. Oh, yeah. Well, it’s kind of expensive. If you look on eBay, it’s F1 World Grand Prix. Oh, I have never heard of it. F1, okay. I thought that you were talking about the F1 racing that I was just talking about, but no, I still, I still have not heard of that. So that’s really interesting. What is the full of that Brazilian one? What is the full title of that one? That one, let’s see, I’ve got\n\n",
+      "batch": "010",
+      "episode": 16,
+      "source_key": "sc-243666752",
+      "source_window_count": 46,
+      "references": [
+        {
+          "id": "cq16-sample-Paragraph12-1",
+          "title": "F1 World Grand Prix — Australian performance pack",
+          "quote": "F1 World Grand Prix",
+          "reviewed_game_ids": [
+            "cq016-g024"
+          ]
+        },
+        {
+          "id": "cq16-sample-Paragraph12-2",
+          "title": "F1 Racing — prior Brazilian game, exact title unresolved here",
+          "quote": "F1 racing",
+          "reviewed_game_ids": [
+            "cq016-g021"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Paragraph 24",
+      "text": "\neasy to spot a fake. And I’ve only run into fakes so far. I’ve seen three or four. That’s a shame. What do you look for? What to tell everybody else like so they don’t get burned? Yeah, yeah, absolutely. So the in the gold in on the controllers, just a sticker. That’s all it is. It’s basically a $800 sticker. And so the lines on it are all pretty much the same width and the fake ones will have varying degrees of width within the in and they’ll be real skinny, like the lines will be real skinny. It’s easy if you just if you go online and Google E3 controller, it’ll show you what a real one looks like. And you can use that and compare it when you’re looking at other ones. The other thing you can do to spot it is by the how clean the angles are on the end, because the fake ones will have some rounding on on the on the lines on some some access points where different lines meet. The real ones, they’re very crisp. They’re very sharp angles. And also, I can’t remember exactly what the measurement is on the end, but the end is a certain length down the controller. And I can’t remember exactly what that is. And\n\n",
+      "batch": "010",
+      "episode": 16,
+      "source_key": "sc-243666752",
+      "source_window_count": 46,
+      "references": []
+    },
+    {
+      "location": "Paragraph 35",
+      "text": "\nis the newest one. And it just didn’t really do it for me. I mean, it’s a good game. And the DLC that they’re putting out is pretty decent. But overall, it’s not one of my favorite Assassin’s Creed games. Oh, yeah. The only other two games I’ve been playing recently. I got a Wii U for Christmas, so I’ve been on Mario Kart 8 quite a bit. And I absolutely love it. It’s just fantastic. I think Mario Kart 8 is amazing. Oh, I mean, it’s incredible. It really is. It’s just a triumph of the creativity of Nintendo. It blows my mind. And beyond that, I’ve recently just beat Sin and Punishment for the Nintendo 64 for the first time. The import? Yes, the Japanese import. Have either one of you played it? I haven’t. I have, yes. Okay, yeah. Kat, you need to do yourself a favor and go ahead and buy that. It’s worth getting CIB because CIB, it’s about 45 and card only. You’re still looking at 30 to 35, so it’s worth the extra 15 to go ahead and get it CIB. But it’s made by Treasure, which has done a lot of cool stuff. Icaruga. Yes, yes, Icaruga. But it’s a rail shooter like Star Fox. It’s basically a 3D shmup, you know?\n\n",
+      "batch": "010",
+      "episode": 16,
+      "source_key": "sc-243666752",
+      "source_window_count": 46,
+      "references": [
+        {
+          "id": "cq16-sample-Paragraph35-1",
+          "title": "Assassin's Creed Syndicate — continuing prior paragraph",
+          "quote": "newest one",
+          "reviewed_game_ids": [
+            "cq016-g046"
+          ]
+        },
+        {
+          "id": "cq16-sample-Paragraph35-2",
+          "title": "Assassin's Creed series comparison",
+          "quote": "Assassin’s Creed games",
+          "reviewed_game_ids": [
+            "cq016-g047"
+          ]
+        },
+        {
+          "id": "cq16-sample-Paragraph35-3",
+          "title": "Mario Kart 8",
+          "quote": "Mario Kart 8",
+          "reviewed_game_ids": [
+            "cq016-g048"
+          ]
+        },
+        {
+          "id": "cq16-sample-Paragraph35-4",
+          "title": "Sin and Punishment — N64 Japanese import",
+          "quote": "Sin and Punishment",
+          "reviewed_game_ids": [
+            "cq016-g049"
+          ]
+        },
+        {
+          "id": "cq16-sample-Paragraph35-5",
+          "title": "Ikaruga",
+          "quote": "Icaruga",
+          "reviewed_game_ids": [
+            "cq016-g050"
+          ]
+        },
+        {
+          "id": "cq16-sample-Paragraph35-6",
+          "title": "Star Fox — comparison, installment unspecified",
+          "quote": "Star Fox",
+          "reviewed_game_ids": [
+            "cq016-g051"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Paragraph 13",
+      "text": "\nisn’t true with all of them, but a lot of the old ones, you buy it and it’s like, oh, it’s $29. But then if you want the box and the manual, it’s like another $15 to add on. I mean, I buy homebrew all the time. So I’m just used to that now. I just get cartridge only because I don’t care. I mean, it’s not a retail release. So what do I need the packaging for? I just want to play the game. Right. I just think it’s weird that they are like a company that sells them. They might sell you one in these, like just a cart. You could accidentally buy just a cart from them. And a lot of times they have like, PAL region on there as well. So you could get it in the PAL cart. It’s, it’s strange. It’s strange. Though they, I mean, they legitimately have some games that I would be interested in trying for like a second, but I don’t think I want to own. And they have more for than just the Super Nintendo too. They have, they have like some Genesis games and isn’t almost everything they have like an unreleased prototype though. You can’t just download that stuff. Right. Yeah. So like on a lot of\n\n",
+      "batch": "010",
+      "episode": 83,
+      "source_key": "sc-388300934",
+      "source_window_count": 50,
+      "references": []
+    },
+    {
+      "location": "Paragraph 26",
+      "text": "\nevery single limited run games release is going to be super easy to find on eBay because everyone bought them to resell them down the line. Yep. I checked on that street fighter cart. I see a buy it now right here for $270. That’s a deal because the only three that I see that sold are 300. Oh, this one’s 239. Yeah, it’s the Blanca green one, even though Blanca is not that color green. Is it cart only though? Are they are they being that kind of jerk? Okay. No, no, no, these are these are there. They’re out there in their boxes in their weird street fighter boxes. Oh my god, there are their copies of this selling under $100. This makes me so happy. Are they actually going for under $100? I see one that sold for $90 with $10 shipping. We did it. We you guys did it. Hooray. Oh man, I hope it I hope it drops to like 50. I mean, they sold 5000 of these compared to like any other like kind of low key retro release. That would be insane to sell 5000 of anything on a retro console. So who knows? Yeah, it could. Yeah, I mean, I do see a lot of them still priced at like $400 and\n\n",
+      "batch": "010",
+      "episode": 83,
+      "source_key": "sc-388300934",
+      "source_window_count": 50,
+      "references": [
+        {
+          "id": "cq83-sample-Paragraph26-1",
+          "title": "Street Fighter reissue cartridge — exact installment requires wider context",
+          "quote": "street fighter cart",
+          "reviewed_game_ids": [
+            "cq083-g001"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Paragraph 38",
+      "text": "\nMaybe watch movies. It’s fine. Tyler, please just go spend literally. You can go buy a 55-inch TCL. It’s very good TV, 4K for like $320, $350. I’m waiting for the display tech to get up there. Like there’s going to be like OLED screens that are... I really like black levels. So I want like the super black levels of an OLED screen. Those, that’s what’s cool, right? Yeah, I agree that’s cool. But by the time that comes into your price range and clearly how finicky you are about it, it’s going to be another 10 years. So just get this one to service you for the next like five years of your life or whatever. No, I can’t do that. I’m just going to live with it. You’re a monster. I got nice speakers. This sounds real nice. So I just squinted this screen. What? Like you’re like, oh yeah. Just got a horrible looking face, but sure got a nice... Like just fix it. You could fix it. You could have all. You could... Your dream bow, he could be a really handsome man with an ice body. I’m not going to buy a $300 TV. You know, I’m going to go and I’m going to get something good because I know I’m going to keep\n\n",
+      "batch": "010",
+      "episode": 83,
+      "source_key": "sc-388300934",
+      "source_window_count": 50,
+      "references": []
+    },
+    {
+      "location": "00:41:28",
+      "text": "\ntalk to you about collecting the Super Nintendo I'm approaching this from people who are like you know my age or maybe a little younger and they're like you know I'm going to collect Super Nintendo because that shit's awesome so I'm going to go do that they know what they already know what they're in for that's why I'm saying these people know what they're in for they came to collect Super Nintendo that's why it's only 10 they they don't want a 100 games they don't want 300 games they don't want a full set like or 12,000 games like some dummies on this podcast me and you they're just like I just want a couple of the sweet Super Nintendo games and if I have to offload them I probably am not losing too much money or I'm going to make money so let's get the good stuff all right all right I I understand yeah you I mean yeah if you spend $1,000 for chrona trigger you'll you'll Pro especially if you get like a nice one you'll be able to flip it in like a day and get your money back so uh yeah well who who knows going into 20123 what's going to happen we'll see collector's Quest is not a financial show and we do not give advice on to spend your money all right Tyler we diverged here what what\n\n",
+      "batch": "010",
+      "episode": 209,
+      "source_key": "sc-1391155801",
+      "source_window_count": 158,
+      "references": [
+        {
+          "id": "cq209-sample-004128-1",
+          "title": "Chrono Trigger",
+          "quote": "chrona trigger",
+          "reviewed_game_ids": [
+            "cq209-g033"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "01:23:45",
+      "text": "\nbullets lost on the screen because there's so much going on in Contra Contra three I think plays really well two people maybe I'm just forgetting how hard it was at the later level cuz I played this game when I was like 13 years old and uh we probably never beat it uh anyway count three 200 bucks I don't know medium price for me like I don't think contra 3 has a lot of Swag because it's got badass boxart and it's [ __ ] Contra and it's [ __ ] awesome but uh I don't think it has as much swag as like a first-party Nintendo game no but I think you pull in some of those people who are less familiar with the Super Nintendo and familiar with the Nintendo they're like oh [ __ ] Contra so I think you get some overlap there okay um what was I going to say is there a majesco version of this game so there's the majesco white label re-release and like that's kind of cool I guess you you might want that but if there's a regular majesco version don't get that get the first print it's got a poster and a registration card get that made in Japan Contra three all right I've got a really shocking pick here that no one's ever\n\n",
+      "batch": "010",
+      "episode": 209,
+      "source_key": "sc-1391155801",
+      "source_window_count": 158,
+      "references": [
+        {
+          "id": "cq209-sample-012345-1",
+          "title": "Contra III — first-print and Majesco variants discussed",
+          "quote": "Contra three",
+          "reviewed_game_ids": [
+            "cq209-g105"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "02:04:58",
+      "text": "\nwasn't worth either our less I'm 100% on board with that guy no I would have Tak look look if it's $1 then let it be $11 don't put or best offer on there so I understand where you're coming from cuz like why you have a best offer in my opinion like if you have a best offer on $1 item it's because you accidentally ticked the best offer field or you just have a template that automatically includes it but I mean maybe but that's not my fault that that's not me like I've set my expect not your fault but that guy gets an offer for $1 off and he's like okay [ __ ] this guy number one my first thought is [ __ ] this guy for wasting my time second thought is this guy just wants to feel like he got a win that he got something off because he's he's one of these bargainer negotiator types so I will give him 25 cents off so he feels like he has won the negot negotiation but at the same time it's a [ __ ] you for wasting my time also there was other cop the only reason I put an offer on that specific copy it was a little nicer than\n\n",
+      "batch": "010",
+      "episode": 209,
+      "source_key": "sc-1391155801",
+      "source_window_count": 158,
+      "references": []
+    }
+  ],
+  "mapping_review": "Root mapped frozen identities to existing extracted spans after source read; no frozen titles,quotes,windows or denominator changed."
+}

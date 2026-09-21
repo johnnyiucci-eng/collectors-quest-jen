@@ -1,0 +1,1353 @@
+{
+  "passed": 50,
+  "total": 50,
+  "excluded": 0,
+  "results": [
+    {
+      "collection": "batches/015",
+      "passed": 50,
+      "total": 50,
+      "excluded_without_original_question": [],
+      "cases": [
+        {
+          "id": "cq021-task-rank",
+          "episode": 21,
+          "question": "Which three games received the most discussion in this sick-day episode?",
+          "missing_windows": [],
+          "required_windows": 10,
+          "context_coverage": {
+            "returned_windows": 23,
+            "episode_windows": 27
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "three",
+              "games",
+              "received",
+              "most",
+              "discussion",
+              "sick",
+              "day",
+              "episode"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "game_prominence"
+        },
+        {
+          "id": "cq021-task-choices",
+          "episode": 21,
+          "question": "Did both hosts choose the same sort of game when sick?",
+          "missing_windows": [],
+          "required_windows": 7,
+          "context_coverage": {
+            "returned_windows": 27,
+            "episode_windows": 27
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "both",
+              "hosts",
+              "choose",
+              "same",
+              "sort",
+              "game",
+              "sick"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq021-task-vegetables",
+          "episode": 21,
+          "question": "Was Tonic Trouble Kat's choice because the name sounded medicinal?",
+          "missing_windows": [],
+          "required_windows": 6,
+          "context_coverage": {
+            "returned_windows": 26,
+            "episode_windows": 27
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "tonic",
+              "trouble",
+              "kat",
+              "s",
+              "choice",
+              "because",
+              "name",
+              "sounded",
+              "medicinal"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq021-task-controls",
+          "episode": 21,
+          "question": "Did Kat say Tonic Trouble controlled as well as Rayman?",
+          "missing_windows": [],
+          "required_windows": 4,
+          "context_coverage": {
+            "returned_windows": 24,
+            "episode_windows": 27
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "kat",
+              "say",
+              "tonic",
+              "trouble",
+              "controlled",
+              "well",
+              "rayman"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq021-task-versions",
+          "episode": 21,
+          "question": "Had Kat bought or played the handheld Tonic Trouble after seeing its price?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 26,
+            "episode_windows": 27
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "kat",
+              "bought",
+              "played",
+              "handheld",
+              "tonic",
+              "trouble",
+              "after",
+              "seeing",
+              "price"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq021-task-ports",
+          "episode": 21,
+          "question": "What did Harry Potter have to do with the handheld-versus-console discussion?",
+          "missing_windows": [],
+          "required_windows": 2,
+          "context_coverage": {
+            "returned_windows": 9,
+            "episode_windows": 27
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "harry",
+              "potter",
+              "handheld",
+              "versus",
+              "console",
+              "discussion"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq021-task-paper",
+          "episode": 21,
+          "question": "Was Kat enjoying Paper Jam as much as Sticker Star?",
+          "missing_windows": [],
+          "required_windows": 4,
+          "context_coverage": {
+            "returned_windows": 24,
+            "episode_windows": 27
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "kat",
+              "enjoying",
+              "paper",
+              "jam",
+              "much",
+              "sticker",
+              "star"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq021-task-2ds",
+          "episode": 21,
+          "question": "Why did Kat get a 2DS if she disliked holding it, and did she send it back?",
+          "missing_windows": [],
+          "required_windows": 5,
+          "context_coverage": {
+            "returned_windows": 22,
+            "episode_windows": 27
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "kat",
+              "get",
+              "2ds",
+              "if",
+              "she",
+              "disliked",
+              "holding",
+              "send",
+              "back"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq021-task-hardware",
+          "episode": 21,
+          "question": "Which Pokémon and Zelda items were already owned, and which were only being considered?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 14,
+            "episode_windows": 27
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "pokémon",
+              "zelda",
+              "items",
+              "already",
+              "owned",
+              "only",
+              "being",
+              "considered"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq021-task-kat-pickups",
+          "episode": 21,
+          "question": "What arrived for Kat, and did it finish the Master System set?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 7,
+            "episode_windows": 27
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "arrived",
+              "kat",
+              "finish",
+              "master",
+              "system",
+              "set"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq021-task-johnny-pickups",
+          "episode": 21,
+          "question": "Which new game followed Dain's advice, and what was still in the mail?",
+          "missing_windows": [],
+          "required_windows": 1,
+          "context_coverage": {
+            "returned_windows": 21,
+            "episode_windows": 27
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "new",
+              "game",
+              "followed",
+              "dain",
+              "s",
+              "advice",
+              "still",
+              "mail"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq021-task-work",
+          "episode": 21,
+          "question": "Did Johnny actually get much gaming or LEGO building done that week?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 23,
+            "episode_windows": 27
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "johnny",
+              "actually",
+              "get",
+              "much",
+              "gaming",
+              "lego",
+              "building",
+              "done",
+              "week"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq088-task-rank",
+          "episode": 88,
+          "question": "Which games received the most real discussion in this bonus recording?",
+          "missing_windows": [],
+          "required_windows": 16,
+          "context_coverage": {
+            "returned_windows": 34,
+            "episode_windows": 34
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "games",
+              "received",
+              "most",
+              "real",
+              "discussion",
+              "bonus",
+              "recording"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "game_prominence"
+        },
+        {
+          "id": "cq088-task-format",
+          "episode": 88,
+          "question": "Why does one host sound less prepared, and is this the normal planned episode?",
+          "missing_windows": [],
+          "required_windows": 5,
+          "context_coverage": {
+            "returned_windows": 29,
+            "episode_windows": 34
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "one",
+              "host",
+              "sound",
+              "less",
+              "prepared",
+              "normal",
+              "planned",
+              "episode"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq088-task-dragon",
+          "episode": 88,
+          "question": "What was Johnny's theory connecting a magazine giveaway to later console success?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 25,
+            "episode_windows": 34
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "johnny",
+              "s",
+              "theory",
+              "connecting",
+              "magazine",
+              "giveaway",
+              "later",
+              "console",
+              "success"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq088-task-variant",
+          "episode": 88,
+          "question": "How did they say to recognize the giveaway copy, and how certain is that information?",
+          "missing_windows": [],
+          "required_windows": 2,
+          "context_coverage": {
+            "returned_windows": 29,
+            "episode_windows": 34
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "say",
+              "recognize",
+              "giveaway",
+              "copy",
+              "certain",
+              "information"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq088-task-vita",
+          "episode": 88,
+          "question": "Did Johnny actually finish selling his handheld collection?",
+          "missing_windows": [],
+          "required_windows": 1,
+          "context_coverage": {
+            "returned_windows": 22,
+            "episode_windows": 34
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "johnny",
+              "actually",
+              "finish",
+              "selling",
+              "his",
+              "handheld",
+              "collection"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq088-task-switch",
+          "episode": 88,
+          "question": "What was the argument about testing demand for the first physical Switch release?",
+          "missing_windows": [],
+          "required_windows": 4,
+          "context_coverage": {
+            "returned_windows": 30,
+            "episode_windows": 34
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "argument",
+              "about",
+              "testing",
+              "demand",
+              "first",
+              "physical",
+              "switch",
+              "release"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq088-task-edition",
+          "episode": 88,
+          "question": "Why could a game suit their tastes and still annoy them as a collectible?",
+          "missing_windows": [],
+          "required_windows": 2,
+          "context_coverage": {
+            "returned_windows": 24,
+            "episode_windows": 34
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "could",
+              "game",
+              "suit",
+              "tastes",
+              "still",
+              "annoy",
+              "collectible"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq088-task-nurse",
+          "episode": 88,
+          "question": "Had either host played the nurse game before making those criticisms?",
+          "missing_windows": [],
+          "required_windows": 6,
+          "context_coverage": {
+            "returned_windows": 25,
+            "episode_windows": 34
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "either",
+              "host",
+              "played",
+              "nurse",
+              "game",
+              "before",
+              "making",
+              "those",
+              "criticisms"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq088-task-cards",
+          "episode": 88,
+          "question": "Was the card-binder conversation an actual purchase story?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 19,
+            "episode_windows": 34
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "card",
+              "binder",
+              "conversation",
+              "actual",
+              "purchase",
+              "story"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq088-task-organ",
+          "episode": 88,
+          "question": "Which cheap PC game did a speaker say he enjoyed, and did he buy the console copy too?",
+          "missing_windows": [],
+          "required_windows": 2,
+          "context_coverage": {
+            "returned_windows": 33,
+            "episode_windows": 34
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "cheap",
+              "pc",
+              "game",
+              "speaker",
+              "say",
+              "he",
+              "enjoyed",
+              "buy",
+              "console",
+              "copy",
+              "too"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "acquisitions"
+        },
+        {
+          "id": "cq088-task-guy",
+          "episode": 88,
+          "question": "Does owning The Guy Game mean the hosts had both played through it?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 32,
+            "episode_windows": 34
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "owning",
+              "guy",
+              "game",
+              "mean",
+              "hosts",
+              "both",
+              "played",
+              "through"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq088-task-industry",
+          "episode": 88,
+          "question": "When Johnny mentioned working with Atari, did he mean making Atari 2600 games?",
+          "missing_windows": [],
+          "required_windows": 2,
+          "context_coverage": {
+            "returned_windows": 23,
+            "episode_windows": 34
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "johnny",
+              "mentioned",
+              "working",
+              "atari",
+              "he",
+              "mean",
+              "making",
+              "2600",
+              "games"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq088-task-protectors",
+          "episode": 88,
+          "question": "What earlier box-protector claims did they revisit?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 22,
+            "episode_windows": 34
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "earlier",
+              "box",
+              "protector",
+              "claims",
+              "revisit"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq088-task-cleaning",
+          "episode": 88,
+          "question": "Did the follow-up establish a successful or endorsed way to remove the marker?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 26,
+            "episode_windows": 34
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "follow",
+              "up",
+              "establish",
+              "successful",
+              "endorsed",
+              "way",
+              "remove",
+              "marker"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "open_loops"
+        },
+        {
+          "id": "cq214-criteria",
+          "episode": 214,
+          "question": "Did they agree on an objective top ten before recording?",
+          "missing_windows": [],
+          "required_windows": 5,
+          "context_coverage": {
+            "returned_windows": 127,
+            "episode_windows": 171
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "agree",
+              "objective",
+              "top",
+              "ten",
+              "before",
+              "recording"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq214-shared",
+          "episode": 214,
+          "question": "Which influential games did both hosts choose?",
+          "missing_windows": [],
+          "required_windows": 4,
+          "context_coverage": {
+            "returned_windows": 123,
+            "episode_windows": 171
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "influential",
+              "games",
+              "both",
+              "hosts",
+              "choose"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq214-tyler-list",
+          "episode": 214,
+          "question": "What games were on Tyler’s influential-games list?",
+          "missing_windows": [],
+          "required_windows": 11,
+          "context_coverage": {
+            "returned_windows": 124,
+            "episode_windows": 171
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "games",
+              "tyler",
+              "s",
+              "influential",
+              "list"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq214-johnny-list",
+          "episode": 214,
+          "question": "What did Johnny choose, and what happened to Counter-Strike and Myst?",
+          "missing_windows": [],
+          "required_windows": 12,
+          "context_coverage": {
+            "returned_windows": 91,
+            "episode_windows": 171
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "johnny",
+              "choose",
+              "happened",
+              "counter",
+              "strike",
+              "myst"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq214-pong",
+          "episode": 214,
+          "question": "Why did they choose Pong if it was not actually the first video game?",
+          "missing_windows": [],
+          "required_windows": 6,
+          "context_coverage": {
+            "returned_windows": 124,
+            "episode_windows": 171
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "choose",
+              "pong",
+              "if",
+              "not",
+              "actually",
+              "first",
+              "video",
+              "game"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq214-donkey-kong",
+          "episode": 214,
+          "question": "Which Donkey Kong collectible does Tyler recommend, and does he own it?",
+          "missing_windows": [],
+          "required_windows": 5,
+          "context_coverage": {
+            "returned_windows": 123,
+            "episode_windows": 171
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "donkey",
+              "kong",
+              "collectible",
+              "tyler",
+              "recommend",
+              "he",
+              "own"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq214-mario-prints",
+          "episode": 214,
+          "question": "What should a collector look for in Super Mario Bros, and is first print automatically rare?",
+          "missing_windows": [],
+          "required_windows": 4,
+          "context_coverage": {
+            "returned_windows": 129,
+            "episode_windows": 171
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "should",
+              "collector",
+              "look",
+              "super",
+              "mario",
+              "bros",
+              "first",
+              "print",
+              "automatically",
+              "rare"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq214-wow",
+          "episode": 214,
+          "question": "Why did Johnny pick World of Warcraft over EverQuest, and how much did Tyler play?",
+          "missing_windows": [],
+          "required_windows": 6,
+          "context_coverage": {
+            "returned_windows": 126,
+            "episode_windows": 171
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "johnny",
+              "pick",
+              "world",
+              "warcraft",
+              "over",
+              "everquest",
+              "much",
+              "tyler",
+              "play"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq214-halflife",
+          "episode": 214,
+          "question": "Why did Half-Life beat a cutscene-heavy game as Tyler’s narrative example?",
+          "missing_windows": [],
+          "required_windows": 6,
+          "context_coverage": {
+            "returned_windows": 124,
+            "episode_windows": 171
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "half",
+              "life",
+              "beat",
+              "cutscene",
+              "heavy",
+              "game",
+              "tyler",
+              "s",
+              "narrative",
+              "example"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq214-zelda-quest",
+          "episode": 214,
+          "question": "Had Tyler really never played Zelda’s second quest?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 130,
+            "episode_windows": 171
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "tyler",
+              "really",
+              "never",
+              "played",
+              "zelda",
+              "s",
+              "second",
+              "quest"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq214-zelda-collect",
+          "episode": 214,
+          "question": "What Zelda version and small packaging detail did they tell collectors about?",
+          "missing_windows": [],
+          "required_windows": 5,
+          "context_coverage": {
+            "returned_windows": 132,
+            "episode_windows": 171
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "zelda",
+              "version",
+              "small",
+              "packaging",
+              "detail",
+              "tell",
+              "collectors",
+              "about"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq214-diablo",
+          "episode": 214,
+          "question": "Why choose Diablo rather than Diablo II, and did influence mean nobody enjoyed it?",
+          "missing_windows": [],
+          "required_windows": 7,
+          "context_coverage": {
+            "returned_windows": 128,
+            "episode_windows": 171
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "choose",
+              "diablo",
+              "rather",
+              "than",
+              "ii",
+              "influence",
+              "mean",
+              "nobody",
+              "enjoyed"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq214-resident-evil",
+          "episode": 214,
+          "question": "What did they correct about Resident Evil, and which collectible did they recommend?",
+          "missing_windows": [],
+          "required_windows": 6,
+          "context_coverage": {
+            "returned_windows": 103,
+            "episode_windows": 171
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "correct",
+              "about",
+              "resident",
+              "evil",
+              "collectible",
+              "recommend"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "corrections"
+        },
+        {
+          "id": "cq214-gta",
+          "episode": 214,
+          "question": "Did Johnny agree that everyone loves GTA III?",
+          "missing_windows": [],
+          "required_windows": 7,
+          "context_coverage": {
+            "returned_windows": 125,
+            "episode_windows": 171
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "johnny",
+              "agree",
+              "everyone",
+              "loves",
+              "gta",
+              "iii"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq214-cod",
+          "episode": 214,
+          "question": "What is the definitive first-print version of Call of Duty 4 according to the episode?",
+          "missing_windows": [],
+          "required_windows": 5,
+          "context_coverage": {
+            "returned_windows": 122,
+            "episode_windows": 171
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "definitive",
+              "first",
+              "print",
+              "version",
+              "call",
+              "duty",
+              "4",
+              "according",
+              "episode"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq214-rpg-nodes",
+          "episode": 214,
+          "question": "Why put both Ultima Underworld and Wizardry on the list if the hosts dislike archaic games?",
+          "missing_windows": [],
+          "required_windows": 11,
+          "context_coverage": {
+            "returned_windows": 129,
+            "episode_windows": 171
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "put",
+              "both",
+              "ultima",
+              "underworld",
+              "wizardry",
+              "list",
+              "if",
+              "hosts",
+              "dislike",
+              "archaic",
+              "games"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "selection_lists"
+        },
+        {
+          "id": "cq214-street-fighter",
+          "episode": 214,
+          "question": "Was the famous Ken parry moment actually in Street Fighter II?",
+          "missing_windows": [],
+          "required_windows": 5,
+          "context_coverage": {
+            "returned_windows": 123,
+            "episode_windows": 171
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "famous",
+              "ken",
+              "parry",
+              "moment",
+              "actually",
+              "street",
+              "fighter",
+              "ii"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq214-oblivion",
+          "episode": 214,
+          "question": "What was the strongest agreed reason for Oblivion, and did horse armor cost $2.99?",
+          "missing_windows": [],
+          "required_windows": 5,
+          "context_coverage": {
+            "returned_windows": 97,
+            "episode_windows": 171
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "strongest",
+              "agreed",
+              "reason",
+              "oblivion",
+              "horse",
+              "armor",
+              "cost",
+              "2",
+              "99"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq214-starcraft",
+          "episode": 214,
+          "question": "Did Johnny learn StarCraft by playing it for work, and which game did Tyler watch competitively?",
+          "missing_windows": [],
+          "required_windows": 5,
+          "context_coverage": {
+            "returned_windows": 124,
+            "episode_windows": 171
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "johnny",
+              "learn",
+              "starcraft",
+              "by",
+              "playing",
+              "work",
+              "game",
+              "tyler",
+              "watch",
+              "competitively"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq214-doom",
+          "episode": 214,
+          "question": "What does Tyler want in an early Doom copy, and what console port does he tolerate?",
+          "missing_windows": [],
+          "required_windows": 4,
+          "context_coverage": {
+            "returned_windows": 135,
+            "episode_windows": 171
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "tyler",
+              "want",
+              "early",
+              "doom",
+              "copy",
+              "console",
+              "port",
+              "he",
+              "tolerate"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "port_classification"
+        },
+        {
+          "id": "cq214-myst-minecraft",
+          "episode": 214,
+          "question": "How did Myst and Minecraft complicate the promised ten-game lists?",
+          "missing_windows": [],
+          "required_windows": 8,
+          "context_coverage": {
+            "returned_windows": 125,
+            "episode_windows": 171
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "myst",
+              "minecraft",
+              "complicate",
+              "promised",
+              "ten",
+              "game",
+              "lists"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "selection_lists"
+        },
+        {
+          "id": "cq214-johnny-pickups",
+          "episode": 214,
+          "question": "What did Johnny buy, and which purchase never arrived?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 139,
+            "episode_windows": 171
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "johnny",
+              "buy",
+              "purchase",
+              "never",
+              "arrived"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "acquisitions"
+        },
+        {
+          "id": "cq214-tyler-pickups",
+          "episode": 214,
+          "question": "What were Tyler’s actual pickups versus things he still wanted?",
+          "missing_windows": [],
+          "required_windows": 4,
+          "context_coverage": {
+            "returned_windows": 141,
+            "episode_windows": 171
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "tyler",
+              "s",
+              "actual",
+              "pickups",
+              "versus",
+              "things",
+              "he",
+              "still",
+              "wanted"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq214-autographs",
+          "episode": 214,
+          "question": "Which autograph would Tyler want on a specific game, and what does Johnny want?",
+          "missing_windows": [],
+          "required_windows": 4,
+          "context_coverage": {
+            "returned_windows": 130,
+            "episode_windows": 171
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "autograph",
+              "tyler",
+              "want",
+              "specific",
+              "game",
+              "johnny"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        }
+      ]
+    }
+  ],
+  "limits": "Original wording, not blind paraphrases. Required-window retrieval only; read context to judge claims. High returned-window coverage is reported, not treated as precision or semantic correctness."
+}

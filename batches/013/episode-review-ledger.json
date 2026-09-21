@@ -1,0 +1,233 @@
+{
+  "review_binding": {"version":"cq-review-binding-1","sha256":"7c8f9451ebe763d4f50909eb3da6941f095e29cd95ffa0a25bd9c5199a3c8587","reviewed_utc":"2026-09-13T12:32:58.587768+00:00","meaning":"Exact reviewed local inputs; not independent semantic, audio or live certification"},
+  "schema_version": "1",
+  "required_for": "A1–A8 mandatory for every episode in every batch.",
+  "acceptance_scope": "Captured-text development review only; no audio, external-history or live certification.",
+  "episodes": [
+    {
+      "episode": 19,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All31 paragraphs accounted;68 typed split-return spans. Root recomputed4/3/tied2 meaningful coverage without using paragraph counts as minutes.",
+          "evidence": [
+            "batches/013/reviews/019-audit.md",
+            "batches/013/reviews/019-annotations.json",
+            "batches/013/reviews/coordinator-source-read.md"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "42 reference buckets; full source-first inventory and frozen comparisons. Uncertain subtitles are not silently resolved.",
+          "evidence": [
+            "batches/013/reviews/019-audit.md",
+            "batches/013/reviews/019-annotations.json",
+            "batches/013/reviews/coordinator-source-read.md"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Kat/Johnny roster and Kat's partner John kept distinct; no Tyler attribution in this early episode.",
+          "evidence": [
+            "batches/013/reviews/019-audit.md",
+            "batches/013/reviews/019-annotations.json",
+            "batches/013/reviews/coordinator-source-read.md"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "40 action claims distinguish placeholders, paid crowdfunding, received components, incoming pirates, planned sale and play.",
+          "evidence": [
+            "batches/013/reviews/019-audit.md",
+            "batches/013/reviews/019-annotations.json",
+            "batches/013/reviews/coordinator-source-read.md"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "All12 actual composed answers independently read, with exact final snapshots and forbidden inferences.",
+          "evidence": [
+            "batches/013/reviews/answer-review.json",
+            "batches/013/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Practical brief checked for working definitions, provenance, disclosure and pending outcomes.",
+          "evidence": [
+            "batches/013/reviews/019-audit.md",
+            "batches/013/reviews/019-annotations.json",
+            "batches/013/reviews/coordinator-source-read.md"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Exact proofs, source accounting and final retrieval/sample checks pass; initial misses preserved and192 shared tests pass.",
+          "evidence": [
+            "batches/013/reviews/verification.md",
+            "batches/013/reviews/integration-history.json"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All eight mandatory steps recorded, limitations explicit; final artifacts require an exact review binding.",
+          "evidence": [
+            "batches/013/reviews/coordinator-source-read.md",
+            "batches/013/reviews/verification.md"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 86,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All40 paragraphs accounted;157 typed spans after one omitted family return. Root recomputed5/4/ten-way3 tie and retains every tied title.",
+          "evidence": [
+            "batches/013/reviews/086-audit.md",
+            "batches/013/reviews/086-annotations.json",
+            "batches/013/reviews/coordinator-source-read.md"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "84 buckets; frozen source sample exposed P21 Spot-family return, now JOKE_ASIDE rather than an extra individual-game leader.",
+          "evidence": [
+            "batches/013/reviews/086-audit.md",
+            "batches/013/reviews/086-annotations.json",
+            "batches/013/reviews/coordinator-source-read.md"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Johnny/Tyler opinions remain distinct; Wonder Kitchen acquisition actor remains unknown despite contextual candidate.",
+          "evidence": [
+            "batches/013/reviews/086-audit.md",
+            "batches/013/reviews/086-annotations.json",
+            "batches/013/reviews/coordinator-source-read.md"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "40 action claims preserve receipt versus promotion method, unpaid Burger King take-home, wanted items and unfinished play.",
+          "evidence": [
+            "batches/013/reviews/086-audit.md",
+            "batches/013/reviews/086-annotations.json",
+            "batches/013/reviews/coordinator-source-read.md"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "All14 actual composed answers independently read, including all seven M&M and three Burger King membership claims.",
+          "evidence": [
+            "batches/013/reviews/answer-review.json",
+            "batches/013/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Practical brief checked for disagreement, promotion versus acquisition, historical claims and open follow-ups.",
+          "evidence": [
+            "batches/013/reviews/086-audit.md",
+            "batches/013/reviews/086-annotations.json",
+            "batches/013/reviews/coordinator-source-read.md"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Source accounting, exact proofs, final48/48 batch retrieval and14/14 frozen sample pass with initial failures retained;192 shared tests pass.",
+          "evidence": [
+            "batches/013/reviews/verification.md",
+            "batches/013/reviews/integration-history.json"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All eight mandatory steps recorded, uncertain dates/platforms retained; final artifacts require an exact review binding.",
+          "evidence": [
+            "batches/013/reviews/coordinator-source-read.md",
+            "batches/013/reviews/verification.md"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 212,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All135 timed windows read/accounted;452 typed spans. NWC variants unioned and coarse197/195 plus130/127 near-ties disclosed.",
+          "evidence": [
+            "batches/013/reviews/212-audit.md",
+            "batches/013/reviews/212-annotations.json",
+            "batches/013/reviews/coordinator-source-read.md"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "235 reference buckets with dedicated devices, game collections, merchandise and guide references distinguished;50 typed list memberships reviewed.",
+          "evidence": [
+            "batches/013/reviews/212-audit.md",
+            "batches/013/reviews/212-annotations.json",
+            "batches/013/reviews/coordinator-source-read.md"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Johnny/Tyler and third parties distinguished; ambiguous UltimaVIII handoff not assigned a buyer or used as a continuity contradiction.",
+          "evidence": [
+            "batches/013/reviews/212-audit.md",
+            "batches/013/reviews/212-annotations.json",
+            "batches/013/reviews/coordinator-source-read.md"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "98 action claims distinguish received from paid purchase, illustrative FMVs, hypothetical rebuilding, repeated GTA story and future Tunnels spare.",
+          "evidence": [
+            "batches/013/reviews/212-audit.md",
+            "batches/013/reviews/212-annotations.json",
+            "batches/013/reviews/coordinator-source-read.md"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "All22 actual composed answers independently read; formatting revisions reread and exact snapshots updated.",
+          "evidence": [
+            "batches/013/reviews/answer-review.json",
+            "batches/013/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Practical desk brief reviewed for historical status, inventory uncertainty, completed catalog work and unfulfilled follow-ups; not live rehearsal.",
+          "evidence": [
+            "batches/013/reviews/212-audit.md",
+            "batches/013/reviews/212-annotations.json",
+            "batches/013/reviews/coordinator-source-read.md"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "2,622 exact batch proofs, all206windows accounted, original48/48 and fresh6/6; peer repairs independently verified and192 shared tests pass.",
+          "evidence": [
+            "batches/013/reviews/verification.md",
+            "batches/013/reviews/integration-history.json"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All eight mandatory steps recorded and exact final review binding required; no current-world or audio certification.",
+          "evidence": [
+            "batches/013/reviews/coordinator-source-read.md",
+            "batches/013/reviews/verification.md"
+          ]
+        }
+      }
+    }
+  ]
+}

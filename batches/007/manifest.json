@@ -1,0 +1,52 @@
+{
+  "schema_version": "0.1",
+  "created": "2026-09-13",
+  "status": "captured_text_review_complete",
+  "selection_basis": "Era-varied sequential continuation in the ongoing two-hour work session; not answer-key driven.",
+  "budget": "Local public transcript processing only; no paid services, publication or persona changes.",
+  "episodes": [
+    {
+      "key": "sc-240452758",
+      "episode_number": 13,
+      "title": "Episode 13 -Game Boy's And Which To Smuggle",
+      "date": "2016-01-05",
+      "path": "episodes/cq-013-sc-240452758.md",
+      "source_url": "https://soundcloud.com/collectors-quest/collectors-quest-episode-13-game-boys-and-which-to-smuggle",
+      "words": 10167,
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "sha256": "26befc50edec80008616334b3171795bcc5e4b6dcc9ede722fd27db825079b5c",
+      "reason": "Era-varied sequential continuation within lane",
+      "status": "extracted_draft",
+      "record_path": "records/sc-240452758.json"
+    },
+    {
+      "key": "sc-362816366",
+      "episode_number": 80,
+      "title": "Episode 80 - Mario Games",
+      "date": "2017-11-30",
+      "path": "episodes/cq-080-sc-362816366.md",
+      "source_url": "https://soundcloud.com/collectors-quest/episode-80-mario-games",
+      "words": 9682,
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "sha256": "d99f3540b3336a78ffacc0d54911cdbe958dcb863c29e55517b737a3d3a388f0",
+      "reason": "Era-varied sequential continuation within lane",
+      "status": "extracted_draft",
+      "record_path": "records/sc-362816366.json"
+    },
+    {
+      "key": "sc-1369678939",
+      "episode_number": 206,
+      "title": "CQ 206 - So You Want To Collect Halloween Games #5 Current Gen Games",
+      "date": "2022-10-25",
+      "path": "episodes/cq-206-sc-1369678939.md",
+      "source_url": "https://soundcloud.com/collectors-quest/cq-206-so-you-want-to-collect-halloween-games-5-current-gen-games-2022",
+      "words": 7487,
+      "timing": "YouTube caption timestamps",
+      "sha256": "87f29418c3ec61a7a5505088f729ab772c13e31fda998682c31a559d7a73ec51",
+      "reason": "Era-varied sequential continuation within lane",
+      "status": "extracted_draft",
+      "record_path": "records/sc-1369678939.json"
+    }
+  ],
+  "duplicate_controls": []
+}

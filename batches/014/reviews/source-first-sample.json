@@ -1,0 +1,196 @@
+{
+  "schema_version": "1",
+  "status": "frozen_before_extraction_record_comparison",
+  "frozen_utc": "2026-09-13 12:03:00 UTC",
+  "selection_rule": "Zero-based floor(N/4),floor(N/2),floor(3N/4), with neighbors read before extraction records. Five no-game-title windows retained.",
+  "limits": "Bounded source-first reference buckets, not statistical archive recall; utility/map/glove references explicitly distinguished from game coverage. Uncertain six-in-one and fazan-do identities not normalized.",
+  "windows": [
+    {
+      "location": "Paragraph 15",
+      "text": "\nyou know, make contacts, run trades. And I think really, even to this day, that’s what’s been really advantageous about the site is being able to be at focal point for a lot of these collectors to come together and do trades and whatnot. Yeah, I know it was beneficial for me. And that’s actually what was one of the key components to me finally joining. I wanted to make some trades like of us. It’s like, OK, I actually have to have a name on here to go ahead and make these trades. I mean, I was a little worried because especially back then, you know, the internet, there was a lot less transparency and like trading on what Nintendo HAD was pretty awesome. The fact that there was like a feedback tool and a trade tool built into the site. So you had like a layer of confidence that you didn’t get through other just random internet trades back in the day. Yeah, that’s been a nice component. I figured I’ll throw a shout out to Nick Morgan. I know you guys didn’t interview with him in one of your podcasts. He was actually the one who encouraged me to build the feedback system. Again, it’s not a perfect feedback system, but it’s good enough, I suppose. Oh,\n\n",
+      "batch": "014",
+      "episode": 20,
+      "source_key": "sc-248293457",
+      "source_window_count": 56,
+      "references": []
+    },
+    {
+      "location": "Paragraph 29",
+      "text": "\nthe work that people who are just starting to collect, you know, it’s just knowledge for them. But they have no, they have no concept of to find that out that somebody did a lot of work into that someone, you know, was putting in a lot of effort to get this to where it just seems like a ground ground level knowledge. Now that that was actually a lot of work just to get to that point where people think, oh, common knowledge, not really at one point it was, you know, a bunch of disparate information held by individuals. Yep. But I think sometimes people take that for granted too. They see it all put together and they think, well, that’s cool. I can find it all, but they don’t think about the work that goes into it. Yeah, I definitely share that sentiment. I think you’re right. People definitely do not appreciate the amount of work that goes into it. Some people do. And I get thanked pretty frequently for that. And that’s nice. But, you know, the point, the truth of the matter is that the forums contain way more information than the database ever will. And it’ll always be that way. So if you can’t find something in the database, it’s in the forums. And\n\n",
+      "batch": "014",
+      "episode": 20,
+      "source_key": "sc-248293457",
+      "source_window_count": 56,
+      "references": []
+    },
+    {
+      "location": "Paragraph 43",
+      "text": "\nNo battleship.\" But how funny would it be to be like, \"I have 676 games,\" and people are going to be like, \"Oh, you’re missing stadium events?\" And you’ll be like, \"Nope, I’m missing battleship.\" Yeah, battleship. It’s uncommon, but I’ve just had a real difficulty finding it. So what is your stance on the, because I know some people get pretty verbal on the either 676 or the number that includes all of the unlicensed. Are you unlicensed or are you licensed or both? It doesn’t matter to you. Do you just love NES? So you want it all. I’m going to give you the politicians response. Okay. The politicians response to that question, which I’ve answered this question a lot of times over the years, is whatever makes you happy as a collector is how many games there are in that set. So if you collect licensed games, then there’s only 670, whatever. Sorry, I don’t have all the numbers memorized. 677. Thank you. And if you’re an unlicensed collector, you’re going to have the unlicensed games. And then if you are an unlicensed collector, then you have to decide, well, this Cheetahman 2 count does, married 6 and 1 count. You know, there’s all these things that if you really want to get technical, you can get\n\n",
+      "batch": "014",
+      "episode": 20,
+      "source_key": "sc-248293457",
+      "source_window_count": 56,
+      "references": [
+        {
+          "id": "cq20-sample-42-1",
+          "title": "Battleship continuation",
+          "quote": "battleship",
+          "reviewed_game_ids": ["cq020-g038"]
+        },
+        {
+          "id": "cq20-sample-42-2",
+          "title": "Stadium Events comparison",
+          "quote": "stadium events",
+          "reviewed_game_ids": ["cq020-g037"]
+        },
+        {
+          "id": "cq20-sample-42-3",
+          "title": "Cheetahmen II set scope",
+          "quote": "Cheetahman 2",
+          "reviewed_game_ids": ["cq020-g039"]
+        },
+        {
+          "id": "cq20-sample-42-4",
+          "title": "Unresolved six-in-one compilation",
+          "quote": "married 6 and 1",
+          "reviewed_game_ids": ["cq020-g040"]
+        }
+      ]
+    },
+    {
+      "location": "Paragraph 16",
+      "text": "\ndo. We have like a little sticker that says we are clean lyrics. Oh shoot. Yeah. Shuck. Shuckie darn. Anyways, Tyler, let’s talk about part of that maintenance of games. Let’s talk about cleaning games. Can you tell some people some things to do if they plan on cleaning their games? Yeah, well, take them apart. Everyone obviously listening to this podcast should have a screwdriver because if you’re using like a Q-tip and trying to get up in there that is definitely not as effective. You should have a security bit for every cart you have. They don’t all have different ones, but you should definitely buy a kit that allows you to open all of your games. It’ll also protect you from buying fakes. So do that. Yeah. I mean, there’s like two. There’s like the, I think it’s three and a half millimeter for Nintendo and it’s like every Nintendo game. And then Sega uses like a four and a half millimeter one for whatever reason because they’re jerks. And then we’ll confuse you with different bits. Isn’t there different ones for Game Boy? Game Boy is the same as NES. Is it? Yeah. There’s different Nintendo ones. I don’t know why. Maybe it does the same. No, it’s crazy. Okay. NES, SNES, Game Boy is all\n\n",
+      "batch": "014",
+      "episode": 87,
+      "source_key": "sc-412882248",
+      "source_window_count": 61,
+      "references": []
+    },
+    {
+      "location": "Paragraph 31",
+      "text": "\nif you don’t have a foot, an exact foot at the end of your shelf, you have like this big gap at the end of your shelf because you couldn’t fit a whole nother row of games in there. Yeah, no, it like they never, shelves are not designed to fit those things. You can never like stack like six PS one games next to each other. There’s always like three inches of gap. It’s awful. I’m not saying that it’s the best solution. I’m just saying if you actually want that to be the best way to keep a manual for warping because people ask me and that’s the best way to do it. But aside from that, just go ahead and put a little little piece of foam in there or put a paper towel next to your phone or some bubble wrap that also works on PlayStation one games, especially if they have a really thin manual to keep that and also keeps the disc from popping out. I recommend just like a little square of bubble over that CD spindle also helps it if it does fall from breaking the spindle things because that’s annoying. And if you want to, at the back of Saturn and Sega CD games, if you want to prevent that from\n\n",
+      "batch": "014",
+      "episode": 87,
+      "source_key": "sc-412882248",
+      "source_window_count": 61,
+      "references": []
+    },
+    {
+      "location": "Paragraph 46",
+      "text": "\nhave an original one. All right. I’m going to list up some more stuff. R-Type 3, Challenge of the Dragon, Sunday Funday, Operation Secret Storm, all real expensive games, but now I’ve got like $200 and eBay bucks for April. We’re going to buy something else real expensive. Yep. I’m waiting. I did not go crazy. I had all those deals and I really wanted to go crazy, but I have not had all the time in the world to go look at that stuff. So I bought like a few good PlayStation games. I bought X-Men, Children of the Atom. I bought Battle Sport. That one sucked. I was so upset about that one because it was $30 and you need to spend a minimum of $50. I was like, ah, but I got a good price on that game. So I’m not too upset. Children of the Atom worked out. I bought like a side show figure, like a Hot Toys Star Wars figure. So that I got on, but that doesn’t have anything to do with video games, but that’s what I used my collector’s money on. Sure. Must be nice to have room to display stuff, Johnny. Oh, oh, I’m sorry that I live in the suburbs and not in a city and I have more\n\n",
+      "batch": "014",
+      "episode": 87,
+      "source_key": "sc-412882248",
+      "source_window_count": 61,
+      "references": [
+        {
+          "id": "cq87-sample-45-1",
+          "title": "Grindstormer original-copy continuation",
+          "quote": "have an original one",
+          "reviewed_game_ids": ["cq087-g072"]
+        },
+        {
+          "id": "cq87-sample-45-2",
+          "title": "R-Type III",
+          "quote": "R-Type 3",
+          "reviewed_game_ids": ["cq087-g074"]
+        },
+        {
+          "id": "cq87-sample-45-3",
+          "title": "Challenge of the Dragon",
+          "quote": "Challenge of the Dragon",
+          "reviewed_game_ids": ["cq087-g075"]
+        },
+        {
+          "id": "cq87-sample-45-4",
+          "title": "Sunday Funday",
+          "quote": "Sunday Funday",
+          "reviewed_game_ids": ["cq087-g076"]
+        },
+        {
+          "id": "cq87-sample-45-5",
+          "title": "Operation Secret Storm",
+          "quote": "Operation Secret Storm",
+          "reviewed_game_ids": ["cq087-g077"]
+        },
+        {
+          "id": "cq87-sample-45-6",
+          "title": "X-Men: Children of the Atom",
+          "quote": "Children of the Atom",
+          "reviewed_game_ids": ["cq087-g078"]
+        },
+        {
+          "id": "cq87-sample-45-7",
+          "title": "BattleSport",
+          "quote": "Battle Sport",
+          "reviewed_game_ids": ["cq087-g079"]
+        }
+      ]
+    },
+    {
+      "location": "00:32:56",
+      "text": "\nall right that's pretty cool Johnny thank you for the validation Tyler and finally believing me cuz you sat here for 10 minutes and did not [ __ ] believe me but all right here we go console variations says it is estimated that between 1,000 and 5,000 of this variation were made uh and they're basing that based on absolutely nothing and pulling that number out of their ass yeah absolutely all right Johnny you want to hear about atar game I sure do we're going to talk about another hot juice one that caused a little bit of stir in the collector's Quest Discord a couple years ago oo Johnny video life another one of these games that you would look at like the rarest games ever and video life will be on there by kavid comid I'm GNA say kavid kavid came out with an Atari 2600 programming tool called The Magic card uh this is not a video game it's uh it's you you let you program the Atari 2600 comes with a big old instruction manual\n\n",
+      "batch": "014",
+      "episode": 213,
+      "source_key": "sc-1430232622",
+      "source_window_count": 127,
+      "references": [
+        {
+          "id": "cq213-sample-31-1",
+          "title": "Video Life",
+          "quote": "video life",
+          "reviewed_game_ids": ["cq213-g032"]
+        },
+        {
+          "id": "cq213-sample-31-2",
+          "title": "Magic Card programming utility, explicitly not a game",
+          "quote": "The Magic card",
+          "reviewed_game_ids": ["cq213-g033"]
+        }
+      ]
+    },
+    {
+      "location": "01:07:18",
+      "text": "\nglove that says cono on it like no one no one knows what this is who's searching for [ __ ] to flip at flea markets it's just crazy that these kind of come up sometimes we've talked about it before Johnny give me something more interesting than the airb okay so you were talking about old man cool stuff and this is one that I meant to put on our old man cool stuff episode and I'm glad I didn't now because it's the and we can debate how to say this I always say Faria but also it is like definitely the word Faria uh the map for Faria for the Nintendo Entertainment System I'm sorry it's Faria uh yeah I believe it's a Spanish word right Faria oh we place here in called Faria weird I was going to think like is it like is like a famicom game is it like fazan do is it Faria Ria for famicom it's in Japan it's known as Freya funin no tuuri or something I look\n\n",
+      "batch": "014",
+      "episode": 213,
+      "source_key": "sc-1430232622",
+      "source_window_count": 127,
+      "references": [
+        {
+          "id": "cq213-sample-63-1",
+          "title": "Air Buster mail-order glove continuation",
+          "quote": "glove",
+          "reviewed_game_ids": ["cq213-g078"]
+        },
+        {
+          "id": "cq213-sample-63-2",
+          "title": "Faria map collectible",
+          "quote": "map for Faria",
+          "reviewed_game_ids": ["cq213-g082"]
+        },
+        {
+          "id": "cq213-sample-63-3",
+          "title": "Faria game and Japanese-title discussion",
+          "quote": "Faria for the Nintendo",
+          "reviewed_game_ids": ["cq213-g080"]
+        },
+        {
+          "id": "cq213-sample-63-4",
+          "title": "Unresolved comparison captioned fazan do",
+          "quote": "fazan do",
+          "reviewed_game_ids": ["cq213-g081"]
+        }
+      ]
+    },
+    {
+      "location": "01:41:09",
+      "text": "\njust because of how overwhelmed I am with how much I own right now because I I own Johnny I own a lot of video games from 1970 to 2000s specifically and I don't own very many modern games and I already feel like it's too much to kind of take in so if I expanded my horizons beyond that and just owned every retail video game you know a couple hundred thousand video games let's say like there's too much for even for me to comprehend how much I own let alone to like these are experiences that I would theoretically like I understand like I'm not collecting to play 200,000 video games but uh I don't know if you collected every action figure you could up you could look at them you can give each of them a 5-sec glance and appreciate them if you did you could do that with trading cards having every video game is would just be so overwhelming compared so the alternative if I have infinite money like right now I'm looking at my NES shelf I very much enjoy organizing\n\n",
+      "batch": "014",
+      "episode": 213,
+      "source_key": "sc-1430232622",
+      "source_window_count": 127,
+      "references": []
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "review_binding": {"version":"cq-review-binding-1","sha256":"de11c95f9a20a8769f195bbe4cc3c42005be23b68e968e9cbbf13ec532d52092","reviewed_utc":"2026-09-14T19:19:53.275956+00:00","meaning":"Exact reviewed local inputs; not independent semantic, audio or live certification"},
+  "schema_version": "1",
+  "required_for": "A1–A8 mandatory for every episode in every batch.",
+  "acceptance_scope": "Captured-text development review; not audio, external history, blind recall or live certification.",
+  "episodes": [
+    {
+      "episode": 130,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "Separate complete95-window reads; all150 references/301 spans/95 dispositions reviewed and primary-count ranking ties qualified.",
+          "evidence": [
+            "batches/022/reviews/130-audit.md",
+            "batches/022/reviews/130-annotations.json",
+            "batches/022/reviews/coordinator-progress.md"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "Complete inventory comparison and frozen seven-window sample25/25, including a quiet window; actual role/identity defects preserved without claiming exhaustive recall.",
+          "evidence": [
+            "batches/022/reviews/130-audit.md",
+            "batches/022/reviews/130-annotations.json",
+            "batches/022/reviews/coordinator-progress.md",
+            "batches/022/reviews/source-first-sample.json",
+            "batches/022/generated/final-sample.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Canonical Johnny/Tyler/Stephan roster and contextual attributions reviewed;106 unknown/mixed occurrences retained, literal captions unchanged.",
+          "evidence": [
+            "batches/022/reviews/130-audit.md",
+            "batches/022/reviews/130-annotations.json",
+            "batches/022/reviews/coordinator-progress.md"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "All101 action records and31 list memberships reviewed, including negative/pending states, reporter versus actor, editions, custody and TV versus game completion.",
+          "evidence": [
+            "batches/022/reviews/130-audit.md",
+            "batches/022/reviews/130-annotations.json",
+            "batches/022/reviews/coordinator-progress.md"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "All14 complete answers independently adjudicated and exact snapshots match; original/configured14/14 and six frozen first-use/final questions pass without weakened wording.",
+          "evidence": [
+            "batches/022/reviews/130-audit.md",
+            "batches/022/reviews/130-annotations.json",
+            "batches/022/reviews/coordinator-progress.md",
+            "batches/022/reviews/answer-review.json",
+            "batches/022/reviews/answer-review.md",
+            "batches/022/generated/first-fresh.json",
+            "batches/022/generated/final-fresh.json"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Full practical brief and cited cross-source continuity desk-reviewed; callbacks, corrections, jokes and open loops distinguished, no live rehearsal claimed.",
+          "evidence": [
+            "batches/022/reviews/130-audit.md",
+            "batches/022/reviews/130-annotations.json",
+            "batches/022/reviews/coordinator-progress.md",
+            "batches/022/reviews/continuity-review.md"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Durable input and shared mixed-action routing repairs regression-tested;235 shared tests,20 prior gates,643 available originals,pilot19/19 and65-source preservation pass.",
+          "evidence": [
+            "batches/022/reviews/130-audit.md",
+            "batches/022/reviews/130-annotations.json",
+            "batches/022/reviews/coordinator-progress.md",
+            "batches/022/reviews/verification.md",
+            "batches/022/reviews/retrieval-repair.md",
+            "batches/022/generated/settled-verification.json",
+            "batches/022/generated/settled-shared-suite.log",
+            "batches/022/generated/prior-regressions.jsonl",
+            "batches/022/generated/pre-acceptance-preservation.json"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "Root explicit captured-text acceptance after complete source/artifact/answer review; source uncertainties and broad retrieval limits preserved; exact binding required.",
+          "evidence": [
+            "batches/022/reviews/130-audit.md",
+            "batches/022/reviews/130-annotations.json",
+            "batches/022/reviews/coordinator-progress.md",
+            "batches/022/reviews/verification.md"
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "windows": 9,
+  "total": 17,
+  "passed": 17,
+  "no_title_windows": 5,
+  "results": [
+    {
+      "id": "cq20-sample-42-1",
+      "episode": 20,
+      "location": "Paragraph 43",
+      "title": "Battleship continuation",
+      "spans": [
+        "cq020-span-038-3"
+      ]
+    },
+    {
+      "id": "cq20-sample-42-2",
+      "episode": 20,
+      "location": "Paragraph 43",
+      "title": "Stadium Events comparison",
+      "spans": [
+        "cq020-span-037-3"
+      ]
+    },
+    {
+      "id": "cq20-sample-42-3",
+      "episode": 20,
+      "location": "Paragraph 43",
+      "title": "Cheetahmen II set scope",
+      "spans": [
+        "cq020-span-039-1"
+      ]
+    },
+    {
+      "id": "cq20-sample-42-4",
+      "episode": 20,
+      "location": "Paragraph 43",
+      "title": "Unresolved six-in-one compilation",
+      "spans": [
+        "cq020-span-040-1"
+      ]
+    },
+    {
+      "id": "cq87-sample-45-1",
+      "episode": 87,
+      "location": "Paragraph 46",
+      "title": "Grindstormer original-copy continuation",
+      "spans": [
+        "cq087-span-072-3"
+      ]
+    },
+    {
+      "id": "cq87-sample-45-2",
+      "episode": 87,
+      "location": "Paragraph 46",
+      "title": "R-Type III",
+      "spans": [
+        "cq087-span-074-1"
+      ]
+    },
+    {
+      "id": "cq87-sample-45-3",
+      "episode": 87,
+      "location": "Paragraph 46",
+      "title": "Challenge of the Dragon",
+      "spans": [
+        "cq087-span-075-1"
+      ]
+    },
+    {
+      "id": "cq87-sample-45-4",
+      "episode": 87,
+      "location": "Paragraph 46",
+      "title": "Sunday Funday",
+      "spans": [
+        "cq087-span-076-1"
+      ]
+    },
+    {
+      "id": "cq87-sample-45-5",
+      "episode": 87,
+      "location": "Paragraph 46",
+      "title": "Operation Secret Storm",
+      "spans": [
+        "cq087-span-077-1"
+      ]
+    },
+    {
+      "id": "cq87-sample-45-6",
+      "episode": 87,
+      "location": "Paragraph 46",
+      "title": "X-Men: Children of the Atom",
+      "spans": [
+        "cq087-span-078-1"
+      ]
+    },
+    {
+      "id": "cq87-sample-45-7",
+      "episode": 87,
+      "location": "Paragraph 46",
+      "title": "BattleSport",
+      "spans": [
+        "cq087-span-079-1"
+      ]
+    },
+    {
+      "id": "cq213-sample-31-1",
+      "episode": 213,
+      "location": "00:32:56",
+      "title": "Video Life",
+      "spans": [
+        "cq213-span-032-1"
+      ]
+    },
+    {
+      "id": "cq213-sample-31-2",
+      "episode": 213,
+      "location": "00:32:56",
+      "title": "Magic Card programming utility, explicitly not a game",
+      "spans": [
+        "cq213-span-033-1"
+      ]
+    },
+    {
+      "id": "cq213-sample-63-1",
+      "episode": 213,
+      "location": "01:07:18",
+      "title": "Air Buster mail-order glove continuation",
+      "spans": [
+        "cq213-span-078-4"
+      ]
+    },
+    {
+      "id": "cq213-sample-63-2",
+      "episode": 213,
+      "location": "01:07:18",
+      "title": "Faria map collectible",
+      "spans": [
+        "cq213-span-082-1"
+      ]
+    },
+    {
+      "id": "cq213-sample-63-3",
+      "episode": 213,
+      "location": "01:07:18",
+      "title": "Faria game and Japanese-title discussion",
+      "spans": [
+        "cq213-span-080-1"
+      ]
+    },
+    {
+      "id": "cq213-sample-63-4",
+      "episode": 213,
+      "location": "01:07:18",
+      "title": "Unresolved comparison captioned fazan do",
+      "spans": [
+        "cq213-span-081-1"
+      ]
+    }
+  ]
+}

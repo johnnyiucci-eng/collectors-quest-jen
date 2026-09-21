@@ -1,0 +1,1708 @@
+{
+  "schema_version": "1",
+  "review_status": "same_agent_source_adjudicated_draft_integration_pending",
+  "episodes": [
+    {
+      "source_key": "sc-347109412",
+      "source_sha256": "c96ebc0928e874090bfd1e462e2e1670b11ae82eef5fa5cc6456353c70bf0a6c",
+      "mapping_status": "complete",
+      "review_note": "All supplied paragraphs reviewed; unlabelled untimed captions impose attribution and duration limits. Passing names and jokes earn no meaningful coverage.",
+      "spans": [
+        {
+          "id": "cq077-span-001-1",
+          "entity_kind": "game_series",
+          "entity_id": "cq077:cq077-g001",
+          "title": "Scooby-Doo",
+          "game_refs": [
+            "cq077-g001"
+          ],
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 1",
+          "end_exclusive": "Paragraph 2",
+          "reason": "Retrospective topic announced.",
+          "evidence": [
+            {
+              "location": "Paragraph 1",
+              "quote": "Welcome to Collector’s Quest, this is episode 77. On this episode you will hear it referenced as the microcast. It was supposed to be except we went too long and then we didn’t do the stuff we normally do for an episode because we thought we’d cut it down. So I just left it but we’re not calling it a microcast because I don’t want to break my own rules. We’re at about 20 minutes so enjoy this very short episode of Collector’s Quest where you don’t get to hear what we’re buying or any of that stuff. Anyways, to the episode we’re talking about Scooby-Doo and Scooby-Doo games are kind of doing a retrospective. On those from a Collector’s standpoint, also if you like what we do here, please, please go to iTunes, give us a rating, just smash that five star or wherever you listen or shout us out, this is the help we need to grow the show. Gotta keep growing, gotta keep growing. If we don’t grow then we wither and die, you know that’s what they say. If you’re not growing you’re dying. That’s a not really a cheery thought. Anyways, on to the episode. Welcome back to another episode of Collector’s Quest. I’m Tyler here with Johnny. Hey Tyler, how’s it going? I’m doing"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-001-2",
+          "entity_kind": "game_series",
+          "entity_id": "cq077:cq077-g001",
+          "title": "Scooby-Doo",
+          "game_refs": [
+            "cq077-g001"
+          ],
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 2",
+          "end_exclusive": "Paragraph 3",
+          "reason": "Previous family-friendly episode callback.",
+          "evidence": [
+            {
+              "location": "Paragraph 2",
+              "quote": "pretty good. How’d you feel about your first intro? It was real exciting. We got a hurry up because it’s a microcast. We want to get this over with. I don’t know. I mean maybe not we want to get it over with maybe. We’re enjoying our time. We’re just giving a quick episode to the people. I mean if you don’t want to be here Tyler, you’ve only been here a little bit. If you already want to go, I mean it’s fine. No, I need to stay on but I need this job Johnny. This is feeding my family right now. I hope it’s not because there’s no money. There’s no money. What? No, you said you... Oh no. Okay. I mean the check’s in the mail. Check’s in the mail. Just keep waiting. It’ll be there any day. I’ll be waiting for that. Alright, well Johnny today, what are we talking about? Well in the last episode of Collector’s Quest we went through cat friendly games or family friendly games because cat is a chicken and does not like horror games even though she tries to muddle through Resident Evil. I don’t know why she does that. So we mentioned Scooby Doo offhandedly as one of those games and then I was like how many Scooby Doo"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-001-3",
+          "entity_kind": "game_series",
+          "entity_id": "cq077:cq077-g001",
+          "title": "Scooby-Doo",
+          "game_refs": [
+            "cq077-g001"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 3",
+          "end_exclusive": "Paragraph 4",
+          "reason": "Platform gaps and license ubiquity frame scope.",
+          "evidence": [
+            {
+              "location": "Paragraph 3",
+              "quote": "games are there? And there was more than I thought but also kind of less than I thought for a show that like came out in 1967. You would think there would definitely be some on like early systems right? I mean it’s... it kind of seems like there’s something on every console. That’s not even true. Kind of but not really because while there is like some ZX Spectrum games which one of us here counts, not me, and a Commodore 64 game again when I don’t count but you do, there isn’t anything on the Nintendo or the Sega Master System or... There’s like 2600 even. No. Right? I’m just realizing that. That is really weird for such a popular thing. I can’t think of a lot of cartoon games like that on 2600. And it’s not like Scooby Doo isn’t a licensing whore. They market that shit everywhere. They dump that license. I mean the license must be pretty cheap to get because it’s on everything. It’s one of those stupid joystick games shaped like the Mystery Machine like one of the Plug and Play ones. And you own that right? I god no. But if you watch a YouTube video of it, it’s awful. I was like one time I said oh that’s cool. I like"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-001-4",
+          "entity_kind": "game_series",
+          "entity_id": "cq077:cq077-g001",
+          "title": "Scooby-Doo",
+          "game_refs": [
+            "cq077-g001"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 4",
+          "end_exclusive": "Paragraph 5",
+          "reason": "Computer and plug-and-play inclusion dispute.",
+          "evidence": [
+            {
+              "location": "Paragraph 4",
+              "quote": "Scooby Doo and then I watched a video of gameplay and was like nope never. Wait does that have these games on it or is it all original games? No. It’s only an original game. Whoa. Well that should count on the list. Alright that’s our first game, the Scooby Doo Mystery Machine Plug and Play. Plug and Plays don’t count gross. Don’t tell people that. We don’t endorse those here Tyler. Stop it. Collector’s Quest podcast is your source for ZX Spectrum and Plug and Play gaming. Ugh. Anyways. I’m sorry ZX Spectrum. Send your hate mail to Johnny. Yeah well whatever. Let’s go ahead and tell the people the games that are available and what systems are because a lot of these are cross-platform games which I also found weird because they were like early cross-platform titles. No allegiance. Uh yeah. So I mean the first games that we have on our list it’s just called Scooby Doo and it’s for the ZX Spectrum and Commodore 64 and that’s just a weird kind of kung fu like game where Scooby Doo walks left and right and punches ghosts in the face and then on the ZX there was apparently a sequel called Scooby and Scrappy Doo. Yeah. Which who cares because it has Scrappy Doo in it. Right."
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-001-5",
+          "entity_kind": "game_series",
+          "entity_id": "cq077:cq077-g001",
+          "title": "Scooby-Doo",
+          "game_refs": [
+            "cq077-g001"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 5",
+          "end_exclusive": "Paragraph 6",
+          "reason": "Cheap collecting subset and modern platform gaps asserted.",
+          "evidence": [
+            {
+              "location": "Paragraph 5",
+              "quote": "And we’re not going to do these. I mean do you want to try and do these? Or do you want to try and do these in order? System order? Uh no. We’re just going to go in the list order that happened to be first. Okay. I skipped one because there was another ZX game right below it. Yeah I would have done the same thing. Okay so there’s also a 3DS game which is so we’re going from the earliest to the latest games because there’s nothing on modern consoles like the PS4 as of right yet or the Xbox One or the Switch. So there is one for the 3DS called Scooby Doo and Looney Tunes Cartoon Universe Adventure. And you know that’s an amalgam game. I haven’t really looked at that. You can still buy that new. You can get it for $20. It’s one of the more expensive Scooby titles. I will tell you most of these games are not expensive. So if you are wanting to be a Scooby Doo completionist this is the subset for you because you’re not going to spend a ton of money on it. Another modern thing they have and we’re not exactly sure how to classify these is the Scooby Doo LEGOs Dimension Team Pack which does open"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-001-6",
+          "entity_kind": "game_series",
+          "entity_id": "cq077:cq077-g001",
+          "title": "Scooby-Doo",
+          "game_refs": [
+            "cq077-g001"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 14",
+          "end_exclusive": "Paragraph 15",
+          "reason": "PC exclusion and 17-versus-15 title count.",
+          "evidence": [
+            {
+              "location": "Paragraph 14",
+              "quote": "And then when you get to the 360 and the PS3, and there’s nothing. Okay, I didn’t know where you were going there because you said Xbox. Nice. Associate that with a real Xbox. Yeah, no. I mean that 360 era, the PS3 360 era, you didn’t get any. There was a few on the Wii, but there was none on the Xbox and the PS3. And it was super cross platform this whole time. And then you hit this dead zone. And in fact, the only one you really find in that era was Scooby-Doo who’s watching, which appeared on the DS and the PSP. So that was like the weird PSP one that was out during the PS3 era. And then there’s like five or six PC games that we don’t have because PC games don’t count unless they’re old vintage computers, I guess. I don’t count them. But yeah, there’s like a dearth of them that you can find. A lot of them are based on the Cartoon Network property. So you can go check those out if you want. But they are not expensive. They are like $10. The quick rundown on this series is there are 17 games, but are 17 individual titles. But if you don’t count the double packs, there’s only 15 because"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-001-7",
+          "entity_kind": "game_series",
+          "entity_id": "cq077:cq077-g001",
+          "title": "Scooby-Doo",
+          "game_refs": [
+            "cq077-g001"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 15",
+          "end_exclusive": "Paragraph 16",
+          "reason": "41 platform purchases and variants; completionist scope debate.",
+          "evidence": [
+            {
+              "location": "Paragraph 15",
+              "quote": "two double packs. And if you’re trying to buy everything we just said, that’s 41 games. And there are like three variants are four variants. One is a cart color. You got some greatest hits in there. And yeah, that’s that’s pretty much it. Plug and Play and PC games. Also, if you really want to be a completionist, guys, this is like the people who are going for licensed NES set. First, the people who really want every NES game. That’s not exactly what that’s like. That’s nothing like that. That’s that is inherently false. All right, Tyler, God, we’re not going to let you talk anymore. All right, keep saying things like that. Don’t confuse the people, Tyler. Don’t don’t endorse things like plug and plays. They are terrible. Real collectors by the plug and plays. You know what? If you’ve got a great plug and play collection, I want to bring you on the show and you can tell me all about it. So send your picks to me and let’s talk about it. I’m not kidding. Like, let’s do it. If you’re a plug and play master, eff it. Let’s do it. I’m more talk to you. Okay, let’s let’s end with some stupid facts from Scooby Doo that you may not have known. I’ll go"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-002-1",
+          "entity_kind": "game_series",
+          "entity_id": "cq077:cq077-g002",
+          "title": "Resident Evil",
+          "game_refs": [
+            "cq077-g002"
+          ],
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 2",
+          "end_exclusive": "Paragraph 3",
+          "reason": "Johnny reports Cat sometimes muddles through horror; no named installment.",
+          "evidence": [
+            {
+              "location": "Paragraph 2",
+              "quote": "pretty good. How’d you feel about your first intro? It was real exciting. We got a hurry up because it’s a microcast. We want to get this over with. I don’t know. I mean maybe not we want to get it over with maybe. We’re enjoying our time. We’re just giving a quick episode to the people. I mean if you don’t want to be here Tyler, you’ve only been here a little bit. If you already want to go, I mean it’s fine. No, I need to stay on but I need this job Johnny. This is feeding my family right now. I hope it’s not because there’s no money. There’s no money. What? No, you said you... Oh no. Okay. I mean the check’s in the mail. Check’s in the mail. Just keep waiting. It’ll be there any day. I’ll be waiting for that. Alright, well Johnny today, what are we talking about? Well in the last episode of Collector’s Quest we went through cat friendly games or family friendly games because cat is a chicken and does not like horror games even though she tries to muddle through Resident Evil. I don’t know why she does that. So we mentioned Scooby Doo offhandedly as one of those games and then I was like how many Scooby Doo"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-003-1",
+          "entity_kind": "video_game",
+          "entity_id": "cq077:cq077-g003",
+          "title": "Scooby Doo Mystery Machine Plug and Play",
+          "game_refs": [
+            "cq077-g003"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 3",
+          "end_exclusive": "Paragraph 4",
+          "reason": "Johnny denies ownership after watching poor gameplay video.",
+          "evidence": [
+            {
+              "location": "Paragraph 3",
+              "quote": "games are there? And there was more than I thought but also kind of less than I thought for a show that like came out in 1967. You would think there would definitely be some on like early systems right? I mean it’s... it kind of seems like there’s something on every console. That’s not even true. Kind of but not really because while there is like some ZX Spectrum games which one of us here counts, not me, and a Commodore 64 game again when I don’t count but you do, there isn’t anything on the Nintendo or the Sega Master System or... There’s like 2600 even. No. Right? I’m just realizing that. That is really weird for such a popular thing. I can’t think of a lot of cartoon games like that on 2600. And it’s not like Scooby Doo isn’t a licensing whore. They market that shit everywhere. They dump that license. I mean the license must be pretty cheap to get because it’s on everything. It’s one of those stupid joystick games shaped like the Mystery Machine like one of the Plug and Play ones. And you own that right? I god no. But if you watch a YouTube video of it, it’s awful. I was like one time I said oh that’s cool. I like"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-003-2",
+          "entity_kind": "video_game",
+          "entity_id": "cq077:cq077-g003",
+          "title": "Scooby Doo Mystery Machine Plug and Play",
+          "game_refs": [
+            "cq077-g003"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 4",
+          "end_exclusive": "Paragraph 5",
+          "reason": "Original game, debated whether it belongs in list.",
+          "evidence": [
+            {
+              "location": "Paragraph 4",
+              "quote": "Scooby Doo and then I watched a video of gameplay and was like nope never. Wait does that have these games on it or is it all original games? No. It’s only an original game. Whoa. Well that should count on the list. Alright that’s our first game, the Scooby Doo Mystery Machine Plug and Play. Plug and Plays don’t count gross. Don’t tell people that. We don’t endorse those here Tyler. Stop it. Collector’s Quest podcast is your source for ZX Spectrum and Plug and Play gaming. Ugh. Anyways. I’m sorry ZX Spectrum. Send your hate mail to Johnny. Yeah well whatever. Let’s go ahead and tell the people the games that are available and what systems are because a lot of these are cross-platform games which I also found weird because they were like early cross-platform titles. No allegiance. Uh yeah. So I mean the first games that we have on our list it’s just called Scooby Doo and it’s for the ZX Spectrum and Commodore 64 and that’s just a weird kind of kung fu like game where Scooby Doo walks left and right and punches ghosts in the face and then on the ZX there was apparently a sequel called Scooby and Scrappy Doo. Yeah. Which who cares because it has Scrappy Doo in it. Right."
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-003-3",
+          "entity_kind": "video_game",
+          "entity_id": "cq077:cq077-g003",
+          "title": "Scooby Doo Mystery Machine Plug and Play",
+          "game_refs": [
+            "cq077-g003"
+          ],
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 15",
+          "end_exclusive": "Paragraph 16",
+          "reason": "Generic completionist plug-and-play callback not new named version.",
+          "evidence": [
+            {
+              "location": "Paragraph 15",
+              "quote": "two double packs. And if you’re trying to buy everything we just said, that’s 41 games. And there are like three variants are four variants. One is a cart color. You got some greatest hits in there. And yeah, that’s that’s pretty much it. Plug and Play and PC games. Also, if you really want to be a completionist, guys, this is like the people who are going for licensed NES set. First, the people who really want every NES game. That’s not exactly what that’s like. That’s nothing like that. That’s that is inherently false. All right, Tyler, God, we’re not going to let you talk anymore. All right, keep saying things like that. Don’t confuse the people, Tyler. Don’t don’t endorse things like plug and plays. They are terrible. Real collectors by the plug and plays. You know what? If you’ve got a great plug and play collection, I want to bring you on the show and you can tell me all about it. So send your picks to me and let’s talk about it. I’m not kidding. Like, let’s do it. If you’re a plug and play master, eff it. Let’s do it. I’m more talk to you. Okay, let’s let’s end with some stupid facts from Scooby Doo that you may not have known. I’ll go"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-004-1",
+          "entity_kind": "video_game",
+          "entity_id": "cq077:cq077-g004",
+          "title": "Scooby-Doo",
+          "game_refs": [
+            "cq077-g004"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 4",
+          "end_exclusive": "Paragraph 5",
+          "reason": "Walking left/right and punching ghosts; computer title on list.",
+          "evidence": [
+            {
+              "location": "Paragraph 4",
+              "quote": "Scooby Doo and then I watched a video of gameplay and was like nope never. Wait does that have these games on it or is it all original games? No. It’s only an original game. Whoa. Well that should count on the list. Alright that’s our first game, the Scooby Doo Mystery Machine Plug and Play. Plug and Plays don’t count gross. Don’t tell people that. We don’t endorse those here Tyler. Stop it. Collector’s Quest podcast is your source for ZX Spectrum and Plug and Play gaming. Ugh. Anyways. I’m sorry ZX Spectrum. Send your hate mail to Johnny. Yeah well whatever. Let’s go ahead and tell the people the games that are available and what systems are because a lot of these are cross-platform games which I also found weird because they were like early cross-platform titles. No allegiance. Uh yeah. So I mean the first games that we have on our list it’s just called Scooby Doo and it’s for the ZX Spectrum and Commodore 64 and that’s just a weird kind of kung fu like game where Scooby Doo walks left and right and punches ghosts in the face and then on the ZX there was apparently a sequel called Scooby and Scrappy Doo. Yeah. Which who cares because it has Scrappy Doo in it. Right."
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-005-1",
+          "entity_kind": "video_game",
+          "entity_id": "cq077:cq077-g005",
+          "title": "Scooby-Doo and Scrappy-Doo",
+          "game_refs": [
+            "cq077-g005"
+          ],
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 4",
+          "end_exclusive": "Paragraph 5",
+          "reason": "Sequel named and dismissed through Scrappy joke.",
+          "evidence": [
+            {
+              "location": "Paragraph 4",
+              "quote": "Scooby Doo and then I watched a video of gameplay and was like nope never. Wait does that have these games on it or is it all original games? No. It’s only an original game. Whoa. Well that should count on the list. Alright that’s our first game, the Scooby Doo Mystery Machine Plug and Play. Plug and Plays don’t count gross. Don’t tell people that. We don’t endorse those here Tyler. Stop it. Collector’s Quest podcast is your source for ZX Spectrum and Plug and Play gaming. Ugh. Anyways. I’m sorry ZX Spectrum. Send your hate mail to Johnny. Yeah well whatever. Let’s go ahead and tell the people the games that are available and what systems are because a lot of these are cross-platform games which I also found weird because they were like early cross-platform titles. No allegiance. Uh yeah. So I mean the first games that we have on our list it’s just called Scooby Doo and it’s for the ZX Spectrum and Commodore 64 and that’s just a weird kind of kung fu like game where Scooby Doo walks left and right and punches ghosts in the face and then on the ZX there was apparently a sequel called Scooby and Scrappy Doo. Yeah. Which who cares because it has Scrappy Doo in it. Right."
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-006-1",
+          "entity_kind": "video_game",
+          "entity_id": "cq077:cq077-g006",
+          "title": "Scooby-Doo! & Looney Tunes Cartoon Universe: Adventure",
+          "game_refs": [
+            "cq077-g006"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 5",
+          "end_exclusive": "Paragraph 6",
+          "reason": "Crossover title and historical new price around $20.",
+          "evidence": [
+            {
+              "location": "Paragraph 5",
+              "quote": "And we’re not going to do these. I mean do you want to try and do these? Or do you want to try and do these in order? System order? Uh no. We’re just going to go in the list order that happened to be first. Okay. I skipped one because there was another ZX game right below it. Yeah I would have done the same thing. Okay so there’s also a 3DS game which is so we’re going from the earliest to the latest games because there’s nothing on modern consoles like the PS4 as of right yet or the Xbox One or the Switch. So there is one for the 3DS called Scooby Doo and Looney Tunes Cartoon Universe Adventure. And you know that’s an amalgam game. I haven’t really looked at that. You can still buy that new. You can get it for $20. It’s one of the more expensive Scooby titles. I will tell you most of these games are not expensive. So if you are wanting to be a Scooby Doo completionist this is the subset for you because you’re not going to spend a ton of money on it. Another modern thing they have and we’re not exactly sure how to classify these is the Scooby Doo LEGOs Dimension Team Pack which does open"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-007-1",
+          "entity_kind": "video_game",
+          "entity_id": "cq077:cq077-g007",
+          "title": "LEGO Dimensions",
+          "game_refs": [
+            "cq077-g007"
+          ],
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 5",
+          "end_exclusive": "Paragraph 6",
+          "reason": "Scooby Team Pack introduced.",
+          "evidence": [
+            {
+              "location": "Paragraph 5",
+              "quote": "And we’re not going to do these. I mean do you want to try and do these? Or do you want to try and do these in order? System order? Uh no. We’re just going to go in the list order that happened to be first. Okay. I skipped one because there was another ZX game right below it. Yeah I would have done the same thing. Okay so there’s also a 3DS game which is so we’re going from the earliest to the latest games because there’s nothing on modern consoles like the PS4 as of right yet or the Xbox One or the Switch. So there is one for the 3DS called Scooby Doo and Looney Tunes Cartoon Universe Adventure. And you know that’s an amalgam game. I haven’t really looked at that. You can still buy that new. You can get it for $20. It’s one of the more expensive Scooby titles. I will tell you most of these games are not expensive. So if you are wanting to be a Scooby Doo completionist this is the subset for you because you’re not going to spend a ton of money on it. Another modern thing they have and we’re not exactly sure how to classify these is the Scooby Doo LEGOs Dimension Team Pack which does open"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-007-2",
+          "entity_kind": "video_game",
+          "entity_id": "cq077:cq077-g007",
+          "title": "LEGO Dimensions",
+          "game_refs": [
+            "cq077-g007"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 6",
+          "end_exclusive": "Paragraph 7",
+          "reason": "Pack unlocks gameplay; character usefulness and platform correction.",
+          "evidence": [
+            {
+              "location": "Paragraph 6",
+              "quote": "up some gameplay in LEGO Dimensions. So we’re not really sure how to count these. But there is a Dimension Pack which you can play on the PS3, the PS4, the Xbox 360, the Xbox One, the 3DS, no not the 3DS but the Wii U. So whatever. And that does, that opens up a new level so it is technically a game kind of. And I think I have the Team Pack and I never use Scooby or Shaggy so they must not be very good characters. They’re not. They’re not. Wicked Witch your way through that whole game. Wicked Witch is pretty good if you don’t have some other packs. I think the best character might be Supergirl. Well, that’s like a weird special one. Wicked Witch is with Ritvaz. It’s cool. Yeah, true. Anyways, keep going. Alright, next we’ve got Scooby Doo and the Spooky Swamp which is on PS2 Wii and it was ported to DS and as games in that era go I’m sure the DS port is just wonderful. Yeah. And that’s just a third person platform game. And the cool thing about this is probably one of the more expensive and hard to find games is a variant of the Wii game. It’s one of those, one of the games that they did"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-008-1",
+          "entity_kind": "addon_product",
+          "entity_id": "cq077:cq077-g008",
+          "title": "LEGO Dimensions Scooby-Doo Team Pack",
+          "game_refs": [
+            "cq077-g008"
+          ],
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 5",
+          "end_exclusive": "Paragraph 6",
+          "reason": "Uncertain whether pack counts as game.",
+          "evidence": [
+            {
+              "location": "Paragraph 5",
+              "quote": "And we’re not going to do these. I mean do you want to try and do these? Or do you want to try and do these in order? System order? Uh no. We’re just going to go in the list order that happened to be first. Okay. I skipped one because there was another ZX game right below it. Yeah I would have done the same thing. Okay so there’s also a 3DS game which is so we’re going from the earliest to the latest games because there’s nothing on modern consoles like the PS4 as of right yet or the Xbox One or the Switch. So there is one for the 3DS called Scooby Doo and Looney Tunes Cartoon Universe Adventure. And you know that’s an amalgam game. I haven’t really looked at that. You can still buy that new. You can get it for $20. It’s one of the more expensive Scooby titles. I will tell you most of these games are not expensive. So if you are wanting to be a Scooby Doo completionist this is the subset for you because you’re not going to spend a ton of money on it. Another modern thing they have and we’re not exactly sure how to classify these is the Scooby Doo LEGOs Dimension Team Pack which does open"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-008-2",
+          "entity_kind": "addon_product",
+          "entity_id": "cq077:cq077-g008",
+          "title": "LEGO Dimensions Scooby-Doo Team Pack",
+          "game_refs": [
+            "cq077-g008"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 6",
+          "end_exclusive": "Paragraph 7",
+          "reason": "Ownership/use report, platform list and characters.",
+          "evidence": [
+            {
+              "location": "Paragraph 6",
+              "quote": "up some gameplay in LEGO Dimensions. So we’re not really sure how to count these. But there is a Dimension Pack which you can play on the PS3, the PS4, the Xbox 360, the Xbox One, the 3DS, no not the 3DS but the Wii U. So whatever. And that does, that opens up a new level so it is technically a game kind of. And I think I have the Team Pack and I never use Scooby or Shaggy so they must not be very good characters. They’re not. They’re not. Wicked Witch your way through that whole game. Wicked Witch is pretty good if you don’t have some other packs. I think the best character might be Supergirl. Well, that’s like a weird special one. Wicked Witch is with Ritvaz. It’s cool. Yeah, true. Anyways, keep going. Alright, next we’ve got Scooby Doo and the Spooky Swamp which is on PS2 Wii and it was ported to DS and as games in that era go I’m sure the DS port is just wonderful. Yeah. And that’s just a third person platform game. And the cool thing about this is probably one of the more expensive and hard to find games is a variant of the Wii game. It’s one of those, one of the games that they did"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-009-1",
+          "entity_kind": "video_game",
+          "entity_id": "cq077:cq077-g009",
+          "title": "Scooby-Doo! and the Spooky Swamp",
+          "game_refs": [
+            "cq077-g009"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 6",
+          "end_exclusive": "Paragraph 7",
+          "reason": "Third-person platformer and Wii pack introduced.",
+          "evidence": [
+            {
+              "location": "Paragraph 6",
+              "quote": "up some gameplay in LEGO Dimensions. So we’re not really sure how to count these. But there is a Dimension Pack which you can play on the PS3, the PS4, the Xbox 360, the Xbox One, the 3DS, no not the 3DS but the Wii U. So whatever. And that does, that opens up a new level so it is technically a game kind of. And I think I have the Team Pack and I never use Scooby or Shaggy so they must not be very good characters. They’re not. They’re not. Wicked Witch your way through that whole game. Wicked Witch is pretty good if you don’t have some other packs. I think the best character might be Supergirl. Well, that’s like a weird special one. Wicked Witch is with Ritvaz. It’s cool. Yeah, true. Anyways, keep going. Alright, next we’ve got Scooby Doo and the Spooky Swamp which is on PS2 Wii and it was ported to DS and as games in that era go I’m sure the DS port is just wonderful. Yeah. And that’s just a third person platform game. And the cool thing about this is probably one of the more expensive and hard to find games is a variant of the Wii game. It’s one of those, one of the games that they did"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-010-1",
+          "entity_kind": "video_game",
+          "entity_id": "cq077:cq077-g009",
+          "title": "Scooby-Doo! and the Spooky Swamp",
+          "game_refs": [
+            "cq077-g010"
+          ],
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 6",
+          "end_exclusive": "Paragraph 7",
+          "reason": "Variant introduced near paragraph end.",
+          "evidence": [
+            {
+              "location": "Paragraph 6",
+              "quote": "up some gameplay in LEGO Dimensions. So we’re not really sure how to count these. But there is a Dimension Pack which you can play on the PS3, the PS4, the Xbox 360, the Xbox One, the 3DS, no not the 3DS but the Wii U. So whatever. And that does, that opens up a new level so it is technically a game kind of. And I think I have the Team Pack and I never use Scooby or Shaggy so they must not be very good characters. They’re not. They’re not. Wicked Witch your way through that whole game. Wicked Witch is pretty good if you don’t have some other packs. I think the best character might be Supergirl. Well, that’s like a weird special one. Wicked Witch is with Ritvaz. It’s cool. Yeah, true. Anyways, keep going. Alright, next we’ve got Scooby Doo and the Spooky Swamp which is on PS2 Wii and it was ported to DS and as games in that era go I’m sure the DS port is just wonderful. Yeah. And that’s just a third person platform game. And the cool thing about this is probably one of the more expensive and hard to find games is a variant of the Wii game. It’s one of those, one of the games that they did"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-010-2",
+          "entity_kind": "video_game",
+          "entity_id": "cq077:cq077-g009",
+          "title": "Scooby-Doo! and the Spooky Swamp",
+          "game_refs": [
+            "cq077-g010"
+          ],
+          "role": "SUBSTANTIAL_COVERAGE",
+          "start": "Paragraph 7",
+          "end_exclusive": "Paragraph 8",
+          "reason": "Own $20 copy and variable asking/sold prices; do not pay $100 advice.",
+          "evidence": [
+            {
+              "location": "Paragraph 7",
+              "quote": "with the shield cover on it and it came with a DVD in the back. So it came with I think Scooby Doo Movie 2 DVD. So it’s one of the weird DVD collector’s packs. And those you can usually find for like $25 but sometimes you see them all the way up to $100 on eBay. And they don’t appear too often. I mean usually there’s like three or four but it’s not the most common Scooby game. You told me that this was going to be a real cheap set to complete. Now you’re talking about $100 Wii games. Well, you should not pay $100 for it. I’m just telling you what people are trying to list it as because there’s usually only four or five at a time. Maybe four at a time. In fact like three weeks ago when I was looking for one, there was none and then all of a sudden five popped up. So you know, just hold yourself on that. I got mine for $20. I saw one sell for $15 and then I saw one sell for $49. So all right, well, if there’s that many available, it doesn’t seem like it’s going to be too bad. Not too bad, but it is one I would keep your eye on. Yep."
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-011-1",
+          "entity_kind": "video_game",
+          "entity_id": "cq077:cq077-g011",
+          "title": "Scooby-Doo! Classic Creep Capers",
+          "game_refs": [
+            "cq077-g011"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 8",
+          "end_exclusive": "Paragraph 9",
+          "reason": "Black and gray cartridge variants, relative rarity unknown.",
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "All right. What’s next? We do classic creep capers, which this is another like weird one, right? So it was on the Game Boy Color. That’s a port of the N64 game. So that’s the only two systems it was on. And I don’t know which one was the original, but here’s the thing to look out for here. There’s a black card available and a gray card. It’s one of those few N64 games that came with a colored card or a gray card. So I’m not sure which is more rare there, but they both exist. So keep your eye out. All right. Next is Scooby Doo and the Cyber Chase, which is on the GBA and the PS1. And that’s based on a 2001 movie, one of the very many freaking Scooby Doo movies. Yeah. And I don’t think those games are the same at all. No, animated movie. Oh, animated movie. I’m sorry. Are there non-animated movies? I mean, there’s the live action one, but Scooby still anim... counts. Well, okay, fine. Fair. PlayStation game, just a 3D action game, and then the GBA one’s a side scroller as all those handheld ports kind of go. Yeah, it’s... that’s always a weird territory in gaming for me because people say, \"Oh, yeah, well, I have that"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-012-1",
+          "entity_kind": "video_game",
+          "entity_id": "cq077:cq077-g012",
+          "title": "Scooby-Doo! Classic Creep Capers",
+          "game_refs": [
+            "cq077-g012"
+          ],
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 8",
+          "end_exclusive": "Paragraph 9",
+          "reason": "Called N64 port but version relationship not verified.",
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "All right. What’s next? We do classic creep capers, which this is another like weird one, right? So it was on the Game Boy Color. That’s a port of the N64 game. So that’s the only two systems it was on. And I don’t know which one was the original, but here’s the thing to look out for here. There’s a black card available and a gray card. It’s one of those few N64 games that came with a colored card or a gray card. So I’m not sure which is more rare there, but they both exist. So keep your eye out. All right. Next is Scooby Doo and the Cyber Chase, which is on the GBA and the PS1. And that’s based on a 2001 movie, one of the very many freaking Scooby Doo movies. Yeah. And I don’t think those games are the same at all. No, animated movie. Oh, animated movie. I’m sorry. Are there non-animated movies? I mean, there’s the live action one, but Scooby still anim... counts. Well, okay, fine. Fair. PlayStation game, just a 3D action game, and then the GBA one’s a side scroller as all those handheld ports kind of go. Yeah, it’s... that’s always a weird territory in gaming for me because people say, \"Oh, yeah, well, I have that"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-013-1",
+          "entity_kind": "video_game",
+          "entity_id": "cq077:cq077-g013",
+          "title": "Scooby-Doo! and the Cyber Chase",
+          "game_refs": [
+            "cq077-g013"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 8",
+          "end_exclusive": "Paragraph 9",
+          "reason": "3D action compared with distinct GBA side-scroller.",
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "All right. What’s next? We do classic creep capers, which this is another like weird one, right? So it was on the Game Boy Color. That’s a port of the N64 game. So that’s the only two systems it was on. And I don’t know which one was the original, but here’s the thing to look out for here. There’s a black card available and a gray card. It’s one of those few N64 games that came with a colored card or a gray card. So I’m not sure which is more rare there, but they both exist. So keep your eye out. All right. Next is Scooby Doo and the Cyber Chase, which is on the GBA and the PS1. And that’s based on a 2001 movie, one of the very many freaking Scooby Doo movies. Yeah. And I don’t think those games are the same at all. No, animated movie. Oh, animated movie. I’m sorry. Are there non-animated movies? I mean, there’s the live action one, but Scooby still anim... counts. Well, okay, fine. Fair. PlayStation game, just a 3D action game, and then the GBA one’s a side scroller as all those handheld ports kind of go. Yeah, it’s... that’s always a weird territory in gaming for me because people say, \"Oh, yeah, well, I have that"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-013-2",
+          "entity_kind": "video_game",
+          "entity_id": "cq077:cq077-g013",
+          "title": "Scooby-Doo! and the Cyber Chase",
+          "game_refs": [
+            "cq077-g013"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 9",
+          "end_exclusive": "Paragraph 10",
+          "reason": "Greatest Hits variant and version ownership distinction.",
+          "evidence": [
+            {
+              "location": "Paragraph 9",
+              "quote": "game.\" And you’re like, \"Well, you really don’t if you have the GBA version because it’s not really the same.\" Yeah. Yeah. That stuff drives me nuts. And then the PS1 version of that also has a great tits variant. Yeah. And it’s also... the GBA has a double pack with an additional game called Mystery Mayhem, which is one of the individual titles also on the GBA. And that’s one of those ones you should also keep your eye on because all of the GBA double pack games are always kind of hard to find, and they always wind up fetching a pretty high price. Right now, they’re still relatively cheap, but as people get into GBA collecting, they’ll start to target things like the double packs because they’re just less common. So if you see those, you know, and they’re under like 15 bucks, pick them up. Anyways, what do we got next? Oh, man. Scooby-Doo first frights. I actually know nothing about this game, Johnny. So tell me what they are. Oh, they’re not good. They are more modern. And it was kind of in that weird mid-2000s when they were messing with Scooby’s image a little bit. It wasn’t the full overhaul. Like they just did in a comic where they hipstered up Shaggy and stuff"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-014-1",
+          "entity_kind": "video_game",
+          "entity_id": "cq077:cq077-g014",
+          "title": "Scooby-Doo! and the Cyber Chase",
+          "game_refs": [
+            "cq077-g014"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 8",
+          "end_exclusive": "Paragraph 9",
+          "reason": "Side-scroller explicitly distinguished from console game.",
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "All right. What’s next? We do classic creep capers, which this is another like weird one, right? So it was on the Game Boy Color. That’s a port of the N64 game. So that’s the only two systems it was on. And I don’t know which one was the original, but here’s the thing to look out for here. There’s a black card available and a gray card. It’s one of those few N64 games that came with a colored card or a gray card. So I’m not sure which is more rare there, but they both exist. So keep your eye out. All right. Next is Scooby Doo and the Cyber Chase, which is on the GBA and the PS1. And that’s based on a 2001 movie, one of the very many freaking Scooby Doo movies. Yeah. And I don’t think those games are the same at all. No, animated movie. Oh, animated movie. I’m sorry. Are there non-animated movies? I mean, there’s the live action one, but Scooby still anim... counts. Well, okay, fine. Fair. PlayStation game, just a 3D action game, and then the GBA one’s a side scroller as all those handheld ports kind of go. Yeah, it’s... that’s always a weird territory in gaming for me because people say, \"Oh, yeah, well, I have that"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-014-2",
+          "entity_kind": "video_game",
+          "entity_id": "cq077:cq077-g014",
+          "title": "Scooby-Doo! and the Cyber Chase",
+          "game_refs": [
+            "cq077-g014"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 9",
+          "end_exclusive": "Paragraph 10",
+          "reason": "Double pack with Mystery Mayhem discussed.",
+          "evidence": [
+            {
+              "location": "Paragraph 9",
+              "quote": "game.\" And you’re like, \"Well, you really don’t if you have the GBA version because it’s not really the same.\" Yeah. Yeah. That stuff drives me nuts. And then the PS1 version of that also has a great tits variant. Yeah. And it’s also... the GBA has a double pack with an additional game called Mystery Mayhem, which is one of the individual titles also on the GBA. And that’s one of those ones you should also keep your eye on because all of the GBA double pack games are always kind of hard to find, and they always wind up fetching a pretty high price. Right now, they’re still relatively cheap, but as people get into GBA collecting, they’ll start to target things like the double packs because they’re just less common. So if you see those, you know, and they’re under like 15 bucks, pick them up. Anyways, what do we got next? Oh, man. Scooby-Doo first frights. I actually know nothing about this game, Johnny. So tell me what they are. Oh, they’re not good. They are more modern. And it was kind of in that weird mid-2000s when they were messing with Scooby’s image a little bit. It wasn’t the full overhaul. Like they just did in a comic where they hipstered up Shaggy and stuff"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-014-3",
+          "entity_kind": "video_game",
+          "entity_id": "cq077:cq077-g014",
+          "title": "Scooby-Doo! and the Cyber Chase",
+          "game_refs": [
+            "cq077-g014"
+          ],
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 12",
+          "end_exclusive": "Paragraph 13",
+          "reason": "Double-pack callback during Mystery Mayhem platform list.",
+          "evidence": [
+            {
+              "location": "Paragraph 12",
+              "quote": "here’s where we get more into that, them messing with Scooby-Doo and the weird thing that Scooby-Doo games are always cross-platform and it’s that Mystery Mayhem game I told you about that was in the double pack with Cyber Chase and it is for the GameCube, the GBA, the PS2 and the Xbox. It was everywhere. All right, so what’s the next one, Tyler? All right, next we got Scooby-Doo Night of a Thousand Frights, which is just on GameCube, PS2, Xbox. It’s just kind of a standard 3D action platformer. That one’s got a greatest hits variant on the PS2 and I think that’s one of the last Xbox manuals I got. So I think it’s kind of uncommon on Xbox. Yeah, it is a little bit, but it’s not too expensive. It is the more expensive of the Xbox titles. They’re all like $10 and that one’s like $15. I mean, nothing’s too expensive on Xbox. It’s Xbox. Well, I mean, Jurassic Park? Yeah, all right. There’s a handful of games, fine. Okay, yeah. There’s a few over $100 or in that $100 range, but not many. Not when you stack it next to the Super Nintendo, you’re like, \"Oh, that’s cheap. Thank goodness.\" Yeah. Anyways, we move into some more GBA stuff and I’m just going to"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-015-1",
+          "entity_kind": "video_game",
+          "entity_id": "cq077:cq077-g015",
+          "title": "Scooby-Doo! Mystery Mayhem",
+          "game_refs": [
+            "cq077-g015"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 9",
+          "end_exclusive": "Paragraph 10",
+          "reason": "Standalone GBA title and double-pack pairing.",
+          "evidence": [
+            {
+              "location": "Paragraph 9",
+              "quote": "game.\" And you’re like, \"Well, you really don’t if you have the GBA version because it’s not really the same.\" Yeah. Yeah. That stuff drives me nuts. And then the PS1 version of that also has a great tits variant. Yeah. And it’s also... the GBA has a double pack with an additional game called Mystery Mayhem, which is one of the individual titles also on the GBA. And that’s one of those ones you should also keep your eye on because all of the GBA double pack games are always kind of hard to find, and they always wind up fetching a pretty high price. Right now, they’re still relatively cheap, but as people get into GBA collecting, they’ll start to target things like the double packs because they’re just less common. So if you see those, you know, and they’re under like 15 bucks, pick them up. Anyways, what do we got next? Oh, man. Scooby-Doo first frights. I actually know nothing about this game, Johnny. So tell me what they are. Oh, they’re not good. They are more modern. And it was kind of in that weird mid-2000s when they were messing with Scooby’s image a little bit. It wasn’t the full overhaul. Like they just did in a comic where they hipstered up Shaggy and stuff"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-015-2",
+          "entity_kind": "video_game",
+          "entity_id": "cq077:cq077-g015",
+          "title": "Scooby-Doo! Mystery Mayhem",
+          "game_refs": [
+            "cq077-g015"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 12",
+          "end_exclusive": "Paragraph 13",
+          "reason": "Cross-platform list, not proof versions identical.",
+          "evidence": [
+            {
+              "location": "Paragraph 12",
+              "quote": "here’s where we get more into that, them messing with Scooby-Doo and the weird thing that Scooby-Doo games are always cross-platform and it’s that Mystery Mayhem game I told you about that was in the double pack with Cyber Chase and it is for the GameCube, the GBA, the PS2 and the Xbox. It was everywhere. All right, so what’s the next one, Tyler? All right, next we got Scooby-Doo Night of a Thousand Frights, which is just on GameCube, PS2, Xbox. It’s just kind of a standard 3D action platformer. That one’s got a greatest hits variant on the PS2 and I think that’s one of the last Xbox manuals I got. So I think it’s kind of uncommon on Xbox. Yeah, it is a little bit, but it’s not too expensive. It is the more expensive of the Xbox titles. They’re all like $10 and that one’s like $15. I mean, nothing’s too expensive on Xbox. It’s Xbox. Well, I mean, Jurassic Park? Yeah, all right. There’s a handful of games, fine. Okay, yeah. There’s a few over $100 or in that $100 range, but not many. Not when you stack it next to the Super Nintendo, you’re like, \"Oh, that’s cheap. Thank goodness.\" Yeah. Anyways, we move into some more GBA stuff and I’m just going to"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-016-1",
+          "entity_kind": "compilation",
+          "entity_id": "cq077:cq077-g016",
+          "title": "Scooby-Doo Cyber Chase / Mystery Mayhem Double Pack",
+          "game_refs": [
+            "cq077-g016"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 9",
+          "end_exclusive": "Paragraph 10",
+          "reason": "Less-common double pack and historical under-$15 recommendation.",
+          "evidence": [
+            {
+              "location": "Paragraph 9",
+              "quote": "game.\" And you’re like, \"Well, you really don’t if you have the GBA version because it’s not really the same.\" Yeah. Yeah. That stuff drives me nuts. And then the PS1 version of that also has a great tits variant. Yeah. And it’s also... the GBA has a double pack with an additional game called Mystery Mayhem, which is one of the individual titles also on the GBA. And that’s one of those ones you should also keep your eye on because all of the GBA double pack games are always kind of hard to find, and they always wind up fetching a pretty high price. Right now, they’re still relatively cheap, but as people get into GBA collecting, they’ll start to target things like the double packs because they’re just less common. So if you see those, you know, and they’re under like 15 bucks, pick them up. Anyways, what do we got next? Oh, man. Scooby-Doo first frights. I actually know nothing about this game, Johnny. So tell me what they are. Oh, they’re not good. They are more modern. And it was kind of in that weird mid-2000s when they were messing with Scooby’s image a little bit. It wasn’t the full overhaul. Like they just did in a comic where they hipstered up Shaggy and stuff"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-016-2",
+          "entity_kind": "compilation",
+          "entity_id": "cq077:cq077-g016",
+          "title": "Scooby-Doo Cyber Chase / Mystery Mayhem Double Pack",
+          "game_refs": [
+            "cq077-g016"
+          ],
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 12",
+          "end_exclusive": "Paragraph 13",
+          "reason": "Pairing callback.",
+          "evidence": [
+            {
+              "location": "Paragraph 12",
+              "quote": "here’s where we get more into that, them messing with Scooby-Doo and the weird thing that Scooby-Doo games are always cross-platform and it’s that Mystery Mayhem game I told you about that was in the double pack with Cyber Chase and it is for the GameCube, the GBA, the PS2 and the Xbox. It was everywhere. All right, so what’s the next one, Tyler? All right, next we got Scooby-Doo Night of a Thousand Frights, which is just on GameCube, PS2, Xbox. It’s just kind of a standard 3D action platformer. That one’s got a greatest hits variant on the PS2 and I think that’s one of the last Xbox manuals I got. So I think it’s kind of uncommon on Xbox. Yeah, it is a little bit, but it’s not too expensive. It is the more expensive of the Xbox titles. They’re all like $10 and that one’s like $15. I mean, nothing’s too expensive on Xbox. It’s Xbox. Well, I mean, Jurassic Park? Yeah, all right. There’s a handful of games, fine. Okay, yeah. There’s a few over $100 or in that $100 range, but not many. Not when you stack it next to the Super Nintendo, you’re like, \"Oh, that’s cheap. Thank goodness.\" Yeah. Anyways, we move into some more GBA stuff and I’m just going to"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-017-1",
+          "entity_kind": "video_game",
+          "entity_id": "cq077:cq077-g017",
+          "title": "Scooby-Doo! First Frights",
+          "game_refs": [
+            "cq077-g017"
+          ],
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 9",
+          "end_exclusive": "Paragraph 10",
+          "reason": "Named introduction and Johnny begins negative opinion.",
+          "evidence": [
+            {
+              "location": "Paragraph 9",
+              "quote": "game.\" And you’re like, \"Well, you really don’t if you have the GBA version because it’s not really the same.\" Yeah. Yeah. That stuff drives me nuts. And then the PS1 version of that also has a great tits variant. Yeah. And it’s also... the GBA has a double pack with an additional game called Mystery Mayhem, which is one of the individual titles also on the GBA. And that’s one of those ones you should also keep your eye on because all of the GBA double pack games are always kind of hard to find, and they always wind up fetching a pretty high price. Right now, they’re still relatively cheap, but as people get into GBA collecting, they’ll start to target things like the double packs because they’re just less common. So if you see those, you know, and they’re under like 15 bucks, pick them up. Anyways, what do we got next? Oh, man. Scooby-Doo first frights. I actually know nothing about this game, Johnny. So tell me what they are. Oh, they’re not good. They are more modern. And it was kind of in that weird mid-2000s when they were messing with Scooby’s image a little bit. It wasn’t the full overhaul. Like they just did in a comic where they hipstered up Shaggy and stuff"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-017-2",
+          "entity_kind": "video_game",
+          "entity_id": "cq077:cq077-g017",
+          "title": "Scooby-Doo! First Frights",
+          "game_refs": [
+            "cq077-g017"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 10",
+          "end_exclusive": "Paragraph 11",
+          "reason": "Johnny dismisses it in franchise redesign context.",
+          "evidence": [
+            {
+              "location": "Paragraph 10",
+              "quote": "in the gang and gave them... That’s awful. Just check out Shaggy Hipster and you’ll know what I’m talking about. It’s not great, but this was when they were messing with the animated formula a little bit and as they were transferring it into Cartoon Network and they were kind of revitalizing the series, they’re not great games. It’s on the DS, the PS2 and the Wii. It’s that version of game. Just ignore them. You don’t really need to play them. I feel like a revitalize is in quotes there for Scooby-Doo in the early 2000s, but okay. Yeah. Well, they do that a bunch trying like get that shit back online and it doesn’t work. I mean, what it’s been going on since the 60s, so it’s going to go through transformations, right? Well, that’s like here, we’ll introduce one of our fun facts for Scooby-Doo. No Scooby-Doo series has ever lasted more than four seasons and it’s been on pretty much forever since 1967. They keep changing up the formula just a little bit. I mean, are the same formula but like tweaking it, calling it something else, trying to make it work, but it’s very popular. It always works for at least a little while and then they stop and then they’re like, \"Oh, here’s a"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-018-1",
+          "entity_kind": "video_game",
+          "entity_id": "cq077:cq077-g018",
+          "title": "Scooby-Doo's Maze Chase",
+          "game_refs": [
+            "cq077-g018"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 11",
+          "end_exclusive": "Paragraph 12",
+          "reason": "Johnny's favorite cover, willingness to buy for art rather than a completed purchase; reported complete price range.",
+          "evidence": [
+            {
+              "location": "Paragraph 11",
+              "quote": "new Scooby-Doo and people start over. I don’t know why that happens, but it does.\" Here comes to, \"This is going to be weird for you guys, but this is my favorite cover of any of the Scooby-Doo games and it’s Scooby-Doo Maze Chase and it’s for the Intellivision. I really, I like this enough to buy it. It is the most expensive, solidly the most expensive title on the list and it reaches from $40 to $80 for a complete one.\" It’s an Intellivision game so no one cares and it just looks like it’s a Pac-Man ripoff. Yeah, it’s not great, but it looks cool. The cover is cool. All right. All right. Now you can lead us into the 16-bit era. Yes, we got Scooby-Doo Mysteries, which is one of the few games I’ve actually completed on this list, which is on the Genesis and Super Nintendo and it’s super common. I see it everywhere. It’s kind of like a My First Adventure point and click adventure game and it’s got some logical puzzles and it’s actually kind of fun. Yeah, it is fun. I like it a good deal. But they’re not expensive. We’re like even for a Super Nintendo game, not that expensive, but good. It’s a good game. Yeah. What’s the next one? Well,"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-019-1",
+          "entity_kind": "video_game",
+          "entity_id": "cq077:cq077-g019",
+          "title": "Pac-Man",
+          "game_refs": [
+            "cq077-g019"
+          ],
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 11",
+          "end_exclusive": "Paragraph 12",
+          "reason": "Maze Chase described as apparent ripoff, no play or edition.",
+          "evidence": [
+            {
+              "location": "Paragraph 11",
+              "quote": "new Scooby-Doo and people start over. I don’t know why that happens, but it does.\" Here comes to, \"This is going to be weird for you guys, but this is my favorite cover of any of the Scooby-Doo games and it’s Scooby-Doo Maze Chase and it’s for the Intellivision. I really, I like this enough to buy it. It is the most expensive, solidly the most expensive title on the list and it reaches from $40 to $80 for a complete one.\" It’s an Intellivision game so no one cares and it just looks like it’s a Pac-Man ripoff. Yeah, it’s not great, but it looks cool. The cover is cool. All right. All right. Now you can lead us into the 16-bit era. Yes, we got Scooby-Doo Mysteries, which is one of the few games I’ve actually completed on this list, which is on the Genesis and Super Nintendo and it’s super common. I see it everywhere. It’s kind of like a My First Adventure point and click adventure game and it’s got some logical puzzles and it’s actually kind of fun. Yeah, it is fun. I like it a good deal. But they’re not expensive. We’re like even for a Super Nintendo game, not that expensive, but good. It’s a good game. Yeah. What’s the next one? Well,"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-020-1",
+          "entity_kind": "video_game",
+          "entity_id": "cq077:cq077-g020",
+          "title": "Scooby-Doo Mystery",
+          "game_refs": [
+            "cq077-g020"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 11",
+          "end_exclusive": "Paragraph 12",
+          "reason": "Completion and point-and-click description not safely platform-specific.",
+          "evidence": [
+            {
+              "location": "Paragraph 11",
+              "quote": "new Scooby-Doo and people start over. I don’t know why that happens, but it does.\" Here comes to, \"This is going to be weird for you guys, but this is my favorite cover of any of the Scooby-Doo games and it’s Scooby-Doo Maze Chase and it’s for the Intellivision. I really, I like this enough to buy it. It is the most expensive, solidly the most expensive title on the list and it reaches from $40 to $80 for a complete one.\" It’s an Intellivision game so no one cares and it just looks like it’s a Pac-Man ripoff. Yeah, it’s not great, but it looks cool. The cover is cool. All right. All right. Now you can lead us into the 16-bit era. Yes, we got Scooby-Doo Mysteries, which is one of the few games I’ve actually completed on this list, which is on the Genesis and Super Nintendo and it’s super common. I see it everywhere. It’s kind of like a My First Adventure point and click adventure game and it’s got some logical puzzles and it’s actually kind of fun. Yeah, it is fun. I like it a good deal. But they’re not expensive. We’re like even for a Super Nintendo game, not that expensive, but good. It’s a good game. Yeah. What’s the next one? Well,"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-021-1",
+          "entity_kind": "video_game",
+          "entity_id": "cq077:cq077-g021",
+          "title": "Scooby-Doo Mystery",
+          "game_refs": [
+            "cq077-g021"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 11",
+          "end_exclusive": "Paragraph 12",
+          "reason": "Common inexpensive SNES copy, fun puzzles; completion platform unspecified.",
+          "evidence": [
+            {
+              "location": "Paragraph 11",
+              "quote": "new Scooby-Doo and people start over. I don’t know why that happens, but it does.\" Here comes to, \"This is going to be weird for you guys, but this is my favorite cover of any of the Scooby-Doo games and it’s Scooby-Doo Maze Chase and it’s for the Intellivision. I really, I like this enough to buy it. It is the most expensive, solidly the most expensive title on the list and it reaches from $40 to $80 for a complete one.\" It’s an Intellivision game so no one cares and it just looks like it’s a Pac-Man ripoff. Yeah, it’s not great, but it looks cool. The cover is cool. All right. All right. Now you can lead us into the 16-bit era. Yes, we got Scooby-Doo Mysteries, which is one of the few games I’ve actually completed on this list, which is on the Genesis and Super Nintendo and it’s super common. I see it everywhere. It’s kind of like a My First Adventure point and click adventure game and it’s got some logical puzzles and it’s actually kind of fun. Yeah, it is fun. I like it a good deal. But they’re not expensive. We’re like even for a Super Nintendo game, not that expensive, but good. It’s a good game. Yeah. What’s the next one? Well,"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-022-1",
+          "entity_kind": "video_game",
+          "entity_id": "cq077:cq077-g022",
+          "title": "Scooby-Doo! Night of 100 Frights",
+          "game_refs": [
+            "cq077-g022"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 12",
+          "end_exclusive": "Paragraph 13",
+          "reason": "Platformer, PS2 Greatest Hits and Xbox manual acquisition/relative price.",
+          "evidence": [
+            {
+              "location": "Paragraph 12",
+              "quote": "here’s where we get more into that, them messing with Scooby-Doo and the weird thing that Scooby-Doo games are always cross-platform and it’s that Mystery Mayhem game I told you about that was in the double pack with Cyber Chase and it is for the GameCube, the GBA, the PS2 and the Xbox. It was everywhere. All right, so what’s the next one, Tyler? All right, next we got Scooby-Doo Night of a Thousand Frights, which is just on GameCube, PS2, Xbox. It’s just kind of a standard 3D action platformer. That one’s got a greatest hits variant on the PS2 and I think that’s one of the last Xbox manuals I got. So I think it’s kind of uncommon on Xbox. Yeah, it is a little bit, but it’s not too expensive. It is the more expensive of the Xbox titles. They’re all like $10 and that one’s like $15. I mean, nothing’s too expensive on Xbox. It’s Xbox. Well, I mean, Jurassic Park? Yeah, all right. There’s a handful of games, fine. Okay, yeah. There’s a few over $100 or in that $100 range, but not many. Not when you stack it next to the Super Nintendo, you’re like, \"Oh, that’s cheap. Thank goodness.\" Yeah. Anyways, we move into some more GBA stuff and I’m just going to"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-023-1",
+          "entity_kind": "video_game",
+          "entity_id": "cq077:cq077-g023",
+          "title": "Jurassic Park",
+          "game_refs": [
+            "cq077-g023"
+          ],
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 12",
+          "end_exclusive": "Paragraph 13",
+          "reason": "Counterexample to cheap Xbox generalization; possible Operation Genesis not verified.",
+          "evidence": [
+            {
+              "location": "Paragraph 12",
+              "quote": "here’s where we get more into that, them messing with Scooby-Doo and the weird thing that Scooby-Doo games are always cross-platform and it’s that Mystery Mayhem game I told you about that was in the double pack with Cyber Chase and it is for the GameCube, the GBA, the PS2 and the Xbox. It was everywhere. All right, so what’s the next one, Tyler? All right, next we got Scooby-Doo Night of a Thousand Frights, which is just on GameCube, PS2, Xbox. It’s just kind of a standard 3D action platformer. That one’s got a greatest hits variant on the PS2 and I think that’s one of the last Xbox manuals I got. So I think it’s kind of uncommon on Xbox. Yeah, it is a little bit, but it’s not too expensive. It is the more expensive of the Xbox titles. They’re all like $10 and that one’s like $15. I mean, nothing’s too expensive on Xbox. It’s Xbox. Well, I mean, Jurassic Park? Yeah, all right. There’s a handful of games, fine. Okay, yeah. There’s a few over $100 or in that $100 range, but not many. Not when you stack it next to the Super Nintendo, you’re like, \"Oh, that’s cheap. Thank goodness.\" Yeah. Anyways, we move into some more GBA stuff and I’m just going to"
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-024-1",
+          "entity_kind": "video_game",
+          "entity_id": "cq077:cq077-g024",
+          "title": "Scooby-Doo",
+          "game_refs": [
+            "cq077-g024"
+          ],
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 13",
+          "end_exclusive": "Paragraph 14",
+          "reason": "Movie-based standalone named in quick list.",
+          "evidence": [
+            {
+              "location": "Paragraph 13",
+              "quote": "take this chunk of them and it’s Scooby-Doo the Movie. Scooby-Doo the Movie 2 Monsters Unleashed, both for the GBA and those games have one of those sweet double packs also for the GBA. So look for those. They aren’t good. They are movie based games. Next. All right. Next is Scooby-Doo Unmasked. That’s on DS GameCube, GBA, PS2, Xbox, everything. I don’t know what that is, Johnny. I’m going to guess it’s a 3D action platformer, but you can go ahead and tell me I’m wrong. You know, I don’t know. I don’t know. Comic-Collector’s Quest for the most informed game news. I didn’t play it. Look, I’ve played a lot of Scooby-Doo games, more than most of the people here, but yeah, I didn’t get to these ones. I didn’t do a bunch of gaming right here through this era of games. I was pretty much playing dedicated long games, not just like all over the place. I was collecting more than I was playing. Okay. Yeah, it’s just so weird that there were no Scooby-Doo games on those really early platforms then. And then there’s just a spam of them through this era. Yeah, it’s bizarre. And then as you get into the Xbox, there’s none, which is weird. So this era had a flood of them."
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-025-1",
+          "entity_kind": "video_game",
+          "entity_id": "cq077:cq077-g025",
+          "title": "Scooby-Doo 2: Monsters Unleashed",
+          "game_refs": [
+            "cq077-g025"
+          ],
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 13",
+          "end_exclusive": "Paragraph 14",
+          "reason": "Second movie-based standalone named.",
+          "evidence": [
+            {
+              "location": "Paragraph 13",
+              "quote": "take this chunk of them and it’s Scooby-Doo the Movie. Scooby-Doo the Movie 2 Monsters Unleashed, both for the GBA and those games have one of those sweet double packs also for the GBA. So look for those. They aren’t good. They are movie based games. Next. All right. Next is Scooby-Doo Unmasked. That’s on DS GameCube, GBA, PS2, Xbox, everything. I don’t know what that is, Johnny. I’m going to guess it’s a 3D action platformer, but you can go ahead and tell me I’m wrong. You know, I don’t know. I don’t know. Comic-Collector’s Quest for the most informed game news. I didn’t play it. Look, I’ve played a lot of Scooby-Doo games, more than most of the people here, but yeah, I didn’t get to these ones. I didn’t do a bunch of gaming right here through this era of games. I was pretty much playing dedicated long games, not just like all over the place. I was collecting more than I was playing. Okay. Yeah, it’s just so weird that there were no Scooby-Doo games on those really early platforms then. And then there’s just a spam of them through this era. Yeah, it’s bizarre. And then as you get into the Xbox, there’s none, which is weird. So this era had a flood of them."
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-026-1",
+          "entity_kind": "compilation",
+          "entity_id": "cq077:cq077-g026",
+          "title": "Scooby-Doo / Scooby-Doo 2: Monsters Unleashed Double Pack",
+          "game_refs": [
+            "cq077-g026"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 13",
+          "end_exclusive": "Paragraph 14",
+          "reason": "Combined pack separately noted, no claim of ownership.",
+          "evidence": [
+            {
+              "location": "Paragraph 13",
+              "quote": "take this chunk of them and it’s Scooby-Doo the Movie. Scooby-Doo the Movie 2 Monsters Unleashed, both for the GBA and those games have one of those sweet double packs also for the GBA. So look for those. They aren’t good. They are movie based games. Next. All right. Next is Scooby-Doo Unmasked. That’s on DS GameCube, GBA, PS2, Xbox, everything. I don’t know what that is, Johnny. I’m going to guess it’s a 3D action platformer, but you can go ahead and tell me I’m wrong. You know, I don’t know. I don’t know. Comic-Collector’s Quest for the most informed game news. I didn’t play it. Look, I’ve played a lot of Scooby-Doo games, more than most of the people here, but yeah, I didn’t get to these ones. I didn’t do a bunch of gaming right here through this era of games. I was pretty much playing dedicated long games, not just like all over the place. I was collecting more than I was playing. Okay. Yeah, it’s just so weird that there were no Scooby-Doo games on those really early platforms then. And then there’s just a spam of them through this era. Yeah, it’s bizarre. And then as you get into the Xbox, there’s none, which is weird. So this era had a flood of them."
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-027-1",
+          "entity_kind": "video_game",
+          "entity_id": "cq077:cq077-g027",
+          "title": "Scooby-Doo! Unmasked",
+          "game_refs": [
+            "cq077-g027"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 13",
+          "end_exclusive": "Paragraph 14",
+          "reason": "Platform list; guessed genre and Johnny explicitly has not played.",
+          "evidence": [
+            {
+              "location": "Paragraph 13",
+              "quote": "take this chunk of them and it’s Scooby-Doo the Movie. Scooby-Doo the Movie 2 Monsters Unleashed, both for the GBA and those games have one of those sweet double packs also for the GBA. So look for those. They aren’t good. They are movie based games. Next. All right. Next is Scooby-Doo Unmasked. That’s on DS GameCube, GBA, PS2, Xbox, everything. I don’t know what that is, Johnny. I’m going to guess it’s a 3D action platformer, but you can go ahead and tell me I’m wrong. You know, I don’t know. I don’t know. Comic-Collector’s Quest for the most informed game news. I didn’t play it. Look, I’ve played a lot of Scooby-Doo games, more than most of the people here, but yeah, I didn’t get to these ones. I didn’t do a bunch of gaming right here through this era of games. I was pretty much playing dedicated long games, not just like all over the place. I was collecting more than I was playing. Okay. Yeah, it’s just so weird that there were no Scooby-Doo games on those really early platforms then. And then there’s just a spam of them through this era. Yeah, it’s bizarre. And then as you get into the Xbox, there’s none, which is weird. So this era had a flood of them."
+            }
+          ]
+        },
+        {
+          "id": "cq077-span-028-1",
+          "entity_kind": "video_game",
+          "entity_id": "cq077:cq077-g028",
+          "title": "Scooby-Doo! Who's Watching Who?",
+          "game_refs": [
+            "cq077-g028"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 14",
+          "end_exclusive": "Paragraph 15",
+          "reason": "Handheld late-era release, amid console-generation gap claim.",
+          "evidence": [
+            {
+              "location": "Paragraph 14",
+              "quote": "And then when you get to the 360 and the PS3, and there’s nothing. Okay, I didn’t know where you were going there because you said Xbox. Nice. Associate that with a real Xbox. Yeah, no. I mean that 360 era, the PS3 360 era, you didn’t get any. There was a few on the Wii, but there was none on the Xbox and the PS3. And it was super cross platform this whole time. And then you hit this dead zone. And in fact, the only one you really find in that era was Scooby-Doo who’s watching, which appeared on the DS and the PSP. So that was like the weird PSP one that was out during the PS3 era. And then there’s like five or six PC games that we don’t have because PC games don’t count unless they’re old vintage computers, I guess. I don’t count them. But yeah, there’s like a dearth of them that you can find. A lot of them are based on the Cartoon Network property. So you can go check those out if you want. But they are not expensive. They are like $10. The quick rundown on this series is there are 17 games, but are 17 individual titles. But if you don’t count the double packs, there’s only 15 because"
+            }
+          ]
+        }
+      ],
+      "section_map": [
+        {
+          "start": "Paragraph 1",
+          "end_exclusive": "Paragraph 3",
+          "summary": "Format reclassification, host intro and unpaid-job joke."
+        },
+        {
+          "start": "Paragraph 3",
+          "end_exclusive": "Paragraph 5",
+          "summary": "Collection boundaries; computer and Mystery Machine plug-and-play games."
+        },
+        {
+          "start": "Paragraph 5",
+          "end_exclusive": "Paragraph 8",
+          "summary": "3DS crossover, LEGO Team Pack, Spooky Swamp DVD variant."
+        },
+        {
+          "start": "Paragraph 8",
+          "end_exclusive": "Paragraph 10",
+          "summary": "Classic Creep Capers carts; Cyber Chase versions, double pack and First Frights intro."
+        },
+        {
+          "start": "Paragraph 10",
+          "end_exclusive": "Paragraph 11",
+          "summary": "First Frights opinion and television-series redesign discussion."
+        },
+        {
+          "start": "Paragraph 11",
+          "end_exclusive": "Paragraph 13",
+          "summary": "Maze Chase cover, Mystery, Mystery Mayhem and Night of 100 Frights."
+        },
+        {
+          "start": "Paragraph 13",
+          "end_exclusive": "Paragraph 15",
+          "summary": "GBA movie bundle, Unmasked negative play, console-generation correction and list counts."
+        },
+        {
+          "start": "Paragraph 15",
+          "end_exclusive": "Paragraph 16",
+          "summary": "Completionist scope dispute and potential plug-and-play guest invitation."
+        },
+        {
+          "start": "Paragraph 16",
+          "end_exclusive": "Paragraph 19",
+          "summary": "Franchise trivia rather than identifiable game discussion."
+        },
+        {
+          "start": "Paragraph 19",
+          "end_exclusive": "END",
+          "summary": "Television episode name, Buffy nickname reference and closing; no new game."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "cq077-action-001",
+      "source_key": "sc-347109412",
+      "source_sha256": "c96ebc0928e874090bfd1e462e2e1670b11ae82eef5fa5cc6456353c70bf0a6c",
+      "title": "Resident Evil unspecified",
+      "action_state": "played",
+      "summary": "Johnny reports that Kat tries to play Resident Evil despite disliking horror. Third-party play report; installment and completion unknown.",
+      "claim_type": "THIRD_PARTY_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named dialogue handoff and contextual continuity; no audio verification."
+      },
+      "subject": "Kat",
+      "reporter": "Johnny",
+      "subject_attribution_confidence": "medium",
+      "evidence": [
+        {
+          "location": "Paragraph 2",
+          "quote": "pretty good. How’d you feel about your first intro? It was real exciting. We got a hurry up because it’s a microcast. We want to get this over with. I don’t know. I mean maybe not we want to get it over with maybe. We’re enjoying our time. We’re just giving a quick episode to the people. I mean if you don’t want to be here Tyler, you’ve only been here a little bit. If you already want to go, I mean it’s fine. No, I need to stay on but I need this job Johnny. This is feeding my family right now. I hope it’s not because there’s no money. There’s no money. What? No, you said you... Oh no. Okay. I mean the check’s in the mail. Check’s in the mail. Just keep waiting. It’ll be there any day. I’ll be waiting for that. Alright, well Johnny today, what are we talking about? Well in the last episode of Collector’s Quest we went through cat friendly games or family friendly games because cat is a chicken and does not like horror games even though she tries to muddle through Resident Evil. I don’t know why she does that. So we mentioned Scooby Doo offhandedly as one of those games and then I was like how many Scooby Doo"
+        }
+      ]
+    },
+    {
+      "id": "cq077-action-002",
+      "source_key": "sc-347109412",
+      "source_sha256": "c96ebc0928e874090bfd1e462e2e1670b11ae82eef5fa5cc6456353c70bf0a6c",
+      "title": "Mystery Machine Plug and Play",
+      "action_state": "mentioned",
+      "summary": "Johnny explicitly denies owning it and rejected it after watching gameplay video.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named dialogue handoff and contextual continuity; no audio verification."
+      },
+      "subject": "Johnny",
+      "reporter": "Johnny",
+      "subject_attribution_confidence": "medium",
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "games are there? And there was more than I thought but also kind of less than I thought for a show that like came out in 1967. You would think there would definitely be some on like early systems right? I mean it’s... it kind of seems like there’s something on every console. That’s not even true. Kind of but not really because while there is like some ZX Spectrum games which one of us here counts, not me, and a Commodore 64 game again when I don’t count but you do, there isn’t anything on the Nintendo or the Sega Master System or... There’s like 2600 even. No. Right? I’m just realizing that. That is really weird for such a popular thing. I can’t think of a lot of cartoon games like that on 2600. And it’s not like Scooby Doo isn’t a licensing whore. They market that shit everywhere. They dump that license. I mean the license must be pretty cheap to get because it’s on everything. It’s one of those stupid joystick games shaped like the Mystery Machine like one of the Plug and Play ones. And you own that right? I god no. But if you watch a YouTube video of it, it’s awful. I was like one time I said oh that’s cool. I like"
+        },
+        {
+          "location": "Paragraph 4",
+          "quote": "Scooby Doo and then I watched a video of gameplay and was like nope never. Wait does that have these games on it or is it all original games? No. It’s only an original game. Whoa. Well that should count on the list. Alright that’s our first game, the Scooby Doo Mystery Machine Plug and Play. Plug and Plays don’t count gross. Don’t tell people that. We don’t endorse those here Tyler. Stop it. Collector’s Quest podcast is your source for ZX Spectrum and Plug and Play gaming. Ugh. Anyways. I’m sorry ZX Spectrum. Send your hate mail to Johnny. Yeah well whatever. Let’s go ahead and tell the people the games that are available and what systems are because a lot of these are cross-platform games which I also found weird because they were like early cross-platform titles. No allegiance. Uh yeah. So I mean the first games that we have on our list it’s just called Scooby Doo and it’s for the ZX Spectrum and Commodore 64 and that’s just a weird kind of kung fu like game where Scooby Doo walks left and right and punches ghosts in the face and then on the ZX there was apparently a sequel called Scooby and Scrappy Doo. Yeah. Which who cares because it has Scrappy Doo in it. Right."
+        }
+      ],
+      "polarity": "negative_ownership_and_play_unconfirmed"
+    },
+    {
+      "id": "cq077-action-003",
+      "source_key": "sc-347109412",
+      "source_sha256": "c96ebc0928e874090bfd1e462e2e1670b11ae82eef5fa5cc6456353c70bf0a6c",
+      "title": "Mystery Machine gameplay video",
+      "action_state": "mentioned",
+      "summary": "Viewed gameplay online; not personal game play.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named dialogue handoff and contextual continuity; no audio verification."
+      },
+      "subject": "Johnny",
+      "reporter": "Johnny",
+      "subject_attribution_confidence": "medium",
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "games are there? And there was more than I thought but also kind of less than I thought for a show that like came out in 1967. You would think there would definitely be some on like early systems right? I mean it’s... it kind of seems like there’s something on every console. That’s not even true. Kind of but not really because while there is like some ZX Spectrum games which one of us here counts, not me, and a Commodore 64 game again when I don’t count but you do, there isn’t anything on the Nintendo or the Sega Master System or... There’s like 2600 even. No. Right? I’m just realizing that. That is really weird for such a popular thing. I can’t think of a lot of cartoon games like that on 2600. And it’s not like Scooby Doo isn’t a licensing whore. They market that shit everywhere. They dump that license. I mean the license must be pretty cheap to get because it’s on everything. It’s one of those stupid joystick games shaped like the Mystery Machine like one of the Plug and Play ones. And you own that right? I god no. But if you watch a YouTube video of it, it’s awful. I was like one time I said oh that’s cool. I like"
+        },
+        {
+          "location": "Paragraph 4",
+          "quote": "Scooby Doo and then I watched a video of gameplay and was like nope never. Wait does that have these games on it or is it all original games? No. It’s only an original game. Whoa. Well that should count on the list. Alright that’s our first game, the Scooby Doo Mystery Machine Plug and Play. Plug and Plays don’t count gross. Don’t tell people that. We don’t endorse those here Tyler. Stop it. Collector’s Quest podcast is your source for ZX Spectrum and Plug and Play gaming. Ugh. Anyways. I’m sorry ZX Spectrum. Send your hate mail to Johnny. Yeah well whatever. Let’s go ahead and tell the people the games that are available and what systems are because a lot of these are cross-platform games which I also found weird because they were like early cross-platform titles. No allegiance. Uh yeah. So I mean the first games that we have on our list it’s just called Scooby Doo and it’s for the ZX Spectrum and Commodore 64 and that’s just a weird kind of kung fu like game where Scooby Doo walks left and right and punches ghosts in the face and then on the ZX there was apparently a sequel called Scooby and Scrappy Doo. Yeah. Which who cares because it has Scrappy Doo in it. Right."
+        }
+      ]
+    },
+    {
+      "id": "cq077-action-004",
+      "source_key": "sc-347109412",
+      "source_sha256": "c96ebc0928e874090bfd1e462e2e1670b11ae82eef5fa5cc6456353c70bf0a6c",
+      "title": "LEGO Dimensions Scooby Team Pack",
+      "action_state": "owned",
+      "summary": "Speaker says 'I think I have the Team Pack'; ownership tentative.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Unlabelled dialogue; speaker not safely resolved."
+      },
+      "subject": null,
+      "reporter": null,
+      "subject_attribution_confidence": "unknown",
+      "evidence": [
+        {
+          "location": "Paragraph 6",
+          "quote": "up some gameplay in LEGO Dimensions. So we’re not really sure how to count these. But there is a Dimension Pack which you can play on the PS3, the PS4, the Xbox 360, the Xbox One, the 3DS, no not the 3DS but the Wii U. So whatever. And that does, that opens up a new level so it is technically a game kind of. And I think I have the Team Pack and I never use Scooby or Shaggy so they must not be very good characters. They’re not. They’re not. Wicked Witch your way through that whole game. Wicked Witch is pretty good if you don’t have some other packs. I think the best character might be Supergirl. Well, that’s like a weird special one. Wicked Witch is with Ritvaz. It’s cool. Yeah, true. Anyways, keep going. Alright, next we’ve got Scooby Doo and the Spooky Swamp which is on PS2 Wii and it was ported to DS and as games in that era go I’m sure the DS port is just wonderful. Yeah. And that’s just a third person platform game. And the cool thing about this is probably one of the more expensive and hard to find games is a variant of the Wii game. It’s one of those, one of the games that they did"
+        }
+      ],
+      "qualification": "Tentative first-person statement; speaker unresolved."
+    },
+    {
+      "id": "cq077-action-005",
+      "source_key": "sc-347109412",
+      "source_sha256": "c96ebc0928e874090bfd1e462e2e1670b11ae82eef5fa5cc6456353c70bf0a6c",
+      "title": "LEGO Dimensions",
+      "action_state": "played",
+      "summary": "Character-use report implies experience but Scooby/Shaggy explicitly never used; speaker unresolved.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Unlabelled dialogue; speaker not safely resolved."
+      },
+      "subject": null,
+      "reporter": null,
+      "subject_attribution_confidence": "unknown",
+      "evidence": [
+        {
+          "location": "Paragraph 6",
+          "quote": "up some gameplay in LEGO Dimensions. So we’re not really sure how to count these. But there is a Dimension Pack which you can play on the PS3, the PS4, the Xbox 360, the Xbox One, the 3DS, no not the 3DS but the Wii U. So whatever. And that does, that opens up a new level so it is technically a game kind of. And I think I have the Team Pack and I never use Scooby or Shaggy so they must not be very good characters. They’re not. They’re not. Wicked Witch your way through that whole game. Wicked Witch is pretty good if you don’t have some other packs. I think the best character might be Supergirl. Well, that’s like a weird special one. Wicked Witch is with Ritvaz. It’s cool. Yeah, true. Anyways, keep going. Alright, next we’ve got Scooby Doo and the Spooky Swamp which is on PS2 Wii and it was ported to DS and as games in that era go I’m sure the DS port is just wonderful. Yeah. And that’s just a third person platform game. And the cool thing about this is probably one of the more expensive and hard to find games is a variant of the Wii game. It’s one of those, one of the games that they did"
+        }
+      ]
+    },
+    {
+      "id": "cq077-action-006",
+      "source_key": "sc-347109412",
+      "source_sha256": "c96ebc0928e874090bfd1e462e2e1670b11ae82eef5fa5cc6456353c70bf0a6c",
+      "title": "Spooky Swamp Wii DVD pack",
+      "action_state": "purchased",
+      "summary": "Contextual Johnny says got mine for $20, distinct from $100 asking listings.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named dialogue handoff and contextual continuity; no audio verification."
+      },
+      "subject": "Johnny",
+      "reporter": "Johnny",
+      "subject_attribution_confidence": "medium",
+      "evidence": [
+        {
+          "location": "Paragraph 7",
+          "quote": "with the shield cover on it and it came with a DVD in the back. So it came with I think Scooby Doo Movie 2 DVD. So it’s one of the weird DVD collector’s packs. And those you can usually find for like $25 but sometimes you see them all the way up to $100 on eBay. And they don’t appear too often. I mean usually there’s like three or four but it’s not the most common Scooby game. You told me that this was going to be a real cheap set to complete. Now you’re talking about $100 Wii games. Well, you should not pay $100 for it. I’m just telling you what people are trying to list it as because there’s usually only four or five at a time. Maybe four at a time. In fact like three weeks ago when I was looking for one, there was none and then all of a sudden five popped up. So you know, just hold yourself on that. I got mine for $20. I saw one sell for $15 and then I saw one sell for $49. So all right, well, if there’s that many available, it doesn’t seem like it’s going to be too bad. Not too bad, but it is one I would keep your eye on. Yep."
+        }
+      ]
+    },
+    {
+      "id": "cq077-action-007",
+      "source_key": "sc-347109412",
+      "source_sha256": "c96ebc0928e874090bfd1e462e2e1670b11ae82eef5fa5cc6456353c70bf0a6c",
+      "title": "Spooky Swamp Wii DVD pack",
+      "action_state": "owned",
+      "summary": "Refers to own $20 copy, no complete franchise set inferred.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named dialogue handoff and contextual continuity; no audio verification."
+      },
+      "subject": "Johnny",
+      "reporter": "Johnny",
+      "subject_attribution_confidence": "medium",
+      "evidence": [
+        {
+          "location": "Paragraph 7",
+          "quote": "with the shield cover on it and it came with a DVD in the back. So it came with I think Scooby Doo Movie 2 DVD. So it’s one of the weird DVD collector’s packs. And those you can usually find for like $25 but sometimes you see them all the way up to $100 on eBay. And they don’t appear too often. I mean usually there’s like three or four but it’s not the most common Scooby game. You told me that this was going to be a real cheap set to complete. Now you’re talking about $100 Wii games. Well, you should not pay $100 for it. I’m just telling you what people are trying to list it as because there’s usually only four or five at a time. Maybe four at a time. In fact like three weeks ago when I was looking for one, there was none and then all of a sudden five popped up. So you know, just hold yourself on that. I got mine for $20. I saw one sell for $15 and then I saw one sell for $49. So all right, well, if there’s that many available, it doesn’t seem like it’s going to be too bad. Not too bad, but it is one I would keep your eye on. Yep."
+        }
+      ]
+    },
+    {
+      "id": "cq077-action-008",
+      "source_key": "sc-347109412",
+      "source_sha256": "c96ebc0928e874090bfd1e462e2e1670b11ae82eef5fa5cc6456353c70bf0a6c",
+      "title": "Scooby-Doo's Maze Chase",
+      "action_state": "wanted",
+      "summary": "Johnny likes the cover enough to want or consider buying it. The wording does not establish a completed purchase.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named dialogue handoff and contextual continuity; no audio verification."
+      },
+      "subject": "Johnny",
+      "reporter": "Johnny",
+      "subject_attribution_confidence": "medium",
+      "evidence": [
+        {
+          "location": "Paragraph 11",
+          "quote": "new Scooby-Doo and people start over. I don’t know why that happens, but it does.\" Here comes to, \"This is going to be weird for you guys, but this is my favorite cover of any of the Scooby-Doo games and it’s Scooby-Doo Maze Chase and it’s for the Intellivision. I really, I like this enough to buy it. It is the most expensive, solidly the most expensive title on the list and it reaches from $40 to $80 for a complete one.\" It’s an Intellivision game so no one cares and it just looks like it’s a Pac-Man ripoff. Yeah, it’s not great, but it looks cool. The cover is cool. All right. All right. Now you can lead us into the 16-bit era. Yes, we got Scooby-Doo Mysteries, which is one of the few games I’ve actually completed on this list, which is on the Genesis and Super Nintendo and it’s super common. I see it everywhere. It’s kind of like a My First Adventure point and click adventure game and it’s got some logical puzzles and it’s actually kind of fun. Yeah, it is fun. I like it a good deal. But they’re not expensive. We’re like even for a Super Nintendo game, not that expensive, but good. It’s a good game. Yeah. What’s the next one? Well,"
+        }
+      ]
+    },
+    {
+      "id": "cq077-action-009",
+      "source_key": "sc-347109412",
+      "source_sha256": "c96ebc0928e874090bfd1e462e2e1670b11ae82eef5fa5cc6456353c70bf0a6c",
+      "title": "Scooby-Doo Mystery",
+      "action_state": "played",
+      "summary": "Speaker says one of few completed on list; exact Genesis/SNES version unspecified.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Unlabelled dialogue; speaker not safely resolved."
+      },
+      "subject": null,
+      "reporter": null,
+      "subject_attribution_confidence": "unknown",
+      "evidence": [
+        {
+          "location": "Paragraph 11",
+          "quote": "new Scooby-Doo and people start over. I don’t know why that happens, but it does.\" Here comes to, \"This is going to be weird for you guys, but this is my favorite cover of any of the Scooby-Doo games and it’s Scooby-Doo Maze Chase and it’s for the Intellivision. I really, I like this enough to buy it. It is the most expensive, solidly the most expensive title on the list and it reaches from $40 to $80 for a complete one.\" It’s an Intellivision game so no one cares and it just looks like it’s a Pac-Man ripoff. Yeah, it’s not great, but it looks cool. The cover is cool. All right. All right. Now you can lead us into the 16-bit era. Yes, we got Scooby-Doo Mysteries, which is one of the few games I’ve actually completed on this list, which is on the Genesis and Super Nintendo and it’s super common. I see it everywhere. It’s kind of like a My First Adventure point and click adventure game and it’s got some logical puzzles and it’s actually kind of fun. Yeah, it is fun. I like it a good deal. But they’re not expensive. We’re like even for a Super Nintendo game, not that expensive, but good. It’s a good game. Yeah. What’s the next one? Well,"
+        }
+      ]
+    },
+    {
+      "id": "cq077-action-010",
+      "source_key": "sc-347109412",
+      "source_sha256": "c96ebc0928e874090bfd1e462e2e1670b11ae82eef5fa5cc6456353c70bf0a6c",
+      "title": "Night of 100 Frights Xbox manual",
+      "action_state": "received",
+      "summary": "A host says this was one of the last Xbox manuals obtained. The actor is unresolved; no whole-game purchase or completed manual set is established.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Explicit Tyler handoff precedes manual statement, but undiarized turns do not safely identify the speaker."
+      },
+      "subject": null,
+      "reporter": null,
+      "subject_attribution_confidence": "unknown",
+      "evidence": [
+        {
+          "location": "Paragraph 12",
+          "quote": "here’s where we get more into that, them messing with Scooby-Doo and the weird thing that Scooby-Doo games are always cross-platform and it’s that Mystery Mayhem game I told you about that was in the double pack with Cyber Chase and it is for the GameCube, the GBA, the PS2 and the Xbox. It was everywhere. All right, so what’s the next one, Tyler? All right, next we got Scooby-Doo Night of a Thousand Frights, which is just on GameCube, PS2, Xbox. It’s just kind of a standard 3D action platformer. That one’s got a greatest hits variant on the PS2 and I think that’s one of the last Xbox manuals I got. So I think it’s kind of uncommon on Xbox. Yeah, it is a little bit, but it’s not too expensive. It is the more expensive of the Xbox titles. They’re all like $10 and that one’s like $15. I mean, nothing’s too expensive on Xbox. It’s Xbox. Well, I mean, Jurassic Park? Yeah, all right. There’s a handful of games, fine. Okay, yeah. There’s a few over $100 or in that $100 range, but not many. Not when you stack it next to the Super Nintendo, you’re like, \"Oh, that’s cheap. Thank goodness.\" Yeah. Anyways, we move into some more GBA stuff and I’m just going to"
+        }
+      ]
+    },
+    {
+      "id": "cq077-action-011",
+      "source_key": "sc-347109412",
+      "source_sha256": "c96ebc0928e874090bfd1e462e2e1670b11ae82eef5fa5cc6456353c70bf0a6c",
+      "title": "Scooby-Doo! Unmasked",
+      "action_state": "mentioned",
+      "summary": "Explicitly has not played; guessed 3D platformer genre is not a play account.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named dialogue handoff and contextual continuity; no audio verification."
+      },
+      "subject": "Johnny",
+      "reporter": "Johnny",
+      "subject_attribution_confidence": "medium",
+      "evidence": [
+        {
+          "location": "Paragraph 13",
+          "quote": "take this chunk of them and it’s Scooby-Doo the Movie. Scooby-Doo the Movie 2 Monsters Unleashed, both for the GBA and those games have one of those sweet double packs also for the GBA. So look for those. They aren’t good. They are movie based games. Next. All right. Next is Scooby-Doo Unmasked. That’s on DS GameCube, GBA, PS2, Xbox, everything. I don’t know what that is, Johnny. I’m going to guess it’s a 3D action platformer, but you can go ahead and tell me I’m wrong. You know, I don’t know. I don’t know. Comic-Collector’s Quest for the most informed game news. I didn’t play it. Look, I’ve played a lot of Scooby-Doo games, more than most of the people here, but yeah, I didn’t get to these ones. I didn’t do a bunch of gaming right here through this era of games. I was pretty much playing dedicated long games, not just like all over the place. I was collecting more than I was playing. Okay. Yeah, it’s just so weird that there were no Scooby-Doo games on those really early platforms then. And then there’s just a spam of them through this era. Yeah, it’s bizarre. And then as you get into the Xbox, there’s none, which is weird. So this era had a flood of them."
+        }
+      ],
+      "polarity": "negative_play"
+    },
+    {
+      "id": "cq077-action-012",
+      "source_key": "sc-347109412",
+      "source_sha256": "c96ebc0928e874090bfd1e462e2e1670b11ae82eef5fa5cc6456353c70bf0a6c",
+      "title": "Scooby-Doo GBA double packs",
+      "action_state": "mentioned",
+      "summary": "General advice to watch for packs, not a personal purchase or current market recommendation.",
+      "claim_type": "GENERAL_RECOMMENDATION",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Unlabelled dialogue; speaker not safely resolved."
+      },
+      "subject": null,
+      "reporter": null,
+      "subject_attribution_confidence": "unknown",
+      "evidence": [
+        {
+          "location": "Paragraph 9",
+          "quote": "game.\" And you’re like, \"Well, you really don’t if you have the GBA version because it’s not really the same.\" Yeah. Yeah. That stuff drives me nuts. And then the PS1 version of that also has a great tits variant. Yeah. And it’s also... the GBA has a double pack with an additional game called Mystery Mayhem, which is one of the individual titles also on the GBA. And that’s one of those ones you should also keep your eye on because all of the GBA double pack games are always kind of hard to find, and they always wind up fetching a pretty high price. Right now, they’re still relatively cheap, but as people get into GBA collecting, they’ll start to target things like the double packs because they’re just less common. So if you see those, you know, and they’re under like 15 bucks, pick them up. Anyways, what do we got next? Oh, man. Scooby-Doo first frights. I actually know nothing about this game, Johnny. So tell me what they are. Oh, they’re not good. They are more modern. And it was kind of in that weird mid-2000s when they were messing with Scooby’s image a little bit. It wasn’t the full overhaul. Like they just did in a comic where they hipstered up Shaggy and stuff"
+        },
+        {
+          "location": "Paragraph 13",
+          "quote": "take this chunk of them and it’s Scooby-Doo the Movie. Scooby-Doo the Movie 2 Monsters Unleashed, both for the GBA and those games have one of those sweet double packs also for the GBA. So look for those. They aren’t good. They are movie based games. Next. All right. Next is Scooby-Doo Unmasked. That’s on DS GameCube, GBA, PS2, Xbox, everything. I don’t know what that is, Johnny. I’m going to guess it’s a 3D action platformer, but you can go ahead and tell me I’m wrong. You know, I don’t know. I don’t know. Comic-Collector’s Quest for the most informed game news. I didn’t play it. Look, I’ve played a lot of Scooby-Doo games, more than most of the people here, but yeah, I didn’t get to these ones. I didn’t do a bunch of gaming right here through this era of games. I was pretty much playing dedicated long games, not just like all over the place. I was collecting more than I was playing. Okay. Yeah, it’s just so weird that there were no Scooby-Doo games on those really early platforms then. And then there’s just a spam of them through this era. Yeah, it’s bizarre. And then as you get into the Xbox, there’s none, which is weird. So this era had a flood of them."
+        }
+      ]
+    },
+    {
+      "id": "cq077-action-013",
+      "source_key": "sc-347109412",
+      "source_sha256": "c96ebc0928e874090bfd1e462e2e1670b11ae82eef5fa5cc6456353c70bf0a6c",
+      "title": "Scooby-Doo games — unspecified titles",
+      "action_state": "played",
+      "summary": "Johnny says he has played many Scooby-Doo games while explicitly excluding Unmasked from his experience; no title-level expansion.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named dialogue handoff and contextual continuity; no audio verification."
+      },
+      "subject": "Johnny",
+      "reporter": "Johnny",
+      "subject_attribution_confidence": "medium",
+      "evidence": [
+        {
+          "location": "Paragraph 13",
+          "quote": "Look, I’ve played a lot of Scooby-Doo games, more than most of the people here, but yeah, I didn’t get to these ones."
+        }
+      ]
+    }
+  ],
+  "overrides": [],
+  "new_games": [],
+  "task_cases": [
+    {
+      "id": "cq077-task-format",
+      "source_key": "sc-347109412",
+      "episode": 77,
+      "question": "Was CQ77 actually a microcast and was Tyler new that day?",
+      "query": "microcast episode first intro",
+      "answer": "CQ77 was planned and recorded as a microcast, but Johnny's added introduction says it ran about twenty minutes and was published as an episode instead. Tyler performs his first intro here; the dialogue says he has already been around a little, so this is not evidence of his first appearance. Johnny and Tyler are the introduced hosts.",
+      "expected_facts": [
+        "planned microcast reclassified",
+        "first intro not appearance",
+        "Johnny Tyler"
+      ],
+      "forbidden": [
+        "published as microcast",
+        "Tyler first appearance",
+        "Cat present"
+      ],
+      "forbidden_inferences": [
+        "published as microcast",
+        "Tyler first appearance",
+        "Cat present"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "Welcome to Collector’s Quest, this is episode 77. On this episode you will hear it referenced as the microcast. It was supposed to be except we went too long and then we didn’t do the stuff we normally do for an episode because we thought we’d cut it down. So I just left it but we’re not calling it a microcast because I don’t want to break my own rules. We’re at about 20 minutes so enjoy this very short episode of Collector’s Quest where you don’t get to hear what we’re buying or any of that stuff. Anyways, to the episode we’re talking about Scooby-Doo and Scooby-Doo games are kind of doing a retrospective. On those from a Collector’s standpoint, also if you like what we do here, please, please go to iTunes, give us a rating, just smash that five star or wherever you listen or shout us out, this is the help we need to grow the show. Gotta keep growing, gotta keep growing. If we don’t grow then we wither and die, you know that’s what they say. If you’re not growing you’re dying. That’s a not really a cheery thought. Anyways, on to the episode. Welcome back to another episode of Collector’s Quest. I’m Tyler here with Johnny. Hey Tyler, how’s it going? I’m doing"
+        },
+        {
+          "location": "Paragraph 2",
+          "quote": "pretty good. How’d you feel about your first intro? It was real exciting. We got a hurry up because it’s a microcast. We want to get this over with. I don’t know. I mean maybe not we want to get it over with maybe. We’re enjoying our time. We’re just giving a quick episode to the people. I mean if you don’t want to be here Tyler, you’ve only been here a little bit. If you already want to go, I mean it’s fine. No, I need to stay on but I need this job Johnny. This is feeding my family right now. I hope it’s not because there’s no money. There’s no money. What? No, you said you... Oh no. Okay. I mean the check’s in the mail. Check’s in the mail. Just keep waiting. It’ll be there any day. I’ll be waiting for that. Alright, well Johnny today, what are we talking about? Well in the last episode of Collector’s Quest we went through cat friendly games or family friendly games because cat is a chicken and does not like horror games even though she tries to muddle through Resident Evil. I don’t know why she does that. So we mentioned Scooby Doo offhandedly as one of those games and then I was like how many Scooby Doo"
+        }
+      ],
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 2"
+      ],
+      "manual_source_review": "passed_source_support_and_forbidden_inference_check",
+      "retrieval_status": "pending_coordinator"
+    },
+    {
+      "id": "cq077-task-pack-price",
+      "source_key": "sc-347109412",
+      "episode": 77,
+      "question": "Did Johnny pay $100 for the Spooky Swamp Wii DVD pack?",
+      "query": "Spooky Swamp DVD twenty hundred",
+      "answer": "No. Johnny says his own pack cost $20, while $100 describes some sellers' asking prices and is specifically a price he says not to pay. He also recalls sales at $15 and $49. These are dated episode anecdotes, not verified current valuations.",
+      "expected_facts": [
+        "own20",
+        "asking100 discouraged",
+        "dated reported sales"
+      ],
+      "forbidden": [
+        "paid100",
+        "current valuation",
+        "all packs identical verified"
+      ],
+      "forbidden_inferences": [
+        "paid100",
+        "current valuation",
+        "all packs identical verified"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 6",
+          "quote": "up some gameplay in LEGO Dimensions. So we’re not really sure how to count these. But there is a Dimension Pack which you can play on the PS3, the PS4, the Xbox 360, the Xbox One, the 3DS, no not the 3DS but the Wii U. So whatever. And that does, that opens up a new level so it is technically a game kind of. And I think I have the Team Pack and I never use Scooby or Shaggy so they must not be very good characters. They’re not. They’re not. Wicked Witch your way through that whole game. Wicked Witch is pretty good if you don’t have some other packs. I think the best character might be Supergirl. Well, that’s like a weird special one. Wicked Witch is with Ritvaz. It’s cool. Yeah, true. Anyways, keep going. Alright, next we’ve got Scooby Doo and the Spooky Swamp which is on PS2 Wii and it was ported to DS and as games in that era go I’m sure the DS port is just wonderful. Yeah. And that’s just a third person platform game. And the cool thing about this is probably one of the more expensive and hard to find games is a variant of the Wii game. It’s one of those, one of the games that they did"
+        },
+        {
+          "location": "Paragraph 7",
+          "quote": "with the shield cover on it and it came with a DVD in the back. So it came with I think Scooby Doo Movie 2 DVD. So it’s one of the weird DVD collector’s packs. And those you can usually find for like $25 but sometimes you see them all the way up to $100 on eBay. And they don’t appear too often. I mean usually there’s like three or four but it’s not the most common Scooby game. You told me that this was going to be a real cheap set to complete. Now you’re talking about $100 Wii games. Well, you should not pay $100 for it. I’m just telling you what people are trying to list it as because there’s usually only four or five at a time. Maybe four at a time. In fact like three weeks ago when I was looking for one, there was none and then all of a sudden five popped up. So you know, just hold yourself on that. I got mine for $20. I saw one sell for $15 and then I saw one sell for $49. So all right, well, if there’s that many available, it doesn’t seem like it’s going to be too bad. Not too bad, but it is one I would keep your eye on. Yep."
+        }
+      ],
+      "evidence_locations": [
+        "Paragraph 6",
+        "Paragraph 7"
+      ],
+      "manual_source_review": "passed_source_support_and_forbidden_inference_check",
+      "retrieval_status": "pending_coordinator"
+    },
+    {
+      "id": "cq077-task-purchase",
+      "source_key": "sc-347109412",
+      "episode": 77,
+      "question": "Did the absent buying segment mean nobody mentioned purchases?",
+      "query": "microcast episode buying segment Spooky Swamp DVD Maze Chase Xbox manual",
+      "answer": "No. The intro says the usual buying segment was omitted, but collecting actions still appear within the retrospective. Johnny reports his $20 Spooky Swamp DVD pack. His statement that he likes Maze Chase enough to buy it establishes inclination, not a completed purchase. A host also reports obtaining an Xbox Night of 100 Frights manual, but the preceding Tyler handoff and unlabelled turns leave the actor unresolved.",
+      "expected_facts": [
+        "buying segment omitted",
+        "Spooky Swamp own $20 pack",
+        "Maze Chase willingness only",
+        "manual actor unresolved"
+      ],
+      "forbidden": [
+        "no action events",
+        "all purchases that week",
+        "manual proves full set",
+        "Maze Chase definitely purchased",
+        "Johnny definitely acquired the manual"
+      ],
+      "forbidden_inferences": [
+        "no action events",
+        "all purchases that week",
+        "manual proves full set",
+        "Maze Chase definitely purchased",
+        "Johnny definitely acquired the manual"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "Welcome to Collector’s Quest, this is episode 77. On this episode you will hear it referenced as the microcast. It was supposed to be except we went too long and then we didn’t do the stuff we normally do for an episode because we thought we’d cut it down. So I just left it but we’re not calling it a microcast because I don’t want to break my own rules. We’re at about 20 minutes so enjoy this very short episode of Collector’s Quest where you don’t get to hear what we’re buying or any of that stuff. Anyways, to the episode we’re talking about Scooby-Doo and Scooby-Doo games are kind of doing a retrospective. On those from a Collector’s standpoint, also if you like what we do here, please, please go to iTunes, give us a rating, just smash that five star or wherever you listen or shout us out, this is the help we need to grow the show. Gotta keep growing, gotta keep growing. If we don’t grow then we wither and die, you know that’s what they say. If you’re not growing you’re dying. That’s a not really a cheery thought. Anyways, on to the episode. Welcome back to another episode of Collector’s Quest. I’m Tyler here with Johnny. Hey Tyler, how’s it going? I’m doing"
+        },
+        {
+          "location": "Paragraph 7",
+          "quote": "with the shield cover on it and it came with a DVD in the back. So it came with I think Scooby Doo Movie 2 DVD. So it’s one of the weird DVD collector’s packs. And those you can usually find for like $25 but sometimes you see them all the way up to $100 on eBay. And they don’t appear too often. I mean usually there’s like three or four but it’s not the most common Scooby game. You told me that this was going to be a real cheap set to complete. Now you’re talking about $100 Wii games. Well, you should not pay $100 for it. I’m just telling you what people are trying to list it as because there’s usually only four or five at a time. Maybe four at a time. In fact like three weeks ago when I was looking for one, there was none and then all of a sudden five popped up. So you know, just hold yourself on that. I got mine for $20. I saw one sell for $15 and then I saw one sell for $49. So all right, well, if there’s that many available, it doesn’t seem like it’s going to be too bad. Not too bad, but it is one I would keep your eye on. Yep."
+        },
+        {
+          "location": "Paragraph 11",
+          "quote": "new Scooby-Doo and people start over. I don’t know why that happens, but it does.\" Here comes to, \"This is going to be weird for you guys, but this is my favorite cover of any of the Scooby-Doo games and it’s Scooby-Doo Maze Chase and it’s for the Intellivision. I really, I like this enough to buy it. It is the most expensive, solidly the most expensive title on the list and it reaches from $40 to $80 for a complete one.\" It’s an Intellivision game so no one cares and it just looks like it’s a Pac-Man ripoff. Yeah, it’s not great, but it looks cool. The cover is cool. All right. All right. Now you can lead us into the 16-bit era. Yes, we got Scooby-Doo Mysteries, which is one of the few games I’ve actually completed on this list, which is on the Genesis and Super Nintendo and it’s super common. I see it everywhere. It’s kind of like a My First Adventure point and click adventure game and it’s got some logical puzzles and it’s actually kind of fun. Yeah, it is fun. I like it a good deal. But they’re not expensive. We’re like even for a Super Nintendo game, not that expensive, but good. It’s a good game. Yeah. What’s the next one? Well,"
+        },
+        {
+          "location": "Paragraph 12",
+          "quote": "here’s where we get more into that, them messing with Scooby-Doo and the weird thing that Scooby-Doo games are always cross-platform and it’s that Mystery Mayhem game I told you about that was in the double pack with Cyber Chase and it is for the GameCube, the GBA, the PS2 and the Xbox. It was everywhere. All right, so what’s the next one, Tyler? All right, next we got Scooby-Doo Night of a Thousand Frights, which is just on GameCube, PS2, Xbox. It’s just kind of a standard 3D action platformer. That one’s got a greatest hits variant on the PS2 and I think that’s one of the last Xbox manuals I got. So I think it’s kind of uncommon on Xbox. Yeah, it is a little bit, but it’s not too expensive. It is the more expensive of the Xbox titles. They’re all like $10 and that one’s like $15. I mean, nothing’s too expensive on Xbox. It’s Xbox. Well, I mean, Jurassic Park? Yeah, all right. There’s a handful of games, fine. Okay, yeah. There’s a few over $100 or in that $100 range, but not many. Not when you stack it next to the Super Nintendo, you’re like, \"Oh, that’s cheap. Thank goodness.\" Yeah. Anyways, we move into some more GBA stuff and I’m just going to"
+        }
+      ],
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 7",
+        "Paragraph 11",
+        "Paragraph 12"
+      ],
+      "manual_source_review": "revised_after_peer_failure_pending_coordinator_adjudication",
+      "retrieval_status": "pending_after_query_context_repair"
+    },
+    {
+      "id": "cq077-task-corrections",
+      "source_key": "sc-347109412",
+      "episode": 77,
+      "question": "Did they say Scooby games never came to Xbox and LEGO Dimensions was on 3DS?",
+      "query": "Xbox 360 PS3 LEGO 3DS Wii U",
+      "answer": "Those are both statements corrected within the conversation. LEGO Dimensions' list immediately changes 3DS to Wii U. The later Xbox gap refers to Xbox 360/PS3, not original Xbox, which they had just listed for several titles. These are the hosts' scoped release claims, not an independently checked catalog.",
+      "expected_facts": [
+        "3DS corrected WiiU",
+        "Xbox corrected360PS3"
+      ],
+      "forbidden": [
+        "LEGO Dimensions3DS",
+        "no original Xbox games",
+        "complete catalogverified"
+      ],
+      "forbidden_inferences": [
+        "LEGO Dimensions3DS",
+        "no original Xbox games",
+        "complete catalogverified"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 6",
+          "quote": "up some gameplay in LEGO Dimensions. So we’re not really sure how to count these. But there is a Dimension Pack which you can play on the PS3, the PS4, the Xbox 360, the Xbox One, the 3DS, no not the 3DS but the Wii U. So whatever. And that does, that opens up a new level so it is technically a game kind of. And I think I have the Team Pack and I never use Scooby or Shaggy so they must not be very good characters. They’re not. They’re not. Wicked Witch your way through that whole game. Wicked Witch is pretty good if you don’t have some other packs. I think the best character might be Supergirl. Well, that’s like a weird special one. Wicked Witch is with Ritvaz. It’s cool. Yeah, true. Anyways, keep going. Alright, next we’ve got Scooby Doo and the Spooky Swamp which is on PS2 Wii and it was ported to DS and as games in that era go I’m sure the DS port is just wonderful. Yeah. And that’s just a third person platform game. And the cool thing about this is probably one of the more expensive and hard to find games is a variant of the Wii game. It’s one of those, one of the games that they did"
+        },
+        {
+          "location": "Paragraph 12",
+          "quote": "here’s where we get more into that, them messing with Scooby-Doo and the weird thing that Scooby-Doo games are always cross-platform and it’s that Mystery Mayhem game I told you about that was in the double pack with Cyber Chase and it is for the GameCube, the GBA, the PS2 and the Xbox. It was everywhere. All right, so what’s the next one, Tyler? All right, next we got Scooby-Doo Night of a Thousand Frights, which is just on GameCube, PS2, Xbox. It’s just kind of a standard 3D action platformer. That one’s got a greatest hits variant on the PS2 and I think that’s one of the last Xbox manuals I got. So I think it’s kind of uncommon on Xbox. Yeah, it is a little bit, but it’s not too expensive. It is the more expensive of the Xbox titles. They’re all like $10 and that one’s like $15. I mean, nothing’s too expensive on Xbox. It’s Xbox. Well, I mean, Jurassic Park? Yeah, all right. There’s a handful of games, fine. Okay, yeah. There’s a few over $100 or in that $100 range, but not many. Not when you stack it next to the Super Nintendo, you’re like, \"Oh, that’s cheap. Thank goodness.\" Yeah. Anyways, we move into some more GBA stuff and I’m just going to"
+        },
+        {
+          "location": "Paragraph 13",
+          "quote": "take this chunk of them and it’s Scooby-Doo the Movie. Scooby-Doo the Movie 2 Monsters Unleashed, both for the GBA and those games have one of those sweet double packs also for the GBA. So look for those. They aren’t good. They are movie based games. Next. All right. Next is Scooby-Doo Unmasked. That’s on DS GameCube, GBA, PS2, Xbox, everything. I don’t know what that is, Johnny. I’m going to guess it’s a 3D action platformer, but you can go ahead and tell me I’m wrong. You know, I don’t know. I don’t know. Comic-Collector’s Quest for the most informed game news. I didn’t play it. Look, I’ve played a lot of Scooby-Doo games, more than most of the people here, but yeah, I didn’t get to these ones. I didn’t do a bunch of gaming right here through this era of games. I was pretty much playing dedicated long games, not just like all over the place. I was collecting more than I was playing. Okay. Yeah, it’s just so weird that there were no Scooby-Doo games on those really early platforms then. And then there’s just a spam of them through this era. Yeah, it’s bizarre. And then as you get into the Xbox, there’s none, which is weird. So this era had a flood of them."
+        },
+        {
+          "location": "Paragraph 14",
+          "quote": "And then when you get to the 360 and the PS3, and there’s nothing. Okay, I didn’t know where you were going there because you said Xbox. Nice. Associate that with a real Xbox. Yeah, no. I mean that 360 era, the PS3 360 era, you didn’t get any. There was a few on the Wii, but there was none on the Xbox and the PS3. And it was super cross platform this whole time. And then you hit this dead zone. And in fact, the only one you really find in that era was Scooby-Doo who’s watching, which appeared on the DS and the PSP. So that was like the weird PSP one that was out during the PS3 era. And then there’s like five or six PC games that we don’t have because PC games don’t count unless they’re old vintage computers, I guess. I don’t count them. But yeah, there’s like a dearth of them that you can find. A lot of them are based on the Cartoon Network property. So you can go check those out if you want. But they are not expensive. They are like $10. The quick rundown on this series is there are 17 games, but are 17 individual titles. But if you don’t count the double packs, there’s only 15 because"
+        }
+      ],
+      "evidence_locations": [
+        "Paragraph 6",
+        "Paragraph 12",
+        "Paragraph 13",
+        "Paragraph 14"
+      ],
+      "manual_source_review": "passed_source_support_and_forbidden_inference_check",
+      "retrieval_status": "pending_coordinator"
+    },
+    {
+      "id": "cq077-task-count",
+      "source_key": "sc-347109412",
+      "episode": 77,
+      "question": "How many Scooby-Doo games did they count?",
+      "query": "17 15 41 double packs",
+      "answer": "Their rundown says 17 entries, or 15 after removing two double packs, and 41 copies if buying the listed platform releases, with several variants on top. They dispute whether to count plug-and-play and computer releases, so these are counts within their list's boundaries, not a definitive franchise total.",
+      "expected_facts": [
+        "17 minus2 is15",
+        "41 platform copies",
+        "exclusions disputed"
+      ],
+      "forbidden": [
+        "17 platform copies",
+        "41 unique games",
+        "all PC included",
+        "definitive franchise total"
+      ],
+      "forbidden_inferences": [
+        "17 platform copies",
+        "41 unique games",
+        "all PC included",
+        "definitive franchise total"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 14",
+          "quote": "And then when you get to the 360 and the PS3, and there’s nothing. Okay, I didn’t know where you were going there because you said Xbox. Nice. Associate that with a real Xbox. Yeah, no. I mean that 360 era, the PS3 360 era, you didn’t get any. There was a few on the Wii, but there was none on the Xbox and the PS3. And it was super cross platform this whole time. And then you hit this dead zone. And in fact, the only one you really find in that era was Scooby-Doo who’s watching, which appeared on the DS and the PSP. So that was like the weird PSP one that was out during the PS3 era. And then there’s like five or six PC games that we don’t have because PC games don’t count unless they’re old vintage computers, I guess. I don’t count them. But yeah, there’s like a dearth of them that you can find. A lot of them are based on the Cartoon Network property. So you can go check those out if you want. But they are not expensive. They are like $10. The quick rundown on this series is there are 17 games, but are 17 individual titles. But if you don’t count the double packs, there’s only 15 because"
+        },
+        {
+          "location": "Paragraph 15",
+          "quote": "two double packs. And if you’re trying to buy everything we just said, that’s 41 games. And there are like three variants are four variants. One is a cart color. You got some greatest hits in there. And yeah, that’s that’s pretty much it. Plug and Play and PC games. Also, if you really want to be a completionist, guys, this is like the people who are going for licensed NES set. First, the people who really want every NES game. That’s not exactly what that’s like. That’s nothing like that. That’s that is inherently false. All right, Tyler, God, we’re not going to let you talk anymore. All right, keep saying things like that. Don’t confuse the people, Tyler. Don’t don’t endorse things like plug and plays. They are terrible. Real collectors by the plug and plays. You know what? If you’ve got a great plug and play collection, I want to bring you on the show and you can tell me all about it. So send your picks to me and let’s talk about it. I’m not kidding. Like, let’s do it. If you’re a plug and play master, eff it. Let’s do it. I’m more talk to you. Okay, let’s let’s end with some stupid facts from Scooby Doo that you may not have known. I’ll go"
+        }
+      ],
+      "evidence_locations": [
+        "Paragraph 14",
+        "Paragraph 15"
+      ],
+      "manual_source_review": "passed_source_support_and_forbidden_inference_check",
+      "retrieval_status": "pending_coordinator"
+    },
+    {
+      "id": "cq077-task-denial",
+      "source_key": "sc-347109412",
+      "episode": 77,
+      "question": "Did Johnny own the Mystery Machine plug-and-play or play Unmasked?",
+      "query": "Mystery Machine own Unmasked played",
+      "answer": "He explicitly denies owning the Mystery Machine plug-and-play and says watching gameplay video put him off it. Later he explicitly says he did not play Unmasked. The retrospective's mention of either product is not evidence of purchase or play, and the guessed genre of Unmasked remains a guess.",
+      "expected_facts": [
+        "plugplay denied",
+        "video not play",
+        "Unmasked not played"
+      ],
+      "forbidden": [
+        "owns plugplay",
+        "played Unmasked",
+        "genre verified"
+      ],
+      "forbidden_inferences": [
+        "owns plugplay",
+        "played Unmasked",
+        "genre verified"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "games are there? And there was more than I thought but also kind of less than I thought for a show that like came out in 1967. You would think there would definitely be some on like early systems right? I mean it’s... it kind of seems like there’s something on every console. That’s not even true. Kind of but not really because while there is like some ZX Spectrum games which one of us here counts, not me, and a Commodore 64 game again when I don’t count but you do, there isn’t anything on the Nintendo or the Sega Master System or... There’s like 2600 even. No. Right? I’m just realizing that. That is really weird for such a popular thing. I can’t think of a lot of cartoon games like that on 2600. And it’s not like Scooby Doo isn’t a licensing whore. They market that shit everywhere. They dump that license. I mean the license must be pretty cheap to get because it’s on everything. It’s one of those stupid joystick games shaped like the Mystery Machine like one of the Plug and Play ones. And you own that right? I god no. But if you watch a YouTube video of it, it’s awful. I was like one time I said oh that’s cool. I like"
+        },
+        {
+          "location": "Paragraph 4",
+          "quote": "Scooby Doo and then I watched a video of gameplay and was like nope never. Wait does that have these games on it or is it all original games? No. It’s only an original game. Whoa. Well that should count on the list. Alright that’s our first game, the Scooby Doo Mystery Machine Plug and Play. Plug and Plays don’t count gross. Don’t tell people that. We don’t endorse those here Tyler. Stop it. Collector’s Quest podcast is your source for ZX Spectrum and Plug and Play gaming. Ugh. Anyways. I’m sorry ZX Spectrum. Send your hate mail to Johnny. Yeah well whatever. Let’s go ahead and tell the people the games that are available and what systems are because a lot of these are cross-platform games which I also found weird because they were like early cross-platform titles. No allegiance. Uh yeah. So I mean the first games that we have on our list it’s just called Scooby Doo and it’s for the ZX Spectrum and Commodore 64 and that’s just a weird kind of kung fu like game where Scooby Doo walks left and right and punches ghosts in the face and then on the ZX there was apparently a sequel called Scooby and Scrappy Doo. Yeah. Which who cares because it has Scrappy Doo in it. Right."
+        },
+        {
+          "location": "Paragraph 13",
+          "quote": "take this chunk of them and it’s Scooby-Doo the Movie. Scooby-Doo the Movie 2 Monsters Unleashed, both for the GBA and those games have one of those sweet double packs also for the GBA. So look for those. They aren’t good. They are movie based games. Next. All right. Next is Scooby-Doo Unmasked. That’s on DS GameCube, GBA, PS2, Xbox, everything. I don’t know what that is, Johnny. I’m going to guess it’s a 3D action platformer, but you can go ahead and tell me I’m wrong. You know, I don’t know. I don’t know. Comic-Collector’s Quest for the most informed game news. I didn’t play it. Look, I’ve played a lot of Scooby-Doo games, more than most of the people here, but yeah, I didn’t get to these ones. I didn’t do a bunch of gaming right here through this era of games. I was pretty much playing dedicated long games, not just like all over the place. I was collecting more than I was playing. Okay. Yeah, it’s just so weird that there were no Scooby-Doo games on those really early platforms then. And then there’s just a spam of them through this era. Yeah, it’s bizarre. And then as you get into the Xbox, there’s none, which is weird. So this era had a flood of them."
+        }
+      ],
+      "evidence_locations": [
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 13"
+      ],
+      "manual_source_review": "passed_source_support_and_forbidden_inference_check",
+      "retrieval_status": "pending_coordinator"
+    },
+    {
+      "id": "cq077-task-versions",
+      "source_key": "sc-347109412",
+      "episode": 77,
+      "question": "Were Cyber Chase handheld and console versions interchangeable?",
+      "query": "Cyber Chase GBA PS1 greatest hits double pack",
+      "answer": "The hosts explicitly distinguish PlayStation Cyber Chase's 3D action from the GBA side-scroller, warning that owning one is not the same as having played the other. They also mention a PlayStation Greatest Hits variant and a GBA double pack with Mystery Mayhem. The two platform versions and the compilation remain separate records.",
+      "expected_facts": [
+        "different gameplay formats",
+        "PS1 variant",
+        "GBA compilation"
+      ],
+      "forbidden": [
+        "same port",
+        "double packPS1",
+        "Mystery Mayhem sequel inferred"
+      ],
+      "forbidden_inferences": [
+        "same port",
+        "double packPS1",
+        "Mystery Mayhem sequel inferred"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 8",
+          "quote": "All right. What’s next? We do classic creep capers, which this is another like weird one, right? So it was on the Game Boy Color. That’s a port of the N64 game. So that’s the only two systems it was on. And I don’t know which one was the original, but here’s the thing to look out for here. There’s a black card available and a gray card. It’s one of those few N64 games that came with a colored card or a gray card. So I’m not sure which is more rare there, but they both exist. So keep your eye out. All right. Next is Scooby Doo and the Cyber Chase, which is on the GBA and the PS1. And that’s based on a 2001 movie, one of the very many freaking Scooby Doo movies. Yeah. And I don’t think those games are the same at all. No, animated movie. Oh, animated movie. I’m sorry. Are there non-animated movies? I mean, there’s the live action one, but Scooby still anim... counts. Well, okay, fine. Fair. PlayStation game, just a 3D action game, and then the GBA one’s a side scroller as all those handheld ports kind of go. Yeah, it’s... that’s always a weird territory in gaming for me because people say, \"Oh, yeah, well, I have that"
+        },
+        {
+          "location": "Paragraph 9",
+          "quote": "game.\" And you’re like, \"Well, you really don’t if you have the GBA version because it’s not really the same.\" Yeah. Yeah. That stuff drives me nuts. And then the PS1 version of that also has a great tits variant. Yeah. And it’s also... the GBA has a double pack with an additional game called Mystery Mayhem, which is one of the individual titles also on the GBA. And that’s one of those ones you should also keep your eye on because all of the GBA double pack games are always kind of hard to find, and they always wind up fetching a pretty high price. Right now, they’re still relatively cheap, but as people get into GBA collecting, they’ll start to target things like the double packs because they’re just less common. So if you see those, you know, and they’re under like 15 bucks, pick them up. Anyways, what do we got next? Oh, man. Scooby-Doo first frights. I actually know nothing about this game, Johnny. So tell me what they are. Oh, they’re not good. They are more modern. And it was kind of in that weird mid-2000s when they were messing with Scooby’s image a little bit. It wasn’t the full overhaul. Like they just did in a comic where they hipstered up Shaggy and stuff"
+        },
+        {
+          "location": "Paragraph 12",
+          "quote": "here’s where we get more into that, them messing with Scooby-Doo and the weird thing that Scooby-Doo games are always cross-platform and it’s that Mystery Mayhem game I told you about that was in the double pack with Cyber Chase and it is for the GameCube, the GBA, the PS2 and the Xbox. It was everywhere. All right, so what’s the next one, Tyler? All right, next we got Scooby-Doo Night of a Thousand Frights, which is just on GameCube, PS2, Xbox. It’s just kind of a standard 3D action platformer. That one’s got a greatest hits variant on the PS2 and I think that’s one of the last Xbox manuals I got. So I think it’s kind of uncommon on Xbox. Yeah, it is a little bit, but it’s not too expensive. It is the more expensive of the Xbox titles. They’re all like $10 and that one’s like $15. I mean, nothing’s too expensive on Xbox. It’s Xbox. Well, I mean, Jurassic Park? Yeah, all right. There’s a handful of games, fine. Okay, yeah. There’s a few over $100 or in that $100 range, but not many. Not when you stack it next to the Super Nintendo, you’re like, \"Oh, that’s cheap. Thank goodness.\" Yeah. Anyways, we move into some more GBA stuff and I’m just going to"
+        }
+      ],
+      "evidence_locations": [
+        "Paragraph 8",
+        "Paragraph 9",
+        "Paragraph 12"
+      ],
+      "manual_source_review": "passed_source_support_and_forbidden_inference_check",
+      "retrieval_status": "pending_coordinator"
+    }
+  ],
+  "episode_ledger": {
+    "A1": "passed_with_untimed_qualifications",
+    "A2": "passed_same_agent_audit",
+    "A3": "passed_with_contextual_attribution",
+    "A4": "passed_with_unknowns_retained",
+    "A5": "manual_answers_reviewed_retrieval_pending",
+    "A6": "written_brief_reviewed_live_not_performed",
+    "A7": "pending_coordinator",
+    "A8": "pending_coordinator"
+  },
+  "omission_audit": {
+    "selection": "Entire source, all paragraphs, reviewed again against manual occurrence mapping. Same agent, not blinded or an independent recall estimate.",
+    "paragraphs_reviewed": 19,
+    "paragraphs_total": 19,
+    "game_reference_buckets": 28,
+    "reference_paragraph_pairs": 45,
+    "reconciled_pairs": 45,
+    "quiet_paragraphs": [
+      "Paragraph 16",
+      "Paragraph 17",
+      "Paragraph 18",
+      "Paragraph 19"
+    ],
+    "repairs": [
+      "Source review caught no-buying-segment wording could hide embedded actions; captured DVD pack purchase, Maze Chase purchase and Xbox manual acquisition.",
+      "Separated Cyber Chase PS1/GBA and GBA compilation; preserved raw Greatest Hits recognition.",
+      "Scoped original-Xbox/360 and LEGO3DS/WiiU immediate corrections in record and complete answers.",
+      "Retained uncertain computer/plug-and-play boundaries instead of treating17/15/41 as catalog truth."
+    ],
+    "unresolved_misses": []
+  },
+  "qualified_leaders": [
+    {
+      "title": "Scooby Doo Mystery Machine Plug and Play",
+      "entity_id": "cq077:cq077-g003",
+      "game_refs": [
+        "cq077-g003"
+      ],
+      "meaningful_paragraphs": 2,
+      "substantial_paragraphs": 0,
+      "supporting_paragraphs": 2
+    },
+    {
+      "title": "Scooby-Doo! and the Spooky Swamp",
+      "entity_id": "cq077:cq077-g009",
+      "game_refs": [
+        "cq077-g009",
+        "cq077-g010"
+      ],
+      "meaningful_paragraphs": 2,
+      "substantial_paragraphs": 1,
+      "supporting_paragraphs": 1
+    },
+    {
+      "title": "Scooby-Doo! and the Cyber Chase",
+      "entity_id": "cq077:cq077-g013",
+      "game_refs": [
+        "cq077-g013"
+      ],
+      "meaningful_paragraphs": 2,
+      "substantial_paragraphs": 0,
+      "supporting_paragraphs": 2
+    },
+    {
+      "title": "Scooby-Doo! and the Cyber Chase",
+      "entity_id": "cq077:cq077-g014",
+      "game_refs": [
+        "cq077-g014"
+      ],
+      "meaningful_paragraphs": 2,
+      "substantial_paragraphs": 0,
+      "supporting_paragraphs": 2
+    },
+    {
+      "title": "Scooby-Doo! Mystery Mayhem",
+      "entity_id": "cq077:cq077-g015",
+      "game_refs": [
+        "cq077-g015"
+      ],
+      "meaningful_paragraphs": 2,
+      "substantial_paragraphs": 0,
+      "supporting_paragraphs": 2
+    },
+    {
+      "title": "Scooby-Doo",
+      "entity_id": "cq077:cq077-g004",
+      "game_refs": [
+        "cq077-g004"
+      ],
+      "meaningful_paragraphs": 1,
+      "substantial_paragraphs": 0,
+      "supporting_paragraphs": 1
+    },
+    {
+      "title": "Scooby-Doo! & Looney Tunes Cartoon Universe: Adventure",
+      "entity_id": "cq077:cq077-g006",
+      "game_refs": [
+        "cq077-g006"
+      ],
+      "meaningful_paragraphs": 1,
+      "substantial_paragraphs": 0,
+      "supporting_paragraphs": 1
+    },
+    {
+      "title": "LEGO Dimensions",
+      "entity_id": "cq077:cq077-g007",
+      "game_refs": [
+        "cq077-g007"
+      ],
+      "meaningful_paragraphs": 1,
+      "substantial_paragraphs": 0,
+      "supporting_paragraphs": 1
+    },
+    {
+      "title": "Scooby-Doo! Classic Creep Capers",
+      "entity_id": "cq077:cq077-g011",
+      "game_refs": [
+        "cq077-g011"
+      ],
+      "meaningful_paragraphs": 1,
+      "substantial_paragraphs": 0,
+      "supporting_paragraphs": 1
+    },
+    {
+      "title": "Scooby-Doo! First Frights",
+      "entity_id": "cq077:cq077-g017",
+      "game_refs": [
+        "cq077-g017"
+      ],
+      "meaningful_paragraphs": 1,
+      "substantial_paragraphs": 0,
+      "supporting_paragraphs": 1
+    }
+  ],
+  "ranking_note": "Explicit kinds remove franchise/addon/compilation from individual-game ranking. Scooby series retains5 supporting paragraphs separately. Same-game Spooky Swamp variant unified acrossP6–7:2 meaningful paragraphs, tied with Mystery Machine original game, Cyber Chase PS1, Cyber Chase GBA and Mystery Mayhem. No unique topthree.",
+  "franchise_coverage": [
+    {
+      "title": "Scooby-Doo",
+      "game_ref": "cq077-g001",
+      "meaningful_paragraphs": 5,
+      "substantial_paragraphs": 0,
+      "supporting_paragraphs": 5
+    }
+  ],
+  "ranking_scope": "Individual game/edition/product buckets; franchise coverage reported separately, not compared with titles."
+}

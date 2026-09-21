@@ -1,0 +1,2570 @@
+{
+  "schema_version": "1",
+  "review_status": "A1-A6 authored; A7-A8 integration pending",
+  "note": "Primary captured-source research; same-agent desk review, no live rehearsal.",
+  "episodes": [
+    {
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "mapping_status": "complete",
+      "review_note": "All34 paragraphs read;30 reference buckets include28 game/series/unresolved and2 demo products excluded from game ranking.",
+      "spans": [
+        {
+          "id": "cq010-span-001-1",
+          "entity_id": "cq010-g001",
+          "title": "reproductions of Earthbound — unresolved",
+          "game_refs": [
+            "cq010-g001"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "unresolved",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 8",
+          "end_exclusive": "Paragraph 9",
+          "reason": "Example of an occasional reproduction addition; exact title/version and actual transaction unconfirmed. Coarse paragraph units, not seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "reproductions of Earthbound"
+            }
+          ]
+        },
+        {
+          "id": "cq010-span-002-1",
+          "entity_id": "cq010-g002",
+          "title": "Battle Kid",
+          "game_refs": [
+            "cq010-g002"
+          ],
+          "entity_kind": "game_series",
+          "identity_granularity": "series",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 8",
+          "end_exclusive": "Paragraph 9",
+          "reason": "Collective additions; individual installments not named. Coarse paragraph units, not seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "I added the Battle Kid games"
+            }
+          ]
+        },
+        {
+          "id": "cq010-span-003-1",
+          "entity_id": "cq010-g003",
+          "title": "Stadium Events",
+          "game_refs": [
+            "cq010-g003"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 9",
+          "end_exclusive": "Paragraph 10",
+          "reason": "North American CIB collection item; no gameplay discussion. Coarse paragraph units, not seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 9",
+              "quote": "stadium events complete in box"
+            }
+          ]
+        },
+        {
+          "id": "cq010-span-004-1",
+          "entity_id": "cq010-g004",
+          "title": "Nintendo World Championships 1990",
+          "game_refs": [
+            "cq010-g004"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 9",
+          "end_exclusive": "Paragraph 10",
+          "reason": "Two owned cartridge variants, not two underlying games. Coarse paragraph units, not seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 9",
+              "quote": "NWC gray and NWC gold"
+            }
+          ]
+        },
+        {
+          "id": "cq010-span-005-1",
+          "entity_id": "cq010-g005",
+          "title": "GameCube Interactive Multi-Game Demo Disc set",
+          "game_refs": [
+            "cq010-g005"
+          ],
+          "entity_kind": "demo_product",
+          "identity_granularity": "collection",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 9",
+          "end_exclusive": "Paragraph 11",
+          "reason": "35-disc set completion, with one delayed disc; collection object not individual game. Coarse paragraph units, not seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 9",
+              "quote": "GameCube interactive multi-game demo disc set"
+            }
+          ]
+        },
+        {
+          "id": "cq010-span-006-1",
+          "entity_id": "cq010-g006",
+          "title": "GameCube demo disc — January 2002",
+          "game_refs": [
+            "cq010-g006"
+          ],
+          "entity_kind": "demo_product",
+          "identity_granularity": "demo",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 10",
+          "end_exclusive": "Paragraph 11",
+          "reason": "Took three years to find; no demo contents identified. Coarse paragraph units, not seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 10",
+              "quote": "January 2002 disc"
+            }
+          ]
+        },
+        {
+          "id": "cq010-span-007-1",
+          "entity_id": "cq010-g007",
+          "title": "Oddworld: Munch’s Oddysee",
+          "game_refs": [
+            "cq010-g007"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 10",
+          "end_exclusive": "Paragraph 11",
+          "reason": "Personally significant signed copy; normalized title provisional from raw recognition form. Coarse paragraph units, not seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 10",
+              "quote": "Oddworld, Munch of Saddusy"
+            }
+          ]
+        },
+        {
+          "id": "cq010-span-008-1",
+          "entity_id": "cq010-g008",
+          "title": "Grand Theft Auto III",
+          "game_refs": [
+            "cq010-g008"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 10",
+          "end_exclusive": "Paragraph 11",
+          "reason": "Jack Thompson signed-copy memory, respectful interaction versus broader controversy; no verified legal history. Coarse paragraph units, not seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 10",
+              "quote": "personally sign a copy of Grand Theft Auto 3"
+            }
+          ]
+        },
+        {
+          "id": "cq010-span-009-1",
+          "entity_id": "cq010-g009",
+          "title": "International Superstar Soccer 99",
+          "game_refs": [
+            "cq010-g009"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 11",
+          "end_exclusive": "Paragraph 12",
+          "reason": "Missing game acquired separately to finish purchased GBC set; rarity claim source-scoped. Coarse paragraph units, not seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 11",
+              "quote": "International Superstar Soccer 99"
+            }
+          ]
+        },
+        {
+          "id": "cq010-span-010-1",
+          "entity_id": "cq010-g010",
+          "title": "Super Metroid",
+          "game_refs": [
+            "cq010-g010"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 13",
+          "end_exclusive": "Paragraph 14",
+          "reason": "Rapid positive SNES examples, not owned/played assertion. Coarse paragraph units, not seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 13",
+              "quote": "Super Metroid"
+            }
+          ]
+        },
+        {
+          "id": "cq010-span-011-1",
+          "entity_id": "cq010-g011",
+          "title": "Harvest Moon",
+          "game_refs": [
+            "cq010-g011"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 13",
+          "end_exclusive": "Paragraph 14",
+          "reason": "Original SNES named in rapid example list. Coarse paragraph units, not seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 13",
+              "quote": "the original Harvest Moon"
+            }
+          ]
+        },
+        {
+          "id": "cq010-span-012-1",
+          "entity_id": "cq010-g012",
+          "title": "Super Mario World",
+          "game_refs": [
+            "cq010-g012"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 13",
+          "end_exclusive": "Paragraph 14",
+          "reason": "Rapid example, no particular acquisition. Coarse paragraph units, not seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 13",
+              "quote": "Super Mario World"
+            }
+          ]
+        },
+        {
+          "id": "cq010-span-013-1",
+          "entity_id": "cq010-g013",
+          "title": "The Legend of Zelda: A Link to the Past",
+          "game_refs": [
+            "cq010-g013"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 13",
+          "end_exclusive": "Paragraph 14",
+          "reason": "Rapid positive example. Coarse paragraph units, not seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 13",
+              "quote": "Zelda Link to the Past"
+            }
+          ]
+        },
+        {
+          "id": "cq010-span-014-1",
+          "entity_id": "cq010-g014",
+          "title": "Donkey Kong Country",
+          "game_refs": [
+            "cq010-g014"
+          ],
+          "entity_kind": "game_series",
+          "identity_granularity": "series",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 13",
+          "end_exclusive": "Paragraph 14",
+          "reason": "Explicit series; not every installment a distinct mention. Coarse paragraph units, not seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 13",
+              "quote": "Donkey Kong Country series"
+            }
+          ]
+        },
+        {
+          "id": "cq010-span-015-1",
+          "entity_id": "cq010-g015",
+          "title": "Luffy 1 — unresolved",
+          "game_refs": [
+            "cq010-g015"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "unresolved",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 13",
+          "end_exclusive": "Paragraph 14",
+          "reason": "Possible Lufia title; raw preserved, not externally resolved. Coarse paragraph units, not seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 13",
+              "quote": "Luffy 1 and 2"
+            }
+          ]
+        },
+        {
+          "id": "cq010-span-016-1",
+          "entity_id": "cq010-g016",
+          "title": "Luffy 2 — unresolved",
+          "game_refs": [
+            "cq010-g016"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "unresolved",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 13",
+          "end_exclusive": "Paragraph 14",
+          "reason": "Possible Lufia sequel; raw preserved separately. Coarse paragraph units, not seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 13",
+              "quote": "Luffy 1 and 2"
+            }
+          ]
+        },
+        {
+          "id": "cq010-span-017-1",
+          "entity_id": "cq010-g017",
+          "title": "The Legend of Zelda",
+          "game_refs": [
+            "cq010-g017"
+          ],
+          "entity_kind": "game_series",
+          "identity_granularity": "series",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 17",
+          "end_exclusive": "Paragraph 18",
+          "reason": "Popular Instagram-content example; not purchase or gameplay. Coarse paragraph units, not seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 17",
+              "quote": "Zelda franchise"
+            }
+          ]
+        },
+        {
+          "id": "cq010-span-018-1",
+          "entity_id": "cq010-g018",
+          "title": "Mega Man",
+          "game_refs": [
+            "cq010-g018"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 17",
+          "end_exclusive": "Paragraph 18",
+          "reason": "Explicit numbered range of popular post subjects, not six detailed reviews. Coarse paragraph units, not seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 17",
+              "quote": "Mega Man 1 through 6"
+            }
+          ]
+        },
+        {
+          "id": "cq010-span-019-1",
+          "entity_id": "cq010-g019",
+          "title": "Mega Man 2",
+          "game_refs": [
+            "cq010-g019"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 17",
+          "end_exclusive": "Paragraph 18",
+          "reason": "Explicit numbered range of popular post subjects, not six detailed reviews. Coarse paragraph units, not seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 17",
+              "quote": "Mega Man 1 through 6"
+            }
+          ]
+        },
+        {
+          "id": "cq010-span-020-1",
+          "entity_id": "cq010-g020",
+          "title": "Mega Man 3",
+          "game_refs": [
+            "cq010-g020"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 17",
+          "end_exclusive": "Paragraph 18",
+          "reason": "Explicit numbered range of popular post subjects, not six detailed reviews. Coarse paragraph units, not seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 17",
+              "quote": "Mega Man 1 through 6"
+            }
+          ]
+        },
+        {
+          "id": "cq010-span-021-1",
+          "entity_id": "cq010-g021",
+          "title": "Mega Man 4",
+          "game_refs": [
+            "cq010-g021"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 17",
+          "end_exclusive": "Paragraph 18",
+          "reason": "Explicit numbered range of popular post subjects, not six detailed reviews. Coarse paragraph units, not seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 17",
+              "quote": "Mega Man 1 through 6"
+            }
+          ]
+        },
+        {
+          "id": "cq010-span-022-1",
+          "entity_id": "cq010-g022",
+          "title": "Mega Man 5",
+          "game_refs": [
+            "cq010-g022"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 17",
+          "end_exclusive": "Paragraph 18",
+          "reason": "Explicit numbered range of popular post subjects, not six detailed reviews. Coarse paragraph units, not seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 17",
+              "quote": "Mega Man 1 through 6"
+            }
+          ]
+        },
+        {
+          "id": "cq010-span-023-1",
+          "entity_id": "cq010-g023",
+          "title": "Mega Man 6",
+          "game_refs": [
+            "cq010-g023"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 17",
+          "end_exclusive": "Paragraph 18",
+          "reason": "Explicit numbered range of popular post subjects, not six detailed reviews. Coarse paragraph units, not seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 17",
+              "quote": "Mega Man 1 through 6"
+            }
+          ]
+        },
+        {
+          "id": "cq010-span-024-1",
+          "entity_id": "cq010-g024",
+          "title": "Mega Man X2",
+          "game_refs": [
+            "cq010-g024"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 17",
+          "end_exclusive": "Paragraph 18",
+          "reason": "Popular post example. Coarse paragraph units, not seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 17",
+              "quote": "Mega Man X2"
+            }
+          ]
+        },
+        {
+          "id": "cq010-span-025-1",
+          "entity_id": "cq010-g025",
+          "title": "Mega Man X3",
+          "game_refs": [
+            "cq010-g025"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 17",
+          "end_exclusive": "Paragraph 18",
+          "reason": "Continuation of Mega Man X examples. Coarse paragraph units, not seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 17",
+              "quote": "X3"
+            }
+          ]
+        },
+        {
+          "id": "cq010-span-026-1",
+          "entity_id": "cq010-g026",
+          "title": "Mario Kart 7",
+          "game_refs": [
+            "cq010-g026"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 32",
+          "end_exclusive": "Paragraph 33",
+          "reason": "Favorite returning play and dated online-activity remark. Coarse paragraph units, not seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 32",
+              "quote": "Mario Kart 7 for Nintendo 3DS"
+            }
+          ]
+        },
+        {
+          "id": "cq010-span-027-1",
+          "entity_id": "cq010-g027",
+          "title": "Fallout 4",
+          "game_refs": [
+            "cq010-g027"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 32",
+          "end_exclusive": "Paragraph 33",
+          "reason": "Says he cannot play it now; no gameplay or purchase. Coarse paragraph units, not seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 32",
+              "quote": "Fallout 4"
+            }
+          ]
+        },
+        {
+          "id": "cq010-span-028-1",
+          "entity_id": "cq010-g028",
+          "title": "Super Mario Maker",
+          "game_refs": [
+            "cq010-g028"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 32",
+          "end_exclusive": "Paragraph 33",
+          "reason": "Hoped-for future play contingent on moving/hardware, not actual play. Coarse paragraph units, not seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 32",
+              "quote": "Hopefully, I’ll be playing Super Mario Maker soon"
+            }
+          ]
+        },
+        {
+          "id": "cq010-span-029-1",
+          "entity_id": "cq010-g029",
+          "title": "Super Smash Bros. for Wii U",
+          "game_refs": [
+            "cq010-g029"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 32",
+          "end_exclusive": "Paragraph 33",
+          "reason": "Bundle-content discussion; no purchase. Coarse paragraph units, not seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 32",
+              "quote": "Smash Bros. and Splatoon"
+            }
+          ]
+        },
+        {
+          "id": "cq010-span-030-1",
+          "entity_id": "cq010-g030",
+          "title": "Splatoon",
+          "game_refs": [
+            "cq010-g030"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 32",
+          "end_exclusive": "Paragraph 33",
+          "reason": "Bundle-content discussion; no purchase. Coarse paragraph units, not seconds.",
+          "evidence": [
+            {
+              "location": "Paragraph 32",
+              "quote": "Smash Bros. and Splatoon"
+            }
+          ]
+        }
+      ],
+      "section_accounting": [
+        {
+          "location": "Paragraph 1",
+          "status": "read_and_accounted",
+          "summary": "Host/guest introduction; collection preview and Star Wars media quote."
+        },
+        {
+          "location": "Paragraph 2",
+          "status": "read_and_accounted",
+          "summary": "VGDB origin, URL, North American scope and future regions."
+        },
+        {
+          "location": "Paragraph 3",
+          "status": "read_and_accounted",
+          "summary": "Planned systems; primitive project stage and search/box-art UI."
+        },
+        {
+          "location": "Paragraph 4",
+          "status": "read_and_accounted",
+          "summary": "Ownership/release tracking and10,000 milestone."
+        },
+        {
+          "location": "Paragraph 5",
+          "status": "read_and_accounted",
+          "summary": "2005 NES-lot origin,800-dollar price and fun-value joke."
+        },
+        {
+          "location": "Paragraph 6",
+          "status": "read_and_accounted",
+          "summary": "Organization/artifact philosophy; no game title."
+        },
+        {
+          "location": "Paragraph 7",
+          "status": "read_and_accounted",
+          "summary": "Text files to VGDB; NES nostalgia/completion boundary."
+        },
+        {
+          "location": "Paragraph 8",
+          "status": "read_and_accounted",
+          "summary": "NES2009, reproductions/BattleKid; current systems and GBA list uncertainty."
+        },
+        {
+          "location": "Paragraph 9",
+          "status": "read_and_accounted",
+          "summary": "Johnny's GBA count; Nick's Stadium/NWC and demo set."
+        },
+        {
+          "location": "Paragraph 10",
+          "status": "read_and_accounted",
+          "summary": "January2002 demo delay; signed Oddworld/GTA3 memories."
+        },
+        {
+          "location": "Paragraph 11",
+          "status": "read_and_accounted",
+          "summary": "Bought versus self-completed sets; GBC missing ISS99 and purchase sum."
+        },
+        {
+          "location": "Paragraph 12",
+          "status": "read_and_accounted",
+          "summary": "Completed/partial sets; SNES count and skipped-family-system story."
+        },
+        {
+          "location": "Paragraph 13",
+          "status": "read_and_accounted",
+          "summary": "SNES examples and nostalgia; age/era comparison."
+        },
+        {
+          "location": "Paragraph 14",
+          "status": "read_and_accounted",
+          "summary": "Old-man joke; Kat's Instagram community experience."
+        },
+        {
+          "location": "Paragraph 15",
+          "status": "read_and_accounted",
+          "summary": "Nick's community entry and sharing motivations."
+        },
+        {
+          "location": "Paragraph 16",
+          "status": "read_and_accounted",
+          "summary": "Kat no Instagram trades; Nick's empty-box trade/shoutout."
+        },
+        {
+          "location": "Paragraph 17",
+          "status": "read_and_accounted",
+          "summary": "Popular franchise post list; about20 trades and delayed shipment."
+        },
+        {
+          "location": "Paragraph 18",
+          "status": "read_and_accounted",
+          "summary": "Risk/reputation opinions, not guarantees."
+        },
+        {
+          "location": "Paragraph 19",
+          "status": "read_and_accounted",
+          "summary": "Johnny aggregate trades and informal precautions."
+        },
+        {
+          "location": "Paragraph 20",
+          "status": "read_and_accounted",
+          "summary": "Shoutout feedback; forums question; Kat local collecting."
+        },
+        {
+          "location": "Paragraph 21",
+          "status": "read_and_accounted",
+          "summary": "Kat hunt preference and first online-social outlet."
+        },
+        {
+          "location": "Paragraph 22",
+          "status": "read_and_accounted",
+          "summary": "Nick forums2005–09/current monitoring; Johnny Instagram adoption."
+        },
+        {
+          "location": "Paragraph 23",
+          "status": "read_and_accounted",
+          "summary": "Age and mortality jokes; no game-title discussion."
+        },
+        {
+          "location": "Paragraph 24",
+          "status": "read_and_accounted",
+          "summary": "Hypothetical collection disposition introduced; spouses distinguished."
+        },
+        {
+          "location": "Paragraph 25",
+          "status": "read_and_accounted",
+          "summary": "Kat shared collection; Nick informal brother-Matt expectation."
+        },
+        {
+          "location": "Paragraph 26",
+          "status": "read_and_accounted",
+          "summary": "Johnny friend/15-percent oral plan;6,000 games; friend sells Magic cards."
+        },
+        {
+          "location": "Paragraph 27",
+          "status": "read_and_accounted",
+          "summary": "Johnny explicitly unwritten plan and wish for wife's benefit."
+        },
+        {
+          "location": "Paragraph 28",
+          "status": "read_and_accounted",
+          "summary": "Mourning/long-term collection intentions and hypothetical offer question."
+        },
+        {
+          "location": "Paragraph 29",
+          "status": "read_and_accounted",
+          "summary": "Different conditional full-market-value responses; SNES exception."
+        },
+        {
+          "location": "Paragraph 30",
+          "status": "read_and_accounted",
+          "summary": "Financial-use hypotheticals; Nick2–3-times consideration, no firm threshold."
+        },
+        {
+          "location": "Paragraph 31",
+          "status": "read_and_accounted",
+          "summary": "Kat qualification; transition to Nick's current play."
+        },
+        {
+          "location": "Paragraph 32",
+          "status": "read_and_accounted",
+          "summary": "MarioKart7 actual play; Fallout4 non-play; MarioMaker/WiiU intent; bundle declined."
+        },
+        {
+          "location": "Paragraph 33",
+          "status": "read_and_accounted",
+          "summary": "Digital convenience, finite collecting endpoint, future-topic suggestion."
+        },
+        {
+          "location": "Paragraph 34",
+          "status": "read_and_accounted",
+          "summary": "Skynet/media joke, names/handles, signoff/music; no game title."
+        }
+      ],
+      "span_review": {
+        "paragraphs_read": 34,
+        "existing_game_ids_represented": 30,
+        "new_reference_ids": 0,
+        "method": "Source-first inventory, same-agent full-source identity/role/action reconciliation; not independent."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "cq010-action-01",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "10,000-game collection",
+      "action_state": "owned",
+      "summary": "Reported milestone; title of milestone game not named.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 4",
+          "quote": "I just added my 10,000th games"
+        }
+      ],
+      "entity_type": "unidentified_lot"
+    },
+    {
+      "id": "cq010-action-02",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "400 different NES cartridges",
+      "action_state": "purchased",
+      "summary": "2005 recalled purchase; cartridge-only, not current market price.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 5",
+          "quote": "I bought 400 NES games for $800"
+        }
+      ],
+      "entity_type": "unidentified_lot"
+    },
+    {
+      "id": "cq010-action-03",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "NES set",
+      "action_state": "owned",
+      "summary": "Completion year continues as2009 in next paragraph.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 7",
+          "quote": "I completed my NES set"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq010-action-04",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Earthbound NES reproduction",
+      "action_state": "hypothetical",
+      "summary": "Example/might-add wording does not establish a specific acquired reproduction.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 8",
+          "quote": "For example, like reproductions of Earthbound"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq010-action-05",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Battle Kid games — unnamed installments",
+      "action_state": "owned",
+      "summary": "Reported additions; titles not enumerated.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 8",
+          "quote": "I added the Battle Kid games"
+        }
+      ],
+      "entity_type": "unidentified_lot"
+    },
+    {
+      "id": "cq010-action-06",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Couple hundred GBA games",
+      "action_state": "owned",
+      "summary": "Contextual Johnny; approximate count and no complete-set goal.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 9",
+          "quote": "I have a couple hundred Game Boy Advance games"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq010-action-07",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Stadium Events — North American CIB",
+      "action_state": "owned",
+      "summary": "Reported owned item, not authenticated.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 9",
+          "quote": "I do have stadium events complete in box, the North American version"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq010-action-08",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Nintendo World Championships — gray",
+      "action_state": "owned",
+      "summary": "Gray variant; not a distinct underlying game from gold.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 9",
+          "quote": "I do have NWC gray and NWC gold"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq010-action-09",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Nintendo World Championships — gold",
+      "action_state": "owned",
+      "summary": "Gold variant; not independent authentication.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 9",
+          "quote": "I do have NWC gray and NWC gold"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq010-action-10",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "GameCube Interactive Multi-Game Demo Disc set",
+      "action_state": "owned",
+      "summary": "Set-level ownership, contents not individually expanded.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 9",
+          "quote": "I have all 35 of them"
+        }
+      ],
+      "entity_type": "demo_collection"
+    },
+    {
+      "id": "cq010-action-11",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "GameCube January 2002 demo disc",
+      "action_state": "owned",
+      "summary": "Owned within the completed set; finding took three years, but no delivery event or receipt date is reported.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 10",
+          "quote": "January 2002 disc, which took me three years to find"
+        }
+      ],
+      "entity_type": "demo"
+    },
+    {
+      "id": "cq010-action-12",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Oddworld: Munch’s Oddysee — signed Xbox copy",
+      "action_state": "owned",
+      "summary": "Copy personally signed by Lorne Lanning; normalization provisional.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 10",
+          "quote": "I have a copy of Oddworld, Munch of Saddusy"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq010-action-13",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Grand Theft Auto III — signed copy",
+      "action_state": "owned",
+      "summary": "Personal signature report, not legal-history verification.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 10",
+          "quote": "I had him personally sign a copy of Grand Theft Auto 3"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq010-action-14",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Game Boy Color US CIB set",
+      "action_state": "purchased",
+      "summary": "Reports set purchase; one missing title later obtained separately. Standalone missing-title price unknown.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 11",
+          "quote": "I paid $11,000 for the full US Complete and Box Game Boy Color set"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq010-action-15",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "International Superstar Soccer 99",
+      "action_state": "received",
+      "summary": "Missing title named later in same paragraph; obtained independently, not a separately priced receipt.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 11",
+          "quote": "It was missing one game, which I’d since gotten"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq010-action-16",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Game Boy Color completed set",
+      "action_state": "owned",
+      "summary": "Set now complete by reported later addition; exact completion date not supplied.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 11",
+          "quote": "The game that was missing was International Superstar Soccer 99"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq010-action-17",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Sega Dreamcast set",
+      "action_state": "purchased",
+      "summary": "Whole-set purchase reported.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 11",
+          "quote": "I bought the entire Sega Dreamcast set all at once"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq010-action-18",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Sega Master System set",
+      "action_state": "purchased",
+      "summary": "Whole-set purchase reported.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 11",
+          "quote": "I also bought the entire Sega Master System set all at once"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq010-action-19",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Sega 32X set",
+      "action_state": "purchased",
+      "summary": "Whole-set purchase reported.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 11",
+          "quote": "I also bought the entire Sega 32X set all at once"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq010-action-20",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Virtual Boy set",
+      "action_state": "purchased",
+      "summary": "Continuation of purchased sets.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 11",
+          "quote": "the entire Virtual Boy set all at once"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq010-action-21",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Nintendo64 set",
+      "action_state": "owned",
+      "summary": "Self-completed set; not all bought together.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 11",
+          "quote": "I completed NES, N64"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq010-action-22",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "GameCube set",
+      "action_state": "owned",
+      "summary": "Continuation of self-completed systems.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 12",
+          "quote": "Gamecube, and I just recently completed original Game Boy"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq010-action-23",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Original Game Boy set",
+      "action_state": "owned",
+      "summary": "Recent completion reported.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 12",
+          "quote": "I just recently completed original Game Boy"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq010-action-24",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Super Nintendo — around200 CIB games",
+      "action_state": "owned",
+      "summary": "Incomplete set, approximate count.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 12",
+          "quote": "I have around 200 games complete in box"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq010-action-25",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Super Nintendo complete set",
+      "action_state": "wanted",
+      "summary": "Future completion intention, not presently complete.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 13",
+          "quote": "I will collect and finish Super Nintendo eventually"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq010-action-26",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Empty N64 boxes",
+      "action_state": "mentioned",
+      "summary": "Outgoing trade: Nick sent empty N64 boxes to Retro Game Trader; no cash sale or consideration amount established.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 16",
+          "quote": "I sent him a bunch of empty N64 boxes"
+        }
+      ],
+      "entity_type": "packaging",
+      "disposition": "traded"
+    },
+    {
+      "id": "cq010-action-27",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Unspecified delayed Instagram trade item",
+      "action_state": "mentioned",
+      "summary": "Reported sent after a delay and no further issues; shipment is not explicit delivery/receipt evidence.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 17",
+          "quote": "she shipped it and there were no issues"
+        }
+      ],
+      "entity_type": "unidentified_lot"
+    },
+    {
+      "id": "cq010-action-28",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Unspecified Instagram trades",
+      "action_state": "mentioned",
+      "summary": "Johnny reports a couple of trades with positive experience; no individual shipment, receipt, item or price established.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 19",
+          "quote": "I’ve actually done a couple of trades through Instagram and so far so good"
+        }
+      ],
+      "entity_type": "unidentified_lot"
+    },
+    {
+      "id": "cq010-action-29",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Joint collection",
+      "action_state": "owned",
+      "summary": "Kat reports joint ownership of the collection built with her husband John; canonical subject supports Kat retrieval, co_subjects preserves John. No invented individual purchases.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 25",
+          "quote": "we built so much of it together"
+        }
+      ],
+      "entity_type": "collection",
+      "co_subjects": [
+        "John"
+      ]
+    },
+    {
+      "id": "cq010-action-30",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Collection after death",
+      "action_state": "hypothetical",
+      "summary": "Future uncertain keep/sell possibilities, not actual sale.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 25",
+          "quote": "we would either keep the collection"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq010-action-31",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Collection after death",
+      "action_state": "hypothetical",
+      "summary": "Imagined future seller is Matt; not an actual event or formal legal designation.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Matt",
+      "evidence": [
+        {
+          "location": "Paragraph 25",
+          "quote": "my brother Matt would end up selling it"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq010-action-32",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Over6,000-game collection",
+      "action_state": "owned",
+      "summary": "Approximate reported collection size.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 26",
+          "quote": "It’s got over 6,000 games"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq010-action-33",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Collection after death",
+      "action_state": "hypothetical",
+      "summary": "Friend would sell; oral discussion not a will or actual transaction.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Johnny's friend",
+      "evidence": [
+        {
+          "location": "Paragraph 26",
+          "quote": "hopefully he would get money to pass on to my wife"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq010-action-34",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Collection full-market-value offer",
+      "action_state": "hypothetical",
+      "summary": "Conditional willingness, possible SNES retention; not a completed sale.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 29",
+          "quote": "you could have them today"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq010-action-35",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Collection two-to-three-times-value offer",
+      "action_state": "hypothetical",
+      "summary": "Only a consideration range, no definite accepted offer.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 30",
+          "quote": "between two and three times market value"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq010-action-36",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Collection sale offer",
+      "action_state": "hypothetical",
+      "summary": "Qualified hypothetical willingness, not a sale.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 31",
+          "quote": "you never know if somebody came in"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq010-action-37",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Mario Kart 7",
+      "action_state": "played",
+      "summary": "Recurring favorite play, not new purchase.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 32",
+          "quote": "I always go back to Mario Kart 7"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq010-action-38",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Super Mario Maker",
+      "action_state": "wanted",
+      "summary": "Future play contingent on move/hardware, no gameplay yet.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 32",
+          "quote": "Hopefully, I’ll be playing Super Mario Maker soon"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq010-action-39",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Wii U and TV",
+      "action_state": "wanted",
+      "summary": "Intended hardware acquisition, not ordered/received.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 32",
+          "quote": "I should be getting a Wii U soon"
+        }
+      ],
+      "entity_type": "hardware"
+    },
+    {
+      "id": "cq010-action-40",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Wii U Smash/Splatoon digital bundle",
+      "action_state": "hypothetical",
+      "summary": "Considered then likely declined for digital copies; not a purchase.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 32",
+          "quote": "I probably won’t get that"
+        }
+      ],
+      "entity_type": "hardware_bundle"
+    },
+    {
+      "id": "cq010-action-41",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Digital current games plus sealed physical copies",
+      "action_state": "wanted",
+      "summary": "Preference/wish, not a double-purchase report.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 33",
+          "quote": "I wish I could afford to do both"
+        }
+      ],
+      "entity_type": "unidentified_lot"
+    },
+    {
+      "id": "cq010-action-42",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Magic cards",
+      "action_state": "sold",
+      "summary": "Other person's general trading activity; not video games or a specific cash transaction.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Johnny's friend",
+      "evidence": [
+        {
+          "location": "Paragraph 26",
+          "quote": "He sells magic cards and stuff"
+        }
+      ],
+      "entity_type": "tabletop"
+    },
+    {
+      "id": "cq010-action-43",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Game Boy Advance near-complete set",
+      "action_state": "owned",
+      "summary": "Near-complete self-report, not completion.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 12",
+          "quote": "I am near complete on Game Boy Advance, DS, Wii, Sega Genesis, and also Sega CD and Sega Saturn"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq010-action-44",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "DS near-complete set",
+      "action_state": "owned",
+      "summary": "Near-complete self-report, not completion.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 12",
+          "quote": "I am near complete on Game Boy Advance, DS, Wii, Sega Genesis, and also Sega CD and Sega Saturn"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq010-action-45",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Wii near-complete set",
+      "action_state": "owned",
+      "summary": "Near-complete self-report, not completion.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 12",
+          "quote": "I am near complete on Game Boy Advance, DS, Wii, Sega Genesis, and also Sega CD and Sega Saturn"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq010-action-46",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Sega Genesis near-complete set",
+      "action_state": "owned",
+      "summary": "Near-complete self-report, not completion.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 12",
+          "quote": "I am near complete on Game Boy Advance, DS, Wii, Sega Genesis, and also Sega CD and Sega Saturn"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq010-action-47",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Sega CD near-complete set",
+      "action_state": "owned",
+      "summary": "Near-complete self-report, not completion.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 12",
+          "quote": "I am near complete on Game Boy Advance, DS, Wii, Sega Genesis, and also Sega CD and Sega Saturn"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq010-action-48",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Sega Saturn near-complete set",
+      "action_state": "owned",
+      "summary": "Near-complete self-report, not completion.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 12",
+          "quote": "I am near complete on Game Boy Advance, DS, Wii, Sega Genesis, and also Sega CD and Sega Saturn"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq010-action-49",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "PlayStation 1 partial collection",
+      "action_state": "owned",
+      "summary": "Approximately half; no title enumeration.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 12",
+          "quote": "I’m not very close on PlayStation 1, PS2, or Xbox, but I do have about half of those games"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq010-action-50",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "PS2 partial collection",
+      "action_state": "owned",
+      "summary": "Approximately half; no title enumeration.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 12",
+          "quote": "I’m not very close on PlayStation 1, PS2, or Xbox, but I do have about half of those games"
+        }
+      ],
+      "entity_type": "collection"
+    },
+    {
+      "id": "cq010-action-51",
+      "source_key": "sc-237478983",
+      "source_sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "title": "Xbox partial collection",
+      "action_state": "owned",
+      "summary": "Approximately half; no title enumeration.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Nick Morgan",
+        "confidence": "medium",
+        "basis": "Guest interview question/answer continuity, not verified audio turns."
+      },
+      "subject": "Nick Morgan",
+      "evidence": [
+        {
+          "location": "Paragraph 12",
+          "quote": "I’m not very close on PlayStation 1, PS2, or Xbox, but I do have about half of those games"
+        }
+      ],
+      "entity_type": "collection"
+    }
+  ],
+  "overrides": [],
+  "new_games": [],
+  "task_cases": [
+    {
+      "id": "batch004-cq010-signed",
+      "episode": 10,
+      "question": "Which signed games did Nick highlight, and what qualified his Jack Thompson story?",
+      "query": "signed Oddworld Grand Theft Auto Jack Thompson",
+      "speaker": "Nick Morgan",
+      "answer": "Nick highlights an Xbox Oddworld copy, transcribed “Munch of Saddusy” and provisionally normalized as Munch’s Oddysee, signed by Lorne Lanning. He also says Jack Thompson signed his Grand Theft Auto III copy. Despite the hosts' negative wider view of Thompson, Nick says Thompson was respectful to him and saw the humor in signing it. This is Nick's anecdote, not Johnny's signed-copy ownership or independently verified legal history.",
+      "expected": "Nick highlights an Xbox Oddworld copy, transcribed “Munch of Saddusy” and provisionally normalized as Munch’s Oddysee, signed by Lorne Lanning. He also says Jack Thompson signed his Grand Theft Auto III copy. Despite the hosts' negative wider view of Thompson, Nick says Thompson was respectful to him and saw the humor in signing it. This is Nick's anecdote, not Johnny's signed-copy ownership or independently verified legal history.",
+      "evidence_locations": [
+        "Paragraph 10"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 10",
+          "quote": "Oddworld, Munch of Saddusy"
+        },
+        {
+          "location": "Paragraph 10",
+          "quote": "signed by the designer, Lorne Lanning"
+        },
+        {
+          "location": "Paragraph 10",
+          "quote": "personally sign a copy of Grand Theft Auto 3"
+        },
+        {
+          "location": "Paragraph 10",
+          "quote": "very nice and respectful to me"
+        },
+        {
+          "location": "Paragraph 10",
+          "quote": "He saw the humor in it"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 10",
+            "quote": "Oddworld, Munch of Saddusy"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 10",
+            "quote": "signed by the designer, Lorne Lanning"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 10",
+            "quote": "personally sign a copy of Grand Theft Auto 3"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 10",
+            "quote": "very nice and respectful to me"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 10",
+            "quote": "He saw the humor in it"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Johnny owns these signed copies",
+        "Audio-confirmed title spelling",
+        "Verified legal history"
+      ],
+      "review_result": "Same-agent complete-answer review: 5 supported evidence checkpoints; integrated query execution pending."
+    },
+    {
+      "id": "batch004-cq010-gbc",
+      "episode": 10,
+      "question": "Was Nick's purchased Game Boy Color set complete from the outset?",
+      "query": "Game Boy Color International Superstar Soccer 99 11000",
+      "speaker": "Nick Morgan",
+      "answer": "No. Nick says the purchased set was missing International Superstar Soccer 99, which he later obtained separately. He reports $11,000 for the US complete-in-box Game Boy Color set purchase, but does not give a standalone price for the missing game. The initial lot and later completed collection are distinct states.",
+      "expected": "No. Nick says the purchased set was missing International Superstar Soccer 99, which he later obtained separately. He reports $11,000 for the US complete-in-box Game Boy Color set purchase, but does not give a standalone price for the missing game. The initial lot and later completed collection are distinct states.",
+      "evidence_locations": [
+        "Paragraph 11"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 11",
+          "quote": "It was missing one game, which I’d since gotten"
+        },
+        {
+          "location": "Paragraph 11",
+          "quote": "International Superstar Soccer 99"
+        },
+        {
+          "location": "Paragraph 11",
+          "quote": "I had to add that independently"
+        },
+        {
+          "location": "Paragraph 11",
+          "quote": "I paid $11,000 for the full US Complete and Box Game Boy Color set"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 11",
+            "quote": "It was missing one game, which I’d since gotten"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 11",
+            "quote": "International Superstar Soccer 99"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 11",
+            "quote": "I had to add that independently"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 11",
+            "quote": "I paid $11,000 for the full US Complete and Box Game Boy Color set"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Initial lot already complete",
+        "ISS99 alone cost11000",
+        "A separately dated shipping receipt"
+      ],
+      "review_result": "Same-agent complete-answer review: 4 supported evidence checkpoints; integrated query execution pending."
+    },
+    {
+      "id": "batch004-cq010-trading",
+      "episode": 10,
+      "question": "Who had traded on Instagram, and does the delayed-trade story prove delivery?",
+      "query": "Instagram trade empty N64 boxes shipped",
+      "speaker": "Nick Morgan",
+      "answer": "Kat says she has not yet traded on Instagram. Nick describes sending empty N64 boxes to Retro Game Trader and estimates about twenty Instagram trades; one item was slow to ship but was eventually sent with no further reported issue. Johnny separately says he has done a couple of trades. The delayed item is unnamed, and the text reports shipment rather than an explicit delivery receipt.",
+      "expected": "Kat says she has not yet traded on Instagram. Nick describes sending empty N64 boxes to Retro Game Trader and estimates about twenty Instagram trades; one item was slow to ship but was eventually sent with no further reported issue. Johnny separately says he has done a couple of trades. The delayed item is unnamed, and the text reports shipment rather than an explicit delivery receipt.",
+      "evidence_locations": [
+        "Paragraph 16",
+        "Paragraph 17",
+        "Paragraph 19"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 16",
+          "quote": "I actually still have not done a trade on Instagram"
+        },
+        {
+          "location": "Paragraph 16",
+          "quote": "I sent him a bunch of empty N64 boxes"
+        },
+        {
+          "location": "Paragraph 17",
+          "quote": "probably around 20 trades"
+        },
+        {
+          "location": "Paragraph 17",
+          "quote": "she shipped it and there were no issues"
+        },
+        {
+          "location": "Paragraph 19",
+          "quote": "I’ve actually done a couple of trades"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 16",
+            "quote": "I actually still have not done a trade on Instagram"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 16",
+            "quote": "I sent him a bunch of empty N64 boxes"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 17",
+            "quote": "probably around 20 trades"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 17",
+            "quote": "she shipped it and there were no issues"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 19",
+            "quote": "I’ve actually done a couple of trades"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Kat did the empty-box trade",
+        "Shipment proves dated receipt",
+        "Follower count guarantees safety"
+      ],
+      "review_result": "Same-agent complete-answer review: 5 supported evidence checkpoints; integrated query execution pending."
+    },
+    {
+      "id": "batch004-cq010-plans",
+      "episode": 10,
+      "question": "What collection-disposition plans were actually documented in the conversation?",
+      "query": "collection plan written Matt wife 15",
+      "speaker": "Johnny",
+      "answer": "Johnny describes conversations with his wife and a friend, then explicitly says the plan is not written down. He offered the friend fifteen percent, which the friend declined. Nick likewise says he has no formal or written plan and imagines his brother Matt selling the collection. These are hypothetical future arrangements reported in an interview, not executed sales or verified legal documents.",
+      "expected": "Johnny describes conversations with his wife and a friend, then explicitly says the plan is not written down. He offered the friend fifteen percent, which the friend declined. Nick likewise says he has no formal or written plan and imagines his brother Matt selling the collection. These are hypothetical future arrangements reported in an interview, not executed sales or verified legal documents.",
+      "evidence_locations": [
+        "Paragraph 27",
+        "Paragraph 26",
+        "Paragraph 25"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 27",
+          "quote": "No, I’ve talked to my wife and I talked to my buddy"
+        },
+        {
+          "location": "Paragraph 26",
+          "quote": "I told him he could take, you know, 15%, but he said he wouldn’t"
+        },
+        {
+          "location": "Paragraph 25",
+          "quote": "I don’t have a plan, a formal plan, or a written plan"
+        },
+        {
+          "location": "Paragraph 25",
+          "quote": "my brother Matt would end up selling it"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 27",
+            "quote": "No, I’ve talked to my wife and I talked to my buddy"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 26",
+            "quote": "I told him he could take, you know, 15%, but he said he wouldn’t"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 25",
+            "quote": "I don’t have a plan, a formal plan, or a written plan"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 25",
+            "quote": "my brother Matt would end up selling it"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Executed will or legal advice",
+        "Actual collection sale",
+        "Matt is Johnny's brother"
+      ],
+      "review_result": "Same-agent complete-answer review: 4 supported evidence checkpoints; integrated query execution pending."
+    },
+    {
+      "id": "batch004-cq010-value",
+      "episode": 10,
+      "question": "Would all three sell their collections for market value?",
+      "query": "full market value two three memories",
+      "speaker": "Nick Morgan",
+      "answer": "No single answer applies to everyone. Nick rejects full market value and says two-to-three times might make him consider it, without a firm cutoff. Kat initially leans no because of shared memories but later allows that an actual offer could change things. Johnny says he would consider full market value, perhaps keeping Super Nintendo. All of this is conditional discussion, not an accepted offer.",
+      "expected": "No single answer applies to everyone. Nick rejects full market value and says two-to-three times might make him consider it, without a firm cutoff. Kat initially leans no because of shared memories but later allows that an actual offer could change things. Johnny says he would consider full market value, perhaps keeping Super Nintendo. All of this is conditional discussion, not an accepted offer.",
+      "evidence_locations": [
+        "Paragraph 29",
+        "Paragraph 30",
+        "Paragraph 31"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 29",
+          "quote": "Full market value? No. No way"
+        },
+        {
+          "location": "Paragraph 30",
+          "quote": "between two and three times market value"
+        },
+        {
+          "location": "Paragraph 30",
+          "quote": "I really don’t know where the cutoff is"
+        },
+        {
+          "location": "Paragraph 31",
+          "quote": "you never know if somebody came in"
+        },
+        {
+          "location": "Paragraph 29",
+          "quote": "you could have them today"
+        },
+        {
+          "location": "Paragraph 29",
+          "quote": "I don’t know if I could part with the Super Nintendo games"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 29",
+            "quote": "Full market value? No. No way"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 30",
+            "quote": "between two and three times market value"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 30",
+            "quote": "I really don’t know where the cutoff is"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 31",
+            "quote": "you never know if somebody came in"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 29",
+            "quote": "you could have them today"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 6,
+          "evidence": {
+            "location": "Paragraph 29",
+            "quote": "I don’t know if I could part with the Super Nintendo games"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "A collection was sold",
+        "Nick has a firm3x asking price",
+        "Kat can never change her mind"
+      ],
+      "review_result": "Same-agent complete-answer review: 6 supported evidence checkpoints; integrated query execution pending."
+    },
+    {
+      "id": "batch004-cq010-playing",
+      "episode": 10,
+      "question": "What was Nick actually playing, and why might he skip the Wii U bundle?",
+      "query": "Mario Kart 7 Mario Maker digital bundle",
+      "speaker": "Nick Morgan",
+      "answer": "Nick says he keeps returning to Mario Kart 7 on 3DS. Super Mario Maker is a hoped-for future game after moving and getting Wii U equipment, while he says he cannot play Fallout 4 now. He probably will not buy the discussed Smash/Splatoon bundle because it supplies digital copies and he wants physical media. This does not establish a Wii U order, bundle purchase or completed Mario Maker play.",
+      "expected": "Nick says he keeps returning to Mario Kart 7 on 3DS. Super Mario Maker is a hoped-for future game after moving and getting Wii U equipment, while he says he cannot play Fallout 4 now. He probably will not buy the discussed Smash/Splatoon bundle because it supplies digital copies and he wants physical media. This does not establish a Wii U order, bundle purchase or completed Mario Maker play.",
+      "evidence_locations": [
+        "Paragraph 32"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 32",
+          "quote": "I always go back to Mario Kart 7 for Nintendo 3DS"
+        },
+        {
+          "location": "Paragraph 32",
+          "quote": "Hopefully, I’ll be playing Super Mario Maker soon"
+        },
+        {
+          "location": "Paragraph 32",
+          "quote": "Unfortunately, I’m not going to be able to play it"
+        },
+        {
+          "location": "Paragraph 32",
+          "quote": "they’re digital copies of the games"
+        },
+        {
+          "location": "Paragraph 32",
+          "quote": "I want the physical media"
+        },
+        {
+          "location": "Paragraph 32",
+          "quote": "I probably won’t get that"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 32",
+            "quote": "I always go back to Mario Kart 7 for Nintendo 3DS"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 32",
+            "quote": "Hopefully, I’ll be playing Super Mario Maker soon"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 32",
+            "quote": "Unfortunately, I’m not going to be able to play it"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 32",
+            "quote": "they’re digital copies of the games"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 32",
+            "quote": "I want the physical media"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 6,
+          "evidence": {
+            "location": "Paragraph 32",
+            "quote": "I probably won’t get that"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Mario Maker already played",
+        "Wii U bundle purchased",
+        "Present online availability verified"
+      ],
+      "review_result": "Same-agent complete-answer review: 6 supported evidence checkpoints; integrated query execution pending."
+    },
+    {
+      "id": "batch004-cq010-database",
+      "episode": 10,
+      "question": "Was VGDB described as a searchable collection database or just a printable list?",
+      "query": "VGDB search owned individual releases",
+      "speaker": "Nick Morgan",
+      "answer": "Nick describes VGDB as a searchable database with box-art results, ownership tracking, complete system lists and individual game releases. It grew from his own master lists and, at the time of this 2015 interview, focused on specified manufacturers' North American releases before planned expansion. These are dated reported features, not a fresh audit of the website.",
+      "expected": "Nick describes VGDB as a searchable database with box-art results, ownership tracking, complete system lists and individual game releases. It grew from his own master lists and, at the time of this 2015 interview, focused on specified manufacturers' North American releases before planned expansion. These are dated reported features, not a fresh audit of the website.",
+      "evidence_locations": [
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 2"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "there’s a search bar right at the very top"
+        },
+        {
+          "location": "Paragraph 4",
+          "quote": "keep track of which games you own and which games you don’t own"
+        },
+        {
+          "location": "Paragraph 4",
+          "quote": "full lists of all the games for the systems"
+        },
+        {
+          "location": "Paragraph 4",
+          "quote": "individual releases for each game"
+        },
+        {
+          "location": "Paragraph 2",
+          "quote": "master lists sort of evolved"
+        },
+        {
+          "location": "Paragraph 2",
+          "quote": "all games released in North America"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 3",
+            "quote": "there’s a search bar right at the very top"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 4",
+            "quote": "keep track of which games you own and which games you don’t own"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 4",
+            "quote": "full lists of all the games for the systems"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 4",
+            "quote": "individual releases for each game"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 2",
+            "quote": "master lists sort of evolved"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 6,
+          "evidence": {
+            "location": "Paragraph 2",
+            "quote": "all games released in North America"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Current site availability verified",
+        "All world regions already covered",
+        "Root's Lore Master database is the same system"
+      ],
+      "review_result": "Same-agent complete-answer review: 6 supported evidence checkpoints; integrated query execution pending."
+    }
+  ]
+}

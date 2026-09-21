@@ -1,0 +1,171 @@
+{
+  "schema_version": "1",
+  "status": "source_informed_development_questions_before_first_retrieval",
+  "created_utc": "2026-09-14T04:01:00Z",
+  "limits": "Root already read the full source and some extractor answers. These are fresh wordings before their own retrieval, not blind tests or independent statistical recall. Keep first failures and required windows unchanged during repair.",
+  "cases": [
+    {
+      "id": "cq024-fresh-portable",
+      "episode": 24,
+      "question": "Was Johnny actually fifty games into a finished Game Gear set?",
+      "expected": "About fifty carts short, roughly seventy boxes owned; unfinished cart-only goal and weak handheld motivation.",
+      "forbidden": [
+        "Fifty total games owned",
+        "Finished set",
+        "Seventy complete games"
+      ],
+      "required_windows": [
+        "Paragraph 8"
+      ]
+    },
+    {
+      "id": "cq024-fresh-box",
+      "episode": 24,
+      "question": "Did Johnny get the Canadian Final Fantasy box he was missing?",
+      "expected": "Kat got the Mattel-logo box; Johnny identifies it as a missing variant, not his own acquisition.",
+      "forbidden": [
+        "Johnny received it",
+        "Kat's pickup necessarily includes a cartridge"
+      ],
+      "required_windows": [
+        "Paragraph 23"
+      ]
+    },
+    {
+      "id": "cq024-fresh-pinball",
+      "episode": 24,
+      "question": "Could Johnny already play on his newly bought virtual pinball cabinet?",
+      "expected": "No arrival established; builder still sourcing/assembling, roughly a month expected, shipping estimate not delivery.",
+      "forbidden": [
+        "Received or tested cabinet"
+      ],
+      "required_windows": [
+        "Paragraph 24"
+      ]
+    },
+    {
+      "id": "cq024-fresh-organization",
+      "episode": 24,
+      "question": "Does arranging boxes by publisher mean Johnny abandoned alphabetizing?",
+      "expected": "No; publisher groups are also alphabetical, with system-specific display choices.",
+      "forbidden": [
+        "All shelves uniformly publisher-sorted",
+        "No alphabetization"
+      ],
+      "required_windows": [
+        "Paragraph 21",
+        "Paragraph 22"
+      ]
+    },
+    {
+      "id": "cq091-fresh-paid",
+      "episode": 91,
+      "question": "Did paying for the CD-i mean Johnny finally had a working player?",
+      "expected": "Correct the premise: Tyler describes the CD-i journey, addressing Johnny. Separate paid-but-undelivered attempts and refund/shipping dispute; no receipt or working hardware established.",
+      "forbidden": [
+        "Johnny is the frustrated buyer",
+        "Working player received",
+        "Viewed offers purchased"
+      ],
+      "required_windows": [
+        "Paragraph 63",
+        "Paragraph 64",
+        "Paragraph 65",
+        "Paragraph 66"
+      ]
+    },
+    {
+      "id": "cq091-fresh-upgrade",
+      "episode": 91,
+      "question": "Was Tyler's Time Killers pickup a brand-new game for his collection?",
+      "expected": "Packaging/manual/registration upgrade for an already owned cart, not a wholly new game acquisition.",
+      "forbidden": [
+        "First owned Time Killers cartridge"
+      ],
+      "required_windows": [
+        "Paragraph 61",
+        "Paragraph 62"
+      ]
+    },
+    {
+      "id": "cq091-fresh-play",
+      "episode": 91,
+      "question": "Which computer did Tyler finish Halo 2 on?",
+      "expected": "Computer premise is corrected: PC/Vista remark retracted to Xbox 360 play. No completion on any platform is established by this passage.",
+      "forbidden": [
+        "Confirmed PC completion",
+        "Current platform recommendation",
+        "Confirmed Xbox 360 completion"
+      ],
+      "required_windows": [
+        "Paragraph 43"
+      ]
+    },
+    {
+      "id": "cq091-fresh-auction",
+      "episode": 91,
+      "question": "How much did Tyler pay for the 32X Primal Rage auction he discussed?",
+      "expected": "He lost the auction; no paid purchase price for him.",
+      "forbidden": [
+        "Won auction",
+        "Winning bid equals Tyler's payment"
+      ],
+      "required_windows": [
+        "Paragraph 47"
+      ]
+    },
+    {
+      "id": "cq217-fresh-hated",
+      "episode": 217,
+      "question": "Was Amidar the game Johnny hated after playing it?",
+      "expected": "Raw amadar remains tentative Amidar; initially unfamiliar, later image criticism, not experience-based hatred. Beyond Good & Evil is a separate brief-play report.",
+      "forbidden": [
+        "Played Amidar",
+        "Confirmed most-hated game"
+      ],
+      "required_windows": [
+        "00:11:35",
+        "00:12:42",
+        "00:13:47"
+      ]
+    },
+    {
+      "id": "cq217-fresh-family",
+      "episode": 217,
+      "question": "What game had Johnny's son already picked as his favorite?",
+      "expected": "Unknown future favorite; Johnny hopes to share familiar games and is excited to try the son's eventual discovery.",
+      "forbidden": [
+        "Son already loves Final Fantasy or Zelda",
+        "Completed shared play"
+      ],
+      "required_windows": [
+        "00:24:17"
+      ]
+    },
+    {
+      "id": "cq217-fresh-count",
+      "episode": 217,
+      "question": "Was 4,500 the exact final count of everything Johnny owned?",
+      "expected": "Approximate scanned inventory during unfinished work, not a completed exact collection census. The next window switches to friendship, not more inventory support.",
+      "forbidden": [
+        "Exact completed total"
+      ],
+      "required_windows": [
+        "00:29:32"
+      ]
+    },
+    {
+      "id": "cq217-fresh-gift",
+      "episode": 217,
+      "question": "Did Johnny's wife give him the new Switch remaster with an Xbox?",
+      "expected": "Current Metroid Prime Remastered pickup differs from her older GameCube/original Prime and Xbox gifts.",
+      "forbidden": [
+        "Current remaster was old wife's gift",
+        "Xbox bundled with Switch remaster"
+      ],
+      "required_windows": [
+        "00:46:39"
+      ]
+    }
+  ]
+}

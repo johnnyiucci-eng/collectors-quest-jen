@@ -1,0 +1,17 @@
+# CQ206 coordinator full-source reading
+
+All37 captured windows were read, through00:38:11. The source is short, not evidently truncated: catalog duration38:31 and final source coverage near38:25 fit the solo episode. [Primary captured transcript](../../../library/episodes/cq-206-sc-1369678939.md). This is a separate coordinator reading, not audio verification.
+
+- Opening: Johnny explicitly presents alone; Stefan is away and Tyler is recovering from illness. Absence does not mean a permanent roster change. The solo format also explains limiting the listener question to the Garfield theme preference, leaving collecting questions for the others.
+- Modern horror is a speculative collecting discussion. Reprints, platform install bases and PS4-versus-PS5 uncertainty are acknowledged; no guaranteed next Rule of Rose or exact general print runs should be inferred. Historical quoted prices are not current recommendations.
+- Early Pineview Drive discussion is physical-region/collectibility context, not first-hand completion. Focus cover variants for Call of Cthulhu and the Plague Tale games need edition specificity. His Plague Tale ownership does not confer ownership of every discussed title.
+- Song of Horror: three Amazon copies bought and all returned because they lacked the slipcover; a listing image is not evidence that the promised packaging was received. Distribution through Limited Run is not necessarily membership in its numbered series.
+- Outlast: individual Switch releases/slipcase/briefcase and PS4/Xbox Trinity compilation are distinct products. Do not transfer a slipcase price to the briefcase. Whistleblower is discussed as included content. The prospective third release is not silently resolved to a later official title.
+- Layers of Fear: PS4 Masterpiece versus Switch Legacy, with DLC discussion, sequel digital availability and print-run uncertainty. Plot or cover commentary does not prove it was played. The comic/pulp attribution is a dated host claim, not externally authenticated background.
+-00:22:17–00:25:27: raw Skautfold/Shrouded in Sanity pronunciation uncertainty, PAL/Red Art physical release and claimed999 run. The complaint about players expecting an easy Souls-like is an opinion/rant, not an action report.
+-00:26:28–00:29:38: Night Book, I Saw Black Clouds, The Infectious Madness of Doctor Dekker and Simulacra physical PS4 FMV discussion; plots and cover preferences, claimed1500 releases, uncertain future collectibility. Don't Knock Twice is separately described as a wider release; source genre labels are not external authentication.
+-00:30:43–00:32:51: Afterparty narrative, adult humor, drinking premise and Switch/PS4 physical editions. PS4 quantity is explicitly unknown. Liking the aesthetic does not prove a completed playthrough.
+-00:33:52–00:34:54: still playing The Quarry. Explicit already-bought list is Skautfold, Night Book, Elder Scrolls Travels: Shadowkey and PAL New Ghostbusters II. Other FMV games in the cart and Afterparty are intentions, not completed purchases. New Ghostbusters II is explicitly different from the local Ghostbusters II; favorable reports are from others and do not establish Johnny's own play.
+-00:36:02 onward: gratitude, community and solo-format outro. No invented financial model or permanent hosting change. Personal-career comments are not needed to expand a collecting lore record.
+
+This reading precedes coordinator comparison with the completed CQ206 extraction. It is evidence for later adjudication, not A7/A8 acceptance by itself.

@@ -1,0 +1,1416 @@
+{
+  "schema_version": "0.1",
+  "extraction_version": "manual-codex-2026-09-12-v1",
+  "source": {
+    "key": "sc-232561251",
+    "episode_number": 6,
+    "title": "Episode 2 (6) -Speed Racer Mountain Bike Rally Combo Cart For Super Nintendo",
+    "date": "2015-11-11",
+    "path": "episodes/cq-006-sc-232561251.md",
+    "words": 6008,
+    "source_url": "https://soundcloud.com/collectors-quest/collectors-quest-episode-6-srmbr",
+    "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+    "sha256": "0203c31a55faca428e36b2cadd84dd5fdaec9c8bbfeecbf17eb68838f24fe1a3"
+  },
+  "review": {
+    "status": "extracted_draft",
+    "read_coverage": "All 28 supplied paragraphs read end to end.",
+    "omission_review": "pending",
+    "audio_verification": "not_performed",
+    "independent_review": "pending",
+    "transcript_limit": "Attachment fully captured; recording completeness not independently verified.",
+    "timing": "Untimed. Paragraph headings only.",
+    "elapsed_model_time": null,
+    "subscription_usage": null
+  },
+  "participants": [
+    {
+      "name": "Johnny",
+      "confidence": "high",
+      "evidence": [
+        {
+          "location": "Paragraph 23",
+          "quote": "I’m Johnny"
+        }
+      ]
+    },
+    {
+      "name": "Kat",
+      "confidence": "high",
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "Kat and I"
+        },
+        {
+          "location": "Paragraph 23",
+          "quote": "I’m Kat Sylvania"
+        }
+      ]
+    }
+  ],
+  "main_topic": "Acquiring expensive rare games: ethics, discomfort and authenticity",
+  "secondary_topics": [
+    "complete sets",
+    "nostalgia",
+    "playing preferences",
+    "display",
+    "Halloween posts"
+  ],
+  "games": [
+    {
+      "id": "g-combo",
+      "canonical_title": "Speed Racer / Mountain Bike Rally",
+      "spoken_forms": [
+        "Speed Racer Mountain Bike Rally combo cart"
+      ],
+      "entity_granularity": "release",
+      "platform": "SNES",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "evidence": [
+            {
+              "location": "Paragraph 1",
+              "quote": "Speed Racer Mountain Bike Rally combo cart for the Super Nintendo"
+            },
+            {
+              "location": "Paragraph 4",
+              "quote": "The game is pretty rare and the truth is I wanted it"
+            },
+            {
+              "location": "Paragraph 11",
+              "quote": "I did verify the cart when I got there though"
+            },
+            {
+              "location": "Paragraph 17",
+              "quote": "I just put it in its protective case and I set it on the shelf"
+            }
+          ],
+          "context": "Acquisition, ethical uncertainty, buying discomfort, authentication and protective display across paragraphs 1–17.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Conversation continuity from acquisition story and self-identification in paragraph 23; not audio-verified."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-speed-racer",
+      "canonical_title": "Speed Racer",
+      "spoken_forms": [
+        "Speed Racer"
+      ],
+      "entity_granularity": "release",
+      "platform": "SNES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "Paragraph 1",
+              "quote": "It has these two games which can also be purchased individually"
+            },
+            {
+              "location": "Paragraph 9",
+              "quote": "I don’t care about Speed Racer"
+            }
+          ],
+          "context": "Standalone component of combo; exact release title unresolved. Character reference in paragraph 9 is not a separate game.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Untimed transcript has no reliable turn labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-mountain-bike",
+      "canonical_title": "Mountain Bike Rally",
+      "spoken_forms": [
+        "Mountain Bike Rally",
+        "Mountain Bike Guy"
+      ],
+      "entity_granularity": "release",
+      "platform": "SNES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "Paragraph 1",
+              "quote": "It has these two games which can also be purchased individually"
+            },
+            {
+              "location": "Paragraph 9",
+              "quote": "Mountain Bike Guy"
+            }
+          ],
+          "context": "Standalone component and joke about box character; do not turn Mountain Bike Guy into an additional title.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Untimed transcript has no reliable turn labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-waynes-world",
+      "canonical_title": "Wayne’s World",
+      "spoken_forms": [
+        "Wayne’s World"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "evidence": [
+            {
+              "location": "Paragraph 5",
+              "quote": "maybe some harder to find titles Wayne’s World"
+            }
+          ],
+          "context": "Brief example of a harder-to-find online purchase; platform unspecified.",
+          "speaker": {
+            "candidate": "Kat",
+            "confidence": "medium",
+            "basis": "Conversation continuity from Alice discussion to Kat's Instagram self-identification in paragraph 23; not audio-verified."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-blockbuster",
+      "canonical_title": null,
+      "spoken_forms": [
+        "blockbuster world championship 2-card"
+      ],
+      "entity_granularity": "unresolved",
+      "platform": "Sega Genesis",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "blockbuster world championship 2-card for the Sega Genesis"
+            }
+          ],
+          "context": "Previous high-priced acquisition; competition-cart identity requires normalization.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Conversation continuity from acquisition story and self-identification in paragraph 23; not audio-verified."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-outback",
+      "canonical_title": null,
+      "spoken_forms": [
+        "outback joy"
+      ],
+      "entity_granularity": "unresolved",
+      "platform": "Sega Genesis",
+      "region_edition": null,
+      "identification_confidence": "low",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "outback joy for the Sega Genesis complete box with the system"
+            }
+          ],
+          "context": "Fitness-game/system purchase used as spending comparison. Preserve ambiguous transcription.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Conversation continuity from acquisition story and self-identification in paragraph 23; not audio-verified."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-little-samson",
+      "canonical_title": "Little Samson",
+      "spoken_forms": [
+        "little Samson"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "little Samson complete box"
+            },
+            {
+              "location": "Paragraph 9",
+              "quote": "I paid like 654"
+            }
+          ],
+          "context": "Example of an expensive game that is also good. Amount is garbled/ambiguous and not a validated price.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Conversation continuity from acquisition story and self-identification in paragraph 23; not audio-verified."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-donkey-kong",
+      "canonical_title": null,
+      "spoken_forms": [
+        "Donkey Kong competition cart"
+      ],
+      "entity_granularity": "unresolved",
+      "platform": "SNES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "Paragraph 9",
+              "quote": "I have the Donkey Kong competition cart"
+            },
+            {
+              "location": "Paragraph 9",
+              "quote": "that was way more exciting"
+            }
+          ],
+          "context": "Contrasts emotional appeal with the combo cart. Exact competition release unverified.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Conversation continuity from acquisition story and self-identification in paragraph 23; not audio-verified."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-batman-pinball",
+      "canonical_title": null,
+      "spoken_forms": [
+        "Batman pinball machine"
+      ],
+      "entity_granularity": "physical_pinball",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "Paragraph 9",
+              "quote": "my Batman pinball machine I spent $1,600 on that"
+            },
+            {
+              "location": "Paragraph 10",
+              "quote": "I still play it and stuff and I love the way it looks"
+            }
+          ],
+          "context": "Physical pinball machine, not an identified video-game release. Exact model unknown.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Conversation continuity from acquisition story and self-identification in paragraph 23; not audio-verified."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-stadium-events",
+      "canonical_title": "Stadium Events",
+      "spoken_forms": [
+        "stadium events"
+      ],
+      "entity_granularity": "release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "Paragraph 10",
+              "quote": "stadium events I can live without"
+            },
+            {
+              "location": "Paragraph 16",
+              "quote": "stadium events which are gonna be the barriers"
+            },
+            {
+              "location": "Paragraph 17",
+              "quote": "well under market value for me to be able to justify it"
+            }
+          ],
+          "context": "Multiple references in paragraphs 10,16–17 about set boundaries, price and handling risk; speakers differ across exchange.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Untimed transcript has no reliable turn labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-alice-madness",
+      "canonical_title": "Alice: Madness Returns",
+      "spoken_forms": [
+        "Alice Madness Madness Returns",
+        "Alice Madness Return"
+      ],
+      "entity_granularity": "release",
+      "platform": "PS3",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "evidence": [
+            {
+              "location": "Paragraph 18",
+              "quote": "I’m right on the PS3"
+            },
+            {
+              "location": "Paragraph 18",
+              "quote": "Alice Madness Madness Returns"
+            },
+            {
+              "location": "Paragraph 20",
+              "quote": "the graphics and the inspiration that went into making these worlds"
+            }
+          ],
+          "context": "Paragraphs 18–20 discuss repeated play, dark imagery, platforming and personal appeal.",
+          "speaker": {
+            "candidate": "Kat",
+            "confidence": "medium",
+            "basis": "Conversation continuity from Alice discussion to Kat's Instagram self-identification in paragraph 23; not audio-verified."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-original-alice",
+      "canonical_title": null,
+      "spoken_forms": [
+        "the original one on the PC",
+        "the first one"
+      ],
+      "entity_granularity": "unresolved",
+      "platform": "PC / bundled download discussed",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "Paragraph 19",
+              "quote": "did you play the original one on the PC"
+            },
+            {
+              "location": "Paragraph 19",
+              "quote": "it came with the download code"
+            }
+          ],
+          "context": "Original Alice game mentioned for comparison; exact title not spoken. Candidate American McGee's Alice requires identity confirmation.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Untimed transcript has no reliable turn labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-lego-harry-potter",
+      "canonical_title": "LEGO Harry Potter",
+      "spoken_forms": [
+        "Lego Harry Potter games"
+      ],
+      "entity_granularity": "series",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "Paragraph 20",
+              "quote": "I really enjoy the Lego Harry Potter games"
+            },
+            {
+              "location": "Paragraph 20",
+              "quote": "I definitely 100% completed them"
+            }
+          ],
+          "context": "Series-level example of enjoyment without claiming best-game status; no individual installment identified.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Conversation continuity from acquisition story and self-identification in paragraph 23; not audio-verified."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-ultimate-ghosts",
+      "canonical_title": "Ultimate Ghosts ’n Goblins",
+      "spoken_forms": [
+        "ultimate ghost and goblins"
+      ],
+      "entity_granularity": "release",
+      "platform": "PSP",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "Paragraph 24",
+              "quote": "one for the PSP it was ultimate ghost and goblins"
+            }
+          ],
+          "context": "Halloween gaming posts and audience discovery; normalized title is provisional.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Conversation continuity from acquisition story and self-identification in paragraph 23; not audio-verified."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-fallout-4",
+      "canonical_title": "Fallout 4",
+      "spoken_forms": [
+        "Fallout 4"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "evidence": [
+            {
+              "location": "Paragraph 25",
+              "quote": "the remote play for Fallout 4"
+            },
+            {
+              "location": "Paragraph 25",
+              "quote": "special controls and like a layout on the Vita"
+            }
+          ],
+          "context": "Historical remote-play announcement, not evidence of a native Vita release.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Conversation continuity from acquisition story and self-identification in paragraph 23; not audio-verified."
+          }
+        }
+      ]
+    }
+  ],
+  "lore": [
+    {
+      "id": "cq6-l01",
+      "kind": "reported_factual_claim",
+      "summary": "The speaker describes the combo cart as two separately available games for a fitness-bike accessory, and distinguishes opened CIB scarcity from value.",
+      "topics": [
+        "rarity",
+        "editions"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "It has these two games which can also be purchased individually"
+        },
+        {
+          "location": "Paragraph 2",
+          "quote": "doesn’t make it any more valuable"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Conversation continuity from acquisition story and self-identification in paragraph 23; not audio-verified."
+      },
+      "scope": "episode",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq6-l02",
+      "kind": "anecdote",
+      "summary": "The acquisition followed a reportedly canceled sale; the speaker admits wanting the rare game reduced his scrutiny. The account does not establish seller misconduct.",
+      "topics": [
+        "buying_ethics",
+        "scarcity"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 4",
+          "quote": "The game is pretty rare and the truth is I wanted it"
+        },
+        {
+          "location": "Paragraph 4",
+          "quote": "I may have taken a deal that somebody else was after"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Conversation continuity from acquisition story and self-identification in paragraph 23; not audio-verified."
+      },
+      "scope": "episode",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq6-l03",
+      "kind": "host_opinion",
+      "summary": "An auction winner should receive the item, but the speaker acknowledges he likely would still have taken this opportunity.",
+      "topics": [
+        "buying_ethics"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 5",
+          "quote": "if you won the auction then feel it should go to you"
+        },
+        {
+          "location": "Paragraph 6",
+          "quote": "had I known I probably still would have followed through"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Conversation continuity from acquisition story and self-identification in paragraph 23; not audio-verified."
+      },
+      "scope": "episode",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq6-l04",
+      "kind": "host_opinion",
+      "summary": "A warehouse discovery could change perceived scarcity; the speaker was unsure whether he slightly overpaid.",
+      "topics": [
+        "rarity",
+        "market_uncertainty"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 6",
+          "quote": "more of them could be found in a box in a warehouse"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Conversation continuity from acquisition story and self-identification in paragraph 23; not audio-verified."
+      },
+      "scope": "episode",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq6-l05",
+      "kind": "show_discussion",
+      "summary": "The exchange contrasts a comfortable purchase with spending that crowds out other collecting goals. The buyer explicitly says he was not comfortable despite considering the price plausible.",
+      "topics": [
+        "buying_priorities",
+        "collecting_psychology"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 7",
+          "quote": "I won’t say I’m comfortable with the purchase"
+        },
+        {
+          "location": "Paragraph 7",
+          "quote": "it’s better to wait"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Untimed transcript has no reliable turn labels."
+      },
+      "scope": "episode",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq6-l06",
+      "kind": "host_opinion",
+      "summary": "The speaker's 2015 complete-set goal makes gameplay quality insufficient as a reason to exclude a required game; this is a dated position, not a permanent rule for Johnny.",
+      "topics": [
+        "completion",
+        "playing_vs_collecting"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 8",
+          "quote": "I’m in this for complete sets and sometimes you got a pony up"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Conversation continuity from acquisition story and self-identification in paragraph 23; not audio-verified."
+      },
+      "scope": "dated_host_position",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq6-l07",
+      "kind": "anecdote",
+      "summary": "Donkey Kong familiarity and enjoyment of a Batman pinball machine made those purchases more exciting than the combo-cart purchase.",
+      "topics": [
+        "nostalgia",
+        "identity",
+        "buying_priorities"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 9",
+          "quote": "I am kind of invested in Donkey Kong"
+        },
+        {
+          "location": "Paragraph 9",
+          "quote": "my Batman pinball machine"
+        },
+        {
+          "location": "Paragraph 10",
+          "quote": "I still play it"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Conversation continuity from acquisition story and self-identification in paragraph 23; not audio-verified."
+      },
+      "scope": "episode",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq6-l08",
+      "kind": "host_opinion",
+      "summary": "The speaker wants a complete boxed SNES set but can accept an incomplete NES set without Stadium Events.",
+      "topics": [
+        "completion",
+        "set_boundaries"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 10",
+          "quote": "I want to complete in box set"
+        },
+        {
+          "location": "Paragraph 10",
+          "quote": "I can live without being 100% on Nintendo"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Conversation continuity from acquisition story and self-identification in paragraph 23; not audio-verified."
+      },
+      "scope": "dated_host_position",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq6-l09",
+      "kind": "anecdote",
+      "summary": "For this acquisition the speaker opened the cartridge to inspect it and used a portable device to test it; exact device identification is unclear.",
+      "topics": [
+        "authenticity",
+        "buying"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 11",
+          "quote": "opened up the cart"
+        },
+        {
+          "location": "Paragraph 11",
+          "quote": "super Gameboy player super boy"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Conversation continuity from acquisition story and self-identification in paragraph 23; not audio-verified."
+      },
+      "scope": "episode",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq6-l10",
+      "kind": "joke",
+      "summary": "The parking-garage exchange becomes a movie-style contraband transaction bit; it is an observed joke, not evidence of a recurring show callback.",
+      "topics": [
+        "humor"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 12",
+          "quote": "you got the stuff yeah okay you got the money"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Conversation continuity from acquisition story and self-identification in paragraph 23; not audio-verified."
+      },
+      "scope": "episode",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq6-l11",
+      "kind": "reported_factual_claim",
+      "summary": "Historical authentication advice includes asking for board photographs and comparing them to references. The unnamed reference website is a research lead.",
+      "topics": [
+        "authenticity",
+        "research"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 13",
+          "quote": "a picture of the board"
+        },
+        {
+          "location": "Paragraph 13",
+          "quote": "I forget the name of the website"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Conversation continuity from acquisition story and self-identification in paragraph 23; not audio-verified."
+      },
+      "scope": "episode",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq6-l12",
+      "kind": "reported_factual_claim",
+      "summary": "The speaker warns that an authentic board does not establish label authenticity and offers label/box inspection heuristics. These are historical claims requiring current verification before instructional use.",
+      "topics": [
+        "authenticity",
+        "condition"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 13",
+          "quote": "just because you have an authentic board does not mean"
+        },
+        {
+          "location": "Paragraph 14",
+          "quote": "you have an authentic label"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Conversation continuity from acquisition story and self-identification in paragraph 23; not audio-verified."
+      },
+      "scope": "episode",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq6-l13",
+      "kind": "host_opinion",
+      "summary": "The speaker describes the satisfaction of checking off a set slot and advises people without the desire to complete a set to avoid it. Colloquial 'OCD' is not a clinical finding.",
+      "topics": [
+        "completion",
+        "collecting_psychology"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 16",
+          "quote": "I can check this off my list"
+        },
+        {
+          "location": "Paragraph 16",
+          "quote": "if you have no desire to complete a set don’t"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Conversation continuity from acquisition story and self-identification in paragraph 23; not audio-verified."
+      },
+      "scope": "episode",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq6-l14",
+      "kind": "show_discussion",
+      "summary": "Expensive games can become display pieces because repeated handling risks condition; the dialogue separates collecting from routine play.",
+      "topics": [
+        "condition",
+        "preservation",
+        "playing_vs_collecting"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 17",
+          "quote": "every time you open a super Nintendo box"
+        },
+        {
+          "location": "Paragraph 17",
+          "quote": "welcome to your new home where no one will ever touch you again"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Untimed transcript has no reliable turn labels."
+      },
+      "scope": "episode",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq6-l15",
+      "kind": "joke",
+      "summary": "The hosts discuss the unexpected 'tally ho' expression and explicitly call it a one-time special. Do not label it a running joke from this episode alone.",
+      "topics": [
+        "humor"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 18",
+          "quote": "it’s a one-time special"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Untimed transcript has no reliable turn labels."
+      },
+      "scope": "episode",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq6-l16",
+      "kind": "host_opinion",
+      "summary": "The Alice player explains repeated enjoyment through dark atmosphere, platforming and imaginative art while declining to call it the best game.",
+      "topics": [
+        "playing",
+        "art",
+        "personal_taste"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 20",
+          "quote": "I wouldn’t say it’s the best game in the world"
+        },
+        {
+          "location": "Paragraph 20",
+          "quote": "how their mind works"
+        }
+      ],
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Conversation continuity from Alice discussion to Kat's Instagram self-identification in paragraph 23; not audio-verified."
+      },
+      "scope": "episode",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq6-l17",
+      "kind": "show_discussion",
+      "summary": "The hosts contrast not discouraging someone else's enjoyment with outspoken criticism used to learn why a person likes a game.",
+      "topics": [
+        "conversation_style",
+        "personal_taste"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 20",
+          "quote": "if you like it play it"
+        },
+        {
+          "location": "Paragraph 21",
+          "quote": "I would definitely overstate my opinion"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Untimed transcript has no reliable turn labels."
+      },
+      "scope": "episode",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq6-l18",
+      "kind": "show_discussion",
+      "summary": "Instagram game posts invite childhood stories; the exchange connects collecting and retro play to memories beyond technical quality.",
+      "topics": [
+        "nostalgia",
+        "community"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 21",
+          "quote": "they’ll share their childhood memory"
+        },
+        {
+          "location": "Paragraph 22",
+          "quote": "there is an experience outside of the video game that attaches us to it"
+        },
+        {
+          "location": "Paragraph 23",
+          "quote": "everybody’s memory might be different"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Untimed transcript has no reliable turn labels."
+      },
+      "scope": "episode",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq6-l19",
+      "kind": "anecdote",
+      "summary": "Johnny describes Halloween gaming 2015 posts across systems, including a PSP title. This supports a dated Halloween activity, not the first Halloween coverage.",
+      "topics": [
+        "Halloween",
+        "show_history"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 24",
+          "quote": "Halloween gaming 2015 posts"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Conversation continuity from acquisition story and self-identification in paragraph 23; not audio-verified."
+      },
+      "scope": "episode",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq6-l20",
+      "kind": "correction",
+      "summary": "The Vita criticism is immediately qualified from 'kind of bad' to good hardware with weak support. Preserve this local qualification rather than assigning a blanket anti-Vita position.",
+      "topics": [
+        "platforms",
+        "corrections"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 25",
+          "quote": "that’s not fair the Vita is a good little system it’s just been not supported very well"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Conversation continuity from acquisition story and self-identification in paragraph 23; not audio-verified."
+      },
+      "scope": "episode",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq6-l21",
+      "kind": "show_discussion",
+      "summary": "Case dimensions, shelf fit and visual symmetry matter to display satisfaction; the conversation describes a storage-versus-symmetry tradeoff.",
+      "topics": [
+        "display",
+        "curation"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 26",
+          "quote": "concessions for storage versus symmetry"
+        },
+        {
+          "location": "Paragraph 27",
+          "quote": "I would like it to look nice"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Untimed transcript has no reliable turn labels."
+      },
+      "scope": "episode",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq6-l22",
+      "kind": "open_loop",
+      "summary": "Johnny says he is heading to Portland Retro Gaming Expo and will report back. CQ 7 now supplies a transcript-supported report; see relationships.json for the paired evidence.",
+      "topics": [
+        "conventions",
+        "show_history"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 27",
+          "quote": "I’m off to the Portland retro gaming expo"
+        },
+        {
+          "location": "Paragraph 27",
+          "quote": "I’ll report back to you guys"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Conversation continuity from acquisition story and self-identification in paragraph 23; not audio-verified."
+      },
+      "scope": "episode",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq6-l23",
+      "kind": "reported_factual_claim",
+      "summary": "The closing credits the intro music to names transcribed as '8-bit weapon and computer' and a song transcribed as 'Coco Kitty'; exact artist/title spelling is unresolved.",
+      "topics": [
+        "show_history",
+        "credits"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 28",
+          "quote": "the intro music is provided by 8-bit weapon and computer"
+        },
+        {
+          "location": "Paragraph 28",
+          "quote": "the song is Coco Kitty"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Untimed transcript has no reliable turn labels."
+      },
+      "scope": "episode",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    }
+  ],
+  "topic_coverage": [
+    {
+      "topic": "rare_game_acquisition",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "Paragraph 1",
+        "Paragraph 4",
+        "Paragraph 7"
+      ]
+    },
+    {
+      "topic": "authenticity",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "Paragraph 11",
+        "Paragraph 13",
+        "Paragraph 14",
+        "Paragraph 15"
+      ]
+    },
+    {
+      "topic": "completion",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "Paragraph 8",
+        "Paragraph 10",
+        "Paragraph 15",
+        "Paragraph 16"
+      ]
+    },
+    {
+      "topic": "nostalgia",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "Paragraph 21",
+        "Paragraph 22",
+        "Paragraph 23"
+      ]
+    },
+    {
+      "topic": "playing_preferences",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "Paragraph 18",
+        "Paragraph 19",
+        "Paragraph 20"
+      ]
+    },
+    {
+      "topic": "display",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "Paragraph 25",
+        "Paragraph 26",
+        "Paragraph 27"
+      ]
+    },
+    {
+      "topic": "Halloween",
+      "depth": "SUPPORTING_EXAMPLE",
+      "locations": [
+        "Paragraph 24"
+      ]
+    },
+    {
+      "topic": "conventions",
+      "depth": "PASSING_MENTION",
+      "locations": [
+        "Paragraph 27"
+      ]
+    }
+  ],
+  "related_episodes": [
+    {
+      "episode_number": 7,
+      "relation": "promised convention report delivered; see cq6-portland-report-cq7 in relationships.json",
+      "status": "supported_by_transcripts"
+    },
+    {
+      "episode_number": 299,
+      "relation": "candidate comparison for set-slot pressure",
+      "status": "not_compared_in_pilot"
+    }
+  ],
+  "review_queue": [
+    {
+      "id": "cq6-title-outback",
+      "priority": "high",
+      "reason": "Resolve 'outback joy' before mapping a game entity; do not silently choose a likely fitness title.",
+      "evidence": [
+        {
+          "location": "Paragraph 8",
+          "quote": "outback joy"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq6-competition-identities",
+      "priority": "medium",
+      "reason": "Normalize Blockbuster and Donkey Kong competition-cart names against reliable game records.",
+      "evidence": [
+        {
+          "location": "Paragraph 8",
+          "quote": "blockbuster world championship 2-card"
+        },
+        {
+          "location": "Paragraph 9",
+          "quote": "Donkey Kong competition cart"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq6-speaker-review",
+      "priority": "high",
+      "reason": "Person-specific anecdotes rely on dialogue continuity; audio or reliable speaker labels needed before high-confidence attribution.",
+      "evidence": [
+        {
+          "location": "Paragraph 23",
+          "quote": "I’m Kat Sylvania"
+        },
+        {
+          "location": "Paragraph 23",
+          "quote": "I’m Johnny"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq6-price-little-samson",
+      "priority": "medium",
+      "reason": "Amount '654' is unclear in the expense comparison; do not publish a numeric purchase fact.",
+      "evidence": [
+        {
+          "location": "Paragraph 9",
+          "quote": "I paid like 654"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq6-recording-date",
+      "priority": "medium",
+      "reason": "Publication date is 2015-11-11 but dialogue refers to Halloween and an upcoming expo; recording date remains unknown.",
+      "evidence": [
+        {
+          "location": "Paragraph 24",
+          "quote": "right now it’s Halloween"
+        },
+        {
+          "location": "Paragraph 27",
+          "quote": "this will be up after I get back"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq6-authenticity-heuristics",
+      "priority": "high",
+      "reason": "Verify advice before reuse as current guidance; no universal label/box authenticity rules established here.",
+      "evidence": [
+        {
+          "location": "Paragraph 14",
+          "quote": "the corners"
+        },
+        {
+          "location": "Paragraph 15",
+          "quote": "paper white"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq6-unnamed-board-resource",
+      "priority": "low",
+      "reason": "Identify the unnamed board-reference site if useful for a future brief.",
+      "evidence": [
+        {
+          "location": "Paragraph 13",
+          "quote": "I forget the name of the website"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq6-expo-followup",
+      "priority": "medium",
+      "reason": "Check CQ 7 before marking the explicit Portland follow-up resolved.",
+      "evidence": [
+        {
+          "location": "Paragraph 27",
+          "quote": "I’ll report back to you guys"
+        }
+      ],
+      "status": "resolved_transcript_link",
+      "resolution": "CQ 7 paragraph 5 reports the Portland visit. Paired source excerpts are preserved in relationships.json, relationship cq6-portland-report-cq7."
+    },
+    {
+      "id": "cq6-game-aliases",
+      "priority": "medium",
+      "reason": "Confirm component release titles, original Alice identity and Ultimate Ghosts spelling; preserve series/unspecified releases.",
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "It has these two games"
+        },
+        {
+          "location": "Paragraph 19",
+          "quote": "the original one on the PC"
+        },
+        {
+          "location": "Paragraph 24",
+          "quote": "ultimate ghost and goblins"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq6-hardware-and-credits",
+      "priority": "low",
+      "reason": "Confirm testing-device name and closing music credits only if those details are needed.",
+      "evidence": [
+        {
+          "location": "Paragraph 11",
+          "quote": "super Gameboy player super boy"
+        },
+        {
+          "location": "Paragraph 28",
+          "quote": "Coco Kitty"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    }
+  ],
+  "exclusions": [
+    "Mary Poppins is a film reference, not an identified game mention.",
+    "Batman pinball retained as a physical machine; no video-game release invented.",
+    "Current prices, diagnoses and unrelated personal details are not extracted as canon."
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "schema_version": "1",
+  "source_key": "sc-1327980511",
+  "source_sha256": "eff28d3c954554ce99abdb4cae21c58ad70ee372fafa32e9d83ec27a97d1520c",
+  "selection": "Fixed zero-based caption-window indices49,99,149 assigned by root, distinct from rootquartile sample.",
+  "freeze_status": "Frozen before viewing CQ201 extraction or annotations.",
+  "reviewer": "audit_early",
+  "windows": [
+    {
+      "index": 49,
+      "location": "00:52:25",
+      "text": "and I don't remember what they do about about that in Sunday Funday I think they just take that out but like that is a significant difference to like an 11-year-old boy playing through Menace Beach for Sunday Funday where they would be like these are not the same game give me Menace Beach [ __ ] probotector give me Contra but yeah they're the same game okay I mean you just argued with yourself there yeah I I just you know I didn't need you to bring up again how dumb I am I don't think you're dumb at all Tower I think you're very smart I'm the best I know that's why I love talking about myself Johnny I I know where's your ego let me let me rub it some more I've got an easy one for you all right this one's a softball uh Myriad six in one nope absolutely does not count uh so it's it is 100% a publisher variant so uh if there's somehow a single person listening this who does not know calron 6 in one was orig"
+    },
+    {
+      "index": 99,
+      "location": "01:45:35",
+      "text": "way the thanks I hate it list is 661 yeah thanks pretty good right super good and we also got to remove does this include Miracle piano yeah oh it does okay we're not it doesn't it it include it removed Miracle piano if you added it back in fine 662 buddy nwc's you're out those don't count okay but here's what what you could do if you wanted to get crazy if you want to add some stuff back in because you you don't like 661 and here's these this is something I'm going to defend both in my joke and uh but actual uh and I've spoke about this the tenen games were out out as a kid I saw them we all knew them I'm I'm removing the ones that are duplicated up and there's six of them because I'm including Tetris in that I only want one version of Tetris um so there are 13 uh tension games you can add on there so you get your After"
+    },
+    {
+      "index": 149,
+      "location": "02:38:48",
+      "text": "don't know if that was a good impression I got to go watch the like a YouTube clip of the game but if anyone doesn't know the X-Men arcade game uh one of the first things that happens in that game is Magneto comes up to you and says X-Men welcome to die and then he kind of destroys the ground under you and you fall it's brilliant one of the dumbest lines in video game history the Fatalis dork Overlord my childhood PlayStation Idol game Das rave.com rip and tear Jackson cubler he is 8bit John round Joseph Rogers got 50,000 on Double Dragon collector of everything including Atari kin mcateer video game console modding Guy MP3 Sam Sega Mark II marks sha the video game Illuminati lacroy and hedgemon of the geek Empire Valor the great thank you guys so much [Music]"
+    }
+  ],
+  "reference_buckets": [
+    {
+      "id": "additional201-b1",
+      "index": 49,
+      "location": "00:52:25",
+      "title": "Sunday Funday",
+      "kind": "game",
+      "in_denominator": true,
+      "evidence": {
+        "location": "00:52:25",
+        "quote": "Sunday Funday"
+      }
+    },
+    {
+      "id": "additional201-b2",
+      "index": 49,
+      "location": "00:52:25",
+      "title": "Menace Beach",
+      "kind": "game",
+      "in_denominator": true,
+      "evidence": {
+        "location": "00:52:25",
+        "quote": "Menace Beach"
+      }
+    },
+    {
+      "id": "additional201-b3",
+      "index": 49,
+      "location": "00:52:25",
+      "title": "Probotector",
+      "kind": "game",
+      "in_denominator": true,
+      "evidence": {
+        "location": "00:52:25",
+        "quote": "probotector"
+      }
+    },
+    {
+      "id": "additional201-b4",
+      "index": 49,
+      "location": "00:52:25",
+      "title": "Contra",
+      "kind": "game",
+      "in_denominator": true,
+      "evidence": {
+        "location": "00:52:25",
+        "quote": "Contra"
+      }
+    },
+    {
+      "id": "additional201-b5",
+      "index": 49,
+      "location": "00:52:25",
+      "title": "Myriad 6 in1",
+      "kind": "compilation",
+      "in_denominator": true,
+      "evidence": {
+        "location": "00:52:25",
+        "quote": "Myriad six in one"
+      }
+    },
+    {
+      "id": "additional201-b6",
+      "index": 49,
+      "location": "00:52:25",
+      "title": "Caltron6 in1",
+      "kind": "compilation",
+      "in_denominator": true,
+      "evidence": {
+        "location": "00:52:25",
+        "quote": "calron 6 in one"
+      }
+    },
+    {
+      "id": "additional201-b7",
+      "index": 99,
+      "location": "01:45:35",
+      "title": "Miracle Piano",
+      "kind": "software_peripheral_bundle",
+      "in_denominator": true,
+      "evidence": {
+        "location": "01:45:35",
+        "quote": "Miracle piano"
+      }
+    },
+    {
+      "id": "additional201-b8",
+      "index": 99,
+      "location": "01:45:35",
+      "title": "Nintendo World Championships",
+      "kind": "competition_cartridge",
+      "in_denominator": true,
+      "evidence": {
+        "location": "01:45:35",
+        "quote": "nwc's"
+      }
+    },
+    {
+      "id": "additional201-b9",
+      "index": 99,
+      "location": "01:45:35",
+      "title": "Tetris",
+      "kind": "title_unspecified_version",
+      "in_denominator": true,
+      "evidence": {
+        "location": "01:45:35",
+        "quote": "Tetris"
+      }
+    },
+    {
+      "id": "additional201-b10",
+      "index": 99,
+      "location": "01:45:35",
+      "title": "After…",
+      "kind": "truncated_unresolved_prefix",
+      "in_denominator": false,
+      "evidence": {
+        "location": "01:45:35",
+        "quote": "After"
+      }
+    },
+    {
+      "id": "additional201-b11",
+      "index": 149,
+      "location": "02:38:48",
+      "title": "X-Men arcade",
+      "kind": "game",
+      "in_denominator": true,
+      "evidence": {
+        "location": "02:38:48",
+        "quote": "X-Men arcade game"
+      }
+    },
+    {
+      "id": "additional201-b12",
+      "index": 149,
+      "location": "02:38:48",
+      "title": "Double Dragon",
+      "kind": "game_in_credit_context",
+      "in_denominator": true,
+      "evidence": {
+        "location": "02:38:48",
+        "quote": "got 50,000 on Double Dragon"
+      }
+    }
+  ],
+  "baseline": {
+    "identifiable_buckets": 11,
+    "truncated_prefixes_excluded": 1,
+    "record_comparison": "pending"
+  },
+  "pitfalls": [
+    "Index49 is a game-equivalence argument; no purchase or host playing report follows.",
+    "Index99 is a proposed/joking set definition;661/662 not canonical unqualified totals. NWC exclusion and only-one-Tetris policy are editorial positions.",
+    "Index149 X-Men welcome-to-die is explained, not a verified current quote from audio. DoubleDragon score is in credits and not attributable to either host as an action.",
+    "No identities inferred for patrons from names, URLs or catchphrases."
+  ],
+  "comparison": {
+    "status": "completed_no_repairs_requested",
+    "scope": "Independent reviewer, three-window source-first sample, not full-episode independent review.",
+    "pre_repair": {
+      "denominator": 11,
+      "record_identity_hits": 11,
+      "exact_window_evidence_hits": 11,
+      "window_span_hits": 11,
+      "misses": 0,
+      "ordinary_reference_hits": 10,
+      "ordinary_reference_denominator": 10,
+      "credit_context_hits": 1,
+      "credit_context_denominator": 1
+    },
+    "artifact_hashes": {
+      "record": "6bac80daff2608edb9bd81e81992bd63165e5669f466e5933ae1c47a01d1c3de",
+      "annotations": "b235ca86a035de7a39c1e05bc4f43553372b8f019bc62c17124f3572dea0b3f2"
+    },
+    "matrix": [
+      {
+        "bucket_id": "additional201-b1",
+        "record_id": "cq201-g052",
+        "span_id": "cq201-span-052-1",
+        "identity_hit": true,
+        "exact_window_evidence_hit": true,
+        "window_span_hit": true
+      },
+      {
+        "bucket_id": "additional201-b2",
+        "record_id": "cq201-g053",
+        "span_id": "cq201-span-053-1",
+        "identity_hit": true,
+        "exact_window_evidence_hit": true,
+        "window_span_hit": true
+      },
+      {
+        "bucket_id": "additional201-b3",
+        "record_id": "cq201-g013",
+        "span_id": "cq201-span-013-2",
+        "identity_hit": true,
+        "exact_window_evidence_hit": true,
+        "window_span_hit": true
+      },
+      {
+        "bucket_id": "additional201-b4",
+        "record_id": "cq201-g014",
+        "span_id": "cq201-span-014-2",
+        "identity_hit": true,
+        "exact_window_evidence_hit": true,
+        "window_span_hit": true
+      },
+      {
+        "bucket_id": "additional201-b5",
+        "record_id": "cq201-g055",
+        "span_id": "cq201-span-055-1",
+        "identity_hit": true,
+        "exact_window_evidence_hit": true,
+        "window_span_hit": true
+      },
+      {
+        "bucket_id": "additional201-b6",
+        "record_id": "cq201-g056",
+        "span_id": "cq201-span-056-1",
+        "identity_hit": true,
+        "exact_window_evidence_hit": true,
+        "window_span_hit": true
+      },
+      {
+        "bucket_id": "additional201-b7",
+        "record_id": "cq201-g088",
+        "span_id": "cq201-span-088-3",
+        "identity_hit": true,
+        "exact_window_evidence_hit": true,
+        "window_span_hit": true
+      },
+      {
+        "bucket_id": "additional201-b8",
+        "record_id": "cq201-g025",
+        "span_id": "cq201-span-025-4",
+        "identity_hit": true,
+        "exact_window_evidence_hit": true,
+        "window_span_hit": true
+      },
+      {
+        "bucket_id": "additional201-b9",
+        "record_id": "cq201-g047",
+        "span_id": "cq201-span-047-2",
+        "identity_hit": true,
+        "exact_window_evidence_hit": true,
+        "window_span_hit": true
+      },
+      {
+        "bucket_id": "additional201-b11",
+        "record_id": "cq201-g170",
+        "span_id": "cq201-span-170-2",
+        "identity_hit": true,
+        "exact_window_evidence_hit": true,
+        "window_span_hit": true
+      },
+      {
+        "bucket_id": "additional201-b12",
+        "record_id": "cq201-g172",
+        "span_id": "cq201-span-172-1",
+        "identity_hit": true,
+        "exact_window_evidence_hit": true,
+        "window_span_hit": true
+      }
+    ],
+    "boundary_case": {
+      "bucket_id": "additional201-b10",
+      "resolved_title": "After Burner",
+      "record_id": "cq201-g106",
+      "span_id": "cq201-span-106-1",
+      "locations": [
+        "01:45:35",
+        "01:46:40"
+      ],
+      "represented": true,
+      "in_frozen_denominator": false
+    },
+    "attribution_action_review": [
+      "All selected occurrence groups retain unknown speakers; no action claim cites these three windows.",
+      "Double Dragon is a patron-score joke, not a verified score or host action.",
+      "X-Men final explanation is a supporting span with arcade context and END boundary, not invented duration.",
+      "List counts and equivalence arguments are editorial discussion, not purchase reports.",
+      "Rip and tear remains unresolved with null canonical title."
+    ],
+    "limits": [
+      "No audio verification.",
+      "No whole-episode recall estimate.",
+      "Other-window contextual conclusions were not reaudited.",
+      "Baseline pending status is historical frozen pre-view state; this object supplies the completed result."
+    ],
+    "repairs": []
+  },
+  "adjacent_context": {
+    "indices": [
+      48,
+      100,
+      148
+    ],
+    "scope": "Read only to interpret frozen selected passages, not expand sampling denominator.",
+    "findings": [
+      "Window48 identifies Menace Beach's girlfriend/clothing sequence as the difference under discussion; source49 compares Sunday Funday then changes to publisher variants.",
+      "Window99 trailing After plus window100 opening Burner resolves the boundary reference to After Burner. It is separately reported; frozen11-bucket denominator is unchanged.",
+      "Window148 is a list of patrons and playful epithets, supporting credit-context classification for the source149 DoubleDragon score phrase. No host score attribution."
+    ]
+  }
+}

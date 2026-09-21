@@ -1,0 +1,50 @@
+{
+  "schema_version": "1",
+  "initial": {
+    "tuned": [
+      46,
+      48
+    ],
+    "original": [
+      48,
+      48
+    ],
+    "sample": [
+      13,
+      14
+    ]
+  },
+  "repairs": [
+    "CQ19 definitions lore expanded to include earlier reproduction definition P3/P4; original evaluated inputs retained.",
+    "CQ86 scope lore linked to closing P40 listener request; original evaluated inputs retained.",
+    "CQ86 omitted Spot family P21 return added as JOKE_ASIDE; sample denominator retained, no individual-game credit.",
+    "CQ19 three known-game bucket/span kinds repaired without resolving uncertain subtitles.",
+    "CQ212 ambiguous UltimaVIII buyer/unsupported continuity contradiction removed; no forced actor.",
+    "CQ212 dedicated electronic devices consistently typed tabletop; SNES/SFC goals typed game collections with two unsupported spans removed.",
+    "CQ212 omitted Halcyon hardware membership restored49→50; received versus purchased and illustrative Wirehead states repaired.",
+    "CQ212 NWC variants unioned to underlying game while preserving record and edition distinctions; meaningful197 unchanged.",
+    "CQ212 ten formatting-only answer changes reread and exact manual snapshots updated."
+  ],
+  "final": {
+    "tuned": [
+      48,
+      48
+    ],
+    "original": [
+      48,
+      48
+    ],
+    "sample": [
+      14,
+      14
+    ],
+    "fresh": [
+      6,
+      6
+    ]
+  },
+  "test_history": [
+    "First192-test run encountered a Windows SQLite replacement lock from an overlapping read-only diagnostic; no semantic assertion failure. Repeated serially after closing readers:192/192 passed in38.968s."
+  ],
+  "limits": "These are development retrieval and written-source checks, not statistical recall or audio/live certification."
+}

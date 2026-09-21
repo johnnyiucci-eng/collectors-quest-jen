@@ -1,0 +1,60 @@
+{
+  "total": 6,
+  "passed": 6,
+  "cases": [
+    {
+      "id": "cq21-fresh-comfort",
+      "missing_windows": [],
+      "coverage": {
+        "returned_windows": 25,
+        "episode_windows": 27
+      },
+      "route": "lexical"
+    },
+    {
+      "id": "cq21-fresh-retain",
+      "missing_windows": [],
+      "coverage": {
+        "returned_windows": 20,
+        "episode_windows": 27
+      },
+      "route": "lexical"
+    },
+    {
+      "id": "cq88-fresh-nonplay",
+      "missing_windows": [],
+      "coverage": {
+        "returned_windows": 25,
+        "episode_windows": 34
+      },
+      "route": "lexical"
+    },
+    {
+      "id": "cq88-fresh-protectors",
+      "missing_windows": [],
+      "coverage": {
+        "returned_windows": 28,
+        "episode_windows": 34
+      },
+      "route": "corrections"
+    },
+    {
+      "id": "cq214-fresh-delivery",
+      "missing_windows": [],
+      "coverage": {
+        "returned_windows": 42,
+        "episode_windows": 171
+      },
+      "route": "lexical"
+    },
+    {
+      "id": "cq214-fresh-postscript",
+      "missing_windows": [],
+      "coverage": {
+        "returned_windows": 124,
+        "episode_windows": 171
+      },
+      "route": "lexical"
+    }
+  ]
+}

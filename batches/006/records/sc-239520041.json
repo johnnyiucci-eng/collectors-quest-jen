@@ -1,0 +1,2739 @@
+{
+  "schema_version": "0.1",
+  "extraction_version": "batch006-fullsource-v1",
+  "source": {
+    "key": "sc-239520041",
+    "episode_number": 12,
+    "title": "Episode 12 - Happy New Year",
+    "date": "2015-12-29",
+    "path": "episodes/cq-012-sc-239520041.md",
+    "source_url": "https://soundcloud.com/collectors-quest/collectors-quest-episode-12-happy-new-year",
+    "words": 9636,
+    "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+    "sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7"
+  },
+  "review": {
+    "status": "extracted_draft",
+    "read_coverage": "All44 supplied paragraphs read consecutively,1–22 then23–44.",
+    "omission_review": "Same-agent full44-paragraph reconciliation:39/39 inventoried referent buckets represented,0 misses;37 identifiable title/series referents plus2 unnameable references. Not independent recall.",
+    "audio_verification": "not_performed",
+    "independent_review": "not_performed",
+    "transcript_limit": "Captured attachment only; no verified audio completeness.",
+    "timing": "Untimed paragraphs only."
+  },
+  "participants": [
+    {
+      "name": "Kat",
+      "confidence": "high",
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "I’m Kat here with Johnny"
+        }
+      ]
+    },
+    {
+      "name": "Johnny",
+      "confidence": "high",
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "I’m Kat here with Johnny"
+        }
+      ]
+    }
+  ],
+  "main_topic": "2016 collecting goals, Nintendo Power photo project, changing favorites and purchase records",
+  "secondary_topics": [
+    "handheld hardware",
+    "top-list scope",
+    "RPG preferences",
+    "repurchasing sold games",
+    "lot-cost allocation",
+    "shelving"
+  ],
+  "games": [
+    {
+      "id": "cq012-g001",
+      "canonical_title": "Uncharted: The Nathan Drake Collection",
+      "spoken_forms": [
+        "uncharted collection"
+      ],
+      "entity_granularity": "compilation",
+      "platform": "PS4",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Christmas gift and intended revisit; contents not individually enumerated.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 2",
+              "quote": "uncharted collection"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g002",
+      "canonical_title": "Donkey Kong Land",
+      "spoken_forms": [
+        "Donkey Kong land"
+      ],
+      "entity_granularity": "game",
+      "platform": "Game Boy",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Gold handheld pack-in memory; Europe/Australia uncertain, no purchase.",
+          "speaker": {
+            "candidate": "Kat",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 4",
+              "quote": "Donkey Kong land"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g003",
+      "canonical_title": "The Legend of Zelda",
+      "spoken_forms": [
+        "Zeld",
+        "Zelda"
+      ],
+      "entity_granularity": "series",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Familiar social-post example.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 10",
+              "quote": "Zeld"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Conversation shortcut for noncollectors, not a definitive favorite.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 31",
+              "quote": "default to something like Zelda"
+            }
+          ]
+        },
+        {
+          "type": "PASSING_MENTION",
+          "context": "Franchise affection within sequel debate.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 33",
+              "quote": "Zelda games"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g004",
+      "canonical_title": "Mario",
+      "spoken_forms": [
+        "Mario"
+      ],
+      "entity_granularity": "series",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Familiar posting example, not a specific title.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 10",
+              "quote": "Mario"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g005",
+      "canonical_title": "Stadium Events",
+      "spoken_forms": [
+        "stadium events"
+      ],
+      "entity_granularity": "game",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Explicitly absent from project list; no ownership/purchase claim.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 12",
+              "quote": "stadium events isn’t on the Nintendo list"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g006",
+      "canonical_title": null,
+      "spoken_forms": [
+        "VVVVVVV",
+        "five Vs"
+      ],
+      "entity_granularity": "unresolved",
+      "platform": "digital DS/3DS wording uncertain",
+      "region_edition": null,
+      "identification_confidence": "low",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Digital-only V-titled list entry, raw glyph count contradicts spoken five; exact identity/availability not silently corrected.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 15",
+              "quote": "VVVVVVV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g007",
+      "canonical_title": "Donkey Kong",
+      "spoken_forms": [
+        "Donkey Kong on the Game Boy"
+      ],
+      "entity_granularity": "game",
+      "platform": "Game Boy",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Selected list version compared unfavorably with NES; admits limited play.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 16",
+              "quote": "Donkey Kong on the Game Boy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g008",
+      "canonical_title": "Donkey Kong",
+      "spoken_forms": [
+        "Donkey Kong on the NES"
+      ],
+      "entity_granularity": "game",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Not selected by list; Johnny prefers it. Platform identities remain separate.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 16",
+              "quote": "Donkey Kong on the NES"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g009",
+      "canonical_title": "Mario Tennis",
+      "spoken_forms": [
+        "Mario Tennis for the Game Boy Color"
+      ],
+      "entity_granularity": "game",
+      "platform": "Game Boy Color",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Questions quality/selection, not a verified ranking or play report.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 16",
+              "quote": "Mario Tennis for the Game Boy Color"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g010",
+      "canonical_title": "Mario Tennis — other versions",
+      "spoken_forms": [
+        "Mario Tennis’s"
+      ],
+      "entity_granularity": "series",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Other-platform comparison question, titles/platforms not enumerated.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 16",
+              "quote": "Mario Tennis’s"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g011",
+      "canonical_title": "Super Smash Bros.",
+      "spoken_forms": [
+        "Smash Brothers 64",
+        "Smash Brothers"
+      ],
+      "entity_granularity": "game",
+      "platform": "Nintendo64",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Proposed ranked-photo/head-to-head project, not gameplay review.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 17",
+              "quote": "they’ve got it for the 64"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g012",
+      "canonical_title": "Super Smash Bros. Melee",
+      "spoken_forms": [
+        "Melee"
+      ],
+      "entity_granularity": "game",
+      "platform": "GameCube",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Named explicitly next paragraph; proposed comparison project.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 17",
+              "quote": "and the GameCube"
+            },
+            {
+              "location": "Paragraph 18",
+              "quote": "here’s Melee"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g013",
+      "canonical_title": "Super Smash Bros. Brawl",
+      "spoken_forms": [
+        "Brawl"
+      ],
+      "entity_granularity": "game",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Hypothetical post example alongside WiiU-additions wording; platform/selection confusion flagged, no purchase.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 18",
+              "quote": "Brawl"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g014",
+      "canonical_title": "Super Smash Bros. — series",
+      "spoken_forms": [
+        "Spoiler Smash Brothers"
+      ],
+      "entity_granularity": "series",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Group-post concept, not independent duration for unnamed installments.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 17",
+              "quote": "Spoiler Smash Brothers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g015",
+      "canonical_title": "EarthBound",
+      "spoken_forms": [
+        "Earthbound",
+        "earthbound",
+        "earthboundage"
+      ],
+      "entity_granularity": "game",
+      "platform": "Super Nintendo",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Sold-off game wanted back; not current possession.",
+          "speaker": {
+            "candidate": "Kat",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 20",
+              "quote": "I don’t have Earthbound anymore"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Joint repurchase priority and Johnny excludes it from top3.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 22",
+              "quote": "John’s eyeing an earthbound"
+            }
+          ]
+        },
+        {
+          "type": "PASSING_MENTION",
+          "context": "Negative/hypothetical cheap-lot example, not an actual find.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 42",
+              "quote": "earthboundage"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g016",
+      "canonical_title": "Super Mario RPG",
+      "spoken_forms": [
+        "Super Mario RPG"
+      ],
+      "entity_granularity": "game",
+      "platform": "Super Nintendo",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Sold-off RPG wanted back; not current ownership.",
+          "speaker": {
+            "candidate": "Kat",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 20",
+              "quote": "Super Mario RPG"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g017",
+      "canonical_title": "Chrono Trigger",
+      "spoken_forms": [
+        "Chrono Trigger"
+      ],
+      "entity_granularity": "game",
+      "platform": "Super Nintendo",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Wanted-back title.",
+          "speaker": {
+            "candidate": "Kat",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 20",
+              "quote": "Chrono Trigger"
+            }
+          ]
+        },
+        {
+          "type": "PASSING_MENTION",
+          "context": "Other people's top-three posts reveal collection gap.",
+          "speaker": {
+            "candidate": "Kat",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 22",
+              "quote": "Chrono Trigger"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Tentative personal top-three slot reaffirmed with two Final Fantasies.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 23",
+              "quote": "followed by Chrono Trigger"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g018",
+      "canonical_title": "Super Battletank",
+      "spoken_forms": [
+        "Super Battle Tank"
+      ],
+      "entity_granularity": "game",
+      "platform": "Super Nintendo",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Dispensable filler example, not automatically owned or played.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 20",
+              "quote": "Super Battle Tank"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g019",
+      "canonical_title": "Super Battletank 2",
+      "spoken_forms": [
+        "Super Battle Tank too"
+      ],
+      "entity_granularity": "game",
+      "platform": "Super Nintendo",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Numbered sequel in skip list.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 20",
+              "quote": "Super Battle Tank too"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g020",
+      "canonical_title": "Super Caesars Palace",
+      "spoken_forms": [
+        "Super Caesar’s Palace"
+      ],
+      "entity_granularity": "game",
+      "platform": "Super Nintendo",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Skip-list example only.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 20",
+              "quote": "Super Caesar’s Palace"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g021",
+      "canonical_title": "Super Bowling",
+      "spoken_forms": [
+        "Super Bowling"
+      ],
+      "entity_granularity": "game",
+      "platform": "Super Nintendo",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Skip-list example only.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 20",
+              "quote": "Super Bowling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g022",
+      "canonical_title": null,
+      "spoken_forms": [
+        "Baseball Simulator 1000"
+      ],
+      "entity_granularity": "unresolved",
+      "platform": "Super Nintendo context",
+      "region_edition": null,
+      "identification_confidence": "low",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Full SNES title wording uncertain; no automatic NES identification.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 20",
+              "quote": "Baseball Simulator 1000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g023",
+      "canonical_title": "Mega Man 2",
+      "spoken_forms": [
+        "Mega Man 2"
+      ],
+      "entity_granularity": "game",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Childhood sound-off memory, not a current music review.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 23",
+              "quote": "Mega Man 2 sounded like"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g024",
+      "canonical_title": "Final Fantasy IV",
+      "spoken_forms": [
+        "Final Fantasy IV",
+        "Final Fantasy II"
+      ],
+      "entity_granularity": "game",
+      "platform": "Super Nintendo",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Personal favorite, distinguished from objective best; regional alias explicit.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 23",
+              "quote": "Final Fantasy IV or slash Final Fantasy II"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g025",
+      "canonical_title": "Final Fantasy VI",
+      "spoken_forms": [
+        "Final Fantasy III"
+      ],
+      "entity_granularity": "game",
+      "platform": "Super Nintendo / US III label",
+      "region_edition": "US SNES III label; VI alias supported by already-read CQ9 paragraph9",
+      "identification_confidence": "medium",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "US SNES numbering, arguably better overall but IV personal favorite; tentative third with Chrono.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 23",
+              "quote": "Final Fantasy III"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g026",
+      "canonical_title": "Secret of Mana",
+      "spoken_forms": [
+        "Secret of Mana"
+      ],
+      "entity_granularity": "game",
+      "platform": "Super Nintendo",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Cousin co-play memory and action-RPG category boundary.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 24",
+              "quote": "Secret of Mana"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g027",
+      "canonical_title": "Harvest Moon",
+      "spoken_forms": [
+        "Harvest Moon"
+      ],
+      "entity_granularity": "game",
+      "platform": "Super Nintendo",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Explicit non-play and RPG-classification discussion, not firsthand SNES review.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 25",
+              "quote": "Harvest Moon was something I never played on the Super Nintendo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g028",
+      "canonical_title": "Harvest Moon — later games",
+      "spoken_forms": [
+        "Harvest Moon games"
+      ],
+      "entity_granularity": "series",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Later exposure/dislike; titles unspecified, no completed play inferred.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 25",
+              "quote": "Harvest Moon games"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g029",
+      "canonical_title": "Breath of Fire",
+      "spoken_forms": [
+        "Breath of Fire"
+      ],
+      "entity_granularity": "game",
+      "platform": "Super Nintendo",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Would make broader list, not definite top3.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 25",
+              "quote": "Breath of Fire"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g030",
+      "canonical_title": "Brain Lord",
+      "spoken_forms": [
+        "Brain Lord"
+      ],
+      "entity_granularity": "game",
+      "platform": "Super Nintendo",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Nostalgic purchase around13 despite negative quality description.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 25",
+              "quote": "Brain Lord"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g031",
+      "canonical_title": "Terranigma",
+      "spoken_forms": [
+        "Terranigma"
+      ],
+      "entity_granularity": "game",
+      "platform": "PAL/Super Nintendo context",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Liked later-played non-US example for list scope.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 26",
+              "quote": "Terranigma"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g032",
+      "canonical_title": "Soul Blazer",
+      "spoken_forms": [
+        "Soul Blazer"
+      ],
+      "entity_granularity": "game",
+      "platform": "Super Nintendo context",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Uncertain series relationship, not verified connection.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 26",
+              "quote": "maybe it’s Soul Blazer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g033",
+      "canonical_title": null,
+      "spoken_forms": [
+        "five game gear games"
+      ],
+      "entity_granularity": "unresolved_collection",
+      "platform": "Game Gear",
+      "region_edition": null,
+      "identification_confidence": "low",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Limited firsthand pool; refuses an authoritative top3, titles unnamed.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 27",
+              "quote": "five game gear games"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g034",
+      "canonical_title": null,
+      "spoken_forms": [
+        "that game"
+      ],
+      "entity_granularity": "unresolved",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "low",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Unidentified former top5/current top10 example; do not guess title.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 28",
+              "quote": "I was in love with that game right then"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g035",
+      "canonical_title": "The Legend of Zelda",
+      "spoken_forms": [
+        "Zelda one"
+      ],
+      "entity_granularity": "game",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Sequel/combat design comparison, not simply favorite ranking.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 32",
+              "quote": "Zelda one"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g036",
+      "canonical_title": "Zelda II: The Adventure of Link",
+      "spoken_forms": [
+        "Zelda two"
+      ],
+      "entity_granularity": "game",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Defends combat viewpoint and links it interpretively to Ocarina; affection and joke.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 32",
+              "quote": "Zelda two"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g037",
+      "canonical_title": "The Legend of Zelda: A Link to the Past",
+      "spoken_forms": [
+        "a link to the past"
+      ],
+      "entity_granularity": "game",
+      "platform": "Super Nintendo",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Refinement example in sequel discussion.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 32",
+              "quote": "a link to the past"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g038",
+      "canonical_title": "The Legend of Zelda: Ocarina of Time",
+      "spoken_forms": [
+        "Ocarina of Time",
+        "Zelda Ocarina of Time"
+      ],
+      "entity_granularity": "game",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Others' favorite example.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 32",
+              "quote": "Ocarina of Time"
+            }
+          ]
+        },
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Johnny's interpretive combat resemblance to ZeldaII, not objective design proof.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 33",
+              "quote": "Zelda Ocarina of Time"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cq012-g039",
+      "canonical_title": "Kawasaki Caribbean Challenge",
+      "spoken_forms": [
+        "Kawasaki, Caribbean challenge"
+      ],
+      "entity_granularity": "game",
+      "platform": "Super Nintendo context",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "CIB purchase ledger example: allocated lot cost, not standalone sale price.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Johnny/Kat named opening and dialogue continuity; no audio or reliable turn labels."
+          },
+          "evidence": [
+            {
+              "location": "Paragraph 41",
+              "quote": "Kawasaki, Caribbean challenge"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "lore": [
+    {
+      "id": "cq012-l001",
+      "kind": "gift_report",
+      "summary": "Kat receives a complete-in-box purple Japanese Game Boy Pocket, already has pink, and considers collecting the basic-color hardware set; Pocket remains monochrome, not Game Boy Color.",
+      "topics": [
+        "handhelds"
+      ],
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "purple Ken Pleaton box Game Boy pocket from Japan"
+        },
+        {
+          "location": "Paragraph 2",
+          "quote": "I already have the pink one"
+        },
+        {
+          "location": "Paragraph 3",
+          "quote": "no color on this one"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq012-l002",
+      "kind": "gift_report",
+      "summary": "Johnny receives the PS4 Uncharted collection, not retro gifts; his wife/friends leave retro purchases to him.",
+      "topics": [
+        "holiday_gifts"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 2",
+          "quote": "uncharted collection for the PS4"
+        },
+        {
+          "location": "Paragraph 2",
+          "quote": "they leave that area alone"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq012-l003",
+      "kind": "reported_claim",
+      "summary": "Johnny tentatively recalls a Japanese gold Pocket and North American teal/yellow units; a Donkey Kong Land gold-pack region is uncertain.",
+      "topics": [
+        "handhelds"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "I think I have a gold pocket from Japan"
+        },
+        {
+          "location": "Paragraph 3",
+          "quote": "a teal and a yellow one"
+        },
+        {
+          "location": "Paragraph 4",
+          "quote": "Europe or Australia I believe I’m not sure"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq012-l004",
+      "kind": "past_opportunity",
+      "summary": "Johnny almost bought an Australian friend's handheld collection, correcting an N64 false start to Game Boy Pockets/Colors; almost is not purchased.",
+      "topics": [
+        "handhelds"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 4",
+          "quote": "I almost bought all of them"
+        },
+        {
+          "location": "Paragraph 4",
+          "quote": "N64 or not N64 these Game Boy pockets"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq012-l005",
+      "kind": "collection_goal",
+      "summary": "Kat targets completing Master System with about29 left and N64 with about110 left, at least cartridge-and-box; manuals are welcome but not the minimum target.",
+      "topics": [
+        "2016_goals"
+      ],
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 5",
+          "quote": "29 games to go"
+        },
+        {
+          "location": "Paragraph 5",
+          "quote": "about 110 now left"
+        },
+        {
+          "location": "Paragraph 6",
+          "quote": "at least do cart and box"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq012-l006",
+      "kind": "planning_correction",
+      "summary": "The hosts correct roughly140-games/year pacing to one every three days/about2.33 per week; Johnny separately reports105 Wii purchases in the past month.",
+      "topics": [
+        "2016_goals"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 6",
+          "quote": "a hundred and five Wii games in past month"
+        },
+        {
+          "location": "Paragraph 6",
+          "quote": "one every three days"
+        },
+        {
+          "location": "Paragraph 6",
+          "quote": "2.33"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq012-l007",
+      "kind": "project_plan",
+      "summary": "Johnny plans to acquire and photograph Nintendo Power285's285 ranked games with magazine issue numbers matching ranks, not necessarily matching cover subjects.",
+      "topics": [
+        "nintendo_power_project"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 7",
+          "quote": "last Nintendo power issue 285"
+        },
+        {
+          "location": "Paragraph 7",
+          "quote": "acquire all of those games"
+        },
+        {
+          "location": "Paragraph 8",
+          "quote": "even if that picture of the Nintendo power in the game don’t line up"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq012-l008",
+      "kind": "project_plan",
+      "summary": "He may add15 newer WiiU/late3DS choices for about300 entries, varying systems/order rather than promising300 consecutive daily posts.",
+      "topics": [
+        "nintendo_power_project"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 8",
+          "quote": "add in 15 of my own choices"
+        },
+        {
+          "location": "Paragraph 8",
+          "quote": "probably make it around 300"
+        },
+        {
+          "location": "Paragraph 8",
+          "quote": "I don’t think I’ll do it in order"
+        },
+        {
+          "location": "Paragraph 10",
+          "quote": "a variety of games"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq012-l009",
+      "kind": "project_workflow",
+      "summary": "Johnny has an Excel table/filter plan; before committing, he researched feasibility and prices, missing games/issues and sorting criteria.",
+      "topics": [
+        "research_method"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 9",
+          "quote": "a table in Excel"
+        },
+        {
+          "location": "Paragraph 12",
+          "quote": "what I don’t have what I need"
+        },
+        {
+          "location": "Paragraph 13",
+          "quote": "spent like three hours"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq012-l010",
+      "kind": "project_inventory",
+      "summary": "His current worksheet says72 games and210 NintendoPower issues missing; portable gaps and magazine acquisition are significant challenges, not already completed purchases.",
+      "topics": [
+        "nintendo_power_project"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 13",
+          "quote": "I need right now 72 games"
+        },
+        {
+          "location": "Paragraph 13",
+          "quote": "right now 210"
+        },
+        {
+          "location": "Paragraph 11",
+          "quote": "I have huge holes there"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq012-l011",
+      "kind": "reported_claim",
+      "summary": "Magazine price/availability observations are tentative and historical; a digital V-titled entry creates a physical-photo problem, not proof of universally absent physical releases.",
+      "topics": [
+        "project_limits"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 14",
+          "quote": "five to ten dollars"
+        },
+        {
+          "location": "Paragraph 14",
+          "quote": "two dollars an issue to like four"
+        },
+        {
+          "location": "Paragraph 15",
+          "quote": "VVVVVVV"
+        },
+        {
+          "location": "Paragraph 15",
+          "quote": "it’s five Vs"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq012-l012",
+      "kind": "host_opinion",
+      "summary": "Johnny questions Donkey Kong GB over NES and Mario Tennis GBC selection, admitting he may not have played GB Donkey Kong enough; this is not an objective defect finding.",
+      "topics": [
+        "list_critique"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 16",
+          "quote": "I like the NES one better"
+        },
+        {
+          "location": "Paragraph 16",
+          "quote": "Maybe I haven’t played through that one enough"
+        },
+        {
+          "location": "Paragraph 16",
+          "quote": "Was it like really that great"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq012-l013",
+      "kind": "project_plan",
+      "summary": "Smash64/Melee comparisons might prompt ranking discussion through individual posts and a group photo; Brawl appears in a confusing WiiU-additions hypothetical, not a settled platform fact.",
+      "topics": [
+        "list_critique"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 18",
+          "quote": "here’s Smash Brothers 64, here’s Melee"
+        },
+        {
+          "location": "Paragraph 18",
+          "quote": "Thursday, Brawl, if I had Brawl"
+        },
+        {
+          "location": "Paragraph 18",
+          "quote": "add some Wii U games"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq012-l014",
+      "kind": "collection_goal",
+      "summary": "Kat declines a full SNES set, instead wants selected games back after selling some to finish NES; cart/box or CIB quality takes priority over breadth.",
+      "topics": [
+        "curation"
+      ],
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 19",
+          "quote": "not going for a complete Super Nintendo set"
+        },
+        {
+          "location": "Paragraph 19",
+          "quote": "sold off to finish the NES set"
+        },
+        {
+          "location": "Paragraph 21",
+          "quote": "as opposed to just going for loose carts"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq012-l015",
+      "kind": "repurchase_goal",
+      "summary": "EarthBound, Super Mario RPG and Chrono Trigger are absent now and wanted back. EarthBound was hard for Kat/John to part with and is a shared priority, not a new completed purchase.",
+      "topics": [
+        "repurchasing"
+      ],
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 20",
+          "quote": "I don’t have Earthbound anymore"
+        },
+        {
+          "location": "Paragraph 20",
+          "quote": "I don’t have Super Mario RPG anymore"
+        },
+        {
+          "location": "Paragraph 20",
+          "quote": "I don’t have Chrono Trigger anymore"
+        },
+        {
+          "location": "Paragraph 22",
+          "quote": "when we sold it"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq012-l016",
+      "kind": "personal_anecdote",
+      "summary": "Johnny often played childhood games with sound off because others slept/shared space and did not hear Mega Man2's music until his teens.",
+      "topics": [
+        "game_audio"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 22",
+          "quote": "I played with the volume off"
+        },
+        {
+          "location": "Paragraph 23",
+          "quote": "I didn’t know what Mega Man 2 sounded like until I was a teenager"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq012-l017",
+      "kind": "host_preference",
+      "summary": "Johnny's personal SNES RPG favorite is IV/USII, then Chrono Trigger, with USIII/VI likely the third after hesitation. He distinguishes favorites from objectively best and places EarthBound outside his top3.",
+      "topics": [
+        "rpg_favorites"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 23",
+          "quote": "Final Fantasy IV or slash Final Fantasy II is probably my favorite"
+        },
+        {
+          "location": "Paragraph 23",
+          "quote": "followed by Chrono Trigger"
+        },
+        {
+          "location": "Paragraph 24",
+          "quote": "probably would be the two Final Fantasies and Chrono Trigger"
+        },
+        {
+          "location": "Paragraph 23",
+          "quote": "earthbound isn’t in my list"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq012-l018",
+      "kind": "genre_boundary",
+      "summary": "Secret of Mana co-play with his cousin is beloved, but action-RPG inclusion is debated; Kat raises a Harvest Moon RPG classification discussion.",
+      "topics": [
+        "rpg_scope"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 24",
+          "quote": "My cousin and I played the hell"
+        },
+        {
+          "location": "Paragraph 25",
+          "quote": "more of an action RPG"
+        },
+        {
+          "location": "Paragraph 25",
+          "quote": "debate over Harvest Moon"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq012-l019",
+      "kind": "negative_evidence",
+      "summary": "Johnny never played SNES Harvest Moon and did not care for later Harvest Moon exposure; Breath of Fire and nostalgically remembered Brain Lord are broader list possibilities.",
+      "topics": [
+        "rpg_scope"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 25",
+          "quote": "Harvest Moon was something I never played on the Super Nintendo"
+        },
+        {
+          "location": "Paragraph 25",
+          "quote": "I didn’t really care for them"
+        },
+        {
+          "location": "Paragraph 25",
+          "quote": "Breath of Fire does"
+        },
+        {
+          "location": "Paragraph 25",
+          "quote": "Brain Lord"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq012-l020",
+      "kind": "purchase_memory",
+      "summary": "Johnny recalls buying Brain Lord around13 despite describing it negatively; the age and publisher wording are uncertain memories.",
+      "topics": [
+        "nostalgia"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 25",
+          "quote": "that I bought back when I was, I think like 13"
+        },
+        {
+          "location": "Paragraph 25",
+          "quote": "kind of terrible RPG"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq012-l021",
+      "kind": "scope_question",
+      "summary": "Terranigma's later play and PAL/Japanese/translation scope complicate Johnny's top-list answers; a Soul Blazer series relation is explicitly uncertain.",
+      "topics": [
+        "list_scope"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 26",
+          "quote": "Terranigma was great, but I didn’t play that till later"
+        },
+        {
+          "location": "Paragraph 26",
+          "quote": "maybe it’s Soul Blazer"
+        },
+        {
+          "location": "Paragraph 26",
+          "quote": "Is it just the top three from the American library"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq012-l022",
+      "kind": "scope_limit",
+      "summary": "Johnny refuses an authoritative GameGear top3 based on only aboutfive games played; no titles are enumerated.",
+      "topics": [
+        "list_scope"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 27",
+          "quote": "I only ever played like five game gear games"
+        },
+        {
+          "location": "Paragraph 27",
+          "quote": "I just don’t respond to those"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq012-l023",
+      "kind": "opinion_change",
+      "summary": "Both hosts explain that replaying a game can change a favorite list. Johnny's unnamed2010-forum versus Instagram example remains unidentified; variation is not necessarily contradiction/error.",
+      "topics": [
+        "opinion_history"
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 28",
+          "quote": "forum post back in like 2010"
+        },
+        {
+          "location": "Paragraph 29",
+          "quote": "gaming tastes change"
+        },
+        {
+          "location": "Paragraph 29",
+          "quote": "Their order might shuffle"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq012-l024",
+      "kind": "communication_strategy",
+      "summary": "Johnny sometimes defaults to Zelda when casual questioners ask for one favorite, because they recognize it; do not encode this as a unique all-time favorite.",
+      "topics": [
+        "question_scope"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 31",
+          "quote": "default to something like Zelda"
+        },
+        {
+          "location": "Paragraph 31",
+          "quote": "something that they know"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq012-l025",
+      "kind": "host_interpretation",
+      "summary": "Johnny argues ZeldaII's combat perspective has affinities with Ocarina and defends it; this is explicitly his interpretation, not verified developer intent.",
+      "topics": [
+        "zelda_design"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 33",
+          "quote": "more Zelda two than the first Zelda, in my opinion"
+        },
+        {
+          "location": "Paragraph 33",
+          "quote": "I love Zelda two"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq012-l026",
+      "kind": "running_joke",
+      "summary": "Mock plans to attack others' game taste are followed by a resolution to be more inclusive; delayed top-list responses are explained by time/work constraints, not contempt.",
+      "topics": [
+        "show_tone"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 33",
+          "quote": "attack people just on a personal level"
+        },
+        {
+          "location": "Paragraph 34",
+          "quote": "resolve to be a better human"
+        },
+        {
+          "location": "Paragraph 34",
+          "quote": "Be more inclusive"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq012-l027",
+      "kind": "collection_goal",
+      "summary": "Johnny wants fewer2016 purchases while continuing SNES, eventually setting under365 as his new goal; that is a target, not an achieved year-end total.",
+      "topics": [
+        "2016_goals"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 35",
+          "quote": "To buy less games than I bought this year"
+        },
+        {
+          "location": "Paragraph 40",
+          "quote": "under 365"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq012-l028",
+      "kind": "collection_goal",
+      "summary": "Kat wants better organization/focus, boxed/CIB purchases and custom shelving sized to N64/MasterSystem boxes; plan not completed renovation.",
+      "topics": [
+        "storage"
+      ],
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 36",
+          "quote": "as organized as Johnny"
+        },
+        {
+          "location": "Paragraph 36",
+          "quote": "buy carton box or CIB"
+        },
+        {
+          "location": "Paragraph 37",
+          "quote": "custom shelf route"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq012-l029",
+      "kind": "ledger_report",
+      "summary": "Johnny checks his database:667 purchases in2015,901 in2014 and389 in2013. His earlier guess that2014 was smaller is corrected by the lookup; Kat's1190/840 guesses are not final totals.",
+      "topics": [
+        "purchase_history"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 38",
+          "quote": "667"
+        },
+        {
+          "location": "Paragraph 39",
+          "quote": "901"
+        },
+        {
+          "location": "Paragraph 40",
+          "quote": "389"
+        },
+        {
+          "location": "Paragraph 39",
+          "quote": "I just said, I thought I bought less games in 2014"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq012-l030",
+      "kind": "cost_method",
+      "summary": "Kawasaki Caribbean Challenge CIB is recorded at$3 on Jan18,2014 using equal allocation of a bulk-lot cost, not a standalone$3 retail sale or market valuation.",
+      "topics": [
+        "cost_accounting"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 41",
+          "quote": "I paid $3"
+        },
+        {
+          "location": "Paragraph 41",
+          "quote": "18th of January in 2014"
+        },
+        {
+          "location": "Paragraph 41",
+          "quote": "I bought them in a lot"
+        },
+        {
+          "location": "Paragraph 41",
+          "quote": "divide the cost over those 30 games equally"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq012-l031",
+      "kind": "cost_method",
+      "summary": "Johnny reports roughly$2.25 average across about100 recent Wii games; hypothetical$50 EarthBound lots and$100/30-game arithmetic are examples, not proven purchases.",
+      "topics": [
+        "cost_accounting"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 43",
+          "quote": "averaged $2.25 a Wii game"
+        },
+        {
+          "location": "Paragraph 42",
+          "quote": "It’s not usually like I buy a lot for $50 and earthboundage in there"
+        },
+        {
+          "location": "Paragraph 41",
+          "quote": "if the lot was $100"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq012-l032",
+      "kind": "show_project",
+      "summary": "Johnny invites2016 collecting/feed goals, emphasizing differences in process and variety even within small system libraries; no follower outcome is guaranteed.",
+      "topics": [
+        "community"
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 43",
+          "quote": "the process on how they do it"
+        },
+        {
+          "location": "Paragraph 44",
+          "quote": "the variety that they have"
+        }
+      ],
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    }
+  ],
+  "corrections": [
+    {
+      "id": "cq012-c01",
+      "category": "hardware_identity",
+      "original": "Questions blur GameBoyPocket and GameBoyColor.",
+      "current": "Kat confirms Pocket is black-and-white, with color referring to shell.",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 2",
+          "quote": "Gameboy color original Gameboy"
+        },
+        {
+          "location": "Paragraph 3",
+          "quote": "Gameboy pocket"
+        },
+        {
+          "location": "Paragraph 3",
+          "quote": "no color on this one"
+        }
+      ]
+    },
+    {
+      "id": "cq012-c02",
+      "category": "false_start",
+      "original": "Australian friend's collection initially called N64.",
+      "current": "Johnny immediately corrects to GameBoyPockets/Colors; almost-buy remains uncompleted.",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 4",
+          "quote": "N64 or not N64 these Game Boy pockets"
+        },
+        {
+          "location": "Paragraph 4",
+          "quote": "I almost bought all of them"
+        }
+      ]
+    },
+    {
+      "id": "cq012-c03",
+      "category": "planning_arithmetic",
+      "original": "Three per day/week slips in discussing about140 games over a year.",
+      "current": "Johnny corrects to one every three days/about2.33 weekly, not a new acquisition claim.",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 6",
+          "quote": "three a day sound or three a week"
+        },
+        {
+          "location": "Paragraph 6",
+          "quote": "one every three days"
+        },
+        {
+          "location": "Paragraph 6",
+          "quote": "2.33"
+        }
+      ]
+    },
+    {
+      "id": "cq012-c04",
+      "category": "favorite_qualification",
+      "original": "IV/II is called favorite while III is described as probably better overall.",
+      "current": "Personal favorite is not a claim of objective technical superiority; final tentative trio is twoFFs andChrono.",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 23",
+          "quote": "Not because I think it is the best RPG"
+        },
+        {
+          "location": "Paragraph 24",
+          "quote": "probably would be the two Final Fantasies and Chrono Trigger"
+        }
+      ]
+    },
+    {
+      "id": "cq012-c05",
+      "category": "annual_count",
+      "original": "Johnny initially thinks2014 had fewer purchases.",
+      "current": "Database lookup reports901 in2014 versus667 in2015; intuition is corrected, Kat's guesses not accepted.",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 38",
+          "quote": "667"
+        },
+        {
+          "location": "Paragraph 39",
+          "quote": "I just said, I thought I bought less games in 2014"
+        },
+        {
+          "location": "Paragraph 39",
+          "quote": "901"
+        }
+      ]
+    },
+    {
+      "id": "cq012-c06",
+      "category": "year_false_start",
+      "original": "Johnny briefly says2003.",
+      "current": "He immediately looks at2013, whose reported count is389.",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 40",
+          "quote": "what I did in 2003"
+        },
+        {
+          "location": "Paragraph 40",
+          "quote": "what I did in 2013"
+        },
+        {
+          "location": "Paragraph 40",
+          "quote": "389"
+        }
+      ]
+    },
+    {
+      "id": "cq012-c07",
+      "category": "tone_qualification",
+      "original": "Mock purpose is to berate others' game choices.",
+      "current": "He follows with a resolution to be more inclusive; do not enact the joke as show policy.",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named hosts and dialogue continuity, not audio verification."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 34",
+          "quote": "berate as many people"
+        },
+        {
+          "location": "Paragraph 34",
+          "quote": "Be more inclusive"
+        }
+      ]
+    }
+  ],
+  "topic_coverage": [
+    {
+      "topic": "2016_goals",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5",
+        "Paragraph 6",
+        "Paragraph 7",
+        "Paragraph 19",
+        "Paragraph 20",
+        "Paragraph 21",
+        "Paragraph 22",
+        "Paragraph 35",
+        "Paragraph 36",
+        "Paragraph 37",
+        "Paragraph 38",
+        "Paragraph 39",
+        "Paragraph 40"
+      ]
+    },
+    {
+      "topic": "photo_project",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "Paragraph 7",
+        "Paragraph 8",
+        "Paragraph 9",
+        "Paragraph 10",
+        "Paragraph 11",
+        "Paragraph 12",
+        "Paragraph 13",
+        "Paragraph 14",
+        "Paragraph 15",
+        "Paragraph 16",
+        "Paragraph 17",
+        "Paragraph 18"
+      ]
+    },
+    {
+      "topic": "favorite_scope",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "Paragraph 22",
+        "Paragraph 23",
+        "Paragraph 24",
+        "Paragraph 25",
+        "Paragraph 26",
+        "Paragraph 27",
+        "Paragraph 28",
+        "Paragraph 29",
+        "Paragraph 30",
+        "Paragraph 31",
+        "Paragraph 32",
+        "Paragraph 33"
+      ]
+    },
+    {
+      "topic": "purchase_accounting",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "Paragraph 35",
+        "Paragraph 36",
+        "Paragraph 38",
+        "Paragraph 39",
+        "Paragraph 40",
+        "Paragraph 41",
+        "Paragraph 42",
+        "Paragraph 43"
+      ]
+    },
+    {
+      "topic": "community",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "Paragraph 34",
+        "Paragraph 35",
+        "Paragraph 43",
+        "Paragraph 44"
+      ]
+    }
+  ],
+  "related_episodes": [],
+  "review_queue": [
+    {
+      "id": "cq012-v-title",
+      "priority": "medium",
+      "reason": "Raw VVVVVVV conflicts with spoken fiveVs; digitalDS/3DS wording uncertain. Do not infer exact physical edition availability.",
+      "evidence": [
+        {
+          "location": "Paragraph 15",
+          "quote": "VVVVVVV"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq012-brawl-platform",
+      "priority": "medium",
+      "reason": "Brawl is used in a WiiU-additions hypothetical; do not silently relabel it or verify platform history.",
+      "evidence": [
+        {
+          "location": "Paragraph 18",
+          "quote": "Thursday, Brawl"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq012-subject",
+      "priority": "medium",
+      "reason": "John is Kat's husband, not Johnny. Joint events use Kat plus co_subjects; reported poster owner differs from reporter.",
+      "evidence": [
+        {
+          "location": "Paragraph 22",
+          "quote": "John’s eyeing an earthbound"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq012-handheld-region",
+      "priority": "medium",
+      "reason": "Gold Pocket pack-in Europe/Australia and Johnny's hardware colors are tentative source claims.",
+      "evidence": [
+        {
+          "location": "Paragraph 4",
+          "quote": "Europe or Australia I believe I’m not sure"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq012-np-source",
+      "priority": "medium",
+      "reason": "Published top285 list, panel size and publication history are reported, not inspected external sources; rankings are not adopted as fact.",
+      "evidence": [
+        {
+          "location": "Paragraph 17",
+          "quote": "Might be blending that with the top 100"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq012-titles",
+      "priority": "medium",
+      "reason": "BaseballSimulator1000 SNES title, unnamed prior favorite and unnamed GameGear games unresolved.",
+      "evidence": [
+        {
+          "location": "Paragraph 20",
+          "quote": "Baseball Simulator 1000"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq012-relation",
+      "priority": "medium",
+      "reason": "SoulBlazer/Terranigma connection explicitly uncertain; no externally verified chronology.",
+      "evidence": [
+        {
+          "location": "Paragraph 26",
+          "quote": "maybe it’s Soul Blazer"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq012-numbers",
+      "priority": "medium",
+      "reason": "All annual counts, prices, dates and game totals are self-reported; lot allocations not market values; overlapping aggregates not summed.",
+      "evidence": [
+        {
+          "location": "Paragraph 41",
+          "quote": "divide the cost over those 30 games equally"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq012-plans",
+      "priority": "medium",
+      "reason": "Photo project, purchases, shelving and under365 target are future/open, not completed events.",
+      "evidence": [
+        {
+          "location": "Paragraph 40",
+          "quote": "under 365"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq012-favorite-scope",
+      "priority": "medium",
+      "reason": "Personal favorites evolve, broad Zelda answer is a conversational shortcut; no immutable all-time favorite asserted.",
+      "evidence": [
+        {
+          "location": "Paragraph 31",
+          "quote": "default to something like Zelda"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    }
+  ],
+  "non_video_game_items": [
+    {
+      "item": "Game Boy Pocket shells/boxes",
+      "type": "hardware",
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "Game Boy pocket"
+        }
+      ],
+      "note": "Colors/regions and receipt/wants, not game titles."
+    },
+    {
+      "item": "Nintendo Power issues",
+      "type": "publication",
+      "evidence": [
+        {
+          "location": "Paragraph 7",
+          "quote": "Nintendo power issue 285"
+        }
+      ],
+      "note": "Magazine collection/project, not285newgamepurchases."
+    },
+    {
+      "item": "EarthBound poster",
+      "type": "poster",
+      "evidence": [
+        {
+          "location": "Paragraph 22",
+          "quote": "giant earthbound poster"
+        }
+      ],
+      "note": "Poster not game ownership."
+    },
+    {
+      "item": "Home Alone",
+      "type": "film",
+      "evidence": [
+        {
+          "location": "Paragraph 30",
+          "quote": "Home Alone"
+        }
+      ],
+      "note": "Movie analogy, not a game mention."
+    },
+    {
+      "item": "Custom shelving",
+      "type": "furniture",
+      "evidence": [
+        {
+          "location": "Paragraph 37",
+          "quote": "custom shelf route"
+        }
+      ],
+      "note": "Plan versus existing NES shelf distinct."
+    },
+    {
+      "item": "Excel/database worksheet",
+      "type": "software_tool",
+      "evidence": [
+        {
+          "location": "Paragraph 9",
+          "quote": "a table in Excel"
+        }
+      ],
+      "note": "Process evidence, not a game."
+    }
+  ],
+  "unidentified_acquisitions": [
+    {
+      "description": "Annual totals and recent Wii bulk acquisitions lack per-game enumeration and may overlap each other; never sum as disjoint events.",
+      "evidence": [
+        {
+          "location": "Paragraph 38",
+          "quote": "667"
+        },
+        {
+          "location": "Paragraph 39",
+          "quote": "901"
+        },
+        {
+          "location": "Paragraph 40",
+          "quote": "389"
+        },
+        {
+          "location": "Paragraph 43",
+          "quote": "averaged $2.25 a Wii game"
+        }
+      ]
+    }
+  ],
+  "exclusions": [
+    "Kat/Johnny hosts; husband John not Johnny, Tyler absent.",
+    "Hardware colors, magazines, posters, shelves and Home Alone film are not games.",
+    "Collecting goals and intended repurchases are not fulfilled acquisitions.",
+    "NintendoPower285 list is reported; not externally researched or adopted as objective best list.",
+    "Buying count differs from money spent; equal lot allocations are not standalone market prices."
+  ]
+}

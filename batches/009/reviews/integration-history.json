@@ -1,0 +1,53 @@
+{
+  "schema_version": "1",
+  "events": [
+    {
+      "stage": "acceptance_metadata_rebuild",
+      "defect": "Changing manifest entry status conflicted with CQ82 copied source.status and blocked rebuild; old database correctly rejected as stale.",
+      "repair": "Preserved extracted_draft entry/source metadata; recorded accepted review separately in collection status and episode ledger. Rebuild and all002–009 gates then passed."
+    },
+    {
+      "stage": "initial_actual_retrieval",
+      "passed": 28,
+      "total": 31,
+      "missing": {
+        "batch009-cq015-openloops": [
+          "Paragraph 10"
+        ],
+        "cq208-gift-timing": [
+          "01:14:16",
+          "01:15:23"
+        ],
+        "cq208-hardware-limits": [
+          "01:28:05",
+          "01:29:11",
+          "01:30:12",
+          "01:31:13"
+        ]
+      }
+    },
+    {
+      "stage": "query_repair",
+      "result": "31/31",
+      "change": "Three compact semantic/raw-caption queries; no answer claims or required evidence removed."
+    },
+    {
+      "stage": "frozen_sample_first_comparison",
+      "passed": 6,
+      "total": 6,
+      "windows": 9,
+      "no_title_windows": 6,
+      "limits": "Small source-first game/product sample, not archive-wide recall."
+    },
+    {
+      "stage": "source_repairs",
+      "change": "CQ82 unresolved oldstock added during extractor review; CQ15 peer summary sealed-object ambiguity restored; CQ208 Stardew passing return added, Doom/Lizard/Hollow Knight short tails downgraded."
+    },
+    {
+      "stage": "new_regression_first_run",
+      "passed": 128,
+      "total": 129,
+      "defect": "Test expected Steve but canonical participant correctly Steve Torres. Test corrected, not source changed."
+    }
+  ]
+}

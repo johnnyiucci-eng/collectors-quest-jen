@@ -1,0 +1,287 @@
+{
+  "schema_version": "1",
+  "status": "frozen_before_extraction_record_comparison",
+  "frozen_utc": "2026-09-13 18:21:06 UTC",
+  "selection_rule": "Zero-based floor(N/4), floor(N/2), floor(3N/4); each primary and immediate neighbors read before any extraction comparison.",
+  "reference_scope": "Specific named games, series, editions/compilations and named media/story references. Generic hardware/platforms, unnamed game collections and ordinary objects excluded from this bounded title-reference sample; full episode review must still account for them.",
+  "limits": "Source-first local sample, not statistical recall or audio verification. CQ217 is supplied public AMA only; personal recollections and invented stories are not externally verified biography.",
+  "windows": [
+    {
+      "batch": "018",
+      "episode": 24,
+      "source_key": "sc-253740969",
+      "source_window_count": 29,
+      "index": 7,
+      "location": "Paragraph 8",
+      "text": "\ndon’t want it to but I don’t know if I have any more left to collect in this fashion to collect sets. I love games and I love to explore systems and I love to play games but you know Super is it’s pretty personal so I don’t know if I don’t know if that exists inside of me to be like okay I’m going to keep going. I have the game gear collection that I’m kind of close on but I’ve been close on that for several years. I’m like 50 carts away I decided a long time ago I’m just going to do the carts even though I have like 70 boxes. Like none of this is too hard to get this is what I’m going to do this is my focus. I’ll just pick up these kind of on the side but I haven’t really it hasn’t it hasn’t grabbed me and yes I know I’m not really a portable guy so that’s kind of part of it. But I don’t know what to do like I’m also kind of collecting the Wii. I don’t know if I don’t know if I have the motivation to complete 1200 Wii games. Right now it’s fun and amusing because it’s like watching bad movies but I don’t know if\n\n",
+      "references": []
+    },
+    {
+      "batch": "018",
+      "episode": 24,
+      "source_key": "sc-253740969",
+      "source_window_count": 29,
+      "index": 14,
+      "location": "Paragraph 15",
+      "text": "\nother things. But, you know, it’s not going to be long and those sets are going to be finished. And then, you know, beyond a curated Game Boy collection, I have no idea where to go. I mean, I finished off the 32X. It’s not a big library that seems doable. That could be a logical place to go. I think that’s where new forms of motivation come in. And I’m curious what other people have to say about it. What are the forces that are motivating them and keeping them in gaming? For me, when I hit like these kind of points in between sets, one, I always kind of had the Super Nintendo as a, as the big, the engine kind of pulling me along slowly but surely. But as it had me buying games, I was also falling in love with other systems like, oh man, this system would be awesome to click for. I want to know about it. So it’ll take that point for you. You’ll have to hit that one game that makes you go or that like one lot of games where you’re like, I need to know more about this. Or now I have a critical mass of games. Maybe I do want to go for a set for this or redirect\n\n",
+      "references": []
+    },
+    {
+      "batch": "018",
+      "episode": 24,
+      "source_key": "sc-253740969",
+      "source_window_count": 29,
+      "index": 21,
+      "location": "Paragraph 22",
+      "text": "\nthe boxes are the same. Yeah, well, that’s what I was assuming, but I was just curious just in case you’ve broken up some different way. I’m an alphabetical person. Well, all of my stuff by publisher is also alphabetical. I’m not a madman. Okay, well, that’s good. There is some organization. Of course, there’s an organization. Some organization. You have a list for everything. My organization is superior to most organization. All of you plebs out there with your alphabets. That’s all you did. You alphabetized it. Oh, congratulations. Bravo. I’m fine with my alphabetization. Thank you. Yes, it’s very alphabetized. Thank you. It’s good enough for me, though I do have very draw. Yeah, well, you can come look at my like three NES games that are definitely not the right spots right now. No, I’ve got stuff all over right now. Not my favorite. No, well, it has to happen that way sometimes. Anyways, I think we kind of strayed away from motivation, but we would like to hear about it from you. So please go ahead and comment in mine or Cat’s Thread and tell us what you think. Probably Cat’s Thread. It’s a more interesting thread. I understand that. So let her know and then I’ll read and comment also. So tell us there and\n\n",
+      "references": []
+    },
+    {
+      "batch": "018",
+      "episode": 91,
+      "source_key": "sc-431931915",
+      "source_window_count": 74,
+      "index": 18,
+      "location": "Paragraph 19",
+      "text": "\nabout pro wrestling in terms of what collectability it has. It’s a Blackbox game and that’s exciting. - That is exciting. - It’s like a rev-a variants, I don’t know. - Yeah, well, if you collect Blackbox games, it’s got like the full suite of variants you can collect for Blackbox games. You know, you like a hang tab or don’t like a hang tab. Actually, I don’t know. I mean, they all had a hang tab at one point, right? - I don’t know. I don’t collect boxes. I’m sorry, Johnny, this stuff doesn’t interest me as much. - I don’t care about Blackbox variants. But yeah, there’s lots of variants for Blackbox. If you wanna go down that rabbit hole, please proceed with caution. It is a Blackbox game. That’s the most important thing to know about it. It’s not that expensive, but you know, all the Blackbox games, if you’re looking for them complete are getting a little bit spendy now. And yeah, it was a fun game. It was worth playing. - I like it because I think it’s the one wrestling game that even collectors who like or like wrestling, whatever, like they probably have to buy it because everyone wants the Blackbox games. So like you’re gonna ignore Smackdown vs. Raw 2011. That’s like\n\n",
+      "references": [
+        {
+          "id": "cq91-sample-18-1",
+          "title": "Pro Wrestling NES",
+          "quote": "pro wrestling",
+          "reviewed_game_ids": [
+            "cq091-g025"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq91-sample-18-2",
+          "title": "WWE SmackDown vs. Raw 2011",
+          "quote": "Smackdown vs. Raw 2011",
+          "reviewed_game_ids": [
+            "cq091-g034"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "018",
+      "episode": 91,
+      "source_key": "sc-431931915",
+      "source_window_count": 74,
+      "index": 37,
+      "location": "Paragraph 38",
+      "text": "\nsync. Well, I mean, no, I wanted to go back to that because what I wanted to say is there’s like 10 wrestling games on the N64, which is a relatively small library. So that has to be indicative of what the era was like and how good wrestling games were doing on that system. That for something that had less than 300 games, that 10 of them are wrestling games. So just think about that. I mean, just to let you know how popular was wrestling what was like in that moment in time. Yeah, that was it. No, that can’t use that analogy because what like 5% of the Wii U library is just dance games and that’s not a testament to just dance’s popularity. That’s just a testament to how much the Wii U sucks. But oh my God, dude, captain corner case again. Are you really gonna corner case this nonsense again? Well, dance, dance revolution has five and the three. No, time works. It’s because the N64 has no games. No, but the fact that 10 of them, 10 of them are wrestling games because that’s what the appetite was like. It’s that, you know, no one had a big appetite for all the just dance games. Yes, there’s clearly some, but they sell and\n\n",
+      "references": [
+        {
+          "id": "cq91-sample-37-1",
+          "title": "Just Dance series",
+          "quote": "just dance games",
+          "reviewed_game_ids": [
+            "cq091-g012"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq91-sample-37-2",
+          "title": "Dance Dance Revolution series",
+          "quote": "dance, dance revolution",
+          "reviewed_game_ids": [
+            "cq091-g013"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "018",
+      "episode": 91,
+      "source_key": "sc-431931915",
+      "source_window_count": 74,
+      "index": 55,
+      "location": "Paragraph 56",
+      "text": "\nlike a classic, like the Nintendo mini, Nintendo classic. It doesn’t sound like they’re doing it, it sounds like At Games is doing it. Oh, you mean the company that already did one of those? I think they’ve done multiple and no one has liked any of them. Okay, so did this announcement contain two things that have already been done recently? Wait, what was the first part? Was the first part Shenmue? Well, the Shenmue, the Shenmue is like, they already did one and two before and they had already talked about remasters or upscales. So this is just a port, so these are nothing exciting. And now just a thing that they’ve already done, a Sega classic, but it’s gonna be smaller. Wait, no, they’ve also announced some new things, Johnny. Sega is still a company doing new things. Why, what? They’ve got the Sega Genesis collection coming to the Xbox One and PlayStation 4. But that was announced back in March. Well, you know, that’s still recent. And wasn’t that on the PS3 and the Xbox 360 and also the PS2? And I mean the Sega Genesis as well, yeah. If you wanna go that far back. All right, no, but I mean specifically the Genesis collection, which is a fantastic collection to own, recommended highly on\n\n",
+      "references": [
+        {
+          "id": "cq91-sample-55-1",
+          "title": "Shenmue I port discussion",
+          "quote": "Shenmue",
+          "reviewed_game_ids": [
+            "cq091-g095"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq91-sample-55-2",
+          "title": "Shenmue II port discussion",
+          "quote": "one and two",
+          "reviewed_game_ids": [
+            "cq091-g096"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq91-sample-55-3",
+          "title": "Sega Genesis compilation Xbox One/PS4",
+          "quote": "Sega Genesis collection",
+          "reviewed_game_ids": [
+            "cq091-g098"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq91-sample-55-4",
+          "title": "Earlier PS3/Xbox360 Genesis compilation",
+          "quote": "PS3 and the Xbox 360",
+          "reviewed_game_ids": [
+            "cq091-g134"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq91-sample-55-5",
+          "title": "Earlier PS2 Genesis compilation; exact product unresolved",
+          "quote": "PS2",
+          "reviewed_game_ids": [
+            "cq091-g135"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "018",
+      "episode": 217,
+      "source_key": "sc-1463967268",
+      "source_window_count": 46,
+      "index": 11,
+      "location": "00:11:35",
+      "text": "\nwe're keeping it um on the nest and then Final Fantasy 2 oh man I maybe it's Dragon Warrior 4 that's hard why are all these hard qu uh Chrono Trigger o and on the PlayStation one I forgot like maybe Chrono cross is up there I love Chrono cross really underrated um yeah like I I'm pretty basic I really like Earthbound too but not like it feels cringey to say it because everyone's like Earthbound um yeah now let's go with Final Fantasy Dragon Warrior 4 yeah I'm going to switch it up to Dragon Warrior 4 and then we're going to go Final Fantasy 2 Final Fantasy 5 and Chrono Trigger that that there we go so um if you don't know I don't like pigs and primates if you're listening to the show and paying attention long enough you figure this out so uh daddy Mulk asked me does this make uh amadar my most hated game of all time as it features these both prominently and I confess I don't know what this game is so um I yeah I I can't answer you there but uh it sounds like\n\n",
+      "references": [
+        {
+          "id": "cq217-sample-11-1",
+          "title": "Final Fantasy II, regional numbering not resolved by sample",
+          "quote": "Final Fantasy 2",
+          "reviewed_game_ids": [
+            "cq217-g008"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq217-sample-11-2",
+          "title": "Dragon Warrior IV replaces earlier candidate",
+          "quote": "Dragon Warrior 4",
+          "reviewed_game_ids": [
+            "cq217-g009"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq217-sample-11-3",
+          "title": "Chrono Trigger",
+          "quote": "Chrono Trigger",
+          "reviewed_game_ids": [
+            "cq217-g010"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq217-sample-11-4",
+          "title": "Chrono Cross considered",
+          "quote": "Chrono cross",
+          "reviewed_game_ids": [
+            "cq217-g011"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq217-sample-11-5",
+          "title": "EarthBound considered",
+          "quote": "Earthbound",
+          "reviewed_game_ids": [
+            "cq217-g012"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq217-sample-11-6",
+          "title": "Final Fantasy",
+          "quote": "Final Fantasy",
+          "reviewed_game_ids": [
+            "cq217-g006"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq217-sample-11-7",
+          "title": "Final Fantasy V",
+          "quote": "Final Fantasy 5",
+          "reviewed_game_ids": [
+            "cq217-g013"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq217-sample-11-8",
+          "title": "Unfamiliar raw amadar game; tentative Amidar",
+          "quote": "amadar",
+          "reviewed_game_ids": [
+            "cq217-g014"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "018",
+      "episode": 217,
+      "source_key": "sc-1463967268",
+      "source_window_count": 46,
+      "index": 23,
+      "location": "00:24:17",
+      "text": "\nthought were going to change even more and different stuff changed so you know it's just like what kind of games where do they go how can I do it and then you know not being precious about things and I've I've never been someone who's like oh let me put this in my safe I'm not I'm not that kind of collector like letting how do how do I educate my son coming into my office how do I teach him to be respectful of things but not be like No don't touch this and and be one of these people who freaks out um like I want him to be invested and I want him to be interested with me because this is something I definitely hope that he is into and that we can do together and if not like at least just playing the games um so what game do I really hope to play with him yeah it's Final Fantasy and zela it's like all the basic ones I I really it's like when you you have a friend who's never seen like one of your favorite movies and you want to just show them them that except this is all the games I love I get to sit here and do this and then like I'm I'm actually most excited to play whatever game that he finds out that he fell in love with\n\n",
+      "references": [
+        {
+          "id": "cq217-sample-23-1",
+          "title": "Final Fantasy; installment scope unresolved here",
+          "quote": "Final Fantasy",
+          "reviewed_game_ids": [
+            "cq217-g052"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq217-sample-23-2",
+          "title": "Zelda; raw zela, installment unresolved",
+          "quote": "zela",
+          "reviewed_game_ids": [
+            "cq217-g053"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "018",
+      "episode": 217,
+      "source_key": "sc-1463967268",
+      "source_window_count": 46,
+      "index": 34,
+      "location": "00:35:58",
+      "text": "\nlet me tell you a story so I then start crafting a story about the man from Nantucket and I I go on to talk about how he was a football player he was a high school football player he did everything right he was Mr wholesome All American and you know this is during during the 1960s and he winds up you know getting out of football right as the same time as Vietnam is shaping up and it it happens like it happened to so many young men he gets drafted he gets pulled over to Vietnam and he is in he's in the soup and it's horror it's all horror for our poor hero the man from Nantucket he he sees the violence of men he sees the atrocity that are are happening he commits atrocities his head space is crowded with all of this horror that he had never seen before he was he was an High School quarterback he was Mr he was like Mr All-American blonde hair blue\n\n",
+      "references": [
+        {
+          "id": "cq217-sample-34-1",
+          "title": "Man from Nantucket invented story; not historical biography",
+          "quote": "man from Nantucket",
+          "reviewed_game_ids": [
+            "cq217-g044"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    }
+  ],
+  "comparison_note": "Root final identity comparison20/20: current XboxOne/PS4 compilation g098, earlier PS3/Xbox360 g134 and unresolved exact PS2 product g135 remain distinct. Initial18/20 misses preserved in initial-sample-comparison.json. Source text, selection, titles and quotes unchanged. Quiet CQ24 windows contain excluded generic set/hardware references, retained in full mapping. Runtime span-coverage check remains separate."
+}

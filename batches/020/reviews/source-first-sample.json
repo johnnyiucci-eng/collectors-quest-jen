@@ -1,0 +1,338 @@
+{
+  "schema_version": "1",
+  "status": "independently_compared",
+  "frozen_utc": "2026-09-14T16:45:35Z",
+  "selection_rule": "Zero-based floor(N/4),floor(N/2),floor(3N/4) plus three explicitly purposive dense/uncertain windows chosen after full source read before extraction comparison; report strata separately.",
+  "reference_scope": "Named game/franchise/edition references; exclude generic hardware, unnamed collection groups, publishers and websites. One unrevealed manual-reading game explicitly included as an uncertainty bucket.",
+  "limits": "Source-informed local sample, not random/statistical recall or audio verification.",
+  "windows": [
+    {
+      "batch": "020",
+      "episode": 25,
+      "source_key": "sc-257214294",
+      "source_window_count": 21,
+      "index": 5,
+      "location": "Paragraph 6",
+      "text": "\nCastlevania, Super Mario, Mega Man definitely float in and out of that. Okay. You know, good, good choices, but the core games are always usually include like Little Samson and things like that. All solid choices. All right. There’s nothing wrong with those. No, no, not at all. Classics for a reason. So my top five. Yeah. In no particular order, Dragon Warrior. Dragon Warrior 4, really. Four, probably three, two and one. So it probably goes in reverse order, though I know a lot of people kind of switch those around. If we’re just picking one another series, Dragon Warrior 4, I wanted to say Final Fantasy, but I’m, we’re skipping that. Rhaegar is one of my favorites. I love that game. The arcade Rhaegar, I hate, hate that game. And whatever they did to the port to bring it to the Nintendo, they made it amazing. It’s great. Love it. Crystallis, if you’ve never played that game, I feel like that game goes under the radar quite a bit. And it’s just always been one of my favorites. It’s usually in my top 10. It doesn’t crack the top five just because it’s so hard to get into the top five. It may not even quite make the top 10, but I mean, that’s a hard list to\n\n",
+      "stratum": "quarter_positions",
+      "references": [
+        {
+          "id": "cq25-sample-5-1",
+          "title": "Castlevania",
+          "quote": "Castlevania",
+          "reviewed_game_ids": [
+            "cq025-g015"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq25-sample-5-2",
+          "title": "Super Mario",
+          "quote": "Super Mario",
+          "reviewed_game_ids": [
+            "cq025-g003"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq25-sample-5-3",
+          "title": "Mega Man",
+          "quote": "Mega Man",
+          "reviewed_game_ids": [
+            "cq025-g016"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq25-sample-5-4",
+          "title": "Little Samson",
+          "quote": "Little Samson",
+          "reviewed_game_ids": [
+            "cq025-g012"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq25-sample-5-5",
+          "title": "Dragon Warrior family",
+          "quote": "Dragon Warrior",
+          "reviewed_game_ids": [
+            "cq025-g017"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq25-sample-5-6",
+          "title": "Dragon Warrior IV",
+          "quote": "Dragon Warrior 4",
+          "reviewed_game_ids": [
+            "cq025-g018"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq25-sample-5-7",
+          "title": "Dragon Warrior III",
+          "quote": "three",
+          "reviewed_game_ids": [
+            "cq025-g019"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq25-sample-5-8",
+          "title": "Dragon Warrior II",
+          "quote": "two",
+          "reviewed_game_ids": [
+            "cq025-g020"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq25-sample-5-9",
+          "title": "Dragon Warrior I",
+          "quote": "one",
+          "reviewed_game_ids": [
+            "cq025-g021"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq25-sample-5-10",
+          "title": "Final Fantasy",
+          "quote": "Final Fantasy",
+          "reviewed_game_ids": [
+            "cq025-g007"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq25-sample-5-11",
+          "title": "Rygar NES",
+          "quote": "Rhaegar",
+          "reviewed_game_ids": [
+            "cq025-g022"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq25-sample-5-12",
+          "title": "Rygar arcade",
+          "quote": "arcade Rhaegar",
+          "reviewed_game_ids": [
+            "cq025-g023"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq25-sample-5-13",
+          "title": "Crystalis",
+          "quote": "Crystallis",
+          "reviewed_game_ids": [
+            "cq025-g024"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "020",
+      "episode": 25,
+      "source_key": "sc-257214294",
+      "source_window_count": 21,
+      "index": 10,
+      "location": "Paragraph 11",
+      "text": "\nI don’t want to do that. I just want to play the freaking game. If I screw it up, let me screw it up. I’ll pay the consequences later. It lets you. It’s a game where your choices actually matter and all of your con- that’s the best part about it. All of your consequences matter. Okay, so then you just teleport yourself here. Get me through the first ten minutes of rewinding crap and then get me on to the point that I want to play it. You have a husband for that. Make him do it. I know. I’m gonna have to because I literally, I can’t do it. You tell him that he’s got to. Because I feel like if he doesn’t, I’m not gonna hear the end of it. Yeah, like we’ll play a game, Kat. What’s more annoying? Me bothering you about this? Or you actually sitting down for ten minutes and getting past this point? Okay, so once I get past this point, there is no more of this freaking rewinding. No, you can rewind, but you don’t have to. Okay, good because I don’t want to rewind. It’s like in one of those books where you’re like, you can choose this, this, or this. I don’t want to choose. Just let me get\n\n",
+      "stratum": "quarter_positions",
+      "references": []
+    },
+    {
+      "batch": "020",
+      "episode": 25,
+      "source_key": "sc-257214294",
+      "source_window_count": 21,
+      "index": 15,
+      "location": "Paragraph 16",
+      "text": "\nquest buttons, of course. Yes. Those are always good things. So yes, it was probably the best mail day and it made for quite a nice picture. I didn’t quite get everything in the picture, but I got a good section of what came. So if you’re interested in everything that was in the box or almost everything that was in the box that Johnny set up, you can go check out my Instagram because I have it all on there. That’s right. Take care of my friends. Yes, everybody’s heard about it. I’ve told everybody who would listen to me. Yep, did a good job patting myself on the back and now we’ll move on because I can’t hear about myself for too long. Okay. It’s too weird. I have also gotten a few games. I put up a list on Instagram not so long ago. I don’t know. Like a week ago, just like what I still need from Super Nintendo and community came through for me. It was really cool. Like a video game booths corner. Oh, awesome. I think I’m saying his name wrong, I think. But he sent me like five Super Nintendo cards. Not for free. We traded. I traded him a couple of Complete and Box or mostly Complete and Box Nintendo games.\n\n",
+      "stratum": "quarter_positions",
+      "references": []
+    },
+    {
+      "batch": "020",
+      "episode": 26,
+      "source_key": "sc-258414918",
+      "source_window_count": 26,
+      "index": 6,
+      "location": "Paragraph 7",
+      "text": "\nwith the Sega Master System, like all in one complete box, but there is an individual box that you can buy just the glasses. So careful if you buy those, and sure you check out the arms because they break off just an unfortunate reality. Yeah, that’s a very good point. It seems to be harder to come by a set that are in good condition and all there. Yeah. One cool thing about the Master System and much like the Genesis, they started early with the idea of the clamshell box, which, as far as protection for your games, it’s the best, right? The plastic clamshells you didn’t have to worry about. The box, one, it made you keep the box. Two, you didn’t have to worry about the box being destroyed. Yes. You knew where your manual was going to be kind of easier to get out. I do wish with both the Master System and the Genesis games that they kind of made the housing to keep the manual in a little bit better, because I feel like it sometimes slides down into where you fold, so sometimes you’ll get a bend there. But that’s pretty picky. Overall, the boxes were great and that started with the Master System. And they certainly do, like you said, because\n\n",
+      "stratum": "quarter_positions",
+      "references": []
+    },
+    {
+      "batch": "020",
+      "episode": 26,
+      "source_key": "sc-258414918",
+      "source_window_count": 26,
+      "index": 13,
+      "location": "Paragraph 14",
+      "text": "\nlooked at it. I’ve taken a picture of it. No UPC. So, you know, I don’t know if that means some of them were distributed without. Again, I’m not going to go into who’s right, who’s wrong. Just know that if you want to set, some people are going to tell you you got to have the UPC stickers or it’s not the US release even though if you went into the hardware it would be exactly the same. You’re also going to pay more. UPC sticker means more. More money. Especially with Sonic. And that’s as far as I’m willing to go into that debate. Again, I don’t care about them. If you want them, great. If I found a Sonic UPC sticker for a cheap price, I’d buy it. Yes. And I wouldn’t go around, you know, bullying people. Yeah, it doesn’t matter. You know, you wouldn’t be like, \"No, you don’t have a complete set because you don’t have X, Y, and Z.\" Right. That’s good. But it is, you’re right. Some people feel like they have to have it in order for it to be complete. And personally, it makes no difference to me in my own collection, but that’s just me. Right. But do whatever you want. You do you, I’ll do me, and we’ll\n\n",
+      "stratum": "quarter_positions",
+      "references": [
+        {
+          "id": "cq26-sample-13-1",
+          "title": "Sonic UPC edition",
+          "quote": "Sonic UPC sticker",
+          "reviewed_game_ids": [
+            "cq026-g004"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "020",
+      "episode": 26,
+      "source_key": "sc-258414918",
+      "source_window_count": 26,
+      "index": 19,
+      "location": "Paragraph 20",
+      "text": "\ndidn’t get here. But those are two sites I would recommend checking out for sure. We should also say anything. You got the Power Converter. Oh, yes. Yeah. Let’s not forget about the Power Converter. Okay. Power Converter, number one best way to play your Master System games. Why? Here’s why. It plugs right into your Genesis. That condenses the amount of consoles that you’ll need. It’s a pass-through, so it’s not like an emulator, so it’s 100% legit hardware, plays the games perfectly. Also, you get to use the Sega, the Genesis controller, which is a lot better than the Master System controller because the Master System controller had kind of a weak D-pad. It looks very much like the Nest pad, and except it’s got this weird, I don’t even know, kind of mushy D-pad thing instead of just a traditional D-pad, which is kind of awful, and it also breaks. So now you just get to use an Ice Genesis controller. Three or six buttons, your choice. Which is a much nicer way because if you are used to an NES controller, you are going to be very disappointed with the Master System one. Right. That is correct. No, I was going to say, I think that’s the last big point of the overall basics of the\n\n",
+      "stratum": "quarter_positions",
+      "references": []
+    },
+    {
+      "batch": "020",
+      "episode": 25,
+      "source_key": "sc-257214294",
+      "source_window_count": 21,
+      "index": 14,
+      "location": "Paragraph 15",
+      "text": "\nwas really surprised to see that in there. Obviously, the complete diacatana. Yep. Awesome addition. Whole whole whole bunch of boxes, which was really great, which is getting me much closer to having a complete n64 set, at least boxes and carts, Mega Man soccer box. Obviously, that’s amazing, along with the Lufia two box. The manual was in there too, right? Yes, it was. It’s not a great manual, but it’s a manual. It is a heavy box for not having cart in it. Yeah, it got a little bit weighty. Yeah, it was surprised. John was like, there’s a cart in it. I was like, no, no, dear, there’s not a cart in it. How big does a manual need to be? I don’t know. I guess big enough. Well, I don’t even actually think it requires a manual because no one’s playing that game. So no, but it’s still nice to have the manual because it’s something I probably wouldn’t have come across. So it’s nice to have that. And then of course, you know, a couple of 32x games hiding in there and a master system game, which is amazing, but all in all, definitely the best mail day there could be, and a few little animated vegetables. Nice. Good ones. And buttons. Yes, and collector’s\n\n",
+      "stratum": "purposive_dense",
+      "references": [
+        {
+          "id": "cq25-sample-14-1",
+          "title": "Daikatana complete copy",
+          "quote": "complete diacatana",
+          "reviewed_game_ids": [
+            "cq025-g039"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq25-sample-14-2",
+          "title": "Mega Man Soccer box",
+          "quote": "Mega Man soccer box",
+          "reviewed_game_ids": [
+            "cq025-g041"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq25-sample-14-3",
+          "title": "Lufia II box and manual, no cart",
+          "quote": "Lufia two box",
+          "reviewed_game_ids": [
+            "cq025-g042",
+            "cq025-g043"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "020",
+      "episode": 26,
+      "source_key": "sc-258414918",
+      "source_window_count": 26,
+      "index": 15,
+      "location": "Paragraph 16",
+      "text": "\nyou’re willing to pay. You’re right. Sometimes those are a little bit harder to track down. Right. Even if you have the money, sometimes it’s just not available. Yep. And anything else that’s kind of been on the rise for getting more expensive? Things like Alph and some of the Fantasy Stars, some of the RPGs, some of the, I think, Alex Kidd and Shinobi World, or maybe it’s the other one. I mean, in general, you see kind of a rise, but where you might also see some of the money spent is on like Power Striker, which is a male way, it has like a weird, it doesn’t have a color box. It’s like a weird blue and white printing box only. You’ve got Reggie Jackson baseball, which has a variant. It has a blue label. And with an orange, like it says sports in the corner, an orange or the red one. So that kind of variant will kind of creep up the price on certain games. And then you have the actual blue label games. And there’s a lot of blue label games in Europe and the rest of the world. But here in the United States, these were the re-releases used that traditional blue and white grid. And that kind of, some of those change\n\n",
+      "stratum": "purposive_dense",
+      "references": [
+        {
+          "id": "cq26-sample-15-1",
+          "title": "ALF candidate",
+          "quote": "Alph",
+          "reviewed_game_ids": [
+            "cq026-g034"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq26-sample-15-2",
+          "title": "Phantasy Star scope uncertain",
+          "quote": "Fantasy Stars",
+          "reviewed_game_ids": [
+            "cq026-g035"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq26-sample-15-3",
+          "title": "Alex Kidd in Shinobi World tentative",
+          "quote": "Alex Kidd and Shinobi World",
+          "reviewed_game_ids": [
+            "cq026-g036"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq26-sample-15-4",
+          "title": "Power Strike",
+          "quote": "Power Striker",
+          "reviewed_game_ids": [
+            "cq026-g020"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq26-sample-15-5",
+          "title": "Reggie Jackson Baseball variant",
+          "quote": "Reggie Jackson baseball",
+          "reviewed_game_ids": [
+            "cq026-g037"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "020",
+      "episode": 26,
+      "source_key": "sc-258414918",
+      "source_window_count": 26,
+      "index": 23,
+      "location": "Paragraph 24",
+      "text": "\nmight just have a little crappy insert. But they went back and they used to have to tell you story, and it just gets a little bit weird. So I’m going to go with one I think is easy. I’m going to read the little story portion of the manual. You guys try and guess it in the thread on Instagram and let us know if you got it. And we’ll also put a reminder up about that. So here we go. Sipping cold lemonade with a couple of native lovelies. Mad Dog and Scorpion. Gorilla Warriors extraordinaire. Relax on a Rio beach and boast how they destroyed the vile alien warmonger Red Falcon. Little do they know that Red Falcon didn’t flee with his pointed tail between his legs. Instead, he tactically retreated to round up roughians of the universe. Friends from all walks of war to mount a second assault on the planet Earth. One of these new recruits is Jager Freud, a demented alien from the black hole galaxy who dishes out punishment with a laser sharp tongue. Red Falcon has also shuttled in the Babalu Bestructoid mechanism, a giant alien attack tank, which was the primary weapon used to disintegrate the innocent solar system of Tralalala. Seriously, Tralalala. But the genius behind the Red Falcons Earth\n\n",
+      "stratum": "purposive_uncertainty",
+      "references": [
+        {
+          "id": "cq26-sample-23-1",
+          "title": "Unrevealed manual-reading game",
+          "quote": "Mad Dog and Scorpion",
+          "reviewed_game_ids": [
+            "cq026-g065"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    }
+  ],
+  "comparison": {
+    "reviewer": "root",
+    "initial_found": 23,
+    "total": 23,
+    "final_found": 23,
+    "quarter_positions": {
+      "found": 14,
+      "total": 14
+    },
+    "purposive": {
+      "found": 9,
+      "total": 9
+    },
+    "quiet_windows": 4,
+    "notes": "Frozen scope unchanged; all 23 represented on first root comparison. Full 123-reference inventory and all 216 spans separately reviewed. Does not erase extractor CQ25 initial LEGO non-game omission or imply statistical recall."
+  }
+}

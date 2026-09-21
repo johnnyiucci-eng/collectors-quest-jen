@@ -1,0 +1,421 @@
+{
+  "schema_version": "1",
+  "review_scope": "Coordinator adjudicated all22 complete answers against supplied full source context; CQ9/CQ76 read in full, CQ202 all required answer windows and surrounding platform context read. Same-team development review, not externally blind.",
+  "cases": [
+    {
+      "id": "batch003-cq009-spotlight",
+      "episode": 9,
+      "question": "Why did Kat recommend Kickle Cubicle, and did vegetables make her choose it?",
+      "query": "Kickle Cubicle animated vegetables puzzle",
+      "answer": "Kat recommends Kickle Cubicle as a different puzzle option, loosely reminiscent of Chip’s Challenge. She says it gets hard as it progresses and only discovered the animated vegetables after starting to play; the hosts then joke about giving it an A for animated vegetables. This is Kat's recommendation, not Tyler's.",
+      "evidence_locations": [
+        "Paragraph 3",
+        "Paragraph 5",
+        "Paragraph 7"
+      ],
+      "forbidden": [
+        "Tyler recommended it",
+        "She chose it knowing about vegetables",
+        "Current price verified"
+      ],
+      "status": "passed",
+      "reason": "Full CQ9 source reviewed: Kat's comparison, rising difficulty and discovery-after-play sequence support the answer; vegetable enthusiasm is not the initial buying motive."
+    },
+    {
+      "id": "batch003-cq009-remake",
+      "episode": 9,
+      "question": "What were Johnny's remake concerns, and had he already played it?",
+      "query": "Final Fantasy VII Remake episodes combat first episode",
+      "answer": "In this 2015 episode, Johnny dislikes the expected lack of turn-based combat, visual style and episodic structure. He nevertheless allows that it may be great and intends to play at least the first episode. This is a pre-release reaction and an open follow-up, not a purchase receipt or review of completed remake gameplay.",
+      "evidence_locations": [
+        "Paragraph 15",
+        "Paragraph 16",
+        "Paragraph 18"
+      ],
+      "forbidden": [
+        "Remake completed or purchased",
+        "Firm boycott",
+        "Part/price predictions confirmed"
+      ],
+      "status": "passed",
+      "reason": "Source is explicitly pre-release, with three dislikes and willingness to try first episode; no boycott, completed play or purchase inferred."
+    },
+    {
+      "id": "batch003-cq009-numbering",
+      "episode": 9,
+      "question": "How does the episode distinguish regional Final Fantasy numbers and After Years?",
+      "query": "Final Fantasy six three four two after years",
+      "answer": "Johnny explicitly pairs Japanese VI with US III on Super Nintendo, and IV with US II. He calls IV a favorite but says he hated playing its episodic extra additions associated with The After Years. Those aliases do not establish separate games for each number; the raw PSP/Wii U wording is not independently verified platform history.",
+      "evidence_locations": [
+        "Paragraph 9"
+      ],
+      "forbidden": [
+        "Regional labels are separate games in this passage",
+        "Platform history verified",
+        "New After Years purchase"
+      ],
+      "status": "passed",
+      "reason": "Regional numbers are paired in the source; IV preference is separate from After Years dislike, and uncertain platform wording is preserved."
+    },
+    {
+      "id": "batch003-cq009-actions",
+      "episode": 9,
+      "question": "What collection and play facts are supported for Johnny's Final Fantasy discussion?",
+      "query": "Final Fantasy five versions PlayStation most of 12 iPad",
+      "answer": "Johnny says original Final Fantasy VII motivated his PlayStation purchase and that he owns about five versions of VII. He reports getting through most of XII, not finishing it, and playing through IV on iPad. None of these statements establishes buying or receiving the upcoming VII remake.",
+      "evidence_locations": [
+        "Paragraph 8",
+        "Paragraph 10",
+        "Paragraph 17",
+        "Paragraph 18"
+      ],
+      "forbidden": [
+        "Five editions enumerated",
+        "XII completed",
+        "Remake purchased"
+      ],
+      "status": "passed",
+      "reason": "Source distinguishes original VII hardware motivation/ownership from most-of-XII and iPad IV play; remake intention remains separate."
+    },
+    {
+      "id": "batch003-cq009-puzzle",
+      "episode": 9,
+      "question": "What was Johnny's Dr. Mario problem, and whose Dr. Luigi was mentioned?",
+      "query": "Dr. Mario left right Dr. Luigi wife",
+      "answer": "Johnny contextually explains that he reads Dr. Mario left-to-right instead of up-and-down, and says his wife and a friend sometimes make him play so they can laugh at his approach. The Dr. Luigi possession belongs to his wife, not to Johnny as a buyer. This is a playful personal report, not a diagnosis or purchase evidence.",
+      "evidence_locations": [
+        "Paragraph 4"
+      ],
+      "forbidden": [
+        "Johnny bought Dr. Luigi",
+        "Tyler's anecdote",
+        "Diagnosed condition"
+      ],
+      "status": "passed",
+      "reason": "Contextual Johnny attribution retained; wife's possession and friends' teasing are not a Johnny purchase or diagnosis."
+    },
+    {
+      "id": "batch003-cq009-limits",
+      "episode": 9,
+      "question": "Can the episode identify Kat's Harvest Moon edition and certify the spotlight's current price?",
+      "query": "Harvest Moon Kickle price hidden gems",
+      "answer": "No Harvest Moon installment, platform or price is supplied in the recent-find exchange. For Kickle Cubicle, Kat quotes a historical cartridge-only eBay range of $12–20 and says local prices can be lower. The hosts frame the spotlight as offering options, not hidden-gem hype or an attempt to raise prices; this does not certify a current market price.",
+      "evidence_locations": [
+        "Paragraph 21",
+        "Paragraph 2",
+        "Paragraph 20"
+      ],
+      "forbidden": [
+        "Specific Harvest Moon installment",
+        "Current verified valuation",
+        "Price manipulation goal"
+      ],
+      "status": "passed",
+      "reason": "Unresolved Harvest Moon find has no edition/price; Kickle historical cartridge quote and anti-hype spotlight frame are accurately qualified."
+    },
+    {
+      "id": "cq076-task-roster",
+      "episode": 76,
+      "question": "Who was hosting the family-friendly Halloween episode?",
+      "query": "Cat Johnny Tyler",
+      "answer": "Cat, Johnny and Tyler all participate. The opening's recognition text says “Pat,” but the dialogue immediately addresses Cat and the closing names all three. The family-friendly label describes the games being selected; the opening banter itself contains explicit language.",
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 4",
+        "Paragraph 41"
+      ],
+      "forbidden": [
+        "Pat is a fourth host",
+        "Cat absent",
+        "guaranteed clean audio"
+      ],
+      "status": "passed",
+      "reason": "All three speakers appear in opening/closing; raw Pat is contradicted in immediate context, and explicit-language warning is supported."
+    },
+    {
+      "id": "cq076-task-life-strange",
+      "episode": 76,
+      "question": "Did Cat love and finish Life Is Strange?",
+      "query": "Life Is Strange Cat finish",
+      "answer": "No. Cat says she played a little, said no when urged to finish, and did not finish. Johnny's alternate-universe/Mandela-effect insistence is a joke contradicting her account, not evidence of her approval. The earlier “Life is Strange, too” is an intention to play the first game, not the sequel title.",
+      "evidence_locations": [
+        "Paragraph 7",
+        "Paragraph 8"
+      ],
+      "forbidden": [
+        "Cat loved it",
+        "Cat completed it",
+        "Life Is Strange 2 named"
+      ],
+      "status": "passed",
+      "reason": "Kat's denial controls her opinion/play status; Johnny's alternate-universe joke is not a factual override and 'too' does not name a sequel."
+    },
+    {
+      "id": "cq076-task-costume",
+      "episode": 76,
+      "question": "Did everyone recommend Costume Quest?",
+      "query": "Costume Quest Tyler Johnny Psychonauts",
+      "answer": "No. Johnny calls Costume Quest one of his Halloween favorites, but Tyler dislikes it, says he played only a while without beating it, and prefers Psychonauts-style platforming to turn-based RPGs. The exchange is an explicit host disagreement, not a shared recommendation.",
+      "evidence_locations": [
+        "Paragraph 15",
+        "Paragraph 16"
+      ],
+      "forbidden": [
+        "unanimous recommendation",
+        "Tyler completed it"
+      ],
+      "status": "passed",
+      "reason": "Johnny's favorite and Tyler's unfinished/disliked play are opposite views; shared Psychonauts praise does not erase disagreement."
+    },
+    {
+      "id": "cq076-task-purchases",
+      "episode": 76,
+      "question": "What rare pickups did Tyler get, and what did Johnny lack?",
+      "query": "NIV Bible King James Daytona NetLink insert",
+      "answer": "Tyler reports getting NIV Bible and King James Bible on Game Boy, choosing a cartridge-only NIV copy rather than one of the costly sealed listings. He also got Daytona USA NetLink on Saturn with its small black-and-white insert. Tyler says Johnny does not have that insert; the transcript does not say Johnny lacks the whole game. The $1,500 example is an asking price for sealed copies, not Tyler's purchase price.",
+      "evidence_locations": [
+        "Paragraph 35",
+        "Paragraph 36"
+      ],
+      "forbidden": [
+        "Tyler paid 1500",
+        "Johnny has no Daytona",
+        "sealed NIV acquired"
+      ],
+      "status": "passed",
+      "reason": "Two Bible titles, loose NIV and NetLink insert are distinct; sealed asking price and Johnny's missing insert do not imply paid price or missing whole game."
+    },
+    {
+      "id": "cq076-task-correction",
+      "episode": 76,
+      "question": "Which Castlevania did Johnny return to least?",
+      "query": "Castlevania least returned Legacy",
+      "answer": "Johnny first says Castlevania III is the one he returns to least, then explicitly revises that when Tyler raises Castlevania 64: the N64 Castlevania and Legacy of Darkness become his least-returned choices. Tyler has just started Castlevania 64 and is having some fun despite its camera; that is not a completed-game verdict.",
+      "evidence_locations": [
+        "Paragraph 33",
+        "Paragraph 34",
+        "Paragraph 35"
+      ],
+      "forbidden": [
+        "III unqualified final answer",
+        "Tyler completed64"
+      ],
+      "status": "passed",
+      "reason": "Later explicit correction replaces III with64/Legacy; Tyler's early enjoyment despite camera is not completion."
+    },
+    {
+      "id": "cq076-task-scooby",
+      "episode": 76,
+      "question": "Are the SNES and Genesis Scooby-Doo Mystery verified as the same game here?",
+      "query": "Scooby-Doo Mystery Genesis Super Nintendo",
+      "answer": "Johnny says the two versions are basically the same and both made by Sunsoft, while the hosts contrast cheap SNES copies with more expensive Genesis ones. This is an episode claim, not independently checked catalog information, so the two platform editions remain separate records. The promised broader Scooby-Doo microcast is a future announcement in this source, not proof it was published.",
+      "evidence_locations": [
+        "Paragraph 17",
+        "Paragraph 18",
+        "Paragraph 40"
+      ],
+      "forbidden": [
+        "verified same game",
+        "current prices",
+        "microcast publication proven"
+      ],
+      "status": "passed",
+      "reason": "Host platform-equivalence claim remains externally unverified and editions separate; future microcast promise alone is not publication proof."
+    },
+    {
+      "id": "cq076-task-Bloodborne",
+      "episode": 76,
+      "question": "Did Johnny settle on Bloodborne for Halloween?",
+      "query": "Bloodborne Halloween choice grindy",
+      "answer": "Not in this episode. Johnny says Bloodborne is all right but he cannot fall in love with it and finds it somewhat grindy; he is still trying and has not chosen his Halloween game. This advances his earlier provisional impression without proving abandonment, completion, or a final recommendation.",
+      "evidence_locations": [
+        "Paragraph 38"
+      ],
+      "forbidden": [
+        "abandoned",
+        "finished",
+        "Halloween selected"
+      ],
+      "status": "passed",
+      "reason": "Still-trying Bloodborne impression and unresolved Halloween choice are supported; earlier impression is corroborated by reviewed CQ75 context, not completion."
+    },
+    {
+      "id": "cq202-dinosaur-bundle",
+      "episode": 202,
+      "query": "Was the Dinosaur Rescue souvenir bag an authenticated special edition?",
+      "answer": "No. They saw what looked like a sealed bag containing the Japanese GBA game, tour material and a small dinosaur toy, but wondered whether it was simply a bag somebody brought home from the exhibition. They also describe sticker/no-sticker boxes without proving print order. Treat the package as an interesting observed listing, not an authenticated official edition. (CQ202 00:19:16–00:22:26.)",
+      "evidence_locations": [
+        "00:16:07",
+        "00:17:11",
+        "00:19:16",
+        "00:20:17",
+        "00:21:23",
+        "00:22:26"
+      ],
+      "forbidden": [
+        "Official limited edition authenticated",
+        "All sticker copies are first print",
+        "Hosts bought the bag",
+        "Current price guaranteed"
+      ],
+      "status": "passed",
+      "reason": "Observed bag contents and uncertain exhibition provenance support the qualified answer; added16:07/17:11 now explicitly support Japanese GBA context."
+    },
+    {
+      "id": "cq202-gray-turok",
+      "episode": 202,
+      "query": "Can the gray shell or Canadian flag prove a fixed Turok Rage Wars copy is genuine?",
+      "answer": "No. The hosts describe gray replacements for the broken co-op mode, but could not find a consistent back imprint and warn that moving a label onto a gray shell could be easy. The Canadian flag point concerns the box, and Johnny does not know Canada's revision history. They do not provide a reliable authentication shortcut. (CQ202 00:23:30–00:25:34; 00:28:44–00:29:50.)",
+      "evidence_locations": [
+        "00:23:30",
+        "00:24:31",
+        "00:25:34",
+        "00:28:44",
+        "00:29:50"
+      ],
+      "forbidden": [
+        "Any gray cart is genuine",
+        "One back code guarantees authenticity",
+        "Canadian box proves fixed ROM",
+        "All listed copies are fake"
+      ],
+      "status": "passed",
+      "reason": "Source provides no consistent back stamp, warns label swaps, and separates Canadian box sticker from unknown code revision; authentication abstention is correct."
+    },
+    {
+      "id": "cq202-metal-cart",
+      "episode": 202,
+      "query": "Did the Limited Run Turok set include playable new N64 cartridges?",
+      "answer": "In this discussion, the apparent cartridge is corrected to a commemorative metal retro cartridge. The hosts were looking at later Turok packaging and briefly mistook its contents for an N64 rerelease. Their hypothetical interest if it were a real game is not a purchase report. (CQ202 00:31:59–00:35:08.)",
+      "evidence_locations": [
+        "00:31:59",
+        "00:33:03",
+        "00:34:08",
+        "00:35:08"
+      ],
+      "forbidden": [
+        "Playable N64 rerelease confirmed",
+        "Host bought it",
+        "Yooka-Laylee originally released on N64"
+      ],
+      "status": "passed",
+      "reason": "Commemorative metal cart correction defeats playable N64 inference; hypothetical ownership is not a transaction."
+    },
+    {
+      "id": "cq202-area51-subject",
+      "episode": 202,
+      "query": "Who reported the perfect Area 51 arcade run, and did they finish alien mode?",
+      "answer": "Johnny reports shooting 100% through the main arcade run on one quarter, using an early shotgun and memorized patterns. He then entered alien mode but died before finishing it. Tyler's separate claim is beating Area 51 on PlayStation. Keep the two people and platforms distinct; these are unverified personal reports. (CQ202 01:25:24–01:26:28.)",
+      "evidence_locations": [
+        "01:25:24",
+        "01:26:28"
+      ],
+      "forbidden": [
+        "Tyler made Johnny's arcade run",
+        "Every mode completed flawlessly",
+        "Score independently verified",
+        "Cabinet purchased"
+      ],
+      "status": "passed",
+      "reason": "Johnny's one-quarter arcade report ends before alien-mode completion; Tyler's PlayStation completion remains a separate personal report."
+    },
+    {
+      "id": "cq202-firestart-price",
+      "episode": 202,
+      "query": "Did Tyler pay five hundred dollars for Project Firestart?",
+      "answer": "The episode does not give his purchase price. Tyler says he bought the Commodore 64 game after previously losing an auction around five hundred dollars; later he saw several unsold copies appear. The expensive lost auction is not his transaction. The title is clarified as Project Firestart, not Firestorm, and its Alien-like imagery does not establish an Alien license. (CQ202 01:43:30–01:44:36.)",
+      "evidence_locations": [
+        "01:43:30",
+        "01:44:36"
+      ],
+      "forbidden": [
+        "Paid $500",
+        "Won earlier auction",
+        "Proven highest sale ever",
+        "Official licensed Alien game"
+      ],
+      "status": "passed",
+      "reason": "Lost $500 auction is not the later purchase price; Firestart correction and Alien-inspired discussion are not a license claim."
+    },
+    {
+      "id": "cq202-baba-platforms",
+      "episode": 202,
+      "query": "Why did Tyler buy Baba Is You a third time when he already had it on Switch?",
+      "answer": "He had bought it on PC and then as a physical Switch copy. Craving more play but not wanting to sit at his computer or use his Switch, he bought the iPad version for convenient touch play. He praises its Sokoban-like foundation plus rule/logic puzzles. That is three platform purchases, not three completed runs. (CQ202 01:47:44–01:48:47.)",
+      "evidence_locations": [
+        "01:47:44",
+        "01:48:47"
+      ],
+      "forbidden": [
+        "Only owned PC version",
+        "Third Switch copy",
+        "Completed it three times",
+        "Switch has no portable play"
+      ],
+      "status": "passed",
+      "reason": "PC then physical Switch then iPad purchases are explicit; convenience preference does not imply Switch lacks portability or three completed runs."
+    },
+    {
+      "id": "cq202-magic-correction",
+      "episode": 202,
+      "query": "Was Johnny playing Magic Online and had he reached Mythic?",
+      "answer": "Tyler corrects Johnny's label to Magic Arena. Johnny describes Arena Cube drafts and constructed play and says he is just about to hit Mythic, not that he has reached it. Tyler, separately, says his digital collection is in Magic Online. Later shorthand does not undo that identity correction. (CQ202 01:58:16–01:59:19.)",
+      "evidence_locations": [
+        "01:58:16",
+        "01:59:19"
+      ],
+      "forbidden": [
+        "Johnny achieved Mythic",
+        "Johnny's play belongs to Online",
+        "Tyler played these drafts",
+        "Online and Arena are interchangeable products"
+      ],
+      "status": "passed",
+      "reason": "Arena correction controls Johnny's drafts/constructed play; just-about-to-hit Mythic and Tyler's Online collection are independently distinguished."
+    },
+    {
+      "id": "cq202-lastofus-update",
+      "episode": 202,
+      "query": "Had Johnny's Last of Us Part II ladder problem been fixed by CQ202?",
+      "answer": "No fix is reported. Johnny says he has not been playing, filed a support ticket and received no acknowledgement. He worries a replay could hit the same problem. The long ending discussion is his interpretation of the story, not evidence that this blocked run was completed. (CQ202 01:50:58–01:58:16.)",
+      "evidence_locations": [
+        "01:50:58",
+        "01:52:02",
+        "01:53:07",
+        "01:54:08",
+        "01:55:08",
+        "01:56:08",
+        "01:57:12",
+        "01:58:16"
+      ],
+      "forbidden": [
+        "Support fixed the bug",
+        "Ticket acknowledged",
+        "Completed current run",
+        "Ending theory confirmed canon"
+      ],
+      "status": "passed",
+      "reason": "Support silence and continued blockage remain unresolved despite detailed ending interpretation; no completed current run or confirmed ending theory inferred."
+    },
+    {
+      "id": "cq202-personal-nightmare",
+      "episode": 202,
+      "query": "Which Personal Nightmare copy was Johnny looking for, and did he buy it?",
+      "answer": "He wants a copy with the prominent Elvira cover, describing a white box dominated by Elvira rather than the screaming-man design. He has not reported buying it. The hosts are unsure whether the red or white box is a rerelease or a different territory version, so no printing chronology should be asserted. They also say Elvira's cover appearance does not mean she is in the game. (CQ202 02:01:31–02:03:34.)",
+      "evidence_locations": [
+        "02:01:31",
+        "02:02:34",
+        "02:03:34"
+      ],
+      "forbidden": [
+        "Purchased $472 or $413 copy",
+        "White definitively first print",
+        "Red definitively rerelease",
+        "Elvira definitely an in-game character"
+      ],
+      "status": "passed",
+      "reason": "Desired Elvira-dominated white box is distinguished from purchase and disputed printing chronology; in-game appearance not inferred from packaging."
+    }
+  ]
+}

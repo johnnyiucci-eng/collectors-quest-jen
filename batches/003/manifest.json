@@ -1,0 +1,52 @@
+{
+  "schema_version": "0.1",
+  "created": "2026-09-13",
+  "status": "captured_text_review_complete",
+  "selection_basis": "Three continuation lanes after batch002, varied across early, transition and later host eras. Not selected by answer-key searches.",
+  "budget": "Local public transcript processing only; no paid services, external writes or persona changes.",
+  "episodes": [
+    {
+      "key": "sc-236603975",
+      "episode_number": 9,
+      "title": "Episode 4 (9) - Final Fantasy 7 And Kickle Cubicle",
+      "date": "2015-12-08",
+      "path": "episodes/cq-009-sc-236603975.md",
+      "words": 5081,
+      "source_url": "https://soundcloud.com/collectors-quest/collectors-quest-episode-9-final-fantasy-7-and-kickle-cubicle",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "sha256": "68e5be56c5b25130831008678d96f774d0659e5b017ad7391cb2d7d71a1de869",
+      "reason": "Era-varied sequential continuation within lane",
+      "status": "extracted_draft",
+      "record_path": "records/sc-236603975.json"
+    },
+    {
+      "key": "sc-346021102",
+      "episode_number": 76,
+      "title": "Episode 76 - Family Friendly Halloween Games",
+      "date": "2017-10-09",
+      "path": "episodes/cq-076-sc-346021102.md",
+      "words": 8943,
+      "source_url": "https://soundcloud.com/collectors-quest/episode-76-family-friendly-halloween-games",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "sha256": "8819f9b68bf8133df221d63903337e7f7805fc7725ef1cc4662ad5c2117f0c92",
+      "reason": "Era-varied sequential continuation within lane",
+      "status": "extracted_draft",
+      "record_path": "records/sc-346021102.json"
+    },
+    {
+      "key": "sc-1335372241",
+      "episode_number": 202,
+      "title": "CQ 202 - Collecting 6 Rare Dinosaur Games That're Totally Cretaceous!",
+      "date": "2022-09-01",
+      "path": "episodes/cq-202-sc-1335372241.md",
+      "words": 24769,
+      "source_url": "https://soundcloud.com/collectors-quest/cq-202-collecting-6-rare-dinosaur-games-thatre-totally-cretaceous",
+      "timing": "YouTube caption timestamps",
+      "sha256": "b675c6517f33acb1172b67b82c3e2b07ee8a73d7de870b0a98909df9c47a205c",
+      "reason": "Era-varied sequential continuation within lane",
+      "status": "extracted_draft",
+      "record_path": "records/sc-1335372241.json"
+    }
+  ],
+  "duplicate_controls": []
+}

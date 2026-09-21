@@ -1,0 +1,93 @@
+{
+  "schema_version": "1",
+  "status": "source_informed_before_first_retrieval",
+  "created_utc": "2026-09-14T16:46:00Z",
+  "limits": "Frozen before viewing extraction records/answers; root read source. Not statistical blind certification. First failures retained; used cases become development regressions.",
+  "cases": [
+    {
+      "id": "cq025-fresh-lufia",
+      "episode": 25,
+      "question": "Was a Lufia II cartridge hidden in the heavy parcel box?",
+      "expected": "No. Kat received the box and manual; they explicitly deny a cartridge despite John's initial guess.",
+      "required_windows": [
+        "Paragraph 15"
+      ],
+      "forbidden": [
+        "Lufia II cartridge received",
+        "John and Johnny are the same person"
+      ]
+    },
+    {
+      "id": "cq025-fresh-rewind",
+      "episode": 25,
+      "question": "Did Johnny promise Kat that rewinding would never be necessary after the opening?",
+      "expected": "No. He initially says optional, then qualifies that some deaths need rewinding to continue; Kat has not completed the game.",
+      "required_windows": [
+        "Paragraph 11",
+        "Paragraph 12",
+        "Paragraph 13"
+      ],
+      "forbidden": [
+        "Never required",
+        "Kat completed it"
+      ]
+    },
+    {
+      "id": "cq025-fresh-list",
+      "episode": 25,
+      "question": "Can we recover all five of Johnny's unrestricted NES choices from this episode?",
+      "expected": "No complete unrestricted five is enumerated. Distinguish his constrained five and favorite/excluded examples; do not fill missing slots.",
+      "required_windows": [
+        "Paragraph 6",
+        "Paragraph 7",
+        "Paragraph 8"
+      ],
+      "forbidden": [
+        "Invent fifth unrestricted pick",
+        "Turn Shadowgate alternatives into extra selected slots"
+      ]
+    },
+    {
+      "id": "cq026-fresh-upc",
+      "episode": 26,
+      "question": "Does the stickerless Sonic anecdote prove that every copy without a UPC is a US release?",
+      "expected": "No. Johnny reports one neighbor's Toys R Us copy and explicitly leaves distribution/sticker circumstances unresolved.",
+      "required_windows": [
+        "Paragraph 13",
+        "Paragraph 14"
+      ],
+      "forbidden": [
+        "All stickerless copies US",
+        "Johnny purchased neighbor's copy"
+      ]
+    },
+    {
+      "id": "cq026-fresh-harmful",
+      "episode": 26,
+      "question": "Did Johnny buy the physical Harmful Park copy before he tried it?",
+      "expected": "Not established. He reports enjoying computer emulation with an Xbox controller; no physical acquisition is confirmed here.",
+      "required_windows": [
+        "Paragraph 21",
+        "Paragraph 22"
+      ],
+      "forbidden": [
+        "Physical copy purchased",
+        "Kat played it"
+      ]
+    },
+    {
+      "id": "cq026-fresh-manual",
+      "episode": 26,
+      "question": "Did they reveal the answer to the manual-reading guessing game?",
+      "expected": "No. Kat says she knows but withholds it; listener guesses and Kat's next reading are invited. Preserve clues without declaring a confirmed title.",
+      "required_windows": [
+        "Paragraph 24",
+        "Paragraph 25"
+      ],
+      "forbidden": [
+        "Confirmed revealed title",
+        "Kat's next reading already happened"
+      ]
+    }
+  ]
+}

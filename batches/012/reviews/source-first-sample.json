@@ -1,0 +1,185 @@
+{
+  "schema_version": "1",
+  "status": "frozen_before_extraction_record_comparison",
+  "frozen_utc": "2026-09-13 11:14:32 UTC",
+  "selection_rule": "Zero-based floor(N/4),floor(N/2),floor(3N/4). Primary windows and neededneighbors read before extraction. No-title windows include generic collecting/film/insurance without game identity.",
+  "limits": "Bounded reference buckets only, not statistical recall. Title-lineage variants may share a gold bucket; extraction must still separate release/platform/outcome. CQ85 steelbook continuation identified fromP12, not guessed from other episode.",
+  "windows": [
+    {
+      "location": "Paragraph 10",
+      "text": "\nfor me, looking at it, if, you know, I agree the same thing, no kids married. And the fact that both John and I collect makes it easy to justify the money. But if I were going to start collecting now, I think that would just, there would be no way, I think, to accomplish a large collection really reasonably without a lot of effort. I remember looking into things or how cheap things used to be versus they are now. I guess if I were to start collecting now, my point would be I would find it daunting. Oh, absolutely. There, there is no way I could have amassed this kind of collection today. It’s just not feasible. I would just look at the expense and it wouldn’t be worth it, especially because I collect sets. Like that’s not it’s not a reasonable goal or ambition to have. On the money I have, you know, currently or that I would feel comfortable. Yes, I have spent a good portion of money on games that’s without saying, but I would not be able to replicate this, especially all the early Super Nintendo stuff, because the first stuff I started buying was Super Nintendo and Nintendo games, complete in box. I started with Carton and pretty quickly got into complete in\n\n",
+      "batch": "012",
+      "episode": 18,
+      "source_key": "sc-245993586",
+      "source_window_count": 37,
+      "references": []
+    },
+    {
+      "location": "Paragraph 19",
+      "text": "\nMine comes with I did it early. I bought it in early, pretty hard. And, you know, I have some extra money income that I can waste and it wouldn’t cripple me. It also doesn’t affect any of my bill paying. I’ve seen people get into trouble where they start leveraging their future because they want to buy games because they think games are valuable. And I would, I would advise heavily against that. Yeah. I think that’s a good point. And I find a question I’ve got often on is, are you ever going to sell any of while mine is just basically one set, but for you, would you ever, you know, is everything for sale for a price or is it not for sale? Everything is for sale for a price. Yeah. And I think that’s a fair way to look at it because, you know, if the right price came along, then, you know, and you’re willing to part with it, then there are always different ways to collect. I’m sure if somebody said, well, I’m going to give you X amount for your NES set and you get the money, I can’t see that you wouldn’t decide to do something with some portion of that money. Right. Well, there, there’s a lot of things that,\n\n",
+      "batch": "012",
+      "episode": 18,
+      "source_key": "sc-245993586",
+      "source_window_count": 37,
+      "references": []
+    },
+    {
+      "location": "Paragraph 28",
+      "text": "\nthink that’s, that’s a good point. So I guess that leads me to a question I almost kind of think about and ask myself is if I won the lottery, would I want to go buy a complete set that I was missing or would I still want to put it together? If I could just regard prices and just buy what I wanted to buy. See, I feel like I would probably still want to put it together for a few things. Like, you know, being able to see some of the games because there are store lots of stores that do carry rare items. Um, and also just being able to curate the quality of the games I would have. So I don’t think even if money wasn’t an object that I’d want to buy a full set, I still think I’d want to build my set. You know, that, that’s an interesting question. I haven’t really ever, uh, I haven’t thought of that. Um, I think, I think I would be mixed on that. Okay. Um, one, because I have most of the sets complete that I really want. You know, I’m, I’m working towards Super Nintendo. Um, I would probably go out and just finish Super Nintendo immediately. Right. Just to, just to be done with\n\n",
+      "batch": "012",
+      "episode": 18,
+      "source_key": "sc-245993586",
+      "source_window_count": 37,
+      "references": []
+    },
+    {
+      "location": "Paragraph 13",
+      "text": "\nfor the Steelbook, but man, I love that box art. The Steelbook is really super boring. It’s kind of a tragedy of a cover. What were they thinking with that Steelbook? We’ve been through this. It’s so ugly. I own it too, but why? Why? So ugly. So you want to go over some of the other games that come out? Yeah, let’s go through the list. Let’s tell everybody, because there are some that are already released, some that are on their way out, and some that were digital releases or different regions. So let’s just cover what happened. All right. Well, the ones that are just straight ports of old Wii U games basically because no one bought this because it was on a Wii U. Donkey Kong, Tropical Freeze, great Wii U game, runs great on the Wii U, coming to Switch, Hyrule Warriors, Mario Kart 8 Deluxe, Pockin’ Tournament, Legend of K, which was a port of a PS2 game, might have been on the Wii too, and now it’s coming to the Switch. That game has long legs. Yeah. Who is asking for that? I don’t know. Like some guys, there’s probably this weird super community of Legend of K fans, like Akami, like a game like that. Maybe there’s people like that out there\n\n",
+      "batch": "012",
+      "episode": 85,
+      "source_key": "sc-402327105",
+      "source_window_count": 51,
+      "references": [
+        {
+          "id": "cq85-sample-Paragraph13-1",
+          "title": "Mario Kart 8 steelbook/box-art continuation fromP12",
+          "quote": "Steelbook",
+          "reviewed_game_ids": ["cq085-g024"],
+          "comparison_status": "matched"
+        },
+        {
+          "id": "cq85-sample-Paragraph13-2",
+          "title": "Donkey Kong Country: Tropical Freeze WiiU-to-Switch port",
+          "quote": "Donkey Kong, Tropical Freeze",
+          "reviewed_game_ids": ["cq085-g025","cq085-g026"],
+          "comparison_status": "matched"
+        },
+        {
+          "id": "cq85-sample-Paragraph13-3",
+          "title": "Hyrule Warriors port",
+          "quote": "Hyrule Warriors",
+          "reviewed_game_ids": ["cq085-g019","cq085-g020"],
+          "comparison_status": "matched"
+        },
+        {
+          "id": "cq85-sample-Paragraph13-4",
+          "title": "Mario Kart 8 Deluxe",
+          "quote": "Mario Kart 8 Deluxe",
+          "reviewed_game_ids": ["cq085-g023"],
+          "comparison_status": "matched"
+        },
+        {
+          "id": "cq85-sample-Paragraph13-5",
+          "title": "Pokken Tournament port",
+          "quote": "Pockin’ Tournament",
+          "reviewed_game_ids": ["cq085-g027"],
+          "comparison_status": "matched"
+        },
+        {
+          "id": "cq85-sample-Paragraph13-6",
+          "title": "Legend of Kay PS2/WiiU/Switch lineage (Wii uncertain)",
+          "quote": "Legend of K",
+          "reviewed_game_ids": ["cq085-g028"],
+          "comparison_status": "matched"
+        },
+        {
+          "id": "cq85-sample-Paragraph13-7",
+          "title": "Okami comparison",
+          "quote": "Akami",
+          "reviewed_game_ids": ["cq085-g029"],
+          "comparison_status": "matched"
+        }
+      ]
+    },
+    {
+      "location": "Paragraph 26",
+      "text": "\nSwitch. They would do it, come on. I know it would. Nintendo has made some dumb naming decisions. Oh, like the Wii U. Yep, there you go. Nailed it. The new Wii U they could call it. Anyway. Oh. And then there’s that Fatal Frame game that came out, I think, in Europe. That’s a game people are like, \"Oh, it’s the coolest Wii U collectible because it didn’t come out here and it’s actually good.\" Well, I mean, it got a digital release here. Was that Black Sales? Something like that? No, that was... They have it listed as Maiden of Blackwater. Yeah, Maiden of Blackwater. That’s it. Yeah. And I mean, that probably uses the gamepad as a camera, so it’s probably not coming to Switch, right? Not, they would just do the same thing when you hold up your actual handheld Switch, right? I don’t know. Anyway, those are literally the only five exclusives I think we could say. Nintendo Land? Nintendo Land’s safe, right? I mean, yeah, Nintendo Land’s kind of fun, but that’s not like, \"Oh, dude.\" Like you’re not going to collect a Sega Genesis because it has Sonic 2 on it. No, I’m just... Yeah, it’s just like one of those games where it’s like, \"Yeah, I’m going to get Sonic 2, obviously.\"\n\n",
+      "batch": "012",
+      "episode": 85,
+      "source_key": "sc-402327105",
+      "source_window_count": 51,
+      "references": [
+        {
+          "id": "cq85-sample-Paragraph26-1",
+          "title": "Fatal Frame: Maiden of Black Water",
+          "quote": "Maiden of Blackwater",
+          "reviewed_game_ids": ["cq085-g074"],
+          "comparison_status": "matched"
+        },
+        {
+          "id": "cq85-sample-Paragraph26-2",
+          "title": "Nintendo Land",
+          "quote": "Nintendo Land",
+          "reviewed_game_ids": ["cq085-g075"],
+          "comparison_status": "matched"
+        },
+        {
+          "id": "cq85-sample-Paragraph26-3",
+          "title": "Sonic the Hedgehog 2",
+          "quote": "Sonic 2",
+          "reviewed_game_ids": ["cq085-g076"],
+          "comparison_status": "matched"
+        }
+      ]
+    },
+    {
+      "location": "Paragraph 39",
+      "text": "\nThere was a thread on Nintendo age that’s like, \"Hey, let’s document all of the Game Boy variants.\" And I had this Toxic Crusaders and it had a label that I’d never seen before. It had the little Game Boy logo on the left side as a lot of Game Boy games do. There’s nothing suspicious about that. But Toxic Crusaders, one of the rarest Game Boy games, I’m like, \"Oh, I got this kind of cool variant I’ve never really seen before.\" So I waltzed into this thread and I’m like, \"I’ve got something cool for you guys. That’s not on your list yet.\" And like an hour after I post my cool Game Boy cart, RPG collector, who’s a pretty hardcore Game Boy collector. He’s got like complete and box Game Boy and Game Boy Color collections, which in the collecting world is freaking insane. That’s hard. So yeah, one hour after posting that, I get smacked down. He’s like, \"Yeah, it looks like a bootleg. It’s probably from Germany. You should check the board on that.\" So of course my copy ends up being a bootleg. So I bought a legit copy of Toxic Crusaders. Now did you sell your bootleg, not calling it a bootleg, calling it a rare variant to make hundreds of dollars? I\n\n",
+      "batch": "012",
+      "episode": 85,
+      "source_key": "sc-402327105",
+      "source_window_count": 51,
+      "references": [
+        {
+          "id": "cq85-sample-Paragraph39-1",
+          "title": "Toxic Crusaders GameBoy counterfeit and replacement",
+          "quote": "Toxic Crusaders",
+          "reviewed_game_ids": ["cq085-g119","cq085-g120"],
+          "comparison_status": "matched"
+        }
+      ]
+    },
+    {
+      "location": "00:47:17",
+      "text": "\nthat should be true and didn't happen but also maybe that was the anomaly maybe we got caught in the anomaly and now this is the reality but who knows it's all the Matrix um again I would tell you like now I can't even bring up the Matrix because there's all this like weird you know the weird like pseudo movements of oh are a red pill and blue pills talk and I don't want I don't want to talk about what pills anybody should I don't I'm I'm too old I think to understand pills and when what people mean when they're talking about that but uh you can bring up the Matrix to me Johnny I I don't mind I I won't take it as any kind of statement I but see you won't but we have other listeners and I like I don't oh my God you and and you're worry about ICS I don't I don't like it I you know I avoid it I don't I don't enjoy it I I just want to I just want to buy video games I just want to buy stupid games and I don't want to worry about a a global economy collapse but uh like we have to look into it and do do you want to speculate like what are we doing here are we spe are we spec no no are we speculating on the top it of like what\n\n",
+      "batch": "012",
+      "episode": 211,
+      "source_key": "sc-1406930341",
+      "source_window_count": 177,
+      "references": []
+    },
+    {
+      "location": "01:33:50",
+      "text": "\nWii games it'll it'll always make every blog post list at least for the next 20 years if Earthbound is still on rarest uh Super Nintendo game lists and like a lot more people collect Super Nintendo cyberbike will be on wi rarest game list for at least another 20 years I think forever and ever and ever and ever um anyways so like I said not like the other one that I have like in my bad buy list and I don't think this is a bad buy I think this is like fine uh but I bought like a bunch of PS4 like pseudo horror games like Halloween stuff and then what made it a bad buy is cuz I pivoted in the I think it was like June I decided I was going to buy these games and I was going to do a very modern Halloween Focus this year my God I'm going to Showcase just modern games because I felt like I've been getting really weird and esoteric like picking weird things uh just like Fringe games\n\n",
+      "batch": "012",
+      "episode": 211,
+      "source_key": "sc-1406930341",
+      "source_window_count": 177,
+      "references": [
+        {
+          "id": "cq211-sample-01:33:50-1",
+          "title": "EarthBound rarity-list comparison",
+          "quote": "Earthbound",
+          "reviewed_game_ids": ["cq211-g084"],
+          "comparison_status": "matched"
+        },
+        {
+          "id": "cq211-sample-01:33:50-2",
+          "title": "Cyberbike Wii rarity-list comparison",
+          "quote": "cyberbike",
+          "reviewed_game_ids": ["cq211-g083"],
+          "comparison_status": "matched"
+        }
+      ]
+    },
+    {
+      "location": "02:20:23",
+      "text": "\nthose should get paid out easily I'll have so many I'll have so much documentation on on that kind of thing yeah I I wonder I wonder I mean I've got cameras all over my house I'd I'd literally have video footage of myself being robbed they've got to pay me Johnny do they have to pay you oh man they paid for my roof I mean I'm not going I wouldn't go through the same insurance company but these [ __ ] paid for my roof for some reason I was willing to accept Z and be happy with them and they're giving me $7,000 stop talking about it someone will hear you know dude even my Roofing guy was like I can't believe they're [ __ ] pain for he's like good on I mean he probably loved it he's like oh sweet that means I'm definitely getting paid yeah yeah anyway um yeah so insurance is a is a major thing I'm going for next year also uh shelving I want to figure out I can't crack the problem I want to figure out quote unquote high volume shelving I want shelves that I can stack together like in a solid cube and then pull out the Shelf I need for less than let's\n\n",
+      "batch": "012",
+      "episode": 211,
+      "source_key": "sc-1406930341",
+      "source_window_count": 177,
+      "references": []
+    }
+  ]
+}

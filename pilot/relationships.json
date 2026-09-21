@@ -1,0 +1,76 @@
+{
+  "schema_version": "0.1",
+  "relationships": [
+    {
+      "id": "cq6-portland-report-cq7",
+      "kind": "promised_followup_delivered",
+      "status": "supported_by_transcripts",
+      "review_status": "draft",
+      "summary": "CQ 6 promises a Portland Retro Gaming Expo report; CQ 7 explicitly reports the visit and discusses convention preparation.",
+      "speaker": "Johnny",
+      "speaker_confidence": "medium",
+      "evidence": [
+        {
+          "source_key": "sc-232561251",
+          "location": "Paragraph 27",
+          "quote": "I’m off to the Portland retro gaming expo"
+        },
+        {
+          "source_key": "sc-232561251",
+          "location": "Paragraph 27",
+          "quote": "I’ll report back to you guys"
+        },
+        {
+          "source_key": "sc-234461881",
+          "location": "Paragraph 5",
+          "quote": "I was in Portland and I went to the Portland Retro Game Expo"
+        }
+      ],
+      "limits": "The transcript supports delivery of the report. It does not verify every anecdote or establish precise recording dates."
+    },
+    {
+      "id": "cq200-wii-incomplete-cq222-complete",
+      "kind": "collection_milestone",
+      "status": "supported_by_transcripts",
+      "review_status": "draft",
+      "summary": "Johnny reports about 50 Wii games remaining in CQ 200 and confirms completion in CQ 222.",
+      "speaker": "Johnny",
+      "speaker_confidence": "medium",
+      "evidence": [
+        {
+          "source_key": "sc-1316628157",
+          "location": "01:46:43",
+          "quote": "I'm down to like only needing 50 games left for the Wii"
+        },
+        {
+          "source_key": "sc-1517354524",
+          "location": "01:15:26",
+          "quote": "I did I did complete it"
+        }
+      ],
+      "limits": "Retrospective statements establish an interval, not an exact completion date or verified release-set definition."
+    },
+    {
+      "id": "cq200-manuals-cq300-artifacts",
+      "kind": "changed_opinion",
+      "status": "supported_by_transcripts",
+      "review_status": "draft",
+      "summary": "Johnny's earlier selective interest in manuals and RPG maps contrasts with CQ 300's explicit shift toward completeness as artifact preservation.",
+      "speaker": "Johnny",
+      "speaker_confidence": "medium",
+      "evidence": [
+        {
+          "source_key": "sc-1316628157",
+          "location": "01:25:19",
+          "quote": "which is kind of why I don't care about the manual for a lot of games"
+        },
+        {
+          "source_key": "sc-2396296749",
+          "location": "03:37:01",
+          "quote": "But now as I kind of changed my my view on that to these are artifacts"
+        }
+      ],
+      "limits": "Selective earlier preferences are not a blanket rejection of all manuals; CQ 300 still allows some insert gaps."
+    }
+  ]
+}

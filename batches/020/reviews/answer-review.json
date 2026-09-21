@@ -1,0 +1,520 @@
+{
+  "schema_version": "1",
+  "reviewer": "Root coordinator; complete separate 47-window source read followed by all 27 actual answer texts",
+  "status": "semantic_answers_reviewed",
+  "scope": "Source-informed development review, not blind recall, audio or live certification.",
+  "cases": [
+    {
+      "id": "cq025-rules",
+      "episode": 25,
+      "question": "What were the rules for the alternative NES top fives, and did Final Fantasy have to disappear from both hosts' lists?",
+      "query": "What were the rules for the alternative NES top fives, and did Final Fantasy have to disappear from both hosts' lists?",
+      "answer": "The shared restrictions remove Konami and Capcom games, games with Mario in the title—including Dr. Mario—and Zelda and Metroid. They do not remove every Nintendo first-party game, so Kirby remains eligible. Johnny separately chooses to omit Final Fantasy because he discusses it often; that extra omission is his, not an explicitly shared ban. The episode invites both ordinary and constrained lists, not one universal ranking.",
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 9",
+        "Paragraph 10"
+      ],
+      "forbidden": [
+        "Do not exclude all Nintendo first-party games.",
+        "Do not impose Johnny's additional Final Fantasy restriction on Kat.",
+        "No current publisher/catalog facts independently verified."
+      ],
+      "status": "passed",
+      "reason": "Shared restrictions and personal Final Fantasy omission distinguished; first-party blanket ban rejected."
+    },
+    {
+      "id": "cq025-kat_lists",
+      "episode": 25,
+      "question": "What were Kat's two actual top-five lists, and where did Super Mario 3 fit?",
+      "query": "What were Kat's two actual top-five lists, and where did Super Mario 3 fit?",
+      "answer": "Kat's constrained five are Panic Restaurant, Kirby's Adventure, Little Samson, Battletoads and River City Ransom. Her stated unrestricted five are Little Samson, Panic Restaurant, Metroid, Contra and Battletoads. Super Mario 3 is a floating favorite or top-ten consideration, not one of the five she settles on in that unrestricted answer. Castlevania, broad Super Mario and Mega Man references also float in and out; she stresses that her favorites change. Listing order should not be treated as a permanent numerical ranking.",
+      "evidence_locations": [
+        "Paragraph 4",
+        "Paragraph 5",
+        "Paragraph 6"
+      ],
+      "forbidden": [
+        "No Super Mario3 substitution for Battletoads.",
+        "No Kirby in her stated unrestricted five.",
+        "Do not expand broad Mega Man into a numbered title."
+      ],
+      "status": "passed",
+      "reason": "All ten stated Kat list memberships correct; floating Mario and changing order qualified."
+    },
+    {
+      "id": "cq025-kat_reasons",
+      "episode": 25,
+      "question": "Why did Kat pick Panic Restaurant and Kirby rather than just say they were rare games?",
+      "query": "Why did Kat pick Panic Restaurant and Kirby rather than just say they were rare games?",
+      "answer": "For Panic Restaurant she enjoys the animated food and utensils, but also calls it a good-looking platformer with a challenge that is manageable rather than controller-through-the-TV frustrating. Kirby's Adventure is tied to nostalgia and retro gaming nights with friends of different levels of interest. The good-and-rare observation is about Little Samson, not the explanation she gives for those two choices. Kirby remains allowed because the restrictions do not ban all Nintendo first-party games.",
+      "evidence_locations": [
+        "Paragraph 4",
+        "Paragraph 5",
+        "Paragraph 10"
+      ],
+      "forbidden": [
+        "Do not claim their appeal was solely market rarity.",
+        "No guaranteed difficulty or verified rarity claim."
+      ],
+      "status": "passed",
+      "reason": "Panic Restaurant challenge/food and Kirby social memories distinguished from Little Samson rarity aside."
+    },
+    {
+      "id": "cq025-johnny_list",
+      "episode": 25,
+      "question": "Which five did Johnny choose under the restrictions, and did Shadowgate's companions create extra slots?",
+      "query": "Which five did Johnny choose under the restrictions, and did Shadowgate's companions create extra slots?",
+      "answer": "Johnny's unordered constrained five are Dragon Warrior IV, the NES game captioned 'Rhaegar,' Crystallis, Shadowgate and Ninja Gaiden II. He chooses IV as the Dragon Warrior representative. He says Shadowgate, the game captioned 'Geisha Voo,' and Uninvited could be grouped because he loves their narrative-adventure style, but Shadowgate occupies the selected slot; the companions do not turn the list into seven picks. 'Rhaegar' and 'Geisha Voo' remain uncertain caption identities rather than silently corrected catalog names.",
+      "evidence_locations": [
+        "Paragraph 6",
+        "Paragraph 7"
+      ],
+      "forbidden": [
+        "No three Dragon Warrior slots.",
+        "No seven selected games.",
+        "No guessed catalog corrections presented as exact source wording."
+      ],
+      "status": "passed",
+      "reason": "Five Johnny slots; Dragon Warrior IV single representative and Shadowgate companions not extra slots."
+    },
+    {
+      "id": "cq025-ordinary",
+      "episode": 25,
+      "question": "Did Johnny give a complete ordinary top five or say his restricted choices would stay?",
+      "query": "Did Johnny give a complete ordinary top five or say his restricted choices would stay?",
+      "answer": "He says probably none of his constrained choices would remain in his normal top five, though they can appear around his top ten or fifteen. Metroid, Zelda and Castlevania compete for his top three, with Final Fantasy sometimes moving into that range. He also says Mario is not in his top five. That supplies a changing partial picture, not a fully enumerated ordinary five or fixed ranking. Zelda II, Castlevania II, Bionic Commando and DuckTales are additional discussed favorites, not automatically missing fifth slots.",
+      "evidence_locations": [
+        "Paragraph 7",
+        "Paragraph 8",
+        "Paragraph 9"
+      ],
+      "forbidden": [
+        "Do not invent a fifth ordinary selection.",
+        "No fixed ordered top-three ranking.",
+        "Do not treat every loved game as selected."
+      ],
+      "status": "passed",
+      "reason": "Ordinary list remains incomplete and fluctuating; no fabricated fifth pick."
+    },
+    {
+      "id": "cq025-versions",
+      "episode": 25,
+      "question": "How did Johnny distinguish the two Rhaegar versions and Castlevania sequels?",
+      "query": "How did Johnny distinguish the two Rhaegar versions and Castlevania sequels?",
+      "answer": "He praises the NES game captioned 'Rhaegar' and says he hates its arcade counterpart, so the two versions must not share one undifferentiated opinion. He separately says he likes Castlevania II more than Castlevania III and is also a fan of Zelda II. The uncertain Rhaegar spelling remains a source limitation. These are his preferences, not an objective quality ranking or a new purchase report.",
+      "evidence_locations": [
+        "Paragraph 6",
+        "Paragraph 9"
+      ],
+      "forbidden": [
+        "No merged NES/arcade preference.",
+        "No claim everyone agrees.",
+        "No acquisition inferred from affection."
+      ],
+      "status": "passed",
+      "reason": "NES/arcade opinions and II/III preferences separately scoped; caption uncertainty retained."
+    },
+    {
+      "id": "cq025-rewind",
+      "episode": 25,
+      "question": "What did Kat actually dislike about Life is Strange, and did Johnny say rewinding was never required?",
+      "query": "What did Kat actually dislike about Life is Strange, and did Johnny say rewinding was never required?",
+      "answer": "Kat calls what she has played terrible because the opening makes her rewind when she wants to accept the consequences and continue. This is an early impression, not a completed-game verdict; the seven- and ten-minute remarks are banter, not a measured play log. Johnny first says later rewinding is optional, then qualifies that some situations, such as dying, may require rewinding to continue. Kat proposes that John get through the opening for her and she then take over, with roughly forty-five minutes as her patience limit. The episode does not establish that John did so or that she finished the trial.",
+      "evidence_locations": [
+        "Paragraph 10",
+        "Paragraph 11",
+        "Paragraph 12",
+        "Paragraph 13"
+      ],
+      "forbidden": [
+        "No never-played Kat claim.",
+        "No already-played John opening.",
+        "No universal never-required rewind claim.",
+        "No exact seven-minute session asserted."
+      ],
+      "status": "passed",
+      "reason": "Early Kat play, qualified Johnny rewind advice, proposed John help and bantered time separated."
+    },
+    {
+      "id": "cq025-parcel",
+      "episode": 25,
+      "question": "Did Kat buy all the games in her big mail day, and was the N64 set complete afterward?",
+      "query": "Did Kat buy all the games in her big mail day, and was the N64 set complete afterward?",
+      "answer": "Kat explicitly says she bought nothing in this update but received a long-delayed parcel from Johnny. It contained mostly boxes, some cartridges and some complete games. She highlights a complete item captioned 'diacatana,' a Resident Evil item that excited John, N64 packaging, a Mega Man Soccer box, a Lufia II box, a manual, unnamed 32X and Master System games, vegetable-themed extras and show buttons. The N64 set is closer to boxes-and-carts completion, not finished. The manual's association with the Lufia box is contextual, and the discussed heavy box explicitly had no cartridge inside; the exact Resident Evil installment and diacatana identity remain qualified.",
+      "evidence_locations": [
+        "Paragraph 14",
+        "Paragraph 15",
+        "Paragraph 16"
+      ],
+      "forbidden": [
+        "No newly purchased full collection.",
+        "No guessed Resident Evil installment or platform.",
+        "No Lufia cartridge received.",
+        "No physicalextras rankedasgames."
+      ],
+      "status": "passed",
+      "reason": "Receipt not purchase; packaging/manual/cart and unfinished set boundaries retained."
+    },
+    {
+      "id": "cq025-trade",
+      "episode": 25,
+      "question": "Were Johnny's community SNES arrivals free gifts, and what did he give up?",
+      "query": "Were Johnny's community SNES arrivals free gifts, and what did he give up?",
+      "answer": "The approximately five SNES carts were explicitly not free: Johnny says he traded a couple of complete or mostly complete-in-box NES games for them. The counterparty's handle is unclear across the repeated wording, so it should not be split into confidently identified extra traders or extra trades. Separate contacts supplied an unnamed game at a good price and Doomtroopers at a good price. Those reports move his remaining SNES list forward; they do not establish a finished set, cash sale of the NES games or that all community arrivals were gifts.",
+      "evidence_locations": [
+        "Paragraph 16",
+        "Paragraph 17"
+      ],
+      "forbidden": [
+        "No sale state for outgoing trade.",
+        "No free-gift classification.",
+        "No inferred second identical trade or Metal Slug game title."
+      ],
+      "status": "passed",
+      "reason": "Nonfree trade not sale; unnamed games and uncertain counterparties do not become extra trades."
+    },
+    {
+      "id": "cq025-pinball_import",
+      "episode": 25,
+      "question": "Which expensive game had Johnny actually bought, and which Japanese import was still only a target?",
+      "query": "Which expensive game had Johnny actually bought, and which Japanese import was still only a target?",
+      "answer": "Johnny reports buying the GBA game captioned 'Muppet Spinball' on eBay for fifty, complete in box, after about three months of watching it. He describes other listings around a hundred or more but says he does not know whether it is rare; neither that comparison nor other copies being new establishes his copy as sealed. Harmful Park, a Japanese PS1 cute shooter, is still a desired future purchase and he has not played it. His roughly US$350-or-more description is a dated asking-price observation, not a payment. The proposed PlayStation needed to play it is captioned unclearly, not a completed hardware purchase.",
+      "evidence_locations": [
+        "Paragraph 17",
+        "Paragraph 18"
+      ],
+      "forbidden": [
+        "No Harmful Park owned/purchased claim.",
+        "No exact catalog title forced for Muppet Spinball.",
+        "No current market price or verified hardware compatibility."
+      ],
+      "status": "passed",
+      "reason": "Actual GBA CIB purchase versus wanted/unplayed import and proposed hardware; historical prices qualified."
+    },
+    {
+      "id": "cq025-minecraft",
+      "episode": 25,
+      "question": "Had Kat finally tried Minecraft, and what did she do in John's world?",
+      "query": "Had Kat finally tried Minecraft, and what did she do in John's world?",
+      "answer": "Yes. Kat says she first played Minecraft at Easter, joining John's game to decorate his building and do landscaping—flowers, beds and hedges. She compares it with digital Lego and is lukewarm about the experience; she wanted to make things pretty rather than build. That is different from her earlier unplayed status and should not be confused with Johnny's separate report that he had no gaming time and could not fit in LEGO Dimensions. Her joking wish not to play Minecraft does not erase the session she describes.",
+      "evidence_locations": [
+        "Paragraph 18",
+        "Paragraph 19",
+        "Paragraph 20"
+      ],
+      "forbidden": [
+        "No invented big Minecraft construction project.",
+        "No completed LEGO session for Johnny.",
+        "No Kat never-played Minecraft claim."
+      ],
+      "status": "passed",
+      "reason": "Kat actual Easter landscaping in John world separated from Johnny failed LEGO scheduling."
+    },
+    {
+      "id": "cq025-prominence",
+      "episode": 25,
+      "question": "Which individual games received the most meaningful discussion in this episode?",
+      "query": "Which individual games received the most meaningful discussion in this episode?",
+      "answer": "Using meaningful untimed paragraph coverage, Life is Strange leads with four paragraphs, 10–13. Seven games tie next at two paragraphs each: Metroid, Final Fantasy, Panic Restaurant, Kirby's Adventure, Little Samson, the captioned Crystallis, and Minecraft. There is no unique second- or third-place game. The metric includes supported favorites and gameplay discussion, not simple title counts, and keeps publisher groups, series-level restrictions, packaging, unnamed collections and physical extras out of individual-game totals. Crystallis retains its caption-spelling qualification; this is not a favorites or purchase ranking.",
+      "evidence_locations": [
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5",
+        "Paragraph 6",
+        "Paragraph 7",
+        "Paragraph 8",
+        "Paragraph 10",
+        "Paragraph 11",
+        "Paragraph 12",
+        "Paragraph 13",
+        "Paragraph 19",
+        "Paragraph 20"
+      ],
+      "forbidden": [
+        "No strict top-three ordering.",
+        "Do not rank boxes or publisher catalogs as games.",
+        "No purchase/favorite inference from coverage."
+      ],
+      "status": "passed",
+      "reason": "Meaningful paragraph union and seven-way second-place tie match all reviewed spans; no unique top three."
+    },
+    {
+      "id": "cq026-task-scope",
+      "episode": 26,
+      "question": "Who was on this episode, and was it a complete worldwide guide?",
+      "query": "Who was on this episode, and was it a complete worldwide guide?",
+      "answer": "Kat and Johnny present a North American, especially US, collecting overview. They explicitly avoid a global treatment and invite omissions and recommendations. The closing top-five discussion is a future plan, not a list given here.",
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 21",
+        "Paragraph 26"
+      ],
+      "forbidden": [
+        "Tyler present",
+        "complete worldwide catalog",
+        "invented five favorites"
+      ],
+      "status": "passed",
+      "reason": "Kat/Johnny participation and North American introductory scope retained, not Tyler or worldwide exhaustive list."
+    },
+    {
+      "id": "cq026-task-rank",
+      "episode": 26,
+      "question": "Which three games received the most discussion?",
+      "query": "Which three games received the most discussion?",
+      "answer": "Using meaningful untimed paragraph coverage, Master System Sonic leads with six paragraphs. Second place is tied at two paragraphs each: Power Strike, Master System Sonic 2, Buster Douglas Boxing, Harmful Park and the unidentified manual-story game. There is therefore no unique top three. These are substantial/supporting paragraph unions, not minutes, favorites or purchase rankings; hardware, series, magazines and passing jokes are excluded.",
+      "evidence_locations": [
+        "Paragraph 4",
+        "Paragraph 8",
+        "Paragraph 9",
+        "Paragraph 12",
+        "Paragraph 13",
+        "Paragraph 14",
+        "Paragraph 15",
+        "Paragraph 16",
+        "Paragraph 18",
+        "Paragraph 21",
+        "Paragraph 22",
+        "Paragraph 24",
+        "Paragraph 25"
+      ],
+      "forbidden": [
+        "exact minutes",
+        "manual title confirmed",
+        "hardware ranked as game"
+      ],
+      "status": "passed",
+      "reason": "Typed meaningful paragraph prominence and tie qualifications checked against all 122 spans."
+    },
+    {
+      "id": "cq026-task-upc",
+      "episode": 26,
+      "question": "Which games were in the UPC-sticker group, and did they agree every collector needed the stickers?",
+      "query": "Which games were in the UPC-sticker group, and did they agree every collector needed the stickers?",
+      "answer": "Johnny names Strider, Golden Axe Warrior, Sonic and Spider-Man. Sonic drives the dispute: he describes a large historical premium and a friend's Toys R Us copy without a sticker. He does not know where stickers were applied or whether some disappeared. Both hosts allow personal set criteria rather than imposing a universal rule. This is their reported four-game group, not an independently verified regional checklist.",
+      "evidence_locations": [
+        "Paragraph 4",
+        "Paragraph 13",
+        "Paragraph 14"
+      ],
+      "forbidden": [
+        "verified distribution proof",
+        "current appraisal",
+        "Johnny owns friend's copy"
+      ],
+      "status": "passed",
+      "reason": "Four UPC group members correct; subjective set criteria and neighbor anecdote not universal distribution proof."
+    },
+    {
+      "id": "cq026-task-buster",
+      "episode": 26,
+      "question": "What made Buster Douglas Boxing a collecting obstacle, and who had bought it?",
+      "query": "What made Buster Douglas Boxing a collecting obstacle, and who had bought it?",
+      "answer": "Kat says it was the most she had paid within this collection and that she wanted good condition. They emphasize that availability can be the obstacle even when someone has money, contrasting Little Samson's frequent listings. The couple-hundred to about $400 discussion is their 2016 market estimate, not Kat's precise purchase price or today's value.",
+      "evidence_locations": [
+        "Paragraph 15",
+        "Paragraph 16"
+      ],
+      "forbidden": [
+        "exact Kat price",
+        "current price",
+        "all rare games equally available"
+      ],
+      "status": "passed",
+      "reason": "Kat ownership/purchase and difficulty finding affordable copy retained; no invented actual purchase price."
+    },
+    {
+      "id": "cq026-task-library",
+      "episode": 26,
+      "question": "How many Master System games did they say there were?",
+      "query": "How many Master System games did they say there were?",
+      "answer": "They give roughly 114–115 for the US, dependent on counting rules, mentioning Ultima and mail-away Power Strike disputes. They contrast more than 300 worldwide and broader regional longevity. Those are qualified host claims, not a reconciled catalog count; they intentionally limited the main overview to North America.",
+      "evidence_locations": [
+        "Paragraph 2",
+        "Paragraph 8",
+        "Paragraph 9"
+      ],
+      "forbidden": [
+        "exact verified count",
+        "US equals worldwide"
+      ],
+      "status": "passed",
+      "reason": "Dated 114/115 count and worldwide/Brazil/mailaway scope retained rather than certified catalog facts."
+    },
+    {
+      "id": "cq026-task-sound",
+      "episode": 26,
+      "question": "Why did Johnny dislike the sound, and did he think that proved the console was worse?",
+      "query": "Why did Johnny dislike the sound, and did he think that proved the console was worse?",
+      "answer": "Johnny describes the Master System sound as tinny and less appealing than the NES sound he remembers, mentioning Blaster Master and the garbled raw name Castle Manion. He acknowledges childhood familiarity and possible bias. The passage supports a personal preference, not a measured technical conclusion or a secure resolution of that garbled title.",
+      "evidence_locations": [
+        "Paragraph 4",
+        "Paragraph 5"
+      ],
+      "forbidden": [
+        "objective sound test",
+        "certain Castlevania identity"
+      ],
+      "status": "passed",
+      "reason": "Johnny subjective sound comparison and limited childhood exposure not objective console verdict."
+    },
+    {
+      "id": "cq026-task-hardware",
+      "episode": 26,
+      "question": "What should a collector know about the glasses, boxes and revised console?",
+      "query": "What should a collector know about the glasses, boxes and revised console?",
+      "answer": "The hosts warn that the plug-in 3D glasses' arms often break and distinguish separate and bundled boxes. They like protective clamshells but note manuals can slide into a fold. They describe Master System II as lacking card and 3D-glasses support, with Alex Kidd in Miracle World and some later Sonic built-ins plus different box covers. These are dated source claims, not an independently checked compatibility guide.",
+      "evidence_locations": [
+        "Paragraph 6",
+        "Paragraph 7",
+        "Paragraph 18"
+      ],
+      "forbidden": [
+        "all revisions identical",
+        "verified safety/compatibility"
+      ],
+      "status": "passed",
+      "reason": "Fragile glasses, clamshell/manual condition and revision card/glasses limits qualified as source reports."
+    },
+    {
+      "id": "cq026-task-imports",
+      "episode": 26,
+      "question": "What did they suggest trying beyond the American library?",
+      "query": "What did they suggest trying beyond the American library?",
+      "answer": "They suggest exploring the broader library for gameplay, naming Master of Darkness as Castlevania-like and Master System Sonic 2. Brazilian releases and blue tech toy packaging are discussed as collecting territory, but the console-longevity date is tentative. This is not a completed worldwide recommendation ranking.",
+      "evidence_locations": [
+        "Paragraph 11",
+        "Paragraph 12"
+      ],
+      "forbidden": [
+        "current prices",
+        "complete global favorites"
+      ],
+      "status": "passed",
+      "reason": "Import discussion keeps game/platform versions distinct and uncertain caption titles qualified."
+    },
+    {
+      "id": "cq026-task-magazines",
+      "episode": 26,
+      "question": "Was the magazine timeline clear enough to use as a firm historical fact?",
+      "query": "Was the magazine timeline clear enough to use as a firm historical fact?",
+      "answer": "No. The passage starts Sega Challenge in 1988 but then repeatedly says 1998 before moving to Sega Vision in 1990, with Team Sega newsletter in between. The names and claimed sequence can be retrieved, but the inconsistent years need verification before becoming a firm chronology. The transcript does not resolve the conflict.",
+      "evidence_locations": [
+        "Paragraph 18",
+        "Paragraph 19"
+      ],
+      "forbidden": [
+        "verified exact publication dates"
+      ],
+      "status": "passed",
+      "reason": "1988/1998/1990 chronology conflict preserved, not silently corrected."
+    },
+    {
+      "id": "cq026-task-converter",
+      "episode": 26,
+      "question": "What was Johnny's preferred way to play Master System games?",
+      "query": "What was Johnny's preferred way to play Master System games?",
+      "answer": "Johnny recommends the accessory called Power Converter in the transcript, saying it uses a Genesis, reduces connected consoles and permits the preferable Genesis controller. He calls it a hardware pass-through and claims perfect play. That recommendation is source-attributed: this episode is not evidence of a tested universal compatibility guarantee or a new adapter purchase.",
+      "evidence_locations": [
+        "Paragraph 20"
+      ],
+      "forbidden": [
+        "all software tested",
+        "bought adapter this episode"
+      ],
+      "status": "passed",
+      "reason": "Johnny pass-through hardware recommendation distinguished from emulation or a purchase; compatibility not externally certified."
+    },
+    {
+      "id": "cq026-task-play",
+      "episode": 26,
+      "question": "What had Kat and Johnny actually been playing?",
+      "query": "What had Kat and Johnny actually been playing?",
+      "answer": "Kat reports more Minecraft landscaping despite having said she would stop. Johnny reports Harmful Park on a computer emulator with an Xbox controller and enthusiastically recommends its cute style. Kat refuses the Life Is Strange prompts; those jokes do not establish that she played it. Johnny's emulator account does not establish ownership of an original Harmful Park copy.",
+      "evidence_locations": [
+        "Paragraph 21",
+        "Paragraph 22"
+      ],
+      "forbidden": [
+        "Kat Harmful Park played",
+        "authentic copy owned",
+        "Life Is Strange completed"
+      ],
+      "status": "passed",
+      "reason": "Kat Minecraft continuation/Life is Strange resistance and Johnny emulator play retained, no physical Harmful Park purchase."
+    },
+    {
+      "id": "cq026-task-kat-bought",
+      "episode": 26,
+      "question": "What did Kat buy, and was everything boxed?",
+      "query": "What did Kat buy, and was everything boxed?",
+      "answer": "Kat names Tetrisphere and Magical Tetris Challenge among N64 pickups and Mortal Kombat 2 among SNES pickups. The Magical Tetris Challenge reply says it is just the cart; the following garbled 'block' wording appears to describe a future box, not a boxed acquisition. The quick love/Tetris-dislike exchange is not securely attributed line by line.",
+      "evidence_locations": [
+        "Paragraph 22"
+      ],
+      "forbidden": [
+        "all boxed",
+        "certain Kat hates Tetris"
+      ],
+      "status": "passed",
+      "reason": "Kat three pickups, cart-only Magical Tetris and planned packaging distinguished; ambiguous Tetris preference speaker unassigned."
+    },
+    {
+      "id": "cq026-task-johnny-bought",
+      "episode": 26,
+      "question": "What did Johnny acquire, and which deals were still unfinished?",
+      "query": "What did Johnny acquire, and which deals were still unfinished?",
+      "answer": "Johnny says he bought more unnamed Super Nintendo boxes and Pinball of the Dead for GBA, then got Lilo and Stitch 1 and 2 for GBA because his wife would enjoy them. He is also working on unnamed deals and will discuss them next week only if finalized. No completed purchase or delivery is established for those prospective deals, and his wife's play is not reported.",
+      "evidence_locations": [
+        "Paragraph 22",
+        "Paragraph 23"
+      ],
+      "forbidden": [
+        "all deals completed",
+        "wife played games"
+      ],
+      "status": "passed",
+      "reason": "Johnny boxes/GBA games and spouse motivation not wife play; unfinished future deals not acquisitions."
+    },
+    {
+      "id": "cq026-task-quiz",
+      "episode": 26,
+      "question": "What was the manual-reading game, and did they reveal the answer?",
+      "query": "What was the manual-reading game, and did they reveal the answer?",
+      "answer": "Johnny introduces a guessing game and reads a story with Mad Dog, Scorpion and Red Falcon across two paragraphs. Kat says she has an idea but withholds it so listeners can guess. The title is not given in this transcript; identifying it confidently would require evidence beyond the episode. A possible next installment with Kat is conditional on listener interest.",
+      "evidence_locations": [
+        "Paragraph 23",
+        "Paragraph 24",
+        "Paragraph 25"
+      ],
+      "forbidden": [
+        "confirmed game title",
+        "Kat revealed answer"
+      ],
+      "status": "passed",
+      "reason": "Manual clues preserved without inventing unrevealed game title; no source-confirmed catalog identification."
+    },
+    {
+      "id": "cq026-task-open",
+      "episode": 26,
+      "question": "What useful follow-ups remained open at the end?",
+      "query": "What useful follow-ups remained open at the end?",
+      "answer": "The unresolved threads are Johnny's unnamed deals, listener guesses for the manual story, and knowledgeable Master System players' suggestions before a planned top five. Johnny explicitly says he owns the console and has played a few games, but does not identify that played set. Those invitations do not prove a later deal closed, quiz was solved or top five was recorded.",
+      "evidence_locations": [
+        "Paragraph 23",
+        "Paragraph 25",
+        "Paragraph 26"
+      ],
+      "forbidden": [
+        "future outcomes already happened",
+        "all discussed games played"
+      ],
+      "status": "passed",
+      "reason": "Future top-five, manual participation and possible deals remain open; repaired retrieval supplies P25/P26."
+    }
+  ]
+}

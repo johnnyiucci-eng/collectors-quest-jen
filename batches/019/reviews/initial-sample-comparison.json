@@ -1,0 +1,21 @@
+{
+  "schema_version": "1",
+  "compared_utc": "2026-09-14T04:37:00Z",
+  "scope": "Initial115-reference draft, before extractor additions; quarter sample2/2, purposive dense/correction supplement18/20; not random recall.",
+  "total": 22,
+  "covered": 20,
+  "missing": [
+    {
+      "id": "cq218-supplement-81-5",
+      "title": "Metroidbrainia evolution video",
+      "location": "01:26:07",
+      "quote": "Metroid brainia the evolution of a genre"
+    },
+    {
+      "id": "cq218-supplement-94-4",
+      "title": "Contra franchise affection",
+      "location": "01:39:56",
+      "quote": "love Contra"
+    }
+  ]
+}

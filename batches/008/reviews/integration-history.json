@@ -1,0 +1,22 @@
+{
+  "schema_version": "1",
+  "initial_failures": [
+    {
+      "check": "runtime_answers",
+      "initial": "29/31",
+      "intermediate": "30/31",
+      "final": "31/31",
+      "repair": "CQ14 origin and CQ207 market queries repaired; no required window dropped"
+    },
+    {
+      "check": "cq81_peer",
+      "initial": "One type failure;0/4 targeted owned-state coverage",
+      "final": "Compilation typed;4/4 owned-state coverage",
+      "evidence": "reviews/081-peer-review.md"
+    },
+    {
+      "check": "cq207_semantics",
+      "repair": "Removed unsupported sentimental-deficit interpretation from answer, lore and action summary"
+    }
+  ]
+}

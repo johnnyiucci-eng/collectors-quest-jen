@@ -1,0 +1,236 @@
+{
+  "review_binding": {"version":"cq-review-binding-1","sha256":"854578054cd65c57e97a35b1683da060b055bf97126cc4375cf53ce29afe315e","reviewed_utc":"2026-09-13T13:19:03.114300+00:00","meaning":"Exact reviewed local inputs; not independent semantic, audio or live certification"},
+  "schema_version": "1",
+  "required_for": "A1–A8 mandatory for every episode in every batch.",
+  "acceptance_scope": "Captured-text development review only, not audio, external-history or live certification.",
+  "episodes": [
+    {
+      "episode": 21,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All27 supplied windows read and accounted;91 explicitly typed split-return spans; qualified union ranking independently checked.",
+          "evidence": [
+            "batches/015/reviews/021-audit.md",
+            "batches/015/reviews/021-annotations.json",
+            "batches/015/reviews/coordinator-source-read.md"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "48reference buckets reconciled to full source; frozen sample checked with identity/omission repairs retained. 6 sick-day choice members; current play versus recurring comfort and rejected challenges.",
+          "evidence": [
+            "batches/015/reviews/021-audit.md",
+            "batches/015/reviews/021-annotations.json",
+            "batches/015/reviews/coordinator-source-read.md"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Kat and Johnny only; partner John distinct, Dain is the prior guest not present.",
+          "evidence": [
+            "batches/015/reviews/021-audit.md",
+            "batches/015/reviews/021-annotations.json",
+            "batches/015/reviews/coordinator-source-read.md"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "51action claims audited for subject, context and state; receipt, ownership, play, purchase and plans kept distinct.",
+          "evidence": [
+            "batches/015/reviews/021-audit.md",
+            "batches/015/reviews/021-annotations.json",
+            "batches/015/reviews/coordinator-source-read.md"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "All12 actual composed answers independently read; exact snapshots and individual reasons, required context and forbidden inferences preserved.",
+          "evidence": [
+            "batches/015/reviews/answer-review.json",
+            "batches/015/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Practical brief read for useful opening, examples, corrections, uncertainty and editorial proposals; written review not live rehearsal.",
+          "evidence": [
+            "batches/015/reviews/021-audit.md",
+            "batches/015/reviews/021-annotations.json",
+            "batches/015/reviews/coordinator-source-read.md"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Literal proofs, source accounting, final original/tuned/fresh/sample checks pass;195 shared tests passed after documented real regression repair.",
+          "evidence": [
+            "batches/015/reviews/verification.md",
+            "batches/015/reviews/integration-history.json"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All eight recurring steps explicitly recorded with evidence; exact final-input binding required and item-level uncertainty retained.",
+          "evidence": [
+            "batches/015/manifest.json",
+            "batches/015/reviews/verification.md",
+            "batches/015/reviews/answer-review.json"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 88,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All34 supplied windows read and accounted;107 explicitly typed split-return spans; qualified union ranking independently checked.",
+          "evidence": [
+            "batches/015/reviews/088-audit.md",
+            "batches/015/reviews/088-annotations.json",
+            "batches/015/reviews/coordinator-source-read.md"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "51reference buckets reconciled to full source; frozen sample checked with identity/omission repairs retained. No explicit selection list claimed; rapid examples and correction contexts source-linked.",
+          "evidence": [
+            "batches/015/reviews/088-audit.md",
+            "batches/015/reviews/088-annotations.json",
+            "batches/015/reviews/coordinator-source-read.md"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Tyler/Johnny bonus; no later guest identity inferred; uncertain short-turn actors.",
+          "evidence": [
+            "batches/015/reviews/088-audit.md",
+            "batches/015/reviews/088-annotations.json",
+            "batches/015/reviews/coordinator-source-read.md"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "29action claims audited for subject, context and state; receipt, ownership, play, purchase and plans kept distinct.",
+          "evidence": [
+            "batches/015/reviews/088-audit.md",
+            "batches/015/reviews/088-annotations.json",
+            "batches/015/reviews/coordinator-source-read.md"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "All14 actual composed answers independently read; exact snapshots and individual reasons, required context and forbidden inferences preserved.",
+          "evidence": [
+            "batches/015/reviews/answer-review.json",
+            "batches/015/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Practical brief read for useful opening, examples, corrections, uncertainty and editorial proposals; written review not live rehearsal.",
+          "evidence": [
+            "batches/015/reviews/088-audit.md",
+            "batches/015/reviews/088-annotations.json",
+            "batches/015/reviews/coordinator-source-read.md"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Literal proofs, source accounting, final original/tuned/fresh/sample checks pass;195 shared tests passed after documented real regression repair.",
+          "evidence": [
+            "batches/015/reviews/verification.md",
+            "batches/015/reviews/integration-history.json"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All eight recurring steps explicitly recorded with evidence; exact final-input binding required and item-level uncertainty retained.",
+          "evidence": [
+            "batches/015/manifest.json",
+            "batches/015/reviews/verification.md",
+            "batches/015/reviews/answer-review.json"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 214,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All171 supplied windows read and accounted;402 explicitly typed split-return spans; qualified union ranking independently checked.",
+          "evidence": [
+            "batches/015/reviews/214-audit.md",
+            "batches/015/reviews/214-annotations.json",
+            "batches/015/reviews/coordinator-source-read.md"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "255reference buckets reconciled to full source; frozen sample checked with identity/omission repairs retained. 51 memberships; extra eleventh games and withdrawn Counter-Strike retained.",
+          "evidence": [
+            "batches/015/reviews/214-audit.md",
+            "batches/015/reviews/214-annotations.json",
+            "batches/015/reviews/coordinator-source-read.md"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Tyler/Johnny, third-party reports distinct; explicit outro corrections.",
+          "evidence": [
+            "batches/015/reviews/214-audit.md",
+            "batches/015/reviews/214-annotations.json",
+            "batches/015/reviews/coordinator-source-read.md"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "67action claims audited for subject, context and state; receipt, ownership, play, purchase and plans kept distinct.",
+          "evidence": [
+            "batches/015/reviews/214-audit.md",
+            "batches/015/reviews/214-annotations.json",
+            "batches/015/reviews/coordinator-source-read.md"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "All24 actual composed answers independently read; exact snapshots and individual reasons, required context and forbidden inferences preserved.",
+          "evidence": [
+            "batches/015/reviews/answer-review.json",
+            "batches/015/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Practical brief read for useful opening, examples, corrections, uncertainty and editorial proposals; written review not live rehearsal.",
+          "evidence": [
+            "batches/015/reviews/214-audit.md",
+            "batches/015/reviews/214-annotations.json",
+            "batches/015/reviews/coordinator-source-read.md"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Literal proofs, source accounting, final original/tuned/fresh/sample checks pass;195 shared tests passed after documented real regression repair.",
+          "evidence": [
+            "batches/015/reviews/verification.md",
+            "batches/015/reviews/integration-history.json"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All eight recurring steps explicitly recorded with evidence; exact final-input binding required and item-level uncertainty retained.",
+          "evidence": [
+            "batches/015/manifest.json",
+            "batches/015/reviews/verification.md",
+            "batches/015/reviews/answer-review.json"
+          ]
+        }
+      }
+    }
+  ]
+}

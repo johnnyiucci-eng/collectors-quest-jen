@@ -1,0 +1,3516 @@
+{
+  "schema_version": "0.1",
+  "extraction_version": "manual-codex-2026-09-12-v1",
+  "source": {
+    "key": "sc-1829470383",
+    "episode_number": 248,
+    "title": "CQ 248 - Easy Inserts You're Missing",
+    "date": "2024-05-24",
+    "path": "episodes/cq-248-sc-1829470383.md",
+    "words": 17088,
+    "source_url": "https://soundcloud.com/collectors-quest/cq-248-easy-inserts-youre-missing",
+    "timing": "YouTube caption timestamps",
+    "sha256": "60b7240987c60d172a5235eeb3e0d93259aa2201ab9534e4ed4a55c9e926d87f"
+  },
+  "review": {
+    "status": "extracted_draft",
+    "read_coverage": "All 88 timestamp windows, 00:00:00 through 01:28:43, read consecutively through the closing credits.",
+    "omission_review": "pending",
+    "audio_verification": "not_performed",
+    "independent_review": "pending",
+    "transcript_limit": "Caption coverage reaches near video end; word accuracy and speaker turns unverified.",
+    "timing": "Timestamp labels are approximately one-minute window starts, not precise times of quoted phrases.",
+    "elapsed_model_time": null,
+    "subscription_usage": null
+  },
+  "participants": [
+    {
+      "name": "Tyler",
+      "confidence": "high",
+      "evidence": [
+        {
+          "location": "00:00:00",
+          "quote": "I'm Tyler here with Johnny"
+        }
+      ]
+    },
+    {
+      "name": "Johnny",
+      "confidence": "high",
+      "evidence": [
+        {
+          "location": "00:00:00",
+          "quote": "not much Tyler"
+        }
+      ]
+    }
+  ],
+  "main_topic": "Completing game copies with correct inserts and edition-specific components",
+  "secondary_topics": [
+    "CIB terminology",
+    "source lists",
+    "regional packaging",
+    "sports-game promotions",
+    "curation",
+    "listener questions",
+    "acquisition feelings",
+    "recent purchases"
+  ],
+  "games": [
+    {
+      "id": "g-nights",
+      "canonical_title": null,
+      "spoken_forms": [
+        "kns into dreams"
+      ],
+      "entity_granularity": "unresolved",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "evidence": [
+            {
+              "location": "00:01:01",
+              "quote": "kns into dreams"
+            }
+          ],
+          "context": "Candidate NiGHTS into Dreams; claimed circus inspiration is unverified.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Mixed-speaker caption windows; attribution unresolved."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-tecmo-super-baseball",
+      "canonical_title": "Tecmo Super Baseball",
+      "spoken_forms": [
+        "techmo super baseball"
+      ],
+      "entity_granularity": "multi_platform_title",
+      "platform": "SNES / Genesis",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "evidence": [
+            {
+              "location": "00:26:38",
+              "quote": "techmo super baseball on the Genesis and on the Super Nintendo"
+            },
+            {
+              "location": "00:08:09",
+              "quote": "techmo super baseball"
+            },
+            {
+              "location": "00:09:11",
+              "quote": "I got 73 results"
+            }
+          ],
+          "context": "Reference sheets differ by game/platform; SNES search example at 00:08:09–00:09:11.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-tecmo-baseball",
+      "canonical_title": "Tecmo Baseball",
+      "spoken_forms": [
+        "techmo baseball"
+      ],
+      "entity_granularity": "release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "00:13:19",
+              "quote": "techmo baseball"
+            },
+            {
+              "location": "00:26:38",
+              "quote": "techmo baseball is not the same as techmo super baseball"
+            }
+          ],
+          "context": "Address-slip donor example; later explicitly distinguished from Super Baseball.",
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-ninja-gaiden",
+      "canonical_title": "Ninja Gaiden",
+      "spoken_forms": [
+        "Ninja giden"
+      ],
+      "entity_granularity": "release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "00:13:19",
+              "quote": "Ninja giden and Ninja giden 2"
+            }
+          ],
+          "context": "Address-slip recipient; complete listing can still lack it.",
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-ninja-gaiden-2",
+      "canonical_title": "Ninja Gaiden II",
+      "spoken_forms": [
+        "Ninja giden 2"
+      ],
+      "entity_granularity": "release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "00:13:19",
+              "quote": "Ninja giden 2"
+            }
+          ],
+          "context": "Address-slip example; subtitle not supplied.",
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-solomons-key",
+      "canonical_title": "Solomon's Key",
+      "spoken_forms": [
+        "Solomon's Key"
+      ],
+      "entity_granularity": "release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "00:13:19",
+              "quote": "Solomon's Key"
+            }
+          ],
+          "context": "Address-slip example.",
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-tecmo-bowl",
+      "canonical_title": "Tecmo Bowl",
+      "spoken_forms": [
+        "techmobile / techmo bull"
+      ],
+      "entity_granularity": "release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "00:26:38",
+              "quote": "techmo bull doesn't have one of these either"
+            }
+          ],
+          "context": "Candidate mapping of caption spellings; reference-sheet exclusion differs from earlier address-slip claim.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Mixed-speaker caption windows; attribution unresolved."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-little-samson",
+      "canonical_title": "Little Samson",
+      "spoken_forms": [
+        "little Samson"
+      ],
+      "entity_granularity": "release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "00:16:23",
+              "quote": "little Samson ends in a dash five"
+            },
+            {
+              "location": "00:52:04",
+              "quote": "little Samson"
+            }
+          ],
+          "context": "Specific Taito insert revision and later generic warning-sheet example.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Mixed-speaker caption windows; attribution unresolved."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-panic-restaurant",
+      "canonical_title": "Panic Restaurant",
+      "spoken_forms": [
+        "panic restaurant"
+      ],
+      "entity_granularity": "release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "00:16:23",
+              "quote": "panic restaurant"
+            }
+          ],
+          "context": "Speaker thinks same Taito -5 insert occurs here; preserve uncertainty.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Mixed-speaker caption windows; attribution unresolved."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-yugioh",
+      "canonical_title": "Yu-Gi-Oh!",
+      "spoken_forms": [
+        "Yu-Gi-Oh game"
+      ],
+      "entity_granularity": "series",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "00:18:24",
+              "quote": "every Yu-Gi-Oh game"
+            }
+          ],
+          "context": "Pack-in promo cards illustrate set codes; no individual video-game title named.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Mixed-speaker caption windows; attribution unresolved."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-tecmo-super-bowl",
+      "canonical_title": "Tecmo Super Bowl",
+      "spoken_forms": [
+        "Techo Super Bowl"
+      ],
+      "entity_granularity": "multi_platform_title",
+      "platform": "NES / SNES / Genesis",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "evidence": [
+            {
+              "location": "00:25:36",
+              "quote": "Techo Super Bowl on the NES"
+            }
+          ],
+          "context": "Game/platform-specific reference guides; popularity and donor collecting discussed.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Mixed-speaker caption windows; attribution unresolved."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-tecmo-super-bowl-2",
+      "canonical_title": "Tecmo Super Bowl II",
+      "spoken_forms": [
+        "techmo Super Bowl 2"
+      ],
+      "entity_granularity": "multi_platform_title",
+      "platform": "SNES / Genesis",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "evidence": [
+            {
+              "location": "00:26:38",
+              "quote": "Techo Super Bowl 2 on the Super Nintendo and the Genesis"
+            }
+          ],
+          "context": "Guide is harder to source; relative rarity expressed with a later garbled comparison.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Mixed-speaker caption windows; attribution unresolved."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-tecmo-super-bowl-3",
+      "canonical_title": "Tecmo Super Bowl III",
+      "spoken_forms": [
+        "Techo Super Bowl 3"
+      ],
+      "entity_granularity": "multi_platform_title",
+      "platform": "SNES / Genesis context",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "00:25:36",
+              "quote": "Techo Super Bowl 3"
+            }
+          ],
+          "context": "Reference-guide family and relative availability example.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Mixed-speaker caption windows; attribution unresolved."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-tecmo-nba",
+      "canonical_title": "Tecmo NBA Basketball",
+      "spoken_forms": [
+        "techmo NBA basketball"
+      ],
+      "entity_granularity": "multi_platform_title",
+      "platform": "NES / Genesis / SNES",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "00:26:38",
+              "quote": "basketball on the NES Genesis and the Super Nintendo"
+            },
+            {
+              "location": "00:25:36",
+              "quote": "techmo NBA"
+            }
+          ],
+          "context": "Title begins in preceding window; reference guides differ by platform.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Mixed-speaker caption windows; attribution unresolved."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-magician",
+      "canonical_title": "Magician",
+      "spoken_forms": [
+        "Magician"
+      ],
+      "entity_granularity": "release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "evidence": [
+            {
+              "location": "00:28:40",
+              "quote": "if Magician on NES had some rare insert"
+            }
+          ],
+          "context": "Hypothetical example, not evidence that such an insert exists.",
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-wheel-fortune",
+      "canonical_title": "Wheel of Fortune",
+      "spoken_forms": [
+        "Wheel of Fortune"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "NES context",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "00:33:46",
+              "quote": "take one out of Wheel of Fortune"
+            }
+          ],
+          "context": "Generic baggie donor example; do not merge automatically with named Vanna White edition.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Mixed-speaker caption windows; attribution unresolved."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-wheel-vanna",
+      "canonical_title": "Wheel of Fortune Featuring Vanna White",
+      "spoken_forms": [
+        "Wheel of Fortune with Vanna white"
+      ],
+      "entity_granularity": "release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "evidence": [
+            {
+              "location": "00:28:40",
+              "quote": "Wheel of Fortune with Vanna white inserts"
+            }
+          ],
+          "context": "Hypothetical low-interest insert hunt; official title normalization provisional.",
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-zelda-1",
+      "canonical_title": "The Legend of Zelda",
+      "spoken_forms": [
+        "Legend of Zelda"
+      ],
+      "entity_granularity": "release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "evidence": [
+            {
+              "location": "00:33:46",
+              "quote": "Zelda 1 and Zelda 2"
+            },
+            {
+              "location": "00:34:47",
+              "quote": "Canadians didn't have the little cutout"
+            },
+            {
+              "location": "00:35:47",
+              "quote": "that's a bad metric"
+            }
+          ],
+          "context": "Cutout baggie, gold-cart box window, grading orientation and uncertain Canadian exception.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Mixed-speaker caption windows; attribution unresolved."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-zelda-2",
+      "canonical_title": "Zelda II: The Adventure of Link",
+      "spoken_forms": [
+        "Zelda 2"
+      ],
+      "entity_granularity": "release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "evidence": [
+            {
+              "location": "00:33:46",
+              "quote": "Zelda 1 and Zelda 2"
+            },
+            {
+              "location": "00:36:48",
+              "quote": "I think that's only on Zelda 1"
+            }
+          ],
+          "context": "Cutout baggie; Canadian box exception reconsidered at 00:36:48.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Mixed-speaker caption windows; attribution unresolved."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-babar",
+      "canonical_title": null,
+      "spoken_forms": [
+        "Babar the elephant"
+      ],
+      "entity_granularity": "unresolved",
+      "platform": "GBA",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "evidence": [
+            {
+              "location": "00:36:48",
+              "quote": "Babar the elephant on GBA"
+            }
+          ],
+          "context": "French manual shrink-wrapped on back; Quebec exclusivity explicitly uncertain.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Mixed-speaker caption windows; attribution unresolved."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-zelda-lttp",
+      "canonical_title": "The Legend of Zelda: A Link to the Past",
+      "spoken_forms": [
+        "A Link to the Past"
+      ],
+      "entity_granularity": "release",
+      "platform": "SNES",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "evidence": [
+            {
+              "location": "00:37:49",
+              "quote": "Link to the Past top secrets"
+            },
+            {
+              "location": "00:38:49",
+              "quote": "I don't know if it came with the the player choice versions"
+            },
+            {
+              "location": "00:39:50",
+              "quote": "make this thing twice the size"
+            }
+          ],
+          "context": "Top Secrets folded insert, seal, US/Canadian dimensions; Player's Choice applicability unknown.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-zelda-lbw",
+      "canonical_title": "The Legend of Zelda: A Link Between Worlds",
+      "spoken_forms": [
+        "a link between worlds"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "evidence": [
+            {
+              "location": "00:37:49",
+              "quote": "between worlds"
+            },
+            {
+              "location": "00:36:48",
+              "quote": "not as good as a link"
+            }
+          ],
+          "context": "Playful comparison begun in preceding window; not substantive coverage.",
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-zelda-majora",
+      "canonical_title": "The Legend of Zelda: Majora's Mask",
+      "spoken_forms": [
+        "Major's mask"
+      ],
+      "entity_granularity": "release",
+      "platform": "N64",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "evidence": [
+            {
+              "location": "00:42:53",
+              "quote": "first print holographic collector's edition"
+            },
+            {
+              "location": "00:44:56",
+              "quote": "just like oh yeah it's this is the stuff that was in the Box who gives a is where this insert falls on people's desire to own it so this or get a premium for funny part this to me is just like a oh yeah get this like this is everywhere everyone has it and then the call of there's a similar AATA insert on Call Of Duty Modern Warfare 2 which is the same thing it's a a correction about the number of players in the game and for whatever reason I think that's the coolest thing I think it's cuz it's easier to lose it's like this little smaller than index card thing in an Xbox 360 case uh versus a thing that's like completely perfectly sized to fit in an N64 box but uh I don't know my collector brain is weird yeah you should you should go find both of these if this is a thing that you think you should own everyone listening to this owns Major's mask and if they don't it's specifically because they hate Nintendo 64 I mean that's fair but if you own this game you should go get this and put it in there will be a day where someone gives a and then they mention this"
+            }
+          ],
+          "context": "Correction insert says one player rather than manual's four-player statement; edition claim retained as reported.",
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-zelda-four-swords",
+      "canonical_title": "The Legend of Zelda: Four Swords",
+      "spoken_forms": [
+        "four Swords"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "evidence": [
+            {
+              "location": "00:42:53",
+              "quote": "a preview for four Swords"
+            }
+          ],
+          "context": "Joke about erroneous four-player manual; precise installment not externally confirmed.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Mixed-speaker caption windows; attribution unresolved."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-cod-mw2",
+      "canonical_title": "Call of Duty: Modern Warfare 2",
+      "spoken_forms": [
+        "Call Of Duty Modern Warfare 2"
+      ],
+      "entity_granularity": "release",
+      "platform": "Xbox 360",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "00:44:56",
+              "quote": "Call Of Duty Modern Warfare 2"
+            }
+          ],
+          "context": "Small player-count correction insert compared with Majora's Mask.",
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-bases-loaded-2",
+      "canonical_title": "Bases Loaded II: Second Season",
+      "spoken_forms": [
+        "Bases Loaded two"
+      ],
+      "entity_granularity": "release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "evidence": [
+            {
+              "location": "00:45:57",
+              "quote": "Bases Loaded two"
+            }
+          ],
+          "context": "Louisville Slugger sweepstakes slip; prize merchandise identification remains uncertain.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-bases-loaded",
+      "canonical_title": "Bases Loaded",
+      "spoken_forms": [
+        "Bases Loaded"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "evidence": [
+            {
+              "location": "00:45:57",
+              "quote": "sequel to Bases Loaded"
+            }
+          ],
+          "context": "Brief predecessor name, not a separate insert claim.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Mixed-speaker caption windows; attribution unresolved."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-monopoly",
+      "canonical_title": "Monopoly",
+      "spoken_forms": [
+        "Monopoly"
+      ],
+      "entity_granularity": "release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "00:52:04",
+              "quote": "Monopoly"
+            }
+          ],
+          "context": "Generic epilepsy-warning donor example.",
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-mc-kids",
+      "canonical_title": "M.C. Kids",
+      "spoken_forms": [
+        "M kids"
+      ],
+      "entity_granularity": "release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "00:52:04",
+              "quote": "M kids"
+            }
+          ],
+          "context": "Provisional title normalization; warning-sheet donor example.",
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-tiny-toon",
+      "canonical_title": "Tiny Toon Adventures",
+      "spoken_forms": [
+        "tiny tune Adventures"
+      ],
+      "entity_granularity": "release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "00:52:04",
+              "quote": "tiny tune Adventures"
+            }
+          ],
+          "context": "Provisional title normalization; warning-sheet donor example.",
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-snow-bros",
+      "canonical_title": "Snow Bros.",
+      "spoken_forms": [
+        "snow Bros"
+      ],
+      "entity_granularity": "release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "00:52:04",
+              "quote": "snow Bros"
+            }
+          ],
+          "context": "Claimed warning-sheet recipient.",
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-rockin-kats",
+      "canonical_title": "Rockin' Kats",
+      "spoken_forms": [
+        "rocking cats"
+      ],
+      "entity_granularity": "release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "00:52:04",
+              "quote": "rocking cats"
+            }
+          ],
+          "context": "Provisional title normalization; claimed warning-sheet recipient.",
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-terminators",
+      "canonical_title": null,
+      "spoken_forms": [
+        "the Terminators"
+      ],
+      "entity_granularity": "unresolved",
+      "platform": "NES context",
+      "region_edition": null,
+      "identification_confidence": "low",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "00:52:04",
+              "quote": "the Terminators"
+            }
+          ],
+          "context": "Plural/garbled phrase does not identify which Terminator release(s).",
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-zombie-nation",
+      "canonical_title": "Zombie Nation",
+      "spoken_forms": [
+        "Zombie Nation"
+      ],
+      "entity_granularity": "release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "00:52:04",
+              "quote": "Zombie Nation"
+            }
+          ],
+          "context": "Claimed warning-sheet recipient.",
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-bucky",
+      "canonical_title": "Bucky O'Hare",
+      "spoken_forms": [
+        "Bucky oare"
+      ],
+      "entity_granularity": "release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "00:52:04",
+              "quote": "Bucky oare"
+            }
+          ],
+          "context": "Warning-sheet recipient and example of listings that appear more complete.",
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-cowboy-kid",
+      "canonical_title": "Cowboy Kid",
+      "spoken_forms": [
+        "Cowboy Kid"
+      ],
+      "entity_granularity": "release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "00:52:04",
+              "quote": "Cowboy Kid"
+            }
+          ],
+          "context": "Claimed warning-sheet recipient.",
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-gun-nac",
+      "canonical_title": "Gun-Nac",
+      "spoken_forms": [
+        "gun neack"
+      ],
+      "entity_granularity": "release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "00:52:04",
+              "quote": "gun neack"
+            }
+          ],
+          "context": "Provisional title normalization; claimed warning-sheet recipient.",
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-kawasaki",
+      "canonical_title": null,
+      "spoken_forms": [
+        "Kawasaki super bike"
+      ],
+      "entity_granularity": "unresolved",
+      "platform": "Genesis",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "00:53:04",
+              "quote": "Kawasaki super bike on Genesis"
+            }
+          ],
+          "context": "Repeated-copy upgrade anecdote; exact title and speaker require checking.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Mixed-speaker caption windows; attribution unresolved."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-bill-elliott",
+      "canonical_title": "Bill Elliott's NASCAR Challenge",
+      "spoken_forms": [
+        "Bill Elliot's NASCAR challenge"
+      ],
+      "entity_granularity": "multi_platform_title",
+      "platform": "NES / PC / Amiga",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "evidence": [
+            {
+              "location": "00:54:05",
+              "quote": "Bill Elliot's NASCAR challenge"
+            },
+            {
+              "location": "00:55:06",
+              "quote": "I don't have a th%"
+            },
+            {
+              "location": "00:58:10",
+              "quote": "computer version of Bill Elliott's NASCAR challenge"
+            },
+            {
+              "location": "00:59:11",
+              "quote": "variant that doesn't have the splash"
+            }
+          ],
+          "context": "Daytona contest insert, promotional and later boxes, PC/Amiga chronology; do not certify first-print order.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-castlevania-2",
+      "canonical_title": "Castlevania II: Simon's Quest",
+      "spoken_forms": [
+        "Castlevania too"
+      ],
+      "entity_granularity": "release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "evidence": [
+            {
+              "location": "00:54:05",
+              "quote": "Castlevania too"
+            }
+          ],
+          "context": "Mistaken guess at the featured silver-box game.",
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-castlevania-unspecified",
+      "canonical_title": "Castlevania",
+      "spoken_forms": [
+        "Castlevania insert"
+      ],
+      "entity_granularity": "series_or_unspecified_title",
+      "platform": "NES context",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "evidence": [
+            {
+              "location": "00:54:05",
+              "quote": "Castlevania insert"
+            }
+          ],
+          "context": "Reference to offer-splash versus clean box choice; exact release unclear.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Mixed-speaker caption windows; attribution unresolved."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-nhl94",
+      "canonical_title": "NHL 94",
+      "spoken_forms": [
+        "NHL 94"
+      ],
+      "entity_granularity": "release",
+      "platform": "Genesis",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "evidence": [
+            {
+              "location": "01:02:13",
+              "quote": "NHL 94 is an absolute Bonafide classic"
+            }
+          ],
+          "context": "First-round badge/POG promotion; generic EA Sports POG shared with two other titles.",
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-madden94",
+      "canonical_title": "Madden NFL 94",
+      "spoken_forms": [
+        "Madden 94"
+      ],
+      "entity_granularity": "release",
+      "platform": "Genesis",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "01:01:13",
+              "quote": "Madden 94 has its own Madden 94 POG"
+            }
+          ],
+          "context": "Distinct POG in promotion; title normalization not release database-matched.",
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-nba-showdown94",
+      "canonical_title": "NBA Showdown '94",
+      "spoken_forms": [
+        "NBA Showdown 94"
+      ],
+      "entity_granularity": "release",
+      "platform": "Genesis",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "evidence": [
+            {
+              "location": "01:03:16",
+              "quote": "opened two sealed copies of Showdown 94"
+            },
+            {
+              "location": "01:00:12",
+              "quote": "NBA Showdown"
+            },
+            {
+              "location": "01:01:13",
+              "quote": "generic EA Sports POG"
+            }
+          ],
+          "context": "Shared EA Sports POG; Tyler says he opened two copies to complete POG set.",
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-fifa",
+      "canonical_title": "FIFA International Soccer",
+      "spoken_forms": [
+        "FIFA international soccer"
+      ],
+      "entity_granularity": "release",
+      "platform": "Genesis",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "01:01:13",
+              "quote": "FIFA international soccer"
+            }
+          ],
+          "context": "Distinct FIFA POG; first-run badge discussed.",
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-bill-walsh",
+      "canonical_title": "Bill Walsh College Football",
+      "spoken_forms": [
+        "Bill Walsh college football"
+      ],
+      "entity_granularity": "release",
+      "platform": "Genesis",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "01:01:13",
+              "quote": "Bill Walsh college football"
+            }
+          ],
+          "context": "Shared generic EA Sports POG.",
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-mega-man2",
+      "canonical_title": "Mega Man 2",
+      "spoken_forms": [
+        "Mega Man 2"
+      ],
+      "entity_granularity": "release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "01:04:18",
+              "quote": "Mega Man 2"
+            }
+          ],
+          "context": "Insert/print variation and continued sale alongside later sequels.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Mixed-speaker caption windows; attribution unresolved."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-mega-man3",
+      "canonical_title": "Mega Man 3",
+      "spoken_forms": [
+        "Mega Man 3"
+      ],
+      "entity_granularity": "release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "evidence": [
+            {
+              "location": "01:06:21",
+              "quote": "Mega Man refund"
+            },
+            {
+              "location": "01:07:22",
+              "quote": "they left the stupid yellow bar"
+            },
+            {
+              "location": "01:08:24",
+              "quote": "not the same as the other Capcom refunds"
+            }
+          ],
+          "context": "Specific refund insert versus Captain Commando refund; later offer-removed box is an alternative.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-mega-man4",
+      "canonical_title": "Mega Man 4",
+      "spoken_forms": [
+        "Mega Man 4"
+      ],
+      "entity_granularity": "release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "evidence": [
+            {
+              "location": "01:04:18",
+              "quote": "Mega Man 4 was on the Shelf"
+            }
+          ],
+          "context": "Chronology context for older game remaining in print.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Mixed-speaker caption windows; attribution unresolved."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-bomberman64",
+      "canonical_title": "Bomberman 64",
+      "spoken_forms": [
+        "Bomberman 64"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "evidence": [
+            {
+              "location": "01:11:26",
+              "quote": "play Bomberman 64"
+            }
+          ],
+          "context": "Hypothetical couch play with resurrected Jesus; no historical or religious factual claim.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Mixed-speaker caption windows; attribution unresolved."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-diablo",
+      "canonical_title": "Diablo",
+      "spoken_forms": [
+        "Diablo"
+      ],
+      "entity_granularity": "series_or_unspecified_title",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "evidence": [
+            {
+              "location": "01:19:34",
+              "quote": "I played Diablo"
+            }
+          ],
+          "context": "Johnny reports trying a revamped game; numbered installment not spoken.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-shaq-fu",
+      "canonical_title": "Shaq Fu",
+      "spoken_forms": [
+        "Shak Fu"
+      ],
+      "entity_granularity": "release",
+      "platform": "Genesis",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "evidence": [
+            {
+              "location": "01:20:36",
+              "quote": "Shak Fu on the Genesis"
+            }
+          ],
+          "context": "Johnny bought promotional CD; sleeve/pack-in configuration and sampler clarification.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-superman64",
+      "canonical_title": "Superman 64",
+      "spoken_forms": [
+        "Superman 64"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "evidence": [
+            {
+              "location": "01:21:37",
+              "quote": "Superman 64"
+            }
+          ],
+          "context": "Remembered bad-game comparison leading to engagement-farming discussion.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Mixed-speaker caption windows; attribution unresolved."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-baten-kaitos",
+      "canonical_title": "Baten Kaitos",
+      "spoken_forms": [
+        "Baton kitos"
+      ],
+      "entity_granularity": "release",
+      "platform": "GameCube",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "evidence": [
+            {
+              "location": "01:22:37",
+              "quote": "Baton kitos on the on the GameCube"
+            },
+            {
+              "location": "01:23:37",
+              "quote": "I don't have any proof of that yet so merely speculation"
+            }
+          ],
+          "context": "Original game's soundtrack variant; Toys R Us reported, Amazon availability expressly speculative.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-baten-origins",
+      "canonical_title": "Baten Kaitos Origins",
+      "spoken_forms": [
+        "Origins"
+      ],
+      "entity_granularity": "release",
+      "platform": "GameCube context",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": false,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "evidence": [
+            {
+              "location": "01:22:37",
+              "quote": "not Origins"
+            }
+          ],
+          "context": "Explicit exclusion from soundtrack claim, not evidence of this edition having the CD.",
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-pokemon-red",
+      "canonical_title": "Pokemon Project Studio Red Version",
+      "spoken_forms": [
+        "Pokemon project Studio Red version"
+      ],
+      "entity_granularity": "creative_software",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "evidence": [
+            {
+              "location": "01:24:38",
+              "quote": "Pokemon project Studio Red version and Blue version"
+            }
+          ],
+          "context": "Earlier purchase referenced by Tyler; do not count as a gameplay discussion.",
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-pokemon-blue",
+      "canonical_title": "Pokemon Project Studio Blue Version",
+      "spoken_forms": [
+        "Blue version"
+      ],
+      "entity_granularity": "creative_software",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "evidence": [
+            {
+              "location": "01:24:38",
+              "quote": "Pokemon project Studio Red version and Blue version"
+            }
+          ],
+          "context": "Linked counterpart in same purchase reference; software/platform mapping pending.",
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-lower-apshai",
+      "canonical_title": "Lower Reaches of Apshai",
+      "spoken_forms": [
+        "lower reaches of apshai"
+      ],
+      "entity_granularity": "expansion_or_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "01:24:38",
+              "quote": "lower reaches of apshai"
+            }
+          ],
+          "context": "Errata in acquired Automated Simulations catalog; catalog date is garbled.",
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-temple-apshai",
+      "canonical_title": "Temple of Apshai",
+      "spoken_forms": [
+        "Temple of fshi"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "early computers, unspecified",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "01:25:38",
+              "quote": "Temple of fshi"
+            },
+            {
+              "location": "01:25:38",
+              "quote": "I don't even have the games"
+            }
+          ],
+          "context": "Example of games associated with catalog; Tyler explicitly says he does not own the games.",
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-invasion-orion",
+      "canonical_title": "Invasion Orion",
+      "spoken_forms": [
+        "Invasion Orion"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "early computers, unspecified",
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "evidence": [
+            {
+              "location": "01:25:38",
+              "quote": "Invasion Orion"
+            },
+            {
+              "location": "01:25:38",
+              "quote": "I don't even have the games"
+            }
+          ],
+          "context": "Catalog association, not a purchase of the game.",
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-v-rising",
+      "canonical_title": "V Rising",
+      "spoken_forms": [
+        "V Rising"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "evidence": [
+            {
+              "location": "01:25:38",
+              "quote": "probably V Rising a little bit I don't know"
+            }
+          ],
+          "context": "Tyler's uncertain recall of recent play.",
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-willy-wonka",
+      "canonical_title": null,
+      "spoken_forms": [
+        "Willy Wonka machine"
+      ],
+      "entity_granularity": "casino_machine",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "evidence": [
+            {
+              "location": "01:26:40",
+              "quote": "Willy Wonka machine"
+            }
+          ],
+          "context": "Casino slot machine anecdote; exact machine model unknown.",
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Dialogue continuity and named handoffs; captions do not supply reliable speaker labels."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-rockets",
+      "canonical_title": null,
+      "spoken_forms": [
+        "the Rockets"
+      ],
+      "entity_granularity": "unresolved_casino_reference",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "low",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "evidence": [
+            {
+              "location": "01:26:40",
+              "quote": "money on the Rockets"
+            }
+          ],
+          "context": "Possible casino game/machine reference, not a verified title.",
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Mixed-speaker caption windows; attribution unresolved."
+          }
+        }
+      ]
+    }
+  ],
+  "lore": [
+    {
+      "id": "cq248-l01",
+      "kind": "show_discussion",
+      "summary": "CIB terminology is inconsistent: cart/instructions/box, complete-in-box and complete-in-case are debated; listings may still lack a manual.",
+      "topics": [
+        "completeness",
+        "terminology"
+      ],
+      "evidence": [
+        {
+          "location": "00:07:09",
+          "quote": "missing a manual"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption window mixes turns; no reliable speaker labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l02",
+      "kind": "anecdote",
+      "summary": "Johnny reports an eBay search returning one result for Tecmo Baseball SNES but 73 after adding Super. This is a dated search anecdote, not a present search benchmark.",
+      "topics": [
+        "search",
+        "research"
+      ],
+      "evidence": [
+        {
+          "location": "00:09:11",
+          "quote": "I got 73 results"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named handoffs and dialogue continuity; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l03",
+      "kind": "show_discussion",
+      "summary": "The episode frames upgrading games already owned as a current show theme; 'season' is immediately described as informal because CQ uses running episode numbers.",
+      "topics": [
+        "show_history",
+        "curation"
+      ],
+      "evidence": [
+        {
+          "location": "00:10:13",
+          "quote": "we don't actually have seasons"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption window mixes turns; no reliable speaker labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l04",
+      "kind": "reported_factual_claim",
+      "summary": "Tyler describes a long-running GameFAQs NES insert list as sourced from opened sealed games; author spelling and underlying source still require verification.",
+      "topics": [
+        "research",
+        "provenance"
+      ],
+      "evidence": [
+        {
+          "location": "00:12:17",
+          "quote": "verified from open sealed games"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Named handoffs and dialogue continuity; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l05",
+      "kind": "reported_factual_claim",
+      "summary": "A small Tecmo address label may be tucked into a watch-offer insert and has no product code. The exact redemption requirement is expressly uncertain.",
+      "topics": [
+        "inserts",
+        "uncoded_components"
+      ],
+      "evidence": [
+        {
+          "location": "00:13:19",
+          "quote": "I could be wrong about that"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Named handoffs and dialogue continuity; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l06",
+      "kind": "reported_factual_claim",
+      "summary": "Tecmo Baseball is presented as a cheaper source of an address slip also needed for Ninja Gaiden; the speaker's percentage estimate is informal, not measured prevalence.",
+      "topics": [
+        "inserts",
+        "donor_copies"
+      ],
+      "evidence": [
+        {
+          "location": "00:14:20",
+          "quote": "maybe 5% of the copies"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Named handoffs and dialogue continuity; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l07",
+      "kind": "joke",
+      "summary": "The Tecmo interruption becomes a mock dispute about 'layering' the conversation, then returns to the insert explanation.",
+      "topics": [
+        "humor",
+        "conversation_style"
+      ],
+      "evidence": [
+        {
+          "location": "00:12:17",
+          "quote": "layering our conversation"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption window mixes turns; no reliable speaker labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l08",
+      "kind": "reported_factual_claim",
+      "summary": "The Taito Wave insert associated with Little Samson is said to end in -5, unlike superficially similar cheaper inserts; Panic Restaurant inclusion is qualified with 'I think'.",
+      "topics": [
+        "product_codes",
+        "variants"
+      ],
+      "evidence": [
+        {
+          "location": "00:16:23",
+          "quote": "I think that insert only comes in little Samson and panic restaurant"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption window mixes turns; no reliable speaker labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l09",
+      "kind": "show_discussion",
+      "summary": "Identical-looking posters across platforms can have different product codes. Visual similarity alone is insufficient to establish the correct component.",
+      "topics": [
+        "product_codes",
+        "variants"
+      ],
+      "evidence": [
+        {
+          "location": "00:17:23",
+          "quote": "everything will look the same except for the product code"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption window mixes turns; no reliable speaker labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l10",
+      "kind": "show_discussion",
+      "summary": "Yu-Gi-Oh! pack-in cards illustrate that a matching card name is insufficient: the correct promotional set number matters.",
+      "topics": [
+        "product_codes",
+        "promo_cards"
+      ],
+      "evidence": [
+        {
+          "location": "00:19:26",
+          "quote": "it's not an additional code stamped on it"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption window mixes turns; no reliable speaker labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l11",
+      "kind": "show_discussion",
+      "summary": "Revision numbers and dates need not match across box, manual and cartridge, because the components can be revised independently; some releases start at -1.",
+      "topics": [
+        "revision_codes",
+        "first_prints"
+      ],
+      "evidence": [
+        {
+          "location": "00:22:31",
+          "quote": "some things start at dash one"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption window mixes turns; no reliable speaker labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l12",
+      "kind": "reported_factual_claim",
+      "summary": "Tecmo quick reference sheets are specific to the game and platform. Tecmo Baseball is distinguished from Super Baseball; Tecmo Bowl is distinguished from Super Bowl.",
+      "topics": [
+        "inserts",
+        "platforms"
+      ],
+      "evidence": [
+        {
+          "location": "00:26:38",
+          "quote": "techmo baseball is not the same as techmo super baseball"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named handoffs and dialogue continuity; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l13",
+      "kind": "show_discussion",
+      "summary": "Tyler clarifies that selling an unwanted game can be as valid as completing its inserts. Johnny agrees that the improve-it advice is conditional on choosing to own it.",
+      "topics": [
+        "curation",
+        "buying_priorities"
+      ],
+      "evidence": [
+        {
+          "location": "00:29:40",
+          "quote": "if you've decided it's worth owning then make it nice"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption window mixes turns; no reliable speaker labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l14",
+      "kind": "reported_factual_claim",
+      "summary": "US Zelda I/II cutout boxes are described as needing a baggie with a circular hole to show the gold cartridge. Canadian applicability is subsequently questioned.",
+      "topics": [
+        "packaging",
+        "regions"
+      ],
+      "evidence": [
+        {
+          "location": "00:33:46",
+          "quote": "they cut a circular hole"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption window mixes turns; no reliable speaker labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l15",
+      "kind": "anecdote",
+      "summary": "Tyler says he bought a complete Zelda copy for its baggie, then explicitly calls that a bad measure of the baggie's price because a nice game was included.",
+      "topics": [
+        "pricing",
+        "donor_copies"
+      ],
+      "evidence": [
+        {
+          "location": "00:35:47",
+          "quote": "that's a bad metric"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Named handoffs and dialogue continuity; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l16",
+      "kind": "show_discussion",
+      "summary": "The hosts criticize graded Zelda copies with the black dust sleeve visible through the window; causal claims about who packed them incorrectly are not verified.",
+      "topics": [
+        "grading",
+        "packaging"
+      ],
+      "evidence": [
+        {
+          "location": "00:34:47",
+          "quote": "seeing the black dust sleeve through the window"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption window mixes turns; no reliable speaker labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l17",
+      "kind": "reported_factual_claim",
+      "summary": "A Link to the Past has a Top Secrets folded insert with a Triforce seal; the Canadian bilingual version is described as larger. Player's Choice applicability and revisions remain unknown.",
+      "topics": [
+        "inserts",
+        "regions"
+      ],
+      "evidence": [
+        {
+          "location": "00:39:50",
+          "quote": "make this thing twice the size"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named handoffs and dialogue continuity; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l18",
+      "kind": "joke",
+      "summary": "A maple-leaf seal on the Canadian Zelda insert is a joke immediately followed by 'no'; do not create a maple-leaf variant record.",
+      "topics": [
+        "humor",
+        "regions"
+      ],
+      "evidence": [
+        {
+          "location": "00:38:49",
+          "quote": "instead of a Triforce it has a maple leaf on it"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption window mixes turns; no reliable speaker labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l19",
+      "kind": "reported_factual_claim",
+      "summary": "Majora's Mask's holographic Collector's Edition is said to include a correction slip changing the manual's player count from four to one. This is a correction printed with a product, distinct from a host correcting a statement.",
+      "topics": [
+        "inserts",
+        "errata"
+      ],
+      "evidence": [
+        {
+          "location": "00:42:53",
+          "quote": "it's supposed to say that it's a one-player game"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Named handoffs and dialogue continuity; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l20",
+      "kind": "reported_factual_claim",
+      "summary": "The Xbox 360 Modern Warfare 2 player-count correction is described as physically smaller and easier to lose than the N64 slip.",
+      "topics": [
+        "inserts",
+        "errata"
+      ],
+      "evidence": [
+        {
+          "location": "00:44:56",
+          "quote": "smaller than index card thing in an Xbox 360 case"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Named handoffs and dialogue continuity; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l21",
+      "kind": "reported_factual_claim",
+      "summary": "Bases Loaded II has a Louisville Slugger sweepstakes insert. Prize merchandise was discussed, but exclusivity to this promotion was explicitly not established.",
+      "topics": [
+        "promotions",
+        "merchandise"
+      ],
+      "evidence": [
+        {
+          "location": "00:48:59",
+          "quote": "I don't know for a fact"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named handoffs and dialogue continuity; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l22",
+      "kind": "lead",
+      "summary": "The hosts invite finding a pictured Louisville Slugger TPS shirt; whether any found shirt was a game-promotion prize requires provenance.",
+      "topics": [
+        "merchandise",
+        "open_questions"
+      ],
+      "evidence": [
+        {
+          "location": "00:50:02",
+          "quote": "I want someone to find one of these hundred shirts"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption window mixes turns; no reliable speaker labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l23",
+      "kind": "reported_factual_claim",
+      "summary": "The generic NES DOC USA warning sheet is described as obtainable from inexpensive games and applicable to several expensive late NES titles; verify exact compatibility before operational use.",
+      "topics": [
+        "inserts",
+        "donor_copies"
+      ],
+      "evidence": [
+        {
+          "location": "00:51:03",
+          "quote": "NES doc USA epilepsy warning sheet"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Named handoffs and dialogue continuity; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l24",
+      "kind": "show_discussion",
+      "summary": "A nice box can be preferable to a listing with an easily replaceable generic insert; buying donor copies can leave unsold duplicates.",
+      "topics": [
+        "condition",
+        "buying_priorities"
+      ],
+      "evidence": [
+        {
+          "location": "00:53:04",
+          "quote": "you never get around to selling the shitty one"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption window mixes turns; no reliable speaker labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l25",
+      "kind": "reported_factual_claim",
+      "summary": "Bill Elliott's NASCAR Challenge has a contest insert tied to a promotional box. The first-print claim is expressly heuristic, not verified; an intact tear-off portion matters.",
+      "topics": [
+        "variants",
+        "promotions"
+      ],
+      "evidence": [
+        {
+          "location": "00:55:06",
+          "quote": "make sure if you have it you don't have one that's tore off"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named handoffs and dialogue continuity; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l26",
+      "kind": "reported_factual_claim",
+      "summary": "The Bill Elliott contest insert is also reported in a PC version. NES, PC and Amiga chronology is unresolved, and later PC boxes without the offer are discussed.",
+      "topics": [
+        "variants",
+        "release_history"
+      ],
+      "evidence": [
+        {
+          "location": "00:59:11",
+          "quote": "now I want to look up which one actually came first"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption window mixes turns; no reliable speaker labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l27",
+      "kind": "reported_factual_claim",
+      "summary": "Five Genesis sports titles are described as having first-round badge/POG versions: NHL 94, Madden 94, NBA Showdown 94, FIFA International Soccer and Bill Walsh College Football. Three share the generic EA Sports POG; Madden and FIFA each have their own.",
+      "topics": [
+        "inserts",
+        "sports",
+        "donor_copies"
+      ],
+      "evidence": [
+        {
+          "location": "01:01:13",
+          "quote": "there's only three different kinds"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Named handoffs and dialogue continuity; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l28",
+      "kind": "anecdote",
+      "summary": "Tyler says he opened two sealed Showdown 94 copies to finish his POG set. Do not convert the anecdote into a general recommendation to open sealed games.",
+      "topics": [
+        "inserts",
+        "sealed_games"
+      ],
+      "evidence": [
+        {
+          "location": "01:03:16",
+          "quote": "opened two sealed copies of Showdown 94"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Named handoffs and dialogue continuity; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l29",
+      "kind": "reported_factual_claim",
+      "summary": "EA merchandise postcard variants may show or omit the POG. The speaker speculates, rather than verifies, how the catalog offer worked.",
+      "topics": [
+        "variants",
+        "merchandise"
+      ],
+      "evidence": [
+        {
+          "location": "01:03:16",
+          "quote": "they probably gave you the POG"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Named handoffs and dialogue continuity; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l30",
+      "kind": "reported_factual_claim",
+      "summary": "Mega Man 3 requires a specific Mega Man refund slip, distinct from generic Captain Commando/Capcom refunds. Later boxes remove offer text but retain the yellow bar.",
+      "topics": [
+        "inserts",
+        "variants"
+      ],
+      "evidence": [
+        {
+          "location": "01:07:22",
+          "quote": "they left the stupid yellow bar"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named handoffs and dialogue continuity; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l31",
+      "kind": "joke",
+      "summary": "A claim that the Mega Man refund compensated for reused bosses is a bit, not verified Capcom business history.",
+      "topics": [
+        "humor"
+      ],
+      "evidence": [
+        {
+          "location": "01:06:21",
+          "quote": "they felt bad and they wanted to refund"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption window mixes turns; no reliable speaker labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l32",
+      "kind": "host_opinion",
+      "summary": "A later offer-removed Mega Man box can be a desirable alternative; the exchange undercuts a blanket first-print-only collecting rule.",
+      "topics": [
+        "first_prints",
+        "curation"
+      ],
+      "evidence": [
+        {
+          "location": "01:08:24",
+          "quote": "only first prints matter what am I doing with my life"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption window mixes turns; no reliable speaker labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l33",
+      "kind": "show_discussion",
+      "summary": "The couch co-op listener hypothetical turns into a historical/religious riff. Bomberman 64 is a joke scenario, not evidence of a past play session.",
+      "topics": [
+        "listener_questions",
+        "humor"
+      ],
+      "evidence": [
+        {
+          "location": "01:11:26",
+          "quote": "play Bomberman 64"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption window mixes turns; no reliable speaker labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l34",
+      "kind": "show_discussion",
+      "summary": "A listener describes a physical anticipation response to winning collectibles. Both hosts say it does not match their experience; the listener's description must not become host biography.",
+      "topics": [
+        "collector_psychology",
+        "listener_questions"
+      ],
+      "evidence": [
+        {
+          "location": "01:17:32",
+          "quote": "I don't feel that way either"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption window mixes turns; no reliable speaker labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l35",
+      "kind": "host_opinion",
+      "summary": "Tyler describes winning a wanted item as relief that a saved search can be deleted; Johnny explicitly says this captures his feelings too.",
+      "topics": [
+        "collector_psychology",
+        "acquisition"
+      ],
+      "evidence": [
+        {
+          "location": "01:17:32",
+          "quote": "you've captured my feelings exactly Tyler"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Named handoffs and dialogue continuity; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l36",
+      "kind": "host_opinion",
+      "summary": "Tyler enjoys buying a rarely appearing item at full asking price while others wait for a discount. This is a dated personal preference, not a prediction that the next listing must cost more.",
+      "topics": [
+        "acquisition",
+        "scarcity"
+      ],
+      "evidence": [
+        {
+          "location": "01:18:34",
+          "quote": "buying it now for full price"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Named handoffs and dialogue continuity; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l37",
+      "kind": "anecdote",
+      "summary": "Johnny reports buying a Shaq Fu promotional CD while completing games, and describes its Genesis-case-sized sleeve. A later speaker clarifies it as a sampler associated with Shaq Fu: Da Return.",
+      "topics": [
+        "inserts",
+        "soundtracks"
+      ],
+      "evidence": [
+        {
+          "location": "01:20:36",
+          "quote": "this is the size of a Genesis case"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named handoffs and dialogue continuity; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l38",
+      "kind": "show_discussion",
+      "summary": "The hosts discuss intentionally wrong or frustrating posts as engagement bait. The generic explanation does not establish deliberate manipulation by any named podcast.",
+      "topics": [
+        "community",
+        "media"
+      ],
+      "evidence": [
+        {
+          "location": "01:21:37",
+          "quote": "I'm not accusing them of Engagement farming"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption window mixes turns; no reliable speaker labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l39",
+      "kind": "anecdote",
+      "summary": "Johnny bought the original GameCube Baten Kaitos soundtrack associated with Toys R Us packaging. He had previously avoided the variant for shelf uniformity and now regrets that choice.",
+      "topics": [
+        "soundtracks",
+        "variants",
+        "changed_preferences"
+      ],
+      "evidence": [
+        {
+          "location": "01:23:37",
+          "quote": "I specifically avoided that variant"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named handoffs and dialogue continuity; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l40",
+      "kind": "lead",
+      "summary": "Amazon availability of the Baten Kaitos soundtrack package is explicitly Johnny's unproven theory.",
+      "topics": [
+        "variants",
+        "retailer_exclusives"
+      ],
+      "evidence": [
+        {
+          "location": "01:23:37",
+          "quote": "I don't have any proof of that yet so merely speculation"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named handoffs and dialogue continuity; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l41",
+      "kind": "anecdote",
+      "summary": "Tyler bought an Automated Simulations catalog with questionnaire/errata inserts; he says he does not own the games it accompanies. The caption's date conflicts with nearby period language.",
+      "topics": [
+        "computer_games",
+        "inserts"
+      ],
+      "evidence": [
+        {
+          "location": "01:25:38",
+          "quote": "I don't even have the games this would go with"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Named handoffs and dialogue continuity; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq248-l42",
+      "kind": "show_discussion",
+      "summary": "The closing references strong response to the preceding box-rating episode and describes this recording as unusually short and at a reasonable hour. It does not establish the show's usual duration from measurement.",
+      "topics": [
+        "show_history",
+        "format"
+      ],
+      "evidence": [
+        {
+          "location": "01:27:42",
+          "quote": "most like commented on episode ever"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption window mixes turns; no reliable speaker labels."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "high",
+      "external_fact_verification": "not_performed"
+    }
+  ],
+  "corrections": [
+    {
+      "id": "cq248-c-code-location",
+      "category": "factual_qualification",
+      "original": "Product codes are usually in a bottom/right corner.",
+      "current": "The speaker withdraws that generalization: codes can be in any corner or elsewhere.",
+      "evidence": [
+        {
+          "location": "00:15:21",
+          "quote": "usually in the bottom rightand corner"
+        },
+        {
+          "location": "00:16:23",
+          "quote": "ignore that whole statement"
+        }
+      ],
+      "status": "explicit_self_correction",
+      "review_status": "draft",
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption window mixes turns; no reliable speaker labels."
+      }
+    },
+    {
+      "id": "cq248-c-promo-code",
+      "category": "factual_qualification",
+      "original": "An additional promotional code might be stamped onto a Yu-Gi-Oh! card.",
+      "current": "The clarification identifies the promo set number rather than a second extra stamp.",
+      "evidence": [
+        {
+          "location": "00:18:24",
+          "quote": "an additional promo code stamped on it"
+        },
+        {
+          "location": "00:19:26",
+          "quote": "it's not an additional code stamped on it"
+        }
+      ],
+      "status": "explicit_clarification",
+      "review_status": "draft",
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption window mixes turns; no reliable speaker labels."
+      }
+    },
+    {
+      "id": "cq248-c-revision-matching",
+      "category": "factual_qualification",
+      "original": "Matching revision numbers or matching dates might identify matching components.",
+      "current": "Independent revisions mean those values need not match; absence of -1 is not proof of a first print.",
+      "evidence": [
+        {
+          "location": "00:20:28",
+          "quote": "if you have like a dash1 box"
+        },
+        {
+          "location": "00:22:31",
+          "quote": "some things start at dash one"
+        }
+      ],
+      "status": "explicit_warning_against_inference",
+      "review_status": "draft",
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption window mixes turns; no reliable speaker labels."
+      }
+    },
+    {
+      "id": "cq248-c-sports-trash",
+      "category": "disagreement_clarified",
+      "original": "Johnny characterizes Tyler as calling the Tecmo games trash.",
+      "current": "Tyler denies the generalization and frames selling unimportant games as a valid alternative; Johnny agrees on conditional ownership.",
+      "evidence": [
+        {
+          "location": "00:26:38",
+          "quote": "he said most of these are probably trash"
+        },
+        {
+          "location": "00:28:40",
+          "quote": "I would never call trash"
+        }
+      ],
+      "status": "speaker_disagreement_not_fact_replacement",
+      "review_status": "draft",
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption window mixes turns; no reliable speaker labels."
+      }
+    },
+    {
+      "id": "cq248-c-canadian-zelda",
+      "category": "uncertainty_added",
+      "original": "Canadian Zelda boxes are broadly described as not having the cutout.",
+      "current": "The speaker thinks the exception may only apply to Zelda I; Zelda II's Canadian box needs checking.",
+      "evidence": [
+        {
+          "location": "00:34:47",
+          "quote": "Canadians didn't have the little cutout"
+        },
+        {
+          "location": "00:36:48",
+          "quote": "I think that's only on Zelda 1"
+        }
+      ],
+      "status": "unresolved",
+      "review_status": "draft",
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption window mixes turns; no reliable speaker labels."
+      }
+    },
+    {
+      "id": "cq248-c-bill-first-print",
+      "category": "uncertainty_added",
+      "original": "The promotional Bill Elliott box is called a first print.",
+      "current": "Johnny then says this is a heuristic without full verification.",
+      "evidence": [
+        {
+          "location": "00:54:05",
+          "quote": "the first print of the game had an offer"
+        },
+        {
+          "location": "00:55:06",
+          "quote": "I don't have a th%"
+        }
+      ],
+      "status": "unresolved",
+      "review_status": "draft",
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption window mixes turns; no reliable speaker labels."
+      }
+    },
+    {
+      "id": "cq248-c-nascar-first",
+      "category": "uncertainty_added",
+      "original": "Bill Elliott is called the first NASCAR-licensed video game.",
+      "current": "Discovery of PC and Amiga versions raises unresolved ordering; do not promote the NES version to verified first.",
+      "evidence": [
+        {
+          "location": "00:56:07",
+          "quote": "first NASCAR licensed video game"
+        },
+        {
+          "location": "00:59:11",
+          "quote": "now I want to look up which one actually came first"
+        }
+      ],
+      "status": "unresolved",
+      "review_status": "draft",
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption window mixes turns; no reliable speaker labels."
+      }
+    },
+    {
+      "id": "cq248-c-soundtrack-preference",
+      "category": "changed_host_opinion",
+      "original": "Johnny avoided a Baten Kaitos package to preserve shelf uniformity.",
+      "current": "He says that was probably wrong and bought the soundtrack. This changes a stated preference, not a release fact.",
+      "evidence": [
+        {
+          "location": "01:23:37",
+          "quote": "I specifically avoided that variant"
+        },
+        {
+          "location": "01:23:37",
+          "quote": "I was wrong for doing that probably"
+        }
+      ],
+      "status": "dated_preference_change",
+      "review_status": "draft",
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption window mixes turns; no reliable speaker labels."
+      }
+    }
+  ],
+  "topic_coverage": [
+    {
+      "topic": "completeness",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "00:04:05",
+        "00:07:09",
+        "00:10:13"
+      ]
+    },
+    {
+      "topic": "product_codes",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "00:15:21",
+        "00:16:23",
+        "00:19:26",
+        "00:22:31"
+      ]
+    },
+    {
+      "topic": "tecmo_inserts",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "00:11:14",
+        "00:13:19",
+        "00:25:36",
+        "00:31:44"
+      ]
+    },
+    {
+      "topic": "zelda_inserts",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "00:32:46",
+        "00:38:49",
+        "00:42:53"
+      ]
+    },
+    {
+      "topic": "regional_variants",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "00:34:47",
+        "00:36:48",
+        "00:39:50"
+      ]
+    },
+    {
+      "topic": "sports_promotions",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "00:46:58",
+        "00:54:05",
+        "01:01:13"
+      ]
+    },
+    {
+      "topic": "capcom_refunds",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "01:05:20",
+        "01:07:22",
+        "01:08:24"
+      ]
+    },
+    {
+      "topic": "curation",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "00:28:40",
+        "00:29:40",
+        "00:53:04"
+      ]
+    },
+    {
+      "topic": "collector_psychology",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "01:16:30",
+        "01:17:32",
+        "01:18:34"
+      ]
+    },
+    {
+      "topic": "soundtrack_variants",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "01:20:36",
+        "01:22:37",
+        "01:23:37"
+      ]
+    },
+    {
+      "topic": "search",
+      "depth": "SUPPORTING_EXAMPLE",
+      "locations": [
+        "00:08:09",
+        "00:09:11"
+      ]
+    },
+    {
+      "topic": "show_history",
+      "depth": "SUPPORTING_EXAMPLE",
+      "locations": [
+        "00:10:13",
+        "01:00:12",
+        "01:27:42"
+      ]
+    }
+  ],
+  "related_episodes": [
+    {
+      "episode_number": 247,
+      "relation": "Previous box-rating episode referenced near close; catalog match supported by neighboring episode title, not independently compared in pilot.",
+      "status": "candidate_not_compared"
+    },
+    {
+      "episode_number": null,
+      "relation": "Earlier POG and Zelda baggie discussions asserted by hosts; locations not yet recovered.",
+      "status": "unlocated"
+    }
+  ],
+  "review_queue": [
+    {
+      "id": "cq248-identity-normalization",
+      "priority": "medium",
+      "reason": "Confirm unclear captions: 'kns into dreams', 'techmobile', 'the Terminators', Kawasaki title, Babar title and 'the Rockets'. Do not silently map unresolved releases.",
+      "evidence": [
+        {
+          "location": "00:52:04",
+          "quote": "the Terminators"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq248-speaker-attribution",
+      "priority": "high",
+      "reason": "Participant names are explicit; speaker-level facts still rely on named handoffs and continuity. Audit purchases and corrections before accepting.",
+      "evidence": [
+        {
+          "location": "00:00:00",
+          "quote": "I'm Tyler here with Johnny"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq248-tecmo-reference-exceptions",
+      "priority": "high",
+      "reason": "Check game/platform applicability of guide sheets and address slips; separate Tecmo Bowl from Super Bowl and Baseball from Super Baseball.",
+      "evidence": [
+        {
+          "location": "00:26:38",
+          "quote": "techmo baseball is not the same as techmo super baseball"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq248-relative-rarity",
+      "priority": "medium",
+      "reason": "Super Bowl II is repeatedly called harder to find but one later sentence appears to invert comparison with III; preserve as ambiguous.",
+      "evidence": [
+        {
+          "location": "00:27:38",
+          "quote": "compared to two it's way less common"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq248-codes-verbatim",
+      "priority": "high",
+      "reason": "Product codes in captions include misspellings and spacing; verify against images or authoritative component records before using as identifiers.",
+      "evidence": [
+        {
+          "location": "01:06:21",
+          "quote": "cap- ns- us-3"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq248-zelda-regions",
+      "priority": "high",
+      "reason": "Canadian Zelda I versus II box/bag applicability and LTTP Player's Choice insert contents remain unresolved.",
+      "evidence": [
+        {
+          "location": "00:36:48",
+          "quote": "I think that's only on Zelda 1"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq248-maple-leaf-bit",
+      "priority": "high",
+      "reason": "Keep the maple-leaf seal remark classified as humor, not a real insert variant.",
+      "evidence": [
+        {
+          "location": "00:38:49",
+          "quote": "maple leaf"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq248-babar-region",
+      "priority": "medium",
+      "reason": "French-manual package is reported; Quebec exclusivity is explicitly uncertain.",
+      "evidence": [
+        {
+          "location": "00:36:48",
+          "quote": "maybe Quebec exclusive I don't know"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq248-bill-print-order",
+      "priority": "high",
+      "reason": "Verify promotional box chronology separately for NES/PC/Amiga before any first-print or first-NASCAR claim.",
+      "evidence": [
+        {
+          "location": "00:59:11",
+          "quote": "which one actually came first"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq248-baten-amazon",
+      "priority": "high",
+      "reason": "Amazon soundtrack availability is an unproven theory; do not list it as a confirmed retailer variant.",
+      "evidence": [
+        {
+          "location": "01:23:37",
+          "quote": "merely speculation"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq248-catalog-date",
+      "priority": "medium",
+      "reason": "Caption says catalog '198 9' yet nearby dialogue refers to late 1970s baggie games before Epyx; do not normalize the year.",
+      "evidence": [
+        {
+          "location": "01:24:38",
+          "quote": "catalog from 198 9"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq248-prize-provenance",
+      "priority": "medium",
+      "reason": "A Louisville Slugger shirt/bat may have been sold elsewhere; matching appearance alone cannot establish game-prize provenance.",
+      "evidence": [
+        {
+          "location": "00:48:59",
+          "quote": "these items were only available through this promotion"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq248-historical-prices",
+      "priority": "medium",
+      "reason": "All asking prices, availability percentages and estimated premiums are dated informal statements, not current verified market data.",
+      "evidence": [
+        {
+          "location": "00:14:20",
+          "quote": "maybe 5%"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq248-recurring-bits",
+      "priority": "low",
+      "reason": "Hosts say POGs and Zelda bags were discussed before; locate prior appearances before giving recurrence counts.",
+      "evidence": [
+        {
+          "location": "01:00:12",
+          "quote": "probably been years since we've mentioned this"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq248-gamefaq-source",
+      "priority": "medium",
+      "reason": "Verify exact author/list identity before linking the purported sealed-opening reference source.",
+      "evidence": [
+        {
+          "location": "00:12:17",
+          "quote": "theore Wizard 666"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq248-audio-omissions",
+      "priority": "medium",
+      "reason": "Complete caption coverage does not certify every spoken title was transcribed; audio and independent recall review remain unperformed.",
+      "evidence": [
+        {
+          "location": "01:28:43",
+          "quote": "that's it we're done bye"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    }
+  ],
+  "non_video_game_items": [
+    {
+      "item": "Magic: The Gathering",
+      "type": "physical_card_game",
+      "evidence": [
+        {
+          "location": "01:15:30",
+          "quote": "magic the Gathering limited not like video games limited"
+        }
+      ],
+      "note": "Card sleeves, deck transport and an uncertain Deck Masters/Beatdown product reference; not digital game coverage."
+    },
+    {
+      "item": "Captain Commando refund",
+      "type": "insert_mascot",
+      "evidence": [
+        {
+          "location": "01:06:21",
+          "quote": "images of Captain Commando"
+        }
+      ],
+      "note": "Mascot/art reference does not establish mention of the Captain Commando video game."
+    },
+    {
+      "item": "ROB poster",
+      "type": "hardware_packaging",
+      "evidence": [
+        {
+          "location": "00:32:46",
+          "quote": "1985 Rob posters"
+        }
+      ],
+      "note": "Packaging comparison; do not invent a specific pack-in game."
+    },
+    {
+      "item": "Shaq music recordings",
+      "type": "music",
+      "evidence": [
+        {
+          "location": "01:22:37",
+          "quote": "it's a sampler"
+        }
+      ],
+      "note": "Associated sampler/albums and song titles are music, not extra games."
+    }
+  ],
+  "exclusions": [
+    "Personal travel and health banter retained only where it establishes a game reference or conversation mechanism; not imported as broad personal profile.",
+    "Historical and religious couch-play riff is hypothetical humor, not fact or host belief.",
+    "Movie-themed Fight Club lunchbox is not a mention of the Fight Club video game.",
+    "Blackjack and craps are generic casino activities; no video-game releases inferred."
+  ]
+}

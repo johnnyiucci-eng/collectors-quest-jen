@@ -1,0 +1,27 @@
+{
+  "schema_version": "1",
+  "initial_failures": [
+    {
+      "check": "frozen_source_first",
+      "initial": "21/26",
+      "final": "26/26",
+      "missing": [
+        "CQ13 Dragon Warrior series",
+        "CQ80 Wii U Mario Kart8P23",
+        "CQ206 Outlast1P19:12",
+        "CQ206 Outlast2P19:12",
+        "CQ206 prospective thirdOutlast"
+      ]
+    },
+    {
+      "check": "runtime_answers",
+      "initial": "24/25",
+      "final": "25/25",
+      "repair": "Meaningful ranking query expansion; all14 windows retained"
+    },
+    {
+      "check": "artifact/aliases",
+      "repair": "CQ80 malformed intermediate reconstructed from retained full authored objects, source untouched; canonical titles separate from literal forms"
+    }
+  ]
+}

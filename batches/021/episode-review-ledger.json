@@ -1,0 +1,94 @@
+{
+  "review_binding": {"version":"cq-review-binding-1","sha256":"dd58bffb3cf99957b069e70538e0a96786a77e6129c9f5fec30fb3ad172ad524","reviewed_utc":"2026-09-14T18:49:00.179013+00:00","meaning":"Exact reviewed local inputs; not independent semantic, audio or live certification"},
+  "schema_version": "1",
+  "required_for": "A1–A8 mandatory for every episode in every batch.",
+  "acceptance_scope": "Captured-text development review only; not audio, external-history, blind-recall or live certification.",
+  "episodes": [
+    {
+      "episode": 102,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "58 paragraphs read separately by root and extractor;124 references/201 typed spans reviewed, four-way prominence tie qualified.",
+          "evidence": [
+            "batches/021/reviews/102-audit.md",
+            "batches/021/reviews/102-annotations.json",
+            "batches/021/reviews/coordinator-progress.md"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "Full inventory compared; seven-window frozen sample initially18/19 then19/19; ten actual continuation misses and identity/role repairs preserved.",
+          "evidence": [
+            "batches/021/reviews/102-audit.md",
+            "batches/021/reviews/102-annotations.json",
+            "batches/021/reviews/coordinator-progress.md",
+            "batches/021/reviews/source-first-sample.json",
+            "batches/021/generated/final-sample.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Johnny/Tyler/Stephan roster with Kat absent; canonical Stephan normalized from caption Stefan to match CQ89; literal evidence untouched. Specific contextual reporters reviewed,90 unknown/mixed occurrences retained.",
+          "evidence": [
+            "batches/021/reviews/102-audit.md",
+            "batches/021/reviews/102-annotations.json",
+            "batches/021/reviews/coordinator-progress.md"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "All76 action records and29 list memberships reviewed; purchases, custody, proposed actions, refund-versus-return and unknown subjects distinguished.",
+          "evidence": [
+            "batches/021/reviews/102-audit.md",
+            "batches/021/reviews/102-annotations.json",
+            "batches/021/reviews/coordinator-progress.md"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "All14 full answers independently adjudicated and snapshotted;14 original/configured plus6 source-informed first-use fresh cases pass.",
+          "evidence": [
+            "batches/021/reviews/102-audit.md",
+            "batches/021/reviews/102-annotations.json",
+            "batches/021/reviews/coordinator-progress.md",
+            "batches/021/reviews/answer-review.json",
+            "batches/021/reviews/answer-review.md",
+            "batches/021/generated/first-fresh.json"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Practical brief and bounded continuity note desk-reviewed for exact items, variants, hosts, corrections, jokes and open loops; no live rehearsal.",
+          "evidence": [
+            "batches/021/reviews/102-audit.md",
+            "batches/021/reviews/102-annotations.json",
+            "batches/021/reviews/coordinator-progress.md",
+            "batches/021/reviews/continuity-review.md"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Durable input repairs rebuilt; source/evidence/14 original/configured questions and19-reference sample pass;64-source baseline protected. Shared code unchanged; full suite at two-episode handoff.",
+          "evidence": [
+            "batches/021/reviews/102-audit.md",
+            "batches/021/reviews/102-annotations.json",
+            "batches/021/reviews/coordinator-progress.md",
+            "batches/021/reviews/verification.md",
+            "batches/021/generated/final-verification.json"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "Explicit root captured-text acceptance after full-source/artifact review; isolated uncertainties remain qualified. Exact reviewed binding required.",
+          "evidence": [
+            "batches/021/reviews/102-audit.md",
+            "batches/021/reviews/102-annotations.json",
+            "batches/021/reviews/coordinator-progress.md"
+          ]
+        }
+      }
+    }
+  ]
+}

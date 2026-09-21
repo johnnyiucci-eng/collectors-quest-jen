@@ -1,0 +1,1040 @@
+{
+  "schema_version": "1",
+  "reviewer": "Root coordinator: full-source and actual-prose review",
+  "scope": "All232 source windows and50 full answers read; current exact snapshots. Captured-text development review, not audio or live certification.",
+  "cases": [
+    {
+      "id": "cq021-task-rank",
+      "episode": 21,
+      "question": "Which three games received the most discussion in this sick-day episode?",
+      "query": "most discussed games Tonic Trouble Paper Jam Sticker Star",
+      "answer": "Tonic Trouble for N64 leads with six meaningful paragraphs, four of them substantial. Paper Jam and Sticker Star tie at four meaningful paragraphs each; Paper Jam has three substantial paragraphs, while Sticker Star's coverage is supporting comparison and recollection. These are untimed paragraph unions, not minutes or recommendations. The GBC Tonic Trouble is a separate game/version record with three meaningful paragraphs, so it is not silently added to the N64 total. Hardware editions, broad series and Bo Jackson's compilation are excluded from individual-game ranking.",
+      "forbidden": [
+        "Tonic versions merged",
+        "exact minutes",
+        "three favorite games",
+        "hardware game credits"
+      ],
+      "evidence_locations": [
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5",
+        "Paragraph 6",
+        "Paragraph 7",
+        "Paragraph 8",
+        "Paragraph 14",
+        "Paragraph 15",
+        "Paragraph 16",
+        "Paragraph 17"
+      ],
+      "status": "passed",
+      "reason": "Paragraphs3–8 and14–17 support the6/4/4 union; N64/GBC identities and supporting-only Sticker Star comparison stay separate."
+    },
+    {
+      "id": "cq021-task-choices",
+      "episode": 21,
+      "question": "Did both hosts choose the same sort of game when sick?",
+      "query": "Kat sick day Tonic Trouble Johnny Final Fantasy Mega Man Castlevania",
+      "answer": "No. Kat names Tonic Trouble as her familiar recurring choice, rooted in renting it while sick as a child; she also plays whatever is current, such as Paper Jam here, without treating it as an established favorite. Johnny usually chooses an RPG he knows well, specifically the original Final Fantasy. He avoids frustrating Mega Man 1/9 and Castlevania 1 challenges while sick, even though he has beaten Castlevania many times. Those rejections concern the situation, not a universal verdict on the games.",
+      "forbidden": [
+        "Kat PaperJam perennialfavorite",
+        "Johnny hates allMegaMan",
+        "medical treatment recommendation"
+      ],
+      "evidence_locations": [
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 5",
+        "Paragraph 8",
+        "Paragraph 9",
+        "Paragraph 14",
+        "Paragraph 15"
+      ],
+      "status": "passed",
+      "reason": "Paragraphs2–9 and14–15 distinguish Kat's recurring Tonic habit, current Paper Jam and Johnny's familiar FF with situational challenge rejections."
+    },
+    {
+      "id": "cq021-task-vegetables",
+      "episode": 21,
+      "question": "Was Tonic Trouble Kat's choice because the name sounded medicinal?",
+      "query": "Tonic Trouble vegetables tonic medicine childhood rental",
+      "answer": "The medicinal explanation is Johnny's joke, and Kat says it was not her reason. Her connection began with a childhood sick-day rental and continued through familiar, enjoyable platforming. She openly likes animated vegetables and food, including evil toasters and the popcorn-powered Super Ed described in the game. The Canadian mind-control explanation is also joking; her reported Ubisoft Montreal connection is not proof of that premise or independently verified company history.",
+      "forbidden": [
+        "medicine heals illness",
+        "Canadian mind control fact",
+        "all mechanics independentlyverified"
+      ],
+      "evidence_locations": [
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5",
+        "Paragraph 6",
+        "Paragraph 7",
+        "Paragraph 8"
+      ],
+      "status": "passed",
+      "reason": "Paragraphs3–8 place the medicinal and Canadian ideas in jokes, while Kat's childhood rental and vegetable affection supply actual reasons."
+    },
+    {
+      "id": "cq021-task-controls",
+      "episode": 21,
+      "question": "Did Kat say Tonic Trouble controlled as well as Rayman?",
+      "query": "Tonic Trouble Rayman controls levels frustration",
+      "answer": "No. She says its controls are weaker and warns against going in expecting a Rayman-like control standard. She still likes the varied levels, visual design and familiar routine, and does not find it excessively frustrating for her sick-day play. Familiarity explains part of her comfort with it; it is not a promise that every new player will find the controls easy or a claim that Johnny had played it.",
+      "forbidden": [
+        "controls equalRayman",
+        "universally easy",
+        "Johnny played"
+      ],
+      "evidence_locations": [
+        "Paragraph 4",
+        "Paragraph 5",
+        "Paragraph 6",
+        "Paragraph 8"
+      ],
+      "status": "passed",
+      "reason": "Paragraphs4–8 explicitly concede weaker controls alongside liked design; no Johnny play or universal ease is inferred."
+    },
+    {
+      "id": "cq021-task-versions",
+      "episode": 21,
+      "question": "Had Kat bought or played the handheld Tonic Trouble after seeing its price?",
+      "query": "Tonic Trouble Game Boy Color Windows special edition Tonic Adventure24",
+      "answer": "Not yet. Kat says she has never played the GBC version and wants to obtain a boxed copy and compare it with her familiar N64 game. The live listing is about $24 US; the enormous Canadian-dollar replies are jokes, not a real conversion. They separately describe a Windows special edition with extra content and a planned sequel called Tonic Adventure, drawing on a stated Wikipedia lookup. Those are episode claims, not verified release history, and none establishes a purchase or completed comparison.",
+      "forbidden": [
+        "GBC bought",
+        "CAD300 actualconversion",
+        "sequel released",
+        "specialedition acquired"
+      ],
+      "evidence_locations": [
+        "Paragraph 10",
+        "Paragraph 11",
+        "Paragraph 13"
+      ],
+      "status": "passed",
+      "reason": "Paragraphs10–13 report a wanted unplayed GBC copy, a listing and unverified Windows/sequel claims, not completed purchases."
+    },
+    {
+      "id": "cq021-task-ports",
+      "episode": 21,
+      "question": "What did Harry Potter have to do with the handheld-versus-console discussion?",
+      "query": "Harry Potter1 2 Game Boy Color GameCube Minish Cap Metroid big screen",
+      "answer": "Johnny uses the numbered Harry Potter GBC games to illustrate versions that differ substantially from their console counterparts, describing an RPG-like experience rather than a straight port. He generally prefers a large television and couch, but explicitly loves Minish Cap and the portable Metroid games. The source does not supply every subtitle or establish a verified platform catalog, and his big-screen preference does not mean he rejects all handheld games.",
+      "forbidden": [
+        "allstraightports",
+        "every handheld disliked",
+        "exact unspokenHPtitles"
+      ],
+      "evidence_locations": [
+        "Paragraph 11",
+        "Paragraph 12"
+      ],
+      "status": "passed",
+      "reason": "Paragraphs11–12 contrast GBC Harry Potter experiences with Johnny's big-screen preference and portable exceptions."
+    },
+    {
+      "id": "cq021-task-paper",
+      "episode": 21,
+      "question": "Was Kat enjoying Paper Jam as much as Sticker Star?",
+      "query": "Paper Jam six hours paper Toads Sticker Star Dream Team",
+      "answer": "Not at this point. She remains on the fence after roughly six hours, an estimate she has not checked. She does not hate it, but repeated paper-Toad rescues have not produced the excitement she hoped for. She remembers playing Sticker Star almost continuously over a weekend and also likes Dream Team; Paper Jam has not held her attention in that way. Johnny has not played it and is asking about criticism he heard, rather than giving his own firsthand verdict.",
+      "forbidden": [
+        "Kat hatesit",
+        "Kat finishedit",
+        "exacttimechecked",
+        "Johnny gameplayreview"
+      ],
+      "evidence_locations": [
+        "Paragraph 14",
+        "Paragraph 15",
+        "Paragraph 16",
+        "Paragraph 17"
+      ],
+      "status": "passed",
+      "reason": "Paragraphs14–17 retain Kat's estimated six hours and mixed opinion and Johnny's lack of firsthand play."
+    },
+    {
+      "id": "cq021-task-2ds",
+      "episode": 21,
+      "question": "Why did Kat get a 2DS if she disliked holding it, and did she send it back?",
+      "query": "2DS John Kijiji luggage XL controls battery retained",
+      "answer": "Her 3DS XL was packed in luggage, and she lacked the energy to search while sick. John obtained a good-condition used 2DS complete in its box from the quickly answered classified ad. Kat finds the control placement uncomfortable but notices longer battery life. They intend to keep it, and John may prefer it, while she plans to find her XL. No return or completed luggage search is reported, and John's preference is Kat's report rather than his direct interview.",
+      "forbidden": [
+        "2DS returned",
+        "XL stolen",
+        "John cohostJohnny",
+        "universal ergonomic verdict"
+      ],
+      "evidence_locations": [
+        "Paragraph 17",
+        "Paragraph 18",
+        "Paragraph 19",
+        "Paragraph 20",
+        "Paragraph 22"
+      ],
+      "status": "passed",
+      "reason": "Paragraphs17–22 distinguish partner John from Johnny, luggage from theft, and retained2DS from a return."
+    },
+    {
+      "id": "cq021-task-hardware",
+      "episode": 21,
+      "question": "Which Pokémon and Zelda items were already owned, and which were only being considered?",
+      "query": "Majora Mask Pikachu3DSXL20th anniversary European2DS Game Boy SP N64",
+      "answer": "Johnny owns a Majora's Mask New 3DS XL and other mainly Zelda-themed XL handhelds; his wife has a boxed Pikachu XL, and he mentions their Pikachu N64 within her Pokémon collection. He only considered the European yellow Pikachu 2DS and wants a boxed Pikachu Game Boy SP. The upcoming twentieth-anniversary handheld is something he has not shown his wife; her likely lack of interest is his prediction. These are hardware editions and household collecting plans, not purchases or playthroughs of the games pictured on them.",
+      "forbidden": [
+        "all new purchases",
+        "wife directlyrejectedanniversary",
+        "Majora gameplayed",
+        "SP owned"
+      ],
+      "evidence_locations": [
+        "Paragraph 20",
+        "Paragraph 21",
+        "Paragraph 22"
+      ],
+      "status": "passed",
+      "reason": "Paragraphs20–22 distinguish owned household handhelds from European2DS/SP wants and predicted anniversary interest."
+    },
+    {
+      "id": "cq021-task-kat-pickups",
+      "episode": 21,
+      "question": "What arrived for Kat, and did it finish the Master System set?",
+      "query": "Wanted Fantasy Zone Master System Bo Jackson Mike music CDs",
+      "answer": "She reports Wanted and Fantasy Zone for the Sega Master System as two household checkoffs, but the set is still only nearly complete. A package from her friend Mike brought Bo Jackson 2-in-1 for Game Boy and two large mixed video-game music CDs. It arrived a couple of days before she became ill, and she has enjoyed the music while playing or resting. The source does not give a paid transaction with Mike, an exact remaining set count, a track list or an all-chiptune classification.",
+      "forbidden": [
+        "setcomplete",
+        "allchiptune",
+        "Mikepurchaseprice",
+        "BoJacksonsingle title ranked"
+      ],
+      "evidence_locations": [
+        "Paragraph 24",
+        "Paragraph 25",
+        "Paragraph 26"
+      ],
+      "status": "passed",
+      "reason": "Paragraphs24–26 confirm package receipt and near-complete SMS status, without paid Mike transaction or fabricated music tracks."
+    },
+    {
+      "id": "cq021-task-johnny-pickups",
+      "episode": 21,
+      "question": "Which new game followed Dain's advice, and what was still in the mail?",
+      "query": "Rhino Rumble sealed Dain previous episode SNES incoming Wii GameStop",
+      "answer": "Johnny bought sealed Rhino Rumble for GBC after Dain mentioned its difficulty in the previous episode. He had not specifically wanted sealed, but the price was comparable to a complete boxed copy, and he now has it in his collection. Unnamed additional SNES games were bought and were coming in the mail. He also picked up a handful of Wii games at GameStop during work lunch. The source supplies no exact price, SNES/Wii title list or proof those incoming SNES games had arrived.",
+      "forbidden": [
+        "Dain presentguest",
+        "SNESreceived",
+        "inventWii titles",
+        "Rhino priceexact"
+      ],
+      "evidence_locations": [
+        "Paragraph 25"
+      ],
+      "status": "passed",
+      "reason": "Paragraph25 explicitly links Dain's previous advice to acquired Rhino, incoming unnamed SNES and actual Wii pickups."
+    },
+    {
+      "id": "cq021-task-work",
+      "episode": 21,
+      "question": "Did Johnny actually get much gaming or LEGO building done that week?",
+      "query": "LEGO Dimensions pinball work emergency LEGO set ice cream",
+      "answer": "Very little is reported. He played a few minutes of LEGO Dimensions before an emergency work call and says he was not even playing pinball. A physical LEGO set had remained half built for two weeks. His plan after recording was to stop working, build with his wife and have ice cream, not a report that the build or evening had already happened. The 'no more adult left' comments are playful frustration about a busy week.",
+      "forbidden": [
+        "finishedLEGO",
+        "completedgame",
+        "fictionalclinicalfinding"
+      ],
+      "evidence_locations": [
+        "Paragraph 22",
+        "Paragraph 23",
+        "Paragraph 24"
+      ],
+      "status": "passed",
+      "reason": "Paragraphs22–24 describe interrupted minutes and unfinished physical LEGO; the proposed evening is not an outcome."
+    },
+    {
+      "id": "cq088-task-rank",
+      "episode": 88,
+      "question": "Which games received the most real discussion in this bonus recording?",
+      "query": "Nurse Love Addiction Thimbleweed Park Guy Game discussion edition never played",
+      "answer": "Nurse Love Addiction leads with 12 meaningful paragraphs, followed by Thimbleweed Park with five and The Guy Game with three. This is untimed paragraph coverage, not minutes or a favorites list. Much of the leading game's coverage is packaging criticism and speculative content discussion: the hosts explicitly admit they have not played it. Joke-only returns and hardware, media, accessories or series discussion do not count toward these individual-game totals.",
+      "forbidden": [
+        "Minutes or favorites ranking",
+        "Verified illegal content",
+        "All host discussion equals gameplay"
+      ],
+      "evidence_locations": [
+        "Paragraph 5",
+        "Paragraph 6",
+        "Paragraph 7",
+        "Paragraph 8",
+        "Paragraph 9",
+        "Paragraph 10",
+        "Paragraph 12",
+        "Paragraph 13",
+        "Paragraph 14",
+        "Paragraph 15",
+        "Paragraph 16",
+        "Paragraph 17",
+        "Paragraph 19",
+        "Paragraph 20",
+        "Paragraph 21",
+        "Paragraph 23"
+      ],
+      "status": "passed",
+      "reason": "Paragraphs5–23 support12/5/3 meaningful unions; the largest topic is explicitly not a played-game review or legal finding."
+    },
+    {
+      "id": "cq088-task-format",
+      "episode": 88,
+      "question": "Why does one host sound less prepared, and is this the normal planned episode?",
+      "query": "bonus recording Skype Tyler Johnny unaware guest next week",
+      "answer": "Tyler says this is an unedited pre-show bonus: he did not realize Johnny was recording and was browsing for topic ideas rather than keeping his microphone position or local audio ready. His side is heard through Skype. They did settle on a separate real topic and recorded that episode afterward, with a guest planned for release the following week. That introduction does not tell us the guest's identity or prove the promised release occurred.",
+      "forbidden": [
+        "Guest identified",
+        "Bonus equals planned main topic",
+        "Kat present"
+      ],
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 13",
+        "Paragraph 23",
+        "Paragraph 33"
+      ],
+      "status": "passed",
+      "reason": "Paragraphs1–2,13,23,33 establish bonus prechat and stated recording conditions without naming the later guest."
+    },
+    {
+      "id": "cq088-task-dragon",
+      "episode": 88,
+      "question": "What was Johnny's theory connecting a magazine giveaway to later console success?",
+      "query": "Dragon Warrior Nintendo Power Final Fantasy Super Nintendo Genesis Square licensing",
+      "answer": "Johnny argues that the Dragon Warrior giveaway helped American players discover RPGs, that Final Fantasy benefited from that interest, and that RPG strength later helped Super Nintendo. He extends the argument through Nintendo's licensing relationship with Square and Final Fantasy VII's PlayStation destination. It is an ambitious retrospective explanation, not a verified proof that one giveaway decided multiple console generations. The proposed retrospective was collector-focused, and the conversation openly admits gaps in series knowledge.",
+      "forbidden": [
+        "Verified console-war cause",
+        "Full series expertise",
+        "Completed separate retrospective"
+      ],
+      "evidence_locations": [
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 4"
+      ],
+      "status": "passed",
+      "reason": "Paragraphs2–4 are Johnny's causal retrospective, not verified multi-generation history or completed planned episode."
+    },
+    {
+      "id": "cq088-task-variant",
+      "episode": 88,
+      "question": "How did they say to recognize the giveaway copy, and how certain is that information?",
+      "query": "Dragon Warrior Nintendo Power star inner flap inserts Dragon Warrior 2",
+      "answer": "Johnny describes a small star on the box's inner flap as the giveaway-print clue, and mentions a letter promoting Dragon Warrior II among the associated inserts. The transcript's issuer wording is preserved rather than silently corrected. These are useful source-linked leads for a variant question, but this episode is not independent authentication of a particular copy or a complete print-history reference.",
+      "forbidden": [
+        "Every variant certified",
+        "Price or ownership invented"
+      ],
+      "evidence_locations": [
+        "Paragraph 3",
+        "Paragraph 4"
+      ],
+      "status": "passed",
+      "reason": "Paragraphs3–4 supply flap star and letter leads with raw issuer uncertainty, not authentication."
+    },
+    {
+      "id": "cq088-task-vita",
+      "episode": 88,
+      "question": "Did Johnny actually finish selling his handheld collection?",
+      "query": "Vita sell working deal ten games bought before hardware played once",
+      "answer": "No completed sale is reported. Johnny says he is working on a deal to sell all his Vita games. The other speaker describes having roughly ten games, bought before he had the hardware, and using the Vita once without enjoying the experience much. Neither statement proves every game was played, the sale closed, or a full software set was owned.",
+      "forbidden": [
+        "Sold disposition complete",
+        "Exactly ten",
+        "All games played"
+      ],
+      "evidence_locations": [
+        "Paragraph 5"
+      ],
+      "status": "passed",
+      "reason": "Paragraph5 reports an in-progress Vita deal and limited other-speaker usage, no closed sale/full-set claim."
+    },
+    {
+      "id": "cq088-task-switch",
+      "episode": 88,
+      "question": "What was the argument about testing demand for the first physical Switch release?",
+      "query": "Limited Run first five judge demand Thimbleweed Park touchscreen Iron Brigade Mercenary Kings Flinthook",
+      "answer": "They argue that the first Limited Run Switch release attracts first-of-its-kind collectors regardless of the game, so one launch may not measure sustained demand; one suggestion is to observe the first five. Thimbleweed Park is the opening title under discussion. Iron Brigade is immediately corrected to Mercenary Kings among other releases, with Flinthook also mentioned. The touchscreen dispute ends with acknowledgment that the Switch has one, but the conversation does not establish exactly how this game uses it.",
+      "forbidden": [
+        "Actual million sales",
+        "Iron Brigade confirmed release",
+        "Current Switch product guidance"
+      ],
+      "evidence_locations": [
+        "Paragraph 5",
+        "Paragraph 6",
+        "Paragraph 7",
+        "Paragraph 8"
+      ],
+      "status": "passed",
+      "reason": "Paragraphs5–8 preserve first-release demand skepticism, corrected Mercenary Kings and uncertain game touchscreen use."
+    },
+    {
+      "id": "cq088-task-edition",
+      "episode": 88,
+      "question": "Why could a game suit their tastes and still annoy them as a collectible?",
+      "query": "Thimbleweed Park Lucas arts Ron Gilbert X files October 65 40 big box stickers",
+      "answer": "The Thimbleweed Park discussion combines genuine appeal with packaging frustration. One host likes its point-and-click format, Switch platform and X-Files-like October/1980s theme, but objects to the LucasArts-style sales language and a quoted $65 Switch box compared with a $40 PC box. Paper extras and stickers do not persuade him that the markup is worthwhile. Those are dated quoted prices and opinions, not a report of buying either edition or a current recommendation.",
+      "forbidden": [
+        "Current price quote",
+        "Host hates underlying genre",
+        "Actual edition acquisition"
+      ],
+      "evidence_locations": [
+        "Paragraph 8",
+        "Paragraph 9"
+      ],
+      "status": "passed",
+      "reason": "Paragraphs8–9 combine taste appeal and dated packaging-price objections without acquisition."
+    },
+    {
+      "id": "cq088-task-nurse",
+      "episode": 88,
+      "question": "Had either host played the nurse game before making those criticisms?",
+      "query": "Nurse Love Addiction never played never will consent test Windows exclusive",
+      "answer": "No. They explicitly call Nurse Love Addiction a game they have never played and say they will not test their content assumptions. Their discussion draws on a blurb, images, listings and reported ratings, mixed with jokes and speculation. The exclusivity claim is corrected by mentioning Windows. The episode does not verify character ages, an illegal-content finding, the existence of a particular uncensored version, or the game's actual narrative.",
+      "forbidden": [
+        "Verified minors or illegal content",
+        "Confirmed alternate edition",
+        "Completed gameplay review"
+      ],
+      "evidence_locations": [
+        "Paragraph 9",
+        "Paragraph 12",
+        "Paragraph 13",
+        "Paragraph 14",
+        "Paragraph 15",
+        "Paragraph 21"
+      ],
+      "status": "passed",
+      "reason": "Paragraphs9–21 explicitly deny play and leave ages/content/legality and alternate-version existence unverified."
+    },
+    {
+      "id": "cq088-task-cards",
+      "episode": 88,
+      "question": "Was the card-binder conversation an actual purchase story?",
+      "query": "Limited Run cards binder joking four pockets 80 cards ten bucks nine pockets",
+      "answer": "The full-card-set and oversized-binder exchange is a joke, clarified later when a host says he had been joking and then discovers that Limited Run really lists a binder. The listing is described as four-pocket, $10 and holding up to 80 cards with a random card included. That discovery is not a purchase. A separate recollection of buying cheap generic four-pocket binders does not establish ownership of this branded one.",
+      "forbidden": [
+        "Full card set owned",
+        "Limited Run binder purchased"
+      ],
+      "evidence_locations": [
+        "Paragraph 10",
+        "Paragraph 11",
+        "Paragraph 22"
+      ],
+      "status": "passed",
+      "reason": "Paragraphs10–11,22 distinguish joking full-card inventory from later real binder listing and earlier generic purchases."
+    },
+    {
+      "id": "cq088-task-organ",
+      "episode": 88,
+      "question": "Which cheap PC game did a speaker say he enjoyed, and did he buy the console copy too?",
+      "query": "Oregon Trail body organ two dollars Steam played fun twenty five PS4 nope",
+      "answer": "The speaker means Organ Trail—the body-organ wordplay, not the state name. He says he bought it for $2 on Steam and found it fun. When the $25 PS4 alternative is offered, the response is 'Nope,' so that is not a second purchase. The short unlabeled turns do not securely identify the buyer, and no completion is claimed.",
+      "forbidden": [
+        "Oregon Trail state game purchased",
+        "PS4 bought",
+        "Certain buyer or completed"
+      ],
+      "evidence_locations": [
+        "Paragraph 11",
+        "Paragraph 12"
+      ],
+      "status": "passed",
+      "reason": "Paragraphs11–12 support body-organ title,2dollar Steam buy and declined PS4 version, with actor unresolved."
+    },
+    {
+      "id": "cq088-task-guy",
+      "episode": 88,
+      "question": "Does owning The Guy Game mean the hosts had both played through it?",
+      "query": "Guy Game own not played played boring Pittsburgh Los Angeles questions",
+      "answer": "No. The dialogue includes an explicit nonplay answer and another speaker's account of playing its repetitive question sequence. It also includes ownership and two retail-purchase recollections, in Pittsburgh and Los Angeles, but the unlabeled turns do not safely assign every detail to Johnny or Tyler. None of that proves a full unlock or completion. Their claims about content, a lawsuit and legality remain unverified episode assertions.",
+      "forbidden": [
+        "Both completed",
+        "Certain actor for every turn",
+        "Retail sale proves legal"
+      ],
+      "evidence_locations": [
+        "Paragraph 17",
+        "Paragraph 19",
+        "Paragraph 20"
+      ],
+      "status": "passed",
+      "reason": "Paragraphs17,19–20 retain separate nonplay/play/retail stories without confidently assigning every turn or certifying content claims."
+    },
+    {
+      "id": "cq088-task-industry",
+      "episode": 88,
+      "question": "When Johnny mentioned working with Atari, did he mean making Atari 2600 games?",
+      "query": "Liquid Entertainment Dragon Shard Atari publisher six months desperate housewives",
+      "answer": "No. Johnny describes roughly six months at Liquid Entertainment on Dragonshard, with Atari as publisher. The Atari 2600 interpretation is a misunderstanding that the conversation corrects. He describes the game as a Dungeons & Dragons real-time strategy title and recalls Desperate Housewives as a later company project; that does not establish that he personally worked on it or verify the company's entire history.",
+      "forbidden": [
+        "Atari2600 developer",
+        "Verified employment chronology",
+        "Desperate Housewives personal work"
+      ],
+      "evidence_locations": [
+        "Paragraph 25",
+        "Paragraph 26"
+      ],
+      "status": "passed",
+      "reason": "Paragraphs25–26 explicitly correct Atari2600 misunderstanding and name Liquid/Dragonshard; no Desperate Housewives personal work inferred."
+    },
+    {
+      "id": "cq088-task-protectors",
+      "episode": 88,
+      "question": "What earlier box-protector claims did they revisit?",
+      "query": "Mordov Odyssey RCA Jaguar Absolute 7800 VG collectaholic thickness same place",
+      "answer": "Tyler acknowledges that his earlier no-Odyssey2-protectors claim was wrong, crediting listener feedback and Mordov Games' niche sizes. They also discuss RCA Studio II, Jaguar CD and large Absolute 7800 boxes. The thickness dispute is separate: Johnny objects to saying protectors are all the same, while Tyler narrows his point to different system protectors from the same retailer arriving in different thicknesses. Speculation about manufacturing and tiny sales runs is not verified business information.",
+      "forbidden": [
+        "All identical",
+        "Factory contract verified",
+        "All items purchased"
+      ],
+      "evidence_locations": [
+        "Paragraph 28",
+        "Paragraph 29",
+        "Paragraph 30"
+      ],
+      "status": "passed",
+      "reason": "Paragraphs28–30 correct no-protector claim and narrow disputed thickness claims without certifying factories."
+    },
+    {
+      "id": "cq088-task-cleaning",
+      "episode": 88,
+      "question": "Did the follow-up establish a successful or endorsed way to remove the marker?",
+      "query": "Miracle Piano dry erase Sharpie acetone alcohol residue Johnny not endorsing Tyler",
+      "answer": "No. Tyler reports trying a dry-erase marker on his already marked Miracle Piano box, while Johnny disputes that this was the method he had described. Tyler says it made the original mark lighter but left residue and a less neat result, then reports further solvent attempts with warnings. Johnny expressly declines to endorse the procedure. This is an imperfect historical experiment, not a safe cleaning recipe or proof of a pristine restoration.",
+      "forbidden": [
+        "Chemical safety advice",
+        "Pristine restored",
+        "New box purchase"
+      ],
+      "evidence_locations": [
+        "Paragraph 31",
+        "Paragraph 32",
+        "Paragraph 33"
+      ],
+      "status": "passed",
+      "reason": "Paragraphs31–33 report Tyler's imperfect dry-erase attempt and Johnny's nonendorsement; not a cleaning recipe."
+    },
+    {
+      "id": "cq214-criteria",
+      "episode": 214,
+      "question": "Did they agree on an objective top ten before recording?",
+      "query": "Did they agree on an objective top ten before recording?",
+      "answer": "No. They made independent lists without agreeing criteria, acknowledged large blind spots and said the episode was not in ranking order. Their discussion contrasts popularity, historical branching influence and collectibility rather than establishing an objective universal top ten. Both ultimately discuss extra choices.",
+      "forbidden": [
+        "Do not call these an objective ordered ranking.",
+        "Do not infer omitted games unimportant."
+      ],
+      "evidence_locations": [
+        "00:11:47",
+        "00:19:07",
+        "00:40:28",
+        "02:30:10",
+        "02:33:21"
+      ],
+      "status": "passed",
+      "reason": "11:47,19:07,40:28 and closing extra-count passages establish independent criteria and unordered, unsettled lists."
+    },
+    {
+      "id": "cq214-shared",
+      "episode": 214,
+      "question": "Which influential games did both hosts choose?",
+      "query": "Which influential games did both hosts choose?",
+      "answer": "The explicitly shared opening choices are Pong, Donkey Kong and Super Mario Bros. The shared status is selection membership, not the three games discussed longest. They then move to different personal selections.",
+      "forbidden": [
+        "Do not substitute duration leaders.",
+        "Do not infer every later accepted argument was on both original lists."
+      ],
+      "evidence_locations": [
+        "00:19:07",
+        "00:26:39",
+        "00:38:18",
+        "00:44:46"
+      ],
+      "status": "passed",
+      "reason": "19:07,26:39,38:18,44:46 explicitly establish shared Pong/Donkey Kong/Mario membership, not duration leaders."
+    },
+    {
+      "id": "cq214-tyler-list",
+      "episode": 214,
+      "question": "What games were on Tyler’s influential-games list?",
+      "query": "What games were on Tyler’s influential-games list?",
+      "answer": "Tyler’s discussed selections are Pong, Donkey Kong, Super Mario Bros, Half-Life, Diablo, Grand Theft Auto III, Ultima Underworld, Wizardry, Oblivion, Doom and Minecraft. On counting eleven he jokes about scrapping Wizardry but insists Minecraft is staying; the source does not give a clearly settled revised ten. This is the discussed list, not an ordered ranking or a recommendation to buy every title.",
+      "forbidden": [
+        "Do not silently delete Wizardry from documented discussion.",
+        "Do not turn eleven into an invented final ten."
+      ],
+      "evidence_locations": [
+        "00:19:07",
+        "00:26:39",
+        "00:38:18",
+        "00:53:17",
+        "01:15:37",
+        "01:33:43",
+        "01:44:25",
+        "01:48:43",
+        "02:04:47",
+        "02:20:40",
+        "02:33:21"
+      ],
+      "status": "passed",
+      "reason": "Each named selection has its own discussion anchor;2:33:21 preserves eleven and uncertain Wizardry scrap without inventing a final ten."
+    },
+    {
+      "id": "cq214-johnny-list",
+      "episode": 214,
+      "question": "What did Johnny choose, and what happened to Counter-Strike and Myst?",
+      "query": "What did Johnny choose, and what happened to Counter-Strike and Myst?",
+      "answer": "Johnny shares Pong, Donkey Kong and Super Mario Bros, then presents World of Warcraft, The Legend of Zelda, Resident Evil, Call of Duty 4, Street Fighter II and StarCraft. Counter-Strike was on his initial list but he explicitly strikes it after the Half-Life discussion. Myst is still discussed as an extra he calls game eleven, with doubts about its lasting influence. Preserve those statuses rather than forcing a clean final top ten.",
+      "forbidden": [
+        "Do not retain CounterStrike as unqualified final member.",
+        "Do not omit Myst discussion."
+      ],
+      "evidence_locations": [
+        "00:19:07",
+        "00:26:39",
+        "00:38:18",
+        "00:44:46",
+        "00:56:29",
+        "01:00:45",
+        "01:02:53",
+        "01:23:02",
+        "01:40:06",
+        "01:56:04",
+        "02:15:26",
+        "02:30:10"
+      ],
+      "status": "passed",
+      "reason": "Counter-Strike withdrawal at1:00:45 and Myst's extra status at2:30:10 qualify Johnny's named selections."
+    },
+    {
+      "id": "cq214-pong",
+      "episode": 214,
+      "question": "Why did they choose Pong if it was not actually the first video game?",
+      "query": "Why did they choose Pong if it was not actually the first video game?",
+      "answer": "The first-ever announcement is playful and is qualified by Spacewar, Tennis for Two, Computer Space and Odyssey. Their serious argument is that Pong made commercial arcade play and playing video games at home broadly popular. Tyler wants a Sears Tele-Games device despite preferring the later Atari branding; he already owns the Atari one.",
+      "forbidden": [
+        "Do not certify Pong as first game or first home system.",
+        "Do not say Tyler owns Sears Pong."
+      ],
+      "evidence_locations": [
+        "00:19:07",
+        "00:20:13",
+        "00:21:16",
+        "00:23:23",
+        "00:24:29",
+        "00:25:32"
+      ],
+      "status": "passed",
+      "reason": "19:07–25:32 distinguish literal-first jokes from commercial/home popularity and Atari-owned/Sears-wanted device context."
+    },
+    {
+      "id": "cq214-donkey-kong",
+      "episode": 214,
+      "question": "Which Donkey Kong collectible does Tyler recommend, and does he own it?",
+      "query": "Which Donkey Kong collectible does Tyler recommend, and does he own it?",
+      "answer": "He recommends an original arcade cabinet for its historical and visual appeal, criticizing compromised early home ports. He owns a first-release PCB, not a whole cabinet, and says he does not own and will not own the cabinet. Radar Scope conversion boards are a separate desirable hardware variant; his ownership of the earlier PCB does not prove he owns one of those.",
+      "forbidden": [
+        "Do not turn PCB into cabinet ownership.",
+        "Do not authenticate red cabinet from paint alone."
+      ],
+      "evidence_locations": [
+        "00:30:51",
+        "00:31:56",
+        "00:32:58",
+        "00:34:03",
+        "00:35:06"
+      ],
+      "status": "passed",
+      "reason": "30:51–35:06 distinguish the recommended cabinet from owned first-release PCB and desired conversion hardware."
+    },
+    {
+      "id": "cq214-mario-prints",
+      "episode": 214,
+      "question": "What should a collector look for in Super Mario Bros, and is first print automatically rare?",
+      "query": "What should a collector look for in Super Mario Bros, and is first print automatically rare?",
+      "answer": "They prioritize an NES hangtab and discuss matte versus gloss sealing stickers. Famicom examples distinguish no-barcode, later barcode and later FF-logo boxes. They explicitly warn that first prints can be the largest runs while late prints can be scarcer; their dated Mario price discussion is not a current valuation.",
+      "forbidden": [
+        "Do not give current prices.",
+        "Do not state every first print is rarest."
+      ],
+      "evidence_locations": [
+        "00:41:29",
+        "00:42:36",
+        "00:43:43",
+        "00:44:46"
+      ],
+      "status": "passed",
+      "reason": "41:29–44:46 support print cues and explicit first-print-versus-rarity warning, all dated source claims."
+    },
+    {
+      "id": "cq214-wow",
+      "episode": 214,
+      "question": "Why did Johnny pick World of Warcraft over EverQuest, and how much did Tyler play?",
+      "query": "Why did Johnny pick World of Warcraft over EverQuest, and how much did Tyler play?",
+      "answer": "Johnny favors WoW’s mass reach, approachability and cultural impact rather than being the earliest MMO. Tyler accepts its importance but only tried starter areas, including an unsuccessful attempt with Ada, and was more into Lord of the Rings Online. He cannot provide a meaningful WoW build. The vanilla collector edition is a collectible distinct from a useful subscription or playable account.",
+      "forbidden": [
+        "Do not assign Tyler a class/build or longterm subscription.",
+        "Do not imply a used box grants live access."
+      ],
+      "evidence_locations": [
+        "00:45:51",
+        "00:48:06",
+        "00:49:11",
+        "00:50:14",
+        "00:51:17",
+        "00:53:17"
+      ],
+      "status": "passed",
+      "reason": "45:51–53:17 give Johnny's reach criterion and Tyler's brief starter-area experiment, not a class/build or subscription."
+    },
+    {
+      "id": "cq214-halflife",
+      "episode": 214,
+      "question": "Why did Half-Life beat a cutscene-heavy game as Tyler’s narrative example?",
+      "query": "Why did Half-Life beat a cutscene-heavy game as Tyler’s narrative example?",
+      "answer": "He emphasizes living the opening workday and catastrophe while NPCs act around the player, rather than repeatedly stopping for long codec calls or cutscenes. He contrasts Metal Gear Solid but still calls it important. Mods, Counter-Strike, sequels and Steam broaden the influence argument. For collecting he prefers the early orange gatefold PC box without later stickers, not the PS2 port or Orange Box as original Half-Life.",
+      "forbidden": [
+        "Do not say MetalGearSolid unimportant.",
+        "Do not confuse OrangeBox compilation with original."
+      ],
+      "evidence_locations": [
+        "00:54:24",
+        "00:55:27",
+        "00:56:29",
+        "00:58:38",
+        "00:59:41",
+        "01:00:45"
+      ],
+      "status": "passed",
+      "reason": "54:24–1:00:45 support continuous narrative versus interruptions while preserving MGS importance and original-box/compilation distinctions."
+    },
+    {
+      "id": "cq214-zelda-quest",
+      "episode": 214,
+      "question": "Had Tyler really never played Zelda’s second quest?",
+      "query": "Had Tyler really never played Zelda’s second quest?",
+      "answer": "He initially says that, then remembers entering Zelda as his name in earlier attempts. Those attempts were actually the second quest; he later beat the original around 2009 after learning not to use that name. The hosts also leave the historical origin of New Game Plus unresolved.",
+      "forbidden": [
+        "Do not repeat initial denial alone.",
+        "Do not claim he completed second quest.",
+        "Do not certify Zelda invented NewGamePlus."
+      ],
+      "evidence_locations": [
+        "01:08:13",
+        "01:09:19",
+        "01:10:22"
+      ],
+      "status": "passed",
+      "reason": "1:08:13–1:10:22 correct initial second-quest denial through Zelda-name attempts; no second-quest completion or origin certification."
+    },
+    {
+      "id": "cq214-zelda-collect",
+      "episode": 214,
+      "question": "What Zelda version and small packaging detail did they tell collectors about?",
+      "query": "What Zelda version and small packaging detail did they tell collectors about?",
+      "answer": "They describe the original Famicom Disk System edition as the cheaper Japanese target versus the later cartridge release. For NES, a TM after Nintendo Entertainment System at the lower right is the early-box clue discussed. Zelda and Zelda II also have unusual baggies with a cutout so the gold cartridge shines through the box window. These are dated host collecting claims, not independent authentication.",
+      "forbidden": [
+        "Do not turn speculative factory story into documented manufacturing history.",
+        "Do not present current values."
+      ],
+      "evidence_locations": [
+        "01:11:25",
+        "01:12:26",
+        "01:13:29",
+        "01:14:31",
+        "01:15:37"
+      ],
+      "status": "passed",
+      "reason": "1:11:25–1:15:37 support FDS/NES packaging cues and baggie detail; factory speculation is excluded from fact."
+    },
+    {
+      "id": "cq214-diablo",
+      "episode": 214,
+      "question": "Why choose Diablo rather than Diablo II, and did influence mean nobody enjoyed it?",
+      "query": "Why choose Diablo rather than Diablo II, and did influence mean nobody enjoyed it?",
+      "answer": "Tyler traces loot, visible interface, realtime combat and repeated reward loops to the first Diablo, while acknowledging Diablo II’s deeper character and multiplayer systems could justify that slot. Unlike Wizardry, Diablo is enthusiastically praised. Tyler recalls playing at a friend’s father’s computer, Johnny says he played a little, and Carly’s family had a disc and case whose original player is uncertain.",
+      "forbidden": [
+        "Do not identify which Carly parent played.",
+        "Do not treat development story as verified."
+      ],
+      "evidence_locations": [
+        "01:15:37",
+        "01:16:40",
+        "01:17:43",
+        "01:18:45",
+        "01:19:47",
+        "01:21:56",
+        "01:56:04"
+      ],
+      "status": "passed",
+      "reason": "1:15:37–1:21:56,1:56:04 preserve first-versus-sequel rationale, positive play recollections and uncertain family disc origin."
+    },
+    {
+      "id": "cq214-resident-evil",
+      "episode": 214,
+      "question": "What did they correct about Resident Evil, and which collectible did they recommend?",
+      "query": "What did they correct about Resident Evil, and which collectible did they recommend?",
+      "answer": "The discussion mistakenly treats Chris Redfield as not playable; the outro explicitly corrects that. It still maintains he is not the original cover character, with the earlier Richard identification only a host lookup. The preferred historical collectible is the original PS1 longbox, but peeling artwork and condition complicate buying it. Later Director’s Cut, jewel cases, PC and Saturn versions are separate comparisons.",
+      "forbidden": [
+        "Do not repeat Chris-not-playable claim.",
+        "Do not externally authenticate cover identity.",
+        "Do not convert glue advice into completed restoration."
+      ],
+      "evidence_locations": [
+        "01:28:21",
+        "01:29:27",
+        "01:30:30",
+        "01:31:34",
+        "01:32:38",
+        "02:55:45"
+      ],
+      "status": "passed",
+      "reason": "1:28:21–1:32:38 and2:55:45 join the playable-Chris correction with collectible-condition discussion and uncertain cover identity."
+    },
+    {
+      "id": "cq214-gta",
+      "episode": 214,
+      "question": "Did Johnny agree that everyone loves GTA III?",
+      "query": "Did Johnny agree that everyone loves GTA III?",
+      "answer": "No. Tyler describes being astonished by its open city and having played it extensively. Johnny tried roughly two hours, disliked it and stopped, while distinguishing personal taste from saying it was a bad game. He did like L.A. Noire. Tyler chooses GTA III rather than Vice City or San Andreas as the major 3D turning point.",
+      "forbidden": [
+        "Do not turn personal dislike into objective judgment.",
+        "Do not give Johnny extensive GTA play."
+      ],
+      "evidence_locations": [
+        "01:33:43",
+        "01:34:44",
+        "01:35:51",
+        "01:36:56",
+        "01:38:02",
+        "01:39:04",
+        "01:40:06"
+      ],
+      "status": "passed",
+      "reason": "1:33:43–1:40:06 contrast extensive Tyler enthusiasm with Johnny's roughly two-hour dislike and LA Noire exception."
+    },
+    {
+      "id": "cq214-cod",
+      "episode": 214,
+      "question": "What is the definitive first-print version of Call of Duty 4 according to the episode?",
+      "query": "What is the definitive first-print version of Call of Duty 4 according to the episode?",
+      "answer": "They do not know. Johnny recommends a console copy for its console significance, Tyler pushes PC because of the series’ roots, and they discuss badge-free packaging only broadly. They explicitly distinguish the Wii version. Their choice of Call of Duty 4 as influential is firmer than their edition-identification knowledge.",
+      "forbidden": [
+        "Do not invent a definitive variant code or universal platform winner."
+      ],
+      "evidence_locations": [
+        "01:40:06",
+        "01:41:10",
+        "01:42:14",
+        "01:43:19",
+        "01:44:25"
+      ],
+      "status": "passed",
+      "reason": "1:40:06–1:44:25 explicitly lack a definitive print answer and preserve platform disagreement and Wii distinction."
+    },
+    {
+      "id": "cq214-rpg-nodes",
+      "episode": 214,
+      "question": "Why put both Ultima Underworld and Wizardry on the list if the hosts dislike archaic games?",
+      "query": "Why put both Ultima Underworld and Wizardry on the list if the hosts dislike archaic games?",
+      "answer": "Tyler treats Underworld as a major systemic realtime3D step and Wizardry as a branching influence node connecting Western and Japanese RPGs. Johnny questions whether later, better games deserve those slots and calls Underworld a blind spot. Both strongly dislike Wizardry’s playability; importance is not a claim that listeners must enjoy or buy it. A Mass Effect nationality slip in the lineage argument is corrected to Canadian in the outro.",
+      "forbidden": [
+        "Do not claim agreed objective lineage or enjoyableWizardry.",
+        "Do not keep AmericanMassEffect claim."
+      ],
+      "evidence_locations": [
+        "01:45:32",
+        "01:46:36",
+        "01:47:39",
+        "01:48:43",
+        "01:49:47",
+        "01:51:54",
+        "01:53:00",
+        "01:54:01",
+        "01:55:02",
+        "01:56:04",
+        "02:55:45"
+      ],
+      "status": "passed",
+      "reason": "1:45:32–1:56:04 and2:55:45 separate influence from enjoyment, Underworld blind spot and corrected Canadian development claim."
+    },
+    {
+      "id": "cq214-street-fighter",
+      "episode": 214,
+      "question": "Was the famous Ken parry moment actually in Street Fighter II?",
+      "query": "Was the famous Ken parry moment actually in Street Fighter II?",
+      "answer": "No. They explicitly place that later moment in Street Fighter III, while using it to discuss the competitive and spectator culture that Street Fighter II helped establish. For a practical historical home collectible they suggest original SNES Street Fighter II but say it is not the best version to play. The glowing iam8bit cartridge and house-fire endorsement are jokes, not safety advice.",
+      "forbidden": [
+        "Do not attribute parry footage to SFII.",
+        "Do not recommend unsafe hardware based on joke."
+      ],
+      "evidence_locations": [
+        "01:59:26",
+        "02:00:30",
+        "02:01:34",
+        "02:03:41",
+        "02:04:47"
+      ],
+      "status": "passed",
+      "reason": "1:59:26–2:04:47 place the parry in SFIII and keep SNES collecting versus best-play and house-fire joke distinct."
+    },
+    {
+      "id": "cq214-oblivion",
+      "episode": 214,
+      "question": "What was the strongest agreed reason for Oblivion, and did horse armor cost $2.99?",
+      "query": "What was the strongest agreed reason for Oblivion, and did horse armor cost $2.99?",
+      "answer": "The less-contested argument is horse armor as a prominent singleplayer microtransaction landmark. Johnny challenges the quest-design argument because WoW had similar loops earlier, and Tyler narrows his point to singleplayer console popularization. The horse-armor price is corrected from $2.99 to $2.50; earlier online microtransactions are acknowledged, so this is not a literal-first claim.",
+      "forbidden": [
+        "Do not leave price at2.99.",
+        "Do not claim literalfirst microtransaction.",
+        "Do not infer eitherhost bought horsearmor."
+      ],
+      "evidence_locations": [
+        "02:07:59",
+        "02:09:02",
+        "02:10:05",
+        "02:11:11",
+        "02:12:17"
+      ],
+      "status": "passed",
+      "reason": "2:07:59–2:12:17 retain WoW counterargument and2.99→2.50 correction without literal-first or personal purchase inference."
+    },
+    {
+      "id": "cq214-starcraft",
+      "episode": 214,
+      "question": "Did Johnny learn StarCraft by playing it for work, and which game did Tyler watch competitively?",
+      "query": "Did Johnny learn StarCraft by playing it for work, and which game did Tyler watch competitively?",
+      "answer": "Johnny says his RTS employer sent him to study StarCraft theoretically through reading about what it did well, not by actually playing it for that task. Tyler’s weekly competitive-viewing story is specifically StarCraft II. The original StarCraft selection is defended through distinct balanced races and the macro/micro demands of competition.",
+      "forbidden": [
+        "Do not turn research into played state.",
+        "Do not confuse StarCraftII viewing with original-game ownership."
+      ],
+      "evidence_locations": [
+        "02:15:26",
+        "02:16:26",
+        "02:17:28",
+        "02:18:31",
+        "02:19:34"
+      ],
+      "status": "passed",
+      "reason": "2:15:26–2:19:34 explicitly distinguish Johnny's theoretical work study from play and Tyler's StarCraftII viewing."
+    },
+    {
+      "id": "cq214-doom",
+      "episode": 214,
+      "question": "What does Tyler want in an early Doom copy, and what console port does he tolerate?",
+      "query": "What does Tyler want in an early Doom copy, and what console port does he tolerate?",
+      "answer": "He describes mail-order Doom with its addendum, version1.1 discs and black-backed manual, and explicitly wants a rare5.25-inch floppy version while admitting rarity uncertainty. Ultimate Doom is the later retail alternative. If forced to choose a90s console port, he suggests PlayStation for its different ambient feel, but still prefers PC. This is dated collecting advice, not a current price or definitive rarest-version finding.",
+      "forbidden": [
+        "Do not mark bigfloppy acquired.",
+        "Do not claim allconsoleports identical.",
+        "Do not certify rarest version."
+      ],
+      "evidence_locations": [
+        "02:23:49",
+        "02:24:55",
+        "02:25:59",
+        "02:27:03"
+      ],
+      "status": "passed",
+      "reason": "2:23:49–2:27:03 support early Doom paperwork/floppy wants and qualified PS1 fallback, no bought rare floppy."
+    },
+    {
+      "id": "cq214-myst-minecraft",
+      "episode": 214,
+      "question": "How did Myst and Minecraft complicate the promised ten-game lists?",
+      "query": "How did Myst and Minecraft complicate the promised ten-game lists?",
+      "answer": "Johnny still discusses Myst as his eleventh choice, valuing its broad reach but admitting uncertainty about lasting influence. Tyler then discovers Minecraft also makes his own count eleven, floats scrapping Wizardry and insists Minecraft remains. Minecraft’s crafting, indie and mobile arguments are later supplemented with a streaming-culture paragraph in the outro. No clean jointly approved final ten is supplied.",
+      "forbidden": [
+        "Do not force finalten.",
+        "Do not omit postscript influence argument."
+      ],
+      "evidence_locations": [
+        "02:30:10",
+        "02:31:12",
+        "02:33:21",
+        "02:34:25",
+        "02:35:29",
+        "02:36:29",
+        "02:55:45",
+        "02:56:49"
+      ],
+      "status": "passed",
+      "reason": "2:30:10–2:36:29 and2:55:45–56:49 preserve extra counts, unresolved final membership and streaming postscript."
+    },
+    {
+      "id": "cq214-johnny-pickups",
+      "episode": 214,
+      "question": "What did Johnny buy, and which purchase never arrived?",
+      "query": "What did Johnny buy, and which purchase never arrived?",
+      "answer": "He reports a sealed GBA Scourge: Hive, the missing GameCube Kids Next Door trading card, a Lemony Snicket GameCube copy with an intact movie ticket replacing a torn-ticket example, and a $15 Thousand Arms multimedia CD. Angry Birds Trilogy for Wii did not arrive and he filed a claim. The CD can be a recap of the preceding mail-away story; the source does not prove a second transaction, a refund or successful replacement delivery.",
+      "forbidden": [
+        "Do not mark AngryBirds received/refunded.",
+        "Do not turn card-only purchase into game purchase.",
+        "Do not assume duplicateCDtransaction."
+      ],
+      "evidence_locations": [
+        "02:39:40",
+        "02:40:40",
+        "02:41:43"
+      ],
+      "status": "passed",
+      "reason": "2:39:40–2:41:43 distinguish card-only and replacement-ticket buys, possibly repeated CD report and failed Angry Birds delivery."
+    },
+    {
+      "id": "cq214-tyler-pickups",
+      "episode": 214,
+      "question": "What were Tyler’s actual pickups versus things he still wanted?",
+      "query": "What were Tyler’s actual pickups versus things he still wanted?",
+      "answer": "He got the Time Traveler DVD game for about $15 with 3D glasses and a signed Alpha Centauri copy, alongside an already-owned signed Sid Meier book. He has never played the Time Traveler arcade cabinet. Formula 1 Racing remains a saved-search target; the bank game and Space Invaders clone are uncertain historical-list curiosities, not pickups.",
+      "forbidden": [
+        "Do not authenticate signature.",
+        "Do not claim bankgame acquired or commerciallyavailable.",
+        "Do not assign arcadeplay."
+      ],
+      "evidence_locations": [
+        "02:41:43",
+        "02:42:45",
+        "02:43:47",
+        "02:44:54"
+      ],
+      "status": "passed",
+      "reason": "2:41:43–2:44:54 support DVD/signed-game pickups versus unplayed arcade and wanted/uncertain historical items."
+    },
+    {
+      "id": "cq214-autographs",
+      "episode": 214,
+      "question": "Which autograph would Tyler want on a specific game, and what does Johnny want?",
+      "query": "Which autograph would Tyler want on a specific game, and what does Johnny want?",
+      "answer": "Tyler calls Sub-Terrania his favorite soundtrack and wants Jesper Kyd’s autograph on that game rather than Assassin’s Creed memorabilia. Mailing repeated copies is a suggestion/joke, not something he reports doing. Johnny seeks Stephen Gammell material and an Edward Gorey signed illustration, possibly settling for a signed book; the two artists are explicitly distinguished.",
+      "forbidden": [
+        "Do not claim outreach or autographacquired.",
+        "Do not conflate illustrators."
+      ],
+      "evidence_locations": [
+        "02:46:01",
+        "02:47:07",
+        "02:48:14",
+        "02:49:21"
+      ],
+      "status": "passed",
+      "reason": "2:46:01–2:49:21 distinguish specific-game autograph wants, two artists and imagined outreach from completed acquisitions."
+    }
+  ]
+}

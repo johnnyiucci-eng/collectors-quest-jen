@@ -1,0 +1,52 @@
+{
+  "schema_version": "0.1",
+  "created": "2026-09-13",
+  "status": "captured_text_review_complete",
+  "selection_basis": "Seventh era-varied batch in three-hour continuation; sequential lanes, not reserved-answer driven.",
+  "budget": "Local supplied public transcripts only; no paid services/publication/private imports/persona changes.",
+  "episodes": [
+    {
+      "key": "sc-250618403",
+      "episode_number": 22,
+      "title": "Episode 22 - Kat & Johnny Chat With Sixteen_Bit",
+      "date": "2016-03-07",
+      "path": "episodes/cq-022-sc-250618403.md",
+      "source_url": "https://soundcloud.com/collectors-quest/collectors-quest-episode-22-kat-johnny-chat-with-sixteen-bit",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "words": 11312,
+      "sha256": "3c4e3b8852da76319c9434cd4f3f9cf7367962de4628f07682f69281c387326a",
+      "reason": "Era-varied sequential lane continuation",
+      "status": "extracted_draft",
+      "record_path": "records/sc-250618403.json"
+    },
+    {
+      "key": "sc-419958968",
+      "episode_number": 89,
+      "title": "Episode 89 - Collecting The Full Set of 3DO Games with Industry Veteran Stephan Reese",
+      "date": "2018-03-26",
+      "path": "episodes/cq-089-sc-419958968.md",
+      "source_url": "https://soundcloud.com/collectors-quest/episode-89-collecting-the-full-set-of-3do-games-with-industry-veteran-stephan-reese",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "words": 17783,
+      "sha256": "98215b59397f39c92bbda5afc57be7360b9d3db069cc097e26870d48d963251b",
+      "reason": "Era-varied sequential lane continuation",
+      "status": "extracted_draft",
+      "record_path": "records/sc-419958968.json"
+    },
+    {
+      "key": "sc-1451057854",
+      "episode_number": 215,
+      "title": "CQ 215 - So You Want To Collect Gamecube",
+      "date": "2023-02-20",
+      "path": "episodes/cq-215-sc-1451057854.md",
+      "source_url": "https://soundcloud.com/collectors-quest/cq-215-sywtc-gamecube",
+      "timing": "YouTube caption timestamps",
+      "words": 36158,
+      "sha256": "178f891fabda2b5103134a974b02a58458d6855b5be07b6dc061d20dfcad9842",
+      "reason": "Era-varied sequential lane continuation",
+      "status": "extracted_draft",
+      "record_path": "records/sc-1451057854.json"
+    }
+  ],
+  "duplicate_controls": []
+}

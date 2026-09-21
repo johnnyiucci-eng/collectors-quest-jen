@@ -1,0 +1,52 @@
+{
+  "schema_version": "0.1",
+  "created": "2026-09-13",
+  "status": "captured_text_review_complete",
+  "selection_basis": "Three continuation lanes after batch002, varied across early, transition and later host eras. Not selected by answer-key searches.",
+  "budget": "Local public transcript processing only; no paid services, external writes or persona changes.",
+  "episodes": [
+    {
+      "key": "sc-237798772",
+      "episode_number": 11,
+      "title": "Episode 11 - Collecting Star Wars Games",
+      "date": "2015-12-16",
+      "path": "episodes/cq-011-sc-237798772.md",
+      "words": 8357,
+      "source_url": "https://soundcloud.com/collectors-quest/collectors-quest-episode-11-star-wars-collecting",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "sha256": "f464d814094ca6c64340cafe770169472eef6478e52135791ca9865c61a972cb",
+      "reason": "Era-varied sequential continuation within lane",
+      "status": "extracted_draft",
+      "record_path": "records/sc-237798772.json"
+    },
+    {
+      "key": "sc-349518307",
+      "episode_number": 78,
+      "title": "Episode 78 - Halloween Games That Came With Cool Pack In Items",
+      "date": "2017-10-31",
+      "path": "episodes/cq-078-sc-349518307.md",
+      "words": 9462,
+      "source_url": "https://soundcloud.com/collectors-quest/episode-78-halloween-games-that-came-with-cool-pack-in-items",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "sha256": "15ddf8e725381bef886cc58a421476574af14e0e1391854591cb55834c7fb0e2",
+      "reason": "Era-varied sequential continuation within lane",
+      "status": "extracted_draft",
+      "record_path": "records/sc-349518307.json"
+    },
+    {
+      "key": "sc-1350766930",
+      "episode_number": 204,
+      "title": "CQ 204 - Price History is BS",
+      "date": "2022-09-25",
+      "path": "episodes/cq-204-sc-1350766930.md",
+      "words": 20097,
+      "source_url": "https://soundcloud.com/collectors-quest/cq-204-price-history-is-bs",
+      "timing": "YouTube caption timestamps",
+      "sha256": "073bf3d58ed44afdba03944982f12ed98daca75349a9c0500afe7e63d3f45a95",
+      "reason": "Era-varied sequential continuation within lane",
+      "status": "extracted_draft",
+      "record_path": "records/sc-1350766930.json"
+    }
+  ],
+  "duplicate_controls": []
+}

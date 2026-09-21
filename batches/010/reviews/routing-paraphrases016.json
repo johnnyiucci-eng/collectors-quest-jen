@@ -1,0 +1,143 @@
+{
+  "schema_version": "1",
+  "selection": "Six fresh natural questions authored after complete 46-paragraph source read and before opening episode extraction, actual cases, tuned queries or routing implementation. Same team reviewer with prior project context; not externally blinded.",
+  "source_key": "sc-243666752",
+  "cases": [
+    {
+      "id": "cq016-natural-01",
+      "episode": 16,
+      "question": "What were the biggest game discussions, keeping controllers and other gear out of the ranking?",
+      "expected_locations": [
+        "Paragraph 4",
+        "Paragraph 5",
+        "Paragraph 19",
+        "Paragraph 20",
+        "Paragraph 23",
+        "Paragraph 35",
+        "Paragraph 36",
+        "Paragraph 37",
+        "Paragraph 40",
+        "Paragraph 41",
+        "Paragraph 42",
+        "Paragraph 43",
+        "Paragraph 44",
+        "Paragraph 45"
+      ],
+      "expected_facts": [
+        "Use reviewed untimed game coverage, not raw name counts.",
+        "Exclude hardware and accessories from individual-game ranking.",
+        "Explain ties or uncertainty rather than inventing an exclusive top three."
+      ],
+      "forbidden": [
+        "Measured speaking minutes",
+        "Employee controller ranked as video game",
+        "Treat every generic Mario Kart mention as same installment"
+      ]
+    },
+    {
+      "id": "cq016-natural-02",
+      "episode": 16,
+      "question": "Was he already a collector when he first bought another N64, or did that happen later?",
+      "expected_locations": [
+        "Paragraph 5",
+        "Paragraph 21",
+        "Paragraph 22",
+        "Paragraph 23"
+      ],
+      "expected_facts": [
+        "Justin first bought bundle for nostalgia and play.",
+        "Collecting tipping point later around Nintendo Power100controller.",
+        "Approximate timeline not precise date."
+      ],
+      "forbidden": [
+        "Bought-to-play and collecting began simultaneously",
+        "Five years and two-and-half years are necessarily contradiction"
+      ]
+    },
+    {
+      "id": "cq016-natural-03",
+      "episode": 16,
+      "question": "Why does that employee controller mean so much to him, and do we actually know how many were made?",
+      "expected_locations": [
+        "Paragraph 15",
+        "Paragraph 16",
+        "Paragraph 17",
+        "Paragraph 18"
+      ],
+      "expected_facts": [
+        "Justin acquired personalized Hiroto Alexander product-testing controller as part of employee lot.",
+        "Values provenance and uniqueness to person.",
+        "Thirteen team members/copies is reported supposition, not verified census."
+      ],
+      "forbidden": [
+        "Thirteen proven surviving examples",
+        "Johnny owns guest's controller",
+        "Verified employee biography"
+      ]
+    },
+    {
+      "id": "cq016-natural-04",
+      "episode": 16,
+      "question": "Is the Brazilian racing game the same thing as the Australian steering-wheel bundle?",
+      "expected_locations": [
+        "Paragraph 8",
+        "Paragraph 9",
+        "Paragraph 12",
+        "Paragraph 13"
+      ],
+      "expected_facts": [
+        "F1 Racing Championship Brazilian item differs from F1 World Grand Prix Performance Pack.",
+        "Justin owns Brazilian game; had not known Australian bundle.",
+        "Regional-set count is guest's claim."
+      ],
+      "forbidden": [
+        "Same title or product",
+        "Justin bought Performance Pack",
+        "Externally certified297-game set"
+      ]
+    },
+    {
+      "id": "cq016-natural-05",
+      "episode": 16,
+      "question": "What is he still hunting for after finishing the regular games?",
+      "expected_locations": [
+        "Paragraph 9",
+        "Paragraph 10",
+        "Paragraph 13",
+        "Paragraph 23"
+      ],
+      "expected_facts": [
+        "Justin pursues regional/name variants, gray carts and controllers.",
+        "Missing gray BackstageAssault and RugratsParis.",
+        "ASCII counts self-correct and remain uncertain.",
+        "Gold E3controller still absent."
+      ],
+      "forbidden": [
+        "All controllers complete",
+        "Exact ASCII total settled",
+        "Missing items already received"
+      ]
+    },
+    {
+      "id": "cq016-natural-06",
+      "episode": 16,
+      "question": "Had Kat tried the imported shooter yet, and did she really need to buy a Wii U?",
+      "expected_locations": [
+        "Paragraph 35",
+        "Paragraph 36",
+        "Paragraph 39",
+        "Paragraph 40"
+      ],
+      "expected_facts": [
+        "Kat has not played Sin and Punishment, adds it to list.",
+        "Justin reports beating import and Johnny has played.",
+        "Kat says household already has WiiU and MarioKart8, playswithJohn."
+      ],
+      "forbidden": [
+        "Kat beat imported shooter",
+        "Kat does not own WiiU",
+        "John equalsJohnny"
+      ]
+    }
+  ]
+}

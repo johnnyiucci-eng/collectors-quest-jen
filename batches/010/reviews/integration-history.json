@@ -1,0 +1,48 @@
+{
+  "schema_version": "1",
+  "initial_context_result": {
+    "passed": 37,
+    "total": 38,
+    "failures": [
+      {
+        "id": "cq209-starter-lists",
+        "missing_windows": [
+          "00:15:59",
+          "00:19:09",
+          "00:42:32",
+          "00:59:27",
+          "01:06:48",
+          "01:08:56",
+          "01:22:41",
+          "01:25:53"
+        ]
+      }
+    ]
+  },
+  "repair": "Added explicit source-backed selection membership/owner/purpose/ordinal/joke exclusions, not episode-specific routing or ranking-derived picks. Original question,query,answer and required windows unchanged.",
+  "semantic_repairs": [
+    "CQ16 Double Dash P41–43 overcredit removed; cup/rivalry remains unspecified Mario Kart series, sourcepointsP40/P44 retain title.",
+    "CQ83 Odyssey unfinished speaker unknown, not forced Tyler; Holy Diver explicit neverplayed retained as mentioned unknownactor; ambiguous MarioBro notconfidentgame.",
+    "CQ209 incidental Chrono/Castlevania/EarthBound tails downgraded beforehandoff; timingnear-ties retained.",
+    "CQ209 Fun'nGames typedentry initially omitted manual-proofwindow; added01:47:52 after independentpeerreview.",
+    "Initial full-block correctionpatch rejected atomically because console roundtrip altered unicode; targetedpatch succeeded andliteralvalidationreran."
+  ],
+  "initial_fresh_question_result": {
+    "passed": 10,
+    "total": 12,
+    "artifact": "fresh-question-initial-results.json"
+  },
+  "final_context_result": {
+    "passed": 38,
+    "total": 38
+  },
+  "final_fresh_question_result": {
+    "passed": 12,
+    "total": 12
+  },
+  "scope_guard_repairs": [
+    "Talked about the most nowroutesprominence; actor/action/preference constraints do not.",
+    "Ten-game list cardinality,strive purpose, negatedpurpose andunknownowner constraints checked. Hot is separatepurpose, not synonymforaspirational."
+  ],
+  "limits": "Fresh wordings are now development regressions. High context recall is not compactness, arbitrary-question accuracy or live readiness."
+}

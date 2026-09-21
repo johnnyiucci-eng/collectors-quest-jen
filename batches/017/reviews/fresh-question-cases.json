@@ -1,0 +1,125 @@
+{
+  "schema_version": "1",
+  "scope": "Coordinator source-informed fresh wordings frozen before first retrieval. Source and some existing answers already seen; not blind. Become development regressions after use.",
+  "cases": [
+    {
+      "id": "cq023-fresh-disposal",
+      "episode": 23,
+      "question": "What did Johnny throw away rather than clean?",
+      "required_windows": [
+        "Paragraph 20"
+      ],
+      "expected": "A mud-filled Shadowgate copy from early collecting. Disposal, not a sale or return; rough two-dollar recollection is not current value."
+    },
+    {
+      "id": "cq023-fresh-crushed",
+      "episode": 23,
+      "question": "Were the three crushed Game Boy games kept?",
+      "required_windows": [
+        "Paragraph 6"
+      ],
+      "expected": "All three unnamed games went back. No title identification or retained ownership."
+    },
+    {
+      "id": "cq023-fresh-verdict",
+      "episode": 23,
+      "question": "Did Kat already love the choice-based game Johnny recommended?",
+      "required_windows": [
+        "Paragraph 25",
+        "Paragraph 26",
+        "Paragraph 27"
+      ],
+      "expected": "Only about fifteen minutes into Life is Strange, she neither loved nor hated it and planned a fair try. Minecraft had not been played."
+    },
+    {
+      "id": "cq090-fresh-parcel",
+      "episode": 90,
+      "question": "Did the parcel include the preamp Tyler paid for?",
+      "required_windows": [
+        "Paragraph 65"
+      ],
+      "expected": "No. Tyler says the seller omitted the actual $149.99 preamp. Payment is not receipt."
+    },
+    {
+      "id": "cq090-fresh-reddit",
+      "episode": 90,
+      "question": "Whose game had a registration card despite the Reddit seller's play plans?",
+      "required_windows": [
+        "Paragraph 78",
+        "Paragraph 79"
+      ],
+      "expected": "Tyler bought Mega Turrican and reports recognizing the Reddit finder as the seller; the seller's intent cannot be independently established."
+    },
+    {
+      "id": "cq090-fresh-region",
+      "episode": 90,
+      "question": "Why were PAL labels not enough to settle cartridge region?",
+      "required_windows": [
+        "Paragraph 56",
+        "Paragraph 62",
+        "Paragraph 63"
+      ],
+      "expected": "Johnny gives a US-set preference based on European packaging; neither host settles software/cartridge region encoding. I Am Setsuna inspection is only proposed."
+    },
+    {
+      "id": "cq216-fresh-delay",
+      "episode": 216,
+      "question": "Why did a separately packed mug delay Johnny's games?",
+      "required_windows": [
+        "02:39:35",
+        "02:40:40",
+        "02:41:43",
+        "02:42:45"
+      ],
+      "expected": "Johnny reports approximately sixteen months waiting for Cotton-related games because of a generic special-edition mug; he says it was packed separately and wanted ready games shipped sooner. Historical account, not verified vendor causation."
+    },
+    {
+      "id": "cq216-fresh-chex",
+      "episode": 216,
+      "question": "Was Tyler sure the jewel-case Chex Quest was wrong for his cereal box?",
+      "required_windows": [
+        "02:48:07"
+      ],
+      "expected": "No. Seeing a disc/manual shrink-wrapped inside another box prompted him to get that version, but they allow both might have been distributed. Exact exclusivity remains uncertain."
+    },
+    {
+      "id": "cq216-fresh-card",
+      "episode": 216,
+      "question": "Why buy a PS2 Zatch Bell copy for a GameCube collection?",
+      "required_windows": [
+        "02:45:59"
+      ],
+      "expected": "Johnny wanted its card for his GameCube game; purchase is reported, completed transfer is not."
+    },
+    {
+      "id": "cq216-fresh-bottle",
+      "episode": 216,
+      "question": "Did the hosts confirm the water bottle belonged to Resident Evil 4?",
+      "required_windows": [
+        "02:43:46",
+        "02:44:53"
+      ],
+      "expected": "No. A listener raises it, but the bottle they find appears related to Outbreak. They request further information and do not establish RE4 special-edition inclusion."
+    },
+    {
+      "id": "cq216-fresh-sonic",
+      "episode": 216,
+      "question": "Was Sonic chosen as one specific game or something broader?",
+      "required_windows": [
+        "01:38:17",
+        "01:39:21"
+      ],
+      "expected": "They settle on Sonic as a franchise/concept after failing to agree on one installment. It must not become an individual-game choice."
+    },
+    {
+      "id": "cq216-fresh-zero",
+      "episode": 216,
+      "question": "Did that great 1982 arcade year actually yield a retained game?",
+      "required_windows": [
+        "00:52:49",
+        "00:56:03"
+      ],
+      "expected": "No. Despite considering Galaga, Pitfall and ET among many candidates, they conclude none for1982; importance and affection do not automatically mean retention."
+    }
+  ]
+}

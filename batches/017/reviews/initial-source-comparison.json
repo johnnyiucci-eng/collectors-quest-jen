@@ -1,0 +1,19 @@
+{
+  "scope": "Coordinator comparison of frozen37 references against initial CQ216400-bucket draft; before omission repair, not a database retrieval result.",
+  "status": "one_detected_missing_reference",
+  "references": 37,
+  "mapped": 36,
+  "missing": [
+    {
+      "id": "cq216-sample-82-1",
+      "episode": 216,
+      "location": "01:26:45",
+      "quote": "three like he's great",
+      "reason": "Garbled prior-window gush continuation lacks a typed unresolved reference; do not force Guybrush or an individual game."
+    }
+  ],
+  "additional_precision_repairs": [
+    "Lady-in-the raw truncated film identity must remain tentative.",
+    "Ikiru raw akiru needs a clarification flag."
+  ]
+}

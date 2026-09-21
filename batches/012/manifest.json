@@ -1,0 +1,52 @@
+{
+  "schema_version": "0.1",
+  "created": "2026-09-13",
+  "status": "captured_text_review_complete",
+  "selection_basis": "Third era-varied batch in requested three-hour continuation; sequential lanes, not reserved-answer driven.",
+  "budget": "Local supplied public transcript files only; no paid services/publication/private imports/persona changes.",
+  "episodes": [
+    {
+      "key": "sc-245993586",
+      "episode_number": 18,
+      "title": "Episode 18 - How to Deal with Collection Envy and Other Questions.",
+      "date": "2016-02-08",
+      "path": "episodes/cq-018-sc-245993586.md",
+      "source_url": "https://soundcloud.com/collectors-quest/collectors-quest-episode-18-how-to-deal-with-collection-envy-and-other-questions",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "words": 8044,
+      "sha256": "15efce75233a0688e49043451f60c0bc5daebbca89369676f0709740ed9c76da",
+      "reason": "Era-varied sequential lane continuation",
+      "status": "extracted_draft",
+      "record_path": "records/sc-245993586.json"
+    },
+    {
+      "key": "sc-402327105",
+      "episode_number": 85,
+      "title": "Episode 85 - Is The Nintendo Switch Killing the Collectiblity of the Wii-U",
+      "date": "2018-02-20",
+      "path": "episodes/cq-085-sc-402327105.md",
+      "source_url": "https://soundcloud.com/collectors-quest/episode-84-switch-ports-and-the-wii-u-collectibility",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "words": 11041,
+      "sha256": "740056111f313892a901405242777f6aee5592a5a94eefde7a42c121dbea7e44",
+      "reason": "Era-varied sequential lane continuation",
+      "status": "extracted_draft",
+      "record_path": "records/sc-402327105.json"
+    },
+    {
+      "key": "sc-1406930341",
+      "episode_number": 211,
+      "title": "CQ 211 - What Happened and What Did We Collect in 2022?",
+      "date": "2022-12-24",
+      "path": "episodes/cq-211-sc-1406930341.md",
+      "source_url": "https://soundcloud.com/collectors-quest/cq-211-what-happened-and-what-did-we-collect-in-2022",
+      "timing": "YouTube caption timestamps",
+      "words": 37241,
+      "sha256": "173698d4ba7ae4a0e2f1b50ec6e48174c32e3b41bd555ec3fe62d2b6f8c88fc4",
+      "reason": "Era-varied sequential lane continuation",
+      "status": "extracted_draft",
+      "record_path": "records/sc-1406930341.json"
+    }
+  ],
+  "duplicate_controls": []
+}

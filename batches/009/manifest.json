@@ -1,0 +1,53 @@
+{
+  "schema_version": "0.1",
+  "created": "2026-09-13",
+  "status": "captured_text_review_complete",
+  "selection_basis": "Seventh era-varied batch in ongoing at-least-two-hour session; not reserved-answer driven.",
+  "budget": "Local supplied public transcript processing only; no paid services, publication or persona changes.",
+  "episodes": [
+    {
+      "key": "sc-242519754",
+      "episode_number": 15,
+      "title": "Episode 15 -Game Spotlight Comix Zone & Faxanadu",
+      "date": "2016-01-18",
+      "path": "episodes/cq-015-sc-242519754.md",
+      "source_url": "https://soundcloud.com/collectors-quest/collectors-quest-episode-15-game-spotlight-comix-zone-faxanadu",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "words": 5121,
+      "sha256": "a9c8a3dd08023557b62e4e68a991a9631a98ada09684a2b38629c3d42a7f0eae",
+      "reason": "Era-varied sequential continuation within lane",
+      "status": "extracted_draft",
+      "record_path": "records/sc-242519754.json"
+    },
+    {
+      "key": "sc-381157055",
+      "episode_number": 82,
+      "title": "Episode 82 - Building a Retro Gaming Convention: Retro City Festival 2018",
+      "date": "2018-01-09",
+      "path": "episodes/cq-082-sc-381157055.md",
+      "source_url": "https://soundcloud.com/collectors-quest/episode-82-building-a-retro-gaming-convention-retro-city-festival-2018",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "words": 9161,
+      "sha256": "a1b1e0c01429f073e0a15ceaa1661c08bda168cde8119ff3ca4e2661ffb22bb3",
+      "reason": "Era-varied sequential continuation within lane",
+      "status": "extracted_draft",
+      "record_path": "records/sc-381157055.json"
+    },
+    {
+      "key": "sc-1381920739",
+      "episode_number": 208,
+      "title": "CQ 208 - CQ Holiday Gift Guide 2022",
+      "date": "2022-11-12",
+      "path": "episodes/cq-208-sc-1381920739.md",
+      "source_url": "https://soundcloud.com/collectors-quest/cq-208-cq-holiday-gift-guide-2022",
+      "timing": "YouTube caption timestamps",
+      "words": 26440,
+      "sha256": "3b35ff10ec83d1edf86f670258ca7dae3343eca47584d8325d334ecc8cc1fd67",
+      "reason": "Era-varied sequential continuation within lane",
+      "status": "extracted_draft",
+      "record_path": "records/sc-1381920739.json"
+    }
+  ],
+  "duplicate_controls": [],
+  "acceptance_note": "Entry statuses preserve extracted source metadata; completed review is recorded separately in episode-review-ledger.json."
+}

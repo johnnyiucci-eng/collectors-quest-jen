@@ -1,0 +1,90 @@
+{
+  "review_binding": {"version":"cq-review-binding-1","sha256":"50952eea8e0534212824a7933077cb1360b941c7b67ad98b99ab58e7f6f8235a","reviewed_utc":"2026-09-14T04:51:55.177130+00:00","meaning":"Exact reviewed local inputs; not independent semantic, audio or live certification"},
+  "schema_version": "1",
+  "required_for": "A1–A8 mandatory for every episode in every batch.",
+  "acceptance_scope": "Captured-text development review only; not audio, external-history, blind-recall or live certification.",
+  "episodes": [
+    {
+      "episode": 218,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All107 supplied windows independently read and accounted;124 typed references/173 spans reconciled, caption intervals and non-game exclusions qualified.",
+          "evidence": [
+            "batches/019/reviews/218-audit.md",
+            "batches/019/reviews/218-annotations.json",
+            "batches/019/reviews/coordinator-progress.md"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "Full inventory reconciliation plus frozen22/22 sample; retain initial20/22 and separate quarter/purposive strata, including two actual omission repairs.",
+          "evidence": [
+            "batches/019/reviews/218-audit.md",
+            "batches/019/reviews/218-annotations.json",
+            "batches/019/reviews/coordinator-progress.md"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Tyler and Johnny participation and actor attribution reviewed; unknown correcting/playing speakers retained, father/third-party reports not host ownership.",
+          "evidence": [
+            "batches/019/reviews/218-audit.md",
+            "batches/019/reviews/218-annotations.json",
+            "batches/019/reviews/coordinator-progress.md"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "All51 action states and18 list memberships reviewed, including accessory/DLC identities, hypothetical sale/play, wanted Ultima, actual Geniac and corrected Contra delivery.",
+          "evidence": [
+            "batches/019/reviews/218-audit.md",
+            "batches/019/reviews/218-annotations.json",
+            "batches/019/reviews/coordinator-progress.md"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "All25 complete answer texts independently adjudicated with exact snapshots;25 original/25 configured and6 first-use fresh retrieval cases pass.",
+          "evidence": [
+            "batches/019/reviews/answer-review.json",
+            "batches/019/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Source-cited practical brief and bounded continuity desk-reviewed for usable examples, disagreement, corrections, open loops and uncertainties; not live rehearsal.",
+          "evidence": [
+            "batches/019/reviews/218-audit.md",
+            "batches/019/reviews/218-annotations.json",
+            "batches/019/reviews/coordinator-progress.md",
+            "batches/019/reviews/continuity-review.md"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "841 literal proofs,107 accounting windows,22 sample references,25 original/25 configured,6 fresh and232 full shared tests pass;17 prior gates and577 original cases preserved; pilot19/19.",
+          "evidence": [
+            "batches/019/reviews/verification.md",
+            "batches/019/generated/full-shared-suite.log",
+            "batches/019/generated/prior-gates.jsonl",
+            "batches/019/generated/final-sample.json",
+            "batches/019/generated/final-focused.jsonl",
+            "batches/019/generated/first-fresh.json",
+            "batches/019/generated/pilot-final.json"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "Explicit A1–A8 review decision after independent source/artifact adjudication; all remaining identity/action qualifications preserved. Exact binding required.",
+          "evidence": [
+            "batches/019/reviews/218-audit.md",
+            "batches/019/reviews/218-annotations.json",
+            "batches/019/reviews/coordinator-progress.md"
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "review_binding": {
+    "version": "cq-review-binding-1",
+    "sha256": "25b2553254d6d9309871a6c7c28a8c981a68573505fd78822de7c035e1d7bfe6",
+    "reviewed_utc": "2026-09-13T11:30:56.048805+00:00",
+    "meaning": "Exact reviewed local inputs; not independent semantic, audio or live certification"
+  },
+  "schema_version": "1",
+  "required_for": "A1–A8 mandatory for every episode in every batch.",
+  "acceptance_scope": "Captured-text development review only; no audio, external-history or live certification.",
+  "episodes": [
+    {
+      "episode": 16,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All46paragraphs accounted with108typedspans; MK64/Sculptor5each, BrazilianF1four. DoubleDash onlyP40/P44 afterpeerrepair; no measured minutes.",
+          "evidence": [
+            "batches/010/reviews/016-audit.md",
+            "batches/010/reviews/016-annotations.json",
+            "batches/010/reviews/016-coordinator-source-read.md"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "62reference buckets and eight frozen titlebuckets covered; fullsource peer inventories and repaired edition/role overcredit documented.",
+          "evidence": [
+            "batches/010/reviews/016-audit.md",
+            "batches/010/reviews/016-annotations.json",
+            "batches/010/reviews/016-coordinator-source-read.md"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Johnny/Kat/Justin distinguished; early guesthistory notTyler. Kat's John is notJohnny, ambiguous Hori detail remainsqualified.",
+          "evidence": [
+            "batches/010/reviews/016-audit.md",
+            "batches/010/reviews/016-annotations.json",
+            "batches/010/reviews/016-coordinator-source-read.md"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "88actions distinguish return-to-gaming from intentionalcollecting, guestN64cartset fromCIB, controllerwants, KatnotplayedSinPun and nofabricatedpurchase.",
+          "evidence": [
+            "batches/010/reviews/016-audit.md",
+            "batches/010/reviews/016-annotations.json",
+            "batches/010/reviews/016-coordinator-source-read.md"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Twelve actual answers independently reviewed against all46paragraphs; exactsnapshots and forbiddeninferences retained, plus sixfreshwordings tested.",
+          "evidence": [
+            "batches/010/reviews/answer-review.json",
+            "batches/010/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Practicalbrief reviewed for guestturningpoint, regionalproductdifferences, controllerprovenance uncertainty, play/pinball continuation; writtenreview notlive.",
+          "evidence": [
+            "batches/010/reviews/016-audit.md"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Rebuilt durableinputs passliteral/spokenform/map checks, all38batchanswers/11samplebuckets/12freshquestions; shared163testssuite passed.",
+          "evidence": [
+            "batches/010/reviews/verification.md",
+            "batches/010/reviews/integration-history.json"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All8checks individually recorded; item uncertainty is explicit. Binding ties acceptance to exactreviewinputs rather than DBrebuild.",
+          "evidence": [
+            "batches/010/reviews/verification.md",
+            "batches/010/reviews/integration-history.json"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 83,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All50paragraphs accounted with166typedspans; HolyDiver9/SFII8/LEGO7 meaningful paragraphs, hardware excluded.",
+          "evidence": [
+            "batches/010/reviews/083-audit.md",
+            "batches/010/reviews/083-annotations.json",
+            "batches/010/reviews/083-coordinator-source-read.md"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "88reference buckets and onefrozenbucket covered; fullsourcepeer flagged HolyDiver negative andMarioBro identity, bothrepaired.",
+          "evidence": [
+            "batches/010/reviews/083-audit.md",
+            "batches/010/reviews/083-annotations.json",
+            "batches/010/reviews/083-coordinator-source-read.md"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Johnny/Tyler roster, Catimitation rejected, Ada coactor. Odysseyunfinished speaker remainsunknown despiteprior-episodehistory.",
+          "evidence": [
+            "batches/010/reviews/083-audit.md",
+            "batches/010/reviews/083-annotations.json",
+            "batches/010/reviews/083-coordinator-source-read.md"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "58actions distinguish HolyDiver preorder/nonplay,20bidnotwin,LEGOfinishnot100percent, packagearrival andNewLeafhardwareacquisition.",
+          "evidence": [
+            "batches/010/reviews/083-audit.md",
+            "batches/010/reviews/083-annotations.json",
+            "batches/010/reviews/083-coordinator-source-read.md"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Eleven actual answers rootfullsource reviewed; P45actor correction represented. Sixfreshwordings passrequiredcontext separately.",
+          "evidence": [
+            "batches/010/reviews/answer-review.json",
+            "batches/010/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Brief reviewed forIPpermissionvsNintendoapproval, physicalobjectappeal,LEGOplatformtradeoff,progress anduncertainhistory; nolegal/livecertification.",
+          "evidence": [
+            "batches/010/reviews/083-audit.md"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Persistent database,exactquotes/literalaliases/sourceaccounting pass; repairedunknownidentity doesn'tbecomeindividualgame ranking.",
+          "evidence": [
+            "batches/010/reviews/verification.md",
+            "batches/010/reviews/integration-history.json"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All8checks individuallyrecorded with originalpeerfailures; NewLeaf alreadyhardware in83, no priorentry overwritten to match84.",
+          "evidence": [
+            "batches/010/reviews/verification.md",
+            "batches/010/reviews/integration-history.json"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 209,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All158timestampwindows accounted with462typedspans; SMW501/Chrono384/EarthBound374seconds combined, latternear-tie andsubstantial-onlyleadersdiffer.",
+          "evidence": [
+            "batches/010/reviews/209-audit.md",
+            "batches/010/reviews/209-annotations.json",
+            "batches/010/reviews/209-coordinator-source-read.md"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "218references plus2frozengoldbuckets covered; rootfullsource read; fourtypedselectiongroups29entries independentlypeerchecked, notstatisticalrecall.",
+          "evidence": [
+            "batches/010/reviews/209-audit.md",
+            "batches/010/reviews/209-annotations.json",
+            "batches/010/reviews/209-coordinator-source-read.md"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Tyler/Johnny contextualsourceanchors,Scottcoactor, unknownthreecopies meaning andMontezumachildhoodplatform preserved.",
+          "evidence": [
+            "batches/010/reviews/209-audit.md",
+            "batches/010/reviews/209-annotations.json",
+            "batches/010/reviews/209-coordinator-source-read.md"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "85actions distinguish Firemen2notbought,alternateMayhemcopybought,lostbidsvsOdysseywin,sealedcontentsunknown andDungeonloanreturnpending.",
+          "evidence": [
+            "batches/010/reviews/209-audit.md",
+            "batches/010/reviews/209-annotations.json",
+            "batches/010/reviews/209-coordinator-source-read.md"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Fifteen actualanswers rootfull158window adjudicated. Initial starterlist retrievalfailure37/38 repaired bytypedmembership, originaltestunchanged.",
+          "evidence": [
+            "batches/010/reviews/answer-review.json",
+            "batches/010/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Practicalbrief reviewed for two differentlistcriteria,printvariants,lateerrata,transactions,loanobligation andWii11remaining; nofinancial/liveadvice.",
+          "evidence": [
+            "batches/010/reviews/209-audit.md"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Allliteralquotes/sourcehashes/aliases/spans/38integratedanswers pass; listscopeguard andhistoricalreversal regressioncoverage recorded.",
+          "evidence": [
+            "batches/010/reviews/verification.md",
+            "batches/010/reviews/integration-history.json"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All8checksindividuallyrecorded; exactreviewbinding required. Sourceuncertainties anddatedclaims remain visiblyqualified.",
+          "evidence": [
+            "batches/010/reviews/verification.md",
+            "batches/010/reviews/integration-history.json"
+          ]
+        }
+      }
+    }
+  ]
+}

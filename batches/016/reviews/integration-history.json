@@ -1,0 +1,16 @@
+{
+  "schema_version": "1",
+  "initial_tuned": "57/62, preserved in initial-tuned-retrieval-results.json",
+  "initial_original": "56/62, preserved in initial-original-wording-results.json",
+  "repairs": [
+    "CQ22 required topic locations/review note and duplicate CQ215 span corrected in prior integration.",
+    "Source-backed CQ89 summaries preserve scope/provenance/local-cart qualifiers; CQ215 owner, split title, package/franchise lists and unresolved Batman repaired.",
+    "Raven sequel certainty and Gaia retailer normalized certainty removed; original questions/queries/required locations unchanged.",
+    "Generic skill/set/price concepts and actual-addition wording now route through shared evidence interface; explicit multiword titles survive occurrence-row crowding.",
+    "First concept-route rerun61/62 tuned still missed CQ89P47; explicit title expansion recovered it. Original rerun61/62 still missed completing-set qualifierP18; generic completing-set intent recovered it.",
+    "Fresh raw result9/10 included a coordinator-authored nonexistent01:20:06 locator. Actual heading is01:20:08. Initial result retained; corrected only invalid locator, not question or substantive requirement. This is a test-authoring defect, not a retrieval failure on a valid passage.",
+    "Added preflight validation for every declared task/fresh required location. It reproduced the actual fresh-locator failure before correction; regression covers missing, invalid and valid locations.",
+    "One direct build attempt correctly refused changed review fragments and required the normal merge/build path; no stale-index bypass used."
+  ],
+  "limits": "Development repair history; no blind accuracy or paid usage inference. Full-suite217 passed before final preflight-only addition; final suite remains required."
+}

@@ -1,0 +1,600 @@
+{
+  "schema_version": "1",
+  "review_scope": "All31 complete answers independently source-adjudicated by coordinator. Coordinator read all24/42/128 source windows, with additional separate full-source CQ15/CQ82 peers. Retrieval is separate from prose review; not blind/audio/live certification.",
+  "cases": [
+    {
+      "id": "batch009-cq015-roster",
+      "episode": 15,
+      "question": "Who hosts this spotlight and why did Kat choose Sega?",
+      "query": "Kat Johnny Sega Nintendo collection spotlight",
+      "answer": "Johnny and Kat host this episode. Kat deliberately steps away from her NES shelf despite leaning toward Nintendo and owning a fair amount of Sega. Her spotlight is Comix Zone; Johnny chooses Faxanadu. Tyler is not an introduced participant here.",
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 6"
+      ],
+      "forbidden": [
+        "Tyler hosting",
+        "Kat owns only Nintendo"
+      ],
+      "status": "passed",
+      "reason": "P1–3/P6 roster and contrasting shelf/spotlight choices; no Tyler."
+    },
+    {
+      "id": "batch009-cq015-comix",
+      "episode": 15,
+      "question": "What did they like about Comix Zone, and is Kat's box complete?",
+      "query": "Comic Zone bubbles pages hard bonus CD sealed Shack Fu",
+      "answer": "Kat likes its comic-book presentation: panels, talk bubbles and destructible page sections, with puzzles between panels. Both hosts describe it as fun but hard. Her boxed copy is missing the bonus CD, which she wants for completeness and has never heard. Johnny also has not heard his sealed item, but the dialogue does not securely say the entire game is sealed. Shaq Fu is another remembered CD-pack-in example, not an exhaustive list.",
+      "evidence_locations": [
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5",
+        "Paragraph 6"
+      ],
+      "forbidden": [
+        "Kat has CD",
+        "Johnny listened CD",
+        "Johnny entire game definitely sealed",
+        "All CD pack-in games enumerated"
+      ],
+      "status": "passed",
+      "reason": "P3–6 panels/difficulty and unheard missing CD; sealed object intentionally ambiguous."
+    },
+    {
+      "id": "batch009-cq015-faxanadu",
+      "episode": 15,
+      "question": "What is Johnny's Faxanadu memory, and what remains untested?",
+      "query": "Faxanadu childhood Christmas 1989 beat gate replay Wii",
+      "answer": "Johnny remembers getting Faxanadu for Christmas around 1989 and eventually beating it, though it took a long time. He recalls exploration plus combat, comparing Zelda and Zelda II, and the imposing gate. He wants to replay it to test whether childhood difficulty still holds up; that replay has not happened in this episode. His age self-corrects to roughly ten or eleven, and his Wii U availability recollection is tentative.",
+      "evidence_locations": [
+        "Paragraph 8",
+        "Paragraph 9",
+        "Paragraph 10"
+      ],
+      "forbidden": [
+        "Replay already completed",
+        "Exact birthdate",
+        "Verified Wii U availability"
+      ],
+      "status": "passed",
+      "reason": "P8–10 childhood completion versus future replay and hedged age/availability."
+    },
+    {
+      "id": "batch009-cq015-series",
+      "episode": 15,
+      "question": "Did Johnny play his Turbo Dragon Slayer, and what name does the etymology explain?",
+      "query": "dragon slayer TurboGrafx never played Famicom Xanadu portmanteau",
+      "answer": "Johnny says he owns a TurboGrafx 16 game he calls Dragon Slayer but has never played it; preparing the spotlight makes him want to try it. The exact installment remains unresolved. He initially says Dragon Slayer is the portmanteau, but the explanation combines Famicom and Xanadu to explain Faxanadu. These family and naming details are his reported research, not independently checked catalog history.",
+      "evidence_locations": [
+        "Paragraph 7",
+        "Paragraph 8"
+      ],
+      "forbidden": [
+        "Turbo game played",
+        "Dragon Slayer equals Famicom Xanadu",
+        "Exact Turbo installment certified"
+      ],
+      "status": "passed",
+      "reason": "P7–8 source distinguishes unplayed owned Turbo title and the Famicom/Xanadu naming slip."
+    },
+    {
+      "id": "batch009-cq015-snowwhite",
+      "episode": 15,
+      "question": "How did Johnny obtain Happily Ever After, and had it arrived?",
+      "query": "Snow White Happily Ever After box manual cart same day years here yet",
+      "answer": "Johnny bought Happily Ever After, initially called Snow White, as three separate parts on the same day: a $15 box, $10 manual and $12 cartridge. Those stated prices add to $37, without establishing shipping or tax. He explicitly says it is not there yet; the later prediction that Snow White will be there after the expo is still future arrival, not receipt. He describes actively pursuing it for roughly four or five years.",
+      "evidence_locations": [
+        "Paragraph 13",
+        "Paragraph 21",
+        "Paragraph 22"
+      ],
+      "forbidden": [
+        "Delivered",
+        "37 total delivered cost",
+        "Separate Snow White and Happily games",
+        "Watch list only one month"
+      ],
+      "status": "passed",
+      "reason": "P13/P21–22 explicitly pending parts, 15+10+12 arithmetic excludes delivery extras."
+    },
+    {
+      "id": "batch009-cq015-kat-pickups",
+      "episode": 15,
+      "question": "Which of Kat's pickups were complete, and what could Johnny supply?",
+      "query": "Mega Man Soccer box manual Final Fantasy III Adventure complete",
+      "answer": "Kat acquired a Mega Man Soccer cartridge. Johnny only thinks he has its box and will check, while he says he does have the manual; no transfer to Kat is established. Kat also acquired a Final Fantasy III box for her existing cartridge, replacing the role of a much nicer copy she had sold earlier. She would like to complete this current copy but has not located a manual. Final Fantasy Adventure for Game Boy is the pickup she explicitly confirms is complete, referring to its package rather than finishing the game.",
+      "evidence_locations": [
+        "Paragraph 14",
+        "Paragraph 15",
+        "Paragraph 16",
+        "Paragraph 17"
+      ],
+      "forbidden": [
+        "FFIII current CIB",
+        "Mega Man box confirmed",
+        "Johnny transferred manual",
+        "Final Fantasy Adventure beaten"
+      ],
+      "status": "passed",
+      "reason": "P14–17 cart/box/manual states, tentative supply and package completeness not gameplay."
+    },
+    {
+      "id": "batch009-cq015-paperjam",
+      "episode": 15,
+      "question": "What is Kat planning to play before Paper Jam?",
+      "query": "Paper Jam January 22 Paper Mario Luigi marathon 3DS",
+      "answer": "Kat anticipates Mario & Luigi: Paper Jam on 3DS, saying its local release is January 22 while Japan and Europe already have it. She considers a Paper Mario and Mario & Luigi marathon, then qualifies that she may pick games from each series. She likes the 3DS because she can play wherever she wants. These are future play plans, not evidence she has started Paper Jam or completed either series.",
+      "evidence_locations": [
+        "Paragraph 18",
+        "Paragraph 19"
+      ],
+      "forbidden": [
+        "Paper Jam currently played",
+        "All games completed",
+        "January 22 current release advice"
+      ],
+      "status": "passed",
+      "reason": "P18–19 release report and selective marathon intentions, not started or completed."
+    },
+    {
+      "id": "batch009-cq015-pinball",
+      "episode": 15,
+      "question": "What pinball does Johnny own, want and plan to do?",
+      "query": "Batman pinball art virtual mini 35 pounds expo free play",
+      "answer": "Johnny owns a Batman pinball machine and values its appearance more than its basic gameplay. He corrects the idea that it is the only machine he could want: he also wants a mini virtual cabinet, described as about 35 pounds and one-third normal size. He has imported Genesis pinball games and has played several PlayStation pinball games, without naming titles here. His upcoming pinball-expo plan is free play with friends, not an announced cabinet purchase or completed attendance.",
+      "evidence_locations": [
+        "Paragraph 19",
+        "Paragraph 20",
+        "Paragraph 21"
+      ],
+      "forbidden": [
+        "Virtual cabinet received",
+        "Exact Batman table model",
+        "Expo already attended",
+        "Every PlayStation pinball played"
+      ],
+      "status": "passed",
+      "reason": "P19–21 physical owned table versus virtual want and future expo; no exact unnamed titles."
+    },
+    {
+      "id": "batch009-cq015-openloops",
+      "episode": 15,
+      "question": "What useful follow-ups are still unanswered here?",
+      "query": "Faxanadu replay Shining Force suspense biggie manual Snow White expo",
+      "answer": "Useful follow-ups include whether Johnny's Faxanadu replay changes his childhood opinion, whether Kat finds the missing Final Fantasy III manual, and whether Happily Ever After arrives in the expected condition. Johnny also proposes discussing Shining Force's American series history and teases another unnamed incoming SNES item, but neither is resolved here. These are editorial follow-up prompts, not claims that a future episode, purchase or delivery occurred.",
+      "evidence_locations": [
+        "Paragraph 10",
+        "Paragraph 12",
+        "Paragraph 17",
+        "Paragraph 21",
+        "Paragraph 22"
+      ],
+      "forbidden": [
+        "Shining Force followup episode produced",
+        "Unnamed item identity resolved",
+        "Manual found",
+        "Delivery confirmed"
+      ],
+      "status": "passed",
+      "reason": "P10/P12/P17/P21–22 unresolved loops are explicitly editorial, not fabricated outcomes."
+    },
+    {
+      "id": "cq082-task-roster",
+      "episode": 82,
+      "question": "Who is in this episode, and is Tyler the organizer being interviewed?",
+      "query": "Steve Torres just me Steve Johnny episode82",
+      "answer": "Johnny interviews Steve Torres, introduced as a store owner and the person organizing Retro City Festival. The opening explicitly says it is just Johnny and Steve today. Tyler and Kat should not be assigned this interview's experiences or plans.",
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 2"
+      ],
+      "forbidden": [
+        "Tyler guest",
+        "Kat present"
+      ],
+      "status": "passed",
+      "reason": "P1–2 Johnny and guest Steve only; organizer is not Tyler."
+    },
+    {
+      "id": "cq082-task-event",
+      "episode": 82,
+      "question": "When and where was the discussed festival, and had it already happened?",
+      "query": "January20 21 Pomona Fairplex Saturday Sunday tickets",
+      "answer": "This is a preview of Retro City Festival 2018, announced for January 20–21 at Pomona Fairplex. They describe Saturday early-ticket entry at 9 a.m., ordinary door entry at 10 a.m., an 8 p.m. close, and Sunday 10–5. The transcript discusses plans, not a post-event report; it does not prove attendance, final turnout or that every announced feature occurred.",
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 35",
+        "Paragraph 42"
+      ],
+      "forbidden": [
+        "Current event recommendation",
+        "Already held outcome"
+      ],
+      "status": "passed",
+      "reason": "P1–3/P35/P42 historical preview dates/hours and no certified outcomes."
+    },
+    {
+      "id": "cq082-task-counts",
+      "episode": 82,
+      "question": "Were there 200 arcade machines plus another30 pinballs?",
+      "query": "200 arcades including pinball30 42000 4200 vendors",
+      "answer": "No. Steve clarifies that the roughly 200 games include pinball, with about 30 pins. He also mentions about 65 vendors. The venue-area captions conflict between 42,000 and 4,200 square feet, so that figure should remain qualified instead of being silently resolved. These are announced plans, not verified final counts.",
+      "evidence_locations": [
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 8"
+      ],
+      "forbidden": [
+        "230 machines certain",
+        "Exact area verified"
+      ],
+      "status": "passed",
+      "reason": "P2–4/P8 conflicting area preserved; 200 includes pins and counts are plans."
+    },
+    {
+      "id": "cq082-task-pinball",
+      "episode": 82,
+      "question": "What did Steve actually own and play, versus want or not play?",
+      "query": "Star Wars own pro Attack Mars Medieval fun house",
+      "answer": "Steve bought and owns the Stern Star Wars Pro pinball and says he has been improving on it. He has played Attack from Mars and Medieval Madness, and names Attack from Mars as a machine he would choose. He says he has not played FunHouse. The limited Star Wars machine planned for the show is a different, more expensive version, not the one he says he owns.",
+      "evidence_locations": [
+        "Paragraph 8",
+        "Paragraph 9",
+        "Paragraph 10"
+      ],
+      "forbidden": [
+        "Own limited",
+        "FunHouse played",
+        "Attack purchased"
+      ],
+      "status": "passed",
+      "reason": "P8–10 owned Pro versus show limited model; played/wanted/unplayed distinct."
+    },
+    {
+      "id": "cq082-task-tournaments",
+      "episode": 82,
+      "question": "Which games were announced for the Neo Geo tour, and were prizes already delivered?",
+      "query": "King Fighters98 2002 14 Samurai showdown Fiddlefury Omega prizes",
+      "answer": "Steve names King of Fighters '98, King of Fighters 2002, King of Fighters XIV, Samurai Shodown II and the captioned Fiddlefury Special, interpreted as Fatal Fury Special. He says original hardware will be used except for the PS4 title. Winners are promised Omega consoles with their game, while the XIV winner is promised a PS4 and game. These are announced awards, not completed deliveries; entry still requires paid show admission.",
+      "evidence_locations": [
+        "Paragraph 21",
+        "Paragraph 22",
+        "Paragraph 26",
+        "Paragraph 27"
+      ],
+      "forbidden": [
+        "Prizes delivered",
+        "Show free",
+        "All games Neo Geo original hardware"
+      ],
+      "status": "passed",
+      "reason": "P21–22/P26–27 five tournament titles and prospective prizes, paid admission."
+    },
+    {
+      "id": "cq082-task-tetris",
+      "episode": 82,
+      "question": "How did the Tetris qualifier differ from the other tournaments?",
+      "query": "Tetris600000 top eight Sunday Portland qualifier",
+      "answer": "Steve describes a qualifier leading toward the championship in Portland, with the top eight advancing to a Sunday final and the top player receiving sponsored travel. He tentatively says a score around 600,000 is needed and describes repeated attempts on the setups before cutoff. That is the episode's announced structure, not independently checked official rules or a known winner.",
+      "evidence_locations": [
+        "Paragraph 24",
+        "Paragraph 25",
+        "Paragraph 26"
+      ],
+      "forbidden": [
+        "Winner known",
+        "Guaranteed current rules"
+      ],
+      "status": "passed",
+      "reason": "P24–26 tentative 600k structure, retries and prospective travel not winner."
+    },
+    {
+      "id": "cq082-task-smash",
+      "episode": 82,
+      "question": "Was a GameCube Smash tournament planned?",
+      "query": "Smash64 B U gamecube tournament free play",
+      "answer": "No. They announce Smash 64 and another title captioned Smash Bros. B. U, but explicitly say there is no GameCube tournament. Steve offers a GameCube free-play setup instead. The B. U caption remains unresolved rather than silently turning it into a precise catalog title.",
+      "evidence_locations": [
+        "Paragraph 27",
+        "Paragraph 28"
+      ],
+      "forbidden": [
+        "GameCube tournament held",
+        "B U exact confirmed title"
+      ],
+      "status": "passed",
+      "reason": "P27–28 explicit GameCube tournament denial with free play alternative."
+    },
+    {
+      "id": "cq082-task-organizing",
+      "episode": 82,
+      "question": "What practical work does Steve say makes the convention possible?",
+      "query": "community stores Nico Sean fire department heat energy rental6000 tables",
+      "answer": "Steve emphasizes shared-community cooperation among stores and vendors, plus delegating specialized work such as music and arcade organization. He also describes approvals, fire-code limits, heat and electricity constraints, and a $6,000 rental for tables, chairs and pipe-and-drape. That expense is not the entire event budget or a purchase of those assets. His hope of playing at his own show depends on the team running its parts.",
+      "evidence_locations": [
+        "Paragraph 5",
+        "Paragraph 7",
+        "Paragraph 31",
+        "Paragraph 35",
+        "Paragraph 40",
+        "Paragraph 41"
+      ],
+      "forbidden": [
+        "Whole event cost6000",
+        "Tables purchased",
+        "Solo organizer"
+      ],
+      "status": "passed",
+      "reason": "P5/P7/P31/P35/P40–41 delegation, safety constraints and infrastructure rental not whole budget."
+    },
+    {
+      "id": "cq082-task-incident",
+      "episode": 82,
+      "question": "Was the Resident Evil4 merchant exchange something Steve actually said?",
+      "query": "chainsaw buying selling riffing resident evil4",
+      "answer": "No. Steve reports a chainsaw-waving visitor at the store, and Johnny explicitly explains that his buying/selling line is a Resident Evil 4 riff. Steve says he did not have the capacity to be clever during the incident. The account says everyone was okay; it does not independently establish the visitor's diagnosis, motives or criminal history.",
+      "evidence_locations": [
+        "Paragraph 37",
+        "Paragraph 38",
+        "Paragraph 39"
+      ],
+      "forbidden": [
+        "Actual merchant exchange",
+        "Medical diagnosis confirmed"
+      ],
+      "status": "passed",
+      "reason": "P37–39 Steve's incident report versus Johnny's explicit game riff; no diagnosis."
+    },
+    {
+      "id": "cq082-task-recent",
+      "episode": 82,
+      "question": "What recent purchases or play did Steve mention near the end?",
+      "query": "airboard avenger pinball destiny too rental tables chairs",
+      "answer": "Steve says he bought a pinball captioned airboard avenger to play; the exact title is unresolved. He also says he dabbles in Destiny 2 but has not had much time. His other immediate expense is equipment rental for the event, not a newly purchased game. Plans to play or compete at the festival remain future intentions.",
+      "evidence_locations": [
+        "Paragraph 39",
+        "Paragraph 40",
+        "Paragraph 41"
+      ],
+      "forbidden": [
+        "Pinball title certain",
+        "Destiny completed",
+        "Festival play already happened"
+      ],
+      "status": "passed",
+      "reason": "P39–41 unresolved pinball purchase, limited Destiny play and rental; no completed festival."
+    },
+    {
+      "id": "cq208-undertale",
+      "episode": 208,
+      "question": null,
+      "query": "Which Undertale collector edition does Tyler own, which does he want, and how much did he play it?",
+      "answer": "Tyler bought and owns the Switch collector edition, but wants the PC edition as well because he thinks of PC as the original home of the game. He says he played Undertale four times in a row, unusually for him. That is a play-history statement, not four purchases or proof the PC edition was already bought.",
+      "evidence_locations": [
+        "00:49:59",
+        "01:46:05"
+      ],
+      "forbidden": [
+        "Do not mark PC edition owned.",
+        "Do not convert four plays into four copies."
+      ],
+      "status": "passed",
+      "reason": "49:59/1:46:05 explicit Switch purchase/ownership, PC want and four consecutive plays, not copies."
+    },
+    {
+      "id": "cq208-sierra-books",
+      "episode": 208,
+      "question": null,
+      "query": "Why does Tyler recommend color Sierra Collector’s Quest One but cheaper Zero?",
+      "answer": "Tyler praises One as a detailed Sierra variant-and-insert reference whose color pictures are important, and explicitly owns it. Zero is largely text lists of subsidiary releases, so he recommends the cheaper black-and-white version after buying the color hardcover himself and feeling that expense was unnecessary. The claim of unmatched completeness is his assessment, not an independently audited catalog guarantee.",
+      "evidence_locations": [
+        "00:23:31",
+        "00:24:31",
+        "00:25:38",
+        "00:26:42"
+      ],
+      "forbidden": [
+        "Do not recommend blackwhite One by reversing titles.",
+        "Do not certify every variant externally."
+      ],
+      "status": "passed",
+      "reason": "23:31–26:42 detailed color One versus textual Zero and explicit ownership/color-regret; catalog superlatives attributed."
+    },
+    {
+      "id": "cq208-gift-timing",
+      "episode": 208,
+      "question": null,
+      "query": "Christmas preorder timing garbage pale kids cuphead analog pocket play date handheld spring",
+      "answer": "The NES Garbage Pail Kids cartridge is a preorder expected in spring, with the price corrected to $80; it is a new game, not a recovered prototype. Cuphead’s physical-edition announcement is immediately qualified as a preorder. Analogue Pocket is also not expected in time for Christmas, and Playdate is a preorder that Tyler would rather wait to buy normally. These are dated 2022 caveats, not current availability advice or orders the hosts placed.",
+      "evidence_locations": [
+        "00:40:22",
+        "00:41:29",
+        "00:43:37",
+        "00:44:41",
+        "00:56:23",
+        "01:14:16",
+        "01:15:23"
+      ],
+      "forbidden": [
+        "Do not claim holiday delivery.",
+        "Do not mark orders placed.",
+        "Do not use dated availability as current shopping guidance."
+      ],
+      "status": "passed",
+      "reason": "40:22/41:29/43:37/44:41/56:23/1:14:16–15:23 price correction and preorder timing across four products, not host orders."
+    },
+    {
+      "id": "cq208-nesmaker",
+      "episode": 208,
+      "question": null,
+      "query": "Did buying NESmaker mean Tyler made an NES game?",
+      "answer": "No. Tyler says he preordered the development kit on Kickstarter and owns its cartridge and flash reader, but they sit unused and he has never made a game. Michael Chiaramonte’s detailed development stream is someone else’s project; the outro corrects the channel-name reference. No finished Tyler game or launched development project follows from this kit purchase.",
+      "evidence_locations": [
+        "00:58:26",
+        "00:59:29",
+        "02:09:48"
+      ],
+      "forbidden": [
+        "Do not attribute Michael’s project to Tyler.",
+        "Do not infer a completed game from tools owned."
+      ],
+      "status": "passed",
+      "reason": "58:26–59:29 unused purchased development equipment;2:09:48 correction identifies someone else's project/channel."
+    },
+    {
+      "id": "cq208-animal-crossing",
+      "episode": 208,
+      "question": null,
+      "query": "Which Animal Crossing disappointed Johnny’s wife, and why?",
+      "answer": "It was the GameCube Animal Crossing, which Johnny bought because he expected it to suit his wife. After she missed a few days, mean villagers and a cockroach in her house broke her attachment and she stopped playing. New Horizons and KK Slider come up just before this as an ornament/character discussion, but they are not the game in this household anecdote.",
+      "evidence_locations": [
+        "01:24:54",
+        "01:25:59"
+      ],
+      "forbidden": [
+        "Do not substitute NewHorizons.",
+        "Do not turn her reaction into a universal review."
+      ],
+      "status": "passed",
+      "reason": "1:24:54–25:59 explicit GameCube household anecdote distinct from preceding New Horizons ornament."
+    },
+    {
+      "id": "cq208-hardware-limits",
+      "episode": 208,
+      "question": null,
+      "query": "Steam Deck benchmarks anti-glare arcade one controls size played own dragon layer Tron",
+      "answer": "Neither host owns a Steam Deck, so the Modern Warfare II performance number is a looked-up claim, not their benchmark. The screen discussion is narrowed to anti-glare glass rather than a different panel. Tyler says he owns no Arcade1Ups and has played one Street Fighter unit; his control and size criticism is qualified by that limited experience. He nevertheless praises the Dragon’s Lair and Tron cabinet styling and licensing.",
+      "evidence_locations": [
+        "01:18:36",
+        "01:19:37",
+        "01:28:05",
+        "01:29:11",
+        "01:30:12",
+        "01:31:13",
+        "01:32:17"
+      ],
+      "forbidden": [
+        "Do not claim hands-on Deck testing.",
+        "Do not call all Arcade1Up models tested.",
+        "Do not omit positive art assessment."
+      ],
+      "status": "passed",
+      "reason": "1:18:36–19:37 no owned Deck/secondhand benchmark;1:28:05–32:17 limited single-cabinet experience plus positive art assessment."
+    },
+    {
+      "id": "cq208-personal-lists",
+      "episode": 208,
+      "question": null,
+      "query": "What did Johnny actually add or consider for his Christmas list?",
+      "answer": "Johnny considers the Hardcore Gaming 101 horror guides, then leans toward Kindle after discovering eight volumes; “Steam” is immediately corrected. He says he is putting some ornaments on the list and may add Sierra Collector’s Quest, History of Sunsoft and a Steam Deck as a big gift. Garbage Pail Kids misses the timing, and he probably will not list RetroTINK. These are intentions and possibilities, not confirmed purchases or deliveries.",
+      "evidence_locations": [
+        "01:42:58",
+        "01:43:58",
+        "01:45:04",
+        "01:50:21"
+      ],
+      "forbidden": [
+        "Do not mark all wishlist items bought.",
+        "Do not treat Steam as book platform."
+      ],
+      "status": "passed",
+      "reason": "1:42:58–45:04/1:50:21 changing prospective list and Kindle correction, not fulfilled shopping."
+    },
+    {
+      "id": "cq208-fds-zelda",
+      "episode": 208,
+      "question": null,
+      "query": "What supports Tyler’s earliest-known sealed Zelda claim, and what limits it?",
+      "answer": "Tyler acquired an early Famicom Disk System Zelda with yellow Disk System text and a white insert. He contrasts later white-text packaging and says the green insert has a later date code than the white insert. He calls his copy the earliest known sealed example, while allowing that a no-insert copy might be earlier but saying he has never seen one. This is his qualified collecting claim, not independent authentication or proof no earlier copy exists.",
+      "evidence_locations": [
+        "01:57:53",
+        "01:59:00"
+      ],
+      "forbidden": [
+        "Do not certify world-earliest or seal authenticity.",
+        "Do not silently swap whiteinsert with whitetext.",
+        "Do not invent a paid amount."
+      ],
+      "status": "passed",
+      "reason": "1:57:53–59:00 packaging/insert distinctions and hypothetical earlier no-insert bounded by never-seen qualification."
+    },
+    {
+      "id": "cq208-cable-card",
+      "episode": 208,
+      "question": null,
+      "query": "What did Johnny’s $4 X-Men purchase complete?",
+      "answer": "It bought the missing Cable card from the Game Gear X-Men card group, not another copy of the game. Johnny had four of the five cards, made a $4 offer on a listing with a $3 opening bid or best offer, and says the seller accepted and the card came. The conversation clarifies all five cards came with the game and distinguishes their Game Gear back marking from ordinary Fleer Ultra cards. Tyler’s childhood recollection does not establish he still has his cards today.",
+      "evidence_locations": [
+        "02:00:04",
+        "02:01:08"
+      ],
+      "forbidden": [
+        "Do not record3aspaid.",
+        "Do not say one random card pergame.",
+        "Do not assert Tyler still owns childhoodcards."
+      ],
+      "status": "passed",
+      "reason": "2:00:04–1:08 missing fifth card received after accepted4offer; packaging not game, childhood ownership not current."
+    },
+    {
+      "id": "cq208-modern-warfare",
+      "episode": 208,
+      "question": null,
+      "query": "What is Johnny’s Modern Warfare II complaint, and was the classic-map pack announced?",
+      "answer": "Johnny likes the core game enough for his Call of Duty fix but dislikes the repetitive map feel, menus and unclear or broken XP-token behavior. He does not know whether a token counts real time or in-game time and complains there is no visible timer. Tyler’s $8.99 February 23 classic-map pack is explicitly made up as a joke, not an announcement. Johnny does confirm spending on the game after a Discord recommendation, but hoped-for co-play did not happen.",
+      "evidence_locations": [
+        "02:01:08",
+        "02:02:12",
+        "02:03:14",
+        "02:04:16",
+        "02:05:16"
+      ],
+      "forbidden": [
+        "Do not answer the unknown timer mechanics as fact.",
+        "Do not publish fabricated DLC date/price.",
+        "Do not confuse the current release with the old original."
+      ],
+      "status": "passed",
+      "reason": "2:01:08–5:16 core gameplay versus UI/XP complaint, unknown mechanics and explicitly invented DLC date/price."
+    },
+    {
+      "id": "cq208-sonic-callisto",
+      "episode": 208,
+      "question": null,
+      "query": "Why does Sonic Frontiers appeal to Tyler more than The Callisto Protocol right then?",
+      "answer": "Tyler is currently drawn to Sonic Frontiers looking like a messy, game-like playground rather than a tightly crafted expensive narrative. He contrasts that with how The Callisto Protocol appears, without claiming either game has been played. He intends to get Frontiers on Steam after it reaches about $30, while Johnny says he wants Callisto. This is a mood and prospective purchase preference, not a review based on finishing either title.",
+      "evidence_locations": [
+        "02:06:22",
+        "02:07:24"
+      ],
+      "forbidden": [
+        "Do not mark Frontiers bought.",
+        "Do not portray an unplayed preference as completed review."
+      ],
+      "status": "passed",
+      "reason": "2:06:22–7:24 appearance/mood and future30Steam preference, not hands-on completion; Johnny wants Callisto."
+    },
+    {
+      "id": "cq208-late-evil-twin",
+      "episode": 208,
+      "question": null,
+      "query": "Was there a real game recommendation inside the patron outro?",
+      "answer": "Yes. The hosts interrupt the patron list to discuss Evil Twin: Cyprien’s Chronicles, described as a PAL PS2 title with a creepy Tim Burton-like look and a cheap eBay UK listing. It comes from a Discord discovery and is a holiday-season suggestion, not a host purchase. The regional and price claims are dated source reports, not an independently checked catalog or current listing.",
+      "evidence_locations": [
+        "02:11:54",
+        "02:12:56"
+      ],
+      "forbidden": [
+        "Do not classify the whole outro as pure noise.",
+        "Do not record a purchase or certify current price."
+      ],
+      "status": "passed",
+      "reason": "2:11:54–12:56 genuine titled recommendation interrupts patron list; dated regional/price report not purchase."
+    }
+  ]
+}

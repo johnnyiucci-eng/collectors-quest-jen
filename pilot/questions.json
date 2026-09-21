@@ -1,0 +1,337 @@
+{
+  "version": "0.1",
+  "purpose": "Development questions. Source-informed answer keys are not an independent benchmark. Johnny's separately supplied questions should be withheld during extraction.",
+  "questions": [
+    {
+      "id": "pilot-q01",
+      "episode": 6,
+      "question": "What made the Speed Racer / Mountain Bike Rally acquisition ethically uncomfortable?",
+      "expected_answer_draft": "The seller reported a canceled sale; the buyer acknowledged reduced scrutiny because he wanted the game. Do not assert proven misconduct.",
+      "expected_locations": [
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5",
+        "Paragraph 6"
+      ],
+      "status": "draft_key_requires_review",
+      "evaluation_result": "not_run",
+      "independent_holdout": false
+    },
+    {
+      "id": "pilot-q02",
+      "episode": 6,
+      "question": "Did the speaker actually say he was comfortable spending $2,300?",
+      "expected_answer_draft": "No. He explicitly says he was not comfortable; plausible market value is not the same as comfort.",
+      "expected_locations": [
+        "Paragraph 6",
+        "Paragraph 7"
+      ],
+      "status": "draft_key_requires_review",
+      "evaluation_result": "not_run",
+      "independent_holdout": false
+    },
+    {
+      "id": "pilot-q03",
+      "episode": 6,
+      "question": "Does an authentic board prove that a game's label is authentic?",
+      "expected_answer_draft": "The episode explicitly says it does not; present this as historical show advice.",
+      "expected_locations": [
+        "Paragraph 13",
+        "Paragraph 14"
+      ],
+      "status": "draft_key_requires_review",
+      "evaluation_result": "not_run",
+      "independent_holdout": false
+    },
+    {
+      "id": "pilot-q04",
+      "episode": 6,
+      "question": "What game is transcribed as 'outback joy'?",
+      "expected_answer_draft": "Identification unresolved; retain raw wording and Genesis/fitness context rather than confidently normalize.",
+      "expected_locations": [
+        "Paragraph 8"
+      ],
+      "status": "draft_key_requires_review",
+      "evaluation_result": "not_run",
+      "independent_holdout": false
+    },
+    {
+      "id": "pilot-q05",
+      "episode": 6,
+      "question": "Was 'tally ho' established as a running joke?",
+      "expected_answer_draft": "No. The exchange calls it a one-time special; later recurrence has not been checked.",
+      "expected_locations": [
+        "Paragraph 18"
+      ],
+      "status": "draft_key_requires_review",
+      "evaluation_result": "not_run",
+      "independent_holdout": false
+    },
+    {
+      "id": "pilot-q06",
+      "episode": 6,
+      "question": "What did Kat like about Alice: Madness Returns?",
+      "expected_answer_draft": "Dark atmosphere, platforming and imaginative worlds; Kat attribution is contextual, not audio-verified.",
+      "expected_locations": [
+        "Paragraph 18",
+        "Paragraph 19",
+        "Paragraph 20",
+        "Paragraph 23"
+      ],
+      "status": "draft_key_requires_review",
+      "evaluation_result": "not_run",
+      "independent_holdout": false
+    },
+    {
+      "id": "pilot-q07",
+      "episode": 6,
+      "question": "Did CQ 6 discuss a native Vita release of Fallout 4?",
+      "expected_answer_draft": "It mentions remote play and Vita controls, not a native Vita release.",
+      "expected_locations": [
+        "Paragraph 25"
+      ],
+      "status": "draft_key_requires_review",
+      "evaluation_result": "not_run",
+      "independent_holdout": false
+    },
+    {
+      "id": "pilot-q08",
+      "episode": 6,
+      "question": "What follow-up did Johnny promise at the end?",
+      "expected_answer_draft": "A report from Portland Retro Gaming Expo; fulfillment is not established by CQ 6.",
+      "expected_locations": [
+        "Paragraph 27"
+      ],
+      "status": "draft_key_requires_review",
+      "evaluation_result": "not_run",
+      "independent_holdout": false
+    },
+    {
+      "id": "pilot-q09",
+      "episode": 6,
+      "question": "Can we give an exact timestamp for the authentication advice?",
+      "expected_answer_draft": "No. The supplied source is untimed; use paragraphs 11 and 13–15.",
+      "expected_locations": [
+        "Paragraph 11",
+        "Paragraph 13",
+        "Paragraph 14",
+        "Paragraph 15"
+      ],
+      "status": "draft_key_requires_review",
+      "evaluation_result": "not_run",
+      "independent_holdout": false
+    },
+    {
+      "id": "pilot-q10",
+      "episode": 7,
+      "question": "Does the convention episode fulfill CQ 6's promised report?",
+      "expected_answer_draft": "Yes. CQ 6 paragraph 27 promises a Portland report and CQ 7 paragraph 5 reports the visit. Paired excerpts are in relationships.json; this does not independently verify every anecdote.",
+      "expected_locations": [
+        "CQ 6 Paragraph 27",
+        "CQ 7 Paragraph 5"
+      ],
+      "status": "draft_key_requires_review",
+      "evaluation_result": "not_run",
+      "independent_holdout": false
+    },
+    {
+      "id": "pilot-q11",
+      "episode": 7,
+      "question": "Which convention anecdotes can be confidently attributed to Kat?",
+      "expected_answer_draft": "The untimed transcript does not support high-confidence attribution of every convention anecdote to Kat. Retain contextual speaker confidence and do not transfer Johnny's Portland report to Kat.",
+      "expected_locations": [
+        "Paragraph 5"
+      ],
+      "status": "draft_key_requires_review",
+      "evaluation_result": "not_run",
+      "independent_holdout": false
+    },
+    {
+      "id": "pilot-q12",
+      "episode": 146,
+      "question": "What did the hosts say makes a collecting-information source trustworthy?",
+      "expected_answer_draft": "Use specialist resources and inspect underlying evidence. Board revisions, condition, completeness and price-listing mismatches limit one-image or aggregate claims; match release-date precision to available evidence.",
+      "expected_locations": [
+        "00:54:13",
+        "01:48:26",
+        "01:54:35",
+        "02:00:45"
+      ],
+      "status": "draft_key_requires_review",
+      "evaluation_result": "not_run",
+      "independent_holdout": false
+    },
+    {
+      "id": "pilot-q13",
+      "episode": 146,
+      "question": "Which named resources were recommendations and which were merely examples?",
+      "expected_answer_draft": "Game-Rave, SNES Central and Satakore are praised as specialist resources; hardware-test and original-history channels have specific uses. Reserved Investments is also entertainment to take critically. Tyler explicitly has not watched the Hard4Games videos despite subscribing, so do not turn that into a personal viewing endorsement.",
+      "expected_locations": [
+        "00:54:13",
+        "00:55:14",
+        "00:58:19",
+        "01:13:42",
+        "01:21:50"
+      ],
+      "status": "draft_key_requires_review",
+      "evaluation_result": "not_run",
+      "independent_holdout": false
+    },
+    {
+      "id": "pilot-q14",
+      "episode": 200,
+      "question": "Which collecting goals changed, for which host, and when?",
+      "expected_answer_draft": "Tyler describes cheap NES collecting, an arcade phase, completion-driven sets and later historically important games. Stefan moves from rapid sets toward display material, artwork and a traveling exhibition. Johnny describes lists and set completion but also leaving Vita collecting and allowing focused Halloween collecting. These are retrospective episode-200 accounts, not exact verified dates for every transition.",
+      "expected_locations": [],
+      "status": "draft_key_requires_review",
+      "evaluation_result": "not_run",
+      "independent_holdout": false
+    },
+    {
+      "id": "pilot-q15",
+      "episode": 200,
+      "question": "Is an apparent disagreement actually a changed opinion or different speakers?",
+      "expected_answer_draft": "Do not merge different speakers' memories: at 01:25:19 Johnny values childhood box-opening and RPG maps, while the responding speaker describes throwing boxes away and only later collecting CIB. This is a contrast, not Johnny contradicting himself in one turn. Per-turn attribution remains contextual.",
+      "expected_locations": [
+        "01:25:19"
+      ],
+      "status": "draft_key_requires_review",
+      "evaluation_result": "not_run",
+      "independent_holdout": false
+    },
+    {
+      "id": "pilot-q16",
+      "episode": 222,
+      "question": "Which psychological mechanisms received substantive treatment?",
+      "expected_answer_draft": "Scarcity, price anchoring, attachment/endowment, sunk cost, collecting identity and FOMO receive collecting examples. Private effort is distinguished from market value; awareness of a tendency is not presented as automatically overcoming it.",
+      "expected_locations": [
+        "00:22:30",
+        "00:31:41",
+        "00:43:55",
+        "00:51:59",
+        "00:57:07",
+        "01:00:10"
+      ],
+      "status": "draft_key_requires_review",
+      "evaluation_result": "not_run",
+      "independent_holdout": false
+    },
+    {
+      "id": "pilot-q17",
+      "episode": 222,
+      "question": "Which psychological statements were interpretations rather than established facts?",
+      "expected_answer_draft": "The hosts disclaim psychology expertise. Their explanations of their own collecting and other collectors are analogies and interpretations, not diagnoses or experimentally established causes. Seller or market-manipulation allegations are likewise not independently proven.",
+      "expected_locations": [
+        "00:20:28",
+        "00:31:41",
+        "01:00:10"
+      ],
+      "status": "draft_key_requires_review",
+      "evaluation_result": "not_run",
+      "independent_holdout": false
+    },
+    {
+      "id": "pilot-q18",
+      "episode": 248,
+      "question": "Which games illustrate insert differences, and which editions are identifiable?",
+      "expected_answer_draft": "Examples include platform-specific Tecmo reference sheets, Zelda I/II cutout baggies with uncertain Canadian applicability, bilingual LTTP Top Secrets, and Mega Man 3's specific refund slip. Distinguish reported mappings from externally verified release facts.",
+      "expected_locations": [
+        "00:25:36",
+        "00:33:46",
+        "00:36:48",
+        "00:39:50",
+        "01:06:21",
+        "01:08:24"
+      ],
+      "status": "draft_key_requires_review",
+      "evaluation_result": "not_run",
+      "independent_holdout": false
+    },
+    {
+      "id": "pilot-q19",
+      "episode": 248,
+      "question": "What correction or qualification changes the meaning of an insert claim?",
+      "expected_answer_draft": "Examples: product codes need not be in one corner; component revision numbers need not match; the Canadian Zelda exception may only apply to Zelda I; Bill Elliott first-print chronology is unverified. Preserve the maple-leaf seal remark as a joke.",
+      "expected_locations": [
+        "00:16:23",
+        "00:22:31",
+        "00:36:48",
+        "00:38:49",
+        "00:55:06"
+      ],
+      "status": "draft_key_requires_review",
+      "evaluation_result": "not_run",
+      "independent_holdout": false
+    },
+    {
+      "id": "pilot-q20",
+      "episode": 259,
+      "question": "Which Halloween 'firsts' were asserted, and what evidence or uncertainty accompanied them?",
+      "expected_answer_draft": "They qualify firsts by format and genre boundaries. Examples include Odyssey Haunted House as overlay-based horror, The Count's Dracula-first claim being reconsidered, and early licensed-film games with unresolved ordering. Preserve uncertainty instead of declaring a definitive chronology.",
+      "expected_locations": [],
+      "status": "draft_key_requires_review",
+      "evaluation_result": "not_run",
+      "independent_holdout": false
+    },
+    {
+      "id": "pilot-q21",
+      "episode": 263,
+      "question": "Do the two CQ 263 uploads count as one coverage occurrence, and does either contain unique material?",
+      "expected_answer_draft": "Count CQ 263 once. The two caption bodies differ: alignment finds short old-only text as well as substantial canonical-only passages. Retain both; the comparison does not establish that the audio differs or that all unique wording has been adjudicated.",
+      "expected_locations": [],
+      "status": "draft_key_requires_review",
+      "evaluation_result": "not_run",
+      "independent_holdout": false
+    },
+    {
+      "id": "pilot-q22",
+      "episode": 299,
+      "question": "How does the empty-slot discussion compare with the complete-set reasoning in CQ 6?",
+      "expected_answer_draft": "CQ 6 treats expensive bad games as a consequence of completing a set. CQ 299 examines the mental pressure of missing slots and distinguishes an affordable placeholder that relieves that pressure from one that does not. This is thematic comparison, not proof every host changed the same opinion.",
+      "expected_locations": [
+        "CQ 6 Paragraph 15"
+      ],
+      "status": "draft_key_requires_review",
+      "evaluation_result": "not_run",
+      "independent_holdout": false
+    },
+    {
+      "id": "pilot-q23",
+      "episode": 300,
+      "question": "What did the hosts actually establish about Tyler's break and a return date?",
+      "expected_answer_draft": "Tyler announces an indefinite break after episode 300 and explicitly says there is no agreed return timetable. Johnny's plan to revisit discussion after Christmas/2027 is not a return promise; the January 2028 NES joke is not a scheduled episode.",
+      "expected_locations": [
+        "00:01:01",
+        "00:12:08",
+        "00:13:10",
+        "02:41:56"
+      ],
+      "status": "draft_key_requires_review",
+      "evaluation_result": "not_run",
+      "independent_holdout": false
+    },
+    {
+      "id": "pilot-q24",
+      "episode": null,
+      "question": "Across processed episodes, which games received substantial discussion versus only passing mentions?",
+      "expected_answer_draft": "Depth is stored per occurrence group: for example, CQ 300's Witchaven prize-copy discussion is substantial, while CQ 6's Fallout 4 remote-play reference is passing. Do not promote every title in an example list to substantial coverage or infer archive absence from the pilot.",
+      "expected_locations": [
+        "CQ 300 03:44:06",
+        "CQ 6 Paragraph 25"
+      ],
+      "status": "draft_key_requires_review",
+      "evaluation_result": "not_run",
+      "independent_holdout": false
+    },
+    {
+      "id": "pilot-q25",
+      "episode": null,
+      "question": "Prepare a lore brief on buying rare games that separates prior coverage, unresolved questions and current research needs.",
+      "expected_answer_draft": "See brief-pilot-synthesis.md for prior coverage, host differences, unresolved evidence and fresh discussion angles. Draft-only brief; not a live-use or usefulness acceptance result.",
+      "expected_locations": [],
+      "status": "draft_key_requires_review",
+      "evaluation_result": "not_run",
+      "independent_holdout": false
+    }
+  ]
+}

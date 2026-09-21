@@ -1,0 +1,3035 @@
+{
+  "schema_version": "0.1",
+  "extraction_version": "manual-codex-2026-09-12-v1",
+  "source": {
+    "key": "sc-852741172",
+    "episode_number": 146,
+    "title": "Episode 146 - How Game Collectors Can Collect Information",
+    "date": "2020-07-05",
+    "path": "episodes/cq-146-sc-852741172.md",
+    "words": 28657,
+    "source_url": "https://soundcloud.com/collectors-quest/episode-146-how-game-collectors-can-collect-information",
+    "timing": "YouTube caption timestamps",
+    "sha256": "6112079e5c3c41efafa3440cb5cf37b54fab7fab8eb2848682842d2cb1720c59"
+  },
+  "review": {
+    "status": "extracted_draft",
+    "read_coverage": "All 145 supplied transcript windows read consecutively through closing.",
+    "omission_review": "pending",
+    "audio_verification": "not_performed",
+    "independent_review": "pending",
+    "transcript_limit": "Captured transcript completeness does not establish recognition accuracy or exact attribution.",
+    "timing": "Window-start timestamps are navigation locations, not precise utterance times.",
+    "elapsed_model_time": null,
+    "subscription_usage": null
+  },
+  "participants": [
+    {
+      "name": "Tyler",
+      "confidence": "high",
+      "evidence": [
+        {
+          "location": "00:01:02",
+          "quote": "[Music] [Music] [Music] hey welcome back to another episode of collector's Quest I'm Tyler here with Johnny and Stefan what's going on guys hey Tyler so let's talk about medium Sak slots oh D you want to talk about some medium steak slots on YouTube I mean I know everyone out there is watching like the Brian Christophers because they just"
+        }
+      ]
+    },
+    {
+      "name": "Johnny",
+      "confidence": "high",
+      "evidence": [
+        {
+          "location": "00:01:02",
+          "quote": "[Music] [Music] [Music] hey welcome back to another episode of collector's Quest I'm Tyler here with Johnny and Stefan what's going on guys hey Tyler so let's talk about medium Sak slots oh D you want to talk about some medium steak slots on YouTube I mean I know everyone out there is watching like the Brian Christophers because they just"
+        }
+      ]
+    },
+    {
+      "name": "Stefan",
+      "confidence": "high",
+      "evidence": [
+        {
+          "location": "00:01:02",
+          "quote": "[Music] [Music] [Music] hey welcome back to another episode of collector's Quest I'm Tyler here with Johnny and Stefan what's going on guys hey Tyler so let's talk about medium Sak slots oh D you want to talk about some medium steak slots on YouTube I mean I know everyone out there is watching like the Brian Christophers because they just"
+        }
+      ]
+    }
+  ],
+  "main_topic": "Game collecting resources and research caveats",
+  "secondary_topics": [
+    "research resources",
+    "collecting communities",
+    "pricing evidence",
+    "source preservation",
+    "YouTube market influence",
+    "The Last of Us Part II"
+  ],
+  "games": [
+    {
+      "id": "cq146-g001",
+      "canonical_title": "The Last of Us Part II",
+      "spoken_forms": [
+        "The Last of Us two"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Bleak tone vs bad-game distinction; Johnny andTyler mixed positive reviews",
+          "evidence": [
+            {
+              "location": "00:04:06",
+              "quote": "I know pretty dumb collecting serial box is pretty dumb see slots you just lose money I I I I just want to feel the person losing money I just want just want to feel something it's like playing The Last of Us two I just want to be miserable for 30 hours that's what watching slots on YouTube is exactly like Johnny he doesn't play any game that isn't ruining his life so I guess this kind of like goes hand inand with that concept yeah"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g002",
+      "canonical_title": "Mario Kart 8",
+      "spoken_forms": [
+        "Mario Kart 8"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Sequel expectations example",
+          "evidence": [
+            {
+              "location": "00:05:08",
+              "quote": "they exactly what they were expecting but then when they get that they're like oh that's everything I expected it it comes back to the Mario Kart i' I've talked about this the Mario Kart phenomenon where they're like man Mario Kart 8 is only okay it's just more Mario Kart is"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g003",
+      "canonical_title": "Mario Kart",
+      "spoken_forms": [
+        "Mario Kart"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Series continuity not inherently bad",
+          "evidence": [
+            {
+              "location": "00:06:09",
+              "quote": "that a bad thing what did you come here for did you come here for more Mario Kart or not well it's like it added some stuff there's some new stuff it's more Mario Kart it it's not called Mario not karts it's called Mario Kart like this is I don't know this is what we're doing here you wanted something"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g004",
+      "canonical_title": null,
+      "spoken_forms": [
+        "SpongeBob remake"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Unnamed remake review/puzzle criticism; release needs identification",
+          "evidence": [
+            {
+              "location": "00:07:09",
+              "quote": "collections of all old games that people already like no because then you're mad about yeah you're right I'm mad you're mad about that all right no way wayn a bunch of big uh um reviewers just skewered uh SpongeBob um the SpongeBob remake and like that one guy what on was it Gamespot the guy that couldn't figure out the the the boulder puzzle yeah like it was a it was literally like a button puzzle and he couldn't figure it out yeah so like you know the HD"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g005",
+      "canonical_title": "The Last of Us",
+      "spoken_forms": [
+        "first game"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Pacing/length comparison; Stefan has not played",
+          "evidence": [
+            {
+              "location": "00:09:13",
+              "quote": "offering a lot of hugs oh there's there's at least two scenes of slow dancing so sure sure there there's I mean didn't say No hugs I didn't say No hugs expecting a if you're expecting a lot of them but like if you played the first game too the first game is pretty bleak as well like we're we're being vaguely topical I know no one comes to us for like gameplay reviews but I I liked it I thought it was interesting I thought their choices were interesting"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g006",
+      "canonical_title": "Final Fantasy VII",
+      "spoken_forms": [
+        "Final Fantasy 7"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Previous discussion Stefan missed",
+          "evidence": [
+            {
+              "location": "00:11:14",
+              "quote": "they're zombies or not um you know true zombies or what what version of zombies anyways I thought it was fine but it is Bleak right we all agree except for Stephan because he doesn't play those gam like when he talked about Final Fantasy 7 without me yeah so uh Stefan"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g007",
+      "canonical_title": "Racermate Challenge",
+      "spoken_forms": [
+        "racer mate Challenge"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Historical shifts in NES set inclusion",
+          "evidence": [
+            {
+              "location": "00:20:29",
+              "quote": "most famous list of NES games probably came from uset and so it's not maybe the most useful for finding things like variants but if you want to track down like uh opinions on games one of the ones I come back to is uh like racer mate Challenge on NES I know that people did not used to consider that part of any kind of NES quote unquote set and that opinion changed over time so if I wanted to find people who support that opinion I might go to uset another thing"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g008",
+      "canonical_title": "Sorcerer's Apprentice",
+      "spoken_forms": [
+        "sorcerer apprentice"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Former sealed distributor stock; hype observation",
+          "evidence": [
+            {
+              "location": "00:21:30",
+              "quote": "FTP servers is exactly why I love uset and for those of you in the know this was Ben from Bravo Sierra computers one of the major three or four Atari Distributors still around and uh earlier in the year he had some sealed sorcerer apprentice and Buck Rogers and bump and jump and somehow all of those are gone"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g009",
+      "canonical_title": "Buck Rogers",
+      "spoken_forms": [
+        "Buck Rogers"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Distributor stock; installment unspecified",
+          "evidence": [
+            {
+              "location": "00:21:30",
+              "quote": "I love uset and for those of you in the know this was Ben from Bravo Sierra computers one of the major three or four Atari Distributors still around and uh earlier in the year he had some sealed sorcerer apprentice and Buck Rogers and bump and jump and somehow all of those are gone"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g010",
+      "canonical_title": "Bump 'n' Jump",
+      "spoken_forms": [
+        "bump and jump"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Distributor stock",
+          "evidence": [
+            {
+              "location": "00:21:30",
+              "quote": "for those of you in the know this was Ben from Bravo Sierra computers one of the major three or four Atari Distributors still around and uh earlier in the year he had some sealed sorcerer apprentice and Buck Rogers and bump and jump and somehow all of those are gone"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g011",
+      "canonical_title": "Quadrun",
+      "spoken_forms": [
+        "quadr run"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Usenet historical attitude example",
+          "evidence": [
+            {
+              "location": "00:22:32",
+              "quote": "on games or just like see what attitudes were like because there's no forums that have a record going back to the early 1990s or something like that and on uset it's been around forever so you can see people discussing quadr run on nari 2600 just this really weird obscure game and see what people were thinking about it I don't know I think it could be interesting it could be"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g012",
+      "canonical_title": "Stadium Events",
+      "spoken_forms": [
+        "Stadium events"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Historical-price search example; live search failed",
+          "evidence": [
+            {
+              "location": "00:23:33",
+              "quote": "what 2007 you could find pricing history like for all time going back into uset which would literally be like hey here's all my guitar games they're a dollar each just to make you feel real bad about what you're paying for Stadium events in 2020 oh yeah we should we do a live demonst so when I say uh uset so you don't need to subscribe to a a US provider just go to Google Groups and that is literally what uset is oh my God you guys aren't going to talk over"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g013",
+      "canonical_title": "Keio Flying Squadron",
+      "spoken_forms": [
+        "KO"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "SegaCD obvious rarity-list example",
+          "evidence": [
+            {
+              "location": "00:34:48",
+              "quote": "for yourself it was all made in an easy to digest way um and then like it's a little bit surface level so it never goes into like the weird variants or things like that it'll always be like oh the rare Sega CD games are KO snatcher and the space adventure but then the interesting thing to me usually in terms of like gleaning information is at the bottom of the article you you mentioned this there would be like a games to keep an eye on or"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g014",
+      "canonical_title": "Snatcher",
+      "spoken_forms": [
+        "snatcher"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "SegaCD rarity-list example",
+          "evidence": [
+            {
+              "location": "00:34:48",
+              "quote": "yourself it was all made in an easy to digest way um and then like it's a little bit surface level so it never goes into like the weird variants or things like that it'll always be like oh the rare Sega CD games are KO snatcher and the space adventure but then the interesting thing to me usually in terms of like gleaning information is at the bottom of the article you you mentioned this there would be like a games to keep an eye on or like games"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g015",
+      "canonical_title": "The Space Adventure",
+      "spoken_forms": [
+        "space adventure"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "SegaCD rarity-list example",
+          "evidence": [
+            {
+              "location": "00:34:48",
+              "quote": "all made in an easy to digest way um and then like it's a little bit surface level so it never goes into like the weird variants or things like that it'll always be like oh the rare Sega CD games are KO snatcher and the space adventure but then the interesting thing to me usually in terms of like gleaning information is at the bottom of the article you you mentioned this there would be like a games to keep an eye on or like games that didn't quite make"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g016",
+      "canonical_title": null,
+      "spoken_forms": [
+        "hurricanes on NES"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Caption saysNES, title/platform unresolved; do not silently repair",
+          "evidence": [
+            {
+              "location": "00:34:48",
+              "quote": "would be like a games to keep an eye on or like games that didn't quite make the list and even if the article was outdated those would always end up being the more interesting games because I guarantee something like uh hurricanes on NES that's a game that used to be $5 and now a cartridge of it is probably $200 or $300 or maybe $100 I"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g017",
+      "canonical_title": "Atlantis II",
+      "spoken_forms": [
+        "Atlantis 2"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Wide price ranges with little sales evidence",
+          "evidence": [
+            {
+              "location": "00:37:51",
+              "quote": "article then that's what they're going to uh that's what they're going to take I don't know I mean so I know that like racket boys prices are always so ridiculous they'll always be like $100 to $300 or like something like Atlantis 2 on Atari 2600 they might be like you somewhere between $2,000 and $30,000 I think this would lie in because there's just no sales information on it from anytime recently but all right we got a bunch of things to get through"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g018",
+      "canonical_title": "Contra / Probotector",
+      "spoken_forms": [
+        "Probot"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Original artwork naming discussion, identity/chronology unclear",
+          "evidence": [
+            {
+              "location": "00:40:57",
+              "quote": "know him for selling the $100,000 Mario game um so uh and for bu yeah and for and for buying the $200,000 Contra cover art um or the uh what is it pro pro Proctors so yeah Proctors Pro protectors oh was the art made for Probot tectors before Contra yes oh weird yeah all right um uh if you're into collecting displays you have video game uh video game kiosk and display collectors if you want to uh check out what's going on with water show off your"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g019",
+      "canonical_title": "Super Mario Bros.",
+      "spoken_forms": [
+        "Mario game"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "High-profile sale reference; exact variant not identified",
+          "evidence": [
+            {
+              "location": "00:40:57",
+              "quote": "art colle collector and also you probably know him for selling the $100,000 Mario game um so uh and for bu yeah and for and for buying the $200,000 Contra cover art um or the uh what is it pro pro Proctors so yeah Proctors Pro protectors oh was the art made for Probot tectors before Contra yes oh weird yeah"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g020",
+      "canonical_title": "Ice Climber",
+      "spoken_forms": [
+        "ice climber"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Generic sealed posts vs informative variant discussion",
+          "evidence": [
+            {
+              "location": "00:44:00",
+              "quote": "flip things at absolutely ridiculous prices uh but it is it is fun to keep an eye on what they're interested in it's not often I'll see like oh there's an interesting variant it'll be like oh my there's another copy of ice climber oh oh look it's sealed Final Fantasy 7 cool but uh sometimes in the comments if you dig into those groups someone will be like oh is that the first print and they'll be like one in a 100 posts and then someone will put like"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g021",
+      "canonical_title": "Final Fantasy VII",
+      "spoken_forms": [
+        "Final Fantasy 7"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Rare useful forum comments explain print runs",
+          "evidence": [
+            {
+              "location": "00:44:00",
+              "quote": "ridiculous prices uh but it is it is fun to keep an eye on what they're interested in it's not often I'll see like oh there's an interesting variant it'll be like oh my there's another copy of ice climber oh oh look it's sealed Final Fantasy 7 cool but uh sometimes in the comments if you dig into those groups someone will be like oh is that the first print and they'll be like one in a 100 posts and then someone will put like a really detailed thing and like here"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g022",
+      "canonical_title": "Hagane",
+      "spoken_forms": [
+        "Hagan"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Marketplace copy found in better condition than eBay; speaker uncertain",
+          "evidence": [
+            {
+              "location": "00:46:02",
+              "quote": "a Mario 3 cart because I want to start playing my old Nintendo again it is largely full of collectors who are after a lot of more interesting stuff so I just like that as a Marketplace that's actually where I bought my Hagan cart yeah it's like an okay Marketplace but I because it is like primarily a Marketplace too you got a lot of people who who don't give a sh and they're just resellers so I I find a lot of it is just hey here's this thing"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g023",
+      "canonical_title": "Super Mario Bros. 3",
+      "spoken_forms": [
+        "Mario 3"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Casual cartridge seeker comparison",
+          "evidence": [
+            {
+              "location": "00:46:02",
+              "quote": "seems to be largely full of I'm going to say the types of people who would listen to this show it's not like a I need a Mario 3 cart because I want to start playing my old Nintendo again it is largely full of collectors who are after a lot of more interesting stuff so I just like that as a Marketplace that's actually where I bought my Hagan cart"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g024",
+      "canonical_title": "Lightspan educational software",
+      "spoken_forms": [
+        "light span"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "PS1 catalog/serial-list example",
+          "evidence": [
+            {
+              "location": "00:52:10",
+              "quote": "want like not stupid he's also on Facebook he's in the PlayStation collector group on Facebook as well okay yeah if you want like a serious list of exactly what PlayStation games come out or like I I want a list of every light span game and all of their slus numbers I don't even know if they have slus numbers or I'm sure he has uh foreign lists and things like that if you want them to be a 100% correct go to game Rave and don't copy paste the list"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g025",
+      "canonical_title": "Rayman",
+      "spoken_forms": [
+        "Rayman"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Hypothetical Jaguar knowledge claim; do not infer authority",
+          "evidence": [
+            {
+              "location": "01:00:20",
+              "quote": "talking about YouTube like I could go make a video on uh Jaguar collecting and people might believe me on accident though you should not you should not trust me on Jaguar collecting okay you just shouldn't first release of Rayman I do like the concept of believing someone on accident that's F yeah well they're just like well Johnny knows about games and he must know about this one but I could just trick you and that's that's not cool"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g026",
+      "canonical_title": "Atari Karts",
+      "spoken_forms": [
+        "tar carts"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Jaguar rarity aside",
+          "evidence": [
+            {
+              "location": "01:01:23",
+              "quote": "Johnny why you tricking people I'm not I just told them I just called myself out don't trust me on Jaguar collecting I know a little bit about it but I wouldn't call myself any kind of authority on Jaguar collecting hey get tar carts yeah that one's a hard one and everyone loves Alien versus Predator yay I am an authority on pogs though so everyone Stephan please stop it no you're not move on get out of here with that I don't what isn't bootlegs does"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g027",
+      "canonical_title": "Alien vs. Predator",
+      "spoken_forms": [
+        "Alien versus Predator"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Jaguar familiar title aside",
+          "evidence": [
+            {
+              "location": "01:01:23",
+              "quote": "just called myself out don't trust me on Jaguar collecting I know a little bit about it but I wouldn't call myself any kind of authority on Jaguar collecting hey get tar carts yeah that one's a hard one and everyone loves Alien versus Predator yay I am an authority on pogs though so everyone Stephan please stop it no you're not move on get out of here with that I don't what isn't bootlegs does not bootlegs destroy the entire pogs industry can't anybody some cardboard"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g028",
+      "canonical_title": "Castlevania III: Dracula's Curse",
+      "spoken_forms": [
+        "Castlevania 3"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Famiclone sound comparison",
+          "evidence": [
+            {
+              "location": "01:06:29",
+              "quote": "it's bad how bad it's the worst NES emulator that's ever been made okay wow uh are you going to put a hyperbole warning in there or that's not hyperbole I would rather play on a famic clone that has the the the bit flipped Castlevania 3 sound problem cuz who cares about that at least my sound is"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g029",
+      "canonical_title": "Rule of Rose",
+      "spoken_forms": [
+        "rule of row"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Generic haul-video example",
+          "evidence": [
+            {
+              "location": "01:12:39",
+              "quote": "what they're talking about and is actually giving info rather than just showing off like uh spend $200 and I got a rule of row um so I like it's the kind of the same issue why colle right there's not enough podcast people talk about collecting video games so in the bottom of this YouTube video can everyone please send me a private message and let"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g030",
+      "canonical_title": "Suikoden",
+      "spoken_forms": [
+        "suin"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Generic PS1 haul example; caption identity candidate",
+          "evidence": [
+            {
+              "location": "01:12:39",
+              "quote": "send me a private message and let me know game collectors on YouTube who talk almost exclusively about the collecting side of game and like give information out not just like oh here's what I bought this week spent $40 on suin on the PS1 on these hidden gems yeah U and that's why I'm giving a shout out to reserved Investments even though like 90% of his content not related to video games that's not true nice that they there's nice that they're"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g031",
+      "canonical_title": "World Class Track Meet",
+      "spoken_forms": [
+        "worldclass track meet"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Variant-vs-title thought experiment, not actual checklist change",
+          "evidence": [
+            {
+              "location": "01:16:45",
+              "quote": "a new variant and it's got me thinking like do variance even matter is information knowable like I don't even know what to do anymore it's a book on baseball card collecting and it's going to make me like I'm gonna take worldclass track meet off my NES list and I'm just going to say no it's a Stadium events variant this doesn't tracking Things based on title doesn't even make sense is information knowable is information knowable I don't think it is so uh along"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g032",
+      "canonical_title": "Stadium Events",
+      "spoken_forms": [
+        "Stadium events"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "WCTM relation thought experiment",
+          "evidence": [
+            {
+              "location": "01:16:45",
+              "quote": "information knowable like I don't even know what to do anymore it's a book on baseball card collecting and it's going to make me like I'm gonna take worldclass track meet off my NES list and I'm just going to say no it's a Stadium events variant this doesn't tracking Things based on title doesn't even make sense is information knowable is information knowable I don't think it is so uh along along the same lines all we didn't put it on the list but um Alpha"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g033",
+      "canonical_title": "Magic: The Gathering",
+      "spoken_forms": [
+        "magic"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Cross-collectible market comparison",
+          "evidence": [
+            {
+              "location": "01:17:45",
+              "quote": "themselves survive this way so grain of salt there but I still think it's a good Channel and there's things to be gleaned there about uh especially with the new investor wave in video game collecting and you can look at the magic market and see where where some parallels lie I yeah totally agree so one of the things that people will say over and over again is that the the magic Pokemon and video games Market are all in their own speculative bubbles"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g034",
+      "canonical_title": "Pokémon",
+      "spoken_forms": [
+        "Pokemon"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Collectibles market, not specified video-game release",
+          "evidence": [
+            {
+              "location": "01:17:45",
+              "quote": "investor wave in video game collecting and you can look at the magic market and see where where some parallels lie I yeah totally agree so one of the things that people will say over and over again is that the the magic Pokemon and video games Market are all in their own speculative bubbles right now so all the markets can be compared to each other in various ways and Alpha Investments and reserved Investments uh does do that one of alpha Investments"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g035",
+      "canonical_title": null,
+      "spoken_forms": [
+        "Mario Studio"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "64DD prototype showcase; immediately notMario Paint, exact title unresolved",
+          "evidence": [
+            {
+              "location": "01:20:49",
+              "quote": "be on my list of people to share to follow on Twitter um but um Luigi blood helped them or they they dumped a um an unreleased version of like the Mario Paint game for the 64dd which it's not called Mario Paint it's like Mario Studio something but that was then um that was then showcased on on hard for games and uh I I just kind of wanted to point that out because they uh they get kind of a lot of FL of like you know people like oh man you just like"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g036",
+      "canonical_title": "Mario Paint",
+      "spoken_forms": [
+        "Mario Paint"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Rejected64DD software name",
+          "evidence": [
+            {
+              "location": "01:20:49",
+              "quote": "like they just recently did with uh Luigi blood who will um that he would be on my list of people to share to follow on Twitter um but um Luigi blood helped them or they they dumped a um an unreleased version of like the Mario Paint game for the 64dd which it's not called Mario Paint it's like Mario Studio something but that was then um that was then showcased on on hard for games and uh I I just kind of wanted to point that out because they uh they"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g037",
+      "canonical_title": "Hagane",
+      "spoken_forms": [
+        "Hagane"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Disputed strength/timing ofYouTube price influence",
+          "evidence": [
+            {
+              "location": "01:24:56",
+              "quote": "YouTube's days when there weren't literally a million disperate channels that people were subscribed to what I think is maybe interesting or important to know is when certain games got spikes I think everyone pinpoints Hagane spiking in value Hagane was just like some game and then it was on you know games with Mike Mondays whatever it's called and that is like you can pinpoint it that's when the game started spiking oh yeah and that's kind of"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g038",
+      "canonical_title": "Little Red Hood",
+      "spoken_forms": [
+        "little red hood"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "HES rarity existed beforeAVGN exposure according toJohnny",
+          "evidence": [
+            {
+              "location": "01:24:56",
+              "quote": "spiking oh yeah and that's kind of just like an interesting part of that game's history is that we can point to the person that increased this in price I'm trying to think of another example and I'm failing right oh I got one little red hood on um NES that's not prohibitively expensive or anything but of the hes set that is one of the more expensive ones because there's an entire Angry Video Game Nerd video about it you know but see I knew it was one of the"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g039",
+      "canonical_title": "EarthBound",
+      "spoken_forms": [
+        "Earthbound"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Counterfeit-identification video example",
+          "evidence": [
+            {
+              "location": "01:28:01",
+              "quote": "yeah and some of the the metal Jesus videos I'm just trying to think of some positives here to balance you out Johnny um I got recommended in my sidebar there's one um where you can see Kelsey Sprout like crouched over an Earthbound I think and it's like how do I identify a fake SNES game are you remembering this either of you um and that video like I don't know where you would get that information without just like of experience looking at games so"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g040",
+      "canonical_title": "Impossible Mission II",
+      "spoken_forms": [
+        "impossible mission two"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Publisher variants doubled in copiedNES lists",
+          "evidence": [
+            {
+              "location": "01:36:10",
+              "quote": "that might be from like the etler list or something but that that is how many uh unlicensed NS games would show up if you search for unlicensed us releases on uh Nintendo Ag and you'll see these idiosyncrasies pop up so impossible mission two is listed twice because there's a publisher variant but the Nintendo age database would list it twice so in everyone's list of unlicensed NES games you'll see impossible mission listed twice in both the variants and then"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g041",
+      "canonical_title": "Castlevania",
+      "spoken_forms": [
+        "Castlevania variant"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Broken archive search example",
+          "evidence": [
+            {
+              "location": "01:37:11",
+              "quote": "kidding I know you're kidding I'm trying to make it in a not jokey way uh go collect if you go to Nintendo age.com there is technically a backup of the Nintendo age Forum but their search like doesn't work if you search for Castlevania variant it will show you every post ever that has the word variant in it regardless of whether Castlevania is in the same post or even nearby so like can you can you bullion that down like with with like brackets or pluses like"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g042",
+      "canonical_title": "Super Mario Bros. 3",
+      "spoken_forms": [
+        "Super Mario Brothers 3"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Illustrative box-content forum thread, not direct edition recommendation",
+          "evidence": [
+            {
+              "location": "01:38:12",
+              "quote": "Nintendo age would be there would be a a forum post on like something really specific and then people would someone would post like the exact answer that they're looking for there would be you know a list of Box contents for Super Mario Brothers 3 or something for three different variants of the game no you just had the most knowledgeable people coming in and giving the answer and then like also debating the Nuance of the answer you know like that's what made it"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g043",
+      "canonical_title": "Aerobiz",
+      "spoken_forms": [
+        "aerobiz"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "SegaRetro checksums/detail example",
+          "evidence": [
+            {
+              "location": "01:43:17",
+              "quote": "just watch a video like you can't parse through all the information it uh weren a weird weer in a weird spot yeah and there's only so much you can learn in a YouTube video even if YouTube was perfect like I'm on I'm on the aerobiz uh article on Sega retro. comom and they have like the md5 sum of the ROM from each of the releases of the game it's well it's also a thing of passion too right so a lot of people are passionate about collecting games but"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g044",
+      "canonical_title": "Uniracers",
+      "spoken_forms": [
+        "unir raser"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Need common-game specialists to document details",
+          "evidence": [
+            {
+              "location": "01:45:21",
+              "quote": "everything you know buy the best stuff don't worry about all this other except that bad for the flow of information and and like the Deep the Deep levels of information if someone really wants to know the nitty-gritties on on unir raser how are we going to get there if a bunch of people don't own it and can show it yeah and you know what is part of it that Sega people are weird Johnny yes cuz I've noticed this on Instagram as well like there are a bunch"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g045",
+      "canonical_title": "The Ooze",
+      "spoken_forms": [
+        "Ooze"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Clamshell-variant joke/question, not confirmed variant",
+          "evidence": [
+            {
+              "location": "01:46:23",
+              "quote": "the knowledgeable people all know is the middle and then somebody pulls out and like what about this rare thing that you never see and then people go crazy because they're like I've never seen this and really there's an ooze variant you got to get the Ooze clamshell variant yeah do it quick what else is there an newo variant I don't think there's an newo variant stop freaking me out check on Sear ret.com all right so what else do we need to"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g046",
+      "canonical_title": "Rayman",
+      "spoken_forms": [
+        "Rayman"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "MobyGames release comparison; Jaguar-first claim unverified",
+          "evidence": [
+            {
+              "location": "01:49:26",
+              "quote": "Rayman would be under the same article and then you go to the releases section and you can see like oh the Jaguar one is the one that came out first and this is incredibly useful for PC collecting at least if you care about which"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g047",
+      "canonical_title": "ToeJam & Earl",
+      "spoken_forms": [
+        "tojam and Earl"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Multiple listing photos corroborate poster inclusion",
+          "evidence": [
+            {
+              "location": "02:01:46",
+              "quote": "there are it's like completely inundated with people claiming things like oh this this is a complete copy of this game when it is not so but I go look at tojam and Earl like when I got that to and Earl poster if I see six copies of tojam and Earl have that poster it's like all right I got the right sure that's I just wanted to point out that like you still have to do your own work there"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g048",
+      "canonical_title": "Alex Kidd",
+      "spoken_forms": [
+        "Alex kid"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Unspecified game regional variants",
+          "evidence": [
+            {
+              "location": "02:14:01",
+              "quote": "Sega retro rev Revival revile Sega retro Revival is also a good person to post but Sega collect is like the main guy I follow um for all the weird Sega variants like you just like I didn't know there was five versions of Alex kid and just so many different regions and stuff especially all the it's all SMS stuff but yeah just and they're alling is it just that is it just that Nintendo wasn't big in Europe and Australia is that why the information"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g049",
+      "canonical_title": "NBA Jam",
+      "spoken_forms": [
+        "NBA Jam"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Regional-release specialist example",
+          "evidence": [
+            {
+              "location": "02:15:01",
+              "quote": "must be why the collecting information is so good because all of like all the big guys they're all none of them are like here's my copy of NBA Jam they're like here's every copy of NBA Jam that was released across the entire region and Europe yeah maybe that's it maybe I I don't know the answer to that but they're definitely seems to be some regionality to it right"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g050",
+      "canonical_title": "NBA Ballers",
+      "spoken_forms": [
+        "NBA Ballers"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "PlatinumHits known-copy claim qualified by future discovery",
+          "evidence": [
+            {
+              "location": "02:18:05",
+              "quote": "Xbox collecting resource um I'm pretty sure well he is the only person in the world right now with a complete Platinum hit set because he's the only person who owns NBA Ballers Platinum hits uh and his website is really use until we find another Platinum hits that nobody knew about oh yeah the only one who knows yes it's a mess um so shout out to that yeah so uh Nintendo twizer if you're looking"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g051",
+      "canonical_title": "Wonder Dog",
+      "spoken_forms": [
+        "wonder doog"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Tyler bought red-box SegaCD copy",
+          "evidence": [
+            {
+              "location": "02:24:12",
+              "quote": "right now I'm remodeling my garage that's all the money is going towards didn't you already talk about this on the show he's just saying why he's not buying any games yes he did Dick I got some crap and I got a red box wonder doog I just you did get a red bu I buy it now on eBay there were like two or three of them on eBay and they're like sitting at like 100ish bucks and it's not in great condition but uh I don't I always thought that was like a"
+            }
+          ],
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq146-g052",
+      "canonical_title": "The Legend of Zelda: A Link to the Past",
+      "spoken_forms": [
+        "L to the Past"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Grading distraction contrast toSegaCD purchase",
+          "evidence": [
+            {
+              "location": "02:25:12",
+              "quote": "Nintendo and like oh is this L to the Past worth grading and I'm just like oh a rare Sega CD game okay yeah definit they they did do uh Nerf did a re-release of the super soer XP 100 and I bought two of those okay you are dumb that's that's uh that's exciting is"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    }
+  ],
+  "lore": [
+    {
+      "id": "cq146-l001",
+      "kind": "show_discussion",
+      "summary": "Episode has Tyler, Johnny and Stefan, not two-host default.",
+      "topics": [
+        "host roster"
+      ],
+      "evidence": [
+        {
+          "location": "00:01:02",
+          "quote": "[Music] [Music] [Music] hey welcome back to another episode of collector's Quest I'm Tyler here with Johnny and Stefan what's going on guys hey Tyler so let's talk about medium Sak slots oh D you want to talk about some medium steak slots on YouTube I mean I know everyone out there is watching like the Brian Christophers because they just"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l002",
+      "kind": "anecdote",
+      "summary": "Tyler watches short medium-stakes slot highlights, not hours of penny slots.",
+      "topics": [
+        "slot videos",
+        "host tastes"
+      ],
+      "evidence": [
+        {
+          "location": "00:03:06",
+          "quote": "someone play a boring thing so to be clear Johnny this doesn't make it really any better it's not someone sitting for like 3 hours playing penny slots I watch people who pay like10 $20 slot machines and their videos are like 5 10 minutes long I just want to see the big hits and the big losses and you gave us crap about watching videos about serial boxes"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l003",
+      "kind": "correction",
+      "summary": "Miserable describes game's emotional tone, not Tyler saying it is bad.",
+      "topics": [
+        "The Last of Us Part II",
+        "opinions"
+      ],
+      "evidence": [
+        {
+          "location": "00:08:12",
+          "quote": "happen because you because you said something shitty about the last you said something unfair you said the game was miserable and that's not actually how you feel about the game you think the game was f i me that it's like a super depressing game where there's no happiness that's not how that's not how you describe it but you are right it is it is Bleak you will uh yeah it it is I mean it's a it's a Revenge tale like that's there's no happiness in Revenge if you"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l004",
+      "kind": "host_opinion",
+      "summary": "Johnny likes challenging story but criticizes pacing and length.",
+      "topics": [
+        "The Last of Us Part II",
+        "pacing"
+      ],
+      "evidence": [
+        {
+          "location": "00:10:14",
+          "quote": "how to complain about it yeah they didn't know well it's like I said they didn't get the mix quite right so like there was enough gameplay in it and there's a lot like there's a lot of movie there's a lot of gameplay but the mix wasn't quite and then there's that hard part about games like this where so much of the Cinematic is like in-game cinematic and not like a cutaway cinematic which makes it confusing and then like rolls right into gameplay so I just don't"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l005",
+      "kind": "host_opinion",
+      "summary": "Johnny values podcast as place for middle-ground discussion rather than polarized online response.",
+      "topics": [
+        "discussion culture"
+      ],
+      "evidence": [
+        {
+          "location": "00:18:26",
+          "quote": "that's that's the whole world right now that's that's on politics that's on games that's on you know Co that's on everything right now so you guys I can sit down and have a a middle ground conversation with room for uh changing my mind or learning something so that's why we did it here I need did an outlet so on that note Johnny let's start at the beginning with uset do kids out there even know what uset is Johnny uset do it do adults out there know what"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l006",
+      "kind": "show_discussion",
+      "summary": "Primarily online resources; book coverage deferred except Mint Condition.",
+      "topics": [
+        "resource scope"
+      ],
+      "evidence": [
+        {
+          "location": "00:15:20",
+          "quote": "one's going to be Johnny and Stefan's episode no this is Tyler's episode we're going to be talking about various game collecting resources and communities um I'm going to say primarily online because I'd rather do a whole separate episode on books okay and so we were originally going to do what are the good resources out there but I think it will be more useful to just bring up a bunch of game collecting resources and talk about our feelings on how valid they are"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l007",
+      "kind": "host_opinion",
+      "summary": "Tyler uses archived discussions for past opinions and pricing, not authoritative truth.",
+      "topics": [
+        "Usenet",
+        "historical evidence"
+      ],
+      "evidence": [
+        {
+          "location": "00:22:32",
+          "quote": "for video game stuff actually back in the day but not not since uh the 90s how I do feel like there's a a risk in using it as a source of Truth for things just because the game information is so dated like do you feel I wouldn't use it to confirm facts or anything I use it more to kind of Judge people's opinions on games or just like see what attitudes were like because there's no forums that have a record going back to the early 1990s or something like that and on uset"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l008",
+      "kind": "open_loop",
+      "summary": "Tyler preparing distributor email order; purchase not confirmed.",
+      "topics": [
+        "mail order",
+        "Atari"
+      ],
+      "evidence": [
+        {
+          "location": "02:05:52",
+          "quote": "you can there's a save function on there like click the rib you click the ribbon and it goes into okay well Tyler is a crazy old man and is still on like BBS forums and you know us Nets I'm buying Atari games I got the email set up I'm GNA send it in a few minutes don't worry about me I'll be over here on my uset S Min man cool Tyler cool um anyways uh speaking of some of the right people you can actually follow hashtags if you want but uh people are"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l009",
+      "kind": "anecdote",
+      "summary": "Unplanned break remains with filler banter; hosts joke about Tyler failing to edit breaks.",
+      "topics": [
+        "show production"
+      ],
+      "evidence": [
+        {
+          "location": "00:24:34",
+          "quote": "two minutes my mic stand just fell oh my God are we are we talking Stephan is this going to be a I don't know no I'm gonna refill my water you guys can talk nope refilling my water this okay so Tyler has the tendency to say he's going to stop recording and"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l010",
+      "kind": "open_loop",
+      "summary": "Stefan garage renovation and incoming cockpits planned; no operational completion shown.",
+      "topics": [
+        "arcade",
+        "garage"
+      ],
+      "evidence": [
+        {
+          "location": "00:26:37",
+          "quote": "receptacles installed every 3 feet yeah so I need 20 amps per three cockpits so and then plus the plus the separate circuit for the like actual host computer so that's three 3 20 amp circuits are going in the garage all right that's not too bad I looked up um once I looked up like this was a long"
+        }
+      ],
+      "speaker": {
+        "candidate": "Stefan",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l011",
+      "kind": "anecdote",
+      "summary": "Tyler bought supposedly working electromechanical bowler, found repairs needed after long trip.",
+      "topics": [
+        "bowling",
+        "restoration"
+      ],
+      "evidence": [
+        {
+          "location": "00:27:38",
+          "quote": "at so I mean is it that you're going to fix this thing and then just like be really into bowling all of a sudden like what is your I I bought it working and then the guy lied when he told me it was working but it was a 14-hour round trip it was the longest day of my life so I I wasn't going to be like oh well you guy I guess I'm leaving these they're super rare to find you can't find these that's why I had to drive so long to get one but yeah then I'm going"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l012",
+      "kind": "host_opinion",
+      "summary": "Readable collecting introduction, not detailed authoritative variant database.",
+      "topics": [
+        "Racketboy",
+        "research"
+      ],
+      "evidence": [
+        {
+          "location": "00:35:50",
+          "quote": "I'm looking at one building a completionist Sega collection without going overboard that I don't know I like racket boy and maybe not the most accurate for like really nitty-gritty stuff but it's not the wor no it it's a great place to start and it it's I still find it useful like I will still sometimes go back and reference be like what was that thing I read there um and I I do it as like a comparison like where's the world now compared to what what this list"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l013",
+      "kind": "disagreement",
+      "summary": "Stefan dislikes potentially misleading dated prices; Johnny values historical comparison.",
+      "topics": [
+        "pricing",
+        "dated articles"
+      ],
+      "evidence": [
+        {
+          "location": "00:36:50",
+          "quote": "list prices just because I feel that's dating it you know dating the information and by the time I see it it's already like especially now Jesus Christ with how fast things change as far as value go um it uh I I just i' I'd rather have the information without there being a like a hard price associated with it I kind of like the price because then you can see like if the article was 3 years old or two years old you can see what the hell happened it used to be this and"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l014",
+      "kind": "host_opinion",
+      "summary": "Stefan uses broad groups for reach when sourcing, not necessarily quality reading.",
+      "topics": [
+        "Facebook",
+        "research"
+      ],
+      "evidence": [
+        {
+          "location": "00:39:56",
+          "quote": "and find groups that are you know very specific uh to your um to your wants and needs so um like for instance the general group that I like is console purist it's actually not as active as it used to be but there's like 18,000 eyeballs so if I just want a lot of eyes on something that's a really good group uh to go to um I've got a couple for like um the original artwork for video games well okay the the full the full name of the group is original artwork"
+        }
+      ],
+      "speaker": {
+        "candidate": "Stefan",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l015",
+      "kind": "correction",
+      "summary": "Clarifies large-group recommendation is broadcast reach, not expertise density.",
+      "topics": [
+        "Facebook",
+        "research"
+      ],
+      "evidence": [
+        {
+          "location": "00:45:01",
+          "quote": "people are not always the most exciting it's always like ah want to buy Hagan no but it's not it's not about it's not about exciting it's about coverage it's about like it it's not it's not consuming those groups it's about broadcasting to those groups yeah yeah this is what Stephan uses if he needs something because there's a lot of people so right that that's his framing not that you will get aot of good information because it's going to be a lot of people"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l016",
+      "kind": "host_opinion",
+      "summary": "High-end groups useful for trends, not automatically accurate rarity or prices.",
+      "topics": [
+        "high-end market",
+        "sources"
+      ],
+      "evidence": [
+        {
+          "location": "00:43:00",
+          "quote": "Trends I I would agree with that is it is not a necessarily a source of Truth uh but if you want to keep your fingers on the pulse of what that end of the Spectrum in this hobby is going after or interested in um then high-end game room is a great place to be that's also where I am uh conducting a"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l017",
+      "kind": "anecdote",
+      "summary": "Stefan jokingly trying to seed pogs interest in High End Game Room.",
+      "topics": [
+        "pogs",
+        "running jokes"
+      ],
+      "evidence": [
+        {
+          "location": "00:43:00",
+          "quote": "keep your fingers on the pulse of what that end of the Spectrum in this hobby is going after or interested in um then high-end game room is a great place to be that's also where I am uh conducting a gorilla War to try to popularize pogs because I think it's funny oh no nope nope nope we're not doing it absolutely not I will not let you bring that I'm not letting you interject pogs into this episode to you got another group you want to talk about I just"
+        }
+      ],
+      "speaker": {
+        "candidate": "Stefan",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l018",
+      "kind": "host_opinion",
+      "summary": "Johnny distinguishes respectful pricing questions from harassing sellers.",
+      "topics": [
+        "marketplaces",
+        "price discussion"
+      ],
+      "evidence": [
+        {
+          "location": "00:48:05",
+          "quote": "whether people should be able to price police posts in Facebook groups yes well no no no no I didn't say I didn't say price police like you see you're framing it like they framed it I said I think you should be able to ask why a price is high or what it is I didn't say you should be allowed to come in and be an ass right I didn't think you I don't think you should be able to come in to someone's post and then get all over them but I think you can you should be"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l019",
+      "kind": "show_discussion",
+      "summary": "Facebook group pitched jokingly as refuge for disappointed collectors.",
+      "topics": [
+        "Pirates of Dark Water",
+        "running jokes"
+      ],
+      "evidence": [
+        {
+          "location": "00:51:09",
+          "quote": "high-end tops uh if you're going to spend like $300 on a top you want to come to pocket top talk Tyler no no um okay so also there's this place where you can go if you're sad uh if you're really sad you can come to the Pirates of Darkwater rules Facebook group you know what if you had your price policed and that made you really sad there's a place for you and it's the Pirates of Darkwater rules on Facebook you can go there and you can talk about how sad that made"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l020",
+      "kind": "host_opinion",
+      "summary": "Johnny strongly endorses Game-Rave as PS1 research starting point.",
+      "topics": [
+        "Game-Rave",
+        "PlayStation"
+      ],
+      "evidence": [
+        {
+          "location": "00:55:14",
+          "quote": "collector guy we think is cool no he that like when when people ask like oh man how did you do your PlayStation research I'm like well I I learned through doing but also game Rave like 100% game Rave go to game Rave that's the first place you should start why are you talking to me go to game Rave first that's where all your questions will be answered that's where I still go so imagine imagine you're naming your PlayStation resource and you're like we're going to name it game"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l021",
+      "kind": "host_opinion",
+      "summary": "PCB photo resource valuable but single image not proof because board revisions exist.",
+      "topics": [
+        "SNES Central",
+        "authentication"
+      ],
+      "evidence": [
+        {
+          "location": "00:54:13",
+          "quote": "most cases you should like 99.9% of the time learn how to understand if a game is real just by looking at the PCB and going this is a real Nintendo PCB but if you do want to compare it to an actual PCB which there may be many revisions of so you can't just depend on one picture snia Central would be a good place to go as well and I'm calling these guys out in particular because places like game Rave like his literal thumbnail is you know a a dude wearing"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l022",
+      "kind": "host_opinion",
+      "summary": "Johnny uses regional names, exclusives and boxart plus Discord.",
+      "topics": [
+        "SNES Central",
+        "regional research"
+      ],
+      "evidence": [
+        {
+          "location": "00:56:17",
+          "quote": "like if you're looking for all the pal titles name changes so like when I was doing my research to find out what the exclusives were what games have changed names like get boxart this is the place to do it they also have a Discord which you can join so check that out it's I'm a"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l023",
+      "kind": "host_opinion",
+      "summary": "Homebrew list and Video Game Sage thread singled out, not claimed exhaustive.",
+      "topics": [
+        "NES World",
+        "homebrew"
+      ],
+      "evidence": [
+        {
+          "location": "00:57:18",
+          "quote": "decades I don't remember when NES world came out I mostly wanted to give NES World a shout out because they have perhaps the only nearly complete published list of NES Homebrew games which are not documented almost anywhere besides uh the video game Sage Forum has one that's pretty good right now too and uh there's also a book on it but uh NES world is a one of a hundred sites about NES but I think it's"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l024",
+      "kind": "host_opinion",
+      "summary": "Satakore detailed regional/demo database praised despite dated interface.",
+      "topics": [
+        "Satakore",
+        "Saturn"
+      ],
+      "evidence": [
+        {
+          "location": "00:58:19",
+          "quote": "attached to it but it is basically a huge compiling of of a database about Saturn stuff complet with pictures they're really like there's just no place better for Saturn if you want not that I think people are clammering for Saturn right now but if you want Saturn stuff this"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l025",
+      "kind": "host_opinion",
+      "summary": "Tyler prefers quickly searchable reference articles for lookup over long videos.",
+      "topics": [
+        "research",
+        "video format"
+      ],
+      "evidence": [
+        {
+          "location": "01:00:20",
+          "quote": "repositories of information and that's why forums are dead like I don't want to watch a 20-minute video EXP laining this is the blackbox 79s I want to read the W article which has 99% of the things I would ever want to know about the blackbox games it's a much better resource than if that was a YouTube video"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l026",
+      "kind": "host_opinion",
+      "summary": "Praise practical comparisons across price tiers, not only high-end setups.",
+      "topics": [
+        "My Life in Gaming",
+        "hardware"
+      ],
+      "evidence": [
+        {
+          "location": "01:05:29",
+          "quote": "like on the middle of the of the uh of the spectrum as far as like options you can go with they they don't they don't preach the high end like they show you the highend but then also like show you the rest so that you can make an informed decision of of uh of which path you want to go down because dialing in like a retro setup you know is it's one of those things where you can spend as much money as you want to spend um on that on that kind of thing so um so they're"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l027",
+      "kind": "host_opinion",
+      "summary": "Tyler criticizes sound lag; worst-ever language editorial hyperbole, not measured benchmark.",
+      "topics": [
+        "NES Classic",
+        "emulation"
+      ],
+      "evidence": [
+        {
+          "location": "01:06:29",
+          "quote": "to say that uh they're probably the only like gaming Hardware Channel I respect in terms of like getting image out of your uh thing besides retro RGB because they were the only review I remember that pointed out the NES sound lag in the NES classic and every other major resource was like the emulation in the NES classic is fantastic so uh shout out to my life and game for actually knowing what the they're talking about this is one of Tyler's favorite"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l028",
+      "kind": "host_opinion",
+      "summary": "Detailed hardware tests, system guides and practical options praised.",
+      "topics": [
+        "RetroRGB",
+        "hardware"
+      ],
+      "evidence": [
+        {
+          "location": "01:09:36",
+          "quote": "resource too the the last piece of this I'd mentioned for retro RGB is is actually retr rb.com is very good uh for specifically for finding Hardware um and so or or like you know trouble or troubleshooting or finding um pieces of hard we for very specific things that you want to do so um and that's especially as the name might infer retro RGB that especially uh goes towards uh RGB modding systems or or using RGB so um the"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l029",
+      "kind": "host_opinion",
+      "summary": "Original history research and British microcomputer documentaries praised.",
+      "topics": [
+        "Gaming Historian",
+        "Kim Justice"
+      ],
+      "evidence": [
+        {
+          "location": "01:11:37",
+          "quote": "you more informed if you're looking for something specific about that console um one of the only really serious uh gaming History Channels I think that really takes like inep looks with original research not just like here's the Wikipedia type information on this object uh so Norm the gaming historian really cool Kim Justice is uh mostly a let's player but also sometimes just will make a 2-hour document um and that's entirely"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l030",
+      "kind": "host_opinion",
+      "summary": "Collecting lessons transferable, but hosts distinguish entertainment and disagreement.",
+      "topics": [
+        "Reserved Investments",
+        "cross-hobby learning"
+      ],
+      "evidence": [
+        {
+          "location": "01:13:42",
+          "quote": "to this podcast and then collecting something else you can apply some of the lessons we hand out here and I think you can kind of do the same thing with re reserved Investments but again take reserved Investments with a grain of salt there are many people who who dislike him there many people who like him very much uh but there there are things to be gleaned there and Tyler's in the camp of liking very much as if you guys didn't know nothing else I think"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l031",
+      "kind": "anecdote",
+      "summary": "Tyler reading baseball-card book and reconsidering variants/title boundaries, no actual list revision shown.",
+      "topics": [
+        "Mint Condition",
+        "variants"
+      ],
+      "evidence": [
+        {
+          "location": "01:15:44",
+          "quote": "information on specifically video game collecting so I'm reading a book on reserved Investments recommendation Mint Condition which is all about baseball card collecting and I've already like it's already like changing my opinion on things like video game variants and you can take paragraphs out of this book and you just change the word baseball card to video games and you're like oh my God this is this is what's happening the second chapter of the"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l032",
+      "kind": "host_opinion",
+      "summary": "Useful comparisons with reminder of entertainment persona and monetization incentives.",
+      "topics": [
+        "Alpha Investments",
+        "incentives"
+      ],
+      "evidence": [
+        {
+          "location": "01:17:45",
+          "quote": "eyes on um I mean be selective with his videos know that he does it uh as an interchain Channel and to make money right like he he and everyone in these things if they are sponsored or if this is a primary source of income know that they have to put out content because you know they they make money and they they help themselves survive"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l033",
+      "kind": "correction",
+      "summary": "Tyler subscribes for thumbnails/awareness, openly has not watched videos.",
+      "topics": [
+        "Hard4Games",
+        "research"
+      ],
+      "evidence": [
+        {
+          "location": "01:21:50",
+          "quote": "and honestly I I never even watched a hard for games video I subscribed to them on YouTube because they always show the thing in the thumbnail and now I know like oh that's what uh Pokemon Distribution Center GBA looked like or that's what a prototype Wii"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l034",
+      "kind": "show_discussion",
+      "summary": "Stefan distinguishes showcasing contributed prototypes from personally discovering every item.",
+      "topics": [
+        "Hard4Games",
+        "preservation"
+      ],
+      "evidence": [
+        {
+          "location": "01:20:49",
+          "quote": "it's just that they are known for being able to like showcase these things properly and like serve them to an audience so they're getting a lot of a lot of contents uh or a lot of um like prototypes and stuff like that sent to them to just show the world which I think is really cool yeah"
+        }
+      ],
+      "speaker": {
+        "candidate": "Stefan",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l035",
+      "kind": "disagreement",
+      "summary": "Tyler questions modern magnitude; Johnny cites observations while acknowledging pandemic confounding.",
+      "topics": [
+        "YouTube",
+        "price influence"
+      ],
+      "evidence": [
+        {
+          "location": "01:24:56",
+          "quote": "there's so many other factors in the market especially right now I think it had a bigger effect early on in in YouTube's days when there weren't literally a million disperate channels that people were subscribed to what I think is maybe interesting or"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l036",
+      "kind": "host_opinion",
+      "summary": "Tyler highlights useful fake-identification content as counterbalance to Hidden Gem criticism.",
+      "topics": [
+        "YouTube",
+        "authentication"
+      ],
+      "evidence": [
+        {
+          "location": "01:28:01",
+          "quote": "I'm just trying to think of some positives here to balance you out Johnny um I got recommended in my sidebar there's one um where you can see Kelsey Sprout like crouched over an Earthbound I think and it's like how do I identify a fake SNES game are you remembering this either of you um and that video like I don't know where you would get that information without just like of experience looking at games so that stuff is probably a useful well video but she"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l037",
+      "kind": "host_opinion",
+      "summary": "Database and historical community praised; old/salty characterization is banter.",
+      "topics": [
+        "AtariAge",
+        "research"
+      ],
+      "evidence": [
+        {
+          "location": "01:33:08",
+          "quote": "definitely wants you off its lawn that's like their slogan and uh you damn kids probably the best uh sort of Nintendo AG style databases um for RAR games they have like the Rarity they've got I'd say they've a good amount of variant listed because Atari has seemingly infinite variants but they'll have all the picture and uh text label releases with"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l038",
+      "kind": "show_discussion",
+      "summary": "Archived data loses utility without original database search; community moved to Video Game Sage.",
+      "topics": [
+        "NintendoAge",
+        "preservation"
+      ],
+      "evidence": [
+        {
+          "location": "01:35:09",
+          "quote": "variants N64 uh things things like that filter down by different regions filtered down by minor and major variants and all of that is gone there are backups of the Forum and backups of the database but since the database is no longer searchable it is so much less useful Because the actual search functionality of the database is what made it so powerful and um so rest in peace Nintendo age there isn't really a good replacement for it yet the community moved over"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l039",
+      "kind": "reported_factual_claim",
+      "summary": "Copied NES/Game Boy lists may double-count publisher variants; historical claim requires list-level audit.",
+      "topics": [
+        "set lists",
+        "variants"
+      ],
+      "evidence": [
+        {
+          "location": "01:36:10",
+          "quote": "that might be from like the etler list or something but that that is how many uh unlicensed NS games would show up if you search for unlicensed us releases on uh Nintendo Ag and you'll see these idiosyncrasies pop up so impossible mission two is listed twice because there's a publisher variant but the Nintendo age database would list it twice so in everyone's list of unlicensed NES games you'll see impossible mission listed twice in both the variants and then"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l040",
+      "kind": "host_opinion",
+      "summary": "GoCollect archive search criticism: broad term matching loses specific remembered threads.",
+      "topics": [
+        "archive search"
+      ],
+      "evidence": [
+        {
+          "location": "01:37:11",
+          "quote": "kidding I know you're kidding I'm trying to make it in a not jokey way uh go collect if you go to Nintendo age.com there is technically a backup of the Nintendo age Forum but their search like doesn't work if you search for Castlevania variant it will show you every post ever that has the word variant in it regardless of whether Castlevania is in the same post or even nearby so like can you can you bullion that down like with with like brackets or pluses like"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l041",
+      "kind": "host_opinion",
+      "summary": "Zines qualified as worth reading after initial no-guides generalization.",
+      "topics": [
+        "NintendoAge",
+        "zines"
+      ],
+      "evidence": [
+        {
+          "location": "01:39:12",
+          "quote": "community built information slowly over time as a whole yeah there was a few Zen and stuff where they tried it but it was not was never great uh didn't come out regularly enough for it to be a thing there are yeah there's 50 Zen I bet there's good information in them they they were like articles on collecting topics they're all on archive.org if you look for Nintendo age you can download them all like Brony wrote articles and those and stuff yeah"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l042",
+      "kind": "host_opinion",
+      "summary": "Genesis/Master System forums useful for specialists.",
+      "topics": [
+        "Sega16",
+        "Sega8bit"
+      ],
+      "evidence": [
+        {
+          "location": "01:40:14",
+          "quote": "couple websites I want to just bring up real quick we don't need to go too much into them as we are as always going so very long cuz that's for a long podcast I just just we can't fight it so Sega 16 um now that Sega age is dead uh there's Sega 16 which was one of the original websites you can go there it's a for it's a website and a forum forum is still active you got people who are it's like a less collector based"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l043",
+      "kind": "anecdote",
+      "summary": "Tyler importing release and variant info article by article into personal database.",
+      "topics": [
+        "SegaRetro",
+        "personal database"
+      ],
+      "evidence": [
+        {
+          "location": "01:42:17",
+          "quote": "or something doesn't have variant uh information I have like pictures of not only all the variants but all the different Regional releases cartridges manuals um what I've been doing is um I'm putting information into my personal new database right now and I'm I've been going through every single article for every single Sega game on Sega retro and just dumping info out of it into my personal database it's wonderful yep yeah it's an excellent site I forgot about"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l044",
+      "kind": "host_opinion",
+      "summary": "Rising costs and focus on rare items may reduce ownership-based research into ordinary games.",
+      "topics": [
+        "specialization",
+        "documentation"
+      ],
+      "evidence": [
+        {
+          "location": "01:45:21",
+          "quote": "they aren't like these Specialists about systems now and it and we even tell people like don't be a garbage man and go get everything you know buy the best stuff don't worry about all this other except that bad for the flow of information and and like the Deep the Deep levels of information if someone really wants to know the nitty-gritties on on unir raser how are we going to get there if a bunch of people don't own it and can show it yeah and you know what"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l045",
+      "kind": "anecdote",
+      "summary": "Tyler compared rarity ratings with prices to find underpriced games; ratings dated.",
+      "topics": [
+        "Digital Press",
+        "collecting strategy"
+      ],
+      "evidence": [
+        {
+          "location": "01:47:23",
+          "quote": "3DO games uh so what I would do all the time is I would take my digit press list of Rarities and then take like a price charting list of prices and I would try to find the places that don't quite match like oh this is an R six but it's only $7 I should probably buy that right away uh and so that's still that like that Rarity info is probably $5 years old at this point but it still might be useful yeah that's you"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l046",
+      "kind": "host_opinion",
+      "summary": "Prefer release precision matching evidence rather than invented exact dates.",
+      "topics": [
+        "MobyGames",
+        "dates"
+      ],
+      "evidence": [
+        {
+          "location": "01:48:26",
+          "quote": "always bring up the credits Moby games is excellent for release information so another resource Wikipedia garbage for release information do not believe any release date you read on Wikipedia a lot of these older games it is not known exactly you can't pinpoint to the day what day a lot of these old games released in because there wasn't one day that it was simultaneously launched on um it's not like today so mobi games they will they will say like either it"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l047",
+      "kind": "disagreement",
+      "summary": "Stefan prefers sold listings reflecting sellers; Johnny stresses discounts, condition and other distortion.",
+      "topics": [
+        "pricing",
+        "eBay"
+      ],
+      "evidence": [
+        {
+          "location": "01:51:29",
+          "quote": "are also doing that so so uh it just the the P it gives me I think it gives me a better idea as to what the prices are that they're going to be asking me for because that's what they're doing um but but uh Johnny has a dissenting opinion I do uh because eBay is garbage right now their prices the way they skure data you know the fact that they have targeted marketing for sales that give people you know sometimes five or 8%"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l048",
+      "kind": "host_opinion",
+      "summary": "Inspect underlying listings for variant/completeness mismatches rather than trust aggregate.",
+      "topics": [
+        "pricing",
+        "aggregation"
+      ],
+      "evidence": [
+        {
+          "location": "01:54:35",
+          "quote": "have that it is aggregating into its into its uh summary because like you might look at a game and be like oh well this is like the wrong ver you know there's like 12 listings that are that are factored into this that are not the version that I am looking for so um so that's something that you need to consider that because it's not being done by a human being there's going to be a a big margin for error when you talk about uh especially when you're talking"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l049",
+      "kind": "host_opinion",
+      "summary": "Johnny values unboxing records for future box-content and factory-variant research.",
+      "topics": [
+        "unboxing",
+        "provenance"
+      ],
+      "evidence": [
+        {
+          "location": "02:00:45",
+          "quote": "double check and the more of there like and as as we found out with like classic games and there's multiple factories and there can be variations between factories and releases and prints and stuff there's variations I want multiple videos I want to be able to see what happened and we now live in an age where we can document that with video and I think that's great a lot of people hate unboxing videos and again I it's like shitty easy content and I get why"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l050",
+      "kind": "host_opinion",
+      "summary": "Photos useful but CIB labels/reproduction claims require validation.",
+      "topics": [
+        "eBay",
+        "provenance"
+      ],
+      "evidence": [
+        {
+          "location": "02:02:47",
+          "quote": "missing manual yeah Repro box um yeah so just be very very careful about that you know and like I said it's just it's just a caution to you know the images are great but you still have to like do your own work as far as validating claims all right agree all right let's uh let's get to man we're so long um yeah let's get to Instagram because also a nice visual resource uh when I was hunting for stuff I wish I I had this oh my God we didn't even talk about"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l051",
+      "kind": "host_opinion",
+      "summary": "Search/hashtag limitations distinguished from visual reference value.",
+      "topics": [
+        "Instagram",
+        "discovery"
+      ],
+      "evidence": [
+        {
+          "location": "02:03:49",
+          "quote": "problems and we can talk about that uh let's do it let's talk about some of the problems with Instagram uh you said you said hashtag Reliant I'm fine with hashtag Reliance what I'm problem with is that searches have no no ability to search multiple"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l052",
+      "kind": "show_discussion",
+      "summary": "Public recommendations are not invitations to overwhelm collectors with DMs.",
+      "topics": [
+        "community etiquette"
+      ],
+      "evidence": [
+        {
+          "location": "02:06:53",
+          "quote": "these are the people and please follow them don't necessarily inundate them with 100 messages they aren't asking us to put them out there like this and we didn't we didn't ask them either yeah so but it is again it is a public place where these people are asking for followers so feel free to"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l053",
+      "kind": "correction",
+      "summary": "Pirate Pimp complete Platinum Hits claim narrowed to known releases; discovery may change.",
+      "topics": [
+        "Xbox",
+        "complete sets"
+      ],
+      "evidence": [
+        {
+          "location": "02:18:05",
+          "quote": "the world right now with a complete Platinum hit set because he's the only person who owns NBA Ballers Platinum hits uh and his website is really use until we find another Platinum hits that nobody knew about oh yeah the only one who knows yes it's a mess um so shout out to that yeah so uh Nintendo twizer if you're looking at like Wii stuff and just general cor he's also had multiple sets he's got like the most popular Reddit picture of all time for video"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l054",
+      "kind": "anecdote",
+      "summary": "Stefan recalls Johnny dissuading PS2 set in brief conversation; playful blame, not objective mistake.",
+      "topics": [
+        "PS2",
+        "collecting choices"
+      ],
+      "evidence": [
+        {
+          "location": "02:20:07",
+          "quote": "games instead now the only thing that like when you talk about DEC my decisions around the PS2 set the only thing that I will bring up again and again is the time that I was actively interested in doing it and Johnny iuchi talked me out of it it was one time and it was a thre minute conversation yeah it was the first time though it was the first time Johnny you could you sent me on the wrong path if I can talk you out of something"
+        }
+      ],
+      "speaker": {
+        "candidate": "Stefan",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l055",
+      "kind": "anecdote",
+      "summary": "Tyler says stopped Limited Run purchases recently due to lack of interest.",
+      "topics": [
+        "Limited Run",
+        "buying habits"
+      ],
+      "evidence": [
+        {
+          "location": "02:23:10",
+          "quote": "thing that I think should know about um if you want to know about um fake Collectibles please follow limited run games they'll sell you all of them that they can we got anything else here I think I'm done I know I'm hard St hard stopped buying limited run games in the past few months and it's been pretty great it's also because they don't have anything interesting in my opinion but um man when everything is on fire the the idea of buying a game from 2020 and uh"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l056",
+      "kind": "host_opinion",
+      "summary": "Closing differentiates Tyler ~7/10 and Johnny ~8/10; Stefan not played.",
+      "topics": [
+        "The Last of Us Part II",
+        "ratings"
+      ],
+      "evidence": [
+        {
+          "location": "02:24:12",
+          "quote": "that works Johnny we should uh we should end the show because we've been sitting here for four hours okay cool let's end it let's not even do the other part we don't need to The Last of Us it's a pretty good game it's like seven out of 10 Johnny thinks it's like eight out of 10 yep we we played that's what we played Stefan didn't play anything did we buy anything important that you guys need to just get off your chest right now I'm remodeling my garage that's"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq146-l057",
+      "kind": "open_loop",
+      "summary": "Johnny still buying Xbox and hopes eventual completion; four-year forecast not deadline.",
+      "topics": [
+        "Xbox",
+        "set collecting"
+      ],
+      "evidence": [
+        {
+          "location": "02:25:12",
+          "quote": "think I had the CPS 2000 are they goingon to remake that one I'm nostalgic for that okay let's move on okay I bought some GBA games I probably posted them you saw them I also got some Xbox games cuz eventually one day I'll finish that set"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    }
+  ],
+  "corrections": [],
+  "topic_coverage": [
+    {
+      "topic": "research resources",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "00:15:20",
+        "00:52:10",
+        "01:42:17"
+      ]
+    },
+    {
+      "topic": "collecting communities",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "00:38:55",
+        "01:35:09",
+        "02:06:53"
+      ]
+    },
+    {
+      "topic": "pricing evidence",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "01:51:29",
+        "01:54:35"
+      ]
+    },
+    {
+      "topic": "source preservation",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "01:35:09",
+        "02:00:45"
+      ]
+    },
+    {
+      "topic": "YouTube market influence",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "01:22:52",
+        "01:24:56"
+      ]
+    },
+    {
+      "topic": "The Last of Us Part II",
+      "depth": "SUPPORTING_EXAMPLE",
+      "locations": [
+        "00:04:06",
+        "00:10:14",
+        "02:24:12"
+      ]
+    }
+  ],
+  "related_episodes": [],
+  "review_queue": [
+    {
+      "id": "cq146-review01",
+      "priority": "medium",
+      "reason": "Caption platform/title mismatch; do not silently normalize to different release.",
+      "evidence": [
+        {
+          "location": "00:34:48",
+          "quote": "would be like a games to keep an eye on or like games that didn't quite make the list and even if the article was outdated those would always end up being the more interesting games because I guarantee something like uh hurricanes on NES that's a game that used to be $5 and now a cartridge of it is probably $200 or $300 or maybe $100 I"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq146-review02",
+      "priority": "medium",
+      "reason": "Original-art Contra/Probotector chronology needs verification.",
+      "evidence": [
+        {
+          "location": "00:40:57",
+          "quote": "know him for selling the $100,000 Mario game um so uh and for bu yeah and for and for buying the $200,000 Contra cover art um or the uh what is it pro pro Proctors so yeah Proctors Pro protectors oh was the art made for Probot tectors before Contra yes oh weird yeah all right um uh if you're into collecting displays you have video game uh video game kiosk and display collectors if you want to uh check out what's going on with water show off your"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq146-review03",
+      "priority": "medium",
+      "reason": "Exact64DD prototype identification unresolved.",
+      "evidence": [
+        {
+          "location": "01:20:49",
+          "quote": "be on my list of people to share to follow on Twitter um but um Luigi blood helped them or they they dumped a um an unreleased version of like the Mario Paint game for the 64dd which it's not called Mario Paint it's like Mario Studio something but that was then um that was then showcased on on hard for games and uh I I just kind of wanted to point that out because they uh they get kind of a lot of FL of like you know people like oh man you just like"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq146-review04",
+      "priority": "medium",
+      "reason": "Social handles have caption errors; verify exact public handles before producing directory.",
+      "evidence": [
+        {
+          "location": "02:06:53",
+          "quote": "they should be following oh my God that's how we're going to do it yeah like so like I don't know a single person who posts Atari games on Instagram so if we were starting from the Vintage game like VG collect aholic and Milwaukee game collector is that even his exact name Milwaukee Retro Gaming milwauke Milwaukee retro gamer I'm so sorry I think he listens to the podcast oh my God he does Milwaukee retro gamer yeah VG KCT toolic is the only one"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq146-review05",
+      "priority": "medium",
+      "reason": "Known-copy exclusivity is dated and conditional, not current population fact.",
+      "evidence": [
+        {
+          "location": "02:18:05",
+          "quote": "Xbox collecting resource um I'm pretty sure well he is the only person in the world right now with a complete Platinum hit set because he's the only person who owns NBA Ballers Platinum hits uh and his website is really use until we find another Platinum hits that nobody knew about oh yeah the only one who knows yes it's a mess um so shout out to that yeah so uh Nintendo twizer if you're looking"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq146-review06",
+      "priority": "medium",
+      "reason": "Normalize Wonder Dog after caption-level identification review.",
+      "evidence": [
+        {
+          "location": "02:24:12",
+          "quote": "right now I'm remodeling my garage that's all the money is going towards didn't you already talk about this on the show he's just saying why he's not buying any games yes he did Dick I got some crap and I got a red box wonder doog I just you did get a red bu I buy it now on eBay there were like two or three of them on eBay and they're like sitting at like 100ish bucks and it's not in great condition but uh I don't I always thought that was like a"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq146-review07",
+      "priority": "medium",
+      "reason": "Rayman earliest-platform statement needs factual check before asserting history.",
+      "evidence": [
+        {
+          "location": "01:49:26",
+          "quote": "Rayman would be under the same article and then you go to the releases section and you can see like oh the Jaguar one is the one that came out first and this is incredibly useful for PC collecting at least if you care about which version was the first of the game cuz most PC games came out on like a dozen different platforms it's really"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    }
+  ],
+  "exclusions": [
+    "Do not treat jokes, hypothetical scenarios, unverified prices or psychological interpretations as established facts."
+  ]
+}

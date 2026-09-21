@@ -1,0 +1,71 @@
+{
+  "schema_version": "1",
+  "scope": "Fresh source-informed reviewer wordings; become development regressions after use, not blind tests.",
+  "cases": [
+    {
+      "id": "cq21-fresh-comfort",
+      "episode": 21,
+      "question": "Why was a game with weak controls still comforting to Kat?",
+      "required_windows": [
+        "Paragraph 4",
+        "Paragraph 5",
+        "Paragraph 6",
+        "Paragraph 8"
+      ],
+      "expected": "Familiar Tonic Trouble routine and liked design; not a claim of excellent controls."
+    },
+    {
+      "id": "cq21-fresh-retain",
+      "episode": 21,
+      "question": "Did the uncomfortable 2DS leave Kat's household?",
+      "required_windows": [
+        "Paragraph 18",
+        "Paragraph 19",
+        "Paragraph 20",
+        "Paragraph 22"
+      ],
+      "expected": "No reported return; John may like it and they retain it."
+    },
+    {
+      "id": "cq88-fresh-nonplay",
+      "episode": 88,
+      "question": "Was Nurse Love Addiction criticism based on playing the game?",
+      "required_windows": [
+        "Paragraph 13",
+        "Paragraph 14",
+        "Paragraph 21"
+      ],
+      "expected": "Explicitly unplayed, content/legal assumptions unverified."
+    },
+    {
+      "id": "cq88-fresh-protectors",
+      "episode": 88,
+      "question": "What corrected the claim that Odyssey 2 boxes had no protectors?",
+      "required_windows": [
+        "Paragraph 28",
+        "Paragraph 29"
+      ],
+      "expected": "Listener feedback and niche Mordov sizes; not current verified shopping advice."
+    },
+    {
+      "id": "cq214-fresh-delivery",
+      "episode": 214,
+      "question": "Did Johnny receive Angry Birds Trilogy for Wii or get a refund?",
+      "required_windows": [
+        "02:40:40",
+        "02:41:43"
+      ],
+      "expected": "Paid purchase did not arrive; claim filed, no refund outcome."
+    },
+    {
+      "id": "cq214-fresh-postscript",
+      "episode": 214,
+      "question": "What Minecraft influence did Tyler remember only in the outro?",
+      "required_windows": [
+        "02:55:45",
+        "02:56:49"
+      ],
+      "expected": "Streaming-culture rationale, not proof of causal history."
+    }
+  ]
+}

@@ -1,0 +1,2512 @@
+{
+  "schema_version": "0.1",
+  "extraction_version": "manual-codex-2026-09-12-v1",
+  "source": {
+    "key": "sc-1517354524",
+    "episode_number": 222,
+    "title": "CQ 222 - Psychological Effects That Affect Collectors",
+    "date": "2023-05-19",
+    "path": "episodes/cq-222-sc-1517354524.md",
+    "words": 23600,
+    "source_url": "https://soundcloud.com/collectors-quest/cq-222-psychological-effects-that-affect-collectors",
+    "timing": "YouTube caption timestamps",
+    "sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8"
+  },
+  "review": {
+    "status": "extracted_draft",
+    "read_coverage": "All 118 supplied transcript windows read consecutively through closing.",
+    "omission_review": "pending",
+    "audio_verification": "not_performed",
+    "independent_review": "pending",
+    "transcript_limit": "Captured transcript completeness does not establish recognition accuracy or exact attribution.",
+    "timing": "Window-start timestamps are navigation locations, not precise utterance times.",
+    "elapsed_model_time": null,
+    "subscription_usage": null
+  },
+  "participants": [
+    {
+      "name": "Tyler",
+      "confidence": "high",
+      "evidence": [
+        {
+          "location": "00:00:00",
+          "quote": "[Music] [Applause] [Music] hey welcome back to another episode of collector's Quest I'm Tyler here with Johnny Johnny what's going on not much Tyler how are you Johnny I just got back from a week of Disney World and now I can give everyone all the advice on Disney World okay please do uh don't go to Disney World what are you doing"
+        }
+      ]
+    },
+    {
+      "name": "Johnny",
+      "confidence": "high",
+      "evidence": [
+        {
+          "location": "00:00:00",
+          "quote": "[Music] [Applause] [Music] hey welcome back to another episode of collector's Quest I'm Tyler here with Johnny Johnny what's going on not much Tyler how are you Johnny I just got back from a week of Disney World and now I can give everyone all the advice on Disney World okay please do uh don't go to Disney World what are you doing"
+        }
+      ]
+    }
+  ],
+  "main_topic": "Collecting psychology: scarcity, anchoring, endowment, sunk cost and loss aversion",
+  "secondary_topics": [
+    "collecting psychology",
+    "collector edition packaging",
+    "feedback and returns",
+    "Tears of the Kingdom",
+    "changing collecting interests",
+    "interactive rides"
+  ],
+  "games": [
+    {
+      "id": "cq222-g001",
+      "canonical_title": "Horizon Forbidden West",
+      "spoken_forms": [
+        "Horizon forbidden West"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Modern-game aside",
+          "evidence": [
+            {
+              "location": "00:03:05",
+              "quote": "got an HGTV at home I could go play Horizon forbidden West and see some cool fantasy [ __ ] like watching that from a little boat on a ride does nothing for me cuz I get that same experience at home okay well I wouldn't call that ride all screens so we it's not all"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g002",
+      "canonical_title": "The Last of Us Part II",
+      "spoken_forms": [
+        "The Last of Us two"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Expensive production compared to theme-park spectacle",
+          "evidence": [
+            {
+              "location": "00:18:24",
+              "quote": "always bring this up like when I was playing The Last of Us two more than anything the feel that hits me is like how much [ __ ] money was spent to make this game and you do get a lot of that at Disney which is pretty delightful so what Universal like they're finally starting to do with"
+            }
+          ],
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g003",
+      "canonical_title": "Secret of Mana",
+      "spoken_forms": [
+        "Secret of Mana"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Example in corrected reproduction/translation scarcity discussion; exact intended translation unresolved",
+          "evidence": [
+            {
+              "location": "00:24:30",
+              "quote": "home RS are not free software not not not free but you know it's I homebrew is the wrong example like uh what I meant that sorry Homebrew people I meant like translations of Japanese games uh you know uh you're you're like Secret of Mana yeah just all this [ __ ] now like number it and they're like look at what we did um number like all the time walk games and people like oh my God they only made so many and then like what will happen is people will perceive"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g004",
+      "canonical_title": "The Legend of Zelda: Tears of the Kingdom",
+      "spoken_forms": [
+        "tear of the Kingdom"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Switch",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Tyler enjoys creative puzzles but criticizes performance",
+          "evidence": [
+            {
+              "location": "01:48:00",
+              "quote": "a button to use one of your magic abilities and the frame rate just drops to like 15 frames a second for a little bit and it's like we're dealing with this in 2023 guys I wish they made a switch Pro before they released tear of the Kingdom I would have bought the $370 te of the Kingdom switch if it was a switch Pro"
+            }
+          ],
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g005",
+      "canonical_title": "The Legend of Zelda: Breath of the Wild",
+      "spoken_forms": [
+        "breath of the wild"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Switch",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Not-for-resale case motivates buying both editions of successor",
+          "evidence": [
+            {
+              "location": "01:43:55",
+              "quote": "college but what you what did you play cuz you also played Zelda yeah Johnny I bought I bought Zelda twice cuz I had to get the regular version and the special edition um because with breath of the wild the case that came in the special edition was a not for resale case and I need both versions Johnny I'm really happy there's only two and there's not three cuz that would have been just annoying to buy the same thing well"
+            }
+          ],
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g006",
+      "canonical_title": "Tetris",
+      "spoken_forms": [
+        "T Tetris"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Rarity-list anchoring; caption does not clearly identify edition",
+          "evidence": [
+            {
+              "location": "00:30:40",
+              "quote": "was just the first piece of information out there we all just latched onto it and we all just keep pretending that's real hey what are some other games that we uh used to just say were rare and just went with it like uh Tetris remember Tetris we've talked about that a million times T Tetris T yeah like oh yeah oh it's rare uh you know and then all these other games uh crop up around it we go oh I guess those are rare now too no no things things"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g007",
+      "canonical_title": "Tomb Raider",
+      "spoken_forms": [
+        "Tomb Raider"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "PlayStation",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Sealed-price anchoring example",
+          "evidence": [
+            {
+              "location": "00:31:41",
+              "quote": "Heritage auctions where you know in 2019 2020 a game will come up for sale sealed not obviously not for the first time at the first time in this you know new crazy sealed market and you know you'd see a [ __ ] twisted metal a Tomb Raider like an okay condition Tomb Raider on Playstation sell for $100,000 and then all of a sudden people are talking about like oh man Tomb Raider is the game this this version of Tomb Raider is the game out of [ __ ]"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g008",
+      "canonical_title": "Twisted Metal",
+      "spoken_forms": [
+        "Twisted Metal"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "PlayStation",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Sealed-price example",
+          "evidence": [
+            {
+              "location": "00:31:41",
+              "quote": "happen unlike Heritage auctions where you know in 2019 2020 a game will come up for sale sealed not obviously not for the first time at the first time in this you know new crazy sealed market and you know you'd see a [ __ ] twisted metal a Tomb Raider like an okay condition Tomb Raider on Playstation sell for $100,000 and then all of a sudden people are talking about like oh man Tomb Raider is the game this this version of Tomb Raider is the game out"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g009",
+      "canonical_title": "Kid Klown in Night Mayor World",
+      "spoken_forms": [
+        "Kid Klown"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Remembered purchase-price anchor, date uncertain",
+          "evidence": [
+            {
+              "location": "00:35:43",
+              "quote": "the anchor is really the first piece of information but there will be like I'm I'm very proud of the bump that I can see on um price charting I I was like the first person on planet Earth to pay $200 for a loose copy of kid clown and like you could see the data point where like it was selling for $100 all day and it's like bam in like May of 2019 or or 2017 or something it goes to $200 and like from that point on people"
+            }
+          ],
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g010",
+      "canonical_title": "Mega Man X",
+      "spoken_forms": [
+        "Mega Man X"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "iam8bit release comparison",
+          "evidence": [
+            {
+              "location": "00:38:46",
+              "quote": "market so the one that actually comes to mind is I am 8bit Mega Man X and spec I think Mega Man X Mega Man 2 sold out in like a few years and Mega Man X [ __ ] lingered on forever they made what was it 7,000 8,000 of these like 7,000 I think way too many considering the market for aftermarket"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g011",
+      "canonical_title": "Mega Man 2",
+      "spoken_forms": [
+        "Mega Man 2"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Numbered reissue supply discussion; total corrected",
+          "evidence": [
+            {
+              "location": "00:39:49",
+              "quote": "thousand were the glow-in-the-dark blue ones whoa scarcity yep uh also you could still buy them on IMA right now okay I thought they sold out maybe we were celebrating that Mega Man 2 eventually sold out oh like because remember they did the whole turn where they went to Best Buy and everything they even had a part like during like Christmas where they like slashed the price like I think down to $60"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g012",
+      "canonical_title": null,
+      "spoken_forms": [
+        "Nurse Love"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Gift mention; subtitle unresolved",
+          "evidence": [
+            {
+              "location": "00:40:49",
+              "quote": "games like three or four times through the length of this podcast and uh they never they never uh they never don't hit well uh they're always funny is what I'm trying to get at uh someone sent me nurse love like when I was on that whole track so and then like Mega Man people people like their jokes uh and I appreciate you guys anyways Johnny I don't know how many people work at IM apit but if someone from IM apit listens"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g013",
+      "canonical_title": "Garbage Pail Kids: Mad Mike and the Quest for Stale Gum",
+      "spoken_forms": [
+        "garbage pill kids"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Buying intention, not confirmed purchase",
+          "evidence": [
+            {
+              "location": "00:41:51",
+              "quote": "um yeah I mean and like I don't hate im8 bit or anything like I'm I can't wait to buy this garbage pill kids game I think it came out I'm going to like I'm going to buy that eventually oh definitely wait on that Johnny you know NES Homebrew known for staying in stock forever and being frequently restocked that's a lie"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g014",
+      "canonical_title": "Super Tilt Bro.",
+      "spoken_forms": [
+        "Super Tilt Bro"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Homebrew Kickstarter with online functionality",
+          "evidence": [
+            {
+              "location": "00:41:51",
+              "quote": "there's only 4,000 of them that is an insanely High number though so that means they'll probably be on eBay forever because people just buy them because it says NES and they'll just flip it um yep but speaking of uh super tilt bro is on Kickstarter right now that's a game I played a very old version of a few years ago but now it's like this full-fledged NES party fighting game like Super Smash Brothers and has built-in Wi-Fi in the cartridge"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g015",
+      "canonical_title": "Super Metroid",
+      "spoken_forms": [
+        "Super Metroid"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "SNES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Hypothetical refusal to sell despite potential profit; attachment vs search costs",
+          "evidence": [
+            {
+              "location": "00:43:55",
+              "quote": "but I feel like the actual effect of the endowment effect is more like uh like say Super Metroid is worth $300 and you buy a Super Metroid and then if someone offered you $400 for it you'd be like [ __ ] no I'm never selling Super Metroid be like you it is impossible for you to part with something because you have already"
+            }
+          ],
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g016",
+      "canonical_title": "The Legend of Zelda",
+      "spoken_forms": [
+        "Legend of Zelda"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Hypothetical replacement for sold Super Metroid",
+          "evidence": [
+            {
+              "location": "00:45:57",
+              "quote": "goes into like loss of version where I'm so worried about like if I sold my Super Metroid and I had to buy I don't know let's say let's forget that I'm selling Super Metroid to buy a Super Metroid let's say I wanted the Legend of Zelda I want to sell my Super Metroid and buy Legend of Zelda um I don't have the money for Zelda I have to sell my Super Metroid but I can't sell my Super"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g017",
+      "canonical_title": "Super Mario Bros. 3",
+      "spoken_forms": [
+        "Super Mario Brothers 3"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Childhood-copy sentimental value example",
+          "evidence": [
+            {
+              "location": "00:47:58",
+              "quote": "you have something else to say the way to get around the endowment effect is to just price things at market value and stop having sentimental attachment to fungible items like okay if you have like your childhood copy of Super Mario Brothers 3 you're not going to sell it"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g018",
+      "canonical_title": "Banjo-Kazooie",
+      "spoken_forms": [
+        "banjo kazui"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Nintendo 64",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "N64 favorites retained when selling set",
+          "evidence": [
+            {
+              "location": "00:58:08",
+              "quote": "to say Johnny it is a much bigger deal to divest yourself of NES like the biggest Nintendo console over [ __ ] Nintendo 64 it is so easy to sell the Nintendo 64 set and just keep you know your Mario your Zelda and your banjo kazui or whatever I mean for us no for anyone no Tyler some people the n6 for thing yes sure but so I I'm still going to say it is easier to sell the the garbage sports games chaff from N64 than it is to even sell the garbage"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g019",
+      "canonical_title": "Stadium Events",
+      "spoken_forms": [
+        "Stadium events"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Expensive NES set targets in divestment example",
+          "evidence": [
+            {
+              "location": "00:59:09",
+              "quote": "be he peaked out at like 600 something NES games um he was going for like us licensed and unlicensed uh like how many months do you think it took to go from wanting the whole set and like considering buying things like Stadium events and like you know completing box Panic restaurants and all that [ __ ] to completely selling everything off except for your favorites like there's no way that was a weekend decision like there's so much sunk cost there's"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g020",
+      "canonical_title": "Panic Restaurant",
+      "spoken_forms": [
+        "Panic restaurants"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "NES",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Set completion cost example",
+          "evidence": [
+            {
+              "location": "00:59:09",
+              "quote": "games um he was going for like us licensed and unlicensed uh like how many months do you think it took to go from wanting the whole set and like considering buying things like Stadium events and like you know completing box Panic restaurants and all that [ __ ] to completely selling everything off except for your favorites like there's no way that was a weekend decision like there's so much sunk cost there's so many hours years of collecting NES that you have"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g021",
+      "canonical_title": "Deathloop",
+      "spoken_forms": [
+        "death Loop Deluxe"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "PS5",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Hypothetical losing inventory, not buying advice",
+          "evidence": [
+            {
+              "location": "01:12:22",
+              "quote": "seen that seller um so try not to be them but if you are them I I understand and something you have to consider with loss of version is the opportunity cost of not just realizing a loss so if you in invested $22,000 in death Loop Deluxe editions for the PS5 which currently sell for $10 brand new uh like that that money is never coming back and it might only continue to go down so yes you will take whatever 80% loss by selling that but if you just hold on"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g022",
+      "canonical_title": "The Legend of Zelda: Oracle of Ages / Oracle of Seasons",
+      "spoken_forms": [
+        "Zelda Oracle games"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Game Boy Color",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Boxed pair damaged by bubble-mailer shipping; titles collectively referenced",
+          "evidence": [
+            {
+              "location": "01:20:36",
+              "quote": "we'll see how this winds up I've had a couple of people I don't I really don't like try to make a fuss over things if people [ __ ] up even but uh you know sometimes like uh one particular in my head is I bought the the Zelda Oracle games on Game Boy Color and at the time it was like probably like $300 for the pair maybe $200 like those are expensive games they're complete and box Card War Zelda games and they shipped in a bubble mailer and I specifically"
+            }
+          ],
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g023",
+      "canonical_title": "Super Mario Bros. 3",
+      "spoken_forms": [
+        "Mario 3"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Candidate representative 2D game in speculative future scenario",
+          "evidence": [
+            {
+              "location": "01:26:40",
+              "quote": "are they even going to know what like video signals were in 200 years I don't know but like let's just pretend we had to recommend one game to uh represent the the 2D era I'm going Mario 3 H I don't know I mean Mario 3 is like one of the best representations of the 2dr and like it's like one of the most complete with game mechanics and stuff it's really hard to think what uh what would even be playable in"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g024",
+      "canonical_title": "Spacewar!",
+      "spoken_forms": [
+        "space War"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "2D-era boundary example",
+          "evidence": [
+            {
+              "location": "01:27:41",
+              "quote": "started to fudge like 3D Graphics there I mean yes I would you're represent I you're basically representing everything from like space War up until you know Super Mario 64 or Doom something and then then then I probably do Mario World just what a wonderful game but H or like do Super Metro like again I think we just like point at our our historical document"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g025",
+      "canonical_title": "Super Mario 64",
+      "spoken_forms": [
+        "Super Mario 64"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "3D-era boundary example",
+          "evidence": [
+            {
+              "location": "01:27:41",
+              "quote": "started to fudge like 3D Graphics there I mean yes I would you're represent I you're basically representing everything from like space War up until you know Super Mario 64 or Doom something and then then then I probably do Mario World just what a wonderful game but H or like do Super Metro like again I think we just like point at our our historical document and say like here you go also Mario"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g026",
+      "canonical_title": "Doom",
+      "spoken_forms": [
+        "Doom"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "3D-era boundary example",
+          "evidence": [
+            {
+              "location": "01:27:41",
+              "quote": "started to fudge like 3D Graphics there I mean yes I would you're represent I you're basically representing everything from like space War up until you know Super Mario 64 or Doom something and then then then I probably do Mario World just what a wonderful game but H or like do Super Metro like again I think we just like point at our our historical document and say like here you go also Mario was"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g027",
+      "canonical_title": "Super Mario World",
+      "spoken_forms": [
+        "Mario World"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Alternative representative 2D game",
+          "evidence": [
+            {
+              "location": "01:27:41",
+              "quote": "started to fudge like 3D Graphics there I mean yes I would you're represent I you're basically representing everything from like space War up until you know Super Mario 64 or Doom something and then then then I probably do Mario World just what a wonderful game but H or like do Super Metro like again I think we just like point at our our historical document and say like here you go also Mario was just the biggest character so even though I think Zelda"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g028",
+      "canonical_title": "Final Fantasy VI",
+      "spoken_forms": [
+        "Final Fantasy 3"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Regional numbering explicitly reframed as Final Fantasy 6",
+          "evidence": [
+            {
+              "location": "01:27:41",
+              "quote": "know I still might just point them at that or like if they need time to it's it's weird because like oh the 2D era it's like oh if you really wanted to like waste some time then maybe here's a final fantasy here's like Final Fantasy 3 or something but it's Pala so Final Fantasy 6 also pal like what's the weird pal restriction I don't know what the pal restriction really does for this question I I mean I guess there's games that didn't come out in Europe"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g029",
+      "canonical_title": "Daze Before Christmas",
+      "spoken_forms": [
+        "days before Christmas"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "PAL-restriction aside",
+          "evidence": [
+            {
+              "location": "01:28:43",
+              "quote": "all the good ones would have so yeah and we would be talking like it's not like I'm going to like be like well because it's pal region like we can only talk about days before Christmas or something all right no one uh no one in 200 years is going to sit down and play like super metroid I don't think people in 200 years are going to sit down and play Super Mario Brothers 3 um because like in a realistic"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g030",
+      "canonical_title": "Donkey Kong",
+      "spoken_forms": [
+        "Donkey Kong"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Short understandable historical example for future children",
+          "evidence": [
+            {
+              "location": "01:28:43",
+              "quote": "Relic people are not going to figure out like how to use it or it's going to be like so simple I don't know maybe like the platform is just like so simple that they it just is meaningless to them I'm just going to go with Donkey Kong it has too many important historic firsts the platform of genre represents the 2D era the best of anything it it kicked off narratives more or less basically um boring and and you can kind of get the idea of what it is in"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g031",
+      "canonical_title": null,
+      "spoken_forms": [
+        "VR fragfest"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Imagined future violent VR game, not identified release",
+          "evidence": [
+            {
+              "location": "01:29:43",
+              "quote": "up to like the first uh switch that the the switch I don't know what they're called the exclamation point switch that's like five minutes into the game and be like all right that's enough of that I'm going to go back to VR fragfest where if you lose an arm in the game you lose an arm in real life cuz that's what all the cool kids are playing yeah I don't know this no everyone's Gonna Hate K especially kids are going to hate any video game in 200 years"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g032",
+      "canonical_title": "Matterhorn Screamer!",
+      "spoken_forms": [
+        "matter horn screamer"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Johnny confirms Disney-game purchase",
+          "evidence": [
+            {
+              "location": "01:30:43",
+              "quote": "buying and what are you playing what what am I buying and what am I playing Tyler how dare you ask me that oh how dare you um hey I bought some Disney games remember we did this episode on Disney stuff yeah did you get uh matter horn screamer I sure did nice and I did Mickey's uh space adventure and um hey I got a little Star Wars Jedi fall in order it's like a weird half case it's a digital download code and a coin that was only sold that Best Buy for Jedi fall"
+            }
+          ],
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g033",
+      "canonical_title": "Mickey's Space Adventure",
+      "spoken_forms": [
+        "Mickey's space adventure"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Johnny purchase",
+          "evidence": [
+            {
+              "location": "01:31:44",
+              "quote": "for Star Wars no there was a whole series of them I may have made a list of them about three years ago because I have a sickness um yeah anyways yeah I did buy that like a m horn screamer I bought um uh what's it called Mickey space adventure I bought Mickey in The Great Outdoors which may or may not be the first Mickey game who knows um I I bought Zelda like you may have heard of Zelda I also may have bought Jedi Survivor for the Xbox which I know this is something"
+            }
+          ],
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g034",
+      "canonical_title": "Mickey in the Great Outdoors",
+      "spoken_forms": [
+        "Mickey in The Great Outdoors"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Purchase; earliest-Mickey status explicitly uncertain",
+          "evidence": [
+            {
+              "location": "01:31:44",
+              "quote": "whole series of them I may have made a list of them about three years ago because I have a sickness um yeah anyways yeah I did buy that like a m horn screamer I bought um uh what's it called Mickey space adventure I bought Mickey in The Great Outdoors which may or may not be the first Mickey game who knows um I I bought Zelda like you may have heard of Zelda I also may have bought Jedi Survivor for the Xbox which I know this is something you really want to talk about"
+            }
+          ],
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g035",
+      "canonical_title": "Star Wars Jedi: Fallen Order",
+      "spoken_forms": [
+        "Jedi fall in order"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Xbox One",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Best Buy miniature digital-code-and-coin package bought",
+          "evidence": [
+            {
+              "location": "01:30:43",
+              "quote": "dare you um hey I bought some Disney games remember we did this episode on Disney stuff yeah did you get uh matter horn screamer I sure did nice and I did Mickey's uh space adventure and um hey I got a little Star Wars Jedi fall in order it's like a weird half case it's a digital download code and a coin that was only sold that Best Buy for Jedi fall in order it's like a weird V size case just about it's not a v siiz case but it's about that so it was a"
+            }
+          ],
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g036",
+      "canonical_title": "Star Wars Jedi: Survivor",
+      "spoken_forms": [
+        "Jedi Survivor"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Collector edition Xbox packaging compared with PS5; enjoys playing",
+          "evidence": [
+            {
+              "location": "01:31:44",
+              "quote": "bought um uh what's it called Mickey space adventure I bought Mickey in The Great Outdoors which may or may not be the first Mickey game who knows um I I bought Zelda like you may have heard of Zelda I also may have bought Jedi Survivor for the Xbox which I know this is something you really want to talk about last week Tyler um how and for some reason some for some God forsake and reason the collector's edition sold through limited run game for the PS3"
+            }
+          ],
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g037",
+      "canonical_title": "Final Fantasy Pixel Remaster",
+      "spoken_forms": [
+        "pixel remasters"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Collector edition books and game-packed-separately complaint",
+          "evidence": [
+            {
+              "location": "01:37:49",
+              "quote": "and it comes in like a special box you're just like what so many dumb things with this um hey Tyler do you want another example of a dumb thing that happened just like this hey Final Fantasy uh pixel remasters guess what if you bought the Collector's Edition all that [ __ ] one the Japanese collector's edition got two books and we didn't but we're paying the same price and they got a better book God damn it that sucks also the"
+            }
+          ],
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g038",
+      "canonical_title": "Lightening Force: Quest for the Darkstar",
+      "spoken_forms": [
+        "lightning Force"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Genesis",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Manual bought April9, followed by corrected month-long buying pause",
+          "evidence": [
+            {
+              "location": "01:42:55",
+              "quote": "video game thing since April 9th which is not true because I bought Zelda not true you bought Zelda but just GNA say but I bought Zelda like the day before it came out so I think from April 9th to April 9th I bought the lightning Force manual I think from April 9th to May 9th I did not buy a video game thing and that might be the first time in like a decade that's been the case then I bought hey that's crazy oh hey T before I want to just shout out to"
+            }
+          ],
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g039",
+      "canonical_title": "The Lawnmower Man",
+      "spoken_forms": [
+        "lawn mower man"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": "Genesis",
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Forgotten Freshness purchase",
+          "evidence": [
+            {
+              "location": "01:42:55",
+              "quote": "May 9th I did not buy a video game thing and that might be the first time in like a decade that's been the case then I bought hey that's crazy oh hey T before I want to just shout out to Forgotten Freshness they sold me a lawn mower man for the Genesis that I forgot I also bought oh right cool yeah shout out to Forgotten fres Freshness that guy rules um yeah great love love interacting with them always real good to me um yeah that my my local going to"
+            }
+          ],
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g040",
+      "canonical_title": "Banjo-Kazooie: Nuts & Bolts",
+      "spoken_forms": [
+        "Banjo Kazooie nuts and bolts"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Creative construction comparison for TOTK",
+          "evidence": [
+            {
+              "location": "01:44:57",
+              "quote": "only been playing it like a little bit like it I I have I've not I don't keep up with like modern game trailers and like people analyzing things but like this game is Banjo Kazooie nuts and bolts too which is the craziest thing I think I would ever say about a Zelda game CU Nintendo is a company that does not really take risks and then they took a risk with breath of the wild making it like this really good interest"
+            }
+          ],
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g041",
+      "canonical_title": "Animal Crossing",
+      "spoken_forms": [
+        "Animal Crossing"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Special edition Switch not bought, installment not spoken",
+          "evidence": [
+            {
+              "location": "01:51:04",
+              "quote": "considered that because I'm an insane person um but I didn't uh like I didn't buy the Animal Crossing one I haven't bought any of these other switches I did buy this one and I bought this controller cuz it's Zelda um and you know how I feel about Zelda but did you look at the controller it's ridiculous just one of the handles"
+            }
+          ],
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g042",
+      "canonical_title": null,
+      "spoken_forms": [
+        "Buzz Lightyear Star Star Command shooter"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Uncollectible interactive theme-park attraction, exact ride name uncertain",
+          "evidence": [
+            {
+              "location": "01:56:07",
+              "quote": "and like the things in the back of airplanes oh we had this whole episode on games you can't collect I don't think this even came up cuz I wasn't thinking about this stuff but like the entire ride like whatever you know Buzz Lightyear Star Star Command shooter whatever these these rides are like that's a video game Johnny and you can't CCT it and we didn't we didn't think about y The Toy Story ride at at all the Disney parks that okay so you have one"
+            }
+          ],
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g043",
+      "canonical_title": null,
+      "spoken_forms": [
+        "Toy Story ride"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Screen-based ride compared to Wii game; no home release asserted",
+          "evidence": [
+            {
+              "location": "01:57:07",
+              "quote": "literally you're just in a car and it moves you in front of a screen you are literally they could literally make a switch game out of that yeah it's just a video game and then they move you in front of another screen and it's like a Wii shovelware game and like it's fun obviously CU you're on a ride but it's just a we aware game yeah you could literally play that with one joy conon and"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g044",
+      "canonical_title": "Club Penguin",
+      "spoken_forms": [
+        "Club Penguin"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Recent After Dark member interview about time at game",
+          "evidence": [
+            {
+              "location": "01:58:08",
+              "quote": "content that we do we do something called an after dark episode and they are just uh Tyler and I talking about whatever or me talking to uh our most recent one was me talking to a member of our Discord about his time at Club Penguin so if you like stuff like that or Tyler and I rating movies and fighting um yeah that that's what you get for that extra $2 and that's at patreon.com colorquest and that's it"
+            }
+          ],
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g045",
+      "canonical_title": "Super Smash Bros.",
+      "spoken_forms": [
+        "Super Smash Brothers"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Genre comparison for Super Tilt Bro.",
+          "evidence": [
+            {
+              "location": "00:41:51",
+              "quote": "and they'll just flip it um yep but speaking of uh super tilt bro is on Kickstarter right now that's a game I played a very old version of a few years ago but now it's like this full-fledged NES party fighting game like Super Smash Brothers and has built-in Wi-Fi in the cartridge so if you don't keep up on home RW that's like a really cool one like built-in internet play NES game and it's a really good game so uh I don't"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq222-g046",
+      "canonical_title": "Magic: The Gathering",
+      "spoken_forms": [
+        "Magic the Gathering"
+      ],
+      "entity_granularity": "tabletop_game",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Metal dice initially used as counters",
+          "evidence": [
+            {
+              "location": "01:04:14",
+              "quote": "on Kickstarter like I would get excited like that Johnny and I'd have no one to talk about it with cuz cuz who there's no metal die collecting community no I this all came about because I used metal dice as counters and Magic the Gathering just cuz metal feels cool and I'm like man these really feel cool I want more of these and because of my brain it turned into I want all of these God our brain our brains are the worst to us yeah just the [ __ ] why why"
+            }
+          ],
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    }
+  ],
+  "lore": [
+    {
+      "id": "cq222-l001",
+      "kind": "disagreement",
+      "summary": "Tyler values visible production investment but objects to screen-heavy attractions; Johnny defends themed dark rides.",
+      "topics": [
+        "theme parks",
+        "host preferences"
+      ],
+      "evidence": [
+        {
+          "location": "00:18:24",
+          "quote": "always bring this up like when I was playing The Last of Us two more than anything the feel that hits me is like how much [ __ ] money was spent to make this game and you do get a lot of that at Disney which is pretty delightful so what Universal like they're finally starting to do with"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l002",
+      "kind": "show_discussion",
+      "summary": "Hosts explicitly disclaim psychology expertise; record their collecting analogies, not clinical authority.",
+      "topics": [
+        "psychology",
+        "scope"
+      ],
+      "evidence": [
+        {
+          "location": "00:20:28",
+          "quote": "we're talking about now this is like crazy so someone who's like actually knows about psychology is going to be like man remember that time collector's Quest like butchered psychology uh Johnny uh hold on uh full warning we are not psychologists and we just read [ __ ] on the internet talk about like the hierarchy of needs by that guy and the narcissism of Minor Details you're basically a psychologist uh yeah look uh I understand a few things I I went I've done"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l003",
+      "kind": "anecdote",
+      "summary": "Tyler keeps searches for obscure Japanese games he no longer remembers, describing perceived competition.",
+      "topics": [
+        "scarcity",
+        "saved searches"
+      ],
+      "evidence": [
+        {
+          "location": "00:23:30",
+          "quote": "you're competing against others that may not even be there you might be the only person searching for it but this [ __ ] starts to happen to you um and this is all part of scarcity principle Johnny I've got like Japanese save searches for like games I don't even remember what they are anymore just because I have like so much like random stuff where it's just like oh man that's like some rare famicom game like I got to just have a save search just in case"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l004",
+      "kind": "correction",
+      "summary": "Johnny retracts homebrew example and means unauthorized Japanese translations; preserves distinction from original paid software.",
+      "topics": [
+        "homebrew",
+        "reproductions"
+      ],
+      "evidence": [
+        {
+          "location": "00:24:30",
+          "quote": "they're just like oh that's all there is even though anyone could go burn the romen put it in a shell and it would be just as valid but uh don't say that home RS are not free software not not not free but you know it's I homebrew is the wrong example like uh what I meant that sorry Homebrew people I meant like translations of Japanese games uh you know uh you're you're like Secret of Mana yeah just all this [ __ ] now like number it and they're like look at what we did"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l005",
+      "kind": "interpretation",
+      "summary": "Discussion describes unavailability increasing desire beyond initial interest.",
+      "topics": [
+        "scarcity",
+        "FOMO"
+      ],
+      "evidence": [
+        {
+          "location": "00:22:30",
+          "quote": "this podcast or something um and you're like oh yeah I'm going to go look it up and then it's like not available and then you start to get a little obsessive about like oh I now before it was just kind of interesting and now you really want it now it's like oh and they talked about it and now maybe other people want it too and now I really need to go get it and then you feel like"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l006",
+      "kind": "interpretation",
+      "summary": "Sealed auction prices presented as anchors; manipulation allegations not independently established.",
+      "topics": [
+        "anchoring",
+        "sealed market"
+      ],
+      "evidence": [
+        {
+          "location": "00:31:41",
+          "quote": "Heritage auctions where you know in 2019 2020 a game will come up for sale sealed not obviously not for the first time at the first time in this you know new crazy sealed market and you know you'd see a [ __ ] twisted metal a Tomb Raider like an okay condition Tomb Raider on Playstation sell for $100,000 and then all of a sudden people are talking about like oh man Tomb Raider is the game this this version of Tomb Raider is the game out of [ __ ] nowhere"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l007",
+      "kind": "correction",
+      "summary": "Reissue quantity corrected to 8,500; this is an episode claim requiring outside verification.",
+      "topics": [
+        "reissues",
+        "print quantities"
+      ],
+      "evidence": [
+        {
+          "location": "00:38:46",
+          "quote": "have the MSRP anchored in their mind they're like well I don't want to sell it for too much less than $100 cuz that's what I spent for it so uh so first off I'm going to make some corrections oh okay it was 8 there was 8,500 of them 7500 uh were opaque white and that other"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l008",
+      "kind": "correction",
+      "summary": "Reissue sellout assumption corrected against then-current store availability.",
+      "topics": [
+        "reissues",
+        "availability"
+      ],
+      "evidence": [
+        {
+          "location": "00:39:49",
+          "quote": "thousand were the glow-in-the-dark blue ones whoa scarcity yep uh also you could still buy them on IMA right now okay I thought they sold out maybe we were celebrating that Mega Man 2 eventually sold out oh like because remember they did the whole turn where they went to Best Buy and everything they even had a part"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l009",
+      "kind": "joke",
+      "summary": "Suggestion to relabel unsold 30th-anniversary cartridges as 35th-anniversary variants is a joke.",
+      "topics": [
+        "reissues",
+        "variants"
+      ],
+      "evidence": [
+        {
+          "location": "00:40:49",
+          "quote": "listens to this podcast I have uh the perfect idea for you so these cartridges were the 30th anniversary of something probably Mega Man um so there's a big emblem that says 30th Anniversary put a sticker over it that says 35th Anniversary and sell them as a variant yeah more someone will buy it like you'll have like what a 100 repeat customers at least it'll be really funny I think that is a take not a lot of money and they will get a return out of that idea"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l010",
+      "kind": "interpretation",
+      "summary": "Refusal to sell a replaceable copy illustrates attachment, with search/shipping effort raised as alternative explanation.",
+      "topics": [
+        "endowment effect",
+        "attachment"
+      ],
+      "evidence": [
+        {
+          "location": "00:43:55",
+          "quote": "probably a nice Super Metroid on eBay and someone could offer me I don't know $800 for my Super Metroid I'm sure that would be enough to go out and buy another nice Super Metroid and profit from it even with my time span I still wouldn't sell my Super Metroid um I don't know if that's the endowment effect or just me"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l011",
+      "kind": "anecdote",
+      "summary": "Tyler distinguishes personal willingness-to-sell price from market value.",
+      "topics": [
+        "collection value",
+        "attachment"
+      ],
+      "evidence": [
+        {
+          "location": "00:44:56",
+          "quote": "we talked about what we would sell our collections for and what did you say yeah I think I said $2 million but Johnny of course that's gone up because I've acquired more stuff since we recorded that right and to be clear my collection is not worth anywhere near $2 million right I mean who knows maybe is to you don't know you got some of those really scarce items um from Japan that you eventually track down maybe maybe got it's gone up I I don't know anyways but that's that's kind of what"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l012",
+      "kind": "interpretation",
+      "summary": "Private search effort and sentimental attachment do not necessarily command buyer premium.",
+      "topics": [
+        "sentiment",
+        "market value"
+      ],
+      "evidence": [
+        {
+          "location": "00:48:58",
+          "quote": "but if you were selling it that doesn't matter to anyone else the the fact that it took you I don't know four years to find the right like copy in this condition of the game does not matter if the market says well if it's an8 out of 10 condition this it sells for this much money like your copy is what it's worth to the market there's sentimental value and whatever time you put into it that's beyond just the"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l013",
+      "kind": "interpretation",
+      "summary": "Tyler sharpens sunk-cost definition: continued investment despite path no longer making sense.",
+      "topics": [
+        "sunk cost",
+        "set collecting"
+      ],
+      "evidence": [
+        {
+          "location": "00:51:59",
+          "quote": "are just going to be like I don't care that's Sun cost fallacy get out of here with that uh Johnny you missed my favorite part of the definition which is uh you'll continue investing time money and effort into the thing even if it no longer makes sense to do so because that's really what it is it's not just that you have put a lot of effort into this thing which makes you want to put more effort into it it's that you have continued down a path that no longer like if you"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l014",
+      "kind": "anecdote",
+      "summary": "Tyler describes transition from pursuing every homebrew to selective interest.",
+      "topics": [
+        "homebrew",
+        "changing interests"
+      ],
+      "evidence": [
+        {
+          "location": "00:56:06",
+          "quote": "juxtaposition uh of self-identity God damn that sounds like some real psychology Johnny um I was I was going to say um a really good example of this for me uh you know like I love NES Homebrew but there was a time like I was super deep into it and buying every single release um and like I I'm over that phase of being into everything but like there was a transition period where it was really hard to go from buying"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l015",
+      "kind": "anecdote",
+      "summary": "Tyler says identity and FOMO prolonged buying after interests shifted; at episode time none sold.",
+      "topics": [
+        "homebrew",
+        "identity"
+      ],
+      "evidence": [
+        {
+          "location": "00:57:07",
+          "quote": "keep buying all this Homebrew because like like I got the fomo and I feel like I'm not going to be the guy if I'm not buying all the Homebrew and it took me a really long time to get over that um and I've still of course sold none of it because of all these other things we're talking about but uh yeah shifting interest is really hard Johnny um another great example is uh get the Greg games uh famous YouTuber who I think you've probably never even watched"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l016",
+      "kind": "disagreement",
+      "summary": "Johnny challenges Tyler's assumption N64 is easier for everyone to divest; others have different attachment.",
+      "topics": [
+        "NES",
+        "N64",
+        "divestment"
+      ],
+      "evidence": [
+        {
+          "location": "00:58:08",
+          "quote": "NES like the biggest Nintendo console over [ __ ] Nintendo 64 it is so easy to sell the Nintendo 64 set and just keep you know your Mario your Zelda and your banjo kazui or whatever I mean for us no for anyone no Tyler some people the n6 for thing yes sure but so I I'm still going to say it is easier to sell the the garbage sports games chaff from N64 than it is to even sell the garbage sports games chaff from NES cuz I just look at"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l017",
+      "kind": "anecdote",
+      "summary": "Tyler's discontinued metal-dice hobby included exhaustive checklist and unsuccessful suburban forge experiment.",
+      "topics": [
+        "metal dice",
+        "completionism"
+      ],
+      "evidence": [
+        {
+          "location": "01:02:11",
+          "quote": "Johnny do you know how hard I was into metal dice like 10 years ago think crazy with video games I think I was the person in the world like checklist spreadsheet of every like commercial metal die that was ever released I bought a forge to make my own metal dice this was a terrible experiment not really something you could do in a suburb forges turn out to be really loud um but yeah like I don't give a [ __ ] about Metal dice anymore but because I this"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l018",
+      "kind": "anecdote",
+      "summary": "Metal dice interest began as tactile Magic counters and expanded into attempted exhaustive collecting.",
+      "topics": [
+        "metal dice",
+        "Magic the Gathering"
+      ],
+      "evidence": [
+        {
+          "location": "01:04:14",
+          "quote": "new metal die on Kickstarter like I would get excited like that Johnny and I'd have no one to talk about it with cuz cuz who there's no metal die collecting community no I this all came about because I used metal dice as counters and Magic the Gathering just cuz metal feels cool and I'm like man these really feel cool I want more of these and because of my brain it turned into I want all of these God our brain our brains are the worst to us yeah just the [ __ ] why why"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l019",
+      "kind": "open_loop",
+      "summary": "Johnny requests dice photos and spreadsheet in Patreon; delivery not established here.",
+      "topics": [
+        "metal dice",
+        "community"
+      ],
+      "evidence": [
+        {
+          "location": "01:03:12",
+          "quote": "it's worth $4 if I put it up on an eBay no Reserve auction like I just can't sell it for that so uh please do us a favor and in the patreon please post pictures of your dice collection okay I would like to see it I would also love to see a spreadsheet I've got a couple of metal dice here Tyler I wonder if you have them uh if they came out like before 2013 like I guarantee I do uh"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l020",
+      "kind": "interpretation",
+      "summary": "Remembered lower prices can discourage future buying even when circumstances change.",
+      "topics": [
+        "loss aversion",
+        "price memory"
+      ],
+      "evidence": [
+        {
+          "location": "01:09:19",
+          "quote": "finding something that goes up in value that is the cool thing to have and another example of that is and this happens in collecting all the time you have an idea you have price memory of what the item is and you're like that's $50 and then it's like $200 and you're like H it's I can't and then you're like I'll never buy it even if it continues to go up in price because you're like oh that loss like oh"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l021",
+      "kind": "interpretation",
+      "summary": "Hypothetical losing inventory illustrates opportunity cost of refusing realized losses; not actual purchase or investment recommendation.",
+      "topics": [
+        "loss aversion",
+        "inventory"
+      ],
+      "evidence": [
+        {
+          "location": "01:12:22",
+          "quote": "seen that seller um so try not to be them but if you are them I I understand and something you have to consider with loss of version is the opportunity cost of not just realizing a loss so if you in invested $22,000 in death Loop Deluxe editions for the PS5 which currently sell for $10 brand new uh like that that money is never coming back and it might only continue to go down so yes you will take whatever 80% loss by selling that but if you just hold on"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l022",
+      "kind": "show_discussion",
+      "summary": "Johnny confirms completed Wii set amid joking criticism of sunk cost.",
+      "topics": [
+        "Wii",
+        "set collecting"
+      ],
+      "evidence": [
+        {
+          "location": "01:15:26",
+          "quote": "including you cares about but you just keep doing it cuz you're like yeah but I have these 900 Wii games whoops I I think I've made a mistake Tyler do I'm I'm sorry for forgetting have you completed the Wii set I did okay I did I did complete it yeah me I'm sorry that you did that uh not me Tyler look at my sweet collection do you know how much time I have invested in this Tyler I couldn't possibly stop Johnny I think I do have an idea of how much time you have"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l023",
+      "kind": "open_loop",
+      "summary": "Hosts invite feedback on further psychology episodes; not a dated production commitment.",
+      "topics": [
+        "psychology",
+        "future episodes"
+      ],
+      "evidence": [
+        {
+          "location": "01:16:29",
+          "quote": "talk about like collectible PS3 games yeah do you want more look I mean I like that we have a variety of episode types that we like to go to and I like you know I like to throw in the psychology episode once in a while but we have a whole list of more that we could talk about so if this was interesting for you uh we have more uh all right cool they're going to be like get an actual psychologist on the show guys what are you doing okay Tyler uh now that we've got through"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l024",
+      "kind": "host_opinion",
+      "summary": "Tyler describes giving positive or no feedback to avoid conflict, not recommending all sellers receive positive.",
+      "topics": [
+        "feedback",
+        "conflict avoidance"
+      ],
+      "evidence": [
+        {
+          "location": "01:17:31",
+          "quote": "question because if you're dealing with me if anything goes right you get positive feedback and if it's like the worst experience in the world you get no feedback so that's me I'm I'm the guy I want no conflict whatsoever I won't give my Uber driver four stars so I will proba this is probably a no feedback situation for me because I don't want to ding them but I'm also not positive on them and I don't I feel like neutrals are actually negatives so um neutrals are negatives yeah"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l025",
+      "kind": "anecdote",
+      "summary": "Johnny describes a counterfeit mono-CD purchase with responsive refund, subsequently no feedback.",
+      "topics": [
+        "counterfeits",
+        "returns"
+      ],
+      "evidence": [
+        {
+          "location": "01:18:34",
+          "quote": "minute anything like this is the worst thing cuz I just had this happen um and I had to return something Tower a thing I don't love doing but I just bought a CD set I know what a CD set but it was specifically uh The Beatles mono CDs and there's a lot of fakes of those um and I just wanted it to have the whole mono set I was just going to rip them and and then like store them where all the other dead CDs went but uh there was like $75 or $80 or something"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l026",
+      "kind": "anecdote",
+      "summary": "Tyler recalls boxed Oracle pair mailed in bubble envelope despite box request; seller focused on playability.",
+      "topics": [
+        "shipping",
+        "condition"
+      ],
+      "evidence": [
+        {
+          "location": "01:20:36",
+          "quote": "we'll see how this winds up I've had a couple of people I don't I really don't like try to make a fuss over things if people [ __ ] up even but uh you know sometimes like uh one particular in my head is I bought the the Zelda Oracle games on Game Boy Color and at the time it was like probably like $300 for the pair maybe $200 like those are expensive games they're complete and box Card War Zelda games and they shipped in a bubble mailer and I specifically"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l027",
+      "kind": "disagreement",
+      "summary": "Johnny supports proportionate negative feedback more readily than Tyler despite shared conflict avoidance.",
+      "topics": [
+        "feedback",
+        "consumer protection"
+      ],
+      "evidence": [
+        {
+          "location": "01:22:38",
+          "quote": "get into that but I would rather not I like my hope and desire is that every go thing goes smoothly and I never have to speak to you like Tyler you're like I don't ever want to talk to anyone me too the difference is is I will more often if I have to um and my have to level is uh closer to the surface than yours see you you say feedback is a valuable tool but I think there are a lot of people like me who just like won't give negative feedback even if it is like on like"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l028",
+      "kind": "host_opinion",
+      "summary": "Proposes configurable automatic feedback; historical platform comparison, not current policy.",
+      "topics": [
+        "feedback",
+        "marketplaces"
+      ],
+      "evidence": [
+        {
+          "location": "01:24:39",
+          "quote": "something in you can um about multiple areas I wish eBay would do that just like okay we're going to assume or I'll let you put in in an assumption like if I don't give feedback for these items within 30 days please default to this feedback I I would love a system like that um and I mean I think what you said were like if you see negative feedback it means there were probably 10 people who didn't give negative feedback and I mean yes that is kind of the way"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l029",
+      "kind": "show_discussion",
+      "summary": "Speculative 200-year-future question weighs historical importance and immediate accessibility, not best collectible edition.",
+      "topics": [
+        "history",
+        "2D games"
+      ],
+      "evidence": [
+        {
+          "location": "01:28:43",
+          "quote": "Relic people are not going to figure out like how to use it or it's going to be like so simple I don't know maybe like the platform is just like so simple that they it just is meaningless to them I'm just going to go with Donkey Kong it has too many important historic firsts the platform of genre represents the 2D era the best of anything it it kicked off narratives more or less basically um boring and and you can kind of get the idea of what it is in"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l030",
+      "kind": "host_opinion",
+      "summary": "Johnny reports Xbox Jedi Survivor game packed outside collector box while PS5 packed inside, after comparing unboxings.",
+      "topics": [
+        "collector editions",
+        "packaging"
+      ],
+      "evidence": [
+        {
+          "location": "01:34:47",
+          "quote": "didn't know why I was doing it and then I'm like all right I'm going to watch this unboxing video of it sure enough the PS5 one is in the bottom of the [ __ ] box next to the certificate and the steelbook built in so the Xbox version comes outside the collector's edition a thing I hate the PS5 version is packed in I don't know why Tyler I don't know why it's different I checked multiple videos what the f um Johnny uh I'm going to have to tell Dan gz to plug his ears"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l031",
+      "kind": "host_opinion",
+      "summary": "Brainstorm bigger steelbook holding regular game case as solution to duplicate packaging.",
+      "topics": [
+        "steelbooks",
+        "packaging"
+      ],
+      "evidence": [
+        {
+          "location": "01:39:52",
+          "quote": "package you know 4 million PlayStation games at once yeah like please start making steelbooks bigger than the actual games and that way I can just put the whole case of the game like don't leave a space for the cartridge leave a space for the regular case in the steelbook that's what I want now oh that's a better idea cuz that gives the regular case a reason to exist have it like Snap in so when you open it it opens both of them Johnny that's such a good [ __ ]"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l032",
+      "kind": "host_opinion",
+      "summary": "Johnny enjoys Jedi Survivor; Tyler's negative YouTube-face line explicitly precedes admission of no knowledge.",
+      "topics": [
+        "Jedi Survivor",
+        "playing"
+      ],
+      "evidence": [
+        {
+          "location": "01:41:53",
+          "quote": "anyways it's all very frustrating Johnny I saw some YouTube face videos about Jedi Survivor I know nothing about that game but I know it's it's garbage and you shouldn't play it so just don't even worry about that one no it's really good I'm enjoying it okay um yeah I literally know nothing about it uh all right what what' you buy what' you play Johnny I think for maybe the first time since"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l033",
+      "kind": "correction",
+      "summary": "Tyler immediately qualifies claim of no purchases since April 9, narrowing gap to approximately April 9–May 9.",
+      "topics": [
+        "buying habits"
+      ],
+      "evidence": [
+        {
+          "location": "01:42:55",
+          "quote": "not even be true but like 2013 2014 when I was like pretty deep into to pinball restoration and competitive pinball I I had video game collecting on the back burner but I have not bought a video game thing since April 9th which is not true because I bought Zelda not true you bought Zelda but just GNA say but I bought Zelda like the day before it came out so I think from April 9th to April 9th I bought the lightning Force manual I think from April 9th to May 9th I did not buy a video"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l034",
+      "kind": "anecdote",
+      "summary": "Tyler bought standard and special editions motivated by separate retail/not-for-resale variants.",
+      "topics": [
+        "edition variants",
+        "Zelda"
+      ],
+      "evidence": [
+        {
+          "location": "01:43:55",
+          "quote": "college but what you what did you play cuz you also played Zelda yeah Johnny I bought I bought Zelda twice cuz I had to get the regular version and the special edition um because with breath of the wild the case that came in the special edition was a not for resale case and I need both versions Johnny I'm really happy there's"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l035",
+      "kind": "host_opinion",
+      "summary": "Tyler enjoys improvised puzzle solutions that feel unintended.",
+      "topics": [
+        "Tears of the Kingdom",
+        "construction"
+      ],
+      "evidence": [
+        {
+          "location": "01:46:59",
+          "quote": "you three logs and the correct motor and like something to keep you straight and you just have to obviously put it together the way they want you to put together kind of 2/3 of the things that I'm building are just like super janky and it feels like I wasn't supposed to solve puzzles that way but that's like a really exciting way to solve puzzles in games like if you feel like you didn't solve it the correct way that's how developers should make you"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l036",
+      "kind": "host_opinion",
+      "summary": "Johnny dislikes crafting and expresses reservations before playing, not a completed-game verdict.",
+      "topics": [
+        "Tears of the Kingdom",
+        "crafting"
+      ],
+      "evidence": [
+        {
+          "location": "01:45:58",
+          "quote": "I don't want to make a salad okay I don't want to cook a fish I just I want to Adventure through [ __ ] temples okay I don't want to have to craft items I don't like it you're not going to like this game Johnny got this feeling that it's like can I"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l037",
+      "kind": "host_opinion",
+      "summary": "Tyler praises artistic design while criticizing technical performance; quoted frame rates are personal estimates.",
+      "topics": [
+        "Tears of the Kingdom",
+        "performance"
+      ],
+      "evidence": [
+        {
+          "location": "01:49:02",
+          "quote": "and they just gave me my frames Johnny I want my frames do does the switch OLED one uh does that have better performance at all did they make I don't think it I would have bought one like even if like is even like slightly better just because newer chips or anything that's what"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l038",
+      "kind": "correction",
+      "summary": "Hosts check and resolve OLED-performance question within conversation; transcript claim not independent specification check.",
+      "topics": [
+        "Switch OLED",
+        "hardware"
+      ],
+      "evidence": [
+        {
+          "location": "01:49:02",
+          "quote": "like even if like is even like slightly better just because newer chips or anything that's what I don't know I mean is it I mean I don't think it's going to help bre uh tear of the Kingdom's problems uh yeah no it says it doesn't have performance improvements and I only play on a TV so it doesn't matter okay yeah uh I mean I I got the controller I'm excited to uh not open my switch Pro Controller because it has a white handle uh just a pro tip uh white handles are the worst please"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l039",
+      "kind": "host_opinion",
+      "summary": "Johnny dislikes Zelda Pro Controller's single white handle despite buying for Zelda association.",
+      "topics": [
+        "Zelda",
+        "controller design"
+      ],
+      "evidence": [
+        {
+          "location": "01:51:04",
+          "quote": "Animal Crossing one I haven't bought any of these other switches I did buy this one and I bought this controller cuz it's Zelda um and you know how I feel about Zelda but did you look at the controller it's ridiculous just one of the handles is just white PE you know yeah I don't like it but I'm not a special edition controller guy I would take black or you know blue and red joycons you know [ __ ] joycons I don't like joycons at all I don't even know why I'm considering"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l040",
+      "kind": "open_loop",
+      "summary": "Johnny intends to play Zelda after finishing Jedi Survivor to avoid switching games.",
+      "topics": [
+        "playing",
+        "Jedi Survivor",
+        "Zelda"
+      ],
+      "evidence": [
+        {
+          "location": "01:54:07",
+          "quote": "collectible Chach keis you should you should just play the game it's really good I I am going to play the game eventually uh once I finish Jedi Survivor I don't want to bounce around um all right I understand I'm just I'm so annoyed it like I can't I can't believe more people aren't annoyed by this also like everyone who like rushed out to buy the the special edition console"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l041",
+      "kind": "show_discussion",
+      "summary": "Ride-shooter games suggested as omitted angle from earlier uncollectible-games episode; source episode unidentified.",
+      "topics": [
+        "interactive rides",
+        "uncollectible games"
+      ],
+      "evidence": [
+        {
+          "location": "01:56:07",
+          "quote": "at the end uh so these are these arcade games what do these count as um I don't know like I know Joe wants to figure out what these are called and like the things in the back of airplanes oh we had this whole episode on games you can't collect I don't think this even came up cuz I wasn't thinking about this stuff but like the entire ride like whatever you know Buzz Lightyear Star Star Command shooter whatever these these rides are like that's a video game Johnny"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq222-l042",
+      "kind": "show_discussion",
+      "summary": "Tyler refers to Default Jen-like Discord username; transcript spelling uncertain, not invented cohost persona canon.",
+      "topics": [
+        "Default Jen",
+        "Discord"
+      ],
+      "evidence": [
+        {
+          "location": "01:58:08",
+          "quote": "and I'm still on there so uh you can find me on the Discord I guess I don't know what my username maybe it's default gen did they take out the numbers already I know they're taking out the numbers no it looks like I still have numbers so good luck figuring out which default gen I am yeah so if you want to make it easier on yourself and you"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    }
+  ],
+  "corrections": [],
+  "topic_coverage": [
+    {
+      "topic": "collecting psychology",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "00:20:28",
+        "00:42:54",
+        "00:49:58",
+        "01:06:16"
+      ]
+    },
+    {
+      "topic": "collector edition packaging",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "01:31:44",
+        "01:37:49"
+      ]
+    },
+    {
+      "topic": "feedback and returns",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "01:17:31",
+        "01:20:36"
+      ]
+    },
+    {
+      "topic": "Tears of the Kingdom",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "01:43:55",
+        "01:46:59",
+        "01:48:00"
+      ]
+    },
+    {
+      "topic": "changing collecting interests",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "00:56:06",
+        "01:02:11"
+      ]
+    },
+    {
+      "topic": "interactive rides",
+      "depth": "SUPPORTING_EXAMPLE",
+      "locations": [
+        "01:56:07"
+      ]
+    }
+  ],
+  "related_episodes": [],
+  "review_queue": [
+    {
+      "id": "cq222-review01",
+      "priority": "medium",
+      "reason": "Translation example may intend a different game; preserve spoken title and correction.",
+      "evidence": [
+        {
+          "location": "00:24:30",
+          "quote": "home RS are not free software not not not free but you know it's I homebrew is the wrong example like uh what I meant that sorry Homebrew people I meant like translations of Japanese games uh you know uh you're you're like Secret of Mana yeah just all this [ __ ] now like number it and they're like look at what we did um number like all the time walk games and people like oh my God they only made so many and then like what will happen is people will perceive"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq222-review02",
+      "priority": "medium",
+      "reason": "Tetris edition unclear; do not infer Tengen from stutter.",
+      "evidence": [
+        {
+          "location": "00:30:40",
+          "quote": "latched onto it and we all just keep pretending that's real hey what are some other games that we uh used to just say were rare and just went with it like uh Tetris remember Tetris we've talked about that a million times T Tetris T yeah like oh yeah oh it's rare uh you know and then all these other games uh crop up around it we go oh I guess those are rare now too no no things things are just normalizing as more information as becoming apparent but"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq222-review03",
+      "priority": "medium",
+      "reason": "Jedi Survivor platform caption says PS3, later clearly PS5; require correction linkage.",
+      "evidence": [
+        {
+          "location": "01:31:44",
+          "quote": "Survivor for the Xbox which I know this is something you really want to talk about last week Tyler um how and for some reason some for some God forsake and reason the collector's edition sold through limited run game for the PS3 and"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq222-review04",
+      "priority": "medium",
+      "reason": "Pixel Remaster platform immediately corrected to PS4.",
+      "evidence": [
+        {
+          "location": "01:37:49",
+          "quote": "book God damn it that sucks also the game's not packed in mine just came in a a bubble mailer inside of the shipping box uh uh which was really stupid I was like oh also you [ __ ] up if you bought the switch version the PS5 version is the or the PS4 version is more collectible and more expensive on the secondary Market already that's interesting but I guess I mean I associate Square more with with Sony so it kind of makes sense but also those games are Nintendo games"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq222-review05",
+      "priority": "medium",
+      "reason": "Mixed-speaker future-game discussion; individual choices need audio attribution.",
+      "evidence": [
+        {
+          "location": "01:26:40",
+          "quote": "are they even going to know what like video signals were in 200 years I don't know but like let's just pretend we had to recommend one game to uh represent the the 2D era I'm going Mario 3 H I don't know I mean Mario 3 is like one of the best representations of the 2dr and like it's like one of the most complete with game mechanics and stuff it's really hard to think what uh what would even be playable in"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq222-review06",
+      "priority": "medium",
+      "reason": "Exact interactive ride identity unresolved.",
+      "evidence": [
+        {
+          "location": "01:56:07",
+          "quote": "and like the things in the back of airplanes oh we had this whole episode on games you can't collect I don't think this even came up cuz I wasn't thinking about this stuff but like the entire ride like whatever you know Buzz Lightyear Star Star Command shooter whatever these these rides are like that's a video game Johnny and you can't CCT it and we didn't we didn't think about y The Toy Story ride at at all the Disney parks that okay so you have one"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq222-review07",
+      "priority": "medium",
+      "reason": "Discord alias spelling needs verification before linking to fictional Jen canon.",
+      "evidence": [
+        {
+          "location": "01:58:08",
+          "quote": "and I'm still on there so uh you can find me on the Discord I guess I don't know what my username maybe it's default gen did they take out the numbers already I know they're taking out the numbers no it looks like I still have numbers so good luck figuring out which default gen I am yeah so if you want to make it easier on yourself and you"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    }
+  ],
+  "exclusions": [
+    "Do not treat jokes, hypothetical scenarios, unverified prices or psychological interpretations as established facts."
+  ]
+}

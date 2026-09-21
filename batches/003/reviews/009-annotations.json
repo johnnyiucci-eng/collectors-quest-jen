@@ -1,0 +1,1967 @@
+{
+  "schema_version": "1",
+  "review_status": "A1-A6 authored; A7-A8 integration pending",
+  "note": "Same-agent full captured-source review, not audio verification or live rehearsal.",
+  "episodes": [
+    {
+      "source_key": "sc-236603975",
+      "source_sha256": "68e5be56c5b25130831008678d96f774d0659e5b017ad7391cb2d7d71a1de869",
+      "mapping_status": "complete",
+      "review_note": "All 24 paragraphs read and accounted; 30 source-first reference buckets reconciled. Unresolved identities are retained, not omitted.",
+      "spans": [
+        {
+          "id": "cq009-span-001-1",
+          "entity_id": "cq009-g001",
+          "title": "Kickle Cubicle",
+          "game_refs": [
+            "cq009-g001"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 1",
+          "end_exclusive": "Paragraph 2",
+          "reason": "Preview only. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 1",
+              "quote": "Him Spotlight"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-001-2",
+          "entity_id": "cq009-g001",
+          "title": "Kickle Cubicle",
+          "game_refs": [
+            "cq009-g001"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "SUBSTANTIAL_COVERAGE",
+          "start": "Paragraph 2",
+          "end_exclusive": "Paragraph 8",
+          "reason": "Spotlight: price, mechanics, alternatives, difficulty and animated vegetables. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 2",
+              "quote": "My game for today is more reasonably priced"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-001-3",
+          "entity_id": "cq009-g001",
+          "title": "Kickle Cubicle",
+          "game_refs": [
+            "cq009-g001"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 19",
+          "end_exclusive": "Paragraph 20",
+          "reason": "Retrospective segment-name reference. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 19",
+              "quote": "Kikkel Cubicle"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-002-1",
+          "entity_id": "cq009-g002",
+          "title": "Tetris",
+          "game_refs": [
+            "cq009-g002"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 3",
+          "end_exclusive": "Paragraph 4",
+          "reason": "Puzzle archetype. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 3",
+              "quote": "Tetris"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-002-2",
+          "entity_id": "cq009-g002",
+          "title": "Tetris",
+          "game_refs": [
+            "cq009-g002"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 4",
+          "end_exclusive": "Paragraph 6",
+          "reason": "Mixed-host negative taste comparison; no particular release. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 4",
+              "quote": "I’m really not a Tetris fan"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-003-1",
+          "entity_id": "cq009-g003",
+          "title": "Dr. Mario",
+          "game_refs": [
+            "cq009-g003"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 3",
+          "end_exclusive": "Paragraph 4",
+          "reason": "Puzzle archetype. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 3",
+              "quote": "Dr. Mario"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-003-2",
+          "entity_id": "cq009-g003",
+          "title": "Dr. Mario",
+          "game_refs": [
+            "cq009-g003"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 4",
+          "end_exclusive": "Paragraph 6",
+          "reason": "Contextual Johnny reports difficulty and family teasing; Kat also dislikes the style. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 4",
+              "quote": "I look at it left to right instead of up and down"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-003-3",
+          "entity_id": "cq009-g003",
+          "title": "Dr. Mario",
+          "game_refs": [
+            "cq009-g003"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 6",
+          "end_exclusive": "Paragraph 7",
+          "reason": "Alternative-puzzle wrap-up. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 6",
+              "quote": "Doctor Mario"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-004-1",
+          "entity_id": "cq009-g004",
+          "title": "Chip’s Challenge",
+          "game_refs": [
+            "cq009-g004"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 3",
+          "end_exclusive": "Paragraph 4",
+          "reason": "Kat's remembered comparison; Johnny unfamiliar. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 3",
+              "quote": "loosely of Chip’s Challenge"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-004-2",
+          "entity_id": "cq009-g004",
+          "title": "Chip’s Challenge",
+          "game_refs": [
+            "cq009-g004"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 6",
+          "end_exclusive": "Paragraph 7",
+          "reason": "Unfamiliarity and comparative limits, not Johnny's gameplay. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 6",
+              "quote": "I’ve never heard of Chips Challenge"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-005-1",
+          "entity_id": "cq009-g005",
+          "title": "Dr. Luigi",
+          "game_refs": [
+            "cq009-g005"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 4",
+          "end_exclusive": "Paragraph 5",
+          "reason": "Wife's possession, not Johnny's purchase. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 4",
+              "quote": "She has Dr. Luigi"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-006-1",
+          "entity_id": "cq009-g006",
+          "title": "Lolo — title/series unresolved",
+          "game_refs": [
+            "cq009-g006"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "unresolved",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 5",
+          "end_exclusive": "Paragraph 7",
+          "reason": "Base title or series unspecific; limited play and tentative comparison. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 5",
+              "quote": "I haven’t played a whole lot of Lolo"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-007-1",
+          "entity_id": "cq009-g007",
+          "title": "Adventures of Lolo 2",
+          "game_refs": [
+            "cq009-g007"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 6",
+          "end_exclusive": "Paragraph 7",
+          "reason": "Numbered sequel price comparison, no detailed review. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 6",
+              "quote": "as you get to like two and three, Lolo"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-008-1",
+          "entity_id": "cq009-g008",
+          "title": "Adventures of Lolo 3",
+          "game_refs": [
+            "cq009-g008"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 6",
+          "end_exclusive": "Paragraph 7",
+          "reason": "Numbered sequel price comparison, no detailed review. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 6",
+              "quote": "as you get to like two and three, Lolo"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-009-1",
+          "entity_id": "cq009-g009",
+          "title": "Final Fantasy VII",
+          "game_refs": [
+            "cq009-g009"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 8",
+          "end_exclusive": "Paragraph 11",
+          "reason": "Original as purchase motivation and combat/world comparator. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "This the game I bought a PlayStation for"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-009-2",
+          "entity_id": "cq009-g009",
+          "title": "Final Fantasy VII",
+          "game_refs": [
+            "cq009-g009"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 13",
+          "end_exclusive": "Paragraph 14",
+          "reason": "Personal long-play memory, not exact verified playtime. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 13",
+              "quote": "You could log 100 hours"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-009-3",
+          "entity_id": "cq009-g009",
+          "title": "Final Fantasy VII",
+          "game_refs": [
+            "cq009-g009"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 15",
+          "end_exclusive": "Paragraph 17",
+          "reason": "Original flaws, long summon animations and retained story affection. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 15",
+              "quote": "Final Fantasy VII by no means was a perfect game"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-009-4",
+          "entity_id": "cq009-g009",
+          "title": "Final Fantasy VII",
+          "game_refs": [
+            "cq009-g009"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 17",
+          "end_exclusive": "Paragraph 18",
+          "reason": "Series preference boundary. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 17",
+              "quote": "end of Final Fantasy 7"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-010-1",
+          "entity_id": "cq009-g010",
+          "title": "Final Fantasy VII Remake",
+          "game_refs": [
+            "cq009-g010"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 1",
+          "end_exclusive": "Paragraph 2",
+          "reason": "Preview. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 1",
+              "quote": "Final Fantasy 7 remake"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-010-2",
+          "entity_id": "cq009-g010",
+          "title": "Final Fantasy VII Remake",
+          "game_refs": [
+            "cq009-g010"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "SUBSTANTIAL_COVERAGE",
+          "start": "Paragraph 8",
+          "end_exclusive": "Paragraph 20",
+          "reason": "2015 pre-release reaction: episodic/combat/art concerns, speculative prices and intended first-entry play; not a played review. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "There’s also no turn based combat"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-011-1",
+          "entity_id": "cq009-g011",
+          "title": "Final Fantasy",
+          "game_refs": [
+            "cq009-g011"
+          ],
+          "entity_kind": "game_series",
+          "identity_granularity": "series",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 8",
+          "end_exclusive": "Paragraph 10",
+          "reason": "Opinion and regional-numbering examples, not universal consensus. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "Final Fantasy games have gotten much worse"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-011-2",
+          "entity_id": "cq009-g011",
+          "title": "Final Fantasy",
+          "game_refs": [
+            "cq009-g011"
+          ],
+          "entity_kind": "game_series",
+          "identity_granularity": "series",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 17",
+          "end_exclusive": "Paragraph 19",
+          "reason": "Preferences, unnamed handheld remakes and disappointment; no per-installment expansion. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 17",
+              "quote": "I love Final Fantasy series"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-011-3",
+          "entity_id": "cq009-g011",
+          "title": "Final Fantasy",
+          "game_refs": [
+            "cq009-g011"
+          ],
+          "entity_kind": "game_series",
+          "identity_granularity": "series",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 20",
+          "end_exclusive": "Paragraph 21",
+          "reason": "Frequently posted franchise example. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 20",
+              "quote": "Final Fantasy"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-012-1",
+          "entity_id": "cq009-g012",
+          "title": "Final Fantasy VIII",
+          "game_refs": [
+            "cq009-g012"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 8",
+          "end_exclusive": "Paragraph 9",
+          "reason": "Dismissive preference, not sustained coverage. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "some people say eight"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-012-2",
+          "entity_id": "cq009-g012",
+          "title": "Final Fantasy VIII",
+          "game_refs": [
+            "cq009-g012"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 17",
+          "end_exclusive": "Paragraph 18",
+          "reason": "Explicit strong dislike within series comparison. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 17",
+              "quote": "Final Fantasy 8. I was just like, wow, I hate this"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-013-1",
+          "entity_id": "cq009-g013",
+          "title": "Final Fantasy IX",
+          "game_refs": [
+            "cq009-g013"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 8",
+          "end_exclusive": "Paragraph 9",
+          "reason": "Brief preference example. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "Some people kind of like nine"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-013-2",
+          "entity_id": "cq009-g013",
+          "title": "Final Fantasy IX",
+          "game_refs": [
+            "cq009-g013"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 17",
+          "end_exclusive": "Paragraph 18",
+          "reason": "Qualified exception. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 17",
+              "quote": "nine I was okay with"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-014-1",
+          "entity_id": "cq009-g014",
+          "title": "Final Fantasy X",
+          "game_refs": [
+            "cq009-g014"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 8",
+          "end_exclusive": "Paragraph 9",
+          "reason": "Opinion, not verified franchise consensus. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "at 10, it like definitely goes off the rails"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-015-1",
+          "entity_id": "cq009-g015",
+          "title": "Final Fantasy X-2",
+          "game_refs": [
+            "cq009-g015"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 8",
+          "end_exclusive": "Paragraph 9",
+          "reason": "Rapid numbered list. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "10 and 10, two"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-016-1",
+          "entity_id": "cq009-g016",
+          "title": "Final Fantasy XI",
+          "game_refs": [
+            "cq009-g016"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 8",
+          "end_exclusive": "Paragraph 9",
+          "reason": "Rapid list; unnamed online PS2 play kept separately unresolved. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "11 and 12 and 14"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-017-1",
+          "entity_id": "cq009-g017",
+          "title": "Final Fantasy XII",
+          "game_refs": [
+            "cq009-g017"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 8",
+          "end_exclusive": "Paragraph 9",
+          "reason": "Rapid list. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "11 and 12 and 14"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-017-2",
+          "entity_id": "cq009-g017",
+          "title": "Final Fantasy XII",
+          "game_refs": [
+            "cq009-g017"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 17",
+          "end_exclusive": "Paragraph 18",
+          "reason": "Partial-play report and dislike, not completion. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 17",
+              "quote": "I got through most of 12"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-018-1",
+          "entity_id": "cq009-g018",
+          "title": "Final Fantasy XIV",
+          "game_refs": [
+            "cq009-g018"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 8",
+          "end_exclusive": "Paragraph 9",
+          "reason": "Rapid list. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "11 and 12 and 14"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-018-2",
+          "entity_id": "cq009-g018",
+          "title": "Final Fantasy XIV",
+          "game_refs": [
+            "cq009-g018"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 9",
+          "end_exclusive": "Paragraph 10",
+          "reason": "Hearsay positive online-game report, explicit numbering uncertainty. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 9",
+              "quote": "I don’t know if that’s 14"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-019-1",
+          "entity_id": "cq009-g019",
+          "title": "Final Fantasy XIII",
+          "game_refs": [
+            "cq009-g019"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 9",
+          "end_exclusive": "Paragraph 10",
+          "reason": "Rapid list continuation. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 9",
+              "quote": "13 and the"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-020-1",
+          "entity_id": "cq009-g020",
+          "title": "Final Fantasy VI",
+          "game_refs": [
+            "cq009-g020"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 9",
+          "end_exclusive": "Paragraph 10",
+          "reason": "Explicit VI/US III alias relationship; favorite-example claim. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 9",
+              "quote": "six is the Japanese numbering"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-021-1",
+          "entity_id": "cq009-g021",
+          "title": "Final Fantasy IV",
+          "game_refs": [
+            "cq009-g021"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 9",
+          "end_exclusive": "Paragraph 10",
+          "reason": "Explicit IV/US II alias; favorite and contrast with episodic add-on. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 9",
+              "quote": "Final Fantasy two or four in Japan"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-021-2",
+          "entity_id": "cq009-g021",
+          "title": "Final Fantasy IV",
+          "game_refs": [
+            "cq009-g021"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 18",
+          "end_exclusive": "Paragraph 19",
+          "reason": "iPad playthrough distinct from original regional numbering. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 18",
+              "quote": "I even played through Final Fantasy 2 or 4 on the iPad"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-022-1",
+          "entity_id": "cq009-g022",
+          "title": "Final Fantasy IV: The After Years",
+          "game_refs": [
+            "cq009-g022"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 9",
+          "end_exclusive": "Paragraph 10",
+          "reason": "Disliked episodic extra-content experience; raw platform wording PSP and Wii U is not verified. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 9",
+              "quote": "the after years"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-023-1",
+          "entity_id": "cq009-g023",
+          "title": "The Legend of Zelda",
+          "game_refs": [
+            "cq009-g023"
+          ],
+          "entity_kind": "game_series",
+          "identity_granularity": "series",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 20",
+          "end_exclusive": "Paragraph 21",
+          "reason": "Frequently posted franchise, not a specific release. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 20",
+              "quote": "Zelda"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-024-1",
+          "entity_id": "cq009-g024",
+          "title": "Castlevania",
+          "game_refs": [
+            "cq009-g024"
+          ],
+          "entity_kind": "game_series",
+          "identity_granularity": "series",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 20",
+          "end_exclusive": "Paragraph 21",
+          "reason": "Frequently posted franchise. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 20",
+              "quote": "Castlevania"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-025-1",
+          "entity_id": "cq009-g025",
+          "title": "Metroid",
+          "game_refs": [
+            "cq009-g025"
+          ],
+          "entity_kind": "game_series",
+          "identity_granularity": "series",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 20",
+          "end_exclusive": "Paragraph 21",
+          "reason": "Frequently posted franchise. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 20",
+              "quote": "Metroid"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-026-1",
+          "entity_id": "cq009-g026",
+          "title": "Star Wars",
+          "game_refs": [
+            "cq009-g026"
+          ],
+          "entity_kind": "game_series",
+          "identity_granularity": "series",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 21",
+          "end_exclusive": "Paragraph 22",
+          "reason": "Countdown-post project, specific games unnamed; not equal time for each franchise game. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 21",
+              "quote": "a Star Wars game that I’ve played"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-027-1",
+          "entity_id": "cq009-g027",
+          "title": "Harvest Moon — installment unresolved",
+          "game_refs": [
+            "cq009-g027"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "unresolved",
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 21",
+          "end_exclusive": "Paragraph 22",
+          "reason": "Kat's recent find, subtitle/platform/price unspoken. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 21",
+              "quote": "that Harvest Moon was a especially nice find"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-028-1",
+          "entity_id": "cq009-g028",
+          "title": "Final Fantasy — Canadian red-band edition unresolved",
+          "game_refs": [
+            "cq009-g028"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "unresolved",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 22",
+          "end_exclusive": "Paragraph 24",
+          "reason": "Canadian bilingual/red-band package discussion; exact installment unspoken. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 22",
+              "quote": "the final fantasy that has the red band on top"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-029-1",
+          "entity_id": "cq009-g029",
+          "title": "Jurassic Park",
+          "game_refs": [
+            "cq009-g029"
+          ],
+          "entity_kind": "game_series",
+          "identity_granularity": "series",
+          "role": "JOKE_ASIDE",
+          "start": "Paragraph 23",
+          "end_exclusive": "Paragraph 24",
+          "reason": "Hypothetical specialist guest example, not an actual collector count. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 23",
+              "quote": "500 Jurassic Park games"
+            }
+          ]
+        },
+        {
+          "id": "cq009-span-030-1",
+          "entity_id": "cq009-g030",
+          "title": "Final Fantasy online PS2 title unresolved",
+          "game_refs": [
+            "cq009-g030"
+          ],
+          "entity_kind": "video_game",
+          "identity_granularity": "unresolved",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 18",
+          "end_exclusive": "Paragraph 19",
+          "reason": "Actual attempted play; candidate XI not silently resolved from outside knowledge. Paragraph coverage, not measured speech time.",
+          "evidence": [
+            {
+              "location": "Paragraph 18",
+              "quote": "online version on the PS2"
+            }
+          ]
+        }
+      ],
+      "section_accounting": [
+        {
+          "location": "Paragraph 1",
+          "status": "read_and_accounted",
+          "summary": "Named hosts, preview and studio banter."
+        },
+        {
+          "location": "Paragraph 2",
+          "status": "read_and_accounted",
+          "summary": "Spotlight framing and historical cartridge price."
+        },
+        {
+          "location": "Paragraph 3",
+          "status": "read_and_accounted",
+          "summary": "Kickle mechanics, Tetris/Dr. Mario archetypes, Chip comparison."
+        },
+        {
+          "location": "Paragraph 4",
+          "status": "read_and_accounted",
+          "summary": "Kickle mechanics, puzzle dislikes, Dr. Mario trouble and wife's Dr. Luigi."
+        },
+        {
+          "location": "Paragraph 5",
+          "status": "read_and_accounted",
+          "summary": "Dr. Mario teasing; Kickle difficulty and tentative Lolo comparison."
+        },
+        {
+          "location": "Paragraph 6",
+          "status": "read_and_accounted",
+          "summary": "Limited Lolo play; Chip comparator; Lolo2/3 price aside."
+        },
+        {
+          "location": "Paragraph 7",
+          "status": "read_and_accounted",
+          "summary": "Kickle discovery, animated vegetables and uncertain release date."
+        },
+        {
+          "location": "Paragraph 8",
+          "status": "read_and_accounted",
+          "summary": "Remake concern; original VII console motivation; numbered FF list."
+        },
+        {
+          "location": "Paragraph 9",
+          "status": "read_and_accounted",
+          "summary": "Numbering, online uncertainty, favorites and After Years."
+        },
+        {
+          "location": "Paragraph 10",
+          "status": "read_and_accounted",
+          "summary": "Original exploration/ownership and remake concerns."
+        },
+        {
+          "location": "Paragraph 11",
+          "status": "read_and_accounted",
+          "summary": "Speculative motives/monetization; no transaction."
+        },
+        {
+          "location": "Paragraph 12",
+          "status": "read_and_accounted",
+          "summary": "Unknown parts/prices; attributed publisher statement."
+        },
+        {
+          "location": "Paragraph 13",
+          "status": "read_and_accounted",
+          "summary": "Original long-play memory and time constraints."
+        },
+        {
+          "location": "Paragraph 14",
+          "status": "read_and_accounted",
+          "summary": "Adult gaming time and visual criticism."
+        },
+        {
+          "location": "Paragraph 15",
+          "status": "read_and_accounted",
+          "summary": "Visual quibble, possible positive outcome, original affection."
+        },
+        {
+          "location": "Paragraph 16",
+          "status": "read_and_accounted",
+          "summary": "Original summon joke; future remake play intention."
+        },
+        {
+          "location": "Paragraph 17",
+          "status": "read_and_accounted",
+          "summary": "Speculative pricing; VIII/IX/XII taste and partial XII play."
+        },
+        {
+          "location": "Paragraph 18",
+          "status": "read_and_accounted",
+          "summary": "Online PS2 attempt, remakes, iPad IV; future review avoidance."
+        },
+        {
+          "location": "Paragraph 19",
+          "status": "read_and_accounted",
+          "summary": "Fair-shot intention, unknown release date, spotlight return."
+        },
+        {
+          "location": "Paragraph 20",
+          "status": "read_and_accounted",
+          "summary": "Spotlight policy; generic franchise examples."
+        },
+        {
+          "location": "Paragraph 21",
+          "status": "read_and_accounted",
+          "summary": "Countdown projects, Kat additions and Harvest Moon find."
+        },
+        {
+          "location": "Paragraph 22",
+          "status": "read_and_accounted",
+          "summary": "Christmas/collection jokes; Canadian boxes/red-band FF."
+        },
+        {
+          "location": "Paragraph 23",
+          "status": "read_and_accounted",
+          "summary": "Bilingual packaging, signoff, hypothetical specialist guest."
+        },
+        {
+          "location": "Paragraph 24",
+          "status": "read_and_accounted",
+          "summary": "Closing music; no game reference."
+        }
+      ],
+      "span_review": {
+        "paragraphs_read": 24,
+        "existing_game_ids_represented": 30,
+        "new_reference_ids": 0,
+        "method": "Full-source manual inventory then same-agent omission, role and identity reconciliation; not independent."
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "cq009-action-01",
+      "source_key": "sc-236603975",
+      "source_sha256": "68e5be56c5b25130831008678d96f774d0659e5b017ad7391cb2d7d71a1de869",
+      "title": "Kickle Cubicle",
+      "action_state": "played",
+      "summary": "Kat reports trying the game before discovering animated vegetables.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 7",
+          "quote": "it wasn’t until I started playing"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq009-action-02",
+      "source_key": "sc-236603975",
+      "source_sha256": "68e5be56c5b25130831008678d96f774d0659e5b017ad7391cb2d7d71a1de869",
+      "title": "Lolo — exact title unresolved",
+      "action_state": "played",
+      "summary": "Limited play, no particular release or completion.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 6",
+          "quote": "I’ve played Lolo some"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq009-action-03",
+      "source_key": "sc-236603975",
+      "source_sha256": "68e5be56c5b25130831008678d96f774d0659e5b017ad7391cb2d7d71a1de869",
+      "title": "Dr. Mario",
+      "action_state": "played",
+      "summary": "Contextual Johnny reports being made to play; wife/friend teasing, no purchase.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 4",
+          "quote": "they sometimes will make me play Dr. Mario"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq009-action-04",
+      "source_key": "sc-236603975",
+      "source_sha256": "68e5be56c5b25130831008678d96f774d0659e5b017ad7391cb2d7d71a1de869",
+      "title": "Dr. Luigi",
+      "action_state": "owned",
+      "summary": "Possession belongs to Johnny's wife, not the reporter.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "subject": "Johnny's wife",
+      "evidence": [
+        {
+          "location": "Paragraph 4",
+          "quote": "She has Dr. Luigi"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq009-action-05",
+      "source_key": "sc-236603975",
+      "source_sha256": "68e5be56c5b25130831008678d96f774d0659e5b017ad7391cb2d7d71a1de869",
+      "title": "Dr. Mario",
+      "action_state": "played",
+      "summary": "Wife's gameplay skill report; not Johnny's achievement.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "subject": "Johnny's wife",
+      "evidence": [
+        {
+          "location": "Paragraph 4",
+          "quote": "my wife is very good at it"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq009-action-06",
+      "source_key": "sc-236603975",
+      "source_sha256": "68e5be56c5b25130831008678d96f774d0659e5b017ad7391cb2d7d71a1de869",
+      "title": "PlayStation console",
+      "action_state": "purchased",
+      "summary": "Hardware bought because of original FFVII, not proof of a new FFVII purchase here.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 8",
+          "quote": "This the game I bought a PlayStation for"
+        }
+      ],
+      "entity_type": "console"
+    },
+    {
+      "id": "cq009-action-07",
+      "source_key": "sc-236603975",
+      "source_sha256": "68e5be56c5b25130831008678d96f774d0659e5b017ad7391cb2d7d71a1de869",
+      "title": "Final Fantasy VII — about five versions",
+      "action_state": "owned",
+      "summary": "Approximate count; editions not individually enumerated.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 10",
+          "quote": "I own like five versions of Final Fantasy seven"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq009-action-08",
+      "source_key": "sc-236603975",
+      "source_sha256": "68e5be56c5b25130831008678d96f774d0659e5b017ad7391cb2d7d71a1de869",
+      "title": "Final Fantasy VII",
+      "action_state": "played",
+      "summary": "Recalled extended past play, jokingly hedged hours.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 13",
+          "quote": "I gave to Final Fantasy 7 instead"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq009-action-09",
+      "source_key": "sc-236603975",
+      "source_sha256": "68e5be56c5b25130831008678d96f774d0659e5b017ad7391cb2d7d71a1de869",
+      "title": "Final Fantasy IV: The After Years",
+      "action_state": "played",
+      "summary": "Played disliked additions; exact package/platform uncertain.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 9",
+          "quote": "I hated playing episodic, like extra additions of that"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq009-action-10",
+      "source_key": "sc-236603975",
+      "source_sha256": "68e5be56c5b25130831008678d96f774d0659e5b017ad7391cb2d7d71a1de869",
+      "title": "Final Fantasy VII Remake — first episode",
+      "action_state": "wanted",
+      "summary": "Intended future play only; no order/purchase/receipt or actual gameplay.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 16",
+          "quote": "I’m gonna play the first episode at least"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq009-action-11",
+      "source_key": "sc-236603975",
+      "source_sha256": "68e5be56c5b25130831008678d96f774d0659e5b017ad7391cb2d7d71a1de869",
+      "title": "Final Fantasy XII",
+      "action_state": "played",
+      "summary": "Partial progress, not completed.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 17",
+          "quote": "I got through most of 12"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq009-action-12",
+      "source_key": "sc-236603975",
+      "source_sha256": "68e5be56c5b25130831008678d96f774d0659e5b017ad7391cb2d7d71a1de869",
+      "title": "Final Fantasy online PS2 — title unresolved",
+      "action_state": "played",
+      "summary": "Attempted online play; preserve unnamed title.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 18",
+          "quote": "I even did that for a little while"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq009-action-13",
+      "source_key": "sc-236603975",
+      "source_sha256": "68e5be56c5b25130831008678d96f774d0659e5b017ad7391cb2d7d71a1de869",
+      "title": "Final Fantasy IV — iPad version",
+      "action_state": "played",
+      "summary": "Reported playthrough, exact edition not supplied.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 18",
+          "quote": "I even played through Final Fantasy 2 or 4 on the iPad"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq009-action-14",
+      "source_key": "sc-236603975",
+      "source_sha256": "68e5be56c5b25130831008678d96f774d0659e5b017ad7391cb2d7d71a1de869",
+      "title": "Final Fantasy handheld remakes — unspecified",
+      "action_state": "played",
+      "summary": "Collective DS/Game Boy remake appreciation; do not enumerate unseen purchases.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 18",
+          "quote": "I’ve played through these games a lot"
+        }
+      ],
+      "entity_type": "unidentified_lot"
+    },
+    {
+      "id": "cq009-action-15",
+      "source_key": "sc-236603975",
+      "source_sha256": "68e5be56c5b25130831008678d96f774d0659e5b017ad7391cb2d7d71a1de869",
+      "title": "Star Wars games — unspecified",
+      "action_state": "played",
+      "summary": "Games used in countdown, titles unstated.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 21",
+          "quote": "a Star Wars game that I’ve played"
+        }
+      ],
+      "entity_type": "unidentified_lot"
+    },
+    {
+      "id": "cq009-action-16",
+      "source_key": "sc-236603975",
+      "source_sha256": "68e5be56c5b25130831008678d96f774d0659e5b017ad7391cb2d7d71a1de869",
+      "title": "Recent local games — unspecified",
+      "action_state": "owned",
+      "summary": "Reported additions; no transaction enumeration.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 21",
+          "quote": "new things that I’ve been adding to the collection"
+        }
+      ],
+      "entity_type": "unidentified_lot"
+    },
+    {
+      "id": "cq009-action-17",
+      "source_key": "sc-236603975",
+      "source_sha256": "68e5be56c5b25130831008678d96f774d0659e5b017ad7391cb2d7d71a1de869",
+      "title": "Harvest Moon — installment unresolved",
+      "action_state": "owned",
+      "summary": "Recent collection/find exchange supports contextual acquisition, not paid price or edition.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "subject": "Kat",
+      "evidence": [
+        {
+          "location": "Paragraph 21",
+          "quote": "that Harvest Moon was a especially nice find"
+        }
+      ],
+      "entity_type": "game"
+    },
+    {
+      "id": "cq009-action-18",
+      "source_key": "sc-236603975",
+      "source_sha256": "68e5be56c5b25130831008678d96f774d0659e5b017ad7391cb2d7d71a1de869",
+      "title": "Canadian Mattel boxes",
+      "action_state": "wanted",
+      "summary": "Welcomed hypothetical gifts, not receipt or purchase.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 22",
+          "quote": "that’d be awesome. I love Mattel boxes"
+        }
+      ],
+      "entity_type": "packaging"
+    },
+    {
+      "id": "cq009-action-19",
+      "source_key": "sc-236603975",
+      "source_sha256": "68e5be56c5b25130831008678d96f774d0659e5b017ad7391cb2d7d71a1de869",
+      "title": "Canadian red-band releases",
+      "action_state": "wanted",
+      "summary": "Hypothetical welcome; no specific transaction.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named Johnny/Kat opening and dialogue continuity; undiarized text, not audio-verified."
+      },
+      "subject": "Johnny",
+      "evidence": [
+        {
+          "location": "Paragraph 22",
+          "quote": "Or any of the Canadian releases that have the red band on top"
+        }
+      ],
+      "entity_type": "packaging"
+    }
+  ],
+  "overrides": [],
+  "new_games": [],
+  "task_cases": [
+    {
+      "id": "batch003-cq009-spotlight",
+      "episode": 9,
+      "question": "Why did Kat recommend Kickle Cubicle, and did vegetables make her choose it?",
+      "query": "Kickle Cubicle animated vegetables puzzle",
+      "speaker": "Kat",
+      "answer": "Kat recommends Kickle Cubicle as a different puzzle option, loosely reminiscent of Chip’s Challenge. She says it gets hard as it progresses and only discovered the animated vegetables after starting to play; the hosts then joke about giving it an A for animated vegetables. This is Kat's recommendation, not Tyler's.",
+      "expected": "Kat recommends Kickle Cubicle as a different puzzle option, loosely reminiscent of Chip’s Challenge. She says it gets hard as it progresses and only discovered the animated vegetables after starting to play; the hosts then joke about giving it an A for animated vegetables. This is Kat's recommendation, not Tyler's.",
+      "evidence_locations": [
+        "Paragraph 3",
+        "Paragraph 5",
+        "Paragraph 7"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "loosely of Chip’s Challenge"
+        },
+        {
+          "location": "Paragraph 5",
+          "quote": "It does get, I find, quite hard"
+        },
+        {
+          "location": "Paragraph 7",
+          "quote": "Actually, I found out after"
+        },
+        {
+          "location": "Paragraph 7",
+          "quote": "A for animated vegetables"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 3",
+            "quote": "loosely of Chip’s Challenge"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 5",
+            "quote": "It does get, I find, quite hard"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 7",
+            "quote": "Actually, I found out after"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 7",
+            "quote": "A for animated vegetables"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Tyler recommended it",
+        "She chose it knowing about vegetables",
+        "Current price verified"
+      ],
+      "review_result": "Same-agent complete-answer source adjudication: 4 supported checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch003-cq009-remake",
+      "episode": 9,
+      "question": "What were Johnny's remake concerns, and had he already played it?",
+      "query": "Final Fantasy VII Remake episodes combat first episode",
+      "speaker": "Johnny",
+      "answer": "In this 2015 episode, Johnny dislikes the expected lack of turn-based combat, visual style and episodic structure. He nevertheless allows that it may be great and intends to play at least the first episode. This is a pre-release reaction and an open follow-up, not a purchase receipt or review of completed remake gameplay.",
+      "expected": "In this 2015 episode, Johnny dislikes the expected lack of turn-based combat, visual style and episodic structure. He nevertheless allows that it may be great and intends to play at least the first episode. This is a pre-release reaction and an open follow-up, not a purchase receipt or review of completed remake gameplay.",
+      "evidence_locations": [
+        "Paragraph 15",
+        "Paragraph 16",
+        "Paragraph 18"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 15",
+          "quote": "I don’t like the lack of turn-based combat. I don’t like the visual look. I don’t like it being broken into episodes"
+        },
+        {
+          "location": "Paragraph 15",
+          "quote": "maybe, maybe it’ll be great"
+        },
+        {
+          "location": "Paragraph 16",
+          "quote": "I’m gonna play the first episode at least"
+        },
+        {
+          "location": "Paragraph 18",
+          "quote": "interested to hear your follow up"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 15",
+            "quote": "I don’t like the lack of turn-based combat. I don’t like the visual look. I don’t like it being broken into episodes"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 15",
+            "quote": "maybe, maybe it’ll be great"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 16",
+            "quote": "I’m gonna play the first episode at least"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 18",
+            "quote": "interested to hear your follow up"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Remake completed or purchased",
+        "Firm boycott",
+        "Part/price predictions confirmed"
+      ],
+      "review_result": "Same-agent complete-answer source adjudication: 4 supported checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch003-cq009-numbering",
+      "episode": 9,
+      "question": "How does the episode distinguish regional Final Fantasy numbers and After Years?",
+      "query": "Final Fantasy six three four two after years",
+      "speaker": "Johnny",
+      "answer": "Johnny explicitly pairs Japanese VI with US III on Super Nintendo, and IV with US II. He calls IV a favorite but says he hated playing its episodic extra additions associated with The After Years. Those aliases do not establish separate games for each number; the raw PSP/Wii U wording is not independently verified platform history.",
+      "expected": "Johnny explicitly pairs Japanese VI with US III on Super Nintendo, and IV with US II. He calls IV a favorite but says he hated playing its episodic extra additions associated with The After Years. Those aliases do not establish separate games for each number; the raw PSP/Wii U wording is not independently verified platform history.",
+      "evidence_locations": [
+        "Paragraph 9"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 9",
+          "quote": "six is the Japanese numbering. Three is what it was here in America on the Super Nintendo"
+        },
+        {
+          "location": "Paragraph 9",
+          "quote": "Final Fantasy two or four in Japan"
+        },
+        {
+          "location": "Paragraph 9",
+          "quote": "Final Fantasy four is one of my favorite games"
+        },
+        {
+          "location": "Paragraph 9",
+          "quote": "I hated playing episodic, like extra additions"
+        },
+        {
+          "location": "Paragraph 9",
+          "quote": "on the PSP and the Wii U"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 9",
+            "quote": "six is the Japanese numbering. Three is what it was here in America on the Super Nintendo"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 9",
+            "quote": "Final Fantasy two or four in Japan"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 9",
+            "quote": "Final Fantasy four is one of my favorite games"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 9",
+            "quote": "I hated playing episodic, like extra additions"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 9",
+            "quote": "on the PSP and the Wii U"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Regional labels are separate games in this passage",
+        "Platform history verified",
+        "New After Years purchase"
+      ],
+      "review_result": "Same-agent complete-answer source adjudication: 5 supported checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch003-cq009-actions",
+      "episode": 9,
+      "question": "What collection and play facts are supported for Johnny's Final Fantasy discussion?",
+      "query": "Final Fantasy five versions PlayStation most of 12 iPad",
+      "speaker": "Johnny",
+      "answer": "Johnny says original Final Fantasy VII motivated his PlayStation purchase and that he owns about five versions of VII. He reports getting through most of XII, not finishing it, and playing through IV on iPad. None of these statements establishes buying or receiving the upcoming VII remake.",
+      "expected": "Johnny says original Final Fantasy VII motivated his PlayStation purchase and that he owns about five versions of VII. He reports getting through most of XII, not finishing it, and playing through IV on iPad. None of these statements establishes buying or receiving the upcoming VII remake.",
+      "evidence_locations": [
+        "Paragraph 8",
+        "Paragraph 10",
+        "Paragraph 17",
+        "Paragraph 18"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 8",
+          "quote": "This the game I bought a PlayStation for"
+        },
+        {
+          "location": "Paragraph 10",
+          "quote": "I own like five versions of Final Fantasy seven"
+        },
+        {
+          "location": "Paragraph 17",
+          "quote": "I got through most of 12"
+        },
+        {
+          "location": "Paragraph 18",
+          "quote": "I even played through Final Fantasy 2 or 4 on the iPad"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 8",
+            "quote": "This the game I bought a PlayStation for"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 10",
+            "quote": "I own like five versions of Final Fantasy seven"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 17",
+            "quote": "I got through most of 12"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 18",
+            "quote": "I even played through Final Fantasy 2 or 4 on the iPad"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Five editions enumerated",
+        "XII completed",
+        "Remake purchased"
+      ],
+      "review_result": "Same-agent complete-answer source adjudication: 4 supported checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch003-cq009-puzzle",
+      "episode": 9,
+      "question": "What was Johnny's Dr. Mario problem, and whose Dr. Luigi was mentioned?",
+      "query": "Dr. Mario left right Dr. Luigi wife",
+      "speaker": "Johnny",
+      "answer": "Johnny contextually explains that he reads Dr. Mario left-to-right instead of up-and-down, and says his wife and a friend sometimes make him play so they can laugh at his approach. The Dr. Luigi possession belongs to his wife, not to Johnny as a buyer. This is a playful personal report, not a diagnosis or purchase evidence.",
+      "expected": "Johnny contextually explains that he reads Dr. Mario left-to-right instead of up-and-down, and says his wife and a friend sometimes make him play so they can laugh at his approach. The Dr. Luigi possession belongs to his wife, not to Johnny as a buyer. This is a playful personal report, not a diagnosis or purchase evidence.",
+      "evidence_locations": [
+        "Paragraph 4"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 4",
+          "quote": "I look at it left to right instead of up and down"
+        },
+        {
+          "location": "Paragraph 4",
+          "quote": "my wife and one of my good friends, they sometimes will make me play Dr. Mario so they can laugh at me"
+        },
+        {
+          "location": "Paragraph 4",
+          "quote": "She has Dr. Luigi"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 4",
+            "quote": "I look at it left to right instead of up and down"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 4",
+            "quote": "my wife and one of my good friends, they sometimes will make me play Dr. Mario so they can laugh at me"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 4",
+            "quote": "She has Dr. Luigi"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Johnny bought Dr. Luigi",
+        "Tyler's anecdote",
+        "Diagnosed condition"
+      ],
+      "review_result": "Same-agent complete-answer source adjudication: 3 supported checkpoints; integrated retrieval pending."
+    },
+    {
+      "id": "batch003-cq009-limits",
+      "episode": 9,
+      "question": "Can the episode identify Kat's Harvest Moon edition and certify the spotlight's current price?",
+      "query": "Harvest Moon Kickle price hidden gems",
+      "speaker": "Kat",
+      "answer": "No Harvest Moon installment, platform or price is supplied in the recent-find exchange. For Kickle Cubicle, Kat quotes a historical cartridge-only eBay range of $12–20 and says local prices can be lower. The hosts frame the spotlight as offering options, not hidden-gem hype or an attempt to raise prices; this does not certify a current market price.",
+      "expected": "No Harvest Moon installment, platform or price is supplied in the recent-find exchange. For Kickle Cubicle, Kat quotes a historical cartridge-only eBay range of $12–20 and says local prices can be lower. The hosts frame the spotlight as offering options, not hidden-gem hype or an attempt to raise prices; this does not certify a current market price.",
+      "evidence_locations": [
+        "Paragraph 21",
+        "Paragraph 2",
+        "Paragraph 20"
+      ],
+      "evidence": [
+        {
+          "location": "Paragraph 21",
+          "quote": "that Harvest Moon was a especially nice find"
+        },
+        {
+          "location": "Paragraph 2",
+          "quote": "anywhere from $12 to $20"
+        },
+        {
+          "location": "Paragraph 2",
+          "quote": "That’s card only"
+        },
+        {
+          "location": "Paragraph 2",
+          "quote": "I have seen it locally cheaper"
+        },
+        {
+          "location": "Paragraph 20",
+          "quote": "we’re not trying to make anything more expensive"
+        }
+      ],
+      "material_claims": [
+        {
+          "claim_number": 1,
+          "evidence": {
+            "location": "Paragraph 21",
+            "quote": "that Harvest Moon was a especially nice find"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 2,
+          "evidence": {
+            "location": "Paragraph 2",
+            "quote": "anywhere from $12 to $20"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 3,
+          "evidence": {
+            "location": "Paragraph 2",
+            "quote": "That’s card only"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 4,
+          "evidence": {
+            "location": "Paragraph 2",
+            "quote": "I have seen it locally cheaper"
+          },
+          "source_supported": true
+        },
+        {
+          "claim_number": 5,
+          "evidence": {
+            "location": "Paragraph 20",
+            "quote": "we’re not trying to make anything more expensive"
+          },
+          "source_supported": true
+        }
+      ],
+      "forbidden": [
+        "Specific Harvest Moon installment",
+        "Current verified valuation",
+        "Price manipulation goal"
+      ],
+      "review_result": "Same-agent complete-answer source adjudication: 5 supported checkpoints; integrated retrieval pending."
+    }
+  ]
+}

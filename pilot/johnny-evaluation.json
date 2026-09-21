@@ -1,0 +1,48 @@
+{
+  "version": "0.1",
+  "received": "2026-09-12",
+  "purpose": "Johnny-supplied evaluation questions, separate from the 25 development questions. Do not use these to select episodes, guide extraction, or search for answers before evaluation.",
+  "independence_limit": "The coordinating assistant saw the questions before extraction. Evaluation-stage lexical lookups were run only after all ten draft extractions were created. Expected answers have not been supplied; no accuracy score can be assigned.",
+  "coverage_rule": "Evaluate against the declared processed corpus. If supporting episodes are outside the ten-episode pilot, report scope uncertainty and defer full-archive recall evaluation; do not treat missing pilot coverage as proof of no show coverage.",
+  "questions": [
+    {
+      "id": "johnny-q01",
+      "question": "What is the best version of super mario 3 to collect?",
+      "expected_answer": null,
+      "status": "evaluated_partial_unscored",
+      "evaluation_notes": "Interpret as a CQ archive question. Preserve the speaker, date, criteria and edition distinctions behind any recommendation; do not substitute a generic current recommendation.",
+      "observed_result": {
+        "candidate": "Left-Bros SMB3",
+        "support": [
+          "CQ 263 00:43:05",
+          "CQ 263 00:45:11"
+        ],
+        "qualification": "Supports a conditional buying opinion, not an established universal best edition. CQ 300's auction aside also tempers hype. Attribution remains contextual."
+      }
+    },
+    {
+      "id": "johnny-q02",
+      "question": "What are two rare japanese only games Tyler bought?",
+      "expected_answer": null,
+      "status": "evaluated_insufficient_evidence_unscored",
+      "evaluation_notes": "Support both game identities, the purchase attribution to Tyler, and the regional-exclusivity claim independently. A mention alone does not establish a purchase.",
+      "observed_result": {
+        "qualification": "Broad lexical lookup returns collecting and purchase leads but does not establish both intended games plus Tyler purchase and Japanese-only release scope. Do not substitute unrelated purchases or guesses."
+      }
+    },
+    {
+      "id": "johnny-q03",
+      "question": "WHat is a weird virtual boy game Johnny talked about in a Halloween episode?",
+      "expected_answer": null,
+      "status": "evaluated_insufficient_evidence_unscored",
+      "evaluation_notes": "Support game identity, platform, Halloween episode context and Johnny attribution. Isolate speaker uncertainty if the transcript does not establish it.",
+      "observed_result": {
+        "qualification": "Broad query returned false-positive Game Boy material. Requiring the complete Virtual Boy phrase isolates unrelated set discussion in CQ 200, not a supported Halloween-game answer. Pilot miss is not archive absence."
+      }
+    }
+  ],
+  "retrieval_findings": [
+    "Phrase and speaker-candidate filters added after the first evaluation lookup; this is a development repair, not an untouched holdout result.",
+    "No expected answers were invented. No follow-up question is required to continue review."
+  ]
+}

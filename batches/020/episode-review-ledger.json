@@ -1,0 +1,186 @@
+{
+  "review_binding": {"version":"cq-review-binding-1","sha256":"bf43d4691d9874a34a55309bf857c1d429a0c84831d36eeaf774fe9ec484bb4f","reviewed_utc":"2026-09-14T17:06:40.346288+00:00","meaning":"Exact reviewed local inputs; not independent semantic, audio or live certification"},
+  "schema_version": "1",
+  "required_for": "A1–A8 mandatory for every episode in every batch.",
+  "acceptance_scope": "Captured-text development review only; not audio, external-history, blind-recall or live certification.",
+  "episodes": [
+    {
+      "episode": 25,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All21 source paragraphs read separately by root and extractor;58 references/94 spans typed and reconciled.",
+          "evidence": [
+            "batches/020/reviews/025-audit.md",
+            "batches/020/reviews/025-annotations.json",
+            "batches/020/reviews/coordinator-progress.md"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "Full inventory and frozen16/16 episode-specific references reviewed; actual initial LEGO toy omission preserved.",
+          "evidence": [
+            "batches/020/reviews/025-audit.md",
+            "batches/020/reviews/025-annotations.json",
+            "batches/020/reviews/coordinator-progress.md",
+            "batches/020/reviews/source-first-sample.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Kat/Johnny and separate John reviewed;72 reference speaker repairs inspected,22 uncertain occurrences retained.",
+          "evidence": [
+            "batches/020/reviews/025-audit.md",
+            "batches/020/reviews/025-annotations.json",
+            "batches/020/reviews/coordinator-progress.md"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "All37 actions and39 list memberships reviewed; three complete fives separated from alternatives and partial ordinary favorites.",
+          "evidence": [
+            "batches/020/reviews/025-audit.md",
+            "batches/020/reviews/025-annotations.json",
+            "batches/020/reviews/coordinator-progress.md"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "All27 full answers independently reviewed and snapshotted;27 original/configured plus6 source-informed fresh cases pass, initial26/27 failure preserved.",
+          "evidence": [
+            "batches/020/reviews/025-audit.md",
+            "batches/020/reviews/025-annotations.json",
+            "batches/020/reviews/coordinator-progress.md",
+            "batches/020/reviews/answer-review.json",
+            "batches/020/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Source-cited practical brief and three paired continuity records desk-reviewed; useful disagreements, exact lists, dated collecting states and unresolved follow-ups, no live rehearsal.",
+          "evidence": [
+            "batches/020/reviews/025-audit.md",
+            "batches/020/reviews/025-annotations.json",
+            "batches/020/reviews/coordinator-progress.md",
+            "batches/020/reviews/continuity-review.md"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "837 exact proofs,47 accounted windows,23 sample references,27 original/configured,6 fresh,233 shared tests;18 old gates/602 originals and19 pilot pass.",
+          "evidence": [
+            "batches/020/reviews/025-audit.md",
+            "batches/020/reviews/025-annotations.json",
+            "batches/020/reviews/coordinator-progress.md",
+            "batches/020/reviews/verification.md",
+            "batches/020/generated/full-shared-suite.log",
+            "batches/020/generated/prior-regressions.jsonl",
+            "batches/020/generated/pilot-final.json",
+            "batches/020/generated/final-sample.json",
+            "batches/020/generated/first-fresh.json",
+            "batches/020/generated/final-fresh.json"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "Explicit root acceptance after full source/artifact adjudication and completed checks; unresolved identities stay qualified. Exact binding required.",
+          "evidence": [
+            "batches/020/reviews/025-audit.md",
+            "batches/020/reviews/025-annotations.json",
+            "batches/020/reviews/coordinator-progress.md"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 26,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All26 source paragraphs read separately by root and extractor;65 references/122 spans typed and reconciled.",
+          "evidence": [
+            "batches/020/reviews/026-audit.md",
+            "batches/020/reviews/026-annotations.json",
+            "batches/020/reviews/coordinator-progress.md"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "Full inventory and frozen7/7 episode-specific references reviewed; uncertain captions and unrevealed game retained.",
+          "evidence": [
+            "batches/020/reviews/026-audit.md",
+            "batches/020/reviews/026-annotations.json",
+            "batches/020/reviews/coordinator-progress.md",
+            "batches/020/reviews/source-first-sample.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Kat/Johnny and third-party neighbor/wife reports reviewed;20 contextual speaker repairs, mixed Tetris dialogue unknown.",
+          "evidence": [
+            "batches/020/reviews/026-audit.md",
+            "batches/020/reviews/026-annotations.json",
+            "batches/020/reviews/coordinator-progress.md"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "All21 actions and4 UPC memberships reviewed; emulation versus acquisition and hypothetical deals distinguished.",
+          "evidence": [
+            "batches/020/reviews/026-audit.md",
+            "batches/020/reviews/026-annotations.json",
+            "batches/020/reviews/coordinator-progress.md"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "All27 full answers independently reviewed and snapshotted;27 original/configured plus6 source-informed fresh cases pass, initial26/27 failure preserved.",
+          "evidence": [
+            "batches/020/reviews/026-audit.md",
+            "batches/020/reviews/026-annotations.json",
+            "batches/020/reviews/coordinator-progress.md",
+            "batches/020/reviews/answer-review.json",
+            "batches/020/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Source-cited practical brief and three paired continuity records desk-reviewed; useful disagreements, exact lists, dated collecting states and unresolved follow-ups, no live rehearsal.",
+          "evidence": [
+            "batches/020/reviews/026-audit.md",
+            "batches/020/reviews/026-annotations.json",
+            "batches/020/reviews/coordinator-progress.md",
+            "batches/020/reviews/continuity-review.md"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "837 exact proofs,47 accounted windows,23 sample references,27 original/configured,6 fresh,233 shared tests;18 old gates/602 originals and19 pilot pass.",
+          "evidence": [
+            "batches/020/reviews/026-audit.md",
+            "batches/020/reviews/026-annotations.json",
+            "batches/020/reviews/coordinator-progress.md",
+            "batches/020/reviews/verification.md",
+            "batches/020/generated/full-shared-suite.log",
+            "batches/020/generated/prior-regressions.jsonl",
+            "batches/020/generated/pilot-final.json",
+            "batches/020/generated/final-sample.json",
+            "batches/020/generated/first-fresh.json",
+            "batches/020/generated/final-fresh.json"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "Explicit root acceptance after full source/artifact adjudication and completed checks; unresolved identities stay qualified. Exact binding required.",
+          "evidence": [
+            "batches/020/reviews/026-audit.md",
+            "batches/020/reviews/026-annotations.json",
+            "batches/020/reviews/coordinator-progress.md"
+          ]
+        }
+      }
+    }
+  ]
+}

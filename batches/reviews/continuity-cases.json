@@ -1,0 +1,372 @@
+{
+  "schema_version": "1",
+  "scope": "Nine manually composed paired-source development answers. Not automatic contradiction resolution, exhaustive chronology, audio verification or archive-wide latest-state certification.",
+  "cases": [
+    {
+      "id": "last-of-us-ii-blocked-to-finished",
+      "question": "Did Johnny ever get past the Last of Us II bug?",
+      "answer": "Yes. CQ201 reports a ladder bug blocking Johnny near the end. CQ202 still reports no play and an unanswered support ticket. CQ203 explicitly reports that the bug was patched and he finished the game. These establish successive episode reports, not an exact patch date, technical cause or verified support response.",
+      "reason": "Coordinator checked all three source windows directly; the later explicit completion supersedes the open loop without inventing intermediate events.",
+      "sources": [
+        {
+          "collection": "batches/002",
+          "episode": 201,
+          "source_key": "sc-1327980511",
+          "source_sha256": "eff28d3c954554ce99abdb4cae21c58ad70ee372fafa32e9d83ec27a97d1520c",
+          "date": "2022-08-21",
+          "location": "02:13:19",
+          "quote": "I encountered a game-breaking bug where I can't climb the ladder",
+          "query": "Last of Us two ladder bug"
+        },
+        {
+          "collection": "batches/003",
+          "episode": 202,
+          "source_key": "sc-1335372241",
+          "source_sha256": "b675c6517f33acb1172b67b82c3e2b07ee8a73d7de870b0a98909df9c47a205c",
+          "date": "2022-09-01",
+          "location": "01:50:58",
+          "quote": "I filed the support ticket",
+          "query": "Last of Us two support ticket"
+        },
+        {
+          "collection": "batches/004",
+          "episode": 203,
+          "source_key": "sc-1343296345",
+          "source_sha256": "b13a8327936ab28db198e07bb337f000a6e47b2fce9154a343940e2aa0130328",
+          "date": "2022-09-13",
+          "location": "02:32:43",
+          "quote": "the bug got patched and I was able to proceed and finish last of us two",
+          "query": "Last of Us two bug patched finished"
+        }
+      ],
+      "review": {
+        "status": "passed",
+        "reviewer": "coordinator",
+        "reason": "Coordinator checked all three source windows directly; the later explicit completion supersedes the open loop without inventing intermediate events.",
+        "snapshot_sha256": "82c2af892b68e7204bc5cec276afa35c821385f724fa2a378d290e8e44562fb8"
+      }
+    },
+    {
+      "id": "trespasser-ownership-correction",
+      "question": "Did Dan Gomez lack Trespasser, or did he buy it between episodes?",
+      "answer": "CQ202 says Dan apparently wants Trespasser and lacks it. CQ203 explicitly corrects that claim: Dan has a copy, whose sticker advertises a soundtrack, unlike Tyler's copy. This is a correction to reported ownership, not evidence of a new purchase between episodes; the actual soundtrack's contents and format remain unknown.",
+      "reason": "The first claim is explicitly tentative, while the later erratum supplies ownership and a sticker comparison. Neither source dates an acquisition.",
+      "sources": [
+        {
+          "collection": "batches/003",
+          "episode": 202,
+          "source_key": "sc-1335372241",
+          "source_sha256": "b675c6517f33acb1172b67b82c3e2b07ee8a73d7de870b0a98909df9c47a205c",
+          "date": "2022-09-01",
+          "location": "00:50:03",
+          "quote": "I think Dan Gomez wants this game and I don't think he has it yet",
+          "query": "Trespasser Dan Gomez"
+        },
+        {
+          "collection": "batches/004",
+          "episode": 203,
+          "source_key": "sc-1343296345",
+          "source_sha256": "b13a8327936ab28db198e07bb337f000a6e47b2fce9154a343940e2aa0130328",
+          "date": "2022-09-13",
+          "location": "02:53:51",
+          "quote": "Dan Gomez absolutely has a copy of Jurassic Park trespasser",
+          "query": "Trespasser Dan Gomez soundtrack"
+        }
+      ],
+      "review": {
+        "status": "passed",
+        "reviewer": "coordinator",
+        "reason": "The first claim is explicitly tentative, while the later erratum supplies ownership and a sticker comparison. Neither source dates an acquisition.",
+        "snapshot_sha256": "b5bdd6544b21080315456b95149daaad8c6de24b3a34205ded15ab38b7b46ebe"
+      }
+    },
+    {
+      "id": "dinosaur-rescue-received-sticker",
+      "question": "What changed after the Dinosaur Rescue discussion?",
+      "answer": "CQ202 discusses the English-title sticker variant and prefers its extra sticker. CQ204 reports that Tyler got Dinosaur Rescue with that sticker. CQ204 retrospectively says the earlier discussion made him need it; CQ202 itself does not establish a dated personal want. Receipt of the exhibition bag and other promotional pieces is not established.",
+      "reason": "Both passages checked against primary text; explicitly prevents backdating a personal want and importing every earlier bundle component into the acquisition.",
+      "sources": [
+        {
+          "collection": "batches/003",
+          "episode": 202,
+          "source_key": "sc-1335372241",
+          "source_sha256": "b675c6517f33acb1172b67b82c3e2b07ee8a73d7de870b0a98909df9c47a205c",
+          "date": "2022-09-01",
+          "location": "00:20:17",
+          "quote": "sticker copies cooler because it's the same thing plus a sticker",
+          "query": "Dinosaur Rescue sticker"
+        },
+        {
+          "collection": "batches/005",
+          "episode": 204,
+          "source_key": "sc-1350766930",
+          "source_sha256": "073bf3d58ed44afdba03944982f12ed98daca75349a9c0500afe7e63d3f45a95",
+          "date": "2022-09-25",
+          "location": "01:26:55",
+          "quote": "of course I got the sticker variant",
+          "query": "Dinosaur Rescue sticker got"
+        }
+      ],
+      "review": {
+        "status": "passed",
+        "reviewer": "coordinator",
+        "reason": "Both passages checked against primary text; explicitly prevents backdating a personal want and importing every earlier bundle component into the acquisition.",
+        "snapshot_sha256": "cb2764c94b2fe36e2de2290417f46655f336a2e6e814fe8af7448ae155fc25d6"
+      }
+    },
+    {
+      "id": "monster-figurine-still-missing",
+      "question": "Did Johnny resolve the missing Monster in My Pocket figurine?",
+      "answer": "Not in these passages. CQ76 introduces the included figurine and Johnny realizes he did not know about it. CQ78 says he checked his box after that episode and the figure was not there. A roughly $100 listing is discussed, but no purchase is reported. The later report confirms an unresolved completeness gap, not a completed acquisition.",
+      "reason": "CQ76 discovery and CQ78 explicit box check/listing are separate events; ownership of the game is not ownership of the figure.",
+      "sources": [
+        {
+          "collection": "batches/003",
+          "episode": 76,
+          "source_key": "sc-346021102",
+          "source_sha256": "8819f9b68bf8133df221d63903337e7f7805fc7725ef1cc4662ad5c2117f0c92",
+          "date": "2017-10-09",
+          "location": "Paragraph 23",
+          "quote": "it actually came with a little rubber monster in my pocket figurine",
+          "query": "Monster pocket figurine"
+        },
+        {
+          "collection": "batches/003",
+          "episode": 76,
+          "source_key": "sc-346021102",
+          "source_sha256": "8819f9b68bf8133df221d63903337e7f7805fc7725ef1cc4662ad5c2117f0c92",
+          "date": "2017-10-09",
+          "location": "Paragraph 24",
+          "quote": "I didn’t know it came with a toy",
+          "query": "Monster pocket figurine toy"
+        },
+        {
+          "collection": "batches/005",
+          "episode": 78,
+          "source_key": "sc-349518307",
+          "source_sha256": "15ddf8e725381bef886cc58a421476574af14e0e1391854591cb55834c7fb0e2",
+          "date": "2017-10-31",
+          "location": "Paragraph 4",
+          "quote": "So I don’t have the figure inside",
+          "query": "Monster pocket figure"
+        },
+        {
+          "collection": "batches/005",
+          "episode": 78,
+          "source_key": "sc-349518307",
+          "source_sha256": "15ddf8e725381bef886cc58a421476574af14e0e1391854591cb55834c7fb0e2",
+          "date": "2017-10-31",
+          "location": "Paragraph 5",
+          "quote": "It wasn’t.",
+          "query": "Monster pocket figure eBay"
+        }
+      ],
+      "review": {
+        "status": "passed",
+        "reviewer": "coordinator",
+        "reason": "CQ76 discovery and CQ78 explicit box check/listing are separate events; ownership of the game is not ownership of the figure.",
+        "snapshot_sha256": "4abd2bfeba4f0a1f704c6700f5afe70fda17f7b337cd133553f0c8e566c9b784"
+      }
+    },
+    {
+      "id": "scooby-microcast-delivered-as-episode",
+      "question": "What happened to the promised Scooby-Doo microcast?",
+      "answer": "CQ76 promises a Scooby-Doo microcast the following week. CQ77 explains that it ran too long for that label and was published as a short regular episode, retaining references to the original format. Tyler's first intro there is not evidence that it was his first appearance. Omitting the usual buying segment does not prove the episode contains no purchase remarks.",
+      "reason": "Coordinator read full CQ76 and CQ77. Intro statements establish delivery with changed format, while the complete episode contains acquisition discussion despite no dedicated segment.",
+      "sources": [
+        {
+          "collection": "batches/003",
+          "episode": 76,
+          "source_key": "sc-346021102",
+          "source_sha256": "8819f9b68bf8133df221d63903337e7f7805fc7725ef1cc4662ad5c2117f0c92",
+          "date": "2017-10-09",
+          "location": "Paragraph 40",
+          "quote": "Look forward to the Scooby-Doo Microcast coming up the week after this episode.",
+          "query": "Scooby Doo Microcast"
+        },
+        {
+          "collection": "batches/004",
+          "episode": 77,
+          "source_key": "sc-347109412",
+          "source_sha256": "c96ebc0928e874090bfd1e462e2e1670b11ae82eef5fa5cc6456353c70bf0a6c",
+          "date": "2017-10-16",
+          "location": "Paragraph 1",
+          "quote": "we’re not calling it a microcast because I don’t want to break my own rules",
+          "query": "Scooby Doo microcast episode intro"
+        },
+        {
+          "collection": "batches/004",
+          "episode": 77,
+          "source_key": "sc-347109412",
+          "source_sha256": "c96ebc0928e874090bfd1e462e2e1670b11ae82eef5fa5cc6456353c70bf0a6c",
+          "date": "2017-10-16",
+          "location": "Paragraph 2",
+          "quote": "How’d you feel about your first intro?",
+          "query": "Scooby Doo first intro"
+        }
+      ],
+      "review": {
+        "status": "passed",
+        "reviewer": "coordinator",
+        "reason": "Coordinator read full CQ76 and CQ77. Intro statements establish delivery with changed format, while the complete episode contains acquisition discussion despite no dedicated segment.",
+        "snapshot_sha256": "5c831cf2100777da7cb7e0c4cb5ff4d09a695c82c58df54c25cec67526079018"
+      }
+    },
+    {
+      "id": "kat-rpg-wanted-to-reacquired",
+      "question": "Did Kat get Super Mario RPG back after listing it as a collection gap?",
+      "answer": "Yes, within these episode reports. CQ12 says she no longer has Super Mario RPG and wants selected SNES games back, not a complete set. CQ14 says she has it again for the third time and intends to keep it. The surrounding 'getting into' versus 'gonna get into' wording leaves the exact start of play ambiguous; it is not evidence of a completed playthrough or of reacquiring EarthBound and Chrono Trigger too.",
+      "reason": "Coordinator read both complete transcripts and the specific gap/reacquisition contexts. The later copy resolves only this named collection gap, with play uncertainty retained.",
+      "sources": [
+        {
+          "collection": "batches/006",
+          "episode": 12,
+          "location": "Paragraph 20",
+          "quote": "I don’t have Super Mario RPG anymore.",
+          "query": "Super Mario RPG collection back",
+          "source_key": "sc-239520041",
+          "source_sha256": "fddb964b15fad92ad5a333b8bef3a937a99190e77cfa3d7d2f80f8aa14dbb4f7",
+          "date": "2015-12-29"
+        },
+        {
+          "collection": "batches/008",
+          "episode": 14,
+          "location": "Paragraph 31",
+          "quote": "This is the third time I’ve had it.",
+          "query": "Kat Super Mario RPG third time",
+          "source_key": "sc-241546714",
+          "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+          "date": "2016-01-12"
+        },
+        {
+          "collection": "batches/008",
+          "episode": 14,
+          "location": "Paragraph 32",
+          "quote": "I’m just gonna get into that now",
+          "query": "Super Mario RPG finally play collection",
+          "source_key": "sc-241546714",
+          "source_sha256": "a20287ffbe9e9d913e85ceb6cb5e7edc02b06e77107f511b51f536ad553f65a5",
+          "date": "2016-01-12"
+        }
+      ],
+      "review": {
+        "status": "passed",
+        "reviewer": "coordinator",
+        "reason": "Coordinator read both complete transcripts and the specific gap/reacquisition contexts. The later copy resolves only this named collection gap, with play uncertainty retained.",
+        "snapshot_sha256": "7bcab899b5c6612cb62c7f3843b0756b747cf3f452f78ae629c090efbe8ee717"
+      }
+    },
+    {
+      "id": "tyler-saturn-goal-completed",
+      "question": "Did Tyler finish the Saturn set he was close to completing?",
+      "answer": "CQ79 says he probably has three Saturn games left and specifically names All Star Baseball 97 as missing. CQ81 says Crypt Killer and All-Star Baseball 1997 were his last two and that the set is complete. These establish the reported goal changing to completion; they do not date every intervening purchase or prove Crypt Killer was the unnamed third game in CQ79.",
+      "reason": "Coordinator full-source reads distinguish the earlier approximate missing-list from the later explicit final-two receipt. Raw title wording and personal set scope remain qualified.",
+      "sources": [
+        {
+          "collection": "batches/006",
+          "episode": 79,
+          "location": "Paragraph 22",
+          "quote": "Probably have three left. I need All Star Baseball 97.",
+          "query": "Saturn three left All Star Baseball",
+          "source_key": "sc-355496906",
+          "source_sha256": "1f9e9bab8fdff43b62a6c84a6af5531f5dae8d6e8440467d998d3babd8f12022",
+          "date": "2017-11-14"
+        },
+        {
+          "collection": "batches/008",
+          "episode": 81,
+          "location": "Paragraph 64",
+          "quote": "I got Crypt Killer and All Star Baseball 1997.",
+          "query": "Saturn Crypt Killer All Star Baseball last",
+          "source_key": "sc-378768386",
+          "source_sha256": "1784b1ac59378518984b6203acaa923abc7bfb226f09eb01fb71fe85d605326e",
+          "date": "2018-01-04"
+        }
+      ],
+      "review": {
+        "status": "passed",
+        "reviewer": "coordinator",
+        "reason": "Coordinator full-source reads distinguish the earlier approximate missing-list from the later explicit final-two receipt. Raw title wording and personal set scope remain qualified.",
+        "snapshot_sha256": "16c29dc4cf0e0589352e74f11def91e0778fdf1e07b27db2186123ce4b7b3457"
+      }
+    },
+    {
+      "id": "quarry-bought-then-still-playing",
+      "question": "Was The Quarry a free gift, and did Johnny finish it by the following episode?",
+      "answer": "CQ205 explicitly retracts the supposed free-copy exchange as a conversation that never happened, then says Johnny bought The Quarry. He reports about forty minutes of play. CQ206 says he is still playing it. Neither passage establishes completion, a second purchase, or a gift from Stefan.",
+      "reason": "Coordinator and CQ205 peer checked the joke retraction and purchase; full CQ206 source supplies ongoing play, not completion.",
+      "sources": [
+        {
+          "collection": "batches/006",
+          "episode": 205,
+          "location": "02:52:12",
+          "quote": "I'm like only like 40 minutes in",
+          "query": "Quarry played 40 minutes",
+          "source_key": "sc-1360671826",
+          "source_sha256": "de30cbc3b2f0c8e3691dfbad2f4aafb9339b80bb861e12d7c0a82cc986976842",
+          "date": "2022-10-11"
+        },
+        {
+          "collection": "batches/006",
+          "episode": 205,
+          "location": "02:53:16",
+          "quote": "this conversation never happened",
+          "query": "Quarry bought conversation never happened",
+          "source_key": "sc-1360671826",
+          "source_sha256": "de30cbc3b2f0c8e3691dfbad2f4aafb9339b80bb861e12d7c0a82cc986976842",
+          "date": "2022-10-11"
+        },
+        {
+          "collection": "batches/007",
+          "episode": 206,
+          "location": "00:33:52",
+          "quote": "I'm playing the Quarry still",
+          "query": "playing Quarry still",
+          "source_key": "sc-1369678939",
+          "source_sha256": "87f29418c3ec61a7a5505088f729ab772c13e31fda998682c31a559d7a73ec51",
+          "date": "2022-10-25"
+        }
+      ],
+      "review": {
+        "status": "passed",
+        "reviewer": "coordinator",
+        "reason": "Coordinator and CQ205 peer checked the joke retraction and purchase; full CQ206 source supplies ongoing play, not completion.",
+        "snapshot_sha256": "c05eb9f95dffd421d53271ae953a2cd7aebe165097607985a7f15a0c89802fc9"
+      }
+    },
+    {
+      "id": "kat-odyssey-nonplay-to-brief-play",
+      "question": "Had Kat played Super Mario Odyssey, or was that only Johnny's group summary?",
+      "answer": "In CQ80, the specific later statements that Kat has not played Odyssey qualify the loose group summary that everyone is playing it. By CQ81, Kat directly says she has played a little, mainly playing Mario Kart instead. Johnny's separate Europe completion belongs to him. This is a later reported change in Kat's play status, not a reason to rewrite CQ80 as already-played or to mark her finished.",
+      "reason": "Coordinator fully read both episodes; CQ81 peer independently confirmed its present-play and actor distinction. No exact first-play date is invented.",
+      "sources": [
+        {
+          "collection": "batches/007",
+          "episode": 80,
+          "location": "Paragraph 43",
+          "quote": "You haven’t played Mario Odyssey yet.",
+          "query": "Kat haven't played Mario Odyssey",
+          "source_key": "sc-362816366",
+          "source_sha256": "d99f3540b3336a78ffacc0d54911cdbe958dcb863c29e55517b737a3d3a388f0",
+          "date": "2017-11-30"
+        },
+        {
+          "collection": "batches/008",
+          "episode": 81,
+          "location": "Paragraph 14",
+          "quote": "I’ve been playing a little bit of Mario Odyssey",
+          "query": "Kat little Mario Odyssey Europe beat",
+          "source_key": "sc-378768386",
+          "source_sha256": "1784b1ac59378518984b6203acaa923abc7bfb226f09eb01fb71fe85d605326e",
+          "date": "2018-01-04"
+        }
+      ],
+      "review": {
+        "status": "passed",
+        "reviewer": "coordinator",
+        "reason": "Coordinator fully read both episodes; CQ81 peer independently confirmed its present-play and actor distinction. No exact first-play date is invented.",
+        "snapshot_sha256": "706523148c0969b586469aece9ac0d3a83e5367a65ec76b6f448a67854b05e4b"
+      }
+    }
+  ]
+}

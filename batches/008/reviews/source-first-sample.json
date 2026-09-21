@@ -1,0 +1,169 @@
+{
+  "schema_version": "1",
+  "status": "compared_frozen_sample",
+  "frozen_utc": "2026-09-13 08:17:53 UTC",
+  "selection_rule": "For each episode choose zero-based floor(N/4), floor(N/2), floor(3N/4) supplied transcript windows. Freeze explicit named or uniquely contextual game/product reference buckets before viewing extraction. Preserve no-title windows. Platform/edition identities distinct when contrasted; same source game can satisfy underlying and novel-variant buckets only if its evidence preserves the difference. Hardware, films, magazines, unnamed aggregate system sets and music excluded.",
+  "limits": "Deterministic bounded source-first sample; not a blind statistical archive recall estimate. Adjacent source consulted for Gremlins, Arachnophobia novel and Layers of Fear context only; not extraction records.",
+  "windows": [
+    {
+      "batch": "008",
+      "episode": 14,
+      "source_key": "sc-241546714",
+      "location": "Paragraph 10",
+      "text": "\nback. So that made me think. And I was at that time, it was like 2000 and I would say 2003, 2004, where I was just always hitting up Craigslist, always hitting up online, buying a lot of stuff online, buying doubles for my collection. I guess you could say I was a hoarder, but I collect a lot of stuff and I felt the means to always hit up a swap means and that was like a hobby in mind, a side hobby, always just grabbing extra collections. So I had quite a bit amount of inventory and self-consciously, I guess I was always determined to make a video game store, but I just didn’t have the time to because I was working 60, 70 hours a week. So when they laid me off, I found a job right away. What are way better paying job? And I was really happy, but I always had at the back of my head that I’m not in control of my destiny. You know, this could happen or companies change and they make adjustments to whatever they got to do. And I didn’t like the fact that I would always imply policies that companies kept and used. So I’m giving them all this information and I felt those were worth more than\n\n",
+      "source_window_count": 38,
+      "references": []
+    },
+    {
+      "batch": "008",
+      "episode": 14,
+      "source_key": "sc-241546714",
+      "location": "Paragraph 20",
+      "text": "\ncomplacent. Things were good. Things were great. I got a little bored. Okay. And I wanted to challenge myself and I said, let’s just do it. And that’s what I did. I ended up doing a lot of research for a whole year of where to open up a store, looking at commercial real estate and seeing what’s the best fit for the industry and what would work. And I decided to move in Diamond Bar, California. And it’s about 10 minutes away from Frank and son. So it’s kind of nice to have these, those two close together, especially if Frank and sons is only open two days a week. It’s nice to have a sidebar of a store that’s open every day. 11, 11, 11, 8. I’ll tell you, yeah, I’m working 12-hour days. Well, yeah, you are, you are a small business owner. Yep. So, and it doesn’t feel like it, honestly, like I’m not burnt out whatsoever, because I’m also running this store and running an expo at the same time. And I’m loving every minute of it. And I think that’s just the difference between people that are in it for the money and people that are in it for the passion of gaming. I’m able to go that extra mile and push harder and\n\n",
+      "source_window_count": 38,
+      "references": []
+    },
+    {
+      "batch": "008",
+      "episode": 14,
+      "source_key": "sc-241546714",
+      "location": "Paragraph 29",
+      "text": "\nstruggling between that and Turtles in Time, but I have to go Super Metroid. Turtles in Time, isn’t that good. Yeah, it is. It’s fine. It’s fine, but it’s no Super Metroid. It’s the most polished beat-a-moth. That’s fine, but it’s no Super Metroid. You shut your mouth, Steve. No, it’s a good game. I just have a personal deep affection for Super Metroid. Yes, but that makes you very biased in this situation. Yeah. Okay, fine, maybe. Yes, just a little bit. Just a little bit. Well, that’s really interesting to hear that the evolution from loving games from such a young age and going into collecting and how that’s fueled everything right down into what you do for a career and then beyond to putting this expo together, which I think is really neat to see somebody have that much passion when it’s come across such a time span and it’s traveled with you as you’ve grown up and as you’ve started your career. So I think that’s a really neat and almost a very unique thing to have happen. Yeah, absolutely. And it’s been a humbling experience all of it. And I’m enjoying every second of it. It’s really fun. Awesome. Well, it’s been really neat to hear about it because I think that’s really exciting. And\n\n",
+      "source_window_count": 38,
+      "references": [
+        {
+          "id": "cq14-sample-Paragraph29-1",
+          "title": "Teenage Mutant Ninja Turtles IV: Turtles in Time",
+          "quote": "Turtles in Time",
+          "reviewed_game_ids": [
+            "cq014-g007"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq14-sample-Paragraph29-2",
+          "title": "Super Metroid",
+          "quote": "Super Metroid",
+          "reviewed_game_ids": [
+            "cq014-g006"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "008",
+      "episode": 81,
+      "source_key": "sc-378768386",
+      "location": "Paragraph 17",
+      "text": "\nseen one that’s like weird in 3D, but I don’t know. Oh, yeah. Yeah, they’re like, I can show you some. But they’re like, yeah, they have like it looks like any stupid tin you’d find. You’re like, oh, cool Mario tin instead of like a game kit. It’s not. I don’t like it. Well, isn’t isn’t steel books a brand? I thought it’s a brand and people collect specifically steel books brand like whatever games they happen to put out. Is it? I don’t think it’s a brand because like DVDs come out in them and stuff like as exclusives. Go to steelbook.com or steelbooks.com. It’s a brand. Well, I’m sure some maybe somebody branded out that type of metal casing specifically steel books. Yeah, I don’t know. I mean, there’s other games that come in like metal tins that I’ve seen called steel books. Maybe they aren’t specifically steel books. Yeah, I don’t know. Maybe maybe I’m using it as like a generic like Kleenex. Well, that’s fine. That’s how you want to refer to them. That’s fine. But no, I like they look nice. Mostly. But sometimes that I mean, sometimes they’re cumbersome. Like also they get dented, which, you know, and then it’s harder to find cases for them like protective cases. So that’s hard to\n\n",
+      "source_window_count": 66,
+      "references": []
+    },
+    {
+      "batch": "008",
+      "episode": 81,
+      "source_key": "sc-378768386",
+      "location": "Paragraph 34",
+      "text": "\ngames before now? Well, here, here’s what I would point to and this will get to our conversation. That’s going to happen later about is there a crash coming or anything like that in comics and figures when they did a bunch of these ridiculous special additions and like chromium and ultra chromium covers. That’s when it totally crashed the market, right? Because it created false frencies and people don’t like it. Like people couldn’t take that amiibo’s got special limited editions like just target only has this one. They lost their shit over that. Let’s not make this a trend that happens. Okay, guys, I’m not totally not interested in super limited limited ones. The rarest, rare one like get out of here. I don’t let’s hope this doesn’t go any further. Oh, I think I think have you seen going into another one of our topics. Assassin’s Creed Origins has seven limited editions. I think the concept of an exciting limited edition is totally dead to me because there’s just too many limited editions and big games get multiple limited editions now. So you could pay up to $800 for Assassin’s Creed Origins if you really want to. Yeah, that’s that’s stupid. And I like I’ll wrap it down since we were kind of talking Nintendo and switch\n\n",
+      "source_window_count": 66,
+      "references": [
+        {
+          "id": "cq81-sample-Paragraph34-1",
+          "title": "Assassin's Creed Origins",
+          "quote": "Assassin’s Creed Origins",
+          "reviewed_game_ids": [
+            "cq081-g039"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "008",
+      "episode": 81,
+      "source_key": "sc-378768386",
+      "location": "Paragraph 50",
+      "text": "\nGenesis getting there. Tyler getting there. Oh, damn it. Tyler complete on Genesis to because no one cares about Genesis card only went from twenty five sixty six to twenty five eighty three. It’s up a few cents. Oh, so actually the bubble hasn’t burst and everyone with a full Genesis set here, meaning Johnny is actually getting rich now. Woo, making that money. So wait, seven hundred games times a thirty cent increase. Holy shit. I’m in the hundreds, guys. Who said Bitcoin was going up? Genesis games are going up. Crazy. Cryptocurrency is a topic for another day. So there are a few examples of some extremes. Tyler, you want to talk about how exciting the thirty two X is. So there’s two big winners, I think, and that is the Sega thirty two X, which continued its crazy climb, especially boxed copies. They went from forty eight dollars to sixty dollars this year because for whatever reason, people want a full set of something and they’re choosing thirty two X, which I’m not super familiar with it, but it has what, three good games, maybe? Yeah, I mean, it’s got it’s not a lot of great titles, but it hit a twenty five percent increase. Like your big hitters on that are like Pitfall, obviously, Spider-Man, Web\n\n",
+      "source_window_count": 66,
+      "references": [
+        {
+          "id": "cq81-sample-Paragraph50-1",
+          "title": "Pitfall — 32X, title contextual",
+          "quote": "Pitfall",
+          "reviewed_game_ids": [
+            "cq081-g053"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq81-sample-Paragraph50-2",
+          "title": "Spider-Man: Web of Fire — 32X contextual",
+          "quote": "Spider-Man, Web",
+          "reviewed_game_ids": [
+            "cq081-g054"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "008",
+      "episode": 207,
+      "source_key": "sc-1377327931",
+      "location": "00:31:55",
+      "text": "\ngood Sega s stuff like uncommon and rare SE Saturn stuff just didn't sell out or like not even sell out but like sell most of it even uh yeah it was crazy how full his table still was at the end of the show things that I definitely expected to move did not and I saw a lot of guys who did have Saturn stuff out just sitting there there was a few guys who came in and like I don't know what these people were thinking but they they priced Game Gear games like it was uh you know like crude oil or something I I don't know what they were thinking they had so many duplicates there's there's like here's four copies of of Robotics mean beam machine but they're all $600 sorry the thing is like that would be like a Holy Grail find for someone who was shopping for Game Gear but the prices were so ridiculous like I don't know and there was like multiples like there were not going at this show with this demographic as it is now I'm talking like 20 to 40 kind of normal people there were not going to be multiple high-end Game Gear col collectors buying above market price so I guess they just brought them out to\n\n",
+      "source_window_count": 122,
+      "references": [
+        {
+          "id": "cq207-sample-003155-1",
+          "title": "Dr. Robotnik's Mean Bean Machine — Game Gear",
+          "quote": "Robotics mean beam machine",
+          "reviewed_game_ids": [
+            "cq207-g031"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "008",
+      "episode": 207,
+      "source_key": "sc-1377327931",
+      "location": "01:05:14",
+      "text": "\nmoney he lost just based on these prices he's like a I lost $200,000 compared to stuff he like just bought like uh like a a mint uh like a near uh Super Mario Brothers 3 for $155,000 and then like one in identical condition on Heritage auction Sals for $8,000 yikes uh I don't have the stomach to to just lose money like that yeah I uh if if I'm paying $8,000 for a video game Johnny it's for a game that will never come up for sale again not for a game that will come up for sale in the next Heritage auction but uh yeah agree that's just me okay all right so uh Market outlooks you got you got any final notes you want to tell to the people no something I was thinking about was uh will the how is the playability of games going to change collecting going forward I don't know if this is even a different topic but I was thinking about it when we were talking about the dollar bins of Xbox 360 games because we've\n\n",
+      "source_window_count": 122,
+      "references": [
+        {
+          "id": "cq207-sample-010514-1",
+          "title": "Super Mario Bros. 3",
+          "quote": "Super Mario Brothers 3",
+          "reviewed_game_ids": [
+            "cq207-g006"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "008",
+      "episode": 207,
+      "source_key": "sc-1377327931",
+      "location": "01:37:24",
+      "text": "\nfollowing me around my collecting life forever and you have to put in like to get something good you have to put in something good and one of the games I have was Warrior Weare Twisted I bought this new this was like a mint copy of Wario Weare Twisted this this was a while ago and like Game Boy Advance was not super exciting to me it was probably worth like 50 bucks at the time uh so I I I sent that out and I I forgot some like complete garbage back I'm sure cuz I was I was mainly participating for the social aspect of I just wanted to like be part of something um and I don't sell a lot of stuff but I remember and am pained by the things I do sell and now Warrior Weare Twisted what is a warrior Weare Twisted go for Johnny probably $100 I don't know I I do not believe you I think it's like a $200 complete box is it yeah I'm only seeing sealed ones and they're all like 800 there's not even like a complete box\n\n",
+      "source_window_count": 122,
+      "references": [
+        {
+          "id": "cq207-sample-013724-1",
+          "title": "WarioWare: Twisted!",
+          "quote": "Wario Weare Twisted",
+          "reviewed_game_ids": [
+            "cq207-g079"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    }
+  ],
+  "comparison_note": "All eight frozen buckets mapped without changing selection, three no-title windows or denominator. Super Metroid's span coversP28–29 even though its quote anchor isP28; referent remains explicit inP29."
+}

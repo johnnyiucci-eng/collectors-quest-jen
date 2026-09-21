@@ -1,0 +1,52 @@
+{
+  "schema_version": "0.1",
+  "created": "2026-09-13",
+  "status": "captured_text_review_complete",
+  "selection_basis": "One-hour continuation; sequential early/middle/later lanes, not reserved-answer driven.",
+  "budget": "Local supplied public transcripts only; no paid services/publication/private imports/persona changes.",
+  "episodes": [
+    {
+      "key": "sc-251774783",
+      "episode_number": 23,
+      "title": "Episode 23 - Who Hates Bubble Mailers? We Do!",
+      "date": "2016-03-14",
+      "path": "episodes/cq-023-sc-251774783.md",
+      "source_url": "https://soundcloud.com/collectors-quest/episode-23-who-hates-bubble-mailers-we-do",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "words": 6240,
+      "sha256": "f317f278e4d35bc8cc5bb9871e5a290ac59a871cca41f049517e7c48e2095b30",
+      "reason": "Era-varied sequential lane continuation",
+      "status": "extracted_draft",
+      "record_path": "records/sc-251774783.json"
+    },
+    {
+      "key": "sc-423296268",
+      "episode_number": 90,
+      "title": "Episode 90 - Dead Digital Games. Limited print game publishers and the Wii Shop shutdown.",
+      "date": "2018-04-01",
+      "path": "episodes/cq-090-sc-423296268.md",
+      "source_url": "https://soundcloud.com/collectors-quest/episode-90-dead-digital-games-the-wiiware-shutdown-and-limited-print-game-publishers",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "words": 19436,
+      "sha256": "2d00b2e41af98e35087f0f3ae780dd2bc591d91d4a3da72295c142f092dce391",
+      "reason": "Era-varied sequential lane continuation",
+      "status": "extracted_draft",
+      "record_path": "records/sc-423296268.json"
+    },
+    {
+      "key": "sc-1466430109",
+      "episode_number": 216,
+      "title": "CQ 216 - How Many of Our Games Will the Future Even Remember?",
+      "date": "2023-03-11",
+      "path": "episodes/cq-216-sc-1466430109.md",
+      "source_url": "https://soundcloud.com/collectors-quest/cq-216-how-many-of-our-games-will-the-future-remember",
+      "timing": "YouTube caption timestamps",
+      "words": 32239,
+      "sha256": "1390e861e17f080437b30bbcb515cc3469e692235957939bb464bb6bbf8d7fd7",
+      "reason": "Era-varied sequential lane continuation",
+      "status": "extracted_draft",
+      "record_path": "records/sc-1466430109.json"
+    }
+  ],
+  "duplicate_controls": []
+}

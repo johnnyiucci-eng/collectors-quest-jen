@@ -1,0 +1,3147 @@
+{
+  "schema_version": "0.1",
+  "extraction_version": "manual-codex-2026-09-12-v1",
+  "source": {
+    "key": "sc-2387089140",
+    "episode_number": 299,
+    "title": "CQ 299 - Will your collection ALWAYS have an empty slot?",
+    "date": "2026-08-24",
+    "path": "episodes/cq-299-sc-2387089140.md",
+    "words": 28393,
+    "source_url": "https://soundcloud.com/collectors-quest/cq-299-will-your-collection",
+    "timing": "YouTube caption timestamps",
+    "sha256": "2bd2fb1f85e8e8e5fbc52ef655208947cee19434554382de1584d4eec1d8b259"
+  },
+  "review": {
+    "status": "extracted_draft",
+    "read_coverage": "All 140 supplied transcript windows read consecutively through closing.",
+    "omission_review": "pending",
+    "audio_verification": "not_performed",
+    "independent_review": "pending",
+    "transcript_limit": "Captured transcript completeness does not establish recognition accuracy or exact attribution.",
+    "timing": "Window-start timestamps are navigation locations, not precise utterance times.",
+    "elapsed_model_time": null,
+    "subscription_usage": null
+  },
+  "participants": [
+    {
+      "name": "Tyler",
+      "confidence": "high",
+      "evidence": [
+        {
+          "location": "00:00:00",
+          "quote": "Hey, welcome back to another episode of Collector's Quest. I'm Tyler here with Johnny. Johnny, what's going on? >> Oh, you know, Tyler, just uh just waiting for my wife and my child to go enjoy a beautiful day at a water park without me. >> Oh, yes. Without you. Perfect. Um it is like 135°. Uh that's like"
+        }
+      ]
+    },
+    {
+      "name": "Johnny",
+      "confidence": "high",
+      "evidence": [
+        {
+          "location": "00:00:00",
+          "quote": "Hey, welcome back to another episode of Collector's Quest. I'm Tyler here with Johnny. Johnny, what's going on? >> Oh, you know, Tyler, just uh just waiting for my wife and my child to go enjoy a beautiful day at a water park without me. >> Oh, yes. Without you. Perfect. Um it is like 135°. Uh that's like 6° if you live in Europe. Um so it is very hot."
+        }
+      ]
+    }
+  ],
+  "main_topic": "CQ 299 - Will your collection ALWAYS have an empty slot?",
+  "secondary_topics": [
+    "empty_slot",
+    "investment",
+    "books"
+  ],
+  "games": [
+    {
+      "id": "cq299-g001",
+      "canonical_title": "Tenchu",
+      "spoken_forms": [
+        "Tenshu"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Strategy-guide/magazine reference; normalize caption spelling.",
+          "evidence": [
+            {
+              "location": "00:03:05",
+              "quote": "first in-depth look. Uh and a Star Flash in the corner. It does have 16 pages of codes. And then it's talking about Tenshu, Tekken 3, Gdarius, Vigilante 8, Parasite E, Banjo Kazouie, forgot the dash, but that's pretty good. >> Yeah. No, my point is I don't actually like this not like if you were just looking at this, what would make this Why"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g002",
+      "canonical_title": "Tekken 3",
+      "spoken_forms": [
+        "Tekken 3"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Strategy-guide/magazine reference; normalize caption spelling.",
+          "evidence": [
+            {
+              "location": "00:03:05",
+              "quote": "first in-depth look. Uh and a Star Flash in the corner. It does have 16 pages of codes. And then it's talking about Tenshu, Tekken 3, Gdarius, Vigilante 8, Parasite E, Banjo Kazouie, forgot the dash, but that's pretty good. >> Yeah. No, my point is I don't actually like this not like if you were just looking at this, what would make this Why would you"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g003",
+      "canonical_title": "G-Darius",
+      "spoken_forms": [
+        "Gdarius"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Strategy-guide/magazine reference; normalize caption spelling.",
+          "evidence": [
+            {
+              "location": "00:03:05",
+              "quote": "first in-depth look. Uh and a Star Flash in the corner. It does have 16 pages of codes. And then it's talking about Tenshu, Tekken 3, Gdarius, Vigilante 8, Parasite E, Banjo Kazouie, forgot the dash, but that's pretty good. >> Yeah. No, my point is I don't actually like this not like if you were just looking at this, what would make this Why would you ever reproduce"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g004",
+      "canonical_title": "Vigilante 8",
+      "spoken_forms": [
+        "Vigilante 8"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Strategy-guide/magazine reference; normalize caption spelling.",
+          "evidence": [
+            {
+              "location": "00:03:05",
+              "quote": "first in-depth look. Uh and a Star Flash in the corner. It does have 16 pages of codes. And then it's talking about Tenshu, Tekken 3, Gdarius, Vigilante 8, Parasite E, Banjo Kazouie, forgot the dash, but that's pretty good. >> Yeah. No, my point is I don't actually like this not like if you were just looking at this, what would make this Why would you ever reproduce this?"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g005",
+      "canonical_title": "Parasite Eve",
+      "spoken_forms": [
+        "Parasite E"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Strategy-guide/magazine reference; normalize caption spelling.",
+          "evidence": [
+            {
+              "location": "00:03:05",
+              "quote": "first in-depth look. Uh and a Star Flash in the corner. It does have 16 pages of codes. And then it's talking about Tenshu, Tekken 3, Gdarius, Vigilante 8, Parasite E, Banjo Kazouie, forgot the dash, but that's pretty good. >> Yeah. No, my point is I don't actually like this not like if you were just looking at this, what would make this Why would you ever reproduce this? >> I don't know."
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g006",
+      "canonical_title": "Banjo-Kazooie",
+      "spoken_forms": [
+        "Banjo Kazouie"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Strategy-guide/magazine reference; normalize caption spelling.",
+          "evidence": [
+            {
+              "location": "00:03:05",
+              "quote": "first in-depth look. Uh and a Star Flash in the corner. It does have 16 pages of codes. And then it's talking about Tenshu, Tekken 3, Gdarius, Vigilante 8, Parasite E, Banjo Kazouie, forgot the dash, but that's pretty good. >> Yeah. No, my point is I don't actually like this not like if you were just looking at this, what would make this Why would you ever reproduce this? >> I don't know. So, I don't"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g007",
+      "canonical_title": "The Elder Scrolls III: Morrowind",
+      "spoken_forms": [
+        "Morowind"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Strategy-guide/magazine reference; normalize caption spelling.",
+          "evidence": [
+            {
+              "location": "00:06:09",
+              "quote": "here, too? >> Uh, cool. Aren't these like Why would I want like a $50 version of that? Heck, there's no way the NES game atlas is like a $50 mag or like maybe a real one is $50, right? >> Well, maybe this one. >> There's a Morowind one. >> Get a real one for 15 bucks. Why am I buying a reproduction for 50? [laughter] >> There's a strategy guide for Blue Dragon, Blood Omen, and like a bunch of these are just like bad games where you could like this"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g008",
+      "canonical_title": "Blue Dragon",
+      "spoken_forms": [
+        "Blue Dragon"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Strategy-guide/magazine reference; normalize caption spelling.",
+          "evidence": [
+            {
+              "location": "00:06:09",
+              "quote": "like a $50 mag or like maybe a real one is $50, right? >> Well, maybe this one. >> There's a Morowind one. >> Get a real one for 15 bucks. Why am I buying a reproduction for 50? [laughter] >> There's a strategy guide for Blue Dragon, Blood Omen, and like a bunch of these are just like bad games where you could like this would be if you went and spent a like you went and spent like $100 on a lot of strategy guide. Half of these would be in there. What"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g009",
+      "canonical_title": "Blood Omen: Legacy of Kain",
+      "spoken_forms": [
+        "Blood Omen"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Strategy-guide/magazine reference; normalize caption spelling.",
+          "evidence": [
+            {
+              "location": "00:06:09",
+              "quote": "or like maybe a real one is $50, right? >> Well, maybe this one. >> There's a Morowind one. >> Get a real one for 15 bucks. Why am I buying a reproduction for 50? [laughter] >> There's a strategy guide for Blue Dragon, Blood Omen, and like a bunch of these are just like bad games where you could like this would be if you went and spent a like you went and spent like $100 on a lot of strategy guide. Half of these would be in there. What are we doing?"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g010",
+      "canonical_title": "Star Wars: X-Wing Alliance",
+      "spoken_forms": [
+        "X-wing Alliance"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Strategy-guide/magazine reference; normalize caption spelling.",
+          "evidence": [
+            {
+              "location": "00:08:13",
+              "quote": "clear uh it's not like he has every issue of game fan magazine either he has two issues of game fan >> apparently random issues >> well they must be the good ones then for reasons I don't understand Uh yeah. Hey, get your X-wing Alliance and Tie Fighter strategy guides in hardcover. >> Uh Johnny, >> I don't Where was I going from here? >> I I don't know. Sad turn into a like to a place where you want to like turn off the lights and go cry in a room. >> No."
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g011",
+      "canonical_title": "Star Wars: TIE Fighter",
+      "spoken_forms": [
+        "Tie Fighter"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Strategy-guide/magazine reference; normalize caption spelling.",
+          "evidence": [
+            {
+              "location": "00:08:13",
+              "quote": "he has every issue of game fan magazine either he has two issues of game fan >> apparently random issues >> well they must be the good ones then for reasons I don't understand Uh yeah. Hey, get your X-wing Alliance and Tie Fighter strategy guides in hardcover. >> Uh Johnny, >> I don't Where was I going from here? >> I I don't know. Sad turn into a like to a place where you want to like turn off the lights and go cry in a room. >> No. Speaking of fake"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g012",
+      "canonical_title": "Legacy of Kain: Soul Reaver",
+      "spoken_forms": [
+        "Soul Reaver"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Magazine cover.",
+          "evidence": [
+            {
+              "location": "00:02:02",
+              "quote": "just don't care about Game Fan. >> Tell us what's on the cover because it's it's an important like when you see the cover, you'll know why it's important. >> Oh, okay. Uh so let's see. Uh on the cover is Legacy of Kain Soul Reaver, the"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g013",
+      "canonical_title": "Chrono Trigger",
+      "spoken_forms": [
+        "Chrono Trigger"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Reproduced guide.",
+          "evidence": [
+            {
+              "location": "00:04:06",
+              "quote": "Power One uh reproduction, but it's uh it's $10 more than the other one because reproductions should have different value than uh the Oh, is this a hard coverver Nintendo Power one? I don't guys, come on. Yeah, he's got a Chrono Trigger premium strategy guide for 125. Symphony of the Night. And it's not listed like reproduction in the rest of his auction. So I don't know like this one game fan"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g014",
+      "canonical_title": "Castlevania: Symphony of the Night",
+      "spoken_forms": [
+        "Symphony of the Night"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Reproduced guide.",
+          "evidence": [
+            {
+              "location": "00:04:06",
+              "quote": "more than the other one because reproductions should have different value than uh the Oh, is this a hard coverver Nintendo Power one? I don't guys, come on. Yeah, he's got a Chrono Trigger premium strategy guide for 125. Symphony of the Night. And it's not listed like reproduction in the rest of his auction. So I don't know like this one game fan"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g015",
+      "canonical_title": "Super Mario Bros. 3",
+      "spoken_forms": [
+        "Brothers 3 strategy guide"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Childhood guide, not preferred game edition.",
+          "evidence": [
+            {
+              "location": "00:07:11",
+              "quote": "Brothers 3 strategy guide because I was playing NES at my friend's house as a kid. >> Yeah. No, I loved those. Like the the big guides they did, especially the black official guide. That one was like >> Oh, yeah. The Nintendo Power Players guide."
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g016",
+      "canonical_title": "Forza Horizon 6",
+      "spoken_forms": [
+        "Forza Horizon 6"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Another member's play-time joke.",
+          "evidence": [
+            {
+              "location": "00:12:14",
+              "quote": "Forza Horizon 6 for 68 hours and 30 minutes straight. My man, go to bed, take a break. Anyways, uh, thank you guys for joining up and, uh, yeah, now I think we can get into the the episode. Tyler, we're so bad at saying thank you to people."
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g017",
+      "canonical_title": "Snow Bros.",
+      "spoken_forms": [
+        "snow bros"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Book-price analogy.",
+          "evidence": [
+            {
+              "location": "00:18:25",
+              "quote": "And I'm just looking at their shelf and being like man like every you you basically just bought everything and it was all kind of 20 bucks. And that that does seem nice like they didn't have like uh you know there's no snow bros of romantic that they had to go out and get. They could just keep collecting books for a reasonable price forever. >> So they there are books that are expensive and they get expensive. The problem with books um unlike games"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g018",
+      "canonical_title": "Ultima",
+      "spoken_forms": [
+        "Ultima"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Generational tastes.",
+          "evidence": [
+            {
+              "location": "00:24:31",
+              "quote": "like, \"I don't care. I like Brandon Sanderson and Stephen King because I have no taste in books.\" And they probably look down on me. And I'm realizing like, oh [ __ ] I'm the old man of video games talking about [ __ ] like Ultima and wizardry and the [ __ ] that like is important, but also"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g019",
+      "canonical_title": "Wizardry",
+      "spoken_forms": [
+        "wizardry"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Historical relevance.",
+          "evidence": [
+            {
+              "location": "00:24:31",
+              "quote": "care. I like Brandon Sanderson and Stephen King because I have no taste in books.\" And they probably look down on me. And I'm realizing like, oh [ __ ] I'm the old man of video games talking about [ __ ] like Ultima and wizardry and the [ __ ] that like is important, but also"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g020",
+      "canonical_title": "Ultima IV: Quest of the Avatar",
+      "spoken_forms": [
+        "Ultima 4"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Admired but not mandatory play.",
+          "evidence": [
+            {
+              "location": "00:25:31",
+              "quote": "this stuff. And uh the younger generation, a more culturally diverse population is entering and uh they don't collect the same things you do, Tyler. You're out of touch. >> I'm just telling just Oh, you got to play like Ultima 4. It's it's a cool game. >> You don't have [laughter] to play Ultima 4 at all. >> You really don't. >> You can skip You can skip it. I promise. >> Play Morwind. Morwind's a cool game. >> Morwind is a cool game, but you can"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g021",
+      "canonical_title": "The Elder Scrolls III: Morrowind",
+      "spoken_forms": [
+        "Morwind"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Admired but skippable.",
+          "evidence": [
+            {
+              "location": "00:25:31",
+              "quote": "of touch. >> I'm just telling just Oh, you got to play like Ultima 4. It's it's a cool game. >> You don't have [laughter] to play Ultima 4 at all. >> You really don't. >> You can skip You can skip it. I promise. >> Play Morwind. Morwind's a cool game. >> Morwind is a cool game, but you can probably skip it. >> All right. That was my adventure in uh in books. >> You did it. you collected or you uh went down the rabbit hole and then you put your"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g022",
+      "canonical_title": "Super Mario Bros.",
+      "spoken_forms": [
+        "Super Mario Brothers"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Graded sale anchors value discussion.",
+          "evidence": [
+            {
+              "location": "00:34:42",
+              "quote": "influence because I was on AJ Scaramucci's I wasn't on the podcast. I was on the YouTube site for AJ Scaramucci's podcast, who is uh Treasure Trove, the guy who bought the $3 million Super Mario Brothers. Apparently, he's all over Instagram. Every time he buys something, he's like, \"I spent a million dollars on on this jersey from Joe Montana.\" Did he just buy the $3 million Super Bowl Joe Montana jersey? Cuz there was just"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g023",
+      "canonical_title": "Rule of Rose",
+      "spoken_forms": [
+        "rule of rose"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Ordinary collector demand.",
+          "evidence": [
+            {
+              "location": "00:35:43",
+              "quote": "that expensive, you the people you can talk to that will be interested in that for any kind of sustained period is pretty small because that's it's completely out of touch. It's a lot different than buying um you know a rule of rose. >> Yeah, exactly. And I'm not say I'm not saying that this is a reason that this stuff won't have value because like the rich people do need to have their own tier of collectibles where they can to brag to each other like,"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g024",
+      "canonical_title": null,
+      "spoken_forms": [
+        "Techmo"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Unspecified Tecmo price example.",
+          "evidence": [
+            {
+              "location": "00:39:47",
+              "quote": "this like thinking these objects have real value. Uh because obviously between like 2019 and 2023, you know, we started seeing a bunch of things just sell for over $10,000 that would never have hit those prices before. >> Techmo, our favorite example. >> Well, okay, the there's the ridiculous ones, but not not even the ridiculous ones. Just like uh I don't know, a copy of like Ninja Gaiden or Ninja Gaiden 3 sell selling for like 10 or $20,000 and"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g025",
+      "canonical_title": "Ninja Gaiden",
+      "spoken_forms": [
+        "Ninja Gaiden"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Price anchoring.",
+          "evidence": [
+            {
+              "location": "00:39:47",
+              "quote": "over $10,000 that would never have hit those prices before. >> Techmo, our favorite example. >> Well, okay, the there's the ridiculous ones, but not not even the ridiculous ones. Just like uh I don't know, a copy of like Ninja Gaiden or Ninja Gaiden 3 sell selling for like 10 or $20,000 and like seeing repeated sales of that ridiculous thing. It's like, should I spend like now $2,000 on like a slightly worse grade one because like obviously the higher"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g026",
+      "canonical_title": "Ninja Gaiden III",
+      "spoken_forms": [
+        "Ninja Gaiden 3"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Price anchoring.",
+          "evidence": [
+            {
+              "location": "00:39:47",
+              "quote": "would never have hit those prices before. >> Techmo, our favorite example. >> Well, okay, the there's the ridiculous ones, but not not even the ridiculous ones. Just like uh I don't know, a copy of like Ninja Gaiden or Ninja Gaiden 3 sell selling for like 10 or $20,000 and like seeing repeated sales of that ridiculous thing. It's like, should I spend like now $2,000 on like a slightly worse grade one because like obviously the higher one has so much"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g027",
+      "canonical_title": "Super Mario Bros.",
+      "spoken_forms": [
+        "Matt Mario"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Matte-sticker candidate; valuation opinion.",
+          "evidence": [
+            {
+              "location": "00:40:47",
+              "quote": "or like you come in low, but I'm like I I don't think you always come in low. I I I think sometimes >> Oh, I mean some I mean literally no one in the world wants to hear what people think are underpriced, but like yeah, Matt Mario is underpriced. [ __ ] uh Sealed Zelda, Charm Mario Zelda underpriced. Like some of the stuff obviously I think is and like I own it, so like who cares what I have to say, but like Yeah. Obviously I think some things are"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g028",
+      "canonical_title": "The Legend of Zelda",
+      "spoken_forms": [
+        "Charamar Zelda"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Candidate Charumera Zelda; auction authenticity unresolved.",
+          "evidence": [
+            {
+              "location": "00:42:49",
+              "quote": "date the the date code on the disc because it's too blurry of a picture. >> I don't know. >> Well, you guys will soon find out if we rolled the dice and won. Woo. >> I mean, it's just so suspic. Like, why would you put Charamar Zelda in a lot? It's a It's a loose disc Famicom lot. Why would you put it with all these other junk games, but then know to put it in the title? Like >> I don't know. It is very suspicious. But"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g029",
+      "canonical_title": "Resident Evil",
+      "spoken_forms": [
+        "Biohazard on PlayStation"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Tyler reports fake seal/sticker acquisition.",
+          "evidence": [
+            {
+              "location": "00:43:50",
+              "quote": "Japanese bootleg stuff like recently, past couple years? Cuz like there's a lot more fake sealed games, fake unopened games. >> Uh we did cuz you I think you talked about how you got one, didn't you? >> Yeah. I've got a fake Biohazard on PlayStation. like they faked the sticker and they didn't do a great job, but you can only tell they did a really bad job when you start comparing it to a real one because they clearly didn't have a real one in hand and they faked it"
+            }
+          ],
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g030",
+      "canonical_title": "Castlevania: Rondo of Blood",
+      "spoken_forms": [
+        "Rondo of Blood"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "PC E Works/grading allegation, not verified fact.",
+          "evidence": [
+            {
+              "location": "00:44:52",
+              "quote": "know what? I I I bet there's a lot of games that VGA does does not know are fake because if I can spot fake things through like VGA cases like the one I'm thinking of recently was they created the [ __ ] like PC E works uh Rondo of Blood which is ridiculous but >> there these are real games with just like fake seals. Um and they're even reproing stick. It's crazy. Anyway, be very careful buying stuff from Japan. It is not just a place to buy cheap games"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g031",
+      "canonical_title": "Castlevania",
+      "spoken_forms": [
+        "hang tab Castlevania"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Hypothetical mental accounting.",
+          "evidence": [
+            {
+              "location": "00:47:56",
+              "quote": "for I don't know decades. Um not even thinking of it as an investment but thinking of it as an almost net zero transaction every time I spend money on a video game. Cuz if I if I buy that copy of Castlevania, it's a nice hang tab Castlevania for $500. In my mind, I am down $500 and up something that is worth $500. And so that it doesn't feel like I'm financially spending money because in my I'm always like, \"Oh, I could always sell it.\" Do I sell it? No, I"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g032",
+      "canonical_title": "Dragon Warrior",
+      "spoken_forms": [
+        "dragon warrior"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Single sale versus many Wii games.",
+          "evidence": [
+            {
+              "location": "00:52:00",
+              "quote": "have the greatest Wii collection in the world, you could have seven full Wii sets worldwide. But individually, like selling a bunch of Wii [ __ ] is really different than being like, \"All right, let me offload this sealed dragon warrior or whatever, just one thing and then it's done.\" >> Um, >> and in that sense, I think that the these like the the investor bros, I don't know what we're calling them, that's kind of like the endgame of >> of not wanting"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g033",
+      "canonical_title": "Quake",
+      "spoken_forms": [
+        "sealed Quake"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Tyler's subjective value range.",
+          "evidence": [
+            {
+              "location": "00:54:02",
+              "quote": "value a video game at like there's a lot of stuff between like say $100 and $1,000 that I think is really cool and I I like feel like it has value and it will hold value or something like that. You know, I've got like a a sealed Quake and I feel like I'll probably always be able to sell that between $100 and $1,000 kind of no matter what. Um, but when when you try to keep consolidating the value, consolidating the value, then all of a sudden it's like,"
+            }
+          ],
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g034",
+      "canonical_title": "Dragon Warrior IV",
+      "spoken_forms": [
+        "Dragon Warrior 4"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Hypothetical consolidation.",
+          "evidence": [
+            {
+              "location": "00:54:02",
+              "quote": "no matter what. Um, but when when you try to keep consolidating the value, consolidating the value, then all of a sudden it's like, oh [ __ ] like this entire shelf now is compressed down into say uh, you know, a sealed Dragon Warrior 4 or something. What's that? Is that a $10,000 game? And then all of a sudden I'm like I go back to the the calculus of like in my head this is"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g035",
+      "canonical_title": null,
+      "spoken_forms": [
+        "TCG simulator"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Stock-card game brainstorm.",
+          "evidence": [
+            {
+              "location": "01:07:15",
+              "quote": "fluctuates, your pack could go up or down depending like this would be really fun. This I I would I would buy the hell out of these cards. >> At least someone needs to make a video game based on this idea. >> No, >> like the TCG simulator but with this stock TCG. >> Yeah, this we we should do this, Tyler. We a bunch of penny stocks we buy in at, you know, like Oh my god. >> Oh my. So the commons are like penny stocks and they're like long shots and then like"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g036",
+      "canonical_title": "Little Samson",
+      "spoken_forms": [
+        "Little Samson"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Survivorship-bias example.",
+          "evidence": [
+            {
+              "location": "01:13:21",
+              "quote": "winners become the stories rather than like viewing the market as a whole. So, like, oh, uh, we were talking about Little Samson or like again cuz you bought it in a bull market like we only we only show you the winner rather than the thousands and thousands of losers. Like this plane survived a missile attack. Um, look at it. What planes are amazing."
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g037",
+      "canonical_title": "Super Mario Bros.",
+      "spoken_forms": [
+        "matte sticker"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Tyler's preferred Mario object differs from investment choice.",
+          "evidence": [
+            {
+              "location": "01:15:26",
+              "quote": "the thing I like more, but is not the thing that will have value. Uh the the $3 million Mario is the perfect example. And yes, it is one of the best things you could buy in video games, obviously. Um but I think the the matte sticker sealed one is better. It's a It's a complete and box matte sticker seal Mario, but the sticker is intact. I think that is a better object than the [ __ ] stupid second print cuz second print is garbage and no one wants stupid"
+            }
+          ],
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g038",
+      "canonical_title": "The Legend of Zelda",
+      "spoken_forms": [
+        "oval seal"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Zelda variant escalation.",
+          "evidence": [
+            {
+              "location": "01:34:45",
+              "quote": "what we do. >> Well, Johnny, I don't have every Zelda game yet, so I mean, I guess I should get every Zelda game. >> No. And then >> here's what here's what we did. You have Zelda. Oh my god. What are you doing with that oval seal? You [ __ ] idiot. >> Oh well. >> Okay. I got a C. I got I have a circle seal now. Oh my god. You don't have a first print. What are you doing? Empty slot. >> Hey, welcome to collecting. You didn't find the earliest date"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g039",
+      "canonical_title": "Stadium Events",
+      "spoken_forms": [
+        "stadium events"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Placeholder/set pressure.",
+          "evidence": [
+            {
+              "location": "01:36:47",
+              "quote": "worse copies. We are so incentivized by the empty slot phenomenon, we start creating bad solutions to help alleviate the mental stress that it causes us. So, uh, stadium events, um, how many of my guys out there are like, \"Oh man, I got 676, not 677.\" And then they went and bought like a reproduction stadium events. >> Gross. >> You don't need to. You got, you guys, you got world class track me."
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g040",
+      "canonical_title": "World Class Track Meet",
+      "spoken_forms": [
+        "world class track me"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Alternative to Stadium Events.",
+          "evidence": [
+            {
+              "location": "01:36:47",
+              "quote": "uh, stadium events, um, how many of my guys out there are like, \"Oh man, I got 676, not 677.\" And then they went and bought like a reproduction stadium events. >> Gross. >> You don't need to. You got, you guys, you got world class track me. You're good. Yeah, but even saying that, what that does is it gives the brain the opportunity to fill the slot. So all these behaviors, if you start thinking about all the behaviors as just an ability and an excuse to let"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g041",
+      "canonical_title": "Stadium Events",
+      "spoken_forms": [
+        "PAL copy of Stadium Events"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "World-set rationalization example.",
+          "evidence": [
+            {
+              "location": "01:37:47",
+              "quote": "happens. This is the thing that that's doing it to you. Um Yeah. Empty slot was also my nickname in college. I don't know if you know that. Um, but yeah, that's true. So, we create placeholders, right? We I bought I bought a PAL copy of Stadium Events because it it fills the hole. Do you want an example of how I've been able to justify a PAL copy? Like I I've given people a pathway to justify owning a PAL copy of Stadium. >> I'm getting the worldwide set. >> There you"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g042",
+      "canonical_title": "Little Samson",
+      "spoken_forms": [
+        "Little Samson"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Reissue/placeholder critique.",
+          "evidence": [
+            {
+              "location": "01:58:07",
+              "quote": "phenomenon behind game collecting and checklist and why uh they're terrible. Um it's why having a terrible copy feels better than having no copy. It's why buying a placeholder feels fine. It's how Limited Run can sell a copy of Little Samson to the world and people are like, \"Yeah, I finally got [ __ ] Little Samson. Feel good about it.\" You know, it it's I don't know how they can then sell a $60 game that's still a $60 game that anyone could just go buy. But"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g043",
+      "canonical_title": "Super Mario Bros.",
+      "spoken_forms": [
+        "worst known Matt sticker sealed"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Tyler's damaged owned Mario reduced stress.",
+          "evidence": [
+            {
+              "location": "02:00:09",
+              "quote": "show. I think we can move on unless you you have other feelings or thoughts, but that that's what I want to talk about today. >> I mean, when I I'd say the the most placeholder thing in my collection is I have I think the worst known Matt sticker sealed Super Mario Brothers complete in box. Uh if someone shot it with a BB gun or poked it with a pencil multiple times, it has a lot of"
+            }
+          ],
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g044",
+      "canonical_title": "Q*bert",
+      "spoken_forms": [
+        "Cubert"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Listener disappearing-games hypothetical.",
+          "evidence": [
+            {
+              "location": "02:11:22",
+              "quote": "your game room. Every game with the letter Q in the title. Uh, every game with the letter Q in the title created until this moment will disappear from this world when I do my spooky dance, says the spectre. He dances and Cubert, EverQuest, Quake, and all the others vaporize in front of your eyes. It's not just your room, it's throughout the world. So spooky, says the spectre. And now you must choose which letter will be"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g045",
+      "canonical_title": "EverQuest",
+      "spoken_forms": [
+        "EverQuest"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Hypothetical.",
+          "evidence": [
+            {
+              "location": "02:11:22",
+              "quote": "room. Every game with the letter Q in the title. Uh, every game with the letter Q in the title created until this moment will disappear from this world when I do my spooky dance, says the spectre. He dances and Cubert, EverQuest, Quake, and all the others vaporize in front of your eyes. It's not just your room, it's throughout the world. So spooky, says the spectre. And now you must choose which letter will be"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g046",
+      "canonical_title": "Quake",
+      "spoken_forms": [
+        "Quake"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Hypothetical.",
+          "evidence": [
+            {
+              "location": "02:11:22",
+              "quote": "Every game with the letter Q in the title. Uh, every game with the letter Q in the title created until this moment will disappear from this world when I do my spooky dance, says the spectre. He dances and Cubert, EverQuest, Quake, and all the others vaporize in front of your eyes. It's not just your room, it's throughout the world. So spooky, says the spectre. And now you must choose which letter will be"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g047",
+      "canonical_title": "Doom",
+      "spoken_forms": [
+        "Doom"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Surviving letter-S scenario.",
+          "evidence": [
+            {
+              "location": "02:12:24",
+              "quote": "man. Every super anything ever >> or like like just >> N have plural words. Yeah, obviously S is going to get rid of it. >> S. >> That would be very spooky. And we get to Oh, Quake's already gone, though. >> We get to keep Doom. >> Every Super Mario is gone."
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g048",
+      "canonical_title": "The Legend of Zelda: Skyward Sword",
+      "spoken_forms": [
+        "Skyward Sword"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Hypothetical deletion.",
+          "evidence": [
+            {
+              "location": "02:13:24",
+              "quote": "of a sudden, uh, oh, Legend of Zelda stays around. >> Yeah, Zelda stays, >> but Super Mario Brothers is gone, >> but not every Legend of Zelda. >> I think this increases the prominence of Doom as a collectible. >> Yeah, Skyward Sword dead. >> Yeah, sorry. Sorry. Skyward Sword Seasons game's gone. >> Ultima, it's it's We're good. Wizardry, we're good, guys. We are still in business. >> But anything that has a sequel is pretty much gone. >> Yeah. No, I'm"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g049",
+      "canonical_title": null,
+      "spoken_forms": [
+        "Seasons"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Unspecified Zelda title.",
+          "evidence": [
+            {
+              "location": "02:13:24",
+              "quote": "Yeah, Zelda stays, >> but Super Mario Brothers is gone, >> but not every Legend of Zelda. >> I think this increases the prominence of Doom as a collectible. >> Yeah, Skyward Sword dead. >> Yeah, sorry. Sorry. Skyward Sword Seasons game's gone. >> Ultima, it's it's We're good. Wizardry, we're good, guys. We are still in business. >> But anything that has a sequel is pretty much gone. >> Yeah. No, I'm I'm with you. I think we should we should go Scorched"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g050",
+      "canonical_title": "Ultima",
+      "spoken_forms": [
+        "Ultima"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Hypothetical.",
+          "evidence": [
+            {
+              "location": "02:13:24",
+              "quote": "Super Mario Brothers is gone, >> but not every Legend of Zelda. >> I think this increases the prominence of Doom as a collectible. >> Yeah, Skyward Sword dead. >> Yeah, sorry. Sorry. Skyward Sword Seasons game's gone. >> Ultima, it's it's We're good. Wizardry, we're good, guys. We are still in business. >> But anything that has a sequel is pretty much gone. >> Yeah. No, I'm I'm with you. I think we should we should go Scorched Earth and pick S."
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g051",
+      "canonical_title": "Wizardry",
+      "spoken_forms": [
+        "Wizardry"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "JOKE_ASIDE",
+          "context": "Hypothetical.",
+          "evidence": [
+            {
+              "location": "02:13:24",
+              "quote": ">> but not every Legend of Zelda. >> I think this increases the prominence of Doom as a collectible. >> Yeah, Skyward Sword dead. >> Yeah, sorry. Sorry. Skyward Sword Seasons game's gone. >> Ultima, it's it's We're good. Wizardry, we're good, guys. We are still in business. >> But anything that has a sequel is pretty much gone. >> Yeah. No, I'm I'm with you. I think we should we should go Scorched Earth and pick S. >> Yeah. >> Yeah. >> [ __ ] [ __ ]"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g052",
+      "canonical_title": null,
+      "spoken_forms": [
+        "Papon gals"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Unclear Sachen title in another collector's set.",
+          "evidence": [
+            {
+              "location": "02:14:26",
+              "quote": "this all from Josh Berley? What's going on? >> I I I He bought um I don't know. He He bought a lot of different stuff. Um he bought a bunch of Satchin stuff. >> He bought a full Satchin set except for Papon gals from Josh Bley. And then he bought a sealed Super Mario Brothers, an oval seal, so it's worthless. And Tyler thinks it sucks. But hey, it's still seal Super Mario Brothers. It fills the slot. Uh, but you know how I feel"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g053",
+      "canonical_title": "Nintendo World Championships 1990",
+      "spoken_forms": [
+        "NWC"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Other collectors; Joe ownership uncertain.",
+          "evidence": [
+            {
+              "location": "02:14:26",
+              "quote": "Satchin stuff. >> Yeah, I don't care about Satchin stuff >> except for me and Josh and Joe. >> Yeah, he also showed off like a sealed Super Mario, right? >> Yeah. >> Um, yeah. Uh, I I don't know if he was there was like two NWC's. I don't know if they're his or he was showing them off. They were talking he was talking with Nick about Nintendo World Championship."
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g054",
+      "canonical_title": "Hyrule Warriors",
+      "spoken_forms": [
+        "Wii U Hyrule Warriors"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Another member's pickup.",
+          "evidence": [
+            {
+              "location": "02:15:26",
+              "quote": ">> Oh my I don't know. >> Nick collector who has both Nintendo World Championship. >> But I'm going to say um Tiger Wolf wins collection collecting with a sealed Wii U Hyrule Warriors a 9.2. >> Uh >> and peaceful with uh a sweet home because we're getting close to spooky season. >> I'll disagree, >> man. Sorry. Sorry there, Joe. I don't care about Satchum. He's got two. It's not just a Satchin set. He's"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g055",
+      "canonical_title": "Sweet Home",
+      "spoken_forms": [
+        "sweet home"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Another member's pickup.",
+          "evidence": [
+            {
+              "location": "02:15:26",
+              "quote": "Oh my I don't know. >> Nick collector who has both Nintendo World Championship. >> But I'm going to say um Tiger Wolf wins collection collecting with a sealed Wii U Hyrule Warriors a 9.2. >> Uh >> and peaceful with uh a sweet home because we're getting close to spooky season. >> I'll disagree, >> man. Sorry. Sorry there, Joe. I don't care about Satchum. He's got two. It's not just a Satchin set. He's got all these color variants. He's got all four"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g056",
+      "canonical_title": "Huge Insect",
+      "spoken_forms": [
+        "Huge Insect"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Color variants in another member's collection.",
+          "evidence": [
+            {
+              "location": "02:15:26",
+              "quote": "getting close to spooky season. >> I'll disagree, >> man. Sorry. Sorry there, Joe. I don't care about Satchum. He's got two. It's not just a Satchin set. He's got all these color variants. He's got all four color variants of Huge Insect. >> Oh god. Not the color variants of Huge Insect. >> Yeah, he's got multiple Hell Fighters. >> Oh my god. Multiple copies. Tell me less. [laughter] >> [gasps] >> Uh guys, if you don't know, Satchin is uh the most obscure"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g057",
+      "canonical_title": "Hell Fighter",
+      "spoken_forms": [
+        "Hell Fighters"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Multiple copies.",
+          "evidence": [
+            {
+              "location": "02:15:26",
+              "quote": "about Satchum. He's got two. It's not just a Satchin set. He's got all these color variants. He's got all four color variants of Huge Insect. >> Oh god. Not the color variants of Huge Insect. >> Yeah, he's got multiple Hell Fighters. >> Oh my god. Multiple copies. Tell me less. [laughter] >> [gasps] >> Uh guys, if you don't know, Satchin is uh the most obscure probably English language 72 pin NES games >> that was not released actually in the US. It"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g058",
+      "canonical_title": null,
+      "spoken_forms": [
+        "Dracula version two"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Tyler's unspecified prior purchase arrived.",
+          "evidence": [
+            {
+              "location": "02:16:26",
+              "quote": "mean? [laughter] >> Yeah. I have we I I think we've done that. Like we we we get into the real nitty-gritty of uh that stuff, but we always could. Anyways, Tyler, uh you buy or play anything? >> Um I said that I got my my Dracula version two in the mail, right? >> Yeah, you did. >> Um I think I bought one more thing. Hold on. Yeah. So, last episode we did the trading card thing and I found uh uh Deck Demon, which there are a few Magic the Gathering pieces of"
+            }
+          ],
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g059",
+      "canonical_title": "Deck Demon",
+      "spoken_forms": [
+        "Deck Demon"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Tyler bought early MTG deck software.",
+          "evidence": [
+            {
+              "location": "02:17:28",
+              "quote": "there were earlier pieces of software that were mail order only. All of them seem very obscure. The least obscure of these is Deck Demon. Uh, and there's a physical copy of it. I don't know. There must be physical copies of the other ones because this stuff was mail order, so they have to have at least like floppies around. But, uh, it's it's one of the earliest"
+            }
+          ],
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g060",
+      "canonical_title": null,
+      "spoken_forms": [
+        "Chandelar"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Unclear early MTG game reference.",
+          "evidence": [
+            {
+              "location": "02:16:26",
+              "quote": "more thing. Hold on. Yeah. So, last episode we did the trading card thing and I found uh uh Deck Demon, which there are a few Magic the Gathering pieces of software from like the early 90s before uh Hasbro ever made like Chandelar and those very early Magic the Gathering games. I think the earliest Magic the Gathering thing is that screen saver set that I was talking about. Someone bought that by the way uh in that episode. But"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g061",
+      "canonical_title": "Sonic Jam",
+      "spoken_forms": [
+        "Sonic Jam"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Tyler bought associated Sonic card.",
+          "evidence": [
+            {
+              "location": "02:17:28",
+              "quote": "people definitely know about. And then, um, Johnny, I also got I won Sonic the Hedgehog 1997 trading card. Cool kids know it's not okay to fight or whatever that card is. >> Yeah, >> it's not right to fight, which goes in Sonic Jam, which I won for $6 because you took your bid off. Thank you. You You're very welcome. Uh the Beasty Boys"
+            }
+          ],
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g062",
+      "canonical_title": "Jagged Alliance 3",
+      "spoken_forms": [
+        "Jagged Alliance 3"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "PASSING_MENTION",
+          "context": "Completed, possible replay; speaker uncertain.",
+          "evidence": [
+            {
+              "location": "02:18:28",
+              "quote": "don't I don't know. I'm not playing games, Johnny. Three weeks. I don't think I played anything >> really. That's like a pretty long >> So busy at work and weddings and all this this stuff. >> Yeah, same. Um >> I I beat Jagged Alliance 3. We might be playing Jagged Alliance 3 again. And that's how much we enjoyed Jacket Alliance 3. >> We must have really enjoyed it. Um I have not played anything. I I again we were super busy and then there was like uh the"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g063",
+      "canonical_title": null,
+      "spoken_forms": [
+        "Duke Nukem"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Johnny bought unspecified installment with hint card.",
+          "evidence": [
+            {
+              "location": "02:18:28",
+              "quote": "I have not played anything. I I again we were super busy and then there was like uh the magic release of the Hobbit. So that that's like what I went and did. Um I played a lot of The Hobbit. Um did I say that I got the Duke Nukem with the hint card in it? The little phone card? >> I have no idea. But you did now. >> Yep. So I I bought that. Um, I bought a a uh Japanese copy of Biohazard Outbreak because I think it has a better cover than the US one."
+            }
+          ],
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g064",
+      "canonical_title": "Resident Evil Outbreak",
+      "spoken_forms": [
+        "Biohazard Outbreak"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Johnny bought Japanese cover preference.",
+          "evidence": [
+            {
+              "location": "02:18:28",
+              "quote": "I played a lot of The Hobbit. Um did I say that I got the Duke Nukem with the hint card in it? The little phone card? >> I have no idea. But you did now. >> Yep. So I I bought that. Um, I bought a a uh Japanese copy of Biohazard Outbreak because I think it has a better cover than the US one. I got Dracula 3: The"
+            }
+          ],
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g065",
+      "canonical_title": "Dracula 3: The Path of the Dragon",
+      "spoken_forms": [
+        "Path of the Dragon"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUBSTANTIAL_COVERAGE",
+          "context": "Walmart Dracula 3 bundle.",
+          "evidence": [
+            {
+              "location": "02:19:30",
+              "quote": "Path of the Dragon on PC, but Tyler, I got the special one. You know, it has a sticker on it and it says Walmart exclusive package includes Dracula Resurrection and The Last Sanctuary packed right into the box. >> No way. Oh, that's a that's"
+            }
+          ],
+          "speaker": {
+            "candidate": "Johnny",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g066",
+      "canonical_title": "Dracula: Resurrection",
+      "spoken_forms": [
+        "Dracula Resurrection"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Included in bundle.",
+          "evidence": [
+            {
+              "location": "02:19:30",
+              "quote": "Path of the Dragon on PC, but Tyler, I got the special one. You know, it has a sticker on it and it says Walmart exclusive package includes Dracula Resurrection and The Last Sanctuary packed right into the box. >> No way. Oh, that's a that's really all three games there. >> I don't I don't even I've never even heard of that version of Dracula 3: The Path of the Dragon. >> I know."
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g067",
+      "canonical_title": "Dracula 2: The Last Sanctuary",
+      "spoken_forms": [
+        "The Last Sanctuary"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Included in bundle.",
+          "evidence": [
+            {
+              "location": "02:19:30",
+              "quote": "Path of the Dragon on PC, but Tyler, I got the special one. You know, it has a sticker on it and it says Walmart exclusive package includes Dracula Resurrection and The Last Sanctuary packed right into the box. >> No way. Oh, that's a that's really all three games there. >> I don't I don't even I've never even heard of that version of Dracula 3: The Path of the Dragon. >> I know. >> Pretty cool, huh?"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g068",
+      "canonical_title": null,
+      "spoken_forms": [
+        "Nexer"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Past import-shooter collecting; title unclear.",
+          "evidence": [
+            {
+              "location": "02:08:19",
+              "quote": "and your your RPGs and your first prince, we we had cool games like Nexer and and HyperDuel and Radiant Silver Gun. That made you cool. Let me tell you, >> Tyler was buying things that other people thought were cool, not things he necessarily [laughter] wanted. He tricked himself. >> Very true."
+            }
+          ],
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g069",
+      "canonical_title": "Hyper Duel",
+      "spoken_forms": [
+        "HyperDuel"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Past shooter collecting.",
+          "evidence": [
+            {
+              "location": "02:08:19",
+              "quote": "and your your RPGs and your first prince, we we had cool games like Nexer and and HyperDuel and Radiant Silver Gun. That made you cool. Let me tell you, >> Tyler was buying things that other people thought were cool, not things he necessarily [laughter] wanted. He tricked himself. >> Very true. >> Yeah. See? Hey,"
+            }
+          ],
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g070",
+      "canonical_title": "Radiant Silvergun",
+      "spoken_forms": [
+        "Radiant Silver Gun"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "medium",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Past shooter collecting.",
+          "evidence": [
+            {
+              "location": "02:08:19",
+              "quote": "and your your RPGs and your first prince, we we had cool games like Nexer and and HyperDuel and Radiant Silver Gun. That made you cool. Let me tell you, >> Tyler was buying things that other people thought were cool, not things he necessarily [laughter] wanted. He tricked himself. >> Very true. >> Yeah. See? Hey, Psychology. Welcome"
+            }
+          ],
+          "speaker": {
+            "candidate": "Tyler",
+            "confidence": "medium",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g071",
+      "canonical_title": "Super Mario Brothers",
+      "spoken_forms": [
+        "Super Mario Brothers"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Hypothetical expanding checklist, not purchases.",
+          "evidence": [
+            {
+              "location": "01:33:43",
+              "quote": "defined thing. Not that really the NES list is a defined thing, but you it could be, oh, I'm not a real video game collector until I own a a Super Mario Brothers. And then you get that and you're like, oh well, if I was a real video game collector, I would also own a Sonic the Hedgehog. And and then you start thinking of like, oh well, every real video game collector needs to own"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g072",
+      "canonical_title": "Sonic the Hedgehog",
+      "spoken_forms": [
+        "Sonic the Hedgehog"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Hypothetical expanding checklist, not purchases.",
+          "evidence": [
+            {
+              "location": "01:33:43",
+              "quote": "defined thing, but you it could be, oh, I'm not a real video game collector until I own a a Super Mario Brothers. And then you get that and you're like, oh well, if I was a real video game collector, I would also own a Sonic the Hedgehog. And and then you start thinking of like, oh well, every real video game collector needs to own a God of War. And it just becomes this endless list of things you feel like you don't have. Well, you you've hit on a very big"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g073",
+      "canonical_title": "God of War",
+      "spoken_forms": [
+        "God of War"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Hypothetical expanding checklist, not purchases.",
+          "evidence": [
+            {
+              "location": "01:33:43",
+              "quote": "And then you get that and you're like, oh well, if I was a real video game collector, I would also own a Sonic the Hedgehog. And and then you start thinking of like, oh well, every real video game collector needs to own a God of War. And it just becomes this endless list of things you feel like you don't have. Well, you you've hit on a very big part of it. So, it's easy to give you the comic book example and checklist example because but the [ __ ]"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g074",
+      "canonical_title": "Metroid",
+      "spoken_forms": [
+        "Metroid"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Hypothetical expanding checklist, not purchases.",
+          "evidence": [
+            {
+              "location": "01:33:43",
+              "quote": "actually exist. They it just starts being like again I'm a real video game collector using your example. I'm not a real video game collector until I own this. Okay, you give yourself an example. I need to open a Super Mario, a Metroid, and a Zelda, and then I'm a real NES collector. And then here's what your brain does after you get those. You're like, well, a real NES collector would also have a Castlevania and a Contra,"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g075",
+      "canonical_title": "Zelda",
+      "spoken_forms": [
+        "Zelda"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Hypothetical expanding checklist, not purchases.",
+          "evidence": [
+            {
+              "location": "01:33:43",
+              "quote": "it just starts being like again I'm a real video game collector using your example. I'm not a real video game collector until I own this. Okay, you give yourself an example. I need to open a Super Mario, a Metroid, and a Zelda, and then I'm a real NES collector. And then here's what your brain does after you get those. You're like, well, a real NES collector would also have a Castlevania and a Contra,"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g076",
+      "canonical_title": "Castlevania",
+      "spoken_forms": [
+        "Castlevania"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Hypothetical expanding checklist, not purchases.",
+          "evidence": [
+            {
+              "location": "01:33:43",
+              "quote": "yourself an example. I need to open a Super Mario, a Metroid, and a Zelda, and then I'm a real NES collector. And then here's what your brain does after you get those. You're like, well, a real NES collector would also have a Castlevania and a Contra,"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cq299-g077",
+      "canonical_title": "Contra",
+      "spoken_forms": [
+        "Contra"
+      ],
+      "entity_granularity": "title_unspecified_release",
+      "platform": null,
+      "region_edition": null,
+      "identification_confidence": "high",
+      "clarification_needed": true,
+      "occurrence_groups": [
+        {
+          "type": "SUPPORTING_EXAMPLE",
+          "context": "Hypothetical expanding checklist, not purchases.",
+          "evidence": [
+            {
+              "location": "01:33:43",
+              "quote": "need to open a Super Mario, a Metroid, and a Zelda, and then I'm a real NES collector. And then here's what your brain does after you get those. You're like, well, a real NES collector would also have a Castlevania and a Contra,"
+            }
+          ],
+          "speaker": {
+            "candidate": null,
+            "confidence": "unknown",
+            "basis": "Caption/dialogue continuity only; no audio verification."
+          }
+        }
+      ]
+    }
+  ],
+  "lore": [
+    {
+      "id": "cq299-l001",
+      "kind": "show_discussion",
+      "summary": "Critique concerns expensive reproduced guides with available originals, not every possible reproduction.",
+      "topics": [
+        "reproductions",
+        "guides"
+      ],
+      "evidence": [
+        {
+          "location": "00:07:11",
+          "quote": "somewhere printed and bound it. >> So look I that's what one of the things I want to talk about on the episode is the idea of that. But um this isn't even that because like a lot of times it needs to be hard to find. This stuff isn't hard to find. that's available like and roughly well a lot of this is roughly the same price you you're paying a premium on this Johnny it's for the"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq299-l002",
+      "kind": "show_discussion",
+      "summary": "Book collectors prompt comparison of readers, shelf collectors, historical specialists and money.",
+      "topics": [
+        "books",
+        "collecting"
+      ],
+      "evidence": [
+        {
+          "location": "00:20:27",
+          "quote": "an Instagram video or I'm going to get on YouTube and have my wall behind me. These are not the same thing. >> They all have their wall behind them. Like, it doesn't matter what level. There's like the I think just again parallels to video games. There are the people who are so excited about reading and clearly look down upon people who have all these books they don't read. Like they very clearly have like a small curated shelf and they're always talking about what"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq299-l003",
+      "kind": "host_opinion",
+      "summary": "Tyler recognizes his NES/computer tastes parallel old book specialists.",
+      "topics": [
+        "generational_taste"
+      ],
+      "evidence": [
+        {
+          "location": "00:24:31",
+          "quote": "one cares about except us old bookmen.\" And I'm just like, \"I don't care. I like Brandon Sanderson and Stephen King because I have no taste in books.\" And they probably look down on me. And I'm realizing like, oh [ __ ] I'm the old man of video games talking about [ __ ] like Ultima and wizardry and the [ __ ] that like is important, but also"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq299-l004",
+      "kind": "host_opinion",
+      "summary": "Tyler values enthusiasm for objects beyond price.",
+      "topics": [
+        "curiosity"
+      ],
+      "evidence": [
+        {
+          "location": "00:26:31",
+          "quote": "don't care. I could look at expensive things anywhere. I don't know. I could look at someone's bank account balance. It just says $10 million. That doesn't excite me. I want someone who's excited to talk about the thing for what it is, not the value it represents. Well, that that's part of the problem. And I I think that gets us uh next to our episode, Tyler. That's you know, people have entered the hobby and it feels less about the love of the hobby and more about"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq299-l005",
+      "kind": "disagreement",
+      "summary": "Tyler disputes broad investment-sentiment claim; Johnny narrows it to their circle.",
+      "topics": [
+        "investment",
+        "audience"
+      ],
+      "evidence": [
+        {
+          "location": "00:29:37",
+          "quote": "collector's space, you know, influence and everything around it that people have kind of changed their mind. They're like, \"Well, I think it is kind of an investment too, right?\" Like I I think that has become the sentiment. >> I disagree with that. >> I don't I don't know what you mean. So for you you always say like it's not Reddit, it's collectors. The majority of collectors are like the people on Reddit and YouTube. >> You think the majority of collectors"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq299-l006",
+      "kind": "interpretation",
+      "summary": "Johnny proposes headline purchases legitimize spending rather than directly setting all prices.",
+      "topics": [
+        "price_anchoring"
+      ],
+      "evidence": [
+        {
+          "location": "00:38:46",
+          "quote": "people even higher into the market. >> Yeah. I mean, and part of this is psychology. I I think when somebody spends this much money on something like the $3 million Mario, it legitimizes the money that you've spent. So psychologically you feel safer because you start to believe ah these are actually investments. Um these become justifications for you to go ahead and spend more and it so in that way I don't think it really affects the prices. I I think it affects the"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq299-l007",
+      "kind": "open_loop",
+      "summary": "Possible Charumera Zelda auction is unresolved; unclear date code and seller context.",
+      "topics": [
+        "auction",
+        "authenticity"
+      ],
+      "evidence": [
+        {
+          "location": "00:42:49",
+          "quote": "god, may what? What do I do? Thanks, Tyler. Thanks for launching psychological journey. >> You can't see the date the the date code on the disc because it's too blurry of a picture. >> I don't know. >> Well, you guys will soon find out if we rolled the dice and won. Woo. >> I mean, it's just so suspic. Like, why would you put Charamar Zelda in a lot? It's a It's a loose disc Famicom lot. Why would you put it with all these other junk games, but then know"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq299-l008",
+      "kind": "anecdote",
+      "summary": "Tyler admits framing purchases as exchanged value while seldom selling.",
+      "topics": [
+        "mental_accounting"
+      ],
+      "evidence": [
+        {
+          "location": "00:47:56",
+          "quote": "education everything that has happened that you say values go up and down and I'm okay with that. So I have definitely overspent for I don't know decades. Um not even thinking of it as an investment but thinking of it as an almost net zero transaction every time I spend money on a video game. Cuz if I if I buy that copy of Castlevania, it's a nice hang tab Castlevania for $500. In my mind, I am down $500 and up something that is worth $500. And so that it"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq299-l009",
+      "kind": "interpretation",
+      "summary": "Proposed continuum from use to retained value to expected profit; not financial doctrine.",
+      "topics": [
+        "consumption",
+        "investment"
+      ],
+      "evidence": [
+        {
+          "location": "00:49:58",
+          "quote": "collecting and then if the minute you're like well and it's probably going to go up so I can make money then it shifts into uh totally an investment category thing and this is the problem as your hobby goes through this cycle of consumption collecting and investing as you as people start to see this even if they haven't put the words on it as they start to intellectualize it then their their brain is being tricked you know you're like okay I'm not even putting the words on it but my"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq299-l010",
+      "kind": "show_discussion",
+      "summary": "Selling many items has effort/storage friction; examples hypothetical.",
+      "topics": [
+        "liquidity"
+      ],
+      "evidence": [
+        {
+          "location": "00:52:00",
+          "quote": "know, kind of depending on what level of stuff you collect. If you collect Nintendo Wii games and you could have the greatest Wii collection in the world, you could have seven full Wii sets worldwide. But individually, like selling a bunch of Wii [ __ ] is really different than being like, \"All right, let me offload this sealed dragon warrior or whatever, just one thing and then it's done.\" >> Um, >> and in that sense, I think that the these like the the investor"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq299-l011",
+      "kind": "correction",
+      "summary": "Johnny limits 'better' to investment aims, not enjoyment.",
+      "topics": [
+        "curation",
+        "investment"
+      ],
+      "evidence": [
+        {
+          "location": "00:53:00",
+          "quote": "experts in collecting. We've done it wrong forever. Uh, we have two diametrically opposing ideas working on our audience here. Um, anyways, so Johnny, I know that that's like the better way to collect, quote unquote. >> Better if it's an investment, Tyler, but"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq299-l012",
+      "kind": "interpretation",
+      "summary": "Collecting knowledge and investment skill are distinguished; people may have both.",
+      "topics": [
+        "expertise"
+      ],
+      "evidence": [
+        {
+          "location": "01:10:18",
+          "quote": "necessarily a skilled investor though. Um or how like if you look at investment as a skill. These two things are not the same. They are not uh these are mutually exclusive skills, right? You can you can have both um but one does not presume the other. So just because you're an expert at video game collecting does not mean you are an expert investor. But when rich people do it and they can show you that the values have gone up and the line moves up and everything, people"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq299-l013",
+      "kind": "interpretation",
+      "summary": "Successful examples can hide losers; airplane illustration unverified.",
+      "topics": [
+        "survivorship_bias"
+      ],
+      "evidence": [
+        {
+          "location": "01:13:21",
+          "quote": "winners become the stories rather than like viewing the market as a whole. So, like, oh, uh, we were talking about Little Samson or like again cuz you bought it in a bull market like we only we only show you the winner rather than the thousands and thousands of losers. Like this plane survived a missile attack. Um, look at it. What planes are amazing. It doesn't show you all all the other planes that uh are just uh scrap heap now because"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq299-l014",
+      "kind": "host_opinion",
+      "summary": "Tyler says sealed can improve collections when premium is small; Johnny agrees.",
+      "topics": [
+        "sealed",
+        "counterexample"
+      ],
+      "evidence": [
+        {
+          "location": "01:18:30",
+          "quote": "you think that any of these things haven't worked on me? I have been tricked by all this as well. So, uh just you know, victim talking to victim over here, Tyler. Not not calling you out. >> To be I don't think this is a universally bad thing. I think my collection is better for the fact that I have in recent years bought a lot more sealed than just nice CIB because I think that the delta between uh like a nice CIB and a sealed DVD game a lot of the time is very"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq299-l015",
+      "kind": "interpretation",
+      "summary": "Same 19 objects feel inadequate once framed as 19 of 20; Johnny's core thought experiment.",
+      "topics": [
+        "empty_slot"
+      ],
+      "evidence": [
+        {
+          "location": "01:30:41",
+          "quote": "imagine these are comic books. Now, >> you have you have 19 comics, but the series is 20 comics long. You are missing number seven. >> How do you feel about those same 19 books? >> Well, there's two ways to feel about it. One is that I don't really own anything cuz I don't own the set."
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq299-l016",
+      "kind": "reported_factual_claim",
+      "summary": "Johnny says mechanism discussed before but not named; exact first use not checked.",
+      "topics": [
+        "show_history"
+      ],
+      "evidence": [
+        {
+          "location": "01:34:45",
+          "quote": "Mario Brothers date codes that make me really jealous. This is the empty slot problem. This is the effect that happens and how we created ourselves. And that's why I said it's the basis for [ __ ] collecting. And uh we have never named it on the show before, but I was like, \"Oh man, why why"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq299-l017",
+      "kind": "interpretation",
+      "summary": "Must-own games and variants create slots beyond fixed sets.",
+      "topics": [
+        "empty_slot",
+        "identity"
+      ],
+      "evidence": [
+        {
+          "location": "01:33:43",
+          "quote": "oh well, if I was a real video game collector, I would also own a Sonic the Hedgehog. And and then you start thinking of like, oh well, every real video game collector needs to own a God of War. And it just becomes this endless list of things you feel like you don't have. Well, you you've hit on a very big part of it. So, it's easy to give you the comic book example and checklist example because but the [ __ ] collector brain is insidious and horrible"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq299-l018",
+      "kind": "interpretation",
+      "summary": "Placeholders can relieve checklist pressure, not become equivalent originals.",
+      "topics": [
+        "empty_slot",
+        "reproductions"
+      ],
+      "evidence": [
+        {
+          "location": "01:36:47",
+          "quote": "bought like a reproduction stadium events. >> Gross. >> You don't need to. You got, you guys, you got world class track me. You're good. Yeah, but even saying that, what that does is it gives the brain the opportunity to fill the slot. So all these behaviors, if you start thinking about all the behaviors as just an ability and an excuse to let our brain off the hook and say the slot is filled. I have filled the slot. I can move on to the next thing. That's"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq299-l019",
+      "kind": "show_discussion",
+      "summary": "Hosts distinguish video standards from geography.",
+      "topics": [
+        "regions"
+      ],
+      "evidence": [
+        {
+          "location": "01:39:48",
+          "quote": "fact that Japan also used NTSC and pretend >> NTSC J. Okay, it's NTSC J. Okay, Tyler, don't be an idiot. Um any Yeah. Anyways, um yeah, it's it's stupid. Every time someone, one of them people shortcut PAL to Europe, and PAL is not European. Uh PAL was in the Middle East, it was in Africa. Again, video standards is a horrible thing to to call things. But anyways, this is what we do. >> Video standards that we haven't used in 20 years, >> right? And also never"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq299-l020",
+      "kind": "reported_factual_claim",
+      "summary": "Uncertain pronunciation, candidate Zeigarnik; verify concept before educational use.",
+      "topics": [
+        "psychology"
+      ],
+      "evidence": [
+        {
+          "location": "01:40:48",
+          "quote": "got a big empty slot and it's called Europe. Get there. >> I'm never going there. [laughter] Sorry. >> Yeah. Um, anyways, part of what happens too with the empty slot, uh, God, I'm I'm going to say this word wrong. Um, zygarnic effect. I think it's the zygarnic effect if I'm >> Wow. Oh, look at someone who's reading their books and not just collecting them. >> Yeah. Yeah. Sorry. Um, I I've been so long since I've heard this [ __ ] word and I don't know"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq299-l021",
+      "kind": "interpretation",
+      "summary": "Poor-condition last-item hypothetical illustrates accumulated decisions affecting buying.",
+      "topics": [
+        "sunk_cost"
+      ],
+      "evidence": [
+        {
+          "location": "01:45:54",
+          "quote": "There's no way I would do that. However, if you've spent the last 20 years doing it and this is the last thing you need, you will start to consider it. Uh because you are not this is not one decision in front of you. You have 99 previous decisions and that's where the sunk cost comes in. You're like, I have made so many decisions to get me to this point. If I don't make this decision now, I will not fill this empty slot or I might have to wait. And the waiting causes"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq299-l022",
+      "kind": "anecdote",
+      "summary": "Tyler found moving from homebrew identity to Famicom interests difficult.",
+      "topics": [
+        "identity"
+      ],
+      "evidence": [
+        {
+          "location": "01:49:58",
+          "quote": "a period where it was hard for me to break away and be like, \"Okay, if I want to get interested in Famicom rarities now, like I will have to stop spending money on NES homebrew because I cannot do both things at the same time.\" And it is hard to break away and be like, \"All right, well all of a sudden I'm not going to be talking about new NES homebrew releases in the forums with people. I'm not"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq299-l023",
+      "kind": "anecdote",
+      "summary": "Johnny stopped Game Gear because he did not care enough.",
+      "topics": [
+        "abandoned_sets"
+      ],
+      "evidence": [
+        {
+          "location": "01:51:00",
+          "quote": "counterintuitive though to what has been going on in your existence. Hey, do you have a PSP set, Johnny? >> I don't >> give up. Give up now. >> I I'm not trying for a PSP set. You know, the first set I gave up on, like just 100% I gave up on Game Gear. I was just like, I'm not I'm not doing this. I I don't like it enough. I don't actually care. Uh the pain of not owning them is actually not so great. I don't care. I'm like, I'm just not doing this. I just I"
+        }
+      ],
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq299-l024",
+      "kind": "interpretation",
+      "summary": "Item-count percentage can conceal remaining cost.",
+      "topics": [
+        "progress_metrics"
+      ],
+      "evidence": [
+        {
+          "location": "01:53:01",
+          "quote": "really influences them. >> But it doesn't it doesn't make sense when it's just like like when you're building a a collecting set. Let's say you're building like a loose NES set. Like half of that is stadium events. So your 99% complete is really just 50% complete. >> Yes. But and that's the power of the percentage because it doesn't I mean we've talked about that like that's not a real number. The how much you have to spend left is a better calibration"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq299-l025",
+      "kind": "disagreement",
+      "summary": "Tyler says long searches do not make mold/sunfade acceptable; Johnny distinguishes missing-manual piecing.",
+      "topics": [
+        "condition"
+      ],
+      "evidence": [
+        {
+          "location": "01:54:03",
+          "quote": "you're like [snorts] when you look at a really sunfaded copy and you're like, \"Yeah, maybe.\" then that's uh that's a problem. Um you should always have a >> I have I have so many sets and and things I've I'm working on and I I've never looked at something with like mold"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq299-l026",
+      "kind": "anecdote",
+      "summary": "Tyler's damaged matte Mario reduced stress and lets him wait for a better copy.",
+      "topics": [
+        "placeholders",
+        "counterexample"
+      ],
+      "evidence": [
+        {
+          "location": "02:01:10",
+          "quote": "I I feel so much better. Like one day a decent M Super Mario Brothers might come up and I might upgrade it and that will be fine. But the fact that it's already just sitting there and I know that it's like it's just an upgrade problem. It's not an ownership problem. It is it makes me feel a hund times better. And I'm not saying I'd want to own a reproduction or one that's moldy or like sun sunfaded or things like that or complete deal breakers, but uh"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq299-l027",
+      "kind": "show_discussion",
+      "summary": "Community matters despite group influence; the hosts acknowledge their own influence.",
+      "topics": [
+        "community"
+      ],
+      "evidence": [
+        {
+          "location": "02:05:15",
+          "quote": "can't criticize anything. You can't criticize people for wanting to be part of a group and then be like, well, you can't ever be a part of a group because group think happens like that. You can't punish people that way. People need people and it's okay. Um, these are just the things that happen. It's just about knowing what can happen. Um, not saying to completely avoid or never do these things. Johnny Clearvis asks, \"Since you're both dirty resellers, what's"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq299-l028",
+      "kind": "correction",
+      "summary": "Tyler now sells more, correcting listener's static view; Johnny reports infrequent eBay sales.",
+      "topics": [
+        "selling_history"
+      ],
+      "evidence": [
+        {
+          "location": "02:05:15",
+          "quote": "something you resold?\" Let's be real. This is for Johnny since Tyler never sells anything. >> Let's be Tyler sells so much more than I do. I don't Where does this idea come from? >> Well, I used to not sell anything, but lately I've been I've been selling a lot more. >> Um I I don't know. Like I like here's the thing. Like if I buy a"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq299-l029",
+      "kind": "anecdote",
+      "summary": "Tyler recalls $500 purchase/~$1500 sale of NES demo hardware.",
+      "topics": [
+        "reselling"
+      ],
+      "evidence": [
+        {
+          "location": "02:07:18",
+          "quote": "got an NES M82 demo unit for $500. Buy it now. And then I I went on like Digit Press and started bragging about this and how I'm the greatest uh person ever cuz I was like a teenager and uh it was the first thing that was like it felt like a a real"
+        }
+      ],
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq299-l030",
+      "kind": "joke",
+      "summary": "Extended stock-card brainstorm is not a real business or instruction to build.",
+      "topics": [
+        "stock_cards"
+      ],
+      "evidence": [
+        {
+          "location": "01:08:16",
+          "quote": "in your stock. >> But it does have the real value. We will pay you the real value. >> YEAH. >> OH, GOD DAMN. THIS IS SUCH A GOOD BUSINESS IDEA. WHY ARE WE NOT doing this? >> I don't know. We should be [laughter] >> We're quitting OUR JOBS RIGHT NOW. WE'RE MAKING THIS THING. >> TYLER, you start. I I'll invest. Uh we have people we know. We We'll get them involved. We We can finally be the Logan Paul's. Tyler. >> Oh my god. >> And and the best apple stock you"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq299-l031",
+      "kind": "joke",
+      "summary": "Letter-S deletion is fictional.",
+      "topics": [
+        "listener_questions"
+      ],
+      "evidence": [
+        {
+          "location": "02:13:24",
+          "quote": "Seasons game's gone. >> Ultima, it's it's We're good. Wizardry, we're good, guys. We are still in business. >> But anything that has a sequel is pretty much gone. >> Yeah. No, I'm I'm with you. I think we should we should go Scorched Earth and pick S. >> Yeah. >> Yeah. >> [ __ ] [ __ ] [ __ ] There's too many things. Like, God, we have all these empty slots. Let's fix some of that. >> All right. Uh Johnny, who won uh who won collecting this week? It's definitely"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq299-l032",
+      "kind": "correction",
+      "summary": "Eastern-European attribution corrected to French in the dialogue; external history unchecked.",
+      "topics": [
+        "dracula_history"
+      ],
+      "evidence": [
+        {
+          "location": "02:19:30",
+          "quote": ">> Famous 2008 point andclick adventure developed in Eastern Europe. [laughter] >> You know who loves uh a point andclick and a Halloween thing? It's this guy over here. This is a DVD shortbox game. >> Oh, no. I'm sorry. It's French. It's not Eastern European. Yeah, the French Dracula game. Awesome. Yeah, I love this one. >> Yep. You've seen these these like I think Dracula uh Last Sanctuary and stuff were on the PS1. >> I am I'm reading the plot to"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq299-l033",
+      "kind": "lead",
+      "summary": "Other mail-order MTG software physical copies are inferred, not confirmed.",
+      "topics": [
+        "software"
+      ],
+      "evidence": [
+        {
+          "location": "02:17:28",
+          "quote": "there were earlier pieces of software that were mail order only. All of them seem very obscure. The least obscure of these is Deck Demon. Uh, and there's a physical copy of it. I don't know. There must be physical copies of the other ones because this stuff was mail order, so they have to have at least like floppies around. But, uh, it's it's one of the earliest Magic the Gathering deck building software. I don't know. I think it's cool."
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    },
+    {
+      "id": "cq299-l034",
+      "kind": "open_loop",
+      "summary": "Offered press transfer not confirmed complete.",
+      "topics": [
+        "equipment"
+      ],
+      "evidence": [
+        {
+          "location": "02:11:22",
+          "quote": "want to press all my heavy. But I'll I'll figure out a box. I'll find a way. >> UPS probably is the way to go with it. >> All right. Yeah. No, I I'll totally buy that because I was going to buy one. >> Okay, don't buy one. Take mine. >> I will. >> Spooky Spectre 1 HD remake because y'all dingdong skipped it the first time. I might I'm sorry if I skipped your qu you just put your question in again if I skipped it because uh I'm not very good at tracking"
+        }
+      ],
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Caption/dialogue continuity only; no audio verification."
+      },
+      "scope": "dated_episode_statement",
+      "interpretation_confidence": "medium",
+      "external_fact_verification": "not_performed"
+    }
+  ],
+  "corrections": [],
+  "topic_coverage": [
+    {
+      "topic": "empty_slot",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "01:29:39",
+        "02:01:10"
+      ]
+    },
+    {
+      "topic": "investment",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "00:26:31",
+        "01:18:30"
+      ]
+    },
+    {
+      "topic": "books",
+      "depth": "SUBSTANTIAL_COVERAGE",
+      "locations": [
+        "00:13:17",
+        "00:23:30"
+      ]
+    }
+  ],
+  "related_episodes": [],
+  "review_queue": [
+    {
+      "id": "cq299-review01",
+      "priority": "high",
+      "reason": "Auction identity/outcome unresolved.",
+      "evidence": [
+        {
+          "location": "00:42:49",
+          "quote": "you're like, I don't know. And now, now my brain is going, oh god, may what? What do I do? Thanks, Tyler. Thanks for launching psychological journey. >> You can't see the date the the date code on the disc because it's too blurry of a picture. >> I don't know. >> Well, you guys will soon find out if we rolled the dice and won. Woo. >> I mean, it's just so suspic. Like, why would you put Charamar Zelda in a lot? It's a It's a loose disc Famicom lot."
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq299-review02",
+      "priority": "high",
+      "reason": "Verify psychology terms; do not adopt clinical/gym jokes as guidance.",
+      "evidence": [
+        {
+          "location": "01:40:48",
+          "quote": "got a big empty slot and it's called Europe. Get there. >> I'm never going there. [laughter] Sorry. >> Yeah. Um, anyways, part of what happens too with the empty slot, uh, God, I'm I'm going to say this word wrong. Um, zygarnic effect. I think it's the zygarnic effect if I'm >> Wow. Oh, look at someone who's reading their books and not just collecting them. >> Yeah. Yeah. Sorry. Um, I I've been so long since I've heard this [ __ ] word and I don't"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq299-review03",
+      "priority": "medium",
+      "reason": "Resolve garbled names and unspecified versions.",
+      "evidence": [
+        {
+          "location": "02:16:26",
+          "quote": "mean? [laughter] >> Yeah. I have we I I think we've done that. Like we we we get into the real nitty-gritty of uh that stuff, but we always could. Anyways, Tyler, uh you buy or play anything? >> Um I said that I got my my Dracula version two in the mail, right? >> Yeah, you did. >> Um I think I bought one more thing. Hold on. Yeah. So, last episode we did the trading card thing and I found uh uh Deck Demon, which there are a few Magic the Gathering pieces of"
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq299-review04",
+      "priority": "high",
+      "reason": "Grading allegations are uncertain speculation.",
+      "evidence": [
+        {
+          "location": "00:37:44",
+          "quote": "weren't sure if that well they I think we thought it was like regraded to a higher grade which made us think that maybe the grade was paid for which is like a big conspiracy in >> you know PSA that things can be I don't I don't think that's true but also I never underestimate what money can do. So, >> to be clear, the uh the grade doesn't have to be paid for. It's a much better story for PSA to be like, \"Oh, we got the perfect grade illustrator. Everybody headlines.\""
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    },
+    {
+      "id": "cq299-review05",
+      "priority": "medium",
+      "reason": "Sachen geography disputed.",
+      "evidence": [
+        {
+          "location": "02:15:26",
+          "quote": "god. Multiple copies. Tell me less. [laughter] >> [gasps] >> Uh guys, if you don't know, Satchin is uh the most obscure probably English language 72 pin NES games >> that was not released actually in the US. It was just >> Were they released in the US? >> No, >> probably not most of these."
+        }
+      ],
+      "status": "open",
+      "resolution": null
+    }
+  ],
+  "exclusions": [
+    "Do not treat jokes, hypothetical scenarios, unverified prices or psychological interpretations as established facts."
+  ]
+}

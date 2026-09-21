@@ -1,0 +1,1014 @@
+{
+  "passed": 36,
+  "total": 38,
+  "excluded": 0,
+  "results": [
+    {
+      "collection": "batches/010",
+      "passed": 36,
+      "total": 38,
+      "excluded_without_original_question": [],
+      "cases": [
+        {
+          "id": "batch010-cq016-roster",
+          "episode": 16,
+          "question": "Who is the guest and which hosts are here?",
+          "missing_windows": [],
+          "required_windows": 2,
+          "context_coverage": {
+            "returned_windows": 17,
+            "episode_windows": 46
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "guest",
+              "hosts",
+              "here"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "batch010-cq016-origin",
+          "episode": 16,
+          "question": "When did Justin become a collector rather than simply rebuying childhood games?",
+          "missing_windows": [
+            "Paragraph 23"
+          ],
+          "required_windows": 4,
+          "context_coverage": {
+            "returned_windows": 31,
+            "episode_windows": 46
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "justin",
+              "become",
+              "collector",
+              "rather",
+              "than",
+              "simply",
+              "rebuying",
+              "childhood",
+              "games"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "batch010-cq016-beetle",
+          "episode": 16,
+          "question": "How do the three people differ on Beetle Adventure Racing?",
+          "missing_windows": [],
+          "required_windows": 1,
+          "context_coverage": {
+            "returned_windows": 20,
+            "episode_windows": 46
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "three",
+              "people",
+              "differ",
+              "beetle",
+              "adventure",
+              "racing"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "batch010-cq016-regional",
+          "episode": 16,
+          "question": "Is Justin missing Rugrats in Paris, and which F1 game did he obtain?",
+          "missing_windows": [],
+          "required_windows": 6,
+          "context_coverage": {
+            "returned_windows": 28,
+            "episode_windows": 46
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "justin",
+              "missing",
+              "rugrats",
+              "paris",
+              "f1",
+              "game",
+              "he",
+              "obtain"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "batch010-cq016-ascii",
+          "episode": 16,
+          "question": "How complete is Justin's ASCII controller collection?",
+          "missing_windows": [],
+          "required_windows": 2,
+          "context_coverage": {
+            "returned_windows": 32,
+            "episode_windows": 46
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "complete",
+              "justin",
+              "s",
+              "ascii",
+              "controller",
+              "collection"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "batch010-cq016-provenance",
+          "episode": 16,
+          "question": "Why is Justin's favorite piece meaningful, and what is not authenticated?",
+          "missing_windows": [],
+          "required_windows": 4,
+          "context_coverage": {
+            "returned_windows": 33,
+            "episode_windows": 46
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "justin",
+              "s",
+              "favorite",
+              "piece",
+              "meaningful",
+              "not",
+              "authenticated"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "batch010-cq016-hori",
+          "episode": 16,
+          "question": "Why does Justin recommend the Hori pad, and what limits should the answer retain?",
+          "missing_windows": [],
+          "required_windows": 2,
+          "context_coverage": {
+            "returned_windows": 25,
+            "episode_windows": 46
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "justin",
+              "recommend",
+              "hori",
+              "pad",
+              "limits",
+              "should",
+              "answer",
+              "retain"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "batch010-cq016-sin",
+          "episode": 16,
+          "question": "Who played or completed Sin and Punishment, and who only wants to try it?",
+          "missing_windows": [],
+          "required_windows": 2,
+          "context_coverage": {
+            "returned_windows": 25,
+            "episode_windows": 46
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "played",
+              "completed",
+              "sin",
+              "punishment",
+              "only",
+              "wants",
+              "try"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "batch010-cq016-metroid",
+          "episode": 16,
+          "question": "Was Johnny replaying the original Metroid or Zero Mission?",
+          "missing_windows": [],
+          "required_windows": 1,
+          "context_coverage": {
+            "returned_windows": 27,
+            "episode_windows": 46
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "johnny",
+              "replaying",
+              "original",
+              "metroid",
+              "zero",
+              "mission"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "batch010-cq016-partners",
+          "episode": 16,
+          "question": "Who beat whom at Mario Kart, and did the co-op cup succeed?",
+          "missing_windows": [],
+          "required_windows": 4,
+          "context_coverage": {
+            "returned_windows": 21,
+            "episode_windows": 46
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "beat",
+              "whom",
+              "mario",
+              "kart",
+              "co",
+              "op",
+              "cup",
+              "succeed"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "batch010-cq016-pinball",
+          "episode": 16,
+          "question": "Did Johnny get a virtual pinball machine after the expo?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 27,
+            "episode_windows": 46
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "johnny",
+              "get",
+              "virtual",
+              "pinball",
+              "machine",
+              "after",
+              "expo"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "batch010-cq016-pickups",
+          "episode": 16,
+          "question": "What were the closing purchases, and which identities remain unresolved?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 14,
+            "episode_windows": 46
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "closing",
+              "purchases",
+              "identities",
+              "remain",
+              "unresolved"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq083-task-roster",
+          "episode": 83,
+          "question": "Is Kat hosting this episode?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 13,
+            "episode_windows": 50
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "kat",
+              "hosting",
+              "episode"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq083-task-terms",
+          "episode": 83,
+          "question": "What do they mean by licensed, aftermarket and homebrew here?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 29,
+            "episode_windows": 50
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "mean",
+              "by",
+              "licensed",
+              "aftermarket",
+              "homebrew",
+              "here"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq083-task-compilations",
+          "episode": 83,
+          "question": "What did they correct about the compilation game lists?",
+          "missing_windows": [
+            "Paragraph 11",
+            "Paragraph 12"
+          ],
+          "required_windows": 2,
+          "context_coverage": {
+            "returned_windows": 30,
+            "episode_windows": 50
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "correct",
+              "about",
+              "compilation",
+              "game",
+              "lists"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq083-task-holy",
+          "episode": 83,
+          "question": "Had Holy Diver arrived, and was its future budget release confirmed?",
+          "missing_windows": [],
+          "required_windows": 4,
+          "context_coverage": {
+            "returned_windows": 22,
+            "episode_windows": 50
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "holy",
+              "diver",
+              "arrived",
+              "future",
+              "budget",
+              "release",
+              "confirmed"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq083-task-bid",
+          "episode": 83,
+          "question": "Did either host buy the glow-in-the-dark Street Fighter cartridge for20?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 26,
+            "episode_windows": 50
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "either",
+              "host",
+              "buy",
+              "glow",
+              "dark",
+              "street",
+              "fighter",
+              "cartridge",
+              "for20"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq083-task-strawman",
+          "episode": 83,
+          "question": "Does Johnny insist that reproductions are the only way to play Terranigma?",
+          "missing_windows": [],
+          "required_windows": 2,
+          "context_coverage": {
+            "returned_windows": 32,
+            "episode_windows": 50
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "johnny",
+              "insist",
+              "reproductions",
+              "only",
+              "way",
+              "play",
+              "terranigma"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq083-task-coop",
+          "episode": 83,
+          "question": "What did Tyler and Ada finish, and why did Tyler prefer Snipperclips?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 18,
+            "episode_windows": 50
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "tyler",
+              "ada",
+              "finish",
+              "prefer",
+              "snipperclips"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq083-task-streets",
+          "episode": 83,
+          "question": "Which Ninja Gaiden and Streets of Rage games did Tyler complete or abandon?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 26,
+            "episode_windows": 50
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "ninja",
+              "gaiden",
+              "streets",
+              "rage",
+              "games",
+              "tyler",
+              "complete",
+              "abandon"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq083-task-newleaf",
+          "episode": 83,
+          "question": "What did Johnny buy, and what historical claims remain unverified?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 32,
+            "episode_windows": 50
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "johnny",
+              "buy",
+              "historical",
+              "claims",
+              "remain",
+              "unverified"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq083-task-progress",
+          "episode": 83,
+          "question": "Who played Zelda DLC and who still had not finished Odyssey?",
+          "missing_windows": [],
+          "required_windows": 1,
+          "context_coverage": {
+            "returned_windows": 27,
+            "episode_windows": 50
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "played",
+              "zelda",
+              "dlc",
+              "still",
+              "not",
+              "finished",
+              "odyssey"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq083-task-quiz",
+          "episode": 83,
+          "question": "What was the Super Mario quiz disagreement?",
+          "missing_windows": [],
+          "required_windows": 4,
+          "context_coverage": {
+            "returned_windows": 24,
+            "episode_windows": 50
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "super",
+              "mario",
+              "quiz",
+              "disagreement"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq209-starter-lists",
+          "episode": 209,
+          "question": "What are the two ten-game starter lists, and why do they differ?",
+          "missing_windows": [],
+          "required_windows": 17,
+          "context_coverage": {
+            "returned_windows": 75,
+            "episode_windows": 158
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "two",
+              "ten",
+              "game",
+              "starter",
+              "lists",
+              "differ"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "selection_lists"
+        },
+        {
+          "id": "cq209-mario-world",
+          "episode": 209,
+          "question": "Is the four-line boxed Super Mario World the original release, and which copy does Johnny have?",
+          "missing_windows": [],
+          "required_windows": 6,
+          "context_coverage": {
+            "returned_windows": 43,
+            "episode_windows": 158
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "four",
+              "line",
+              "boxed",
+              "super",
+              "mario",
+              "world",
+              "original",
+              "release",
+              "copy",
+              "johnny"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq209-castlevania",
+          "episode": 209,
+          "question": "Do both hosts think Super Castlevania IV is the best Castlevania, and which release do they recommend?",
+          "missing_windows": [],
+          "required_windows": 5,
+          "context_coverage": {
+            "returned_windows": 57,
+            "episode_windows": 158
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "both",
+              "hosts",
+              "think",
+              "super",
+              "castlevania",
+              "iv",
+              "best",
+              "release",
+              "recommend"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq209-chrono-versions",
+          "episode": 209,
+          "question": "Which Chrono Trigger would they play, collect, or buy as a cheaper original alternative?",
+          "missing_windows": [],
+          "required_windows": 7,
+          "context_coverage": {
+            "returned_windows": 70,
+            "episode_windows": 158
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "chrono",
+              "trigger",
+              "play",
+              "collect",
+              "buy",
+              "cheaper",
+              "original",
+              "alternative"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq209-super-metroid",
+          "episode": 209,
+          "question": "What is known and unknown about the Super Metroid orange-badge variant?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 27,
+            "episode_windows": 158
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "known",
+              "unknown",
+              "about",
+              "super",
+              "metroid",
+              "orange",
+              "badge",
+              "variant"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq209-firemen-two",
+          "episode": 209,
+          "question": "Did Tyler actually buy The Firemen 2 when he discovered it?",
+          "missing_windows": [],
+          "required_windows": 4,
+          "context_coverage": {
+            "returned_windows": 67,
+            "episode_windows": 158
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "tyler",
+              "actually",
+              "buy",
+              "firemen",
+              "2",
+              "he",
+              "discovered"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq209-rendering-errata",
+          "episode": 209,
+          "question": "What corrected the claim that Rendering Ranger R2 was the last Super Famicom game?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 44,
+            "episode_windows": 158
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "corrected",
+              "claim",
+              "rendering",
+              "ranger",
+              "r2",
+              "last",
+              "super",
+              "famicom",
+              "game"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq209-vjump",
+          "episode": 209,
+          "question": "What makes Tyler’s V Jump Chrono Trigger different, and is it a different game?",
+          "missing_windows": [],
+          "required_windows": 3,
+          "context_coverage": {
+            "returned_windows": 33,
+            "episode_windows": 158
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "makes",
+              "tyler",
+              "s",
+              "v",
+              "jump",
+              "chrono",
+              "trigger",
+              "different",
+              "game"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq209-earthbound",
+          "episode": 209,
+          "question": "What does the EarthBound discussion establish about packaging and Tyler’s experience?",
+          "missing_windows": [],
+          "required_windows": 5,
+          "context_coverage": {
+            "returned_windows": 69,
+            "episode_windows": 158
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "earthbound",
+              "discussion",
+              "establish",
+              "about",
+              "packaging",
+              "tyler",
+              "s",
+              "experience"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq209-mayhem-deal",
+          "episode": 209,
+          "question": "Which Emergency Mayhem offer did Johnny accept?",
+          "missing_windows": [],
+          "required_windows": 6,
+          "context_coverage": {
+            "returned_windows": 24,
+            "episode_windows": 158
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "emergency",
+              "mayhem",
+              "offer",
+              "johnny",
+              "accept"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq209-wii-progress",
+          "episode": 209,
+          "question": "Had Johnny finished the Wii set, and which games had arrived?",
+          "missing_windows": [],
+          "required_windows": 5,
+          "context_coverage": {
+            "returned_windows": 28,
+            "episode_windows": 158
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "johnny",
+              "finished",
+              "wii",
+              "set",
+              "games",
+              "arrived"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq209-auction-outcomes",
+          "episode": 209,
+          "question": "Which auction games did Tyler win or lose, and what happened with Super Mario Odyssey?",
+          "missing_windows": [],
+          "required_windows": 4,
+          "context_coverage": {
+            "returned_windows": 33,
+            "episode_windows": 158
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "auction",
+              "games",
+              "tyler",
+              "win",
+              "lose",
+              "happened",
+              "super",
+              "mario",
+              "odyssey"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq209-sealed-duplicates",
+          "episode": 209,
+          "question": "Did Johnny’s two Maximum Carnage QVC sets prove he owned both platform versions?",
+          "missing_windows": [],
+          "required_windows": 2,
+          "context_coverage": {
+            "returned_windows": 56,
+            "episode_windows": 158
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "johnny",
+              "s",
+              "two",
+              "maximum",
+              "carnage",
+              "qvc",
+              "sets",
+              "prove",
+              "he",
+              "owned",
+              "both",
+              "platform",
+              "versions"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq209-play-attribution",
+          "episode": 209,
+          "question": "Who played which Montezuma’s Revenge, and did Johnny finally play Modern Warfare with Strange?",
+          "missing_windows": [],
+          "required_windows": 4,
+          "context_coverage": {
+            "returned_windows": 26,
+            "episode_windows": 158
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "played",
+              "montezuma",
+              "s",
+              "revenge",
+              "johnny",
+              "finally",
+              "play",
+              "modern",
+              "warfare",
+              "strange"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        },
+        {
+          "id": "cq209-late-loan",
+          "episode": 209,
+          "question": "Was Dungeon of Doom returned to John Brown, and was the video finished?",
+          "missing_windows": [],
+          "required_windows": 1,
+          "context_coverage": {
+            "returned_windows": 35,
+            "episode_windows": 158
+          },
+          "query_diagnostics": {
+            "effective_terms": [
+              "dungeon",
+              "doom",
+              "returned",
+              "john",
+              "brown",
+              "video",
+              "finished"
+            ],
+            "omitted_terms": [],
+            "truncated": false,
+            "term_limit": 16
+          },
+          "route": "lexical"
+        }
+      ]
+    }
+  ],
+  "limits": "Original wording, not blind paraphrases. Required-window retrieval only; read context to judge claims. High returned-window coverage is reported, not treated as precision or semantic correctness."
+}

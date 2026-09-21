@@ -1,0 +1,52 @@
+{
+  "schema_version": "0.1",
+  "created": "2026-09-13",
+  "status": "captured_text_review_complete",
+  "selection_basis": "Three continuation lanes after batch002, varied across early, transition and later host eras. Not selected by answer-key searches.",
+  "budget": "Local public transcript processing only; no paid services, external writes or persona changes.",
+  "episodes": [
+    {
+      "key": "sc-237478983",
+      "episode_number": 10,
+      "title": "Episode 10 - TheVGDB Nick Morgan Interview",
+      "date": "2015-12-14",
+      "path": "episodes/cq-010-sc-237478983.md",
+      "words": 7387,
+      "source_url": "https://soundcloud.com/collectors-quest/episode-10-thevgdb-nick-morgan-interview",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "sha256": "2bfc63dbf212e2904a0881f00b2661a93d07189e6de4217580e693c6c5d60adc",
+      "reason": "Era-varied sequential continuation within lane",
+      "status": "extracted_draft",
+      "record_path": "records/sc-237478983.json"
+    },
+    {
+      "key": "sc-347109412",
+      "episode_number": 77,
+      "title": "Episode 77 - Scooby Doo Console Game Retrospective",
+      "date": "2017-10-16",
+      "path": "episodes/cq-077-sc-347109412.md",
+      "words": 3998,
+      "source_url": "https://soundcloud.com/collectors-quest/episode-77-scooby-doo-console-game-retrospective",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "sha256": "c96ebc0928e874090bfd1e462e2e1670b11ae82eef5fa5cc6456353c70bf0a6c",
+      "reason": "Era-varied sequential continuation within lane",
+      "status": "extracted_draft",
+      "record_path": "records/sc-347109412.json"
+    },
+    {
+      "key": "sc-1343296345",
+      "episode_number": 203,
+      "title": "CQ 203 - Collecting Games From Dead Genres",
+      "date": "2022-09-13",
+      "path": "episodes/cq-203-sc-1343296345.md",
+      "words": 32940,
+      "source_url": "https://soundcloud.com/collectors-quest/cq-203-collecting-games-from-dead-genres",
+      "timing": "YouTube caption timestamps",
+      "sha256": "b13a8327936ab28db198e07bb337f000a6e47b2fce9154a343940e2aa0130328",
+      "reason": "Era-varied sequential continuation within lane",
+      "status": "extracted_draft",
+      "record_path": "records/sc-1343296345.json"
+    }
+  ],
+  "duplicate_controls": []
+}

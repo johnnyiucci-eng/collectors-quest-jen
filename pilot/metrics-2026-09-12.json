@@ -1,0 +1,194 @@
+{
+  "episodes": [
+    {
+      "episode": 6,
+      "words": 6008,
+      "source_windows": 28,
+      "declared_windows_match": true,
+      "game_reference_records": 15,
+      "lore_records": 23,
+      "open_review_flags": 9,
+      "status": "extracted_draft"
+    },
+    {
+      "episode": 7,
+      "words": 5918,
+      "source_windows": 27,
+      "declared_windows_match": true,
+      "game_reference_records": 12,
+      "lore_records": 23,
+      "open_review_flags": 9,
+      "status": "extracted_draft"
+    },
+    {
+      "episode": 146,
+      "words": 28657,
+      "source_windows": 145,
+      "declared_windows_match": true,
+      "game_reference_records": 52,
+      "lore_records": 57,
+      "open_review_flags": 7,
+      "status": "extracted_draft"
+    },
+    {
+      "episode": 200,
+      "words": 34607,
+      "source_windows": 162,
+      "declared_windows_match": true,
+      "game_reference_records": 86,
+      "lore_records": 73,
+      "open_review_flags": 8,
+      "status": "extracted_draft"
+    },
+    {
+      "episode": 222,
+      "words": 23600,
+      "source_windows": 118,
+      "declared_windows_match": true,
+      "game_reference_records": 46,
+      "lore_records": 42,
+      "open_review_flags": 7,
+      "status": "extracted_draft"
+    },
+    {
+      "episode": 248,
+      "words": 17088,
+      "source_windows": 88,
+      "declared_windows_match": true,
+      "game_reference_records": 63,
+      "lore_records": 42,
+      "open_review_flags": 16,
+      "status": "extracted_draft"
+    },
+    {
+      "episode": 259,
+      "words": 25178,
+      "source_windows": 133,
+      "declared_windows_match": true,
+      "game_reference_records": 99,
+      "lore_records": 53,
+      "open_review_flags": 8,
+      "status": "extracted_draft"
+    },
+    {
+      "episode": 263,
+      "words": 40263,
+      "source_windows": 208,
+      "declared_windows_match": true,
+      "game_reference_records": 136,
+      "lore_records": 79,
+      "open_review_flags": 12,
+      "status": "extracted_draft"
+    },
+    {
+      "episode": 299,
+      "words": 28393,
+      "source_windows": 140,
+      "declared_windows_match": true,
+      "game_reference_records": 77,
+      "lore_records": 34,
+      "open_review_flags": 5,
+      "status": "extracted_draft"
+    },
+    {
+      "episode": 300,
+      "words": 45109,
+      "source_windows": 230,
+      "declared_windows_match": true,
+      "game_reference_records": 298,
+      "lore_records": 88,
+      "open_review_flags": 12,
+      "status": "extracted_draft"
+    }
+  ],
+  "totals": {
+    "episodes": 10,
+    "transcript_words": 254821,
+    "game_reference_records": 884,
+    "lore_records": 514,
+    "open_review_flags": 93,
+    "search_rows_by_kind": {
+      "game": 884,
+      "lore": 473,
+      "correction": 49
+    }
+  },
+  "lookup_timings": [
+    {
+      "query": "Mega Man refund",
+      "runs": 5,
+      "median_load_index_search_ms": 26.92,
+      "min_ms": 25.97,
+      "max_ms": 29.7,
+      "top_result_ids": [
+        "g-mega-man3:0",
+        "cq248-l30",
+        "cq248-l31",
+        "g-mega-man2:0",
+        "cq222-g010:0"
+      ]
+    },
+    {
+      "query": "Tyler return timetable",
+      "runs": 5,
+      "median_load_index_search_ms": 30.54,
+      "min_ms": 30.18,
+      "max_ms": 30.76,
+      "top_result_ids": [
+        "cq300-l010",
+        "cq263-g114:0",
+        "cq300-l011",
+        "cq300-l002",
+        "cq263-g115:0"
+      ]
+    },
+    {
+      "query": "Terror Jack Ripper floppy",
+      "runs": 5,
+      "median_load_index_search_ms": 24.66,
+      "min_ms": 24.28,
+      "max_ms": 25.08,
+      "top_result_ids": [
+        "cq300-l086",
+        "cq300-g297:0",
+        "cq300-g293:0",
+        "cq300-g295:0",
+        "cq300-g296:0"
+      ]
+    },
+    {
+      "query": "Wii complete set",
+      "runs": 5,
+      "median_load_index_search_ms": 28.83,
+      "min_ms": 28.7,
+      "max_ms": 29.3,
+      "top_result_ids": [
+        "cq222-l022",
+        "cq146-l053",
+        "cq200-g054:0",
+        "cq200-l047",
+        "cq263-l076"
+      ]
+    },
+    {
+      "query": "outback joy",
+      "runs": 5,
+      "median_load_index_search_ms": 24.24,
+      "min_ms": 23.88,
+      "max_ms": 25.11,
+      "top_result_ids": [
+        "g-outback:0",
+        "cq200-g053:0",
+        "cq200-l037",
+        "cq222-g043:0"
+      ]
+    }
+  ],
+  "limits": [
+    "Reference records are not unique games or raw utterance counts.",
+    "Window counts check declared bookkeeping, not reading or omission recall.",
+    "Timings include local loading, hash checking, indexing and lookup only.",
+    "No model response latency, subscription consumption or all-archive throughput is measured.",
+    "Structural validity is not semantic acceptance."
+  ]
+}

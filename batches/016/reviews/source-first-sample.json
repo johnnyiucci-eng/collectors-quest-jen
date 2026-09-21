@@ -1,0 +1,254 @@
+{
+  "schema_version": "1",
+  "status": "source_first_sample_compared_after_independent_read",
+  "frozen_utc": "2026-09-13 13:05:12 UTC",
+  "selection_rule": "Zero-based floor(N/4), floor(N/2), floor(3N/4); source and neighbors read before extraction. Explicit nongame/hypothetical references retained without game credit.",
+  "limits": "Bounded source-first sample, not statistical archive recall. Quote-level presence is not identity proof.",
+  "windows": [
+    {
+      "location": "Paragraph 14",
+      "text": "\naccurate that it’s pretty accurate you know there’s gonna be like three duo players who are like these guys are jerks you know whatever I you know I have the duo I have played it it’s not it’s not as bad as say the Panasonic CDI which might be the worst video game console I’ve ever played 3DO has has a few things but I feel like a lot of those games too due to you know not being as successful a lot of the their best games got ported over that’s not true there’s a few that we we missed Johnny I got I got to cut you off you said Panasonic CDI oh yeah I did I said Panasonic CD on it Phillips Phillips CDI you were right with the P though yeah close enough both ways of space okay so yes the Phillips CDI is probably worse than the 3DO if we’re gonna talk about worst game systems I don’t I don’t know what even that system had that got ported over for other systems most most good games got a port like we said a few didn’t but overall I don’t know as a collector why one would want to pick it up if unless it’s sheer completionism and as someone who completes a lot of\n\n",
+      "batch": "016",
+      "episode": 22,
+      "source_key": "sc-250618403",
+      "source_window_count": 52,
+      "references": []
+    },
+    {
+      "location": "Paragraph 27",
+      "text": "\nI like makes me think of a bathroom or loony tunes yeah okay that’s interesting well you know we used to have two dollar bills a long time ago yeah remember them when I was younger yeah we used to have two dollar bills - but oh well I guess that’s not so bad so we just need to save our rainbow monopoly colored money and various odd named coins to go to Portland right that’s what I want you to do okay that’s a just of it doesn’t quite have the same ring as save those pennies but we’ll make it work okay we’ll go with it it will be a lot prettier than a picture of pennies because it’ll be colorful fair yeah I’m good with it I like it I have no comment - no you just like it well so cam agrees he’s coming to Portland and he’s saving his rainbow money and since he doesn’t want to comment he there’s no take back so you can’t yep that’s that’s absolutely correct these are my games and those are your games don’t touch my games also there’s a line I’ve divided it you’re not allowed to cross the line this is my space space well at least everybody’s got a good sense of humor tonight yep\n\n",
+      "batch": "016",
+      "episode": 22,
+      "source_key": "sc-250618403",
+      "source_window_count": 52,
+      "references": []
+    },
+    {
+      "location": "Paragraph 40",
+      "text": "\nmention I life is strange and I don’t think we touched on it last week that was great you should play life is strange so we can talk about life is strange oh my god and how was life is strange it was great was it yeah it was fantastic well that’s good yep really good probably like an 8.5 or 9 out of 10 for me and I you know really enjoyed it it’s not like an action game it’s just a choice-based game and a puzzle game so while you have to think about it it doesn’t require complete attention all the time like locked in but there’s a lot of things to see in it and a lot of branching pathways and yeah you should definitely play it so we can talk about it okay I will put that on my my list of games to play I feel like I need a list I feel like I need some direction like you’re going to play this next fine done I’m someone who has like six or seven lists at all times so yeah I know how you feel about a good list yeah it’s you know list is a very nice thing it’s comforting structure okay well you just keep giving me games to add to\n\n",
+      "batch": "016",
+      "episode": 22,
+      "source_key": "sc-250618403",
+      "source_window_count": 52,
+      "references": [
+        {
+          "id": "cq22-sample-39-1",
+          "title": "Life Is Strange",
+          "quote": "life is strange",
+          "reviewed_game_ids": [
+            "cq022-g042"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "location": "Paragraph 21",
+      "text": "\nyour penis. You do both. The brain is the sexiest organ. So the weirdest part about that game, aside the fact that it’s a porn themed puzzle game, is that it’s pretty clear that the developer or just some random dude did a lot of the VO. So when you correctly place a tile, it’s like some dude going like, \"Oh yeah!\" Or like, \"Whatever.\" It is the least sexy thing. You did it. Yeah. Get some. You’re like, \"Whoa. What is going on?\" It was really funny to watch. Yeah, why isn’t there like a porn Tetris game? This is my idea. Porn Tetris game, but instead of having to make like full lines, you have to assemble pictures of genitalia to unlock nude pictures. This sounds like a game. That has to be a whole dozen. Yeah, it sounds like a thing. It has to be. It has to be, right? Yeah. If not, that’s my idea. You’re welcome. You’re free to take it. Anyone who’s listening. I wish more of the 3DO porn stuff was games. A lot of it is just terrible soft core porn video CDs from Vivid Entertainment. Mind Teaser is one of the ones that’s actually games. Which is, that’s the reason we picked that one, because it’s actually a game. Neuro Dancer\n\n",
+      "batch": "016",
+      "episode": 89,
+      "source_key": "sc-419958968",
+      "source_window_count": 81,
+      "references": [
+        {
+          "id": "cq89-sample-20-1",
+          "title": "Mind Teaser",
+          "quote": "Mind Teaser",
+          "reviewed_game_ids": [
+            "cq089-g045"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq89-sample-20-2",
+          "title": "Neuro Dancer",
+          "quote": "Neuro Dancer",
+          "reviewed_game_ids": [
+            "cq089-g049"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq89-sample-20-3",
+          "title": "Invented adult-themed Tetris proposal",
+          "quote": "porn Tetris game",
+          "reviewed_game_ids": [
+            "cq089-g046"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "location": "Paragraph 41",
+      "text": "\nCD, you can just kind of get in there. Uh, and back to one of the things we mentioned, that’s the American game gun is that rare gun that you can find for the Sega CD and also for the 3DO. And they, it will say in the corner of the box, which one it is for, but that it’s like white text. So be careful if you are looking for that. Tyler, you got any more questions about 3DO? Oh, actually I do have one thing I wanted to talk about cause actually a broken one sold for like $1,300 or something. I got the other day. So there is a version, quote unquote, a version of the 3DO console made by, uh, the creative, the folks that brought you Sound Blaster. Okay. It is the 3DO Blaster. It is a PC car, a 3DO console strapped to a PC card. Oh yeah. I know the guy, there’s like one guy who has like a couple of them, right? Yeah. So it comes with, it comes with the card and it comes with a CD ROM drive and it allows you to play 3DO games on your PC and there was a four parts card only copy that sold recently on eBay for like $1,300 or something ridiculous. It\n\n",
+      "batch": "016",
+      "episode": 89,
+      "source_key": "sc-419958968",
+      "source_window_count": 81,
+      "references": [
+        {
+          "id": "cq89-sample-40-1",
+          "title": "American Game Gun accessory",
+          "quote": "American game gun",
+          "reviewed_game_ids": [
+            "cq089-g043"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq89-sample-40-2",
+          "title": "3DO Blaster hardware",
+          "quote": "3DO Blaster",
+          "reviewed_game_ids": [
+            "cq089-g086"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "location": "Paragraph 61",
+      "text": "\nThat’s my guess. If he owns the company, they would say video games on their freaking website. They insure like World War I gun collections. They’re like, \"Oh, your collectibles are a bunch of things under $2,000. We don’t need documentation for that.\" Yeah. It’s ridiculous that video games are so annoying to insure, especially because the things that people insure and the amounts of money that those things are relative to video games, people think video games are super expensive, but in the world of collectibles, video games aren’t that expensive. Yeah. The quote-unquote rarest items aren’t that expensive. You’re like, \"Oh, man. That game, $75,000? That’s incredible. That’s crazy.\" Then you look at a few coins or stamps and you’re like, \"Never mind.\" More comic books finance my entire Super Nintendo set. Right, exactly. The end on that discussion, whether video games are relatively too expensive, maybe, but expensive in the world of collecting, not exactly. Well, what was your hottest comic book I need to know? Nidgit Shrull’s number one in high grade. Fancy. Grading books. All right. That’s all the tips that we got. There was some that we got and that was cool that people responded. People were interested in that topic. If you have more to share, please do because the goal of this\n\n",
+      "batch": "016",
+      "episode": 89,
+      "source_key": "sc-419958968",
+      "source_window_count": 81,
+      "references": [
+        {
+          "id": "cq89-sample-60-1",
+          "title": "Unresolved comic title, not a game",
+          "quote": "Nidgit Shrull’s number one",
+          "reviewed_game_ids": [
+            "cq089-g105"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "location": "00:47:08",
+      "text": "\npack that includes a steelbook or something huge scam Pokemon box fed into that scam by giving you a way to manage uh so if you have like both versions of the game you can like load them up on your GameCube and then transfer them onto whichever game you wanted without needing multiple game boys to trade with yourself honestly if I was playing those games that would be super useful because I I think Pokemon management is a [ __ ] nightmare maybe it's better in the newer games but like this would have been a useful product not a product I would have spent $60 on or whatever I'm sure it cost uh but useful thing anyway not a lot of people thought that that would be a useful thing uh you told me that it was only sold at the Nintendo store in New York is that true Nintendo yeah that's that's where it was sold okay okay uh yeah and because of that uh it comes in a big box it comes in a big box it has a smaller box regular GameCube box in it a gba Link cable uh a memory card and then stickers that you put on\n\n",
+      "batch": "016",
+      "episode": 215,
+      "source_key": "sc-1451057854",
+      "source_window_count": 179,
+      "references": [
+        {
+          "id": "cq215-sample-44-1",
+          "title": "Pokemon Box management utility",
+          "quote": "Pokemon box",
+          "reviewed_game_ids": [
+            "cq215-g031"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq215-sample-44-2",
+          "title": "Pokemon Ruby continuation",
+          "quote": "both versions of the game",
+          "reviewed_game_ids": [
+            "cq215-g093"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq215-sample-44-3",
+          "title": "Pokemon Sapphire continuation",
+          "quote": "both versions of the game",
+          "reviewed_game_ids": [
+            "cq215-g094"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "location": "01:35:11",
+      "text": "\nParty games but not something I need to prioritize right now in my collecting Journey Johnny all right uh so that was it big boxes have some variants now are you ready for me to run through this excessive this is going to be the most excessive variant list I'm ever going to list okay fantastic let's go okay so I've already told you GameCube is the king of the variants this is the the time that variants were being developed and people were just throwing things at the wall to see what's sticks so you have some very basic ones best sellers I'm going to best sellers are the most aggravating of all variants because they can be you would think you're buying a first print game but you could get a bestseller badge on on the day that the game was released and you're asking how could that happen well there's like a whole ordering process that stores do they know that they're going to bring in they start looking at demand planning and they're like okay looks like we're going to get more Nintendo says all right we're getting more so it's already a bestseller now stamp the badge on it but this is all before the game is even released because this is also the beginning of pre-order times so people\n\n",
+      "batch": "016",
+      "episode": 215,
+      "source_key": "sc-1451057854",
+      "source_window_count": 179,
+      "references": [
+        {
+          "id": "cq215-sample-89-1",
+          "title": "Mario Party family continuation",
+          "quote": "Party games",
+          "reviewed_game_ids": [
+            "cq215-g028"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "location": "02:22:55",
+      "text": "\nand it's like a a Mech one that one's like 500 bucks or something5 to $700 GameCube in America though was pretty basic it came just in three colors you had Platinum Indigo which is like they're purple and uh black not not very exciting they did do some console boxes um some of them were the boring one where they just like slap a Zelda sticker on it or a Mario uh Paper Mario sticker on it but they did a few good ones they did like a slip cover over them so they didn't have to like produce a whole new box but they did uh a Metroid Prime one that was lenticular look looks awesome if you haven't seen that go check that one out they did like a Smash Brothers one just to be like hey Smash Brothers get get that and these lead to a lot of the the not for resale variants that are out cuz that's a thing you should look out for um if you are collecting and you don't want the KN for resale you want the regular one so be careful there there's a Mario party 71 which was a little bit bigger because I had to include that um there's like a weird Radio Shack bundle that radio if you never yeah this\n\n",
+      "batch": "016",
+      "episode": 215,
+      "source_key": "sc-1451057854",
+      "source_window_count": 179,
+      "references": [
+        {
+          "id": "cq215-sample-134-1",
+          "title": "Char red GameCube hardware continuation",
+          "quote": "Mech one",
+          "reviewed_game_ids": [
+            "cq215-g268"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq215-sample-134-2",
+          "title": "Zelda-branded console package",
+          "quote": "Zelda sticker",
+          "reviewed_game_ids": [
+            "cq215-g269"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Named console-box example represented within typed packaging group, not promoted to individual-game coverage."
+        },
+        {
+          "id": "cq215-sample-134-3",
+          "title": "Paper Mario console package",
+          "quote": "Paper Mario sticker",
+          "reviewed_game_ids": [
+            "cq215-g269"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Named console-box example represented within typed packaging group, not promoted to individual-game coverage."
+        },
+        {
+          "id": "cq215-sample-134-4",
+          "title": "Metroid Prime lenticular console package",
+          "quote": "Metroid Prime",
+          "reviewed_game_ids": [
+            "cq215-g270"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq215-sample-134-5",
+          "title": "Smash Brothers console package",
+          "quote": "Smash Brothers",
+          "reviewed_game_ids": [
+            "cq215-g269"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Named console-box example represented within typed packaging group, not promoted to individual-game coverage."
+        },
+        {
+          "id": "cq215-sample-134-6",
+          "title": "Mario Party 7 console package",
+          "quote": "Mario party 71",
+          "reviewed_game_ids": [
+            "cq215-g269"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Named console-box example represented within typed packaging group, not promoted to individual-game coverage."
+        }
+      ]
+    }
+  ]
+}

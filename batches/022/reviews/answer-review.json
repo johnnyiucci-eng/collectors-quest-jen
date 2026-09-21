@@ -1,0 +1,379 @@
+{
+  "schema_version": "1",
+  "reviewer": "Root coordinator; separate complete95-window source read and all14 actual full answers",
+  "status": "semantic_answers_reviewed",
+  "scope": "Source-informed captured-text development review; not blind recall, audio verification or live certification.",
+  "cases": [
+    {
+      "id": "cq130-list",
+      "episode": 130,
+      "question": "What are CQ130's thirteen Halloween selections, and did the closing joke exclude Echo Night?",
+      "query": "What are CQ130's thirteen Halloween selections, and did the closing joke exclude Echo Night?",
+      "answer": "The thirteen selections are NES Castlevania, Escape from Monster Manor, Kuon (raw Kuan), Rule of Rose, Jack Bros., Koudelka, Avenging Spirit, Brain Dead 13, Ju-on/The Grudge: Haunted House Simulator for Wii, Mystery House, Phantasmagoria, Echo Night, and Castlevania Chronicles. They span console and computer games and are not a proven-rarest or best-games ranking. NES Castlevania and Chronicles deliberately bookend the list. The closing '12 collectible games and Echo Night' line is banter, not an actual removal. Haunting Ground belongs to a contextual PS2 trio, and Bubble Ghost was Tyler's original idea before he chose Avenging Spirit; neither becomes an extra main-list member.",
+      "evidence_locations": [
+        "Paragraph 7",
+        "Paragraph 8",
+        "Paragraph 14",
+        "Paragraph 17",
+        "Paragraph 20",
+        "Paragraph 28",
+        "Paragraph 35",
+        "Paragraph 36",
+        "Paragraph 40",
+        "Paragraph 43",
+        "Paragraph 44",
+        "Paragraph 45",
+        "Paragraph 46",
+        "Paragraph 48",
+        "Paragraph 50",
+        "Paragraph 51",
+        "Paragraph 53",
+        "Paragraph 58",
+        "Paragraph 62",
+        "Paragraph 65",
+        "Paragraph 66",
+        "Paragraph 67",
+        "Paragraph 69",
+        "Paragraph 70"
+      ],
+      "forbidden": [
+        "Do not drop Echo Night or include every comparison.",
+        "Do not call Ju-on a Wii U release.",
+        "Candidate raw titles are not audio-verified spellings."
+      ],
+      "status": "passed",
+      "reason": "All thirteen actual choices preserved, with Echo Night banter and Bubble Ghost/Haunting Ground exclusions correctly distinguished."
+    },
+    {
+      "id": "cq130-castlevania-prints",
+      "episode": 130,
+      "question": "What did Tyler recommend checking on NES Castlevania, and why didn't hang-tab alone settle the first print?",
+      "query": "What did Tyler recommend checking on NES Castlevania, and why didn't hang-tab alone settle the first print?",
+      "answer": "Tyler distinguishes an early hang-tab box from the cartridge diagnostic: ordinary five-screw cartridges are plentiful, while he singles out an inverted or large Konami logo for the earliest cart printing. He discusses later black circle-seal and white oval-seal boxes and recommends a nice circle-seal copy around $100 instead of chasing that episode's volatile hang-tab market. The reported $1,200 July sale is not Johnny's purchase or a verified $1,199 bid—Johnny explicitly denies that joke. Manual equivalence is only Tyler's impression after looking at a few. The Famicom Disk System suggestion and 'real first print' banter do not turn all regional editions into one authenticated first-print object.",
+      "evidence_locations": [
+        "Paragraph 8",
+        "Paragraph 9",
+        "Paragraph 10",
+        "Paragraph 11",
+        "Paragraph 12",
+        "Paragraph 13"
+      ],
+      "forbidden": [
+        "Do not authenticate a copy from these claims alone.",
+        "Do not treat current prices or all manuals as proven.",
+        "Do not invent Johnny's denied bid."
+      ],
+      "status": "passed",
+      "reason": "Box versus cartridge diagnostics, limited manual inspection and Johnny's denied bid remain separate; historical guidance is not authentication."
+    },
+    {
+      "id": "cq130-watch-not-play",
+      "episode": 130,
+      "question": "Did Johnny and Stephan actually play Monster Manor, and were Rule of Rose's criticisms firsthand?",
+      "query": "Did Johnny and Stephan actually play Monster Manor, and were Rule of Rose's criticisms firsthand?",
+      "answer": "No. Johnny and Stephan watched Escape from Monster Manor footage while Tyler fixed audio; Johnny says his apparent positivity was amusement and familiarity, not a recommendation to play it. He has considered buying it and probably will, but the episode does not say he bought it. Its quoted price moves through guesses of $40–50 and $60 toward about $35; the NFR disc is reported to come from a sales-agent binder. Tyler explicitly says he has not played Rule of Rose himself, so his gameplay criticism is not firsthand. He questions roughly $250 loose versus $350 complete and the hype, rather than proving the game uniquely rare. The claimed court case is expressly withdrawn in favor of an unverified controversy account. Johnny's damaged pristine copy is a dog-story callback, not a new purchase.",
+      "evidence_locations": [
+        "Paragraph 14",
+        "Paragraph 15",
+        "Paragraph 16",
+        "Paragraph 17",
+        "Paragraph 20",
+        "Paragraph 21",
+        "Paragraph 22",
+        "Paragraph 23",
+        "Paragraph 24"
+      ],
+      "forbidden": [
+        "Do not mark either host played Monster Manor.",
+        "Do not invent an actual court judgment or verify allegations.",
+        "Do not treat reported reviews as Tyler's play experience."
+      ],
+      "status": "passed",
+      "reason": "Targeted P16–17 reread confirms Johnny's probable future buy, not a purchase; footage is not play and Rule of Rose criticism is not firsthand."
+    },
+    {
+      "id": "cq130-koudelka-echo",
+      "episode": 130,
+      "question": "What exactly was corrected when Johnny mixed up Koudelka and Echo Night, and how should their prices and sequels be described?",
+      "query": "What exactly was corrected when Johnny mixed up Koudelka and Echo Night, and how should their prices and sequels be described?",
+      "answer": "The editor explicitly says Johnny began giving Echo Night 2 material while discussing Koudelka, cuts that mistaken section, and leaves Johnny acknowledging the mix-up. Koudelka is presented as a predecessor to Shadow Hearts, not a game with the direct sequel history he had just borrowed. Johnny remembers about four hours of Koudelka when it came out and a middling impression, not completion or a fresh replay. The source first says $50–60, then later $90; it never reconciles those Koudelka amounts. Echo Night is separately presented around $50–60 for PS1. Echo Night 2/The Lord of Nightmares is described as staying in Japan, while the third entry, Echo Night: Beyond, came to America on PS2. Those are episode reports, with the earlier false attribution retained as a correction rather than searchable fact.",
+      "evidence_locations": [
+        "Paragraph 35",
+        "Paragraph 36",
+        "Paragraph 37",
+        "Paragraph 38",
+        "Paragraph 62",
+        "Paragraph 63",
+        "Paragraph 64",
+        "Paragraph 65"
+      ],
+      "forbidden": [
+        "Do not attach Echo Night2's story to Koudelka.",
+        "Do not silently select one Koudelka price or invent a condition explanation.",
+        "Do not infer a completed Koudelka replay."
+      ],
+      "status": "passed",
+      "reason": "Editor correction and separate sequel families preserved, with four-hour play and unresolved conflicting prices."
+    },
+    {
+      "id": "cq130-jack-bros",
+      "episode": 130,
+      "question": "What did CQ130 say about collecting Jack Bros., and whose Virtual Boy collection was actually complete?",
+      "query": "What did CQ130 say about collecting Jack Bros., and whose Virtual Boy collection was actually complete?",
+      "answer": "Stephan calls Jack Bros. especially expensive on North American Virtual Boy, but explicitly has not researched its actual rarity. Episode figures include $731 complete and $440 loose, later rounded to about $700 versus $450; the hosts favor paying the smaller relative premium for complete. The price graph has a gap, so it is not a precise continuous market history. Stephan describes a cart-only Virtual Boy set bought for about $400 total, not a complete-in-box set. Johnny separately says he owns Jack Bros. Stephan's replacement/red DS-style cases prompt fake-box banter, which does not establish counterfeit cartridges. Johnny reports discomfort using Virtual Boy; other tennis, Red Alarm and recent-play voices remain mixed. The unnamed Lovecraftian game and Christmas crossover are future-topic teases, not identified purchases.",
+      "evidence_locations": [
+        "Paragraph 28",
+        "Paragraph 29",
+        "Paragraph 30",
+        "Paragraph 31",
+        "Paragraph 32",
+        "Paragraph 33",
+        "Paragraph 34"
+      ],
+      "forbidden": [
+        "Do not make Stephan's set CIB or charge400toJackalone.",
+        "Do not identify the unnamed Lovecraftian title from outside knowledge.",
+        "No medical generalization from discomfort anecdotes."
+      ],
+      "status": "passed",
+      "reason": "Cart-only set, Johnny's separate ownership, replacement cases and graph gap qualified; no invented unnamed Virtual Boy title."
+    },
+    {
+      "id": "cq130-ghost-choice",
+      "episode": 130,
+      "question": "Why did Avenging Spirit replace Bubble Ghost, and did Johnny finally buy the games he had been waiting on?",
+      "query": "Why did Avenging Spirit replace Bubble Ghost, and did Johnny finally buy the games he had been waiting on?",
+      "answer": "Tyler wanted Bubble Ghost for the list, but Johnny suggested Avenging Spirit after its cute Japanese ghost art caught their attention. Tyler explicitly had not played Avenging Spirit; the possession/reverse-Kirby description is not firsthand play. Bubble Ghost's presumed arcade origin is corrected to Atari ST. Johnny had been making unsuccessful offers on an Avenging Spirit copy for about a year, so it remained wanted, not purchased. He worries about repeating his delay on the captioned Pocky/Rocky/Becky game, whose price he says rose from $300 to $1,000. But he corrects the Kid Dracula comparison: he did get a great US copy for around $180. Whether to pursue an additional Kid Dracula variant remains undecided.",
+      "evidence_locations": [
+        "Paragraph 40",
+        "Paragraph 41",
+        "Paragraph 42",
+        "Paragraph 43",
+        "Paragraph 44",
+        "Paragraph 45"
+      ],
+      "forbidden": [
+        "Do not convert a selection choice into a purchase.",
+        "Do not mark Avenging Spirit received or ordered.",
+        "Do not decide an unnamed Kid Dracula variant identity."
+      ],
+      "status": "passed",
+      "reason": "Selection substitution, unsuccessful offers, actual Kid Dracula purchase and undecided extra variant correctly separated."
+    },
+    {
+      "id": "cq130-brain-dead",
+      "episode": 130,
+      "question": "Which Brain Dead 13 versions did Stephan own, and what was corrected about its packaging and original format?",
+      "query": "Which Brain Dead 13 versions did Stephan own, and what was corrected about its packaging and original format?",
+      "answer": "Stephan says he owns Brain Dead 13 on Saturn and 3DO, not PlayStation. The PS1 packaging exchange moves from a jewel-case assumption to longbox identification; it should not become an inventory claim that he owns both PS1 packages. The source identifies the original as MS-DOS in 1995, with console ports in 1996, so 'LaserDisc game' describes the style rather than an original LaserDisc release. CD-i is reported as European, but no sale-price history was found. Saturn and other console-price talk is around $40–60, not a verified universal price for every port. Stephan likes the game and recalls prior mentions but cannot confidently place the earlier Halloween episode within this source.",
+      "evidence_locations": [
+        "Paragraph 45",
+        "Paragraph 46",
+        "Paragraph 47",
+        "Paragraph 48"
+      ],
+      "forbidden": [
+        "Do not invent a PS1 purchase or LaserDisc original.",
+        "Do not fill the CD-i pricing gap from another edition.",
+        "No independently certified release chronology."
+      ],
+      "status": "passed",
+      "reason": "Saturn and 3DO ownership explicitly distinguished from PS1 nonownership and DOS/longbox/unknown CD-i price."
+    },
+    {
+      "id": "cq130-juon-variants",
+      "episode": 130,
+      "question": "Was Ju-on a Wii U game, and did French text always identify a separate Canadian variant?",
+      "query": "Was Ju-on a Wii U game, and did French text always identify a separate Canadian variant?",
+      "answer": "Ju-on/The Grudge: Haunted House Simulator is the Wii selection, quoted around $40–65. Johnny says Wii U during the explanation, the argument is replayed, and the editor confirms the slip; that does not create a Wii U release. The source distinguishes ordinary US packaging from a Canadian French-text version, but then qualifies the broader rule: some games have only a multilingual North American release, and language differences can appear only in an ESRB panel, manual or back cover. The hosts' dislike of extra text is an aesthetic preference, not proof such copies are invalid or worthless. The account also says 'the Ring' while discussing an anniversary/director connection; that possible franchise confusion remains flagged rather than silently certified.",
+      "evidence_locations": [
+        "Paragraph 48",
+        "Paragraph 49",
+        "Paragraph 50",
+        "Paragraph 51",
+        "Paragraph 52",
+        "Paragraph 53"
+      ],
+      "forbidden": [
+        "Do not infer a separate Canadian release from every French word.",
+        "Do not authenticate region or value without additional evidence.",
+        "Do not merge Ring and Grudge histories as verified fact."
+      ],
+      "status": "passed",
+      "reason": "Wii U slip and regional packaging inference are corrected; Ring/Grudge wording remains a source uncertainty."
+    },
+    {
+      "id": "cq130-mystery-house",
+      "episode": 130,
+      "question": "How did Tyler distinguish the four Mystery House releases, and which one sold for over a thousand dollars?",
+      "query": "How did Tyler distinguish the four Mystery House releases, and which one sold for over a thousand dollars?",
+      "answer": "Tyler describes four releases. The first mail-order package has blue instructions, a gold-label disk and white sleeve, with the largest label text identifying Hi-Res Adventure Number One. The second changes to a white label and adds a registration card. The third returns to the gold label but uses a blue sleeve and white illustrated folder; this is the release he says sold for just over $1,000 that summer. The fourth, described as a 1982 re-release, has a big black folder, brown sleeve and differently styled gold label bearing Mystery House. Its disk still says copyright 1980, so that date alone does not prove a first release. The criticised $200 listing is not a purchase by Tyler, and he later explicitly says he is not looking for Mystery House. Production totals, exact chronology and the Colossal Cave/Microsoft Adventure origin conversation remain historical source claims, not independent verification.",
+      "evidence_locations": [
+        "Paragraph 53",
+        "Paragraph 54",
+        "Paragraph 55",
+        "Paragraph 56",
+        "Paragraph 57",
+        "Paragraph 58",
+        "Paragraph 91"
+      ],
+      "forbidden": [
+        "Do not attach the1000sale to first release.",
+        "Do not certify a seller's intent or authenticate a loose disk solely from copyright.",
+        "Do not resolve disputed port dates from memory."
+      ],
+      "status": "passed",
+      "reason": "Four packaging generations correctly sequenced; thousand-dollar sale belongs to third, and copyright is not first-release proof."
+    },
+    {
+      "id": "cq130-phantasmagoria",
+      "episode": 130,
+      "question": "What made Phantasmagoria notable to Stephan, and which production or historical claims need qualification?",
+      "query": "What made Phantasmagoria notable to Stephan, and which production or historical claims need qualification?",
+      "answer": "Stephan presents Phantasmagoria as a supernatural FMV point-and-click title around $60 complete and gives an explicit sexual-assault content warning. His reported production figures are about 25 actors, a 550-page script, an $800,000 budget, $4.5 million to make the game and a separately described $1.5 million studio. Those are source-reported figures, not an independently reconciled production ledger. He also recalls about $12 million in early sales while being unsure whether the period was two or three weeks. The discussion does not establish that it was the first FMV adventure: Myst and Gabriel Knight 2 enter an unresolved comparison. Johnny's explicit PC big-box ownership statement securely covers The 7th Guest and The 11th Hour, not automatically every PC title named.",
+      "evidence_locations": [
+        "Paragraph 58",
+        "Paragraph 59",
+        "Paragraph 60",
+        "Paragraph 61",
+        "Paragraph 62"
+      ],
+      "forbidden": [
+        "Do not add studio cost into a new confirmed total.",
+        "Do not claim exact revenue timing or first-FMV status.",
+        "Do not infer Johnny owns Phantasmagoria from proximity."
+      ],
+      "status": "passed",
+      "reason": "Targeted P58–61 reread supports Stephan's warning and production discussion; separate studio cost, uncertain sales period and FMV priority remain qualified."
+    },
+    {
+      "id": "cq130-chronicles",
+      "episode": 130,
+      "question": "Why did Johnny prioritize Castlevania Chronicles, and what remained uncertain about its ports and the Sharp purchase?",
+      "query": "Why did Johnny prioritize Castlevania Chronicles, and what remained uncertain about its ports and the Sharp purchase?",
+      "answer": "Johnny recommends Castlevania Chronicles around $90–100 and would prioritize it over more readily available Symphony of the Night for collecting. He links Chronicles to the Sharp X68000 game, with differences from NES Castlevania and some PS1 improvements. But the relationship to the MSX Vampire Killer candidate or Haunted Castle is openly unresolved; they are not confidently merged. The roughly $300 Sharp discussion prompts buying banter, then Stephan says 'I bought' and later refers to his new copy. That supports a qualified in-episode purchase report, not verified payment, delivery or physical receipt. The nearby Netflix discussion is television: Stephan context says he finished season two, while Tyler watched season one and only proposes watching the second.",
+      "evidence_locations": [
+        "Paragraph 66",
+        "Paragraph 67",
+        "Paragraph 68",
+        "Paragraph 69",
+        "Paragraph 70",
+        "Paragraph 71",
+        "Paragraph 79"
+      ],
+      "forbidden": [
+        "Do not merge all early Castlevania versions.",
+        "Do not turn a new-copy remark into confirmed shipping receipt.",
+        "Do not record TV viewing as game completion."
+      ],
+      "status": "passed",
+      "reason": "Collecting priority does not establish best gameplay; explicitly linked Sharp port and qualified purchase report remain distinct from uncertain other ports and TV viewing."
+    },
+    {
+      "id": "cq130-purchases-wants",
+      "episode": 130,
+      "question": "Which late-episode collection updates were actual purchases, and which remained missing games or expensive wants?",
+      "query": "Which late-episode collection updates were actual purchases, and which remained missing games or expensive wants?",
+      "answer": "Stephan bought an unnamed Wii U lot and unspecified museum-display items, but his black-label GameCube set remained one short: the Grooverider candidate. Finding it at Portland, his panel and museum display were still plans. Tyler bought complete PC Civilization, sealed outer-box-complete FDS Super Mario Bros. (a $150 bid and $60 winning price in context), loose Chase the Chuck Wagon, and a CIB Robot Tank. Robot Tank's old failed $4 negotiation was for a loose copy, not the current CIB price. Stephan would have sold his own Chase copy but no transfer happened. Johnny bought Ninja Taro from Johan without a manual and acquired the manual separately. Tyler's sealed Ocarina of Time and Ninja Gaiden III remained wants; he explicitly did not buy the auction copy, whose $1,700/$700 wording conflicts. Quadrun interest was weak, and the unidentified cassette offer did not reach the seller's demand. None of these pending items should be marked received.",
+      "evidence_locations": [
+        "Paragraph 71",
+        "Paragraph 72",
+        "Paragraph 73",
+        "Paragraph 74",
+        "Paragraph 82",
+        "Paragraph 83",
+        "Paragraph 84",
+        "Paragraph 89",
+        "Paragraph 90",
+        "Paragraph 91",
+        "Paragraph 92",
+        "Paragraph 93",
+        "Paragraph 94",
+        "Paragraph 95"
+      ],
+      "forbidden": [
+        "Do not finish Stephan's set or turn expo plans into attendance.",
+        "Do not infer a completed sale between the hosts.",
+        "Do not make an unsuccessful offer an order, receipt or purchase."
+      ],
+      "status": "passed",
+      "reason": "Actual late purchases, bid versus paid amount, missing set member, unsuccessful offers and future expo plans are not conflated."
+    },
+    {
+      "id": "cq130-play-and-dlc",
+      "episode": 130,
+      "question": "What did the hosts actually finish or play, and did Tyler buy the Forza car packs?",
+      "query": "What did the hosts actually finish or play, and did Tyler buy the Forza car packs?",
+      "answer": "Stephan and Johnny say they completed the Switch Link's Awakening remake and enjoyed it; that does not mean they completed the original Game Boy game, which they say they had not played. Tyler context discusses playing the original earlier that year. Stephan also bought and used a turquoise Switch Lite because his original Switch battery was failing; Johnny's imagined Zelda model is only a wish. Tyler received three months of Game Pass with a new PC component and reports four or five enjoyable racing-game hours before paid-car gates frustrated him. He first names Forza Horizon 4 but later uses Motorsport wording, so the precise identity stays qualified rather than becoming two played games. The $3 hot rod, $13 classic/TR6 pack and $23 supercar pack are blocked purchase attempts, not reported payments. His continuing-subscription-plus-DLC complaint is hypothetical cost reasoning, not an actual billing record.",
+      "evidence_locations": [
+        "Paragraph 74",
+        "Paragraph 75",
+        "Paragraph 76",
+        "Paragraph 80",
+        "Paragraph 81",
+        "Paragraph 85",
+        "Paragraph 86",
+        "Paragraph 87",
+        "Paragraph 88"
+      ],
+      "forbidden": [
+        "Do not transfer remake completion to the original.",
+        "Do not mark DLC purchased or monthly fees paid.",
+        "Do not infer an announced Zelda Switch Lite or two resolved Forza games."
+      ],
+      "status": "passed",
+      "reason": "Original versus remake play, qualified Tyler context, hardware purchase and blocked—not paid—DLC distinctions checked."
+    },
+    {
+      "id": "cq130-prominence",
+      "episode": 130,
+      "question": "Which three games received the most meaningful discussion in CQ130, including ties and the map's limits?",
+      "query": "Which three games received the most meaningful discussion in CQ130, including ties and the map's limits?",
+      "answer": "The full-map paragraph union puts Rule of Rose and Mystery House jointly first at seven meaningful paragraphs each. Third place is tied among Koudelka, Echo Night, NES Castlevania, and the stated Castlevania Chronicles/Sharp X68000 port family at six each, so a faithful top-three cutoff must show six titles or scoped game identities rather than choose an arbitrary third. These are untimed source-paragraph unions, not speaking minutes, word counts, favorites or the thirteen-item presentation order. The Chronicles/Sharp relationship is explicitly described as a port family; platform references and purchase claims remain separate, and the P79 new-copy interruption is only passing. NES Castlevania stays distinct. A correction or substantive comparison can count as discussion; a bare name or joke does not. Hardware, packaging-only products, series, compilations, television and music remain outside individual-game ranking; uncertain port relationships are not silently merged.",
+      "evidence_locations": [
+        "Paragraph 8",
+        "Paragraph 9",
+        "Paragraph 10",
+        "Paragraph 11",
+        "Paragraph 12",
+        "Paragraph 13",
+        "Paragraph 20",
+        "Paragraph 21",
+        "Paragraph 22",
+        "Paragraph 23",
+        "Paragraph 24",
+        "Paragraph 25",
+        "Paragraph 26",
+        "Paragraph 35",
+        "Paragraph 36",
+        "Paragraph 37",
+        "Paragraph 38",
+        "Paragraph 39",
+        "Paragraph 40",
+        "Paragraph 53",
+        "Paragraph 54",
+        "Paragraph 55",
+        "Paragraph 56",
+        "Paragraph 57",
+        "Paragraph 58",
+        "Paragraph 62",
+        "Paragraph 63",
+        "Paragraph 64",
+        "Paragraph 65",
+        "Paragraph 66",
+        "Paragraph 67",
+        "Paragraph 68",
+        "Paragraph 69",
+        "Paragraph 70",
+        "Paragraph 71"
+      ],
+      "forbidden": [
+        "Do not force a unique third or invent exact minutes.",
+        "Do not substitute list membership for prominence.",
+        "Do not fold every Castlevania platform/version into one identity."
+      ],
+      "status": "passed",
+      "reason": "Final map union must match seven/seven leaders and four-way six-paragraph third-place tie; untimed proxy and distinct NES identity explicitly qualified."
+    }
+  ]
+}

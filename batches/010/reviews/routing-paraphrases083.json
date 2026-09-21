@@ -1,0 +1,185 @@
+{
+  "reviewer": "independent peer of extraction; source-informed fresh phrasing",
+  "source_key": "sc-388300934",
+  "episode": 83,
+  "design_constraints": "Full source read before authoring; no CQ83 tuned queries or routing code inspected to design these. Parent had disclosed P45 unknown Odyssey actor. Expected locations frozen before extraction review.",
+  "cases": [
+    {
+      "id": "fresh-cq083-terms",
+      "episode": 83,
+      "source_key": "sc-388300934",
+      "question": "When they call these reissues licensed, who actually gave permission—and how is that different from homebrew?",
+      "query": "When they call these reissues licensed, who actually gave permission—and how is that different from homebrew?",
+      "expected_locations": [
+        "Paragraph 1"
+      ],
+      "evidence_locations": [
+        "Paragraph 1"
+      ],
+      "expected_facts": [
+        "IP holder license not Nintendo seal",
+        "Homebrew built anew versus existing games republished"
+      ],
+      "forbidden": [
+        "Nintendo licensed each cartridge",
+        "All aftermarket is homebrew"
+      ],
+      "forbidden_inferences": [
+        "Nintendo licensed each cartridge",
+        "All aftermarket is homebrew"
+      ],
+      "retrieval_status": "not_run"
+    },
+    {
+      "id": "fresh-cq083-bid",
+      "episode": 83,
+      "source_key": "sc-388300934",
+      "question": "Did either host actually win that cheap glowing Street Fighter cartridge, or were they only bidding?",
+      "query": "Did either host actually win that cheap glowing Street Fighter cartridge, or were they only bidding?",
+      "expected_locations": [
+        "Paragraph 26",
+        "Paragraph 27"
+      ],
+      "evidence_locations": [
+        "Paragraph 26",
+        "Paragraph 27"
+      ],
+      "expected_facts": [
+        "Listings and sold examples separate",
+        "20 bid reported, no win or receipt"
+      ],
+      "forbidden": [
+        "Auction won",
+        "20 purchase price",
+        "94 completed purchase"
+      ],
+      "forbidden_inferences": [
+        "Auction won",
+        "20 purchase price",
+        "94 completed purchase"
+      ],
+      "retrieval_status": "not_run"
+    },
+    {
+      "id": "fresh-cq083-co_op",
+      "episode": 83,
+      "source_key": "sc-388300934",
+      "question": "Which co-op game did Tyler and Ada finish, and why did he prefer Snipperclips?",
+      "query": "Which co-op game did Tyler and Ada finish, and why did he prefer Snipperclips?",
+      "expected_locations": [
+        "Paragraph 31",
+        "Paragraph 32"
+      ],
+      "evidence_locations": [
+        "Paragraph 31",
+        "Paragraph 32"
+      ],
+      "expected_facts": [
+        "LEGO Dimensions story completed with Ada",
+        "Snipperclips immediate varied puzzles praised"
+      ],
+      "forbidden": [
+        "LEGO100percent completed",
+        "Ada is Johnny",
+        "Snipperclips completion claimed"
+      ],
+      "forbidden_inferences": [
+        "LEGO100percent completed",
+        "Ada is Johnny",
+        "Snipperclips completion claimed"
+      ],
+      "retrieval_status": "not_run"
+    },
+    {
+      "id": "fresh-cq083-absence",
+      "episode": 83,
+      "source_key": "sc-388300934",
+      "question": "Why did Johnny step away mid-show—was he really measuring the distance to his television?",
+      "query": "Why did Johnny step away mid-show—was he really measuring the distance to his television?",
+      "expected_locations": [
+        "Paragraph 36",
+        "Paragraph 37"
+      ],
+      "evidence_locations": [
+        "Paragraph 36",
+        "Paragraph 37"
+      ],
+      "expected_facts": [
+        "Tyler guessed measurement",
+        "Johnny says signing for package"
+      ],
+      "forbidden": [
+        "Actual TV measurement",
+        "Package contents identified"
+      ],
+      "forbidden_inferences": [
+        "Actual TV measurement",
+        "Package contents identified"
+      ],
+      "retrieval_status": "not_run"
+    },
+    {
+      "id": "fresh-cq083-platform",
+      "episode": 83,
+      "source_key": "sc-388300934",
+      "question": "Why did Johnny give up on the Wii U version of LEGO Dimensions and restart elsewhere?",
+      "query": "Why did Johnny give up on the Wii U version of LEGO Dimensions and restart elsewhere?",
+      "expected_locations": [
+        "Paragraph 40",
+        "Paragraph 41"
+      ],
+      "evidence_locations": [
+        "Paragraph 40",
+        "Paragraph 41"
+      ],
+      "expected_facts": [
+        "Bad performance after about20hours",
+        "Switched toPS4 despite WiiU separate gamepad benefit"
+      ],
+      "forbidden": [
+        "Returned WiiUcopy",
+        "Transfer save established",
+        "Tyler was20hourWiiUplayer"
+      ],
+      "forbidden_inferences": [
+        "Returned WiiUcopy",
+        "Transfer save established",
+        "Tyler was20hourWiiUplayer"
+      ],
+      "retrieval_status": "not_run"
+    },
+    {
+      "id": "fresh-cq083-newleaf",
+      "episode": 83,
+      "source_key": "sc-388300934",
+      "question": "What was unusual about Johnny's New Leaf cartridge, and why was Ecco the Dolphin mentioned?",
+      "query": "What was unusual about Johnny's New Leaf cartridge, and why was Ecco the Dolphin mentioned?",
+      "expected_locations": [
+        "Paragraph 41",
+        "Paragraph 42",
+        "Paragraph 43"
+      ],
+      "evidence_locations": [
+        "Paragraph 41",
+        "Paragraph 42",
+        "Paragraph 43"
+      ],
+      "expected_facts": [
+        "Bought NewLeaf programmableGenesis cart",
+        "Ecco oncart and rentalexample",
+        "Precursor toGameFactory reported history"
+      ],
+      "forbidden": [
+        "OrdinaryEcco retailcopy acquisition",
+        "Personally rented it at teststore",
+        "Five-eight externallyverified"
+      ],
+      "forbidden_inferences": [
+        "OrdinaryEcco retailcopy acquisition",
+        "Personally rented it at teststore",
+        "Five-eight externallyverified"
+      ],
+      "retrieval_status": "not_run"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "passed": 6,
+  "total": 6,
+  "cases": [
+    {
+      "id": "fresh-cq084-starwars",
+      "question": "Why did Johnny like the R2-D2 Xbox even though the game packed with it was bad?",
+      "missing_windows": [],
+      "context_coverage": {
+        "returned_windows": 30,
+        "episode_windows": 46
+      },
+      "route": "lexical"
+    },
+    {
+      "id": "fresh-cq084-priority",
+      "question": "Was the pricey MUSHA purchase really what Tyler was most excited about?",
+      "missing_windows": [],
+      "context_coverage": {
+        "returned_windows": 29,
+        "episode_windows": 46
+      },
+      "route": "lexical"
+    },
+    {
+      "id": "fresh-cq084-count",
+      "question": "Who bought roughly a hundred PS1 games, and who picked up Halo 2 for its unusual case?",
+      "missing_windows": [],
+      "context_coverage": {
+        "returned_windows": 25,
+        "episode_windows": 46
+      },
+      "route": "lexical"
+    },
+    {
+      "id": "fresh-cq084-store",
+      "question": "Why were people paying extra for Lost Sphear, and what did Johnny suggest doing?",
+      "missing_windows": [],
+      "context_coverage": {
+        "returned_windows": 35,
+        "episode_windows": 46
+      },
+      "route": "lexical"
+    },
+    {
+      "id": "fresh-cq084-zelda",
+      "question": "Was the Zelda Wii U itself decorated, or was the special design on something else?",
+      "missing_windows": [],
+      "context_coverage": {
+        "returned_windows": 22,
+        "episode_windows": 46
+      },
+      "route": "lexical"
+    },
+    {
+      "id": "fresh-cq084-pinball",
+      "question": "Did Tyler place seventh, or did he lose to someone ranked seventh?",
+      "missing_windows": [],
+      "context_coverage": {
+        "returned_windows": 28,
+        "episode_windows": 46
+      },
+      "route": "lexical"
+    }
+  ]
+}

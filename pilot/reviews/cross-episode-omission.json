@@ -1,0 +1,1646 @@
+{
+  "schema_version": "1",
+  "selection_rule": "For each canonical manifest episode, zero-based heading indices floor(N*.25),floor(N*.5),floor(N*.75); add CQ30001:34:38 separately as purposive rapid-list stress. Duplicate old263excluded.",
+  "status": "comparison_complete_pre_repair",
+  "post_repair_status": "Pending coordinator addition of CQ300 Final Fantasy passing occurrence and narrowing CQ222 Donkey Kong boundary, followed by rebuild and verification. Pre-repair51/52 retained; do not claim52/52 until verified.",
+  "independence": "Deterministic independent selection and secondary-agent source-first pass, not fully blinded/external independent acceptance. PriorCQ146/CQ200reading and broader project context acknowledged.",
+  "windows": [
+    {
+      "text": "that is not the window that just does not matter at all like it’s not a relevant thing to say oh well can’t believe you paid that much money for that game it’s terrible it doesn’t matter that’s again it’s not the point of collecting you don’t collect games just because oh these are the best I mean you might if you are specific looking to game but that’s not what I’m in this for I’m in this for complete sets and sometimes you got a pony up but I was pretty uncomfortable like I said I’ve spent over $1000 now six times and it was you know on this it was on the world the blockbuster world championship 2-card for the Sega Genesis which is very rare outback joy for the Sega Genesis complete box with the system another wonderful fitness game also very rare you know those those two are the ones that were the previous most expensive you know respectively outback joy around 2000 and the world championship card around 1900 so now I’m $400 kind of over that threshold I’d always said for our 2000 about where I want to be at the most and then you know other copies of games that kind of got close to that were little Samson complete box I think",
+      "episode": 6,
+      "source_key": "sc-232561251",
+      "window_count": 28,
+      "source_sha256": "0203c31a55faca428e36b2cadd84dd5fdaec9c8bbfeecbf17eb68838f24fe1a3",
+      "location": "Paragraph 8",
+      "index": 7,
+      "path": "episodes/cq-006-sc-232561251.md",
+      "selection": "deterministic_quartile",
+      "references": [
+        {
+          "id": "cross-ref-001",
+          "title": "Blockbuster World Video Game Championships II",
+          "raw": "blockbuster world championship 2-card",
+          "quote": "x times and it was you know on this it was on the world the blockbuster world championship 2-card for the Sega Genesis which is very rare outback joy for the Sega Genesis complete box with the system another wonderful fitness game also v",
+          "identity_confidence": "contextual_candidate_raw_bucket_retained",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "g-blockbuster"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq6-review-span-10"
+          ],
+          "companion_files": [
+            "early-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-002",
+          "title": "Outback Joey",
+          "raw": "outback joy",
+          "quote": "championship 2-card for the Sega Genesis which is very rare outback joy for the Sega Genesis complete box with the system another wonderful fitness game also very rare you know those those two are the ones that ",
+          "identity_confidence": "contextual_candidate_raw_bucket_retained",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "g-outback"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq6-review-span-11"
+          ],
+          "companion_files": [
+            "early-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-003",
+          "title": "Little Samson",
+          "raw": "little Samson",
+          "quote": "w other copies of games that kind of got close to that were little Samson complete box I think",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "g-little-samson"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq6-review-span-12"
+          ],
+          "companion_files": [
+            "early-annotations.json"
+          ]
+        }
+      ],
+      "exclusions": [
+        "The opening this/that game is an unresolved antecedent in this isolated window; no title inferred."
+      ],
+      "no_identifiable_game": false
+    },
+    {
+      "text": "authentic you know if it’s fake it’s usually like paper white you know or too thick and too dark brown those are those are kind of some of the dead giveaways I would say I think those are all really good points because I think you know for anybody starting to collect when you do buy that first rare game which is always the hardest because you’re expending that much money it’s great if you look into your first rare game being something that’s actually legitimately fun to play but you want to know what to watch out for because that makes once you get past the first one it doesn’t I find for me it doesn’t get easier it just gets more routine I guess it’s oh I want to complete this the the set so I’m going to have to expend the money right well if you’re a set collector this is just a problem you’re gonna run into you’re gonna spend a bunch of money maybe unless you get lucky on terrible games that’s just the world you live in you’re also gonna spend a lot small sums of money on terrible games too when you’re a set collector you are going like the majority of your library is going to be filled with games that cost",
+      "episode": 6,
+      "source_key": "sc-232561251",
+      "window_count": 28,
+      "source_sha256": "0203c31a55faca428e36b2cadd84dd5fdaec9c8bbfeecbf17eb68838f24fe1a3",
+      "location": "Paragraph 15",
+      "index": 14,
+      "path": "episodes/cq-006-sc-232561251.md",
+      "selection": "deterministic_quartile",
+      "references": [],
+      "exclusions": [
+        "Generic authenticity, rarity and set-collecting discussion; no identifiable game title in selected window."
+      ],
+      "no_identifiable_game": true
+    },
+    {
+      "text": "and I think a lot of people miss that especially with with retro gaming and this is what I don’t like about angry video game there there’s a kind of at least in the original ones I didn’t watch too much of them but you know I’d come out and say oh this game is terrible what a piece of shit and you know you just crap on a game kind of unnecessarily without realizing one that was just you know of the of the era and how games were made and two that people still like those games because there is an experience outside of the video game that attaches us to it and that nostalgia is why people are even collecting video games and coming back right so there is the experience in the story and the emotional connection with a game that goes beyond gameplay graphics or anything else if we wanted the best graphics we’d all be playing on a PC or you’re an Xbox one or ps4 we wouldn’t be going back to these games if we wanted the tightest controls we wouldn’t be using an S controller we’d all be using you know arcade sticks with proper dip switches and you know dialed in completely with the fastest response times in zero latency but",
+      "episode": 6,
+      "source_key": "sc-232561251",
+      "window_count": 28,
+      "source_sha256": "0203c31a55faca428e36b2cadd84dd5fdaec9c8bbfeecbf17eb68838f24fe1a3",
+      "location": "Paragraph 22",
+      "index": 21,
+      "path": "episodes/cq-006-sc-232561251.md",
+      "selection": "deterministic_quartile",
+      "references": [],
+      "exclusions": [
+        "Angry Video Game Nerd is a creator; Xbox One/PS4/PC and controllers are hardware, not game titles."
+      ],
+      "no_identifiable_game": true
+    },
+    {
+      "text": "of the guys I know on Instagram was there, but I know him in real life as well. So it doesn’t really count. So any really great finds that you came back with or something you’re really excited about that you got? I bought about 40 Super Nintendo games, which I. Awesome. Have not doled out onto my Instagram feed yet. Some of them are just junk titles. So I’ll probably just do like one big post. If you follow me on Instagram, I do a thing called SNES set collect as my hashtag was a lot of sounds, supplement sounds. So I do that. I just I’m counting up until I get to the eventual set. So I haven’t added all of those pictures yet. But like I said, I’ll get a lot of sports titles, but it was pretty cool. I was getting complete inbox sport titles for a dollar and two dollars. Awesome. So anytime you can get a complete, you know, Super Nintendo game for two dollars. That’s a that’s a huge win. Like even if that title is normally five dollars, you know, there was just a booth. He said, I just want to get rid of all my sports titles and I needed like 12 of them. Oh, that’s awesome. So great way to",
+      "episode": 7,
+      "source_key": "sc-234461881",
+      "window_count": 27,
+      "source_sha256": "a8e2317b29956208f8a101c7aef0958c6bfd819e5add1a86f88c5ed43774d23f",
+      "location": "Paragraph 7",
+      "index": 6,
+      "path": "episodes/cq-007-sc-234461881.md",
+      "selection": "deterministic_quartile",
+      "references": [],
+      "exclusions": [
+        "About forty SNES purchases and sports titles are unspecified; hardware/set labels are not individual game identities."
+      ],
+      "no_identifiable_game": true
+    },
+    {
+      "text": "a little negotiating counter to that. If you see a very good deal that they’ve got it marked and it’s plainly a good deal. If it’s already a good deal, I mean, maybe you negotiate a little bit, but what you never do is walk away from it because when you are at a big convention like that, how many other people are going to be there? Just hundreds of people. There was thousands of people at this convention, I think, overall. So if I’m in line, you know, there’s plenty of people behind me and they’re all interested in video games. So it’s going to be a lot of hardcore collectors there. Don’t don’t take that risk. It probably won’t be there when you come back. Yeah, there’s nothing worse than missing out on something that you could have had. Yep. And you’ll just kick yourself over and over about it. There’s nothing you can do and you’ll probably find a fine deal in time. But, you know, if you really want something, you know, stake your claim when buying, if you were buying in bulk, you usually get a better deal. So don’t pick one game out of a pack and go, oh, I would like to buy this and then go to the same booth and be",
+      "episode": 7,
+      "source_key": "sc-234461881",
+      "window_count": 27,
+      "source_sha256": "a8e2317b29956208f8a101c7aef0958c6bfd819e5add1a86f88c5ed43774d23f",
+      "location": "Paragraph 14",
+      "index": 13,
+      "path": "episodes/cq-007-sc-234461881.md",
+      "selection": "deterministic_quartile",
+      "references": [],
+      "exclusions": [
+        "Generic convention-negotiation advice; no identifiable title."
+      ],
+      "no_identifiable_game": true
+    },
+    {
+      "text": "was some some good ones. As far as games, not really like there was plenty of like rare games. Like there was an alien soldier soldier for the Mega Drive that was being sold. That was pretty cool. There was some kind of expensive turbo graphics games. There was, you know, there was a lot of stuff, nothing where I was like, Oh my God, I need to get this thing right now. And to be fair, if those are the types of items you’re getting, get there early. Don’t come midday at a convention and expect to find all the best rare stuff. You know, you are competing with far too many people. Like put that in your mind. Like it’s like you got to get their doors opening, you know, and have a plan of attack. That’s the kind of stuff you’re looking for. I got there early and like I said, I saw some stuff and by the time I came back a lot of stuff was gone. Not that I was looking to buy it, but I was like, Oh, that’s that’s already gone, but nothing super rare. I did miss out on a boxed nest advantage that sold for $10. So I was kind of sad about that. I was like, Oh, I’d like to",
+      "episode": 7,
+      "source_key": "sc-234461881",
+      "window_count": 27,
+      "source_sha256": "a8e2317b29956208f8a101c7aef0958c6bfd819e5add1a86f88c5ed43774d23f",
+      "location": "Paragraph 21",
+      "index": 20,
+      "path": "episodes/cq-007-sc-234461881.md",
+      "selection": "deterministic_quartile",
+      "references": [
+        {
+          "id": "cross-ref-004",
+          "title": "Alien Soldier",
+          "raw": "alien soldier soldier",
+          "quote": "like there was plenty of like rare games. Like there was an alien soldier soldier for the Mega Drive that was being sold. That was pretty cool. There was some kind of expensive turbo graphics games. There was, you know, t",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "g-alien-soldier"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq7-review-span-13"
+          ],
+          "companion_files": [
+            "early-annotations.json"
+          ]
+        }
+      ],
+      "exclusions": [
+        "NES Advantage is a controller; generic TurboGrafx games remain unspecified."
+      ],
+      "no_identifiable_game": false
+    },
+    {
+      "text": "think the only thing that I'd say is that and it's not a make or break issue for me but I generally don't care for uh sites that list prices just because I feel that's dating it you know dating the information and by the time I see it it's already like especially now Jesus Christ with how fast things change as far as value go um it uh I I just i' I'd rather have the information without there being a like a hard price associated with it I kind of like the price because then you can see like if the article was 3 years old or two years old you can see what the hell happened it used to be this and now we're here so yeah I the only the only reason that I don't like it is that you know people who are not who don't understand that it's dated uh may end up like trying to like hold someone to a price um I don't think that that is then outdated they will they will if it hits SEO first right you because those people will just take whatever they find first so if it's if it happens to be an",
+      "episode": 146,
+      "source_key": "sc-852741172",
+      "window_count": 145,
+      "source_sha256": "6112079e5c3c41efafa3440cb5cf37b54fab7fab8eb2848682842d2cb1720c59",
+      "location": "00:36:50",
+      "index": 36,
+      "path": "episodes/cq-146-sc-852741172.md",
+      "selection": "deterministic_quartile",
+      "references": [],
+      "exclusions": [
+        "General pricing/resource debate; no named game."
+      ],
+      "no_identifiable_game": true
+    },
+    {
+      "text": "collecting and there are Ties That That Bind most collectors whether you're collecting pogs you know Video Games books comics cards I did yeah that was a that was for you Stephan because I was a little rude to you so I was giving you one so there there are things that are inherently true just about collecting and whether you are listening to this podcast and then collecting something else you can apply some of the lessons we hand out here and I think you can kind of do the same thing with re reserved Investments but again take reserved Investments with a grain of salt there are many people who who dislike him there many people who like him very much uh but there there are things to be gleaned there and Tyler's in the camp of liking very much as if you guys didn't know nothing else I think it's very entertaining and I love the way he talks I love how he does these like subscriber Milestone q&as but he does so much of them that like by the",
+      "episode": 146,
+      "source_key": "sc-852741172",
+      "window_count": 145,
+      "source_sha256": "6112079e5c3c41efafa3440cb5cf37b54fab7fab8eb2848682842d2cb1720c59",
+      "location": "01:13:42",
+      "index": 72,
+      "path": "episodes/cq-146-sc-852741172.md",
+      "selection": "deterministic_quartile",
+      "references": [],
+      "exclusions": [
+        "Pogs/books/comics/cards and Reserved Investments are not identifiable video-game titles."
+      ],
+      "no_identifiable_game": true
+    },
+    {
+      "text": "more than eBay right they have some manually entered stuff like I think he's taking I don't know if he's getting it manually or what but uh he's has like Heritage auction prices on there sometimes that's interesting and game value now has got a new formula too cuz now there there's like the new go collect version of it right yeah so that's that's one thing to know is that so um game value now um was recently purchased by go like the same people who uh purchased Nintendo age so take that as as you may I know originally we were really excited cuz they were getting like an actual like development staff but then uh development's been pretty slow although now they do have um graded water prices on there too cool yeah I couldn't just go to Heritage and look at the completed listings of every game ever that's been sold on Heritage which is where they're pulling those numbers from I'm sure yeah but now you can go to one website and look at like the aggregate well it's a more useful place where you can see an aggregate of of the",
+      "episode": 146,
+      "source_key": "sc-852741172",
+      "window_count": 145,
+      "source_sha256": "6112079e5c3c41efafa3440cb5cf37b54fab7fab8eb2848682842d2cb1720c59",
+      "location": "01:50:27",
+      "index": 108,
+      "path": "episodes/cq-146-sc-852741172.md",
+      "selection": "deterministic_quartile",
+      "references": [],
+      "exclusions": [
+        "Pricing websites/Heritage/GoCollect/Nintendo Age are resources, not games."
+      ],
+      "no_identifiable_game": true
+    },
+    {
+      "text": "to find I got to make sure your sealed turbo turtle is legit and then coffee with Mr Saturn posted a Buy It Now for a gba Dragon Tales Dragon Adventures for only $100 and he said if you want this it's going to be hard to find it cheaper and that is factual man can we forget this episode can we just talk about GBA and like I I'm sure people would love I they would love it if we did and we have to do a gba episode but this we do not have the prep done for that and Stefan definitely does not want to talk about GBA I really don't yeah no all right super don't sorry I mean he's probably a little interested in Turbo Turtle but I was when you say turbo Turtle the only thing that invokes is the uh the the the turtle program for the Apple 2E that taught me how to type or um what what logos was that the name of it Johnny help me out here I like it was like an ever it was like a little",
+      "episode": 200,
+      "source_key": "sc-1316628157",
+      "window_count": 162,
+      "source_sha256": "054403ac8ed130e4057eb18a329c216b48b2b9106f395e58701fb54f5f2e27c0",
+      "location": "00:42:17",
+      "index": 40,
+      "path": "episodes/cq-200-sc-1316628157.md",
+      "selection": "deterministic_quartile",
+      "references": [
+        {
+          "id": "cross-ref-005",
+          "title": "Turbo Turtle Adventure",
+          "raw": "turbo turtle",
+          "quote": "to find I got to make sure your sealed turbo turtle is legit and then coffee with Mr Saturn posted a Buy It Now for a gba Dragon Tales Dragon Adventures for only $100 and he said if you want ",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq200-g034"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": false,
+          "initial_partial_map_span_ids": [
+            "cq200-span-02"
+          ],
+          "reviewed_map_span_ids": [
+            "cq200-review-034-1"
+          ],
+          "companion_files": [
+            "middle-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-006",
+          "title": "Dragon Tales: Dragon Adventures",
+          "raw": "Dragon Tales Dragon Adventures",
+          "quote": "nd then coffee with Mr Saturn posted a Buy It Now for a gba Dragon Tales Dragon Adventures for only $100 and he said if you want this it's going to be hard to find it cheaper and that is factual man can we forget this episode can ",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq200-g035"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq200-review-035-1"
+          ],
+          "companion_files": [
+            "middle-annotations.json"
+          ]
+        }
+      ],
+      "exclusions": [
+        "Logo/logos and turtle programming are educational programming language/environment, not Turbo Turtle Adventure."
+      ],
+      "no_identifiable_game": false
+    },
+    {
+      "text": "everything I wanted this is not the memory I don't have the memory of hey it's a cart in my hand I have a memory of opening the box and seeing the thing which is kind of why I don't care about the manual for a lot of games cuz most games I didn't give a [ __ ] about the manual I plug the game in certain games I always cared about the manual because I'm like I want to read and know about it um especially RPGs all the maps so and RPG I definitely wanted the manuals and all the maps because that was part of my of my experience as a child uh see you're you're smart for doing that Johnny cuz I mean both I'm dumb as a kid and I was dumb when I was first collecting because my experience with boxes for new games was 100% tearing it straight down the middle throwing out everything I would keep the manuals I'd throw at the box like within 30 seconds of uh getting my hands on a video game and then really the only reason I started collecting completing box is because I essentially ran out of cartridges that I wanted um and now now that I'm targeting more specific games it's like yeah I want the nicest copies of the games I want but uh yeah which includes the box like if you're GNA have",
+      "episode": 200,
+      "source_key": "sc-1316628157",
+      "window_count": 162,
+      "source_sha256": "054403ac8ed130e4057eb18a329c216b48b2b9106f395e58701fb54f5f2e27c0",
+      "location": "01:25:19",
+      "index": 81,
+      "path": "episodes/cq-200-sc-1316628157.md",
+      "selection": "deterministic_quartile",
+      "references": [],
+      "exclusions": [
+        "Generic maps/manuals/RPG boxes; no identifiable game name."
+      ],
+      "no_identifiable_game": true
+    },
+    {
+      "text": "remind the audience that we have tried multiple times to get Tyler to not do all of this work we've tried multiple times to hire someone to do it and he will not allow it nope it's not happening kakis also asks what hold on hold on I want stuff to say yeah I got I got some other stuff because there there's a part of the podcast that people don't even see and that we that we don't even talk about Tyler and I and Stefan like we also have long running continual conversations that are happening that affect what is on and what the podcast is about like asking questions like me at my computer so it's like this is all the work you see but there's also when I'm mining ideas the it the podcast consumes a large amount of my brain okay because I care about the podcast a lot so I'm thinking a lot about things you aren't even considering and like I'm talking to Tyler constantly and it's not like that's not work or anything I enjoy talking Tyler I enjoy talking to Stefan and I enjoy looking the stuff up but if we're talking about the consumption of your life it's a lot",
+      "episode": 200,
+      "source_key": "sc-1316628157",
+      "window_count": 162,
+      "source_sha256": "054403ac8ed130e4057eb18a329c216b48b2b9106f395e58701fb54f5f2e27c0",
+      "location": "02:07:53",
+      "index": 121,
+      "path": "episodes/cq-200-sc-1316628157.md",
+      "selection": "deterministic_quartile",
+      "references": [],
+      "exclusions": [
+        "Podcast editing and preparation workload; no identifiable game name."
+      ],
+      "no_identifiable_game": true
+    },
+    {
+      "text": "something else that's not really related to the scarcity of a thing right that's true some kind of substitution thing in your brain you've got going on yes I mean we're g to we're gonna we're going to talk about that too but yeah it's it's part of it um do we need to say any more about scarcity principle anything else you want say I think everyone understands basically Rarity yeah yeah and I mean the only other part of it is like this this is the thing that leads people to pay premiums you know anyways um hey have you heard of the anchoring effect Tyler Johnny this this affects everything but yes okay so this is the cognitive uh bias that describes the tendency of an individual to rely too heavily on the first piece of information they receive when making a decision you may have seen this played out in other areas not just collecting like in the whole world when the world is going insane like the first like whatever your your leanings are politically and then you go and just the first thing or the top Google search uh",
+      "episode": 222,
+      "source_key": "sc-1517354524",
+      "window_count": 118,
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "location": "00:29:37",
+      "index": 29,
+      "path": "episodes/cq-222-sc-1517354524.md",
+      "selection": "deterministic_quartile",
+      "references": [],
+      "exclusions": [
+        "Scarcity/anchoring theory; no identifiable game name."
+      ],
+      "no_identifiable_game": true
+    },
+    {
+      "text": "about will hit people at a different level some people it's going to be like a one it's not going to be a big deal other people these things are going to hit them at a 10 and there's going to be this range it's not just like this is a thing and once I understand it's a thing I can like move past it this is enacting itself on you in you know in a broad range um and it's it's more nuanced than just being like Oh yeah I understand uh yeah that's very true I think it hits us hard because we have a whole podcast about video game collecting oh yeah well yeah so so it's like here's a fun thing we're talking about like because this is my favorite part of it too the um the changing of Interest like think about the last time you changed a hobby like what was what were you buying that you stopped buying and then went hard in a different way oh Johnny I'm a big Disney pin collector now I've got six Disney pins okay so are you you're done collecting um you're done collecting",
+      "episode": 222,
+      "source_key": "sc-1517354524",
+      "window_count": 118,
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "location": "01:00:10",
+      "index": 59,
+      "path": "episodes/cq-222-sc-1517354524.md",
+      "selection": "deterministic_quartile",
+      "references": [],
+      "exclusions": [
+        "Disney pins are non-game collectibles; no game title."
+      ],
+      "no_identifiable_game": true
+    },
+    {
+      "text": "200-year old game that's all they're going to play anyway you know what's going to happen if you recommend that they're going to be like this is what people were into dumb is stupid yes yeah no then you're going to like what are they going to play in in Super Mario World they're going to play up to like the first uh switch that the the switch I don't know what they're called the exclamation point switch that's like five minutes into the game and be like all right that's enough of that I'm going to go back to VR fragfest where if you lose an arm in the game you lose an arm in real life cuz that's what all the cool kids are playing yeah I don't know this no everyone's Gonna Hate K especially kids are going to hate any video game in 200 years probably I mean it like I can't predict what the world's going to look like then they've all got like cybernetic chips like uh a pulse is going to like kill half the people because their brains are going to stop working because the chip that makes them",
+      "episode": 222,
+      "source_key": "sc-1517354524",
+      "window_count": 118,
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "location": "01:29:43",
+      "index": 88,
+      "path": "episodes/cq-222-sc-1517354524.md",
+      "selection": "deterministic_quartile",
+      "references": [
+        {
+          "id": "cross-ref-007",
+          "title": "Super Mario World",
+          "raw": "Super Mario World",
+          "quote": "then you're going to like what are they going to play in in Super Mario World they're going to play up to like the first uh switch that the the switch I don't know what they're called the exclamation point switch that",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq222-g027"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": false,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq222-audit-span-050"
+          ],
+          "companion_files": [
+            "222-annotations.json"
+          ]
+        }
+      ],
+      "exclusions": [
+        "VR fragfest is a fictional future-game joke, not a real identified title. The switch refers to a game switch, not the Nintendo Switch console."
+      ],
+      "no_identifiable_game": false
+    },
+    {
+      "text": "so yes it does not necessarily line up so just know that and uh I think I think if you were trying to have like no dash ones in all of your stuff that that's the best way to go but but then some things start at dash one yeah but so again it's not sadly it isn't always consistent so do the best you can out there people uh it's it's hard to collect video games 100% accurately how easy would that be if we could just be like oh just get the ones that don't have any Dash number and then you'll know you have first print that goes all together but that's not how it works nope nope sadly no anyway as I was saying I wanted to drag it back because why those address stickers are especially hard to get and frustrating is because they don't have any of these product codes so even if people do have them they may not even know where they go because you can start to see the codes start to align it's like oh this poster has a very similar code to this box and this one has a very",
+      "episode": 248,
+      "source_key": "sc-1829470383",
+      "window_count": 88,
+      "source_sha256": "60b7240987c60d172a5235eeb3e0d93259aa2201ab9534e4ed4a55c9e926d87f",
+      "location": "00:22:31",
+      "index": 22,
+      "path": "episodes/cq-248-sc-1829470383.md",
+      "selection": "deterministic_quartile",
+      "references": [],
+      "exclusions": [
+        "Revision codes and address stickers; no identifiable title in this isolated window."
+      ],
+      "no_identifiable_game": true
+    },
+    {
+      "text": "just like oh yeah it's this is the stuff that was in the Box who gives a is where this insert falls on people's desire to own it so this or get a premium for funny part this to me is just like a oh yeah get this like this is everywhere everyone has it and then the call of there's a similar AATA insert on Call Of Duty Modern Warfare 2 which is the same thing it's a a correction about the number of players in the game and for whatever reason I think that's the coolest thing I think it's cuz it's easier to lose it's like this little smaller than index card thing in an Xbox 360 case uh versus a thing that's like completely perfectly sized to fit in an N64 box but uh I don't know my collector brain is weird yeah you should you should go find both of these if this is a thing that you think you should own everyone listening to this owns Major's mask and if they don't it's specifically because they hate Nintendo 64 I mean that's fair but if you own this game you should go get this and put it in there will be a day where someone gives a and then they mention this",
+      "episode": 248,
+      "source_key": "sc-1829470383",
+      "window_count": 88,
+      "source_sha256": "60b7240987c60d172a5235eeb3e0d93259aa2201ab9534e4ed4a55c9e926d87f",
+      "location": "00:44:56",
+      "index": 44,
+      "path": "episodes/cq-248-sc-1829470383.md",
+      "selection": "deterministic_quartile",
+      "references": [
+        {
+          "id": "cross-ref-008",
+          "title": "Call of Duty: Modern Warfare 2",
+          "raw": "Call Of Duty Modern Warfare 2",
+          "quote": "as it and then the call of there's a similar AATA insert on Call Of Duty Modern Warfare 2 which is the same thing it's a a correction about the number of players in the game and for whatever reason I think that's the coolest thin",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "g-cod-mw2"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "audit-248-span-041"
+          ],
+          "companion_files": [
+            "248-259-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-009",
+          "title": "The Legend of Zelda: Majora's Mask",
+          "raw": "Major's mask",
+          "quote": "at you think you should own everyone listening to this owns Major's mask and if they don't it's specifically because they hate Nintendo 64 I mean that's fair but if you own this game you should go get this and pu",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "g-zelda-majora"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "audit-248-span-039"
+          ],
+          "companion_files": [
+            "248-259-annotations.json"
+          ]
+        }
+      ],
+      "exclusions": [],
+      "no_identifiable_game": false
+    },
+    {
+      "text": "this insert is always missing also here's the thing with Mega Man 3 so it's got the little yellow bar across like the corner of the game the Le hand corner that says it's got the Mega Man refund except like the later prints of that game they took the refund offer off the game but they left the stupid yellow bar across the corner so you just have this ugly yellow blank bar where the offer is supposed to be it was like love those those Mega Man 2os and threes that don't have the inserts I know there's more Capcom variants that are similar to those um but yeah like the the Mega Mans that don't have the offer people love those because those are definitely rare yes it is a much rare version this is the Mega Man 3 that commands a premium without that insert but if you have Mega Man 3 the first print and you don't have this insert and you don't have the poster and you don't have there's all kinds of stuff that goes in Mega Man 3 you don't have the Nintendo Power thing but this one specifically I see people list it wrong they put the captain Commando refund in there this one very specifically says",
+      "episode": 248,
+      "source_key": "sc-1829470383",
+      "window_count": 88,
+      "source_sha256": "60b7240987c60d172a5235eeb3e0d93259aa2201ab9534e4ed4a55c9e926d87f",
+      "location": "01:07:22",
+      "index": 66,
+      "path": "episodes/cq-248-sc-1829470383.md",
+      "selection": "deterministic_quartile",
+      "references": [
+        {
+          "id": "cross-ref-010",
+          "title": "Mega Man 3",
+          "raw": "Mega Man 3",
+          "quote": "this insert is always missing also here's the thing with Mega Man 3 so it's got the little yellow bar across like the corner of the game the Le hand corner that says it's got the Mega Man refund except like ",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "g-mega-man3"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [
+            "cq248-span-01"
+          ],
+          "reviewed_map_span_ids": [
+            "audit-248-span-071"
+          ],
+          "companion_files": [
+            "248-259-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-011",
+          "title": "Mega Man 2",
+          "raw": "Mega Man 2os",
+          "quote": "re the offer is supposed to be it was like love those those Mega Man 2os and threes that don't have the inserts I know there's more Capcom variants that are similar to those um but yeah like the the Mega Mans tha",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "g-mega-man2"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": false,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "audit-248-span-069"
+          ],
+          "companion_files": [
+            "248-259-annotations.json"
+          ]
+        }
+      ],
+      "exclusions": [
+        "Captain Commando labels refund-program insert; not evidence of discussing the Captain Commando video game."
+      ],
+      "no_identifiable_game": false
+    },
+    {
+      "text": "of the Seven Gables though Dracula is not in that book believe it or not so this was just like a 12-year-old who's like you know what I really like I like the houses Seven Gables and I like Dracula I'm just a 12-year-old who's really into Old literature he did it what a thanks what a stupid nerd what a stupid you leave that boy alone dude he's what how old is he now he might not even be alive anymore oh now we're now he might be dead no let's see he was born in ' 66 so he's probably still alive he's probably just retired he he's probably thrilled talking about his old Adventure game if like I used to program like little uh little games for the ti 83 cuz that was like the first thing I could program uh if someone was talking about some of the stupid games I made like my economic simulations whatever I was making I'll be thrilled I'd be like oh yeah I remember making that in math class yeah you would be pretty pleased I I I waren Johnny this uh came out for",
+      "episode": 259,
+      "source_key": "sc-1943435095",
+      "window_count": 133,
+      "source_sha256": "85ad4c1efdd937cdda121f1a5a999d27049377b6d554464dc414fee9966fd492",
+      "location": "00:34:49",
+      "index": 33,
+      "path": "episodes/cq-259-sc-1943435095.md",
+      "selection": "deterministic_quartile",
+      "references": [],
+      "exclusions": [
+        "House of the Seven Gables and Dracula are literary inspirations in this window, not named video games. Adventure-game antecedent unresolved without adjacent context. TI83 is hardware; personal economic simulations unnamed."
+      ],
+      "no_identifiable_game": true
+    },
+    {
+      "text": "I'll do it if you need cheap import games make sure you're contacting red the game shk where you can get those games cheap at cheap cheap games now you can go talk about r g uh retr games.co does have one in stock for 60 pounds which is kind of right about what it's worth so uh you can go get one there a good buy uh it is the it is the later print with the color cover I don't know I would wait for an earlier one yeah I like the black and white cover uh all right Johnny I love this game I don't know how uh so I I didn't want to bring this up as its own game in 1980 so like a year before 3d monster maze there was this game called death maze 5000 for the TRS 80 I really like early 3D games whether they're real time or wireframe I mean the history goes kind of all the way back to Playdoh Network games then you get like Battle Zone as like a real-time 3D game but I like all these like weird early 3D games when they're kind of figuring stuff out and they're cool one of them is called",
+      "episode": 259,
+      "source_key": "sc-1943435095",
+      "window_count": 133,
+      "source_sha256": "85ad4c1efdd937cdda121f1a5a999d27049377b6d554464dc414fee9966fd492",
+      "location": "01:09:50",
+      "index": 66,
+      "path": "episodes/cq-259-sc-1943435095.md",
+      "selection": "deterministic_quartile",
+      "references": [
+        {
+          "id": "cross-ref-012",
+          "title": "3D Monster Maze",
+          "raw": "3d monster maze",
+          "quote": "bring this up as its own game in 1980 so like a year before 3d monster maze there was this game called death maze 5000 for the TRS 80 I really like early 3D games whether they're real time or wireframe I mean the hi",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq259-g031"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "audit-259-span-073"
+          ],
+          "companion_files": [
+            "248-259-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-013",
+          "title": "Deathmaze 5000",
+          "raw": "death maze 5000",
+          "quote": "ke a year before 3d monster maze there was this game called death maze 5000 for the TRS 80 I really like early 3D games whether they're real time or wireframe I mean the history goes kind of all the way back to Play",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq259-g040"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "audit-259-span-085"
+          ],
+          "companion_files": [
+            "248-259-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-014",
+          "title": "Battlezone",
+          "raw": "Battle Zone",
+          "quote": "all the way back to Playdoh Network games then you get like Battle Zone as like a real-time 3D game but I like all these like weird early 3D games when they're kind of figuring stuff out and they're cool one of ",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq259-g041"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "audit-259-span-086"
+          ],
+          "companion_files": [
+            "248-259-annotations.json"
+          ]
+        }
+      ],
+      "exclusions": [
+        "PLATO Network is platform/network; unnamed one in stock is only identifiable as 3D Monster Maze by contextual continuation, counted once with its explicit name."
+      ],
+      "no_identifiable_game": false
+    },
+    {
+      "text": "is the other game that is like the absolute prototype for the survival horror genre this is a it's a PC game it's an isometric Adventure game so you can kind of move in thre diim well is it two Dimension it's really two Dimensions cuz you only can move on the two Dimensions but has that isometric view um and you're on a spaceship and it even gives you justif and you know it's it's got like aliens chasing you and [ __ ] it I hate how Innovative this game is as a horror game and you look at the box and you're like oh it's an alien ripoff because they had to rip off alien because everyone was ripping off alien all the time even on this list is the ship named an asomo guess what the [ __ ] ship is named in Project fireart it's named Prometheus that's before they even made the movie how crazy is that uh my favorite it's literally alien you're solving puzzles around the ship you're running away from slow enemies and it's got like the Michael Myers thing where",
+      "episode": 259,
+      "source_key": "sc-1943435095",
+      "window_count": 133,
+      "source_sha256": "85ad4c1efdd937cdda121f1a5a999d27049377b6d554464dc414fee9966fd492",
+      "location": "01:44:56",
+      "index": 99,
+      "path": "episodes/cq-259-sc-1943435095.md",
+      "selection": "deterministic_quartile",
+      "references": [
+        {
+          "id": "cross-ref-015",
+          "title": "Project Firestart",
+          "raw": "Project fireart",
+          "quote": " ship named an asomo guess what the [ __ ] ship is named in Project fireart it's named Prometheus that's before they even made the movie how crazy is that uh my favorite it's literally alien you're solving puzzles a",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq259-g066"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "audit-259-span-124"
+          ],
+          "companion_files": [
+            "248-259-annotations.json"
+          ]
+        }
+      ],
+      "exclusions": [
+        "Alien/Prometheus and Michael Myers are movie/story comparisons, not identified video games; Nostromo is a ship-name comparison here."
+      ],
+      "no_identifiable_game": false
+    },
+    {
+      "text": "a new inbox game uh and then you hope the guy who buys it from you doesn't return it because you the seal has been removed what I saw a guy who was complaining about someone returning their game it's like uh I bought this and it was supposed to be new and there's no seal on it and like I could clearly open it up and then the so the guy had opened it too so it was just like oh Jesus Christ so I've seen a lot of YouTube videos it's fun YouTube videos uh where people test the comic grading companies were to like crack uh like a cgc 9.6 and I'm going to send it to cbcs and oh they only gave it a 7.5 what a CBS what does cbcs know that cgc doesn't what I want to do I don't think the game collecting Market is big enough for people to just blow this money for no reason uh and I don't think you'd get enough YouTube views for this buy some genuinely new cheap games from Japan I'm talking Hogan's alley is a game that is like absolutely worthless uh brand new old",
+      "episode": 263,
+      "source_key": "sc-1993480675",
+      "window_count": 208,
+      "source_sha256": "064cf9d5ca988164654997a4845bceb88f3a9d42ab508768b5bbf054a917f021",
+      "location": "00:55:51",
+      "index": 52,
+      "path": "episodes/cq-263-sc-1993480675.md",
+      "selection": "deterministic_quartile",
+      "references": [
+        {
+          "id": "cross-ref-016",
+          "title": "Hogan's Alley",
+          "raw": "Hogan's alley",
+          "quote": "s buy some genuinely new cheap games from Japan I'm talking Hogan's alley is a game that is like absolutely worthless uh brand new old",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq263-g032"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": false,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq263-review-span-046"
+          ],
+          "companion_files": [
+            "263-annotations.json"
+          ]
+        }
+      ],
+      "exclusions": [
+        "Comic grading companies and generic new Japanese games are not individual titles."
+      ],
+      "no_identifiable_game": false
+    },
+    {
+      "text": "would have no qualms about deleting an app off my iPad I just be like I'll just go download again it'll take like literally 5 Seconds where I don't want to be like got to boot up the switch store got to go to my purchases it is you know it turns like a 5-second process into like you know 90 second process it's just a little bit more annoying agreed um don't like it wow okay here we go is this what is game and network this is PlayStation I'm only going back to 2021 and I'm looking at like at least five times as many digital sales as physical sales and that's 2021 you have to imagine it has gotten way more towards digital since then so they've already said that switch 2 is going to be backwards compatible with switch games that kind of makes it feel like the switch cartridge is the last physical media that we're going to get at all I can't imagine that we're going to get a",
+      "episode": 263,
+      "source_key": "sc-1993480675",
+      "window_count": 208,
+      "source_sha256": "064cf9d5ca988164654997a4845bceb88f3a9d42ab508768b5bbf054a917f021",
+      "location": "01:51:29",
+      "index": 104,
+      "path": "episodes/cq-263-sc-1993480675.md",
+      "selection": "deterministic_quartile",
+      "references": [],
+      "exclusions": [
+        "Digital/physical sales and Switch compatibility; no named game."
+      ],
+      "no_identifiable_game": true
+    },
+    {
+      "text": "another copy of cosmology of Kyoto just recently and you got a great price on it and it's nicer than mine and I paid more money I'm sorry I don't want to rub that in your face no that's fine that's that's awesome I wish I had both copies I'm looking to get the other copy now all right you are getting some cool horror stuff Johnny I think oh hold on and I got one more to to mention produce you ever heard of produce I have heard of produce but only because you you've talked to me about it I think yeah this is like an obscure game that no one has ever heard of has been mentioned in a couple books man there's so much weird obscure horror stuff and I'm very excited about this game and I did a little video if you care about this game go watch it one I was excited to buy and then I have one more that I'll save till we talk about what what we bought so I think you're buying a lot of mostly obscure horror games which is great because we we love you collecting what you love Johnny I love the Ren and Stimpy buckaroos manual",
+      "episode": 263,
+      "source_key": "sc-1993480675",
+      "window_count": 208,
+      "source_sha256": "064cf9d5ca988164654997a4845bceb88f3a9d42ab508768b5bbf054a917f021",
+      "location": "02:46:42",
+      "index": 156,
+      "path": "episodes/cq-263-sc-1993480675.md",
+      "selection": "deterministic_quartile",
+      "references": [
+        {
+          "id": "cross-ref-017",
+          "title": "Cosmology of Kyoto",
+          "raw": "cosmology of Kyoto",
+          "quote": "another copy of cosmology of Kyoto just recently and you got a great price on it and it's nicer than mine and I paid more money I'm sorry I don't want to rub that in your fac",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq263-g090"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": false,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq263-review-span-124"
+          ],
+          "companion_files": [
+            "263-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-018",
+          "title": "Produce!",
+          "raw": "produce",
+          "quote": " Johnny I think oh hold on and I got one more to to mention produce you ever heard of produce I have heard of produce but only because you you've talked to me about it I think yeah this is like an obscure ga",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq263-g091"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq263-review-span-127"
+          ],
+          "companion_files": [
+            "263-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-019",
+          "title": "The Ren & Stimpy Show: Buckeroo$!",
+          "raw": "Ren and Stimpy buckaroos",
+          "quote": "e we we love you collecting what you love Johnny I love the Ren and Stimpy buckaroos manual",
+          "identity_confidence": "contextual_candidate",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq263-g092"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": false,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq263-review-span-129"
+          ],
+          "companion_files": [
+            "263-annotations.json"
+          ]
+        }
+      ],
+      "exclusions": [
+        "Ren & Stimpy is a game-manual association, not retail-game acquisition; no attribution assigned from isolated unlabelled dialogue."
+      ],
+      "no_identifiable_game": false
+    },
+    {
+      "text": "every time is considered hard economic times. So I I don't like saying hard economic times. People don't really care about rich people saying, \"Hey, look at all this [ __ ] I have that you don't have.\" >> Yeah. I mean, also when you buy something that expensive, you the people you can talk to that will be interested in that for any kind of sustained period is pretty small because that's it's completely out of touch. It's a lot different than buying um you know a rule of rose. >> Yeah, exactly. And I'm not say I'm not saying that this is a reason that this stuff won't have value because like the rich people do need to have their own tier of collectibles where they can to brag to each other like, \"Oh, I've got this so and so art and so and so one of a kind collectible.\" Uh but like yeah, again, look at these these numbers on this podcast. 1,000 views, 2,000 views. Like some of the old like a two-month old video has less than 3,000 views. Um cuz yeah, if you I think most of it is like people looking through it like it's a zoo and like oh what are what are these weird rich people talking about?",
+      "episode": 299,
+      "source_key": "sc-2387089140",
+      "window_count": 140,
+      "source_sha256": "2bd2fb1f85e8e8e5fbc52ef655208947cee19434554382de1584d4eec1d8b259",
+      "location": "00:35:43",
+      "index": 35,
+      "path": "episodes/cq-299-sc-2387089140.md",
+      "selection": "deterministic_quartile",
+      "references": [
+        {
+          "id": "cross-ref-020",
+          "title": "Rule of Rose",
+          "raw": "rule of rose",
+          "quote": "ut of touch. It's a lot different than buying um you know a rule of rose. >> Yeah, exactly. And I'm not say I'm not saying that this is a reason that this stuff won't have value because like the rich people do ne",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq299-g023"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "audit-299-span-026"
+          ],
+          "companion_files": [
+            "299-annotations.json"
+          ]
+        }
+      ],
+      "exclusions": [],
+      "no_identifiable_game": false
+    },
+    {
+      "text": "those have made no money or very little money or like the old Nintendo age guys are like, I know the difference between all these print runs, so I could go make a little money and then they did, so good on them. Um, sometimes it translate and sometimes it doesn't, but that is uh a thing that does happen. And when people do it in front of you and then showcase it to you, you get convinced that they are right and they are good at a thing, even if that isn't necessarily true. >> I I think the bigger risk is doing well in investing in collectibles and then thinking you're good at investing in collectibles because we haven't had a real market crash since 2008. I I mean like co the world ended but then it rebounded back like a [ __ ] rocket ship. So I'm not even counting that. And collectibles have been you know past 10 years and collectibles have been nuts obviously. So yeah if you've bought any Pokemon card you bought anything. You could bought anything in the past 10 years and you think you're a genius. You want to be a genius. If you are, if you're like reselling uh collectible",
+      "episode": 299,
+      "source_key": "sc-2387089140",
+      "window_count": 140,
+      "source_sha256": "2bd2fb1f85e8e8e5fbc52ef655208947cee19434554382de1584d4eec1d8b259",
+      "location": "01:11:19",
+      "index": 70,
+      "path": "episodes/cq-299-sc-2387089140.md",
+      "selection": "deterministic_quartile",
+      "references": [],
+      "exclusions": [
+        "Pokemon cards are physical cards, not a Pokemon video-game title."
+      ],
+      "no_identifiable_game": true
+    },
+    {
+      "text": "supposed to be spending your money on because you enjoy it because you don't own it. So, you will start to make suboptimal decisions. And again, sunk cost says, \"We've we've spent so much time. We've spent so much effort. We've spent so much money. Can we just do this thing and be done with it? Can we just spend $1,000?\" We have the phrase buy once, cry once to reinforce this as an idea. So, um anyways, sunk cost also intermixing in our uh empty slot phenomenon. Um, another thing that happens here, um, these are like these are all the things that kind of dovetail into it or spiral off of it. Um, collection identity when your collection is your identity. Imagine you're a YouTuber and your whole journey is I'm collecting every single NES game. Come with me, guys, as I try to complete my journey. You've all seen that [ __ ] YouTuber. I don't know who he is, but they're obnoxious. And but some people get invested in that journey",
+      "episode": 299,
+      "source_key": "sc-2387089140",
+      "window_count": 140,
+      "source_sha256": "2bd2fb1f85e8e8e5fbc52ef655208947cee19434554382de1584d4eec1d8b259",
+      "location": "01:46:55",
+      "index": 105,
+      "path": "episodes/cq-299-sc-2387089140.md",
+      "selection": "deterministic_quartile",
+      "references": [],
+      "exclusions": [
+        "Generic NES-set YouTuber and empty-slot discussion; no identifiable individual game."
+      ],
+      "no_identifiable_game": true
+    },
+    {
+      "text": "it never came out in America. It's very clearly like, oh, I've got the Japanese version. But, you know, I understand that people are like, \"But but Red is is a cool dinosaur guy.\" >> Yeah, look, I get it, too. And if you're and if you're in America, you're still not buying Red. uh by blue by the first print error. >> Okay, here's the the real answer is if you're doing any of this Pokemon stuff like you shouldn't be picking. Just get red, red, green, blue, and yellow at the minimum. Like you want the Gen One set, I think. I think maybe in America you can limit it to just red and blue because those are kind of the pair together. I think yellow is kind of a [ __ ] one. Uh >> but yellow's got Pikachu on it. >> [ __ ] [ __ ] that. But you you know you want you want the sets. We're we're all about empty slots. If I only had one of them, I'd be like, \"Oh, my empty slot.\" >> Okay, >> if you want one Pokemon game, make it like Pokemon Emerald or something. Make it like one of the the third entries. I guess Pokemon Yellow would be one to get to if you wanted one. >> So, those Ness, Falcon, and Jigglypuff were all unlockable characters. What",
+      "episode": 300,
+      "source_key": "sc-2396296749",
+      "window_count": 230,
+      "source_sha256": "231fa0907e939c249ce38ad38af7f8e59943d24b1ae2aa89dc626251d014f6ed",
+      "location": "00:58:07",
+      "index": 57,
+      "path": "episodes/cq-300-sc-2396296749.md",
+      "selection": "deterministic_quartile",
+      "references": [
+        {
+          "id": "cross-ref-021",
+          "title": "Pokémon Red",
+          "raw": "red",
+          "quote": " But, you know, I understand that people are like, \"But but Red is is a cool dinosaur guy.\" >> Yeah, look, I get it, too. And if you're and if you're in America, you're still not buying Red. uh by blue b",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq300-g035"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": false,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq300-audit-span-321"
+          ],
+          "companion_files": [
+            "300-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-022",
+          "title": "Pokémon Green",
+          "raw": "green",
+          "quote": "mon stuff like you shouldn't be picking. Just get red, red, green, blue, and yellow at the minimum. Like you want the Gen One set, I think. I think maybe in America you can limit it to just red and blue be",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq300-g018"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": false,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq300-audit-span-320"
+          ],
+          "companion_files": [
+            "300-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-023",
+          "title": "Pokémon Blue",
+          "raw": "blue",
+          "quote": "nd if you're in America, you're still not buying Red. uh by blue by the first print error. >> Okay, here's the the real answer is if you're doing any of this Pokemon stuff like you shouldn't be picking. J",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq300-g017",
+            "cq300-g202"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": false,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq300-audit-span-319"
+          ],
+          "companion_files": [
+            "300-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-024",
+          "title": "Pokémon Yellow",
+          "raw": "yellow",
+          "quote": "u shouldn't be picking. Just get red, red, green, blue, and yellow at the minimum. Like you want the Gen One set, I think. I think maybe in America you can limit it to just red and blue because those are ki",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq300-g036"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq300-audit-span-022"
+          ],
+          "companion_files": [
+            "300-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-025",
+          "title": "Pokémon Emerald",
+          "raw": "Pokemon Emerald",
+          "quote": "ot.\" >> Okay, >> if you want one Pokemon game, make it like Pokemon Emerald or something. Make it like one of the the third entries. I guess Pokemon Yellow would be one to get to if you wanted one. >> So, those Ness",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq300-g037"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq300-audit-span-023"
+          ],
+          "companion_files": [
+            "300-annotations.json"
+          ]
+        }
+      ],
+      "exclusions": [
+        "Pokemon Gen One set/brand not counted in addition to five titles. Ness/Falcon/Jigglypuff suggest a Smash game but this window does not name its title/edition; retain ambiguous allusion outside exact-title denominator."
+      ],
+      "no_identifiable_game": false
+    },
+    {
+      "text": "the condition like you will just by doing that you'll be like oh well I need to put what I have in my want list on hold because oh this manual is effed up. if I need a new manual for my Mario 3 or something that you you didn't remember that was messed up cuz you bought it seven years ago. >> Yeah. >> Um or you'll find out like, \"Oh, there's a much cooler variant of this. I should just go get that instead of dealing with uh oh, I've got the nonhangtab Castlevania. What am I doing with my life?\" Um what else? Also, you could do this weird thing which we have said >> if you uh put these video games into your console. You could play them >> and you could even focus your collection around games that you've played or games that you've beaten. And that like kind of forces you to slow down cuz like, oh, I'm not going to let myself buy a new game until I beat one of the games I already have. And that really limits how much you could buy. And then it kind of forces you to engage with the other part of this hobby which is uh actually playing video games which is not necessary but it is something to think",
+      "episode": 300,
+      "source_key": "sc-2396296749",
+      "window_count": 230,
+      "source_sha256": "231fa0907e939c249ce38ad38af7f8e59943d24b1ae2aa89dc626251d014f6ed",
+      "location": "01:57:04",
+      "index": 115,
+      "path": "episodes/cq-300-sc-2396296749.md",
+      "selection": "deterministic_quartile",
+      "references": [
+        {
+          "id": "cross-ref-026",
+          "title": "Super Mario Bros. 3",
+          "raw": "Mario 3",
+          "quote": "e oh this manual is effed up. if I need a new manual for my Mario 3 or something that you you didn't remember that was messed up cuz you bought it seven years ago. >> Yeah. >> Um or you'll find out like, \"Oh",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq300-g019",
+            "cq300-g105"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq300-audit-span-078"
+          ],
+          "companion_files": [
+            "300-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-027",
+          "title": "Castlevania",
+          "raw": "Castlevania",
+          "quote": "that instead of dealing with uh oh, I've got the nonhangtab Castlevania. What am I doing with my life?\" Um what else? Also, you could do this weird thing which we have said >> if you uh put these video games int",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq300-g106"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq300-audit-span-079"
+          ],
+          "companion_files": [
+            "300-annotations.json"
+          ]
+        }
+      ],
+      "exclusions": [],
+      "no_identifiable_game": false
+    },
+    {
+      "text": "is Yeah. >> Not a question. All right, >> that's it. Those are the best things to collect from Xear. >> Yep. >> And we didn't consider anything except for straight up video games. So, I don't know. >> We got we got got four more real full entire episodes to get through. Johnny, >> has there ever been an episode on interesting misprints and varants? And I didn't write down who asked us this. I think it was VG collectaholic. Um, no, there hasn't been a misprint episode. And yes, that would be a good episode. And not even I don't think the interesting episode is like oneoff weird misprints. Like those are interesting. Uh I think the interesting thing is like misprints you could actually go by because they're like common misprints. >> You want you want the Super Mario World with the backwards uh symbol. >> You do want that. That is a cool misprint. I used to browse for those on eBay all the time because there there's zero premium for them and it's fun to hunt for them because at any given time there",
+      "episode": 300,
+      "source_key": "sc-2396296749",
+      "window_count": 230,
+      "source_sha256": "231fa0907e939c249ce38ad38af7f8e59943d24b1ae2aa89dc626251d014f6ed",
+      "location": "02:55:05",
+      "index": 172,
+      "path": "episodes/cq-300-sc-2396296749.md",
+      "selection": "deterministic_quartile",
+      "references": [
+        {
+          "id": "cross-ref-028",
+          "title": "Super Mario World",
+          "raw": "Super Mario World",
+          "quote": "use they're like common misprints. >> You want you want the Super Mario World with the backwards uh symbol. >> You do want that. That is a cool misprint. I used to browse for those on eBay all the time because there t",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq300-g049",
+            "cq300-g104"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": false,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq300-audit-span-346"
+          ],
+          "companion_files": [
+            "300-annotations.json"
+          ]
+        }
+      ],
+      "exclusions": [],
+      "no_identifiable_game": false
+    },
+    {
+      "text": "Alpha and King's Knight predate um Final Fantasy as well. Kings Knight has a three out of 10 review on IGN.com. IGN, thank you for giving me this review of a game that was like 30 years old when you reviewed it. Very cool. >> Great. Love it. And then you get into modern Square stuff. >> Oh, okay. Yeah, keep going with your So, you want to collect Square? >> I'm just going to ri you. We have Final Fantasy Legend, Final Fantasy 3, Final Fantasy Adventure, Final Fantasy 4, Romancing Saga, Final Fantasy 5, Secret of Mana, Romancing Saga 2, Final Fantasy 6, Live, Alive, or Alive Alive, I don't know. Or live alive. Uh, who knows? Uh, that these American words are crazy. Front mission, Corono Trigger, Second Densetsu 3, The Trials of Mana, Whoa. Romantic Saga 3, Super Mario RPG, Bahamut Lagoon, Treasures of Ruterus, uh Final Fantasy 7, Tactics, Saga Frontier, Zenog, and we just keep going. And Square and then becomes Squaresoft just",
+      "episode": 300,
+      "source_key": "sc-2396296749",
+      "window_count": 230,
+      "source_sha256": "231fa0907e939c249ce38ad38af7f8e59943d24b1ae2aa89dc626251d014f6ed",
+      "location": "01:34:38",
+      "index": -1,
+      "path": "episodes/cq-300-sc-2396296749.md",
+      "selection": "purposive_rapid_list",
+      "references": [
+        {
+          "id": "cross-ref-029",
+          "title": "Alpha",
+          "raw": "Alpha",
+          "quote": "Alpha and King's Knight predate um Final Fantasy as well. Kings Knight has a three out of 10 review on IGN.com. IGN, thank you for giving me this",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq300-g066"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": false,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq300-audit-span-342"
+          ],
+          "companion_files": [
+            "300-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-030",
+          "title": "King's Knight",
+          "raw": "King's Knight",
+          "quote": "Alpha and King's Knight predate um Final Fantasy as well. Kings Knight has a three out of 10 review on IGN.com. IGN, thank you for giving me this review of a game ",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq300-g067"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": false,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq300-audit-span-341"
+          ],
+          "companion_files": [
+            "300-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-031",
+          "title": "Final Fantasy",
+          "raw": "Final Fantasy as well",
+          "quote": "Alpha and King's Knight predate um Final Fantasy as well. Kings Knight has a three out of 10 review on IGN.com. IGN, thank you for giving me this review of a game that was like 30 years old when y",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "reviewed_map_miss",
+          "base_game_ids": [
+            "cq300-g061"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": false,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [],
+          "companion_files": [
+            "300-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-032",
+          "title": "The Final Fantasy Legend",
+          "raw": "Final Fantasy Legend",
+          "quote": "ant to collect Square? >> I'm just going to ri you. We have Final Fantasy Legend, Final Fantasy 3, Final Fantasy Adventure, Final Fantasy 4, Romancing Saga, Final Fantasy 5, Secret of Mana, Romancing Saga 2, Final Fantas",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq300-g068"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq300-audit-span-043"
+          ],
+          "companion_files": [
+            "300-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-033",
+          "title": "Final Fantasy III",
+          "raw": "Final Fantasy 3",
+          "quote": " >> I'm just going to ri you. We have Final Fantasy Legend, Final Fantasy 3, Final Fantasy Adventure, Final Fantasy 4, Romancing Saga, Final Fantasy 5, Secret of Mana, Romancing Saga 2, Final Fantasy 6, Live, Alive,",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq300-g001",
+            "cq300-g069"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq300-audit-span-044"
+          ],
+          "companion_files": [
+            "300-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-034",
+          "title": "Final Fantasy Adventure",
+          "raw": "Final Fantasy Adventure",
+          "quote": "g to ri you. We have Final Fantasy Legend, Final Fantasy 3, Final Fantasy Adventure, Final Fantasy 4, Romancing Saga, Final Fantasy 5, Secret of Mana, Romancing Saga 2, Final Fantasy 6, Live, Alive, or Alive Alive, I don't ",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq300-g070"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq300-audit-span-045"
+          ],
+          "companion_files": [
+            "300-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-035",
+          "title": "Final Fantasy IV",
+          "raw": "Final Fantasy 4",
+          "quote": "l Fantasy Legend, Final Fantasy 3, Final Fantasy Adventure, Final Fantasy 4, Romancing Saga, Final Fantasy 5, Secret of Mana, Romancing Saga 2, Final Fantasy 6, Live, Alive, or Alive Alive, I don't know. Or live ali",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq300-g071"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq300-audit-span-046"
+          ],
+          "companion_files": [
+            "300-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-036",
+          "title": "Romancing SaGa",
+          "raw": "Romancing Saga,",
+          "quote": " Final Fantasy 3, Final Fantasy Adventure, Final Fantasy 4, Romancing Saga, Final Fantasy 5, Secret of Mana, Romancing Saga 2, Final Fantasy 6, Live, Alive, or Alive Alive, I don't know. Or live alive. Uh, who knows",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq300-g072"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq300-audit-span-047"
+          ],
+          "companion_files": [
+            "300-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-037",
+          "title": "Final Fantasy V",
+          "raw": "Final Fantasy 5",
+          "quote": ", Final Fantasy Adventure, Final Fantasy 4, Romancing Saga, Final Fantasy 5, Secret of Mana, Romancing Saga 2, Final Fantasy 6, Live, Alive, or Alive Alive, I don't know. Or live alive. Uh, who knows? Uh, that these",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq300-g073"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq300-audit-span-048"
+          ],
+          "companion_files": [
+            "300-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-038",
+          "title": "Secret of Mana",
+          "raw": "Secret of Mana",
+          "quote": "dventure, Final Fantasy 4, Romancing Saga, Final Fantasy 5, Secret of Mana, Romancing Saga 2, Final Fantasy 6, Live, Alive, or Alive Alive, I don't know. Or live alive. Uh, who knows? Uh, that these American words ",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq300-g074"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq300-audit-span-049"
+          ],
+          "companion_files": [
+            "300-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-039",
+          "title": "Romancing SaGa 2",
+          "raw": "Romancing Saga 2",
+          "quote": "Fantasy 4, Romancing Saga, Final Fantasy 5, Secret of Mana, Romancing Saga 2, Final Fantasy 6, Live, Alive, or Alive Alive, I don't know. Or live alive. Uh, who knows? Uh, that these American words are crazy. Front m",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq300-g075"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq300-audit-span-050"
+          ],
+          "companion_files": [
+            "300-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-040",
+          "title": "Final Fantasy VI",
+          "raw": "Final Fantasy 6",
+          "quote": "ng Saga, Final Fantasy 5, Secret of Mana, Romancing Saga 2, Final Fantasy 6, Live, Alive, or Alive Alive, I don't know. Or live alive. Uh, who knows? Uh, that these American words are crazy. Front mission, Corono Tr",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq300-g076"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq300-audit-span-051"
+          ],
+          "companion_files": [
+            "300-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-041",
+          "title": "Live A Live",
+          "raw": "Live, Alive",
+          "quote": "ntasy 5, Secret of Mana, Romancing Saga 2, Final Fantasy 6, Live, Alive, or Alive Alive, I don't know. Or live alive. Uh, who knows? Uh, that these American words are crazy. Front mission, Corono Trigger, Second",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq300-g077"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq300-audit-span-052"
+          ],
+          "companion_files": [
+            "300-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-042",
+          "title": "Front Mission",
+          "raw": "Front mission",
+          "quote": "ve. Uh, who knows? Uh, that these American words are crazy. Front mission, Corono Trigger, Second Densetsu 3, The Trials of Mana, Whoa. Romantic Saga 3, Super Mario RPG, Bahamut Lagoon, Treasures of Ruterus, uh Fi",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq300-g078"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq300-audit-span-053"
+          ],
+          "companion_files": [
+            "300-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-043",
+          "title": "Chrono Trigger",
+          "raw": "Corono Trigger",
+          "quote": "ws? Uh, that these American words are crazy. Front mission, Corono Trigger, Second Densetsu 3, The Trials of Mana, Whoa. Romantic Saga 3, Super Mario RPG, Bahamut Lagoon, Treasures of Ruterus, uh Final Fantasy 7, T",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq300-g079"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq300-audit-span-054"
+          ],
+          "companion_files": [
+            "300-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-044",
+          "title": "Seiken Densetsu 3 / Trials of Mana",
+          "raw": "Second Densetsu 3, The Trials of Mana",
+          "quote": "se American words are crazy. Front mission, Corono Trigger, Second Densetsu 3, The Trials of Mana, Whoa. Romantic Saga 3, Super Mario RPG, Bahamut Lagoon, Treasures of Ruterus, uh Final Fantasy 7, Tactics, Saga Frontier, Zenog, and we ju",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq300-g080"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq300-audit-span-055"
+          ],
+          "companion_files": [
+            "300-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-045",
+          "title": "Romancing SaGa 3",
+          "raw": "Romantic Saga 3",
+          "quote": "orono Trigger, Second Densetsu 3, The Trials of Mana, Whoa. Romantic Saga 3, Super Mario RPG, Bahamut Lagoon, Treasures of Ruterus, uh Final Fantasy 7, Tactics, Saga Frontier, Zenog, and we just keep going. And Squa",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq300-g081"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq300-audit-span-056"
+          ],
+          "companion_files": [
+            "300-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-046",
+          "title": "Super Mario RPG",
+          "raw": "Super Mario RPG",
+          "quote": "cond Densetsu 3, The Trials of Mana, Whoa. Romantic Saga 3, Super Mario RPG, Bahamut Lagoon, Treasures of Ruterus, uh Final Fantasy 7, Tactics, Saga Frontier, Zenog, and we just keep going. And Square and then becom",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq300-g082"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq300-audit-span-057"
+          ],
+          "companion_files": [
+            "300-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-047",
+          "title": "Bahamut Lagoon",
+          "raw": "Bahamut Lagoon",
+          "quote": "The Trials of Mana, Whoa. Romantic Saga 3, Super Mario RPG, Bahamut Lagoon, Treasures of Ruterus, uh Final Fantasy 7, Tactics, Saga Frontier, Zenog, and we just keep going. And Square and then becomes Squaresoft ju",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq300-g083"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq300-audit-span-058"
+          ],
+          "companion_files": [
+            "300-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-048",
+          "title": "Treasure of the Rudras",
+          "raw": "Treasures of Ruterus",
+          "quote": "na, Whoa. Romantic Saga 3, Super Mario RPG, Bahamut Lagoon, Treasures of Ruterus, uh Final Fantasy 7, Tactics, Saga Frontier, Zenog, and we just keep going. And Square and then becomes Squaresoft just",
+          "identity_confidence": "contextual_candidate",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq300-g084"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq300-audit-span-059"
+          ],
+          "companion_files": [
+            "300-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-049",
+          "title": "Final Fantasy VII",
+          "raw": "Final Fantasy 7",
+          "quote": ", Super Mario RPG, Bahamut Lagoon, Treasures of Ruterus, uh Final Fantasy 7, Tactics, Saga Frontier, Zenog, and we just keep going. And Square and then becomes Squaresoft just",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq300-g085",
+            "cq300-g206"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq300-audit-span-060"
+          ],
+          "companion_files": [
+            "300-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-050",
+          "title": "Final Fantasy Tactics",
+          "raw": "Tactics",
+          "quote": ", Bahamut Lagoon, Treasures of Ruterus, uh Final Fantasy 7, Tactics, Saga Frontier, Zenog, and we just keep going. And Square and then becomes Squaresoft just",
+          "identity_confidence": "contextual_candidate",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq300-g086"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq300-audit-span-061"
+          ],
+          "companion_files": [
+            "300-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-051",
+          "title": "SaGa Frontier",
+          "raw": "Saga Frontier",
+          "quote": " Lagoon, Treasures of Ruterus, uh Final Fantasy 7, Tactics, Saga Frontier, Zenog, and we just keep going. And Square and then becomes Squaresoft just",
+          "identity_confidence": "caption_supported",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq300-g087"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq300-audit-span-062"
+          ],
+          "companion_files": [
+            "300-annotations.json"
+          ]
+        },
+        {
+          "id": "cross-ref-052",
+          "title": "Xenogears",
+          "raw": "Zenog",
+          "quote": "res of Ruterus, uh Final Fantasy 7, Tactics, Saga Frontier, Zenog, and we just keep going. And Square and then becomes Squaresoft just",
+          "identity_confidence": "contextual_candidate",
+          "comparison_status": "covered_by_reviewed_map",
+          "base_game_ids": [
+            "cq300-g088"
+          ],
+          "baseline_title_record_present": true,
+          "baseline_exact_window_present": true,
+          "initial_partial_map_span_ids": [],
+          "reviewed_map_span_ids": [
+            "cq300-audit-span-063"
+          ],
+          "companion_files": [
+            "300-annotations.json"
+          ]
+        }
+      ],
+      "exclusions": [
+        "Seiken Densetsu3 / Trials of Mana counted as one title bucket here, not two titles. This is an alias reading of the rapid historical list, not a claim that the remake is the same release. FinalFantasyTactics and Xenogears readings are contextual candidates for clipped/transcribed names, not audio-verified."
+      ],
+      "no_identifiable_game": false
+    }
+  ],
+  "measurement_definitions": {
+    "baseline_title_records": "Any base title/raw bucket in same canonical episode; does not prove occurrence recall.",
+    "baseline_exact_window_occurrences": "Game occurrence quote explicitly located at selected window, not merely another location in episode.",
+    "initial_partial_map_pairs": "Selected window falls within a same-identity span in original pilot/annotations.json.",
+    "reviewed_map_pairs_before_repair": "Selected window falls within a same-identity span in available reviewed companions; source coverage metric, not exact-duration correctness or answer accuracy."
+  },
+  "results": {
+    "all": {
+      "windows": 31,
+      "no_identifiable_title_windows": 16,
+      "reference_window_pairs": 52,
+      "baseline_title_records": 52,
+      "baseline_exact_window_occurrences": 39,
+      "initial_partial_map_pairs": 2,
+      "reviewed_map_pairs_before_repair": 51
+    },
+    "deterministic": {
+      "windows": 30,
+      "no_identifiable_title_windows": 16,
+      "reference_window_pairs": 28,
+      "baseline_title_records": 28,
+      "baseline_exact_window_occurrences": 18,
+      "initial_partial_map_pairs": 2,
+      "reviewed_map_pairs_before_repair": 28
+    },
+    "purposive": {
+      "windows": 1,
+      "no_identifiable_title_windows": 0,
+      "reference_window_pairs": 24,
+      "baseline_title_records": 24,
+      "baseline_exact_window_occurrences": 21,
+      "initial_partial_map_pairs": 0,
+      "reviewed_map_pairs_before_repair": 23
+    }
+  },
+  "reviewed_map_misses": [
+    {
+      "episode": 300,
+      "location": "01:34:38",
+      "id": "cross-ref-031",
+      "title": "Final Fantasy",
+      "base_game_ids": [
+        "cq300-g061"
+      ],
+      "repair": "Add passing occurrence at selected window. Do not make original Final Fantasy inherit entire Square history segment."
+    }
+  ],
+  "scope_notes": [
+    "Buckets count recognizable game references per selected window, not individual repeated tokens. Regional Red/Green/Blue/Yellow entries count separately; duplicate names within one window do not.",
+    "Sixteen no-identifiable-title windows are retained, but this does not establish that no ongoing game discussion exists: unnamed antecedents require neighboring context.",
+    "Physical cards, books, fictional VR fragfest, programming languages, hardware and character-only allusions are excluded from the exact-title denominator and recorded in each window.",
+    "Normalised display names are comparison labels, not external title verification. Raw wording and qualified candidates are preserved.",
+    "After repairs, this is a development/regression sample, not unseen acceptance data."
+  ],
+  "selected_map_precision_notes": [
+    {
+      "episode": 222,
+      "location": "01:29:43",
+      "span_id": "cq222-audit-span-053",
+      "status": "potential_duration_inflation_reported",
+      "finding": "Donkey Kong supporting span01:28:43–01:30:43 overlaps selected window dominated by explicit Super Mario World then fictional VR fragfest. Only opening unnamed continuation may refer to Donkey Kong. Recommend ending meaningful Donkey Kong span01:29:43 and treating any residual return as passing unless adjacent context warrants more."
+    },
+    {
+      "episode": 300,
+      "location": "01:34:38",
+      "status": "rapid_list_depth_pass_with_omission",
+      "finding": "All21listedmodernSquaregames and Alpha/King's Knight are passing spans, so list does not award each a minute of discussion. Missing original Final Fantasy reference must be added as passing."
+    },
+    {
+      "episode": 300,
+      "location": "01:57:04",
+      "status": "no_obvious_inflation_at_caption_resolution",
+      "finding": "One-window supporting examples for Mario3manual condition and Castlevania variant fit selected passage. They remain coarse coverage estimates, not exact speech seconds."
+    },
+    {
+      "episode": 300,
+      "location": "00:58:07",
+      "status": "no_obvious_inflation_at_caption_resolution",
+      "finding": "Five named Pokemon variants/entries are actually compared; overlap is legitimate multi-game comparison, not a reason to sum runtime as unique speech."
+    },
+    {
+      "episode": 259,
+      "location": "00:34:49",
+      "status": "contextual_map_not_adjudicated_as_false_positive",
+      "finding": "Selected isolated words describe literary inspiration; companion maps House of Seven Gables game continuation. Neighboring context is required before judging its span false. Excluded from this isolated-window exact-title denominator, not erased from episode."
+    }
+  ]
+}

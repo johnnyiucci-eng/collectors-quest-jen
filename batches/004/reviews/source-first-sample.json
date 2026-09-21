@@ -1,0 +1,212 @@
+{
+  "schema_version": "1",
+  "frozen_utc": "2026-09-13 07:47:40 UTC",
+  "selection_rule": "Before inspecting extraction records, choose zero-based floor(N/4),floor(N/2),floor(3N/4) source windows per episode. Freeze explicitly named or uniquely contextual game/product buckets, keeping variants distinct where this passage contrasts them. Retain no-title windows; hardware, unnamed platform libraries, films and card games excluded. Unnamed continuing discussion alone does not create a named-game bucket.",
+  "independence": "Coordinator source-first, separate from extractors, not externally blind/statistically representative. Titles are contextual working labels, not externally verified resolutions.",
+  "status": "identity_comparison_complete_pending_runtime",
+  "windows": [
+    {
+      "batch": "004",
+      "episode": 10,
+      "source_key": "sc-237478983",
+      "location": "Paragraph 9",
+      "text": "\nlike, there’s a lot of great titles out there. I mean, I have a couple hundred Game Boy Advance games, but you know, I have no desire to go down that road of 1200. That’s a long road. Yeah, it’s a pretty deep rabbit hole for sure. I mean, if you think about that, it’s almost, you know, almost double the NES standard library, you know, the North American official releases. Right, which has like 677 license, something like that? Yep, that’s the number I have. Okay. So, what are some gems in your collection? I mean, your collection is amazing, but why don’t you tell us about your favorite pieces? Um, all right, well, I’ll tell you about the obvious gems that people typically think of as the gems. I do have stadium events complete in box, the North American version. I do have NWC gray and NWC gold, which are typically considered like the Holy Grail items. And I do absolutely love having those items in my collection. One piece that I’m really proud of, I like having the complete GameCube interactive multi-game demo disc set. I have all 35 of them, which is extraordinarily hard to put that set together. I actually put the entire set together in just a few months, with the exception of the\n\n",
+      "references": [
+        {
+          "id": "cq10-sample-9-1",
+          "title": "Stadium Events",
+          "quote": "stadium events complete in box",
+          "reviewed_game_ids": [
+            "cq010-g003"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq10-sample-9-2",
+          "title": "Nintendo World Championships gray variant",
+          "quote": "NWC gray",
+          "reviewed_game_ids": [
+            "cq010-g004"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq10-sample-9-3",
+          "title": "Nintendo World Championships gold variant",
+          "quote": "NWC gold",
+          "reviewed_game_ids": [
+            "cq010-g004"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq10-sample-9-4",
+          "title": "GameCube interactive multi-game demo disc set",
+          "quote": "GameCube interactive multi-game demo disc set",
+          "reviewed_game_ids": [
+            "cq010-g005"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "004",
+      "episode": 10,
+      "source_key": "sc-237478983",
+      "location": "Paragraph 18",
+      "text": "\na good wonderful relationship with Instagram. But how do you protect yourself against bad traders? Is there like an Instagram condom I can wear? How do I do this? Well, it’s just like when you trade anywhere else through the internet. There’s always going to be a slight risk but as long as you feel the person out and if they give you any bad vibes, stay away. You can tell a lot just judging on your own intuition. So if your intuition is that it’s going to be a fine trade, it usually is. But if somebody gives you weird flags then proceed with caution. That’s fair. There’s not a feedback system though for Instagram currently. But if somebody has thousands of followers like we have, they’re not going to risk hurting their reputation just to make a few extra dollars. Right. I was going to say, I kid, all things aside, Instagram and Facebook and Twitter, they are a self-regulating community too. You can’t go into the community and screw someone. So if anyone’s listening with aspirations of screwing someone on Instagram, if you do, people will talk about it. Video game collecting is still a small community. We will shout your name out. We will post pictures that you are a bastard and a bad trader and\n\n",
+      "references": []
+    },
+    {
+      "batch": "004",
+      "episode": 10,
+      "source_key": "sc-237478983",
+      "location": "Paragraph 26",
+      "text": "\nin selling it, and the money would help my family. Yeah, see, for me, I mean, I have a kind of a plan, a little bit. I have a friend who I would... He’s not a collector, but he knows... He sells magic cards and stuff, so he has an idea of how transactions like this work, how collectibles work in general. And I keep pretty good records of what I think the value of games are and stuff, so I think he would just go buy that, and hopefully he would get money to pass on to my wife. I told him he could take, you know, 15%, but he said he wouldn’t, since I’d be dead. He just wanted to help my wife. So that was nice of him, but it would be a big task. It’s a lot of games, right? It’s got over 6,000 games. It would be a pretty large effort to start selling them. Yeah, honestly, to sell 6,000 games in an intelligent way that would get the most money, that’s a full-time job. Oh, yeah. That would be a full-time job. Absolutely, and I don’t think I would expect him to do that so much as, you know, probably package them together as sets and then sell them on eBay. Just like do\n\n",
+      "references": []
+    },
+    {
+      "batch": "004",
+      "episode": 77,
+      "source_key": "sc-347109412",
+      "location": "Paragraph 5",
+      "text": "\nAnd we’re not going to do these. I mean do you want to try and do these? Or do you want to try and do these in order? System order? Uh no. We’re just going to go in the list order that happened to be first. Okay. I skipped one because there was another ZX game right below it. Yeah I would have done the same thing. Okay so there’s also a 3DS game which is so we’re going from the earliest to the latest games because there’s nothing on modern consoles like the PS4 as of right yet or the Xbox One or the Switch. So there is one for the 3DS called Scooby Doo and Looney Tunes Cartoon Universe Adventure. And you know that’s an amalgam game. I haven’t really looked at that. You can still buy that new. You can get it for $20. It’s one of the more expensive Scooby titles. I will tell you most of these games are not expensive. So if you are wanting to be a Scooby Doo completionist this is the subset for you because you’re not going to spend a ton of money on it. Another modern thing they have and we’re not exactly sure how to classify these is the Scooby Doo LEGOs Dimension Team Pack which does open\n\n",
+      "references": [
+        {
+          "id": "cq77-sample-5-1",
+          "title": "Scooby-Doo & Looney Tunes Cartoon Universe Adventure",
+          "quote": "Scooby Doo and Looney Tunes Cartoon Universe Adventure",
+          "reviewed_game_ids": [
+            "cq077-g006"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq77-sample-5-2",
+          "title": "LEGO Dimensions Scooby-Doo Team Pack",
+          "quote": "Scooby Doo LEGOs Dimension Team Pack",
+          "reviewed_game_ids": [
+            "cq077-g008"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "004",
+      "episode": 77,
+      "source_key": "sc-347109412",
+      "location": "Paragraph 10",
+      "text": "\nin the gang and gave them... That’s awful. Just check out Shaggy Hipster and you’ll know what I’m talking about. It’s not great, but this was when they were messing with the animated formula a little bit and as they were transferring it into Cartoon Network and they were kind of revitalizing the series, they’re not great games. It’s on the DS, the PS2 and the Wii. It’s that version of game. Just ignore them. You don’t really need to play them. I feel like a revitalize is in quotes there for Scooby-Doo in the early 2000s, but okay. Yeah. Well, they do that a bunch trying like get that shit back online and it doesn’t work. I mean, what it’s been going on since the 60s, so it’s going to go through transformations, right? Well, that’s like here, we’ll introduce one of our fun facts for Scooby-Doo. No Scooby-Doo series has ever lasted more than four seasons and it’s been on pretty much forever since 1967. They keep changing up the formula just a little bit. I mean, are the same formula but like tweaking it, calling it something else, trying to make it work, but it’s very popular. It always works for at least a little while and then they stop and then they’re like, \"Oh, here’s a\n\n",
+      "references": []
+    },
+    {
+      "batch": "004",
+      "episode": 77,
+      "source_key": "sc-347109412",
+      "location": "Paragraph 15",
+      "text": "\ntwo double packs. And if you’re trying to buy everything we just said, that’s 41 games. And there are like three variants are four variants. One is a cart color. You got some greatest hits in there. And yeah, that’s that’s pretty much it. Plug and Play and PC games. Also, if you really want to be a completionist, guys, this is like the people who are going for licensed NES set. First, the people who really want every NES game. That’s not exactly what that’s like. That’s nothing like that. That’s that is inherently false. All right, Tyler, God, we’re not going to let you talk anymore. All right, keep saying things like that. Don’t confuse the people, Tyler. Don’t don’t endorse things like plug and plays. They are terrible. Real collectors by the plug and plays. You know what? If you’ve got a great plug and play collection, I want to bring you on the show and you can tell me all about it. So send your picks to me and let’s talk about it. I’m not kidding. Like, let’s do it. If you’re a plug and play master, eff it. Let’s do it. I’m more talk to you. Okay, let’s let’s end with some stupid facts from Scooby Doo that you may not have known. I’ll go\n\n",
+      "references": []
+    },
+    {
+      "batch": "004",
+      "episode": 203,
+      "source_key": "sc-1343296345",
+      "location": "00:43:55",
+      "text": "\nthe last time you bought a video game there you're right let's uh let's go shopping later today yeah okay we can we can I don't mind doing a shopping episode I I enjoy those all right you know I'm feeling pretty good about this was the only like this looks 100% complete it's got this little supplement and a little registration card and I was feeling good about that purchase Johnny yeah I I don't understand uh yeah oh there's the $39 yeah I also saw that there's uh the $39 version with the 550 shipping yeah but uh no inserts who wants that all right Johnny uh enough about space Panic we should be the last time we ever bring it up on this show okay let's talk about a genre maybe that you like let's have a fight let have a fight yep okay let's let's talk about rail Shooters rail Shooters oh yeah like like Star Fox all right uh like you mean like Time Crisis yeah like Time Crisis so in your world Time Crisis and Star Fox are the same genre Time Crisis and Star Fox are the same\n\n",
+      "references": [
+        {
+          "id": "cq203-sample-004355-1",
+          "title": "Space Panic",
+          "quote": "space Panic",
+          "reviewed_game_ids": [
+            "cq203-g022"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq203-sample-004355-2",
+          "title": "Star Fox",
+          "quote": "Star Fox",
+          "reviewed_game_ids": [
+            "cq203-g052"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq203-sample-004355-3",
+          "title": "Time Crisis",
+          "quote": "Time Crisis",
+          "reviewed_game_ids": [
+            "cq203-g051"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "004",
+      "episode": 203,
+      "source_key": "sc-1343296345",
+      "location": "01:27:26",
+      "text": "\nyou and there is a picture of Clayman on the disc itself okay well I mean I'm not opening the disc I know you aren't but I'm just letting you know where he lives because like if you had asked me before IID read up on it if skull monkeys was a sequel to anything I would have said no first off um all right well I just I'm I'm looking at skull monkey's footage right now like this is not impressive so they took the clamation style and kind of uh like did like this almost Mortal Kombat type thing where it's a a mix of video game graphics and and Clay Graphics but it is it is not the work of art that the neighborhood is where that it's neighorhood is like a movie basically though the skull monkeys is a fairly popular collectible now anyways I bet it wasn't super successful either uh no all right no it's not anyway I just thought there's some fun facts just about it but yeah I I do want to do an episode where we talk about games where like they just\n\n",
+      "references": [
+        {
+          "id": "cq203-sample-012726-1",
+          "title": "Skullmonkeys",
+          "quote": "skull monkeys",
+          "reviewed_game_ids": [
+            "cq203-g103"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq203-sample-012726-2",
+          "title": "The Neverhood (raw neighborhood)",
+          "quote": "neighborhood",
+          "reviewed_game_ids": [
+            "cq203-g101"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq203-sample-012726-3",
+          "title": "Mortal Kombat comparison",
+          "quote": "Mortal Kombat",
+          "reviewed_game_ids": [
+            "cq203-g104"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "004",
+      "episode": 203,
+      "source_key": "sc-1343296345",
+      "location": "02:11:30",
+      "text": "\ntakeaway I was confused but you know it people like if you look at the definition of it people are like it's a third person rail shooter and I just think that yeah like I guess I'm I guess I'm out of my mind but yeah that doesn't yeah okay also you can shoot a woolly mammoth in space Harrier just want you guys to know that um yeah video games are cool man I love them they're so cool you I mean you can shoot a dragon and a woolly mammoth like it's not just a woolly mammoth it's like a cyclops woolly mammoth Adam a asks question for the pod which purchase did you guys overspend or overreach the most on oh that uh for me is going to be New Leaf uh yes Johnny you wanted new LEF yeah new Leaf for the Sega Genesis I think I spent like almost $1,000 and\n\n",
+      "references": [
+        {
+          "id": "cq203-sample-021130-1",
+          "title": "Space Harrier",
+          "quote": "space Harrier",
+          "reviewed_game_ids": [
+            "cq203-g146"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq203-sample-021130-2",
+          "title": "Unresolved Genesis purchase called New Leaf",
+          "quote": "New Leaf",
+          "reviewed_game_ids": [
+            "cq203-g147"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    }
+  ]
+}

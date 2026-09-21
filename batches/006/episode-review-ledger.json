@@ -1,0 +1,231 @@
+{
+  "review_binding": {
+    "version": "cq-review-binding-1",
+    "sha256": "5d74fd8eac51bd9af54fc617d32f824dc41a4f6a2c80ae76cea73482b17ee3cf",
+    "reviewed_utc": "2026-09-13 11:15:39 UTC",
+    "meaning": "Exact reviewed local inputs; not independent semantic, audio or live certification"
+  },
+  "schema_version": "1",
+  "required_for": "A1–A8 mandatory for every episode in every batch.",
+  "acceptance_scope": "Captured-text development review only; no audio, external-history or live certification.",
+  "episodes": [
+    {
+      "episode": 12,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All 44 supplied paragraphs read and accounted; nine two-paragraph leaders tied, with Zelda II distinguished by substantial depth.",
+          "evidence": [
+            "batches/006/reviews/012-audit.md",
+            "batches/006/reviews/012-annotations.json"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "Thirty-nine source buckets reconciled and six frozen reference buckets pass, including the excluded Stadium Events and distinct regional RPG identities.",
+          "evidence": [
+            "batches/006/reviews/012-audit.md",
+            "batches/006/reviews/012-annotations.json",
+            "batches/006/reviews/source-first-sample.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Johnny and Kat are the early roster; John is Kat's husband. Shared ownership and reported poster ownership retain canonical subjects.",
+          "evidence": [
+            "batches/006/reviews/012-audit.md",
+            "batches/006/reviews/012-annotations.json"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "Forty-eight actions separate gifts, prior joint sales, reacquisition wants, played/nonplayed games, annual counts and hypothetical lot-cost examples.",
+          "evidence": [
+            "batches/006/reviews/012-audit.md",
+            "batches/006/reviews/012-annotations.json"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Nine complete answers manually source-adjudicated and retrieved with every required context; favorite versus best and collection gaps remain qualified.",
+          "evidence": [
+            "batches/006/reviews/answer-review.json",
+            "batches/006/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Written brief checked for practical collecting goals, photo-project method, missing-game ownership, changing opinions and sourced cost allocation.",
+          "evidence": [
+            "batches/006/reviews/012-audit.md",
+            "batches/006/reviews/012-annotations.json"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Durable inputs rebuilt;1946 exact evidence checks,246 accounted windows, explicit types,28 answer contexts/manual snapshots,22 frozen references and106 shared regressions pass.",
+          "evidence": [
+            "batches/006/reviews/verification.md",
+            "tests/test_lore_continuation.py"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All eight mandatory checks have individual evidence/reasons; remaining source uncertainties are visible and acceptance is scoped to captured text.",
+          "evidence": [
+            "batches/006/PROGRESS.md",
+            "pilot/WORKFLOW.md"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 79,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All 28 paragraphs read and accounted; Odyssey leads three paragraphs with a multi-way two-paragraph tie; Mario/Duck Hunt remains a compilation.",
+          "evidence": [
+            "batches/006/reviews/079-audit.md",
+            "batches/006/reviews/079-annotations.json"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "Thirty reference buckets and 56 returns reconciled; ten frozen references pass, including Sonic series versus individual games and raw Saturn title.",
+          "evidence": [
+            "batches/006/reviews/079-audit.md",
+            "batches/006/reviews/079-annotations.json",
+            "batches/006/reviews/source-first-sample.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Johnny and Tyler participate; Kat's impersonated outro is not a third participant. Contextual confidence is not voice verification.",
+          "evidence": [
+            "batches/006/reviews/079-audit.md",
+            "batches/006/reviews/079-annotations.json"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "Twenty-two actions retain Tyler's55-dollar gift purchase without recipient delivery, original versus reissue Noah copies and post dates not purchase dates.",
+          "evidence": [
+            "batches/006/reviews/079-audit.md",
+            "batches/006/reviews/079-annotations.json"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Seven full answers checked against source, then normal retrieval and manual snapshots; holiday price hypothesis not promoted to proved causality.",
+          "evidence": [
+            "batches/006/reviews/answer-review.json",
+            "batches/006/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Brief reviewed for gift-deadline tension, loose/complete price basis, changed Odyssey opinion and unresolved Saturn wants; not a live rehearsal.",
+          "evidence": [
+            "batches/006/reviews/079-audit.md",
+            "batches/006/reviews/079-annotations.json"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Durable inputs rebuilt;1946 exact evidence checks,246 accounted windows, explicit types,28 answer contexts/manual snapshots,22 frozen references and106 shared regressions pass.",
+          "evidence": [
+            "batches/006/reviews/verification.md",
+            "tests/test_lore_continuation.py"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All eight mandatory checks have individual evidence/reasons; remaining source uncertainties are visible and acceptance is scoped to captured text.",
+          "evidence": [
+            "batches/006/PROGRESS.md",
+            "pilot/WORKFLOW.md"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 205,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All 174 windows mapped and independently peer-read; game/platform leaders qualified, movie-only Vampire Hunter D credit removed and non-game products excluded.",
+          "evidence": [
+            "batches/006/reviews/205-audit.md",
+            "batches/006/reviews/205-annotations.json",
+            "batches/006/reviews/205-peer-review.md"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "197 references and330 spans after peer Sonic omission repair; six frozen buckets pass, including distinct Gremlins designs and Arachnophobia bundle context.",
+          "evidence": [
+            "batches/006/reviews/205-audit.md",
+            "batches/006/reviews/205-annotations.json",
+            "batches/006/reviews/source-first-sample.json",
+            "batches/006/reviews/205-peer-review.md"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Johnny/Tyler/Stefan and Stefan's departure preserved; April/Carly are co-subjects, not additional hosts. Unclear first-person turns remain unknown.",
+          "evidence": [
+            "batches/006/reviews/205-audit.md",
+            "batches/006/reviews/205-annotations.json",
+            "batches/006/reviews/205-peer-review.md"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "Seventy-four actions after two missing play reports repaired; four actor-filter probes now pass. Quarry gift fiction, real purchase, wants and household ownership kept separate.",
+          "evidence": [
+            "batches/006/reviews/205-audit.md",
+            "batches/006/reviews/205-annotations.json",
+            "batches/006/reviews/205-peer-review.md"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Twelve complete answers independently supported across47 grouped checks and coordinator source adjudication; Space Quest runtime context repaired without dropping its required window.",
+          "evidence": [
+            "batches/006/reviews/answer-review.json",
+            "batches/006/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Peer and coordinator reviewed brief for stickers, variants, buyer attribution, QVC archive limits and host-specific accomplishments. Proposed follow-ups remain proposals.",
+          "evidence": [
+            "batches/006/reviews/205-audit.md",
+            "batches/006/reviews/205-annotations.json",
+            "batches/006/reviews/205-peer-review.md"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Durable inputs rebuilt;1946 exact evidence checks,246 accounted windows, explicit types,28 answer contexts/manual snapshots,22 frozen references and106 shared regressions pass.",
+          "evidence": [
+            "batches/006/reviews/verification.md",
+            "tests/test_lore_continuation.py"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All eight mandatory checks have individual evidence/reasons; remaining source uncertainties are visible and acceptance is scoped to captured text.",
+          "evidence": [
+            "batches/006/PROGRESS.md",
+            "pilot/WORKFLOW.md"
+          ]
+        }
+      }
+    }
+  ]
+}

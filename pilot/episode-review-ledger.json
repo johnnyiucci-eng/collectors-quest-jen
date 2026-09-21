@@ -1,0 +1,713 @@
+{
+  "review_binding": {
+    "version": "cq-review-binding-1",
+    "sha256": "141ad43041f1cd4a2bda8bfa7e395bbeb7fe76badbbb8d339608c25dc33093d5",
+    "reviewed_utc": "2026-09-13 11:15:39 UTC",
+    "meaning": "Exact reviewed local inputs; not independent semantic, audio or live certification"
+  },
+  "schema_version": "1",
+  "required_for": "every episode, every batch; no blanket pass substitutes for individual evidence",
+  "acceptance_scope": "Captured-text development review only. Base extractions remain immutable drafts. No audio, external factual, publication or live-performance acceptance implied.",
+  "episodes": [
+    {
+      "episode": 6,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "Complete captured-text review and coarse discussion map; qualified leaders with ties and timing limitations.",
+          "evidence": [
+            "pilot/reviews/early-audit.md",
+            "pilot/reviews/early-annotations.json"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "Full-source omission and identity reconciliation; unresolved references retained. Separate frozen source-first sample is a batch measure, not per-episode statistical recall.",
+          "evidence": [
+            "pilot/reviews/early-audit.md",
+            "pilot/reviews/early-annotations.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Participants and contextual speaker assignments reviewed; no audio diarization certification.",
+          "evidence": [
+            "pilot/reviews/early-audit.md",
+            "pilot/reviews/early-annotations.json"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "Actions expanded and qualified; reported actor separated from reporter, possession from intent, playback media from game play.",
+          "evidence": [
+            "pilot/reviews/early-audit.md",
+            "pilot/reviews/early-annotations.json"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Actual complete development answers source-adjudicated; required context retrieved through the database.",
+          "evidence": [
+            "pilot/answer-cases.json",
+            "pilot/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Written episode brief with corrections, callbacks, open loops and editorial suggestions desk-reviewed; live usefulness not certified.",
+          "evidence": [
+            "pilot/reviews/early-audit.md",
+            "pilot/reviews/early-annotations.json"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Durable source-bound repairs merged, database rebuilt, exact-evidence and behavioral checks passed.",
+          "evidence": [
+            "pilot/reviews/verification.md",
+            "scripts/validate_lore_workflow.py"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All eight recurring checks recorded with evidence; isolated uncertainties retained; no automatic production/audio acceptance.",
+          "evidence": [
+            "pilot/WORKFLOW.md",
+            "pilot/PROGRESS.md"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 7,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "Complete captured-text review and coarse discussion map; qualified leaders with ties and timing limitations.",
+          "evidence": [
+            "pilot/reviews/early-audit.md",
+            "pilot/reviews/early-annotations.json"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "Full-source omission and identity reconciliation; unresolved references retained. Separate frozen source-first sample is a batch measure, not per-episode statistical recall.",
+          "evidence": [
+            "pilot/reviews/early-audit.md",
+            "pilot/reviews/early-annotations.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Participants and contextual speaker assignments reviewed; no audio diarization certification.",
+          "evidence": [
+            "pilot/reviews/early-audit.md",
+            "pilot/reviews/early-annotations.json"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "Actions expanded and qualified; reported actor separated from reporter, possession from intent, playback media from game play.",
+          "evidence": [
+            "pilot/reviews/early-audit.md",
+            "pilot/reviews/early-annotations.json"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Actual complete development answers source-adjudicated; required context retrieved through the database.",
+          "evidence": [
+            "pilot/answer-cases.json",
+            "pilot/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Written episode brief with corrections, callbacks, open loops and editorial suggestions desk-reviewed; live usefulness not certified.",
+          "evidence": [
+            "pilot/reviews/early-audit.md",
+            "pilot/reviews/early-annotations.json"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Durable source-bound repairs merged, database rebuilt, exact-evidence and behavioral checks passed.",
+          "evidence": [
+            "pilot/reviews/verification.md",
+            "scripts/validate_lore_workflow.py"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All eight recurring checks recorded with evidence; isolated uncertainties retained; no automatic production/audio acceptance.",
+          "evidence": [
+            "pilot/WORKFLOW.md",
+            "pilot/PROGRESS.md"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 146,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "Complete captured-text review and coarse discussion map; qualified leaders with ties and timing limitations.",
+          "evidence": [
+            "pilot/reviews/middle-audit.md",
+            "pilot/reviews/middle-annotations.json"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "Full-source omission and identity reconciliation; unresolved references retained. Separate frozen source-first sample is a batch measure, not per-episode statistical recall.",
+          "evidence": [
+            "pilot/reviews/middle-audit.md",
+            "pilot/reviews/middle-annotations.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Participants and contextual speaker assignments reviewed; no audio diarization certification.",
+          "evidence": [
+            "pilot/reviews/middle-audit.md",
+            "pilot/reviews/middle-annotations.json"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "Actions expanded and qualified; reported actor separated from reporter, possession from intent, playback media from game play.",
+          "evidence": [
+            "pilot/reviews/middle-audit.md",
+            "pilot/reviews/middle-annotations.json"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Actual complete development answers source-adjudicated; required context retrieved through the database.",
+          "evidence": [
+            "pilot/answer-cases.json",
+            "pilot/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Written episode brief with corrections, callbacks, open loops and editorial suggestions desk-reviewed; live usefulness not certified.",
+          "evidence": [
+            "pilot/reviews/middle-audit.md",
+            "pilot/reviews/middle-annotations.json"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Durable source-bound repairs merged, database rebuilt, exact-evidence and behavioral checks passed.",
+          "evidence": [
+            "pilot/reviews/verification.md",
+            "scripts/validate_lore_workflow.py"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All eight recurring checks recorded with evidence; isolated uncertainties retained; no automatic production/audio acceptance.",
+          "evidence": [
+            "pilot/WORKFLOW.md",
+            "pilot/PROGRESS.md"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 200,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "Complete captured-text review and coarse discussion map; qualified leaders with ties and timing limitations.",
+          "evidence": [
+            "pilot/reviews/middle-audit.md",
+            "pilot/reviews/middle-annotations.json"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "Full-source omission and identity reconciliation; unresolved references retained. Separate frozen source-first sample is a batch measure, not per-episode statistical recall.",
+          "evidence": [
+            "pilot/reviews/middle-audit.md",
+            "pilot/reviews/middle-annotations.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Participants and contextual speaker assignments reviewed; no audio diarization certification.",
+          "evidence": [
+            "pilot/reviews/middle-audit.md",
+            "pilot/reviews/middle-annotations.json"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "Actions expanded and qualified; reported actor separated from reporter, possession from intent, playback media from game play.",
+          "evidence": [
+            "pilot/reviews/middle-audit.md",
+            "pilot/reviews/middle-annotations.json"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Actual complete development answers source-adjudicated; required context retrieved through the database.",
+          "evidence": [
+            "pilot/answer-cases.json",
+            "pilot/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Written episode brief with corrections, callbacks, open loops and editorial suggestions desk-reviewed; live usefulness not certified.",
+          "evidence": [
+            "pilot/reviews/middle-audit.md",
+            "pilot/reviews/middle-annotations.json"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Durable source-bound repairs merged, database rebuilt, exact-evidence and behavioral checks passed.",
+          "evidence": [
+            "pilot/reviews/verification.md",
+            "scripts/validate_lore_workflow.py"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All eight recurring checks recorded with evidence; isolated uncertainties retained; no automatic production/audio acceptance.",
+          "evidence": [
+            "pilot/WORKFLOW.md",
+            "pilot/PROGRESS.md"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 222,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "Complete captured-text review and coarse discussion map; qualified leaders with ties and timing limitations.",
+          "evidence": [
+            "pilot/reviews/222-audit.md",
+            "pilot/reviews/222-annotations.json"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "Full-source omission and identity reconciliation; unresolved references retained. Separate frozen source-first sample is a batch measure, not per-episode statistical recall.",
+          "evidence": [
+            "pilot/reviews/222-audit.md",
+            "pilot/reviews/222-annotations.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Participants and contextual speaker assignments reviewed; no audio diarization certification.",
+          "evidence": [
+            "pilot/reviews/222-audit.md",
+            "pilot/reviews/222-annotations.json"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "Actions expanded and qualified; reported actor separated from reporter, possession from intent, playback media from game play.",
+          "evidence": [
+            "pilot/reviews/222-audit.md",
+            "pilot/reviews/222-annotations.json"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Actual complete development answers source-adjudicated; required context retrieved through the database.",
+          "evidence": [
+            "pilot/answer-cases.json",
+            "pilot/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Written episode brief with corrections, callbacks, open loops and editorial suggestions desk-reviewed; live usefulness not certified.",
+          "evidence": [
+            "pilot/reviews/222-audit.md",
+            "pilot/reviews/222-annotations.json"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Durable source-bound repairs merged, database rebuilt, exact-evidence and behavioral checks passed.",
+          "evidence": [
+            "pilot/reviews/verification.md",
+            "scripts/validate_lore_workflow.py"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All eight recurring checks recorded with evidence; isolated uncertainties retained; no automatic production/audio acceptance.",
+          "evidence": [
+            "pilot/WORKFLOW.md",
+            "pilot/PROGRESS.md"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 248,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "Complete captured-text review and coarse discussion map; qualified leaders with ties and timing limitations.",
+          "evidence": [
+            "pilot/reviews/248-259-audit.md",
+            "pilot/reviews/248-259-annotations.json"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "Full-source omission and identity reconciliation; unresolved references retained. Separate frozen source-first sample is a batch measure, not per-episode statistical recall.",
+          "evidence": [
+            "pilot/reviews/248-259-audit.md",
+            "pilot/reviews/248-259-annotations.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Participants and contextual speaker assignments reviewed; no audio diarization certification.",
+          "evidence": [
+            "pilot/reviews/248-259-audit.md",
+            "pilot/reviews/248-259-annotations.json"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "Actions expanded and qualified; reported actor separated from reporter, possession from intent, playback media from game play.",
+          "evidence": [
+            "pilot/reviews/248-259-audit.md",
+            "pilot/reviews/248-259-annotations.json"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Actual complete development answers source-adjudicated; required context retrieved through the database.",
+          "evidence": [
+            "pilot/answer-cases.json",
+            "pilot/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Written episode brief with corrections, callbacks, open loops and editorial suggestions desk-reviewed; live usefulness not certified.",
+          "evidence": [
+            "pilot/reviews/248-259-audit.md",
+            "pilot/reviews/248-259-annotations.json"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Durable source-bound repairs merged, database rebuilt, exact-evidence and behavioral checks passed.",
+          "evidence": [
+            "pilot/reviews/verification.md",
+            "scripts/validate_lore_workflow.py"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All eight recurring checks recorded with evidence; isolated uncertainties retained; no automatic production/audio acceptance.",
+          "evidence": [
+            "pilot/WORKFLOW.md",
+            "pilot/PROGRESS.md"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 259,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "Complete captured-text review and coarse discussion map; qualified leaders with ties and timing limitations.",
+          "evidence": [
+            "pilot/reviews/248-259-audit.md",
+            "pilot/reviews/248-259-annotations.json"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "Full-source omission and identity reconciliation; unresolved references retained. Separate frozen source-first sample is a batch measure, not per-episode statistical recall.",
+          "evidence": [
+            "pilot/reviews/248-259-audit.md",
+            "pilot/reviews/248-259-annotations.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Participants and contextual speaker assignments reviewed; no audio diarization certification.",
+          "evidence": [
+            "pilot/reviews/248-259-audit.md",
+            "pilot/reviews/248-259-annotations.json"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "Actions expanded and qualified; reported actor separated from reporter, possession from intent, playback media from game play.",
+          "evidence": [
+            "pilot/reviews/248-259-audit.md",
+            "pilot/reviews/248-259-annotations.json"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Actual complete development answers source-adjudicated; required context retrieved through the database.",
+          "evidence": [
+            "pilot/answer-cases.json",
+            "pilot/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Written episode brief with corrections, callbacks, open loops and editorial suggestions desk-reviewed; live usefulness not certified.",
+          "evidence": [
+            "pilot/reviews/248-259-audit.md",
+            "pilot/reviews/248-259-annotations.json"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Durable source-bound repairs merged, database rebuilt, exact-evidence and behavioral checks passed.",
+          "evidence": [
+            "pilot/reviews/verification.md",
+            "scripts/validate_lore_workflow.py"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All eight recurring checks recorded with evidence; isolated uncertainties retained; no automatic production/audio acceptance.",
+          "evidence": [
+            "pilot/WORKFLOW.md",
+            "pilot/PROGRESS.md"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 263,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "Complete captured-text review and coarse discussion map; qualified leaders with ties and timing limitations.",
+          "evidence": [
+            "pilot/reviews/263-audit.md",
+            "pilot/reviews/263-annotations.json"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "Full-source omission and identity reconciliation; unresolved references retained. Separate frozen source-first sample is a batch measure, not per-episode statistical recall.",
+          "evidence": [
+            "pilot/reviews/263-audit.md",
+            "pilot/reviews/263-annotations.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Participants and contextual speaker assignments reviewed; no audio diarization certification.",
+          "evidence": [
+            "pilot/reviews/263-audit.md",
+            "pilot/reviews/263-annotations.json"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "Actions expanded and qualified; reported actor separated from reporter, possession from intent, playback media from game play.",
+          "evidence": [
+            "pilot/reviews/263-audit.md",
+            "pilot/reviews/263-annotations.json"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Actual complete development answers source-adjudicated; required context retrieved through the database.",
+          "evidence": [
+            "pilot/answer-cases.json",
+            "pilot/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Written episode brief with corrections, callbacks, open loops and editorial suggestions desk-reviewed; live usefulness not certified.",
+          "evidence": [
+            "pilot/reviews/263-audit.md",
+            "pilot/reviews/263-annotations.json"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Durable source-bound repairs merged, database rebuilt, exact-evidence and behavioral checks passed.",
+          "evidence": [
+            "pilot/reviews/verification.md",
+            "scripts/validate_lore_workflow.py"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All eight recurring checks recorded with evidence; isolated uncertainties retained; no automatic production/audio acceptance.",
+          "evidence": [
+            "pilot/WORKFLOW.md",
+            "pilot/PROGRESS.md"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 299,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "Complete captured-text review and coarse discussion map; qualified leaders with ties and timing limitations.",
+          "evidence": [
+            "pilot/reviews/299-audit.md",
+            "pilot/reviews/299-annotations.json"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "Full-source omission and identity reconciliation; unresolved references retained. Separate frozen source-first sample is a batch measure, not per-episode statistical recall.",
+          "evidence": [
+            "pilot/reviews/299-audit.md",
+            "pilot/reviews/299-annotations.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Participants and contextual speaker assignments reviewed; no audio diarization certification.",
+          "evidence": [
+            "pilot/reviews/299-audit.md",
+            "pilot/reviews/299-annotations.json"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "Actions expanded and qualified; reported actor separated from reporter, possession from intent, playback media from game play.",
+          "evidence": [
+            "pilot/reviews/299-audit.md",
+            "pilot/reviews/299-annotations.json"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Actual complete development answers source-adjudicated; required context retrieved through the database.",
+          "evidence": [
+            "pilot/answer-cases.json",
+            "pilot/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Written episode brief with corrections, callbacks, open loops and editorial suggestions desk-reviewed; live usefulness not certified.",
+          "evidence": [
+            "pilot/reviews/299-audit.md",
+            "pilot/reviews/299-annotations.json"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Durable source-bound repairs merged, database rebuilt, exact-evidence and behavioral checks passed.",
+          "evidence": [
+            "pilot/reviews/verification.md",
+            "scripts/validate_lore_workflow.py"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All eight recurring checks recorded with evidence; isolated uncertainties retained; no automatic production/audio acceptance.",
+          "evidence": [
+            "pilot/WORKFLOW.md",
+            "pilot/PROGRESS.md"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 300,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "Complete captured-text review and coarse discussion map; qualified leaders with ties and timing limitations.",
+          "evidence": [
+            "pilot/reviews/300-audit.md",
+            "pilot/reviews/300-annotations.json"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "Full-source omission and identity reconciliation; unresolved references retained. Separate frozen source-first sample is a batch measure, not per-episode statistical recall.",
+          "evidence": [
+            "pilot/reviews/300-audit.md",
+            "pilot/reviews/300-annotations.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Participants and contextual speaker assignments reviewed; no audio diarization certification.",
+          "evidence": [
+            "pilot/reviews/300-audit.md",
+            "pilot/reviews/300-annotations.json"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "Actions expanded and qualified; reported actor separated from reporter, possession from intent, playback media from game play.",
+          "evidence": [
+            "pilot/reviews/300-audit.md",
+            "pilot/reviews/300-annotations.json"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Actual complete development answers source-adjudicated; required context retrieved through the database.",
+          "evidence": [
+            "pilot/answer-cases.json",
+            "pilot/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Written episode brief with corrections, callbacks, open loops and editorial suggestions desk-reviewed; live usefulness not certified.",
+          "evidence": [
+            "pilot/reviews/300-audit.md",
+            "pilot/reviews/300-annotations.json"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Durable source-bound repairs merged, database rebuilt, exact-evidence and behavioral checks passed.",
+          "evidence": [
+            "pilot/reviews/verification.md",
+            "scripts/validate_lore_workflow.py"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All eight recurring checks recorded with evidence; isolated uncertainties retained; no automatic production/audio acceptance.",
+          "evidence": [
+            "pilot/WORKFLOW.md",
+            "pilot/PROGRESS.md"
+          ]
+        }
+      }
+    }
+  ]
+}

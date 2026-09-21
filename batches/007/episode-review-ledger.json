@@ -1,0 +1,226 @@
+{
+  "review_binding": {
+    "version": "cq-review-binding-1",
+    "sha256": "a28e8f6a246079ca6b25912af4be0b71d4cd7f7bdcfd12fc712dd43a3442a9f0",
+    "reviewed_utc": "2026-09-13 11:15:39 UTC",
+    "meaning": "Exact reviewed local inputs; not independent semantic, audio or live certification"
+  },
+  "schema_version": "1",
+  "required_for": "A1–A8 mandatory for every episode in every batch.",
+  "acceptance_scope": "Captured-text development review only; no audio, external-history or live certification.",
+  "episodes": [
+    {
+      "episode": 13,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All 47 paragraphs read/accounted; Shantae leads three supporting paragraphs, with six two-paragraph ties and no unique second/third.",
+          "evidence": [
+            "batches/007/reviews/013-audit.md",
+            "batches/007/reviews/013-annotations.json"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "36 reference buckets and44 spans after explicit Dragon Warrior series omission repair; three frozen buckets pass without changing the26-reference batch denominator.",
+          "evidence": [
+            "batches/007/reviews/013-audit.md",
+            "batches/007/reviews/013-annotations.json",
+            "batches/007/reviews/source-first-sample.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Johnny/Kat early roster; John remains Kat's husband. Forgotten Light provenance and unknown buyer are not assigned confidently.",
+          "evidence": [
+            "batches/007/reviews/013-audit.md",
+            "batches/007/reviews/013-annotations.json"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "71 actions retain returned first Retron versus owned replacement, untested hardware, ordered item, future Child of Light and actual Johnny play.",
+          "evidence": [
+            "batches/007/reviews/013-audit.md",
+            "batches/007/reviews/013-annotations.json"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Nine complete answers independently checked by coordinator against the full source, then retrieved with all required contexts and matching snapshots.",
+          "evidence": [
+            "batches/007/reviews/answer-review.json",
+            "batches/007/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Brief reviewed for aesthetics, packaging, format and budget, with safe prison joke and unresolved plans; no live rehearsal.",
+          "evidence": [
+            "batches/007/reviews/013-audit.md",
+            "batches/007/reviews/013-annotations.json"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Durable rebuild: 1171 exact evidence checks, 129 accounted windows, literal forms/explicit types, 25 answer contexts/snapshots, 26 frozen references and122 shared regressions pass.",
+          "evidence": [
+            "batches/007/reviews/verification.md",
+            "tests/test_lore_continuation.py"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "Every mandatory check has episode-specific evidence/reason; remaining item uncertainty visible and acceptance scoped to captured text.",
+          "evidence": [
+            "batches/007/PROGRESS.md",
+            "pilot/WORKFLOW.md"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 80,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All 45 paragraphs read/accounted; Odyssey six, Mario Bros./Sunshine five meaningful paragraphs; series and accessories kept separate.",
+          "evidence": [
+            "batches/007/reviews/080-audit.md",
+            "batches/007/reviews/080-annotations.json"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "72 buckets and144 spans after missing Wii U Kart8 return repaired; all11 frozen buckets pass and raw forms are literal, not canonical substitutions.",
+          "evidence": [
+            "batches/007/reviews/080-audit.md",
+            "batches/007/reviews/080-annotations.json",
+            "batches/007/reviews/source-first-sample.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Kat/Johnny/Tyler explicitly present; husband John distinct, coin/manual actors remain unknown.",
+          "evidence": [
+            "batches/007/reviews/080-audit.md",
+            "batches/007/reviews/080-annotations.json"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "45 actions distinguish received unplayed Remix, Kat purchased/unplayed Xbox game, John play, future prequel and cart-only Shockman addition.",
+          "evidence": [
+            "batches/007/reviews/080-audit.md",
+            "batches/007/reviews/080-annotations.json"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Eight complete answers checked against full source; initial missing ranking contexts repaired by meaningful compact query, no evidence removed.",
+          "evidence": [
+            "batches/007/reviews/answer-review.json",
+            "batches/007/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Brief reviewed for flawed Mario-list rule, edition matching, host preferences and correctly qualified follow-ups; market claims historical.",
+          "evidence": [
+            "batches/007/reviews/080-audit.md",
+            "batches/007/reviews/080-annotations.json"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Durable rebuild: 1171 exact evidence checks, 129 accounted windows, literal forms/explicit types, 25 answer contexts/snapshots, 26 frozen references and122 shared regressions pass.",
+          "evidence": [
+            "batches/007/reviews/verification.md",
+            "tests/test_lore_continuation.py"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "Every mandatory check has episode-specific evidence/reason; remaining item uncertainty visible and acceptance scoped to captured text.",
+          "evidence": [
+            "batches/007/PROGRESS.md",
+            "pilot/WORKFLOW.md"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 206,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All 37 windows read/accounted; short solo source checked against capture metadata; Layers Legacy leads but195/194/193-second followers are near-tied.",
+          "evidence": [
+            "batches/007/reviews/206-audit.md",
+            "batches/007/reviews/206-annotations.json"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "50 references and102 spans after missing Outlast1/2 returns and separate prospective sequel identities;12 frozen references pass.",
+          "evidence": [
+            "batches/007/reviews/206-audit.md",
+            "batches/007/reviews/206-annotations.json",
+            "batches/007/reviews/source-first-sample.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Johnny explicitly solo; Tyler/Stefan are absent people discussed, not imported roster members.",
+          "evidence": [
+            "batches/007/reviews/206-audit.md",
+            "batches/007/reviews/206-annotations.json"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "15 actions include all three Song of Horror copies returned; owned covers, awaiting confirmation, bought games and cart/plans remain distinct.",
+          "evidence": [
+            "batches/007/reviews/206-audit.md",
+            "batches/007/reviews/206-annotations.json"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Eight full answers manually checked against full source; all required runtime contexts and exact snapshots pass, no future rarity guarantees.",
+          "evidence": [
+            "batches/007/reviews/answer-review.json",
+            "batches/007/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Brief reviewed for edition contents, actual observations versus listings, short-format continuity and uncertain supply; not investment or live certification.",
+          "evidence": [
+            "batches/007/reviews/206-audit.md",
+            "batches/007/reviews/206-annotations.json"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Durable rebuild: 1171 exact evidence checks, 129 accounted windows, literal forms/explicit types, 25 answer contexts/snapshots, 26 frozen references and122 shared regressions pass.",
+          "evidence": [
+            "batches/007/reviews/verification.md",
+            "tests/test_lore_continuation.py"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "Every mandatory check has episode-specific evidence/reason; remaining item uncertainty visible and acceptance scoped to captured text.",
+          "evidence": [
+            "batches/007/PROGRESS.md",
+            "pilot/WORKFLOW.md"
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,476 @@
+{
+  "schema_version": "1",
+  "review_scope": "Coordinator fully read all three primary transcripts and adjudicated every complete composed answer, separately from runtime context checks. Same-team captured-text development review, not external blind or live certification.",
+  "cases": [
+    {
+      "id": "batch007-cq013-hardware-goal",
+      "episode": 13,
+      "question": "What exactly was Kat trying to collect, and why Japanese Pockets?",
+      "query": "Kat Japanese Pocket basic colors boxes aesthetics",
+      "answer": "Kat was prioritizing basic-color Game Boy Pockets complete in Japanese boxes, because she liked their appearance and packaging. She already had pink and Christmas clear-purple units. She believed there were nine basic colors, and mentioned off-white original-style and perhaps extreme green as extra wants—not a commitment to every limited edition or a full game library.",
+      "evidence_locations": [
+        "Paragraph 5",
+        "Paragraph 4",
+        "Paragraph 3",
+        "Paragraph 34",
+        "Paragraph 35"
+      ],
+      "forbidden": [
+        "All colors already acquired",
+        "Nine externally verified",
+        "Every limited edition required"
+      ],
+      "status": "passed",
+      "reason": "P3–5/P34–35 support owned colors and scoped goal; nine is qualified historical belief."
+    },
+    {
+      "id": "batch007-cq013-light-origin",
+      "episode": 13,
+      "question": "How did Johnny get the gold Game Boy Light?",
+      "query": "Johnny gold Light forgot Zelda magazine",
+      "answer": "The episode cannot establish where or why he originally got it. Johnny rediscovered it behind a Zelda II Nintendo Fun Club magazine and explicitly said he did not know its origin. He later guessed he had bought it because it was gold and would fit his Zelda display. That is speculation, unlike his definite report of recently playing Dr. Mario in it.",
+      "evidence_locations": [
+        "Paragraph 17",
+        "Paragraph 19"
+      ],
+      "forbidden": [
+        "Confirmed store or purchase date",
+        "New gift from Kat",
+        "Kat played the Light"
+      ],
+      "status": "passed",
+      "reason": "P17/P19 explicitly uncertain provenance/motive distinct from definite Dr Mario play."
+    },
+    {
+      "id": "batch007-cq013-prison",
+      "episode": 13,
+      "question": "Why does the episode talk about smuggling Game Boys?",
+      "query": "Micro prison smuggling Kat joke",
+      "answer": "It is a hardware-size joke that grows out of whether a Micro would fit a formal occasion. The Micro is the preferred hypothetical smuggling system, with the Light and SP floated as alternatives. Kat says she has never been to prison and is not planning to go; Johnny invites listeners to ask her which Game Boy she would smuggle. This is a callback, not either host's criminal biography.",
+      "evidence_locations": [
+        "Paragraph 23",
+        "Paragraph 25",
+        "Paragraph 24",
+        "Paragraph 27"
+      ],
+      "forbidden": [
+        "Actual prison stay",
+        "Actual smuggling",
+        "Instructions presented as real plan"
+      ],
+      "status": "passed",
+      "reason": "P23–27 full source clearly hypothetical joke and Kat denial; callback not biography."
+    },
+    {
+      "id": "batch007-cq013-child-light",
+      "episode": 13,
+      "question": "Who had actually played Child of Light, and how much?",
+      "query": "Child of Light Kat Johnny Xbox Gold",
+      "answer": "Johnny had played about 30 minutes on Xbox One, enjoyed it, and thought he had obtained it through Gold. Kat had it ready on Xbox One and planned to start after recording, but said she had not played it yet. Neither reports finishing the game.",
+      "evidence_locations": [
+        "Paragraph 44",
+        "Paragraph 43"
+      ],
+      "forbidden": [
+        "Kat already played",
+        "Either completed it",
+        "Gold acquisition certain"
+      ],
+      "status": "passed",
+      "reason": "P43–44 distinguish Kat future intent from Johnny limited play and uncertain Gold source."
+    },
+    {
+      "id": "batch007-cq013-gbc-pickups",
+      "episode": 13,
+      "question": "What were Johnny's named GBC pickups and what remains unresolved?",
+      "query": "Wario Land 3 Shantae CIB incoming item",
+      "answer": "Johnny picked up Wario Land 3 and Shantae for the Nintendo Power 285 project and says both are complete in box; he especially praises Shantae's mint condition. He describes Shantae as expensive rather than rare-rare, an episode opinion, not a verified market assessment. A further Game Boy item has an accepted offer and is still coming, but is unnamed. His Shantae sequel names and platform history are explicitly uncertain, so the episode cannot confidently identify those sequels.",
+      "evidence_locations": [
+        "Paragraph 40",
+        "Paragraph 41",
+        "Paragraph 42",
+        "Paragraph 43"
+      ],
+      "forbidden": [
+        "Incoming item delivered",
+        "Shantae sequel names normalized as fact",
+        "Named pickups played"
+      ],
+      "status": "passed",
+      "reason": "P40–43 named CIB pickups versus separate unnamed incoming item, no sequel cleanup."
+    },
+    {
+      "id": "batch007-cq013-adventures",
+      "episode": 13,
+      "question": "What was the point-and-click disagreement?",
+      "query": "Deja Vu Shadowgate Princess Tomato Kat Johnny",
+      "answer": "Johnny likes Deja Vu and Shadowgate, describing Deja Vu as a spiritual successor rather than a sequel and correcting 'text adventure' to point-and-click. Kat says she has never put the NES Deja Vu in and now will not; even Princess Tomato's vegetable premise cannot overcome her dislike of that style. Johnny also mentions Deja Vu II in the handheld product, but its claimed access history is an unverified host statement.",
+      "evidence_locations": [
+        "Paragraph 13",
+        "Paragraph 14"
+      ],
+      "forbidden": [
+        "Kat played NES Deja Vu",
+        "Literal Shadowgate sequel",
+        "Exclusive release history independently verified"
+      ],
+      "status": "passed",
+      "reason": "P13–14 viewpoint/genre correction and Kat nonplay explicit; no external catalog confirmation."
+    },
+    {
+      "id": "batch007-cq013-gamewatch",
+      "episode": 13,
+      "question": "What Game & Watch games were picked up, and were they tested?",
+      "query": "Chef Manhole Ball box untested",
+      "answer": "Kat got Chef and Manhole locally. They were her only two Game & Watch games, and she had not tried either, so she did not know whether they worked or were fun. One had a worn box; she thought Chef but was unsure. Johnny's only example was the Club Nintendo Ball remake, not an original unit.",
+      "evidence_locations": [
+        "Paragraph 39",
+        "Paragraph 40"
+      ],
+      "forbidden": [
+        "Both working confirmed",
+        "Chef definitely boxed",
+        "Johnny owns original Ball"
+      ],
+      "status": "passed",
+      "reason": "P39–40 untested acquisitions and uncertain box assignment; Ball remake separate."
+    },
+    {
+      "id": "batch007-cq013-pinball-budget",
+      "episode": 13,
+      "question": "Why virtual pinball, and did Johnny buy a cabinet?",
+      "query": "Pinball Arcade Metroid pinball cabinet remodel",
+      "answer": "Johnny was playing The Pinball Arcade on PS4 and liked virtual pinball's consequence-free retries and table selection. He reports buying packs over time with roughly 40 tables available, not 40 physical machines. He also likes DS Metroid pinball's two-screen verticality and recalls loving NES Pinball. He owns a physical pinball machine needing a flipper repair, but only wants a small virtual cabinet. He will not divert normal remodeling finances; a separate fund would depend on selling spare items, so no cabinet purchase or completed funding sale is established.",
+      "evidence_locations": [
+        "Paragraph 44",
+        "Paragraph 45",
+        "Paragraph 46"
+      ],
+      "forbidden": [
+        "Cabinet bought",
+        "Forty physical machines",
+        "Spare items already sold"
+      ],
+      "status": "passed",
+      "reason": "P44–46 virtual-game play/pack ownership, physical repair, desired cabinet and conditional funding all distinct."
+    },
+    {
+      "id": "batch007-cq013-first-handheld",
+      "episode": 13,
+      "question": "Was Johnny's first portable the NES-style SP or his wife's GBA?",
+      "query": "first portable Game Boy Advance SP girlfriend",
+      "answer": "Those describe different milestones. Johnny says he had no childhood portable and first encountered handheld ownership through his then-girlfriend's GBA in the mid-2000s. The NES-styled Game Boy SP was the first portable he personally bought that was not his wife's. He later bought further DS/3DS iterations, but missed the Animal Crossing-themed one he wanted.",
+      "evidence_locations": [
+        "Paragraph 2",
+        "Paragraph 30",
+        "Paragraph 31"
+      ],
+      "forbidden": [
+        "Contradictory first-handheld stories",
+        "Animal Crossing hardware owned",
+        "All models independently verified"
+      ],
+      "status": "passed",
+      "reason": "P2/P30–31 separate exposure/household access from own purchase, no AnimalCrossing ownership."
+    },
+    {
+      "id": "cq080-task-roster",
+      "episode": 80,
+      "question": "Who is present, and is John the same person as Johnny?",
+      "query": "Kat Johnny Tyler welcome John monopolized Xbox",
+      "answer": "Kat introduces herself with Johnny and Tyler. John is the person Kat says is monopolizing her Xbox Call of Duty purchase, not an additional named host; the transcript context distinguishes him from Johnny. Caption Cat is retained in quotes but indexed as Kat.",
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 40",
+        "Paragraph 44"
+      ],
+      "forbidden": [
+        "Kat absent",
+        "John and Johnny merged"
+      ],
+      "status": "passed",
+      "reason": "P1 identifies Kat/Johnny/Tyler; P40 distinguishes Kat's John from host Johnny, and P44 confirms closing identities."
+    },
+    {
+      "id": "cq080-task-variants",
+      "episode": 80,
+      "question": "What should I watch for when collecting SMB3 variants?",
+      "query": "Mario 3 left Bros box manual cart incorrect",
+      "answer": "They discuss the left-positioned Bros version and say the box, manual and cartridge should match. Relative rarity does not make it genuinely scarce in their account because production was large. The incorrect-manual stories illustrate why matching pieces matters; prices and rarity estimates are historical speaker claims, not current verified guidance.",
+      "evidence_locations": [
+        "Paragraph 7",
+        "Paragraph 8",
+        "Paragraph 9"
+      ],
+      "forbidden": [
+        "Guaranteed current value",
+        "Certain seller fraud"
+      ],
+      "status": "passed",
+      "reason": "P7–9 supports left-positioned Bros matching across box/manual/cart, relative-versus-absolute rarity and mismatched-manual anecdotes without current price claims."
+    },
+    {
+      "id": "cq080-task-favorites",
+      "episode": 80,
+      "question": "How do Kat, Tyler and Johnny differ on Mario favorites?",
+      "query": "favorite Paper Mario Mario Kart Tyler 64 Galaxy Sunshine",
+      "answer": "Kat names N64 Paper Mario and Mario Kart, with nostalgia and continued enjoyment. Tyler chooses Super Mario 64 at the close. Johnny loves the original Super Mario Bros. and names the first Galaxy for 3D Mario, while Odyssey might overtake it after more play. Sunshine is divisive: Johnny dislikes it, Tyler defends it, and Kat says she stopped after about five minutes.",
+      "evidence_locations": [
+        "Paragraph 11",
+        "Paragraph 12",
+        "Paragraph 13",
+        "Paragraph 38"
+      ],
+      "forbidden": [
+        "All share same favorite",
+        "Kat completed Sunshine"
+      ],
+      "status": "passed",
+      "reason": "P11–13 and38 preserve Kat's Paper Mario/Kart nostalgia, Tyler's64 preference, Johnny's SMB/Galaxy with provisional Odyssey contender, and real Sunshine disagreement."
+    },
+    {
+      "id": "cq080-task-coins",
+      "episode": 80,
+      "question": "Did everyone own the Odyssey coin?",
+      "query": "coin Odyssey Galaxy wrapper cardboard sleeve four send",
+      "answer": "No. The discussion switches from an assumed Odyssey coin to the Galaxy coin, and the speakers correct what they mean. Opened-wrapper, kept-box and unopened-copy statements cannot safely be merged into one person's Galaxy inventory. After clarification, one speaker says they have roughly four Galaxy coins and offers to send some; that is not evidence of delivery.",
+      "evidence_locations": [
+        "Paragraph 27"
+      ],
+      "forbidden": [
+        "Everyone owns Odyssey coin",
+        "Coin offer completed"
+      ],
+      "status": "passed",
+      "reason": "P27 changes the referent from Odyssey to Galaxy mid-dialogue; unknown actors and an offered rather than delivered coin are appropriately retained."
+    },
+    {
+      "id": "cq080-task-purchases",
+      "episode": 80,
+      "question": "What did the hosts get this week, and what remains unplayed?",
+      "query": "purchased week Tyler Virtual Fighter Remix Tailgate Party Cat Call of Duty Shockman",
+      "answer": "Tyler says Virtua Fighter Remix arrived in the Saturn long box and explicitly has not played it. He also received Tailgate Party, praising its power-pad cornhole concept. Kat bought an unspecified Call of Duty on Xbox but has not played it because John is using it. Johnny bought a Shockman cartridge through Archon Turtle, completing the box he already owned.",
+      "evidence_locations": [
+        "Paragraph 39",
+        "Paragraph 40",
+        "Paragraph 44"
+      ],
+      "forbidden": [
+        "Kat bought WWII specifically",
+        "Shockman entire boxed copy purchased",
+        "John is Johnny"
+      ],
+      "status": "passed",
+      "reason": "P39/40/44 supports Tyler receipt/unplayed Remix and Tailgate Party, Kat unspecified Xbox Call of Duty unplayed, and Johnny cart-only Shockman completion."
+    },
+    {
+      "id": "cq080-task-nonplay",
+      "episode": 80,
+      "question": "Can we say Kat played Odyssey because everyone was playing it?",
+      "query": "all playing Mario Odyssey Kat time haven't played",
+      "answer": "Not safely. The closing summary says they are all kind of playing Odyssey, but the later conversation explicitly singles out Kat as lacking time and says she has not played it. Her Call of Duty purchase is also unplayed at this point. Those specific qualifications take priority over a loose group statement.",
+      "evidence_locations": [
+        "Paragraph 38",
+        "Paragraph 40",
+        "Paragraph 43"
+      ],
+      "forbidden": [
+        "Kat played Odyssey",
+        "Kat has finished Call Duty"
+      ],
+      "status": "passed",
+      "reason": "Specific Kat nonplay inP40/43 qualifies loose all-playing summaryP38; no invented completion or dated play transition."
+    },
+    {
+      "id": "cq080-task-rabbids",
+      "episode": 80,
+      "question": "Does Johnny recommend Rabbids from experience, and does Kat love it?",
+      "query": "Rabbids special edition did not buy Cat loves Life Strange prequel",
+      "answer": "Johnny explicitly passed on the large Kingdom Battle special edition despite liking Switch editions, and the hosts do not claim to have played it. Reports that it is good are hearsay, not his own review. The claim that Kat loves Rabbids is a tease she denies; it leads into their Life Is Strange disagreement and Johnny's intention to play the prequel, not proof he already did.",
+      "evidence_locations": [
+        "Paragraph 30",
+        "Paragraph 31",
+        "Paragraph 32"
+      ],
+      "forbidden": [
+        "Kat loves Rabbids",
+        "Johnny bought edition",
+        "Prequel completed"
+      ],
+      "status": "passed",
+      "reason": "P30–32 supports declined large edition, no firsthand review, Kat denying tease, and intended rather than completed prequel play."
+    },
+    {
+      "id": "cq080-task-rank",
+      "episode": 80,
+      "question": "Which games receive the most meaningful discussion?",
+      "query": "Sunshine backpack five minutes Odyssey Call Duty Mario Brothers arcade PAL Galaxy",
+      "answer": "Using untimed paragraph coverage, Odyssey has six meaningful paragraphs, while Mario Bros. and Sunshine each have five. This is not measured speech time: a shared comparison paragraph can credit multiple games, and passing names, jokes, franchises and standalone collectibles are excluded. Galaxy and New Super Mario Bros. U each have four meaningful paragraphs just behind them.",
+      "evidence_locations": [
+        "Paragraph 4",
+        "Paragraph 5",
+        "Paragraph 6",
+        "Paragraph 7",
+        "Paragraph 12",
+        "Paragraph 13",
+        "Paragraph 14",
+        "Paragraph 16",
+        "Paragraph 21",
+        "Paragraph 22",
+        "Paragraph 28",
+        "Paragraph 38",
+        "Paragraph 40",
+        "Paragraph 41"
+      ],
+      "forbidden": [
+        "Measured minutes",
+        "Unique exclusive speech dominance"
+      ],
+      "status": "passed",
+      "reason": "Full45-paragraph source read supports meaningful comparison windows; derived paragraph unions must also agree with rebuilt index, with ties and excluded incidental/product references explicit."
+    },
+    {
+      "id": "cq206-solo-source",
+      "episode": 206,
+      "question": null,
+      "query": "Who is actually speaking in this short episode?",
+      "answer": "Johnny is the sole host. He explicitly says Stefan is away and Tyler is recovering from covid, and describes the episode as an intentionally short solo Halloween show. Their names appearing in the transcript do not make them participants in this recording.",
+      "evidence_locations": [
+        "00:00:00",
+        "00:01:04"
+      ],
+      "forbidden": [
+        "Do not populate a three-host roster from names mentioned.",
+        "Do not treat the short runtime alone as evidence of missing source."
+      ],
+      "status": "passed",
+      "reason": "Full source and capture metadata confirm deliberately solo episode; named absent hosts not participants."
+    },
+    {
+      "id": "cq206-song-slip",
+      "episode": 206,
+      "question": null,
+      "query": "Does an Amazon Song of Horror order guarantee the Limited Run slipcover?",
+      "answer": "Not according to Johnny’s experience. The listing/manufacturer answer said a slipcover would be included, but he bought three copies and returned all three because none had it. He also distinguishes this distributed game from a numbered LRG release. This establishes his observed failures, not proof that every Amazon copy everywhere lacks a slipcover.",
+      "evidence_locations": [
+        "00:10:43",
+        "00:11:49",
+        "00:12:52"
+      ],
+      "forbidden": [
+        "Do not say he owns three complete slipcover copies.",
+        "Do not promise all Amazon orders include or exclude slips."
+      ],
+      "status": "passed",
+      "reason": "10:43–12:52 explicit bought three/returned all for missing slipcovers; listing promise not actual fulfillment or universal availability."
+    },
+    {
+      "id": "cq206-focus-covers",
+      "episode": 206,
+      "question": null,
+      "query": "Which Focus-store covers does Johnny actually confirm owning?",
+      "answer": "He confirms the exclusive-cover Plague Tale games—Innocence and Requiem. For Call of Cthulhu he is still hoping to have the PS4 version to confirm the cover, and he does not know whether Xbox received that exclusive cover. No print-run number is supplied for these three editions.",
+      "evidence_locations": [
+        "00:07:29",
+        "00:08:33",
+        "00:09:37"
+      ],
+      "forbidden": [
+        "Do not assert Cthulhu cover is already received.",
+        "Do not invent a console for his Plague Tale copies or a numbered print run."
+      ],
+      "status": "passed",
+      "reason": "7:29–9:37 distinguishes confirmed PlagueTale covers and awaiting Cthulhu confirmation, no platform/count overclaim."
+    },
+    {
+      "id": "cq206-layers-dlc",
+      "episode": 206,
+      "question": null,
+      "query": "Is Inheritance missing from the Switch Layers of Fear edition?",
+      "answer": "No: Johnny says both Switch Legacy and PS4 Masterpiece include Inheritance, despite different cover artwork. The physical packages differ: Legacy includes a soundtrack and poster in a larger box with the standard Switch case inside, while PS4 is described as a standard Blu-ray-case release. He does not know whether every Switch-specific change carries over to Masterpiece.",
+      "evidence_locations": [
+        "00:16:02",
+        "00:17:05",
+        "00:18:11"
+      ],
+      "forbidden": [
+        "Do not infer DLC absence from cover art.",
+        "Do not claim all gameplay changes or physical extras are identical."
+      ],
+      "status": "passed",
+      "reason": "16:02–18:11 explicit DLC inclusion both, packaging differences and uncertain feature carryover."
+    },
+    {
+      "id": "cq206-outlast-content",
+      "episode": 206,
+      "question": null,
+      "query": "Does collecting Switch Outlast mean missing Whistleblower, and is the briefcase always worth more?",
+      "answer": "Johnny says the first Switch Outlast includes Whistleblower, so that content is not missing. He contrasts the small two-game slipcase with the larger Murkoff briefcase and reports overlapping resale ranges, not a consistent briefcase premium. PS4/Xbox One Outlast Trinity is a separate wider-retail bundle containing both games and Whistleblower.",
+      "evidence_locations": [
+        "00:12:52",
+        "00:13:52",
+        "00:14:59",
+        "00:16:02"
+      ],
+      "forbidden": [
+        "Do not guarantee a briefcase premium or current price.",
+        "Do not classify Trinity as the same limited Switch package."
+      ],
+      "status": "passed",
+      "reason": "12:52–16:02 inclusion and separate bundles supported, overlapping historical prices not guaranteed premium."
+    },
+    {
+      "id": "cq206-purchases-intent",
+      "episode": 206,
+      "question": null,
+      "query": "Which games were already bought versus still in Johnny’s cart or plans?",
+      "answer": "At the end Johnny explicitly names Skautfold: Shrouded in Sanity and Night Book as already purchased. Other FMV games are still in his cart, and Afterparty is something he intends to get. He separately says he bought N-Gage Shadowkey and PAL NES New Ghostbusters II. The Quarry is his ongoing play update, not a newly announced purchase here.",
+      "evidence_locations": [
+        "00:33:52",
+        "00:34:54"
+      ],
+      "forbidden": [
+        "Do not promote cart items or Afterparty into purchases.",
+        "Do not claim he has played every bought game."
+      ],
+      "status": "passed",
+      "reason": "33:52–34:54 explicit already-bought list versus future/cart and ongoing Quarry play; no universal played inference."
+    },
+    {
+      "id": "cq206-future-platform",
+      "episode": 206,
+      "question": null,
+      "query": "Does Johnny settle whether PS4 or PS5 copies will be rarer?",
+      "answer": "No. He considers competing possibilities involving install base, PS5 availability and whether publishers favored older or newer hardware, then explicitly says he does not have a good answer for small releases. Free upgrades are an example to think about, not reliable proof of physical print counts or future appreciation.",
+      "evidence_locations": [
+        "00:20:13",
+        "00:21:17",
+        "00:22:17"
+      ],
+      "forbidden": [
+        "Do not give a definitive PS4-versus-PS5 rarity verdict.",
+        "Do not turn upgrade availability into measured production data."
+      ],
+      "status": "passed",
+      "reason": "20:13–22:17 directly states competing hypotheses/no clear answer; upgrades do not measure print counts."
+    },
+    {
+      "id": "cq206-afterparty-brief",
+      "episode": 206,
+      "question": null,
+      "query": "Why is Afterparty on this Halloween list, and what collecting detail is unresolved?",
+      "answer": "It is a narrative-heavy black-comedy game about two dead college friends trying to outparty Satan to return to life, so Johnny treats it as spooky without needing gore or jump scares. The physical editions he discusses are Switch and PS4 releases with a poster and collector card. He cannot establish the PS4 batch size, and his own purchase is still a plan at the end.",
+      "evidence_locations": [
+        "00:30:43",
+        "00:31:48",
+        "00:34:54"
+      ],
+      "forbidden": [
+        "Do not invent a PS4 print number.",
+        "Do not claim Johnny already purchased or completed it."
+      ],
+      "status": "passed",
+      "reason": "30:43–31:48 premise and physical extras, unknownPS4quantity;34:54 futurebuy prevents ownership inference."
+    }
+  ]
+}

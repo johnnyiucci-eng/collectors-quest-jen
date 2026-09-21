@@ -1,0 +1,315 @@
+{
+  "schema_version": "1",
+  "review_scope": "Coordinator read and adjudicated the complete answers against retrieved full-source windows. Same-team development review, not a blind or external accuracy estimate.",
+  "initial_integration": {
+    "passed": 16,
+    "total": 17,
+    "failed_case": "cq075-task-inverted-castle",
+    "missing_window": "Paragraph 58",
+    "repair": "Explicit source_quality flag included with answer context, without adding any game span duration."
+  },
+  "cases": [
+    {
+      "id": "batch002-cq008-panic",
+      "episode": 8,
+      "answer": "Kat says she played Panic Restaurant that day, likes its animated food and graphics, and had never heard of it before collecting as an adult. This is Kat's taste, not Tyler's, and does not establish an exact purchase price.",
+      "evidence_locations": [
+        "Paragraph 4",
+        "Paragraph 5"
+      ],
+      "forbidden": [
+        "Tyler was the speaker",
+        "Childhood Panic Restaurant gift",
+        "All food-themed games are favorites"
+      ],
+      "status": "passed",
+      "reason": "Kat/adult discovery, taste and play distinguished from price or Tyler."
+    },
+    {
+      "id": "batch002-cq008-party",
+      "episode": 8,
+      "answer": "It was Mario Party: Johnny immediately corrects his Mario Kart slip. Kat and her cousin keep playing N64 Mario Party1–3; the visit timing can fall before or after Christmas, and the point is their shared memories and bonding—not moving to a newer installment.",
+      "evidence_locations": [
+        "Paragraph 21",
+        "Paragraph 11",
+        "Paragraph 22"
+      ],
+      "forbidden": [
+        "Mario Kart tradition",
+        "Mario Party10 already played",
+        "Fixed December25 appointment"
+      ],
+      "status": "passed",
+      "reason": "Corrected Mario Kart slip, N64 trilogy and flexible family visit timing preserved."
+    },
+    {
+      "id": "batch002-cq008-metroid",
+      "episode": 8,
+      "answer": "Johnny remembers receiving Metroid as his one Christmas present, immersing himself in its exploration, buying it again when he returned to gaming, and trying faster/no-death runs as a child. The recalled year and age remain unverified; these were not modern competitive speedruns.",
+      "evidence_locations": [
+        "Paragraph 17",
+        "Paragraph 18",
+        "Paragraph 19",
+        "Paragraph 20"
+      ],
+      "forbidden": [
+        "Confirmed regional release year1986",
+        "Verified exact childhood age",
+        "Modern competitive record"
+      ],
+      "status": "passed",
+      "reason": "Gift, immersion, repurchase and childhood challenges; remembered chronology not certified."
+    },
+    {
+      "id": "batch002-cq008-current",
+      "episode": 8,
+      "answer": "Johnny says he finished and enjoyed the current Tomb Raider, whose subtitle is not given. Although he loosely says he is working on Fallout, he specifically explains that he loaded the disc so he could start playing that night. The source therefore establishes possession and intended play, not that a Fallout play session had already happened.",
+      "evidence_locations": [
+        "Paragraph 3"
+      ],
+      "forbidden": [
+        "Fallout already completed",
+        "Fallout definitely played before recording",
+        "Exact Tomb Raider subtitle or Fallout number"
+      ],
+      "status": "passed",
+      "reason": "Specific intention to start Fallout limits broad working-on wording; Tomb Raider completion retained."
+    },
+    {
+      "id": "batch002-cq008-feed",
+      "episode": 8,
+      "answer": "The episode names Johnny and Kat as hosts. They announce iTunes availability and distinguish the new Kat-era feed, which starts at episode5, from a similarly presented older feed with an unnamed former host. This records the episode's announcement, not verified current availability.",
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 25",
+        "Paragraph 26"
+      ],
+      "forbidden": [
+        "Tyler cohosted episode8",
+        "Former host named by this passage",
+        "iTunes status verified today"
+      ],
+      "status": "passed",
+      "reason": "Direct roster/feed distinction; no invented old-host identity or current iTunes availability."
+    },
+    {
+      "id": "cq075-task-host-roster",
+      "episode": 75,
+      "answer": "Tyler is the cohost present with Johnny. Cat is absent from this recording, but Johnny explicitly says she remains part of the cast and that the three-person cast should make releases more reliable. An earlier microcast had already introduced Tyler, so this episode does not establish his first appearance.",
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 2"
+      ],
+      "forbidden": [
+        "Cat left the show permanently",
+        "Tyler's first appearance proven",
+        "Cat speaking in this episode"
+      ],
+      "status": "passed",
+      "reason": "Tyler present, Kat absent but still in cast; prior microcast prevents first-appearance claim."
+    },
+    {
+      "id": "cq075-task-Bloodborne",
+      "episode": 75,
+      "answer": "No. Johnny had played about two hours across four short sessions. He liked the theme, found the controls and camera loose, and explicitly wondered whether the problem was his own skill. He planned to continue and report back; this is a provisional impression, not a completed-game verdict.",
+      "evidence_locations": [
+        "Paragraph 44",
+        "Paragraph 45",
+        "Paragraph 46",
+        "Paragraph 47"
+      ],
+      "forbidden": [
+        "finished Bloodborne",
+        "definitive broken controls",
+        "abandoned game confirmed"
+      ],
+      "status": "passed",
+      "reason": "Provisional two-hour play and uncertainty about controls; no completion or abandonment claim."
+    },
+    {
+      "id": "cq075-task-price-ranking",
+      "episode": 75,
+      "answer": "It was the highest total in the Game Value Now table they used: roughly $92,512. But they reject the Atari 2600 data and explain that unavailable scarce games could make actual Atari completion more expensive or impractical. These are qualified 2017 figures, not current prices or a definitive universal ranking.",
+      "evidence_locations": [
+        "Paragraph 10",
+        "Paragraph 20",
+        "Paragraph 21",
+        "Paragraph 28"
+      ],
+      "forbidden": [
+        "AES universally most expensive",
+        "Gamma Attack sold for $500000",
+        "current prices"
+      ],
+      "status": "passed",
+      "reason": "Dated table result qualified by rejected Atari data and asking-versus-sold distinction."
+    },
+    {
+      "id": "cq075-task-shipping-order",
+      "episode": 75,
+      "answer": "No. Kid Dracula and Ninja Gaiden III were the intended Famicom targets, but Tyler describes adding about 45 PC Engine games and Japanese N64 items to the order because of combined-shipping logic. Arrival and exact full-set completeness are not confirmed, and the numerical claim could contain exaggeration.",
+      "evidence_locations": [
+        "Paragraph 51",
+        "Paragraph 52",
+        "Paragraph 53"
+      ],
+      "forbidden": [
+        "only two games purchased",
+        "all items arrived",
+        "verified complete Japanese N64 set"
+      ],
+      "status": "passed",
+      "reason": "Intent versus expanded order; no invented receipt or verified complete N64 set."
+    },
+    {
+      "id": "cq075-task-inverted-castle",
+      "episode": 75,
+      "answer": "Tyler explicitly says he did not finish every Rondo of Blood level or find all its bosses. Both hosts nevertheless regard the inverted castle as necessary to beating Symphony of the Night. The long repeated sentence in paragraphs 56–58 is a transcript anomaly, so it must not be counted as prolonged discussion or a running joke.",
+      "evidence_locations": [
+        "Paragraph 55",
+        "Paragraph 56",
+        "Paragraph 57",
+        "Paragraph 58"
+      ],
+      "forbidden": [
+        "Rondo 100 percent complete",
+        "repeated text establishes minutes of speech",
+        "new running joke verified"
+      ],
+      "status": "passed",
+      "reason": "Rondo incomplete-level distinction and Symphony criterion supported; source-repetition warning preserved."
+    },
+    {
+      "id": "cq075-task-Neverhood",
+      "episode": 75,
+      "answer": "The closing transcript reports a complete-in-box copy bought on eBay for $35 and a childhood connection, but the abrupt unlabelled turn and duplicated closing make the buyer's identity uncertain. I would retain the purchase and price as a historical report without confidently naming Johnny or Tyler.",
+      "evidence_locations": [
+        "Paragraph 59"
+      ],
+      "forbidden": [
+        "definitely Johnny",
+        "definitely Tyler",
+        "current value $35"
+      ],
+      "status": "passed",
+      "reason": "Historical purchase evidence retained without confident buyer assignment."
+    },
+    {
+      "id": "batch002-cq201-sunday-repair",
+      "episode": 201,
+      "answer": "They initially treated Sunday Funday as a reskin of Menace Beach, but later remembered that the Sunday Funday cartridge also contains Fish Fall, an exclusive game. Under Tyler's rule, a compilation with unique content counts, so he restores Sunday Funday and adds one back to his subtotal. This is the episode's own correction, not a claim that all religious reskins are distinct games. (CQ201 00:50:11; 01:47:48–01:48:51; 01:50:55.)",
+      "evidence_locations": [
+        "00:50:11",
+        "01:47:48",
+        "01:48:51",
+        "01:50:55"
+      ],
+      "forbidden": [
+        "Sunday Funday remains excluded",
+        "Menace Beach and Sunday Funday have identical complete cartridge contents",
+        "An authoritative final 677-game replacement list was published"
+      ],
+      "status": "passed",
+      "reason": "Early exclusion superseded by later exclusive Fish Fall correction; no universal final set."
+    },
+    {
+      "id": "batch002-cq201-nwc-criteria",
+      "episode": 201,
+      "answer": "No. Johnny says gold NWC is cooler than gray but excludes promotional cartridges from his list. Tyler counts gold because a consumer could obtain it as a prize, while rejecting gray competition cartridges under his criteria. Their aesthetic preferences and inclusion rules differ. Stefan is discussed, but the hosts explicitly do not know his current opinion. (CQ201 01:12:31–01:15:42; 01:55:11–01:56:19.)",
+      "evidence_locations": [
+        "01:12:31",
+        "01:13:38",
+        "01:14:39",
+        "01:15:42",
+        "01:55:11",
+        "01:56:19"
+      ],
+      "forbidden": [
+        "Johnny counts NWC gold",
+        "Tyler bought NWC gold",
+        "Stefan currently owns or is ordering NWC gold",
+        "All gray copies were definitively stolen"
+      ],
+      "status": "passed",
+      "reason": "Collecting preference separated from inclusion rules; Stefan current view explicitly unknown."
+    },
+    {
+      "id": "batch002-cq201-hellfire-card",
+      "episode": 201,
+      "answer": "Johnny says he finally bought Genesis Hellfire with its registration card after a long saved search. His MUSHA lacks a card, and he says Hellfire uses the same card, so it was a cheaper way to fill that gap than buying another MUSHA. Throwing Hellfire away and selling the remainder are jokes or proposals, not completed disposal or resale. The matching-card claim is his report, not independently authenticated here. (CQ201 02:09:09–02:11:15.)",
+      "evidence_locations": [
+        "02:09:09",
+        "02:10:14",
+        "02:11:15"
+      ],
+      "forbidden": [
+        "Tyler bought Hellfire as his pickup",
+        "Johnny bought another MUSHA",
+        "Hellfire was actually thrown away",
+        "A resale was completed",
+        "Current market price certified"
+      ],
+      "status": "passed",
+      "reason": "Johnny acquisition for card, not MUSHA purchase, disposal or completed resale."
+    },
+    {
+      "id": "batch002-cq201-silly-quantity",
+      "episode": 201,
+      "answer": "Johnny reports buying two sealed Nintendo DS copies, one for himself and one for Tyler. He considered a cheap bulk lot because handing them out would be funny, but does not report buying the case. No actual play is established; Tyler says not until Portland. The initial Scribblenauts comparison is corrected to Angry Birds because the game launches rubber bands. (CQ201 02:29:16–02:32:27.)",
+      "evidence_locations": [
+        "02:29:16",
+        "02:30:18",
+        "02:31:23",
+        "02:32:27"
+      ],
+      "forbidden": [
+        "Purchased fifty copies",
+        "Bulk lot acquired",
+        "Both hosts played it",
+        "Scribblenauts comparison was the final account",
+        "Tyler already received the gift"
+      ],
+      "status": "passed",
+      "reason": "Two copies, not contemplated bulk lot; corrected comparison and unconfirmed gift receipt/play."
+    },
+    {
+      "id": "batch002-cq201-wario-versions",
+      "episode": 201,
+      "answer": "Tyler says he would rather own the original Game Boy version but would probably rather play the Game Boy Color version. He explains that the older box and original-development context can appeal more to him as a collector. He frames cross-generation comparisons case by case, not as a rule that older versions are always better games or guaranteed to rise in value. (CQ201 01:59:27–02:01:40.)",
+      "evidence_locations": [
+        "01:59:27",
+        "02:00:35",
+        "02:01:40"
+      ],
+      "forbidden": [
+        "Tyler purchased either version in this episode",
+        "Older release always plays better",
+        "Guaranteed future appreciation"
+      ],
+      "status": "passed",
+      "reason": "Collection versus play preference, not a transaction or investment guarantee."
+    },
+    {
+      "id": "batch002-cq201-last-of-us-status",
+      "episode": 201,
+      "answer": "No completion is reported. Johnny says he reached the final compound near the shore but could not climb a train-car ladder: his character became stuck in an animation pose. Reloading did not fix it, and his earlier save was about nine hours back. He stopped without the desired New Game Plus completion or trophy. His report does not establish a universal bug or a working fix. (CQ201 02:13:19–02:18:36.)",
+      "evidence_locations": [
+        "02:13:19",
+        "02:14:22",
+        "02:15:28",
+        "02:16:29",
+        "02:17:33",
+        "02:18:36"
+      ],
+      "forbidden": [
+        "Finished New Game Plus",
+        "Earned the desired trophy",
+        "Confirmed patch fixes the bug",
+        "All players encounter this bug",
+        "This is Johnny's first-ever playthrough"
+      ],
+      "status": "passed",
+      "reason": "Unfinished New Game Plus report, no trophy or general bug/fix certification."
+    }
+  ]
+}

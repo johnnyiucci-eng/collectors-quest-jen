@@ -1,0 +1,348 @@
+{
+  "schema_version": "1",
+  "status": "independently_compared",
+  "frozen_utc": "2026-09-14T18:42:00Z",
+  "selection_rule": "floor(N/4),floor(N/2),floor(3N/4), three purposive rapid/uncertain/negative windows and one quiet outro, chosen after full source read before extracted records.",
+  "reference_scope": "Named games/series and explicitly differentiated playable editions; no unnamed libraries, non-game media or hardware. Repeated same identity within one window counts once. Source caption candidates and split-window Bubble title retained.",
+  "limits": "Source-informed development denominator, not blind/random/audio.",
+  "windows": [
+    {
+      "batch": "022",
+      "episode": 130,
+      "source_key": "sc-694609366",
+      "source_window_count": 95,
+      "index": 23,
+      "location": "Paragraph 24",
+      "text": "\nthat. Yeah, my dog did eat it A pristine copy of it Honestly, the first thing I think of when I think of roly-roly roe’s is reddit reddit game collecting It so sad my copy was so nice I’m so sorry johnny. Such a nice copy. So This is a thing like this is kind of just general collecting advice This is 100 a game that I would not follow the crowd on In game collect, there’s tens of thousands of games you could buy Dollar for dollar. This is probably one of the worst investments you could make in your collection in gameplay Uh, there’s just so many better things you could buy for 350 dollars than a ps2 copy of rule of rose It’s not particularly rare. It has this height behind it like it’s rare One or two complete copies sell every single day on ebay. Um, there’s probably more than a dozen copies up right now It’s rare in the same way that little samson is rare, right? No, not it doesn’t Samsung on ebay not even lose cards. There’s probably one or two Like I think I think little samson gets too much backlash in the rarity department. Like it’s not crazy stadium events rare, but you know, it’s not like I don’t know bubble\n\n",
+      "stratum": "quarter_positions",
+      "references": [
+        {
+          "id": "cq130-sample-23-0",
+          "title": "Rule of Rose",
+          "quote": "rule of rose",
+          "reviewed_game_ids": [
+            "cq130-g022"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        },
+        {
+          "id": "cq130-sample-23-1",
+          "title": "Little Samson",
+          "quote": "little samson",
+          "reviewed_game_ids": [
+            "cq130-g028"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        },
+        {
+          "id": "cq130-sample-23-2",
+          "title": "Stadium Events",
+          "quote": "stadium events",
+          "reviewed_game_ids": [
+            "cq130-g029"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        },
+        {
+          "id": "cq130-sample-23-3",
+          "title": "Bubble Bobble Part Two split caption",
+          "quote": "bubble",
+          "reviewed_game_ids": [
+            "cq130-g030"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "022",
+      "episode": 130,
+      "source_key": "sc-694609366",
+      "source_window_count": 95,
+      "index": 47,
+      "location": "Paragraph 48",
+      "text": "\none Actually, I I I do not own it. So on ps1. I have I have it on saturn. All right saturn and 3do So yeah, also a long box version go get it Yeah, you know what you know what has a jewel case actually the first edition of brain dead 13 Which was not a laser disc. It was released for ms. Das in 1995 as a post exactly the console ports which came out in 1996 That’s right. All of the console versions are ports It’s for banger consoles like the cdi and 3do and jack or cd bangers Yep, bangers for sure All right, um, steven you got more to say. Oh my moving us. Yeah, I think that’s it move a sound All right, let’s talk about juan Uh, again probably pronouncing that wrong. Oh j. You know what? Yeah Yeah, that one uh haunted house simulator for the we can’t believe i’m talking about a we game But as far as we games go it is collectible on the we it’s one of those games That uh people are after it’s always, you know, they always want it’s like 40 dollars But like I see it go as high as 65 a fun fact about it It does have a canadian variant so you\n\n",
+      "stratum": "quarter_positions",
+      "references": [
+        {
+          "id": "cq130-sample-47-0",
+          "title": "Brain Dead13 PS1 nonownership",
+          "quote": "on ps1",
+          "reviewed_game_ids": [
+            "cq130-g068"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        },
+        {
+          "id": "cq130-sample-47-1",
+          "title": "Brain Dead13 Saturn ownership",
+          "quote": "saturn",
+          "reviewed_game_ids": [
+            "cq130-g067"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        },
+        {
+          "id": "cq130-sample-47-2",
+          "title": "Brain Dead13 3DO ownership",
+          "quote": "3do",
+          "reviewed_game_ids": [
+            "cq130-g069"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        },
+        {
+          "id": "cq130-sample-47-3",
+          "title": "Brain Dead13 DOS first edition",
+          "quote": "ms. Das",
+          "reviewed_game_ids": [
+            "cq130-g070"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        },
+        {
+          "id": "cq130-sample-47-4",
+          "title": "Brain Dead13 CDI port",
+          "quote": "cdi",
+          "reviewed_game_ids": [
+            "cq130-g066"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        },
+        {
+          "id": "cq130-sample-47-5",
+          "title": "Brain Dead13 JaguarCD port",
+          "quote": "jack or cd",
+          "reviewed_game_ids": [
+            "cq130-g071"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        },
+        {
+          "id": "cq130-sample-47-6",
+          "title": "Ju-on Haunted House Simulator Wii",
+          "quote": "haunted house simulator",
+          "reviewed_game_ids": [
+            "cq130-g072"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "022",
+      "episode": 130,
+      "source_key": "sc-694609366",
+      "source_window_count": 95,
+      "index": 71,
+      "location": "Paragraph 72",
+      "text": "\nvideo by mjr Because it’s weird. I mean You know forgive me for jumping to conclusions But the metal jesus puts out a video that you should be collecting wii u We’re a collectible show. You could have just asked us instead of going to i don’t I don’t deny that the timing is suspect I I but but Uh, the when tyler linked me that video that was the first time that I’ve seen it scott’s honor Um, I just want to say I definitely did not link you that video Yeah, well when you linked it in chat someone linked it in chat. That was me 100 johnny Yeah, that was me 100 cent rolling you nice yep, so uh Additionally, I am real real real real real close to finishing the black label set for gamecube Uh by when I say real real close. I mean I’m one game away Uh, it’s not even that rare and I don’t know if do I want to say it just in case I don’t have it by the time of this airs I’m slow at editing so you could do whatever you want. All right, so it’s groove writer for the gamecube is um Is the one game I need and it’s one of those things where it’s like\n\n",
+      "stratum": "quarter_positions",
+      "references": [
+        {
+          "id": "cq130-sample-71-0",
+          "title": "Grooverider GameCube",
+          "quote": "groove writer",
+          "reviewed_game_ids": [
+            "cq130-g104"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "022",
+      "episode": 130,
+      "source_key": "sc-694609366",
+      "source_window_count": 95,
+      "index": 81,
+      "location": "Paragraph 82",
+      "text": "\ngrail of video games the real holy grail of video games and one of the most important games ever So I’m coming at you with a trifecta here and so I wasn’t even gonna mention this last one I got a complete copy of civilization on pc Uh game that revolutionized the genre and stayed on top of it since 1992 You said that and you said what else has done that I was like mario brothers There there are platform games besides mario brothers that can like compete like the But mario still stayed on top right not in the gamecube days. I would argue there are Placibers on the ps2 that outshines mario sunshine. Okay. Yeah, I’ll give you I’ll give you it there But uh, yeah, I mean you’re right super mario galaxy and super mario galaxy two obviously killed it Then like the we you the we you games didn’t kill it. They were excellent games especially new super mario brothers you ever once you play new super mario brothers you but again like The zeitgeist around super mario brothers wasn’t there in that generation. I don’t think But odyssey is amazing. And yeah, odyssey is amazing again It’s super mario brothers. It’s like it’s probably my favorite franchise of all time I’m not gonna diss\n\n",
+      "stratum": "purposive_rapid",
+      "references": [
+        {
+          "id": "cq130-sample-81-0",
+          "title": "Civilization PC",
+          "quote": "civilization",
+          "reviewed_game_ids": [
+            "cq130-g118"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        },
+        {
+          "id": "cq130-sample-81-1",
+          "title": "Super Mario series",
+          "quote": "super mario brothers",
+          "reviewed_game_ids": [
+            "cq130-g119"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        },
+        {
+          "id": "cq130-sample-81-2",
+          "title": "Super Mario Sunshine",
+          "quote": "mario sunshine",
+          "reviewed_game_ids": [
+            "cq130-g120"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        },
+        {
+          "id": "cq130-sample-81-3",
+          "title": "Super Mario Galaxy",
+          "quote": "super mario galaxy",
+          "reviewed_game_ids": [
+            "cq130-g121"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        },
+        {
+          "id": "cq130-sample-81-4",
+          "title": "Super Mario Galaxy2",
+          "quote": "super mario galaxy two",
+          "reviewed_game_ids": [
+            "cq130-g122"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        },
+        {
+          "id": "cq130-sample-81-5",
+          "title": "New Super Mario Bros U",
+          "quote": "new super mario brothers you",
+          "reviewed_game_ids": [
+            "cq130-g123"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        },
+        {
+          "id": "cq130-sample-81-6",
+          "title": "Super Mario Odyssey",
+          "quote": "odyssey",
+          "reviewed_game_ids": [
+            "cq130-g124"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "022",
+      "episode": 130,
+      "source_key": "sc-694609366",
+      "source_window_count": 95,
+      "index": 33,
+      "location": "Paragraph 34",
+      "text": "\nnever mind. This is hard. Yeah. Yeah, I get migraines normally. I’m just not trying to play virtual boy. Sorry It depends on the game for me Like I I like mario tennis a lot or whatever the hell it’s called the tennis game on virtual boy I actually really really like um and that doesn’t bother me, but like red alert really bothers me I think it’s just because a lot of those games have just kind of bad graphics Like that aren’t very pleasant to look at. Yeah, I also don’t have a problem with like 3d movies But virtual boy is like a no for me Red alarm. Sorry. Don’t uh, don’t add me in the comments for that Oh, I didn’t even notice I would have gonna let it slip by you know, it would have been all on you about that if I Thought of it. All right, Johnny. Let’s move us on Yeah, I’m I’m trying to do that. Boom Wow, stephen let’s go back to red alarm. All right, so it’s a lot like star fox, huh? I’m I’m just looking at the document. Someone deleted my information about koldalka Uh, that’s messed up Did you do that stephen? No, what was that you I genuinely think it’s messed up I’m like that’s\n\n",
+      "stratum": "purposive_uncertain",
+      "references": [
+        {
+          "id": "cq130-sample-33-0",
+          "title": "Mario's Tennis VirtualBoy",
+          "quote": "mario tennis",
+          "reviewed_game_ids": [
+            "cq130-g040"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        },
+        {
+          "id": "cq130-sample-33-1",
+          "title": "Red Alarm corrected from Red Alert",
+          "quote": "Red alarm",
+          "reviewed_game_ids": [
+            "cq130-g041"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        },
+        {
+          "id": "cq130-sample-33-2",
+          "title": "Star Fox",
+          "quote": "star fox",
+          "reviewed_game_ids": [
+            "cq130-g042"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        },
+        {
+          "id": "cq130-sample-33-3",
+          "title": "Koudelka candidate",
+          "quote": "koldalka",
+          "reviewed_game_ids": [
+            "cq130-g043"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "022",
+      "episode": 130,
+      "source_key": "sc-694609366",
+      "source_window_count": 95,
+      "index": 89,
+      "location": "Paragraph 90",
+      "text": "\njohan bone. I message him and i’m like dude just you get like a mint Ocarina of time Collector decision just give it to me because I know you get all this crazy stuff And I know he’s like the guy on nintendo age who talks about n64 seals because he knows Like more than anyone on nintendo age about n64 seals and he’s just like, yeah, no, I don’t really I don’t really get n64 stuff Just want my stuff, man I was speaking of what I didn’t buy ninja guide in three the like the one other game besides ocarina time that I want sealed One went on heritage auctions for 1700 dollars Uh, what a 9.0 which is like a vga like 75 maybe maybe an 80 I feel like If you really want this really expensive thing tyler, you should probably stop talking about it No, like I get like I give there’s no way like that’s even I want one that is in I would say much better condition than the one that just went for 700 dollars and there’s just no way i’m gonna pay for it Like it’s a hundred dollar game plus $2,000 strength wrap like I i’m not gonna do it. So knock yourself out everybody Believe me if if I\n\n",
+      "stratum": "purposive_negative",
+      "references": [
+        {
+          "id": "cq130-sample-89-0",
+          "title": "Ocarina of Time Collector's Edition",
+          "quote": "Ocarina of time",
+          "reviewed_game_ids": [
+            "cq130-g144"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        },
+        {
+          "id": "cq130-sample-89-1",
+          "title": "Ninja Gaiden3 unbought sealed",
+          "quote": "ninja guide in three",
+          "reviewed_game_ids": [
+            "cq130-g145"
+          ],
+          "comparison_status": "mapped",
+          "initial_comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "022",
+      "episode": 130,
+      "source_key": "sc-694609366",
+      "source_window_count": 95,
+      "index": 92,
+      "location": "Paragraph 93",
+      "text": "\nfriends at the video game history foundation Uh, and so yeah, I’ll be there as well. So That’s my plans for portland. You should absolutely come out. It’s the weekend of the uh weekend of the 18th so, uh, yeah Check us out definitely go to stephens panel because uh, maybe you’ll catch a glimpse of pat the nes punk and then you can go over and get His autograph after it and you know, steph will be saying some words too I have absolutely been blessed with a fantastic time slot. I think the only thing that we’re really up against is the costume contest Um, so uh, so yeah, I’m hoping that that will get a pretty pretty darn good turnout Yeah, it’s not like 10 a.m. Sunday morning and it’s not right when the vendor floor opens. So you’re pretty set yeah, and uh, and the actual video game history foundation panel is right before ours So in the same room. So are they gonna come for that? Uh, everyone file out. We hype each other Um, frank safaldi is brilliant and awesome. And uh, so his panels are always a good time So come come for uh video game history foundation panel and stay for the gameplay concert panel Nice All right, tyler Do you want\n\n",
+      "stratum": "quiet_outro",
+      "references": []
+    }
+  ],
+  "initial_result": {
+    "passed": 25,
+    "total": 25,
+    "basis": "First staged record occurrence comparison before annotation build; full root source read and frozen denominator."
+  }
+}

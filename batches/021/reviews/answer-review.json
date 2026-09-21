@@ -1,0 +1,336 @@
+{
+  "schema_version": "1",
+  "reviewer": "Root coordinator; complete separate58-window source read and all14 actual answer texts",
+  "status": "semantic_answers_reviewed",
+  "scope": "Source-informed development review, not blind, audio or live certification.",
+  "cases": [
+    {
+      "id": "cq102-scope",
+      "episode": 102,
+      "question": "Which games make CQ102's Halloween collectible list, and is it really an eleven-game ranking?",
+      "query": "Which games make CQ102's Halloween collectible list, and is it really an eleven-game ranking?",
+      "answer": "The episode offers a nonexhaustive collectible shortlist, not a ranking of the best or rarest games. It names Splatterhouse for TurboGrafx-16; Chiller for NES, with its blue variant highlighted; Clock Tower 2/The Struggle Within for PS1; Rule of Rose; Wendy for GBC; Tiny Toon Adventures: Scary Dreams; Castlevania: Bloodlines; the captioned Branded13, a qualified Brain Dead 13 candidate with Jaguar CD emphasized; Stubbs the Zombie; Halloween and The Texas Chainsaw Massacre for Atari 2600; and Zombies Ate My Neighbors, whose normalized title is a caption-based candidate and whose Mexico box is the collectible focus. That is 12 named games in 11-ish presentation slots because the Atari pair is introduced together. Castlevania III's omission is a joke, not a recommendation against it.",
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 6",
+        "Paragraph 9",
+        "Paragraph 10",
+        "Paragraph 11",
+        "Paragraph 14",
+        "Paragraph 17",
+        "Paragraph 20",
+        "Paragraph 24",
+        "Paragraph 25",
+        "Paragraph 28",
+        "Paragraph 39",
+        "Paragraph 42"
+      ],
+      "forbidden": [
+        "Do not drop either Atari game to force11.",
+        "Do not add every comparison to the selected list.",
+        "Do not present variant provenance or rarity as independently verified."
+      ],
+      "status": "passed",
+      "reason": "Nonexhaustive twelve named selections in eleven-ish slots; paired Atari membership and Castlevania III omission correct."
+    },
+    {
+      "id": "cq102-splatterhouse-chiller",
+      "episode": 102,
+      "question": "Why are the two Splatterhouse games different, and what makes Chiller's collectible variant distinctive?",
+      "query": "Why are the two Splatterhouse games different, and what makes Chiller's collectible variant distinctive?",
+      "answer": "Johnny introduces the TurboGrafx-16 Splatterhouse, citing about $80 for a HuCard and $110–140 boxed and recalling how its arcade-like presentation made him want the console. Tyler corrects the other platform from NES to Famicom: raw Pahkoo graffiti is a qualified Wanpaku Graffiti candidate, a different cute horror action platformer. Chiller's ordinary gray NES cart is described as not especially rare for an unlicensed game, whereas the blue ShareData variant is reported extremely scarce, with no usable sale-price estimate. Those scarcity/company-history claims are unverified episode reports. Stephan explicitly says he does not own Chiller. The speaker who says they never played it is not securely identified; the NES two-gun implementation is criticized rather than recommended.",
+      "evidence_locations": [
+        "Paragraph 4",
+        "Paragraph 5",
+        "Paragraph 6",
+        "Paragraph 7",
+        "Paragraph 8",
+        "Paragraph 9"
+      ],
+      "forbidden": [
+        "Do not conflate Famicom and TurboGrafx games.",
+        "Do not certify blue-cart production totals or identify every unlabelled voice.",
+        "Console desire is not a purchase."
+      ],
+      "status": "passed",
+      "reason": "TG16/Famicom/arcade identities, blue versus gray Chiller and non-owner/unknown-player attribution retained."
+    },
+    {
+      "id": "cq102-clock-rule",
+      "episode": 102,
+      "question": "What release-date story did Stephan tell about Clock Tower 2, and what happened to Johnny's Rule of Rose?",
+      "query": "What release-date story did Stephan tell about Clock Tower 2, and what happened to Johnny's Rule of Rose?",
+      "answer": "Stephan presents the PS1 Clock Tower 2, identified as The Struggle Within, around $130 and reports an October 31, 1999 release. The hosts question Halloween-day marketing, but do not establish the publisher's actual reasoning. The original Clock Tower platform is corrected to Super Famicom; it is not thereby the same game as the PS1 sequel. Johnny's Rule of Rose story is separate: a dog damaged his pristine copy, bought roughly two months before an incident he places about two years earlier. His other dogs also damaged PSP and PS1 Valkyrie Profile copies. The roughly $250 Rule of Rose figure and controversy discussion are dated source reports, not today's valuation or independently verified history.",
+      "evidence_locations": [
+        "Paragraph 9",
+        "Paragraph 10",
+        "Paragraph 11",
+        "Paragraph 12",
+        "Paragraph 13"
+      ],
+      "forbidden": [
+        "Do not call PS1 sequel an SFC port.",
+        "Do not infer sold/returned damaged copies.",
+        "Do not present alleged controversy or historical prices as verified current facts."
+      ],
+      "status": "passed",
+      "reason": "Original Clock Tower platform correction and Johnny's separate dog-damaged copies distinguished from dated market prices."
+    },
+    {
+      "id": "cq102-wendy-scarce",
+      "episode": 102,
+      "question": "Why did Wendy and Scary Dreams attract collector interest, and which claims were still uncertain?",
+      "query": "Why did Wendy and Scary Dreams attract collector interest, and which claims were still uncertain?",
+      "answer": "Tyler frames the GBC Wendy game through WayForward's reputation and attractive graphics; the source reports GBA-enhanced extra content and about $180 complete. Shantae, Sabrina and Buffy provide developer or handheld comparisons, not additional main-list picks. Johnny reports Scary Dreams rising from a previous $40–80 recommendation to about $250–350 complete and $90 loose. Treasure's involvement prompts collector enthusiasm and spending banter. But the speakers explicitly do not settle the rental-exclusive or unreleased stories, and they disagree about whether the captioned Buster's Nightmare regional reference is the same game. Buster's Bad Dream appears alongside Scary Dreams later, without independently proving every regional equivalence. No completed $250 purchase follows from the joke.",
+      "evidence_locations": [
+        "Paragraph 14",
+        "Paragraph 15",
+        "Paragraph 17",
+        "Paragraph 18",
+        "Paragraph 19",
+        "Paragraph 20"
+      ],
+      "forbidden": [
+        "Do not certify rental exclusivity or normalize all Buster names into one proven identity.",
+        "Do not call WayForward or Treasure interest a host acquisition."
+      ],
+      "status": "passed",
+      "reason": "Wendy GBC enhancement not GBA release; Scary Dreams regional/rental history uncertain and Tyler spending banter not purchase."
+    },
+    {
+      "id": "cq102-bloodlines",
+      "episode": 102,
+      "question": "Which Bloodlines box should a collector choose according to Johnny, and did he have all three?",
+      "query": "Which Bloodlines box should a collector choose according to Johnny, and did he have all three?",
+      "answer": "Johnny distinguishes a clamshell, flip-top cardboard box, and slide-out cardboard box. He quotes roughly $150 for clamshell versus $90–120 for cardboard and would choose clamshell for durability. A mint cardboard copy, especially the one-piece flip-top, may be harder to find in that condition; he does not establish that flip-top had the smallest print run or a known separate price premium. Asked whether he has all three, Johnny initially agrees, then corrects himself: the clamshell is coming but is not here yet. The cardboard copies remain his contextual ownership claim. Another unlabelled speaker says they have a clamshell; that is not Johnny's current copy.",
+      "evidence_locations": [
+        "Paragraph 23",
+        "Paragraph 24"
+      ],
+      "forbidden": [
+        "Do not say Johnny currently holds allthree.",
+        "Do not turn incoming into received or infer a payment amount.",
+        "Do not confuse condition difficulty with proven production rarity."
+      ],
+      "status": "passed",
+      "reason": "Bloodlines package forms distinguished; initial all-three claim corrected by incoming clamshell and condition not print-run rarity."
+    },
+    {
+      "id": "cq102-fmv-stubbs",
+      "episode": 102,
+      "question": "What were the economical alternatives to the expensive Branded13 version, and how did Stubbs fit the Halloween theme?",
+      "query": "What were the economical alternatives to the expensive Branded13 version, and how did Stubbs fit the Halloween theme?",
+      "answer": "The raw Branded13 title is retained as a qualified Brain Dead 13 candidate. The discussion highlights Jaguar CD at about $180–250 complete, says PC came first, and names PS1, Saturn and 3DO as cheaper console alternatives. The favorable 3DO compression claim comes from reviews the contextual presenter read, not a firsthand benchmark. Dragon's Lair and Space Ace are comparisons. Stubbs is separately described as an original-Xbox zombie game set in a future utopia, around $50, using Halo engine technology. F.E.A.R. and Night Trap enter a reported political-history tangent. None of that establishes a host purchase, current pricing, or independently verified technical/legal history.",
+      "evidence_locations": [
+        "Paragraph 24",
+        "Paragraph 25",
+        "Paragraph 26",
+        "Paragraph 27"
+      ],
+      "forbidden": [
+        "Do not assert an exact title from the raw caption without qualification.",
+        "Do not infer ownership of every port or playing Halo/Unreal from engine mentions.",
+        "No current price or verified political-history claims."
+      ],
+      "status": "passed",
+      "reason": "Candidate Branded13 ports and secondhand 3DO praise qualified; Stubbs engine and political comparisons not ownership."
+    },
+    {
+      "id": "cq102-atari-refund",
+      "episode": 102,
+      "question": "What did Johnny actually pay for the Halloween/Texas double-ender, and did he send it back?",
+      "query": "What did Johnny actually pay for the Halloween/Texas double-ender, and did he send it back?",
+      "answer": "Johnny says he paid $70 for the reported bootleg Halloween/Texas Chainsaw Massacre double-ender about two years earlier. The $150 figure belongs to somebody else's more recent sale. He thought $50 would be fair for a reproduction of that quality and sought a $20 partial refund; after the seller refused, PayPal awarded the full $70. Johnny explicitly still has the cart and likes its box, so this was a refund with the item retained, not a return. The separate Atari Age alternate Texas reproduction is another product. These are the speakers' provenance claims, not an independent authentication.",
+      "evidence_locations": [
+        "Paragraph 32",
+        "Paragraph 33",
+        "Paragraph 34"
+      ],
+      "forbidden": [
+        "Do not record150 as Johnny's cost.",
+        "Do not turn a refund into a return or certify the product's authenticity.",
+        "Do not convert hypothetical fair price into a second purchase."
+      ],
+      "status": "passed",
+      "reason": "Johnny paid70, requested20, received full refund and retained item; other buyer150 and other bootleg not conflated."
+    },
+    {
+      "id": "cq102-labels-shipping",
+      "episode": 102,
+      "question": "What Atari-label and shipping preferences were discussed, and whose damaged Saturn game was it?",
+      "query": "What Atari-label and shipping preferences were discussed, and whose damaged Saturn game was it?",
+      "answer": "Tyler conditionally prefers a misspelled handwritten Halloween label; another unlabelled voice weighs a printed original against handwriting at the same price. The claimed official handwritten variant and liquidation explanation are not authenticated here. Separate unlabelled anecdotes describe a cherished custom NBA Hangtime label and a formerly held hand-drawn ATV Off-Road Fury 2 copy; the latter's disposal method is unspecified. Johnny advocates shipping boxes and appreciates loose SNES games arriving boxed. The buyer of ten boxed N64 games is awaiting the shipping outcome. The Saturn Albert Odyssey recipient reports a cracked case and criticism of the seller, but that narrator is not securely named, and no refund or return outcome is supplied.",
+      "evidence_locations": [
+        "Paragraph 28",
+        "Paragraph 29",
+        "Paragraph 30",
+        "Paragraph 35",
+        "Paragraph 36",
+        "Paragraph 37",
+        "Paragraph 38"
+      ],
+      "forbidden": [
+        "Do not attach all shipping stories to Johnny.",
+        "Do not infer a new Halloween purchase from conditional label preference.",
+        "Do not record unnamed N64 arrival or Albert Odyssey compensation."
+      ],
+      "status": "passed",
+      "reason": "Conditional labels and former ATV ownership separated from delivery; Johnny SNES receipt versus unknown N64/Albert actors."
+    },
+    {
+      "id": "cq102-mexico-box",
+      "episode": 102,
+      "question": "Was the Zombies Mexico box definitely a Majesco release, and did the hosts agree about the art?",
+      "query": "Was the Zombies Mexico box definitely a Majesco release, and did the hosts agree about the art?",
+      "answer": "No. The speakers call it the Mexico box and quote more than $500, but Johnny says he lacks good origin information. Stephan offers a Majesco re-release explanation as a guess; Johnny finds it plausible while explicitly saying there is no solid proof. Their opinions also differ: Tyler dislikes the original North American art and favors the PAL airbrushed alternative, while Johnny defends the original's pulp style and sees charm in both. Genesis layout, It Came from the Desert and Wally Bear and the no gang are cover comparisons. The source's garbled Zombies title is normalized only as a candidate, and the long art conversation should not all count as base-game gameplay discussion.",
+      "evidence_locations": [
+        "Paragraph 39",
+        "Paragraph 40",
+        "Paragraph 41",
+        "Paragraph 42",
+        "Paragraph 44",
+        "Paragraph 45",
+        "Paragraph 46"
+      ],
+      "forbidden": [
+        "Do not certify Mexican manufacture, Majesco publication or a confirmed print run.",
+        "Do not merge opposing opinions.",
+        "Do not rank packaging as an individual video game."
+      ],
+      "status": "passed",
+      "reason": "Mexico-box origin remains speculation; Tyler and Johnny art preferences and comparisons not verified provenance."
+    },
+    {
+      "id": "cq102-stefan-lore",
+      "episode": 102,
+      "question": "What did Stephan buy and play, and what recurring callback and future segments appeared?",
+      "query": "What did Stephan buy and play, and what recurring callback and future segments appeared?",
+      "answer": "Stephan bought the Killer Instinct E3 booth staff leather jacket, distinguishing it from the Nintendo Power sale version. He says he wears it playing Killer Instinct and estimates about 20 staff jackets, an unverified quantity. He has played a lot of Dragon Quest XI and strongly recommends it to JRPG fans, without claiming completion. Johnny also explicitly supports Stephan's recurring affection for raw Shelly DeVall, a possible Shelley Duvall caption, through a Casper Meets Wendy callback. Open topics include future Halloween/point-and-click lists, a signatures discussion and possible WayForward visit, uncertainty over a bubble-mailer microcast's publication, and Tyler Talks being announced but not ready.",
+      "evidence_locations": [
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 15",
+        "Paragraph 16",
+        "Paragraph 20",
+        "Paragraph 36",
+        "Paragraph 46",
+        "Paragraph 47"
+      ],
+      "forbidden": [
+        "Do not certify20 jackets or turn posted photos into unrelated purchases.",
+        "Do not claim a completed studio visit, published microcast or ready Tyler Talks segment.",
+        "Do not infer a private relationship with the performer."
+      ],
+      "status": "passed",
+      "reason": "Staff jacket not Nintendo Power version, DQXI unfinished play, recurring Shelly candidate and genuine open loops supported."
+    },
+    {
+      "id": "cq102-tyler-purchases",
+      "episode": 102,
+      "question": "How did Tyler's and Johnny's Elemental Master purchases differ, and what else did Tyler buy?",
+      "query": "How did Tyler's and Johnny's Elemental Master purchases differ, and what else did Tyler buy?",
+      "answer": "Tyler reports a mint Elemental Master at $225 before 15% off; Johnny separately bought a complete but less-nice copy at $160 before the same discount. Those are different copies, not conflicting prices for one purchase. Tyler also names Growl at $140 less 15%, explicitly calculated as $119, Final Fight Guy, and the Ninja Gaiden Trilogy compilation. He paid about $200 for a nice Super Copa with the kicking-image North American box, with uncertain 10% eBay Bucks treatment rather than a securely established $180 cash cost. His nice Mega Man X3 was $215. At the close he adds Bustinut for $56, reporting an original $28 price, 2011 release and 50 copies; those historical figures and the iam8bit value joke are not a forecast.",
+      "evidence_locations": [
+        "Paragraph 49",
+        "Paragraph 50",
+        "Paragraph 51",
+        "Paragraph 52",
+        "Paragraph 53",
+        "Paragraph 54",
+        "Paragraph 56"
+      ],
+      "forbidden": [
+        "Do not merge copies or infer all discounts apply to all games.",
+        "Do not treat Bucks as certain immediate cash reduction.",
+        "Do not certify production totals or future appreciation."
+      ],
+      "status": "passed",
+      "reason": "Two Elemental Master copies/prices distinct; Growl calculation correct, Super Copa Bucks uncertain and homebrew claims dated."
+    },
+    {
+      "id": "cq102-playing",
+      "episode": 102,
+      "question": "What were Tyler and Johnny playing, and what should not be mistaken for finishing a game?",
+      "query": "What were Tyler and Johnny playing, and what should not be mistaken for finishing a game?",
+      "answer": "Tyler says hand pain forced him to stop Path of Exile, while he had been playing Golf It and Golden Tee. He watched StarCraft II matches, tried a couple games again, and criticized his own skill. Johnny bought an unspecified Dracula game and raw Zena for GBC, a possible Xena candidate, but collecting portable games is not the same as enjoying playing them. He returned to an unspecified Tomb Raider to raise his completion percentage and played Octopath Traveler on Switch while traveling. Short 30–60 minute sessions and long gaps slowed progress; he enjoys it and is still trying to get through it. He confirms prior roughly 30-minute Ninja Gaiden 3 completions, not a current Octopath finish.",
+      "evidence_locations": [
+        "Paragraph 54",
+        "Paragraph 55",
+        "Paragraph 56"
+      ],
+      "forbidden": [
+        "Do not infer the exact Dracula, Xena or Tomb Raider subtitle.",
+        "Do not give medical advice or claim permanent cessation.",
+        "Do not convert percentage progress or past Ninja Gaiden completion into Octopath completion."
+      ],
+      "status": "passed",
+      "reason": "Watching versus trying StarCraft, paused Path of Exile and incomplete Tomb Raider/Octopath distinguished from past Ninja completion."
+    },
+    {
+      "id": "cq102-genre-rarity",
+      "episode": 102,
+      "question": "Did the hosts settle what counts as a JRPG or prove that expensive games are the rarest?",
+      "query": "Did the hosts settle what counts as a JRPG or prove that expensive games are the rarest?",
+      "answer": "No. Stephan's Dragon Quest XI recommendation leads to a disagreement over Japanese origin, style and changing genre conventions. The discussion compares original Dragon Warrior and Final Fantasy with later series, Western influences such as Wizardry and Bard's Tale, and a Lunar example; raw East remains unresolved rather than a securely identified Ys entry. Separately, Tyler questions an unnamed PS2 set collector's familiar Rule of Rose and Haunting Ground rarity examples and contrasts them with expectations of obscure titles. Those conversations preserve opinions, jokes and source reports, not an authoritative genre definition or measured rarity census.",
+      "evidence_locations": [
+        "Paragraph 42",
+        "Paragraph 43",
+        "Paragraph 44",
+        "Paragraph 47",
+        "Paragraph 48",
+        "Paragraph 49"
+      ],
+      "forbidden": [
+        "Do not convert country of development into a settled genre rule.",
+        "Do not infer exact hypothetical obscure titles or validate reported rarity rankings.",
+        "Do not collapse every FF/DQ reference into one installment."
+      ],
+      "status": "passed",
+      "reason": "JRPG disagreement not settled universal rule; PS2 rarity inquiry not census and East identity unresolved."
+    },
+    {
+      "id": "cq102-prominence",
+      "episode": 102,
+      "question": "Which three games were discussed most in CQ102, and how reliable is that ranking?",
+      "query": "Which three games were discussed most in CQ102, and how reliable is that ranking?",
+      "answer": "Using the union of mapped meaningful untimed paragraphs for individual games, there is no defensible unique top three: Chiller on NES, Rule of Rose, Tiny Toon Adventures: Scary Dreams, and The Texas Chainsaw Massacre on Atari 2600 each cover four meaningful paragraphs. The next tier has Splatterhouse on TurboGrafx-16, Clock Tower 2, Castlevania: Bloodlines, Stubbs the Zombie, and Halloween at three each. This is coarse source-paragraph coverage, not measured speaking time, word share, importance or the episode's selected-list order. Split returns count once per game per paragraph; bare mentions do not inflate coverage. Box variants, the bootleg double-ender, jackets, series and films remain separate types. In particular the Mexico-box art discussion is not all credited to the base Zombies game. The tie must remain visible rather than arbitrarily selecting three.",
+      "evidence_locations": [
+        "Paragraph 4",
+        "Paragraph 5",
+        "Paragraph 6",
+        "Paragraph 7",
+        "Paragraph 8",
+        "Paragraph 9",
+        "Paragraph 10",
+        "Paragraph 11",
+        "Paragraph 12",
+        "Paragraph 13",
+        "Paragraph 17",
+        "Paragraph 18",
+        "Paragraph 19",
+        "Paragraph 20",
+        "Paragraph 21",
+        "Paragraph 22",
+        "Paragraph 25",
+        "Paragraph 26",
+        "Paragraph 27",
+        "Paragraph 28",
+        "Paragraph 29",
+        "Paragraph 30",
+        "Paragraph 31",
+        "Paragraph 32",
+        "Paragraph 42",
+        "Paragraph 43"
+      ],
+      "forbidden": [
+        "Do not fabricate exact minutes or force three distinct winners.",
+        "Do not substitute shortlist order for prominence.",
+        "Do not count each mention, repeated occurrence or every accessory paragraph as individual-game discussion."
+      ],
+      "status": "passed",
+      "reason": "Four-way four-paragraph meaningful-union tie preserved; excluded categories and untimed metric explicitly qualified."
+    }
+  ]
+}

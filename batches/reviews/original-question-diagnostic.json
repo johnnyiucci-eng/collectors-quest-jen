@@ -1,0 +1,91 @@
+{
+  "schema_version": "1",
+  "scope": "Non-gating diagnostic over batches003–009 task cases with a distinct nonempty question field. Cases lacking that field excluded; no silent conversion of tuned query to original question.",
+  "passed": 112,
+  "total": 116,
+  "limits": "Checks required source-window retrieval only, not answer generation, semantic correctness or blind paraphrases. Untimed short episodes often fit most/all source context; this can make coverage easy. No required evidence was dropped and failures remain unresolved.",
+  "results": [
+    {
+      "collection": "batches/003",
+      "passed": 13,
+      "total": 13,
+      "failures": []
+    },
+    {
+      "collection": "batches/004",
+      "passed": 14,
+      "total": 14,
+      "failures": []
+    },
+    {
+      "collection": "batches/005",
+      "passed": 17,
+      "total": 17,
+      "failures": []
+    },
+    {
+      "collection": "batches/006",
+      "passed": 16,
+      "total": 16,
+      "failures": []
+    },
+    {
+      "collection": "batches/007",
+      "passed": 16,
+      "total": 17,
+      "failures": [
+        {
+          "id": "cq080-task-rank",
+          "question": "Which games receive the most meaningful discussion?",
+          "missing_windows": [
+            "Paragraph 12",
+            "Paragraph 13",
+            "Paragraph 22",
+            "Paragraph 28",
+            "Paragraph 38",
+            "Paragraph 40",
+            "Paragraph 7"
+          ]
+        }
+      ]
+    },
+    {
+      "collection": "batches/008",
+      "passed": 19,
+      "total": 20,
+      "failures": [
+        {
+          "id": "batch008-cq014-guest-origin",
+          "question": "How did Steven's collecting become a store?",
+          "missing_windows": [
+            "Paragraph 10",
+            "Paragraph 11",
+            "Paragraph 8",
+            "Paragraph 9"
+          ]
+        }
+      ]
+    },
+    {
+      "collection": "batches/009",
+      "passed": 17,
+      "total": 19,
+      "failures": [
+        {
+          "id": "batch009-cq015-openloops",
+          "question": "What useful follow-ups are still unanswered here?",
+          "missing_windows": [
+            "Paragraph 21"
+          ]
+        },
+        {
+          "id": "cq082-task-organizing",
+          "question": "What practical work does Steve say makes the convention possible?",
+          "missing_windows": [
+            "Paragraph 40"
+          ]
+        }
+      ]
+    }
+  ]
+}

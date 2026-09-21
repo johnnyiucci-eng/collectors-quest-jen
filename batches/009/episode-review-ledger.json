@@ -1,0 +1,220 @@
+{
+  "review_binding": {
+    "version": "cq-review-binding-1",
+    "sha256": "00b5119d5c4a909d116cd8d2c4f307ae94859786b74c26a957a4a589d835a004",
+    "reviewed_utc": "2026-09-13 11:15:39 UTC",
+    "meaning": "Exact reviewed local inputs; not independent semantic, audio or live certification"
+  },
+  "schema_version": "1",
+  "required_for": "A1–A8 mandatory for every episode in every batch.",
+  "acceptance_scope": "Captured-text development review only; no audio, external-history or live certification.",
+  "episodes": [
+    {
+      "episode": 15,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All24 source paragraphs read and accounted;51 spans; Faxanadu7/Comix5 and FFIII/Happily3 tie remain coarse paragraph unions.",
+          "evidence": [
+            "batches/009/reviews/015-audit.md",
+            "batches/009/reviews/015-annotations.json"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "25 typed buckets reconciled;four frozen references pass; independent peer21 buckets39 selected pairs all covered. Sealed-item section summary repaired.",
+          "evidence": [
+            "batches/009/reviews/015-audit.md",
+            "batches/009/reviews/015-annotations.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Johnny/Kat only; ambiguous sealed object not forced to entire game or CD.",
+          "evidence": [
+            "batches/009/reviews/015-audit.md",
+            "batches/009/reviews/015-annotations.json"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "38 actions distinguish incoming three-part purchase, missing package pieces, tentative supply, historical completion and future replay.",
+          "evidence": [
+            "batches/009/reviews/015-audit.md",
+            "batches/009/reviews/015-annotations.json"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Nine complete answers independently source-supported; open-loop query repaired to recover P10 without dropping evidence.",
+          "evidence": [
+            "batches/009/reviews/answer-review.json",
+            "batches/009/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Practical brief source-reviewed: game contrast, package completion, replay and unresolved follow-ups; no live delivery claimed.",
+          "evidence": [
+            "batches/009/reviews/015-audit.md"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Persistent local database rebuilt; exact quotes, source maps, literal forms,31/31 answer contexts and6/6 frozen references pass. Shared regression results in verification.",
+          "evidence": [
+            "batches/009/reviews/verification.md",
+            "batches/009/reviews/integration-history.json"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "Full per-episode checks and qualified brief recorded; earlier failures preserved, no unresolved mandatory check. Uncertain identities remain flagged.",
+          "evidence": [
+            "batches/009/reviews/verification.md",
+            "batches/009/reviews/integration-history.json"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 82,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All42 paragraphs read/accounted;58 typed spans; KOFXIV/SamuraiII three supporting paragraphs and third-place ties.",
+          "evidence": [
+            "batches/009/reviews/082-audit.md",
+            "batches/009/reviews/082-annotations.json"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "40 buckets reconciled including initially omitted unresolved oldstock; independent peer frozen5/5 tournament titles, all58 spans checked.",
+          "evidence": [
+            "batches/009/reviews/082-audit.md",
+            "batches/009/reviews/082-annotations.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Johnny interviews Steve Torres; neither Tyler nor Kat participates. Guest reports not external verification.",
+          "evidence": [
+            "batches/009/reviews/082-audit.md",
+            "batches/009/reviews/082-annotations.json"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "27 actions reviewed; owned Pro not limited show model, rental not purchased equipment, future prizes not deliveries.",
+          "evidence": [
+            "batches/009/reviews/082-audit.md",
+            "batches/009/reviews/082-annotations.json"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Ten complete answers source-supported; peer41 grouped material checkpoints and11 actor memberships pass.",
+          "evidence": [
+            "batches/009/reviews/answer-review.json",
+            "batches/009/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Organizer brief desk-reviewed for community/delegation/logistics/pinball; event preview remains historical plan, not achieved outcome.",
+          "evidence": [
+            "batches/009/reviews/082-audit.md"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Persistent local database rebuilt; exact quotes, source maps, literal forms,31/31 answer contexts and6/6 frozen references pass. Shared regression results in verification.",
+          "evidence": [
+            "batches/009/reviews/verification.md",
+            "batches/009/reviews/integration-history.json"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "Full per-episode checks and qualified brief recorded; earlier failures preserved, no unresolved mandatory check. Uncertain identities remain flagged.",
+          "evidence": [
+            "batches/009/reviews/verification.md",
+            "batches/009/reviews/integration-history.json"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 208,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All128 caption windows read/accounted by extractor and coordinator;324 spans; products excluded, coarse195/193second near-tie qualified.",
+          "evidence": [
+            "batches/009/reviews/208-audit.md",
+            "batches/009/reviews/208-annotations.json"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "193 buckets reconciled; missed Stardew game-price return added passing and three short roles downgraded. Two frozen LP references pass without game credit.",
+          "evidence": [
+            "batches/009/reviews/208-audit.md",
+            "batches/009/reviews/208-annotations.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Tyler/Johnny roster, Carly household and Ada co-subject retained; Michael development project not attributed to Tyler.",
+          "evidence": [
+            "batches/009/reviews/208-audit.md",
+            "batches/009/reviews/208-annotations.json"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "77 actions distinguish gift suggestions, owned Switch/wantedPC, unused development kit, actual card receipt and fabricated DLC.",
+          "evidence": [
+            "batches/009/reviews/208-audit.md",
+            "batches/009/reviews/208-annotations.json"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Twelve complete answers independently source-supported;41 unique required checkpoints read, hardware/gift query repairs retain all evidence.",
+          "evidence": [
+            "batches/009/reviews/answer-review.json",
+            "batches/009/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Brief reviewed for family-facing versus specialist gifts, qualified variant/insert claims, correction safety and editorial questions; no live rehearsal.",
+          "evidence": [
+            "batches/009/reviews/208-audit.md"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Persistent local database rebuilt; exact quotes, source maps, literal forms,31/31 answer contexts and6/6 frozen references pass. Shared regression results in verification.",
+          "evidence": [
+            "batches/009/reviews/verification.md",
+            "batches/009/reviews/integration-history.json"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "Full per-episode checks and qualified brief recorded; earlier failures preserved, no unresolved mandatory check. Uncertain identities remain flagged.",
+          "evidence": [
+            "batches/009/reviews/verification.md",
+            "batches/009/reviews/integration-history.json"
+          ]
+        }
+      }
+    }
+  ]
+}

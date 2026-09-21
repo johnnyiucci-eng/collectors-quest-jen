@@ -1,0 +1,292 @@
+{
+  "schema_version": "1",
+  "status": "compared_after_repairs",
+  "frozen_utc": "2026-09-14 04:26:00 UTC",
+  "selection_rule": "Zero-based floor(N/4),floor(N/2),floor(3N/4); primary and neighbors read before extraction comparison. Before seeing extraction records, after full source read, added four purposive dense-reference/correction windows63/81/90/94; report strata separately, not random recall.",
+  "reference_scope": "Specific named games/series/editions/media references; generic hardware, unnamed sets and genre portmanteaus excluded from this bounded sample, not full mapping.",
+  "limits": "Local source-first sample, not statistical recall or audio verification.",
+  "windows": [
+    {
+      "batch": "019",
+      "episode": 218,
+      "source_key": "sc-1478090170",
+      "source_window_count": 107,
+      "index": 26,
+      "location": "00:27:37",
+      "text": "\nare even cheap like if I wanted to go after movie ticket games Johnny they're like 15 bucks each even with the ticket it just takes some work to find them it's very attainable but it's the busy work it's just like something I see and like my brain's like I could do that cuz they're only $15 game let me go get every movie ticket game yes absolutely hundreds of dollars of things and dozens of things on the notion of that's cool and that's pretty obtainable and then it's just like a side quest that would be something to do and then when I'm done with it they're going to sit in a box and I'm going to find the next cool thing to do and there's no end to that thinking I will I will tell you a secret being cool and obtainable is the bane of all collecting oh uh that's true I and Johnny you know what that's a problem for that is a problem for hobbies that don't really have defined limits let me go back to our first point that we skipped here yeah but when you\n\n",
+      "references": [],
+      "stratum": "quarter_positions"
+    },
+    {
+      "batch": "019",
+      "episode": 218,
+      "source_key": "sc-1478090170",
+      "source_window_count": 107,
+      "index": 53,
+      "location": "00:56:12",
+      "text": "\nsays they're going to do [ __ ] playing your games Johnny imagine that like actually playing your game collection and like we're we're definitely not uh play your games or else what do you do in owning them type of podcast here we understand the joy that comes from just collecting them but there is some portion of your collection that you want to get around to playing and it is 100 times easier to go on eBay and start looking up some Nintendo games that you want and don't have yet than it is to like sit down and be like oh all right let's get let's start playing Chrono Trigger a game I know is going to take me 30 hours um I mean it's it's kind of the it's like Tik Tock it's it's like go going and shopping for Nintendo games is something you could do in 20 seconds whereas sitting down and playing a video game especially you know an RPG an action adventure game like most video games takes some a dozen hours or more it's a much bigger commitment it's much harder to sit down and do so again the AC of shopping will get in the way of actually enjoying video games I\n\n",
+      "references": [
+        {
+          "id": "cq218-sample-53-1",
+          "title": "Chrono Trigger",
+          "quote": "Chrono Trigger",
+          "reviewed_game_ids": [
+            "cq218-g049"
+          ],
+          "comparison_status": "mapped"
+        }
+      ],
+      "stratum": "quarter_positions"
+    },
+    {
+      "batch": "019",
+      "episode": 218,
+      "source_key": "sc-1478090170",
+      "source_window_count": 107,
+      "index": 80,
+      "location": "01:25:07",
+      "text": "\nwe we're the dunnest we're never we're the dunnest I feel like I'm never going to be done Johnny no see what I did there thanks for um okay um now we should go to the collector's question I heard no uh tiger wolf says I heard no clip refer to tunic as a Metroid brainia how do you feel about this I believe I heard the term Metroid brainia cuz tunic is a it's a platform Adventure puzzle game Metroid brainia possibly the worst genre name of all time I understand having a quip about that in a review but man using that term with any degree of seriousness is just the worst thing I've ever heard so here is what I'm going to say about calling anything a Metroid Vania or brainia do not use a a a word that has no contextual meaning for people when\n\n",
+      "references": [
+        {
+          "id": "cq218-sample-80-1",
+          "title": "Tunic",
+          "quote": "tunic",
+          "reviewed_game_ids": [
+            "cq218-g069"
+          ],
+          "comparison_status": "mapped"
+        }
+      ],
+      "stratum": "quarter_positions"
+    },
+    {
+      "batch": "019",
+      "episode": 218,
+      "source_key": "sc-1478090170",
+      "source_window_count": 107,
+      "index": 63,
+      "location": "01:06:54",
+      "text": "\ndo like I look at this top top shelf of NES stuff that's right next to me I've got all my nice like Super Mario 3 Contra Mario 2 Punch Out Metroid all the Castlevania games like multiple variants of all of those like that [ __ ] rules I love having those but probably I don't like the way I just looked at it right now didn't feel as good as like when I got my first Castlevania hang Tab and was like opening up like [ __ ] yeah Castlevania hang tab I've I need this high five is the answer being one of those guys that like constantly Cycles everything and just like sells off stuff and buys new stuff cuz then I'd get a a much bigger cycle of constantly getting stuff but if I become that guy then it becomes the thing of the hobby is really all the acquisition is so constant that like my hobby is it has to 100% be based on Acquisitions and then I'd have no time for like setting up websites for documenting stuff for this podcast which I somehow have time for on top of all this you know making YouTube videos whatever whatever else you do to engage with the hobby other than buying stuff well I I think that's important\n\n",
+      "stratum": "purposive_dense_reference_and_correction_windows",
+      "references": [
+        {
+          "id": "cq218-supplement-63-1",
+          "title": "Super Mario Bros. 3",
+          "quote": "Super Mario 3",
+          "reviewed_game_ids": [
+            "cq218-g032"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq218-supplement-63-2",
+          "title": "Contra",
+          "quote": "Contra",
+          "reviewed_game_ids": [
+            "cq218-g052"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq218-supplement-63-3",
+          "title": "Super Mario Bros. 2",
+          "quote": "Mario 2",
+          "reviewed_game_ids": [
+            "cq218-g053"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq218-supplement-63-4",
+          "title": "Punch-Out title",
+          "quote": "Punch Out",
+          "reviewed_game_ids": [
+            "cq218-g054"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq218-supplement-63-5",
+          "title": "Metroid",
+          "quote": "Metroid",
+          "reviewed_game_ids": [
+            "cq218-g055"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq218-supplement-63-6",
+          "title": "NES Castlevania games group",
+          "quote": "all the Castlevania games",
+          "reviewed_game_ids": [
+            "cq218-g056"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq218-supplement-63-7",
+          "title": "Castlevania hang-tab copy",
+          "quote": "Castlevania hang Tab",
+          "reviewed_game_ids": [
+            "cq218-g057"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "019",
+      "episode": 218,
+      "source_key": "sc-1478090170",
+      "source_window_count": 107,
+      "index": 81,
+      "location": "01:26:07",
+      "text": "\nwriting a review of it like oh it's an action platformer okay that tells me something I may not know what a Metroid Vania is I may not have parsed that I may read and pronounce that word wrong like just you know or if you're not in the hobby maybe you've never heard that like it just it's so inside baseball I don't I don't like it Johnny I uh specifically to Metroid brainia gross yeah it's the worst I actually I Googled it to see if anyone is actually using it there is a unpopular but still extant video Metroid brainia the evolution of a genre and is talking about Return of the oberin and outer Wilds man I hate it I hate a triple pmto that that requires knowledge of two very similar games in Super Metroid and Symphony of the Night plus adding the word brain that is we need better genre classification I mean it's fine to to use it as a quip but there's no we cannot call a genre Metroid brainia and get souls likee out of here someone fix\n\n",
+      "stratum": "purposive_dense_reference_and_correction_windows",
+      "references": [
+        {
+          "id": "cq218-supplement-81-1",
+          "title": "Return of the Obra Dinn candidate",
+          "quote": "Return of the oberin",
+          "reviewed_game_ids": [
+            "cq218-g070"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq218-supplement-81-2",
+          "title": "Outer Wilds",
+          "quote": "outer Wilds",
+          "reviewed_game_ids": [
+            "cq218-g071"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq218-supplement-81-3",
+          "title": "Super Metroid",
+          "quote": "Super Metroid",
+          "reviewed_game_ids": [
+            "cq218-g013"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq218-supplement-81-4",
+          "title": "Castlevania: Symphony of the Night",
+          "quote": "Symphony of the Night",
+          "reviewed_game_ids": [
+            "cq218-g072"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq218-supplement-81-5",
+          "title": "Metroidbrainia evolution video",
+          "quote": "Metroid brainia the evolution of a genre",
+          "reviewed_game_ids": [
+            "cq218-g123"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "019",
+      "episode": 218,
+      "source_key": "sc-1478090170",
+      "source_window_count": 107,
+      "index": 90,
+      "location": "01:35:42",
+      "text": "\nimagine could they they couldn't feasibly say oh this is going to be done in a few years and this game would be better because of it like they're just like oh I played this it was fun like they people like it's not just that the game is locked in its time period it's that the people who enjoyed it are also in that time period their context is the same as the games okay I mean that's true I guess I don't in terms of like whether I judge a game on its strict merits in the moment right now or I judge it in context of its time I guess I don't really do either of those it's kind of more of a a mix for me cuz there are plenty of games like if I'm looking at a a mega Mania on Atari just like a random shooter in terms of Atari like first of all it's a fun game it's it's a straightup fun shooter obviously it's not as fun as Space Invaders extreme or whatever similar game has like a billion more levels and effects but in context of Atari it's a lot more fun than most standard Space Invaders type Atari Shooters so like mixing those two like I'd say like yeah Mega Media is a pretty great game because for the time it's\n\n",
+      "stratum": "purposive_dense_reference_and_correction_windows",
+      "references": [
+        {
+          "id": "cq218-supplement-90-1",
+          "title": "Megamania",
+          "quote": "mega Mania",
+          "reviewed_game_ids": [
+            "cq218-g084"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq218-supplement-90-2",
+          "title": "Space Invaders Extreme",
+          "quote": "Space Invaders extreme",
+          "reviewed_game_ids": [
+            "cq218-g085"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq218-supplement-90-3",
+          "title": "Space Invaders family/type",
+          "quote": "Space Invaders type",
+          "reviewed_game_ids": [
+            "cq218-g086"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    },
+    {
+      "batch": "019",
+      "episode": 218,
+      "source_key": "sc-1478090170",
+      "source_window_count": 107,
+      "index": 94,
+      "location": "01:39:56",
+      "text": "\nright yeah I may not have even looked at the back for more than just scanning it I mean I understand but it says Castlevania you got to own it it gives you that Doe not Castlevania Contra Contra I say I met Contra same thing I uh I very I was very restrained and did not buy those even though I love Castlevania and I love Contra Johnny but I know that's why I bought them because I'm stupid they got you you gotta not let them get you they're they're getting you I'm easy to get like you're so easy to get yeah oh hey kid you like candy I sure do that's what it's like like what what do you want I'm easy to get yeah I I'm very getable like oh we made this final fantasy collection do you want it yes I mean I mean all right I am I'm not very getable right now but it is the first final fantasy collection of 1 through six that they've ever made got you [ __ ] that's pretty good they've made all these [ __ ] remakes and they never\n\n",
+      "stratum": "purposive_dense_reference_and_correction_windows",
+      "references": [
+        {
+          "id": "cq218-supplement-94-1",
+          "title": "Castlevania anniversary collection (retracted arrival)",
+          "quote": "not Castlevania",
+          "reviewed_game_ids": [
+            "cq218-g095"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq218-supplement-94-2",
+          "title": "Contra anniversary collection (corrected arrival)",
+          "quote": "Contra Contra",
+          "reviewed_game_ids": [
+            "cq218-g096"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq218-supplement-94-3",
+          "title": "Castlevania franchise affection",
+          "quote": "love Castlevania",
+          "reviewed_game_ids": [
+            "cq218-g022"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq218-supplement-94-4",
+          "title": "Contra franchise affection",
+          "quote": "love Contra",
+          "reviewed_game_ids": [
+            "cq218-g124"
+          ],
+          "comparison_status": "mapped"
+        },
+        {
+          "id": "cq218-supplement-94-5",
+          "title": "Final Fantasy I–VI collection",
+          "quote": "first final fantasy collection of 1 through six",
+          "reviewed_game_ids": [
+            "cq218-g097"
+          ],
+          "comparison_status": "mapped"
+        }
+      ]
+    }
+  ],
+  "supplement_frozen_utc": "2026-09-14 04:30:46 UTC"
+}

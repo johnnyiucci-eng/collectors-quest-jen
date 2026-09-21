@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.1",
+  "created": "2026-09-14",
+  "status": "captured_text_review_complete",
+  "selection_basis": "User-selected CQ102, followed by CQ130 in separate collection per work-size discipline.",
+  "budget": "Local public transcript; no paid calls, publication, private history or persona changes.",
+  "duplicate_controls": [],
+  "episodes": [
+    {
+      "key": "sc-511661571",
+      "episode_number": 102,
+      "title": "Episode 102 - So You Want To Collect Halloween Games #1",
+      "date": "2018-10-09",
+      "path": "episodes/cq-102-sc-511661571.md",
+      "source_url": "https://soundcloud.com/collectors-quest/episode-102-11-collectible-halloween-games-you-should-know-about",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "words": 12604,
+      "sha256": "cd2268a3d57e5a50ba9ece27c577348343dfd66010e70573883475513067b6f0",
+      "reason": "User selected Halloween episodes102 and130; sequential singleton collections.",
+      "status": "selected_not_processed",
+      "record_path": "records/sc-511661571.json"
+    }
+  ]
+}

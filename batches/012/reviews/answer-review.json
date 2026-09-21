@@ -1,0 +1,1010 @@
+{
+  "schema_version": "1",
+  "reviewer": "Root coordinator: independent full-source and actual-prose review",
+  "scope": "All265 supplied windows and48 actual composed answers read; individual reasons and exact snapshots below. Captured-text development review, not audio/live certification.",
+  "cases": [
+    {
+      "id": "cq018-task-expo",
+      "episode": 18,
+      "question": "Did Johnny actually attend the expo this time, and did Kat go too?",
+      "query": "SoCal Expo listeners booth pictures both",
+      "answer": "Johnny reports attending the SoCal Retro Gaming Expo, meeting listeners and enjoying its organization and energy. Kat says she saw pictures and hopes they can both attend another event; she does not report attending this one. The visit is an actual outcome here, not merely his earlier plan.",
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3"
+      ],
+      "forbidden": [
+        "Kat attended",
+        "Visit only planned"
+      ],
+      "status": "passed",
+      "reason": "P1–4 distinguish Johnny's actual expo attendance from Kat seeing pictures and hoping for a later trip."
+    },
+    {
+      "id": "cq018-task-pickups",
+      "episode": 18,
+      "question": "What came home from the expo, and what was uncertain about the Gargoyle game?",
+      "query": "Game Boy Color Gargoyles Nintendo powers Nick mint",
+      "answer": "Johnny reports about five or six SNES games, many Game Boy Color items, a Game Boy item captioned Gargoyles 2, and about a hundred Nintendo Power magazines from Nick/VGDB. The surrounding Ghosts/Gargoyles family names and the precise sequel identity are garbled, so this does not prove that every named family game was purchased. Kat separately got loose Game Boy carts and still wants boxes.",
+      "evidence_locations": [
+        "Paragraph 3",
+        "Paragraph 4"
+      ],
+      "forbidden": [
+        "All series games purchased",
+        "Exact sequel platform authenticated",
+        "Magazines100paidprice"
+      ],
+      "status": "passed",
+      "reason": "P3–5 support broad purchases and magazine receipt, but not every garbled Gargoyle-family title or boxed completion."
+    },
+    {
+      "id": "cq018-task-costs",
+      "episode": 18,
+      "question": "Why was Kat avoiding US eBay purchases?",
+      "query": "70 96 Canadian import shipping local exchange",
+      "answer": "Kat describes the exchange rate, import charges and shipping making a nominal US-dollar price much higher in Canadian dollars. Her example turns US$70 into about C$96 before further costs. She therefore favors Canadian/local sources and checks stores or markets while traveling. These are dated examples from the episode, not current currency rates or universal import fees.",
+      "evidence_locations": [
+        "Paragraph 6",
+        "Paragraph 7",
+        "Paragraph 8"
+      ],
+      "forbidden": [
+        "Current exchange verified",
+        "Every import same fee"
+      ],
+      "status": "passed",
+      "reason": "P6–8 support dated cross-border cost example and local-source preference, not current fees."
+    },
+    {
+      "id": "cq018-task-history",
+      "episode": 18,
+      "question": "Do their large collections mean they bought everything recently or were rich?",
+      "query": "rich decade six years chrono trigger twenty",
+      "answer": "Both reject that explanation. Johnny describes collecting since roughly the mid-2000s, about a decade, while Kat says she is approaching six years. They discuss household circumstances and earlier cheap purchases, including Johnny's reported complete Chrono Trigger for about $20. That is self-reported history, not an audited statement of wealth or a current attainable price.",
+      "evidence_locations": [
+        "Paragraph 8",
+        "Paragraph 9",
+        "Paragraph 10",
+        "Paragraph 11"
+      ],
+      "forbidden": [
+        "All bought recently",
+        "Verified household finances",
+        "Current Chrono20"
+      ],
+      "status": "passed",
+      "reason": "P8–11 explain years and household context; source self-reports are not audited wealth."
+    },
+    {
+      "id": "cq018-task-prices",
+      "episode": 18,
+      "question": "Which old purchase prices illustrate why starting now would be different?",
+      "query": "chrono trigger sculptures cut Snatcher fifty ninety 2008 2007",
+      "answer": "Johnny recalls about $20 for complete Chrono Trigger and $90 for boxed Sculptor's Cut. He contrasts a $500 Snatcher listing at the expo with his own complete copy bought for about $50, but gives both 2008 and 2007 in the recollection. Those figures illustrate his past experience; they do not establish a new $500 purchase, a precise purchase year or an exact investment return.",
+      "evidence_locations": [
+        "Paragraph 11",
+        "Paragraph 13",
+        "Paragraph 14"
+      ],
+      "forbidden": [
+        "Bought Snatcher500",
+        "Exact2008",
+        "Verified current values"
+      ],
+      "status": "passed",
+      "reason": "P11/P13–14 preserve historical prices and competing Snatcher years; the expo listing is not his purchase."
+    },
+    {
+      "id": "cq018-task-sales",
+      "episode": 18,
+      "question": "Did they sell their whole collections after saying everything has a price?",
+      "query": "everything for sale price market value not looking collection",
+      "answer": "No whole-collection sale is established. Both consider what an attractive offer could mean, and Johnny says he is not currently looking to do it. He argues that selling the objects would not erase the enjoyment or community accumulated while collecting. His imagined wealthy buyer and invitation to message him remain hypothetical, unlike the actual doubles sold at the expo.",
+      "evidence_locations": [
+        "Paragraph 5",
+        "Paragraph 19",
+        "Paragraph 20",
+        "Paragraph 21",
+        "Paragraph 22"
+      ],
+      "forbidden": [
+        "Collection already sold",
+        "Binding offer accepted"
+      ],
+      "status": "passed",
+      "reason": "P19–24 support willingness and memory/community argument; no whole-sale outcome."
+    },
+    {
+      "id": "cq018-task-magic",
+      "episode": 18,
+      "question": "What did Johnny do with the money from his Magic cards?",
+      "query": "magic gathering eight nine thousand Disney panic restaurant little Samson",
+      "answer": "He reports selling his physical Magic: The Gathering collection for roughly $8,000–$9,000. The proceeds helped fund a Disney World trip with his wife and NES purchases including Panic Restaurant and Little Samson. He says the cards later became worth more but does not regret what the sale enabled. No exact profit, individual game prices or verified later card valuation is supplied.",
+      "evidence_locations": [
+        "Paragraph 25",
+        "Paragraph 26"
+      ],
+      "forbidden": [
+        "Video game Magic sale",
+        "Exact net profit",
+        "Entire proceeds onlygames"
+      ],
+      "status": "passed",
+      "reason": "P25–26 support physical-card sale range, trip and two NES purchases without exact profit."
+    },
+    {
+      "id": "cq018-task-lottery",
+      "episode": 18,
+      "question": "Which complete sets would Johnny buy if he won the lottery?",
+      "query": "lottery Super Nintendo Game Boy Color Advance Genesis goals",
+      "answer": "He says he would finish Super Nintendo immediately. Buying a whole Game Boy Color set, or additional Game Boy and Game Boy Advance sets, is conditional on availability and a goal of completing numbers. Genesis is his counterexample: when learning the library was the purpose, he would not have skipped that process by bulk-buying a set. These are hypothetical platform choices, not current orders or a ranked list of recommended video games.",
+      "evidence_locations": [
+        "Paragraph 28",
+        "Paragraph 29",
+        "Paragraph 30"
+      ],
+      "forbidden": [
+        "Already bought sets",
+        "Genesis rejected as bad",
+        "GBC definite ordered"
+      ],
+      "status": "passed",
+      "reason": "P28–30 distinguish hypothetical SNES completion and handheld possibilities from Genesis learning purpose."
+    },
+    {
+      "id": "cq018-task-sealed",
+      "episode": 18,
+      "question": "Would lottery money make them sealed-game collectors or force Stadium Events into the set?",
+      "query": "millionaire sealed graded framed stadium events box",
+      "answer": "No. Both say sealed collecting is not their general goal even with much more money. Johnny allows that a few personally meaningful items might be graded or framed, but values access to opened games. In the separate NES discussion, they accept being without Stadium Events and mention only a cannot-lose-price exception. Neither statement records a sealed purchase or an acquired Stadium Events copy.",
+      "evidence_locations": [
+        "Paragraph 30",
+        "Paragraph 31",
+        "Paragraph 32"
+      ],
+      "forbidden": [
+        "No graded item ever",
+        "Stadium bought",
+        "Sealed set goal"
+      ],
+      "status": "passed",
+      "reason": "P30–32 support general sealed rejection with personal exceptions and conditional Stadium interest."
+    },
+    {
+      "id": "cq018-task-katplay",
+      "episode": 18,
+      "question": "What is Kat playing, and has she finally bought Paper Jam?",
+      "query": "sticker star 3ds paper jam still pick up mobility",
+      "answer": "Kat is replaying Sticker Star on 3DS because portable play fits her limited time. She still needs to pick up Paper Jam and says she is behind on doing so. Hearing that others enjoy Paper Jam is not her own play review, purchase or completed run.",
+      "evidence_locations": [
+        "Paragraph 34"
+      ],
+      "forbidden": [
+        "Paper Jam bought",
+        "Paper Jam played"
+      ],
+      "status": "passed",
+      "reason": "P34 gives Kat actual Sticker replay versus Paper Jam still wanted."
+    },
+    {
+      "id": "cq018-task-castlevania",
+      "episode": 18,
+      "question": "Why is Johnny downloading Castlevania when he owns the cartridges?",
+      "query": "circle moon harmony distance Wii U carts big TV",
+      "answer": "He names Circle of the Moon and the captioned Harmony of Distance, interpreted as Harmony of Dissonance, as Wii U downloads he is playing despite owning the cartridges. He prefers the big television and enjoys revisiting GBA games that way. This is not evidence that he sold the cartridges, played them on original hardware during this session or completed both games.",
+      "evidence_locations": [
+        "Paragraph 34",
+        "Paragraph 35",
+        "Paragraph 36"
+      ],
+      "forbidden": [
+        "Carts sold",
+        "Both completed",
+        "Originalhardware session"
+      ],
+      "status": "passed",
+      "reason": "P34 gives Johnny Wii U downloads alongside owned GBA carts, no completed run."
+    },
+    {
+      "id": "cq018-task-onechanbara",
+      "episode": 18,
+      "question": "Which Onechanbara did Johnny play, and was his wife playing too?",
+      "query": "Oni Chanbara wife watching third entry portmanteau guessing",
+      "answer": "The exact release and platform are not securely identified. Johnny says he picked it up the day before on a friend's recommendation and played a little with his wife watching. He found it unusual, with some entertaining moments, and thinks it may be a third entry. The Xbox 360, PS4 and Wii references describe the series' releases, not three purchases. His pronunciation and name-origin explanation are expressly guesses, and watching is not co-op play.",
+      "evidence_locations": [
+        "Paragraph 35",
+        "Paragraph 36",
+        "Paragraph 37"
+      ],
+      "forbidden": [
+        "Wife co-player",
+        "Exact third release verified",
+        "Bought allthree",
+        "Name meaning verified"
+      ],
+      "status": "passed",
+      "reason": "P35–37 leave Onechanbara title/platform and etymology uncertain; wife watches rather than plays."
+    },
+    {
+      "id": "cq085-task-roster",
+      "episode": 85,
+      "question": "Was Kat there, and were DropMix or Amazon actually sponsoring the episode?",
+      "query": "Kat absent renovations DropMix Amazon sponsors not sponsors Tyler Johnny Jen correction",
+      "answer": "Johnny and Tyler are the two participants. Kat is absent because renovation noise would interfere, with a possible return next week. DropMix and Amazon Prime pitches are explicitly jokes about sponsors who are not sponsors; Tyler's own Prime subscription is a separate personal claim. The closing 'Jen' identity riff is also explicitly retracted, not a new participant or persona.",
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 3",
+        "Paragraph 4",
+        "Paragraph 5",
+        "Paragraph 50",
+        "Paragraph 51"
+      ],
+      "forbidden": [
+        "Kat speaks",
+        "paid sponsor",
+        "new identity imported"
+      ],
+      "status": "passed",
+      "reason": "P1–4/P50–51 establish roster and explicitly mock/retracted sponsor/identity material."
+    },
+    {
+      "id": "cq085-task-rank",
+      "episode": 85,
+      "question": "Which games had the most discussion, rather than which ones did they recommend?",
+      "query": "Breath Wild Zelda Legend Kay ZombiU discussion coverage port candidates Nintendo Switch",
+      "answer": "By the reviewed untimed paragraph map, Breath of the Wild, Legend of Kay and ZombiU each have three meaningful supporting windows and share the highest coverage count. These are repeated port/collection comparisons, not three long gameplay reviews or recommendations. New Super Mario Bros. U has two substantial windows, so it has deeper focused discussion despite lower coverage. Hardware, compilations, hypothetical Switch products and the DropMix card hybrid are excluded; the numbers are paragraph unions, not minutes.",
+      "evidence_locations": [
+        "Paragraph 11",
+        "Paragraph 13",
+        "Paragraph 14",
+        "Paragraph 19",
+        "Paragraph 20",
+        "Paragraph 25",
+        "Paragraph 27",
+        "Paragraph 29",
+        "Paragraph 34",
+        "Paragraph 35",
+        "Paragraph 36"
+      ],
+      "forbidden": [
+        "top personal favorites",
+        "all three long reviews",
+        "hardware counts asgames"
+      ],
+      "status": "passed",
+      "reason": "Independent database check confirms BOTW/Kay/ZombiU3 supporting paragraphs each and NSMBU2 substantial; coverage is not preference."
+    },
+    {
+      "id": "cq085-task-remaining",
+      "episode": 85,
+      "question": "Which five Wii U games did Tyler think might remain exclusive, and was he certain?",
+      "query": "five exclusive Xenoblade1 Tokyo Mirage Paper Mario Zombie Fatal Frame NintendoLand could port forever",
+      "answer": "Tyler's initial five are the game transcribed as 'Xenoblade 1,' Tokyo Mirage Sessions FE, the Wii U Paper Mario, ZombiU and Fatal Frame, later named Maiden of Blackwater. The exact Xenoblade and Paper Mario identities should not be silently filled in from the console context. This is a February 2018 candidate list, not a current exclusivity list: he immediately admits some could be ported, and the later discussion says all might come over. Nintendo Land is a separate proposed alternative, not one of those initial five.",
+      "evidence_locations": [
+        "Paragraph 25",
+        "Paragraph 26",
+        "Paragraph 28"
+      ],
+      "forbidden": [
+        "XenobladeX certain",
+        "exclusiveforever verified",
+        "NintendoLand initialfive"
+      ],
+      "status": "passed",
+      "reason": "P25–28 preserve exact initial five, unresolved names, immediate port qualifications and separate Nintendo Land alternative."
+    },
+    {
+      "id": "cq085-task-collections",
+      "episode": 85,
+      "question": "What got corrected about Bayonetta, and was Revelations just the same Wii U game?",
+      "query": "Bayonetta Climax one two not three Japan bigbox America ResidentEvil Revelations collection",
+      "answer": "The Bayonetta collection is corrected from one, two and three to one and two; Bayonetta 3 is discussed as a future game, not included content. The big special box is qualified as Japanese/special-edition packaging, while the US version is described as a normal Switch case. Resident Evil Revelations Collection adds Revelations 2 alongside the first game. Their uncertain platform recollections and lack of play should not be turned into verified catalog history or a played review.",
+      "evidence_locations": [
+        "Paragraph 17",
+        "Paragraph 18",
+        "Paragraph 19"
+      ],
+      "forbidden": [
+        "Bayonetta3included",
+        "USbigboxcertain",
+        "bothhostsplayedRevelations"
+      ],
+      "status": "passed",
+      "reason": "P17–18 distinguish Bayonetta1/2 from future3, packaging regions and RE collection components without confident play actors."
+    },
+    {
+      "id": "cq085-task-ports",
+      "episode": 85,
+      "question": "Were all the Switch games they named really ports of old Wii U games?",
+      "query": "transition BreathWild JustDance2017 2018 Cars3 Splatoon2 MarioTennisAces ShovelKnight deBlob ports",
+      "answer": "No. They distinguish later ports from simultaneous transition releases: Breath of the Wild, Just Dance 2017, Just Dance 2018 and Cars 3. Splatoon 2 and the anticipated Mario Tennis Aces are sequel/replacement examples, not literal ports. The indie section has physical/digital and platform uncertainty, including a correction confirming physical Shovel Knight on Wii U. de Blob is identified as an original-Wii example, and a two-game bundle is only questioned or suggested. The episode's mixed list must not become one uniform completed Switch-port event.",
+      "evidence_locations": [
+        "Paragraph 19",
+        "Paragraph 20",
+        "Paragraph 21",
+        "Paragraph 22",
+        "Paragraph 23",
+        "Paragraph 24"
+      ],
+      "forbidden": [
+        "all namedgames WiiUports",
+        "confirmed deBlob1and2bundle",
+        "all releasedalready"
+      ],
+      "status": "passed",
+      "reason": "P19–24 distinguish transition, sequel, port and hypothetical bundle states and physical Shovel Knight correction."
+    },
+    {
+      "id": "cq085-task-return",
+      "episode": 85,
+      "question": "Did either host return 1-2-Switch, and did that mean neither had played it?",
+      "query": "1.2 Switch did not return totally did got MarioKart unopened friends version purchased knew terrible",
+      "answer": "The contextual exchange contrasts Tyler regretting that he did not return his purchase with Johnny saying he did return his unopened copy and got Mario Kart. Johnny also describes playing friends' version, so returning his own unopened copy does not mean no play. A later wish for an approximately $10 replacement is not another acquisition. The dialogue is unlabelled, so those actor assignments are contextual rather than audio-verified; Kat is absent.",
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 27",
+        "Paragraph 28"
+      ],
+      "forbidden": [
+        "Katreturnedhere",
+        "bothreturned",
+        "neitherplayed",
+        "cheapcopyalreadybought"
+      ],
+      "status": "passed",
+      "reason": "P27–28 support contextual kept-versus-returned actors; friend-copy play and unopened return coexist."
+    },
+    {
+      "id": "cq085-task-newmario",
+      "episode": 85,
+      "question": "Did they announce a New Super Mario Switch game for 2019?",
+      "query": "New Super Mario Brothers U name SwitchEdition2019 newworld Luigi Peach Toad prediction",
+      "answer": "No. They speculate about moving New Super Mario Bros. U to Switch and joke about an announcement for 2019. Tyler loves the Wii U game but doubts the port; Johnny thinks changing the name and adding content could work. Luigi content and Peach/Toad suggestions are hypothetical. Tyler's willingness to buy again if new material were added is not a placed order, and the conversation is not evidence of an official release announcement or its eventual contents.",
+      "evidence_locations": [
+        "Paragraph 35",
+        "Paragraph 36"
+      ],
+      "forbidden": [
+        "official2019announcement",
+        "actualtwoorders",
+        "latereditioncontentsverified"
+      ],
+      "status": "passed",
+      "reason": "P35–36 support differing NSMBU predictions and invented 2019/new-content possibilities, not announcement."
+    },
+    {
+      "id": "cq085-task-maker",
+      "episode": 85,
+      "question": "What did they want to see on Switch, and which ideas were only inventions?",
+      "query": "MarioMaker Pikmin3 Smash CaptainToad KirbyYarn YoshiWoolly RainbowCurse GameWario ZeldaMaker",
+      "answer": "Their prospective discussion includes Mario Maker, Pikmin 3, Smash Bros., Captain Toad, Kirby's Epic Yarn, Yoshi's Woolly World and Kirby's Rainbow Curse, while Game & Wario is doubted. It mixes hopes and predictions rather than a unanimous certainty list. Mario Maker's two-screen interface is an acknowledged obstacle. Zelda Maker and a numbered 1-2-Switch sequel are invented ideas, not announced products. The Kirby discussion corrects the Wii U Rainbow Curse versus DS Canvas Curse confusion; not every example is a Wii U original.",
+      "evidence_locations": [
+        "Paragraph 29",
+        "Paragraph 30",
+        "Paragraph 31",
+        "Paragraph 33",
+        "Paragraph 34"
+      ],
+      "forbidden": [
+        "jointcertainportlist",
+        "allWiiUoriginals",
+        "ZeldaMakerordered"
+      ],
+      "status": "passed",
+      "reason": "P29–34 preserve mixed hopes, interface objections, imaginary sequels and Rainbow/Canvas correction."
+    },
+    {
+      "id": "cq085-task-counterfeit",
+      "episode": 85,
+      "question": "How did Tyler finish the Game Boy set again, and did he sell the fake?",
+      "query": "Toxic Crusaders GameBoy variant RPGcollector board Germany bootleg legitimate keep did not sell",
+      "answer": "Tyler says his apparent Toxic Crusaders label variant proved to be a bootleg after RPG Collector suggested checking the board. He bought a legitimate replacement and again considered his cart-only Game Boy set complete. He explicitly denies selling the fake as a rare variant and says he will keep it. The suspected German origin is not verified provenance, and the other collector's complete-in-box Game Boy/Game Boy Color sets are not Tyler's claimed set.",
+      "evidence_locations": [
+        "Paragraph 38",
+        "Paragraph 39",
+        "Paragraph 40"
+      ],
+      "forbidden": [
+        "fake soldfraudulently",
+        "TylerCIBcomplete",
+        "Germanycertain"
+      ],
+      "status": "passed",
+      "reason": "P39–40 support board-check report, legitimate replacement, retained counterfeit and cart-only versus other's CIB sets."
+    },
+    {
+      "id": "cq085-task-purchases",
+      "episode": 85,
+      "question": "Which purchases did Johnny name, and had he played the new Xbox caveman game yet?",
+      "query": "Johnny Bayonetta Marvel Capcom Street Fighter EX Alpha2 Pork caveman ToysRUs Xbox bought playlater",
+      "answer": "Johnny says he bought Bayonetta and intended to play later, plus PlayStation/Xbox fillers including Marvel vs. Capcom, the uncertain 'Street Fighter EX Alpha 2,' and an Xbox caveman game he remembers as something like 'Pork' and a Toys R Us exclusive. The exact Street Fighter and caveman identities remain unresolved. He plans to connect the Xbox and try the latter; neither that intention nor Tyler's teasing proves actual play. The Bayonetta purchase also lacks a secure exact Switch edition.",
+      "evidence_locations": [
+        "Paragraph 37",
+        "Paragraph 38"
+      ],
+      "forbidden": [
+        "precisePorkidentityinvented",
+        "cavemanplayed",
+        "Bayonettaalreadycompleted"
+      ],
+      "status": "passed",
+      "reason": "P37–38 support purchases and future play; uncertain caveman/fighter SKU remains unresolved."
+    },
+    {
+      "id": "cq085-task-pending",
+      "episode": 85,
+      "question": "What was still waiting to be mailed between the hosts?",
+      "query": "dozenXbox address cowlits solitaire box October postoffice five sixmonths",
+      "answer": "Tyler says he has a dozen Xbox games for Johnny and needs his address. Johnny says he has the items transcribed as 'cowlits' and Solitaire boxed for Tyler, still awaiting a post-office trip after being held since October. No dispatch or receipt by the intended recipients is confirmed. The later five-versus-six-month correction is approximate conversation, not a reliable calculated elapsed date, and the raw game editions remain unresolved.",
+      "evidence_locations": [
+        "Paragraph 38",
+        "Paragraph 46"
+      ],
+      "forbidden": [
+        "alreadydelivered",
+        "exactmonthdurationverified",
+        "cowlitsresolved"
+      ],
+      "status": "passed",
+      "reason": "P38/P46 retain gifts held for transfer and approximate timing, not shipment."
+    },
+    {
+      "id": "cq085-task-neutopia",
+      "episode": 85,
+      "question": "What was Tyler playing, and did he decide to play the sequel next?",
+      "query": "overheadTurboGrafx Newtopia Neutopia2 Bonk Bomberman bomb walls Zelda clone",
+      "answer": "The mystery game is Neutopia, not the Bonk or Bomberman guesses. Tyler describes playing it and finds the need to bomb unmarked walls tedious. He postpones Neutopia II after reading that it is very similar, rather than reporting sequel play or committing to play it next. The approximately ten-hour comment does not by itself establish his completed run. The later Skylander-to-Skyrim correction belongs to a joking Zelda-clone aside.",
+      "evidence_locations": [
+        "Paragraph 40",
+        "Paragraph 41",
+        "Paragraph 42"
+      ],
+      "forbidden": [
+        "Bonkcurrent",
+        "NeutopiaIIplayed",
+        "completedfrom10hours"
+      ],
+      "status": "passed",
+      "reason": "P40–42 distinguish current Neutopia, deferredII, guesses and joking title correction."
+    },
+    {
+      "id": "cq085-task-shipping",
+      "episode": 85,
+      "question": "Did buying an amiibo fix the damaged-game shipping problem, and had he returned the replacements?",
+      "query": "GameStop Goomba amiibo separately three copies limit two plan return leastdamaged",
+      "answer": "No. Johnny actually bought a Goomba amiibo hoping it would help force boxed shipping, but it arrived separately. A suggestion to order three copies runs into a two-copy limit, so he plans to try two despite being told that may not work. Returning all bad copies or keeping the least damaged are future options, not completed returns or a proven workaround. His packing/insurance argument is his account and opinion, not current legal or retailer-policy advice.",
+      "evidence_locations": [
+        "Paragraph 43",
+        "Paragraph 45",
+        "Paragraph 46",
+        "Paragraph 48",
+        "Paragraph 49"
+      ],
+      "forbidden": [
+        "amiibofixedshipping",
+        "twoalreadyordered",
+        "allreturned",
+        "legalruleverified"
+      ],
+      "status": "passed",
+      "reason": "P43–49 show failed Goomba tactic and prospective two-copy trial, not completed returns or legal advice."
+    },
+    {
+      "id": "cq085-task-anvil",
+      "episode": 85,
+      "question": "Was the anvil story real, and was NBA 2K the game that got damaged?",
+      "query": "anvil eBay priority packages NBA2K statue GameStop hypothetical",
+      "answer": "Tyler reports buying an anvil on eBay and receiving it by Priority Mail, saying it damaged other packages arriving with it. He uses that experience to illustrate rough shipping. NBA 2K is a hypothetical dismissal of Johnny's complaint, and the broken statue is a packaging analogy—not an identified purchase or the established damaged-game title. The story does not prove an anvil was in the shipment that damaged Johnny's games.",
+      "evidence_locations": [
+        "Paragraph 45",
+        "Paragraph 46",
+        "Paragraph 47"
+      ],
+      "forbidden": [
+        "Johnnyboughtanvil",
+        "NBAactualdamagedtitle",
+        "statuebought",
+        "anvilcausedJohnnyorder"
+      ],
+      "status": "passed",
+      "reason": "P49–50 separate actual anvil from NBA/statue hypothetical and do not connect it causally to Johnny's shipment."
+    },
+    {
+      "id": "cq211-wii-feedback",
+      "episode": 211,
+      "question": "What did they change their minds about after the Wii episode?",
+      "query": "What did they change their minds about after the Wii episode?",
+      "answer": "They acknowledged that they had underplayed the pleasure of cheap in-person hunting and the collecting journey, and gave condition more consideration. Tyler also apologized for his strong dismissal of Wii A Boy and His Blob, now saying he had never played it. That conflicts with CQ210’s little-play statement and should remain a dated correction, not a silently harmonized history. The editorial outro separately relayed MP3’s claim that Wii video output could be improved through a bug fix or later hardware.",
+      "forbidden": [
+        "Do not claim the game was newly played.",
+        "Do not certify hardware fixes from this transcript alone.",
+        "Do not erase the earlier contradictory play statement."
+      ],
+      "evidence_locations": [
+        "00:00:00",
+        "00:01:05",
+        "00:02:12",
+        "00:03:18",
+        "00:04:24",
+        "00:52:37",
+        "00:53:42",
+        "00:54:44",
+        "03:04:08"
+      ],
+      "status": "passed",
+      "reason": "Full opening and 00:52–54 plus outro support feedback, dated play contradiction and attributed MP3 technical explanation."
+    },
+    {
+      "id": "cq211-bg3",
+      "episode": 211,
+      "question": "Why would Tyler love Baldur’s Gate3 but reject its collector’s edition?",
+      "query": "Why would Tyler love Baldur’s Gate3 but reject its collector’s edition?",
+      "answer": "He expected to love the game because of his affection for Divinity: Original Sin2 and the Baldur’s Gate games, but disliked the $300 package: stickers, a generic statue and tabletop tie-ins did not justify it to him. A later contents check established a Steam code, correcting the earlier uncertainty about whether any game was included. That still was not a physical game disc, and he did not buy the edition.",
+      "forbidden": [
+        "Do not say no digital game was included.",
+        "Do not mark purchased.",
+        "Do not treat the separate Diablo merchandise box as BG3 contents."
+      ],
+      "evidence_locations": [
+        "00:15:17",
+        "00:16:23",
+        "00:19:37",
+        "00:20:44",
+        "00:21:46",
+        "00:22:49",
+        "00:23:53",
+        "00:25:00"
+      ],
+      "status": "passed",
+      "reason": "00:15–25 separate game anticipation from rejected merchandise, with Steam-code correction."
+    },
+    {
+      "id": "cq211-market-data",
+      "episode": 211,
+      "question": "Did their charts prove that all game prices crashed in2022?",
+      "query": "Did their charts prove that all game prices crashed in2022?",
+      "answer": "No. They described a downturn from recent peaks, not a return to2019 prices or a collapse across every platform. Cheap PS2/360 averages were steadier, Atari2600 rose in their data, and the abrupt N64 fall looked suspicious enough that they suggested a data problem. NES year-start/end change was much smaller than peak-to-end change. Condition, shipping and unreliable records limit every comparison.",
+      "forbidden": [
+        "Do not present charts as verified ground truth.",
+        "Do not certify a cause for the N64 cliff.",
+        "Do not claim every system fell."
+      ],
+      "evidence_locations": [
+        "00:30:19",
+        "00:31:22",
+        "00:32:28",
+        "00:33:33",
+        "00:34:36",
+        "00:35:41",
+        "00:36:46",
+        "00:37:52",
+        "00:38:53",
+        "00:39:55",
+        "00:40:56"
+      ],
+      "status": "passed",
+      "reason": "00:30–40 differentiate market peak/start/end, platform variation and suspicious chart data; no proven universal crash."
+    },
+    {
+      "id": "cq211-impulse-list",
+      "episode": 211,
+      "question": "Which seven purchases did Tyler identify as low-value distractions?",
+      "query": "Which seven purchases did Tyler identify as low-value distractions?",
+      "answer": "He named the Windows Hydlide remake, MSX Tower of Druaga, a sealed PS1 Final FantasyVII demo, an unresolved PC88 RPG captioned Algard, Field Wars, Japanese Pokémon Box and PC88 Door Door. The quoted prices were63,55,50,70,32,40 and60 respectively, roughly400 together. He found these across a whole year and said there were smaller examples too, so this is neither his entire annual spending nor proof of only seven regretted buys. Pokémon Box’s Ruby-and-Silver slip is corrected to Sapphire in the outro.",
+      "forbidden": [
+        "Do not identify Algard confidently.",
+        "Do not call the Japanese utility an American copy.",
+        "Do not claim this list exhausts his purchases."
+      ],
+      "evidence_locations": [
+        "00:56:52",
+        "00:57:56",
+        "00:58:57",
+        "01:00:02",
+        "03:04:08"
+      ],
+      "status": "passed",
+      "reason": "00:56–01:00 plus outro support all seven examples and rough400 total; region and unknown Algard remain bounded."
+    },
+    {
+      "id": "cq211-favorite-nobunaga",
+      "episode": 211,
+      "question": "Why was Nobunaga’s Ambition Tyler’s favorite buy?",
+      "query": "Why was Nobunaga’s Ambition Tyler’s favorite buy?",
+      "answer": "He had spent a long time looking for the first PC88 release complete with its fragile little box around the cassette. Finding it satisfied that prolonged hunt, and he said the price was roughly one-tenth of his maximum bid. He contrasted this with an earlier unboxed lot that had cost more. He valued its historical role, but qualified the claim that it was the first historical simulation.",
+      "forbidden": [
+        "Do not give an exact price absent here.",
+        "Do not confuse later PC8001 with first PC88.",
+        "Do not certify historical-first status."
+      ],
+      "evidence_locations": [
+        "01:06:26",
+        "01:07:33",
+        "01:08:36",
+        "01:14:56",
+        "01:15:57",
+        "01:17:01"
+      ],
+      "status": "passed",
+      "reason": "01:06–08/15/17 support prolonged fragile-box hunt and relative bid bargain, not historical-first certification."
+    },
+    {
+      "id": "cq211-signed-ultima",
+      "episode": 211,
+      "question": "What was wrong with Tyler’s signed UltimaIX purchase?",
+      "query": "What was wrong with Tyler’s signed UltimaIX purchase?",
+      "answer": "He wanted a complete copy, but bought a sealed one whose Lord British signature was on the plastic and slightly smudged. Opening it would remove the signed seal; leaving it sealed preserved an object he did not especially want. That tension made it his worst buy. He did not report selling it, returning it or cutting off the seal.",
+      "forbidden": [
+        "Do not say autograph was on the box.",
+        "Do not claim he opened or sold it.",
+        "Do not authenticate the signature."
+      ],
+      "evidence_locations": [
+        "01:08:36",
+        "01:09:37"
+      ],
+      "status": "passed",
+      "reason": "01:08–09 put the signature on the sealed plastic and preserve unopened/unsold outcome."
+    },
+    {
+      "id": "cq211-divinity-exception",
+      "episode": 211,
+      "question": "How did the Divinity purchase contradict Tyler’s usual advice?",
+      "query": "How did the Divinity purchase contradict Tyler’s usual advice?",
+      "answer": "He bought a sealed VGA-graded Kickstarter collector package for Divinity: Original Sin2 even though he normally criticizes expensive modern digital collector editions. It lacked a physical copy of the game and he disliked how its box displayed. His exception was personal attachment: it was his favorite computer RPG, and he wanted a complete package regardless of the graded format. This did not make him a general advocate for buying graded editions.",
+      "forbidden": [
+        "Do not say a physical game was inside.",
+        "Do not claim he bought it to invest.",
+        "Do not confuse first-game recommendation with second."
+      ],
+      "evidence_locations": [
+        "01:10:44",
+        "01:11:50",
+        "01:12:53",
+        "01:13:54"
+      ],
+      "status": "passed",
+      "reason": "01:10–13 connect a personal exception to favorite RPG attachment, not general graded-investment advocacy."
+    },
+    {
+      "id": "cq211-smb-pcb",
+      "episode": 211,
+      "question": "Was Tyler’s $25 Super Mario Bros cartridge a prototype?",
+      "query": "Was Tyler’s $25 Super Mario Bros cartridge a prototype?",
+      "answer": "He was excited when he found hand-soldered EPROMs, but the security-chip date was not pre-release. He considered a sample or repair possible and did not settle the purpose. The source supports an unusual cartridge bought for25, not an authenticated prototype or a verified resale value.",
+      "forbidden": [
+        "Do not authenticate prototype.",
+        "Do not infer release-before-retail date.",
+        "Do not state a resale valuation as fact."
+      ],
+      "evidence_locations": [
+        "01:15:57",
+        "01:17:01"
+      ],
+      "status": "passed",
+      "reason": "01:15–17 explicitly undercut prototype certainty with post-release chip date and possible sample/repair."
+    },
+    {
+      "id": "cq211-gta-error",
+      "episode": 211,
+      "question": "What happened with Johnny’s mistaken GTA offer?",
+      "query": "What happened with Johnny’s mistaken GTA offer?",
+      "answer": "A larger reseller offered what appeared to be89.99 off a100dollar Grand Theft Auto2 Game Boy Color box, probably a misplaced decimal. Johnny accepted immediately and expected a possible cancellation, which he would have accepted without retaliation. The seller shipped it without raising the error. The object was a box, not necessarily a complete game, and the story is not an instruction to exploit every seller mistake.",
+      "forbidden": [
+        "Do not call it stolen.",
+        "Do not claim he bought a complete game.",
+        "Do not invent an exact invoice total or refund."
+      ],
+      "evidence_locations": [
+        "01:19:08",
+        "01:20:08",
+        "01:21:14",
+        "01:22:14"
+      ],
+      "status": "passed",
+      "reason": "01:19–22 support accepted mistaken box offer and shipping, without inventing complete contents or invoice."
+    },
+    {
+      "id": "cq211-pcb-ethics",
+      "episode": 211,
+      "question": "Why was Tyler buying research cartridges instead of just asking sellers for photos?",
+      "query": "Why was Tyler buying research cartridges instead of just asking sellers for photos?",
+      "answer": "He felt it was unfair to ask many sellers to open cartridges solely to supply free PCB data when he had no genuine plan to buy ordinary examples. Johnny compared it with asking about movie-ticket inserts before purchasing, while acknowledging the extra work involved in opening cartridges. Tyler kept buying the research carts and said he would publish his results after finishing, not that the dataset was already public.",
+      "forbidden": [
+        "Do not say both fully agreed on the ethics.",
+        "Do not mark research published.",
+        "Do not convert an illustrative20copies into an exact inventory."
+      ],
+      "evidence_locations": [
+        "01:23:17",
+        "01:24:19",
+        "01:25:24",
+        "01:26:26"
+      ],
+      "status": "passed",
+      "reason": "01:23–26 preserve disagreement on seller workload and a promised, not published, PCB project."
+    },
+    {
+      "id": "cq211-johnny-favorite",
+      "episode": 211,
+      "question": "Why did Mega ManIV matter so much to Johnny, and was MSX Final Fantasy already his favorite received purchase?",
+      "query": "Why did Mega ManIV matter so much to Johnny, and was MSX Final Fantasy already his favorite received purchase?",
+      "answer": "Mega ManIV for Game Boy cost him800 and finally filled the middle gap between I/II/III and V, so he could stop hunting that sequence. He thought the MSX Final Fantasy might outrank it, but that purchase was only arranged and had not arrived. Later he estimated its final cost around500–600 through Red, with the total still unsettled.",
+      "forbidden": [
+        "Do not call Mega ManIV an NES game.",
+        "Do not mark MSX copy received.",
+        "Do not certify its final paid cost."
+      ],
+      "evidence_locations": [
+        "01:26:26",
+        "01:27:27",
+        "01:28:33",
+        "02:56:41",
+        "02:57:41",
+        "02:58:48"
+      ],
+      "status": "passed",
+      "reason": "01:26–28 and02:56–58 separate800 received MegaManIV gap-fill from undelivered MSX contender and uncertain final cost."
+    },
+    {
+      "id": "cq211-cyberbike",
+      "episode": 211,
+      "question": "How much did Johnny really spend on Cyberbike, and why did he regret it?",
+      "query": "How much did Johnny really spend on Cyberbike, and why did he regret it?",
+      "answer": "In this episode he described a225dollar price reduced with eBay Bucks and credit-card points so only50 came from new cash. He disliked the cover and had resisted paying much more for a game needed only for completion. That account differs from CQ210’s170dollar report; without reconciling the copies and accounting, I would preserve both dated figures rather than declare one the definitive cost.",
+      "forbidden": [
+        "Do not say the game simply cost50 with no credits.",
+        "Do not silently reconcile the earlier170.",
+        "Do not call it objectively the rarest Wii game."
+      ],
+      "evidence_locations": [
+        "01:31:41",
+        "01:32:46",
+        "01:33:50"
+      ],
+      "status": "passed",
+      "reason": "01:31–33 distinguish225gross/credits/50cash and leave earlier170 account unreconciled."
+    },
+    {
+      "id": "cq211-ghostbusters",
+      "episode": 211,
+      "question": "What made the PAL Ghostbusters buy shameful, and did he get rid of it?",
+      "query": "What made the PAL Ghostbusters buy shameful, and did he get rid of it?",
+      "answer": "Johnny settled for a PAL NES Ghostbusters sequel copy in a condition he already disliked, then found it worse than the photographs suggested. It should have been a favorite but became a reminder of disappointment. Tyler advised selling the placeholder so it would not discourage a better replacement; the episode does not say that sale or replacement happened. The PAL game is distinguished from the North American GhostbustersII.",
+      "forbidden": [
+        "Do not mark sold.",
+        "Do not conflate distinct regional games.",
+        "Do not infer a replacement purchase."
+      ],
+      "evidence_locations": [
+        "01:38:00",
+        "01:39:07"
+      ],
+      "status": "passed",
+      "reason": "01:38–39 support condition regret and advice to sell, not a completed sale or replacement."
+    },
+    {
+      "id": "cq211-survivor",
+      "episode": 211,
+      "question": "What exactly did Johnny preorder from Limited Run?",
+      "query": "What exactly did Johnny preorder from Limited Run?",
+      "answer": "He preordered the300dollar collector edition of Star Wars Jedi: Survivor, the sequel to Fallen Order. They corrected both the title and the impression of a complete lightsaber: it included a hilt, with the blade sold separately, plus the game and a steelbook. His repeated Fallen Order play explains his enthusiasm, but the Survivor order was not yet received or played.",
+      "forbidden": [
+        "Do not call it a Fallen Order edition.",
+        "Do not include a blade.",
+        "Do not mark Survivor played or received."
+      ],
+      "evidence_locations": [
+        "01:40:07",
+        "01:41:12",
+        "01:42:12",
+        "01:43:15",
+        "01:45:20",
+        "01:46:27",
+        "01:49:38"
+      ],
+      "status": "passed",
+      "reason": "01:40–49 correct Survivor title and hilt/no-blade package; preorder and FallenOrderplay remain different."
+    },
+    {
+      "id": "cq211-glasses",
+      "episode": 211,
+      "question": "What was the proposed3D-glasses set, and what buying caution came with it?",
+      "query": "What was the proposed3D-glasses set, and what buying caution came with it?",
+      "answer": "They proposed examples including Rad Racer, WorldRunner, Orb3D, Attack of the Movies3D, Contra on Saturn/PS1 and Heart of Darkness. Sly3, an unnamed Batman, Cabela’s and Duke Nukem Forever were less certain; Master System electronic glasses might need their own section. They warned about substitute glasses, and Tyler decided to wait for Contra inserts instead of buying the expensive listings during the show. This was an emerging list, not a completed set.",
+      "forbidden": [
+        "Do not certify every tentative title includes glasses.",
+        "Do not merge electronic MasterSystem glasses with paper inserts.",
+        "Do not mark Contra purchased."
+      ],
+      "evidence_locations": [
+        "01:52:50",
+        "01:53:54",
+        "01:54:58",
+        "01:56:00"
+      ],
+      "status": "passed",
+      "reason": "01:52–56 support evolving glasses examples, uncertain candidates, electronic category and decision to wait."
+    },
+    {
+      "id": "cq211-goal-status",
+      "episode": 211,
+      "question": "Which sets did Johnny actually finish, and which goals were still open?",
+      "query": "Which sets did Johnny actually finish, and which goals were still open?",
+      "answer": "He reported completing the Wii audit and scanning, though some games were still in the mail. The audit had expanded his initial remaining count from around102 to109. Vita was four games short; original Xbox had made no progress. Game Gear and other handheld sets might eventually use mixed boxed and cart-only contents, but he was not claiming those finished or committing to a PS3 set.",
+      "forbidden": [
+        "Do not call Wii fully received.",
+        "Do not say Vita complete.",
+        "Do not declare a new PS3 set commitment."
+      ],
+      "evidence_locations": [
+        "01:58:13",
+        "01:59:18",
+        "02:00:22",
+        "02:01:24",
+        "02:02:29",
+        "02:03:35",
+        "02:13:59"
+      ],
+      "status": "passed",
+      "reason": "01:58–02:03/13:59 distinguish completed audit/scanning from incoming parcels, Vita4away and pending sets."
+    },
+    {
+      "id": "cq211-cloud",
+      "episode": 211,
+      "question": "Would moving to Collectorz automatically solve documentation, backup and insurance?",
+      "query": "Would moving to Collectorz automatically solve documentation, backup and insurance?",
+      "answer": "No. Tyler planned to migrate for easier values and organization, while Johnny described scanning and box-location improvements. Japanese and computer entries could still need manually sourced values. The discussed cloud service synced one cover image, not every extra desktop photo, and no insurance payout or policy acceptance was guaranteed. It was a useful workflow proposal with explicit gaps, not a completed migration or full backup.",
+      "forbidden": [
+        "Do not mark Tyler migration complete.",
+        "Do not claim all photos backed up.",
+        "Do not guarantee coverage from roof payout."
+      ],
+      "evidence_locations": [
+        "02:06:40",
+        "02:07:44",
+        "02:08:46",
+        "02:09:48",
+        "02:10:52",
+        "02:11:57",
+        "02:12:57",
+        "02:13:59",
+        "02:17:10",
+        "02:18:17",
+        "02:19:19",
+        "02:20:23"
+      ],
+      "status": "passed",
+      "reason": "02:06–13/17–20 retain migration plan, manual values, partial cloud-photo backup and no insurance guarantee."
+    },
+    {
+      "id": "cq211-ebay",
+      "episode": 211,
+      "question": "Can Johnny’s eBay export tell us his exact total game spending or average price per game?",
+      "query": "Can Johnny’s eBay export tell us his exact total game spending or average price per game?",
+      "answer": "Not reliably from this transcript. It excludes non-eBay purchases, counts multi-game lots as single objects, and several important caption amounts appear to contain extra digits. The nearly complete32X lot was245 for the lot, not one game’s average; small LCD and Virtual Boy samples also distort comparisons. Johnny used manual title filters, not the scripts Tyler assumed. The safe result is a qualified spending history, not an exact lifetime total or whole-collection valuation.",
+      "forbidden": [
+        "Do not publish888000asverifiedlifetimecost.",
+        "Do not turnobjectsintogamecounts.",
+        "Do not sayclassificationwasautomated.",
+        "Do not equatepurchasecostwithcurrentvalue."
+      ],
+      "evidence_locations": [
+        "00:28:12",
+        "02:29:58",
+        "02:31:04",
+        "02:32:08",
+        "02:33:10",
+        "02:34:17",
+        "02:35:21",
+        "02:36:26",
+        "02:37:32",
+        "02:38:39",
+        "02:58:48"
+      ],
+      "status": "passed",
+      "reason": "02:29–38/58 plus exportintro preserve outside-eBay gaps, lot objects, caption amounts and manual filtering."
+    },
+    {
+      "id": "cq211-spend-order",
+      "episode": 211,
+      "question": "Which platforms led Johnny’s eBay spending, and why was TurboGrafx surprising?",
+      "query": "Which platforms led Johnny’s eBay spending, and why was TurboGrafx surprising?",
+      "answer": "His stated aggregate order was Super Nintendo, NES, TurboGrafx16, Genesis and PS1, followed by GBA and Game Boy; Wii was in the top eight. TurboGrafx ranked that high from only53 recorded objects, and Magical Chase bought from Stefan was outside this eBay dataset. Excluding the misleading32X-lot entry, TurboGrafx also had the stated highest per-object average,166. None of this measures the complete collection’s current value.",
+      "forbidden": [
+        "Do not say TurboGrafx beat SNES total.",
+        "Do not include outside-eBay MagicalChase cost.",
+        "Do not call53 allTurbo games owned."
+      ],
+      "evidence_locations": [
+        "02:33:10",
+        "02:34:17",
+        "02:35:21",
+        "02:36:26",
+        "02:37:32"
+      ],
+      "status": "passed",
+      "reason": "02:33–37 support aggregate order and TG53objects/166average excluding misleading32Xlot, not current value."
+    },
+    {
+      "id": "cq211-cards",
+      "episode": 211,
+      "question": "What download cards did Tyler want, and did used codes matter?",
+      "query": "What download cards did Tyler want, and did used codes matter?",
+      "answer": "He was searching Minecraft card variants and wanted an early Walmart Breath of the Wild card with the scratch-off code on its back, saying he would pay60. He generally would not mind a used code he never planned to redeem, but wanted a scratch-off surface intact. Newer cards whose codes appear on receipts create a different two-piece collectible. His difficulty finding resale copies did not establish that none existed.",
+      "forbidden": [
+        "Do not mark card boughtfor60.",
+        "Do not equateusedwithscratchedinallcases.",
+        "Do not claim archive-wideabsence."
+      ],
+      "evidence_locations": [
+        "02:45:05",
+        "02:46:13",
+        "02:49:21",
+        "02:50:23",
+        "02:51:23",
+        "02:52:27"
+      ],
+      "status": "passed",
+      "reason": "02:45–52 support desired card variants/intact scratchoff and receipt distinction, not purchase or absence."
+    },
+    {
+      "id": "cq211-final-fantasy",
+      "episode": 211,
+      "question": "What Final Fantasy progress and purchases were real, and which were only plans?",
+      "query": "What Final Fantasy progress and purchases were real, and which were only plans?",
+      "answer": "Johnny had played through Final FantasyI on Steam and was considering original-numbered Final FantasyII next, not the American SNESII that is IV. He owned a WonderSwan game but still wanted a console. He declined the1300sealed Chocobo WonderSwan bundle, and his MSX Final Fantasy purchase through Red was arranged but still undelivered with final cost uncertain.",
+      "forbidden": [
+        "Do not mark FFII started or completed.",
+        "Do not mark the expensive console bought.",
+        "Do not treat MSX shipment as received."
+      ],
+      "evidence_locations": [
+        "01:27:27",
+        "02:53:29",
+        "02:54:32",
+        "02:55:39",
+        "02:56:41",
+        "02:57:41",
+        "02:58:48"
+      ],
+      "status": "passed",
+      "reason": "02:53–58 plus01:27 retain FFIcompleted, IIplanned, gameowned/consolewanted and declined1300bundle."
+    },
+    {
+      "id": "cq211-goals",
+      "episode": 211,
+      "question": "What process did they recommend instead of just buying more games?",
+      "query": "What process did they recommend instead of just buying more games?",
+      "answer": "They recommended regularly checking whether a goal still matters, whether spending actually serves it, and whether circumstances justify changing it. Tyler wanted fewer filler buys and more documentation; Johnny wanted inventories and box locations he could trust. Deliberately changing a goal was not treated as failure, but repeatedly buying distractions from a still-important goal was worth confronting. Their shelving and insurance plans remained unfinished.",
+      "forbidden": [
+        "Do not say they stopped buying.",
+        "Do not claim organization projects finished.",
+        "Do not equate every abandoned goal with failure."
+      ],
+      "evidence_locations": [
+        "00:50:30",
+        "00:51:34",
+        "00:52:37",
+        "01:57:07",
+        "01:58:13",
+        "02:06:40",
+        "02:11:57",
+        "02:20:23",
+        "02:21:29",
+        "02:22:29",
+        "02:23:34",
+        "02:24:39",
+        "02:25:41",
+        "02:26:44",
+        "02:38:39",
+        "02:39:40",
+        "02:40:43"
+      ],
+      "status": "passed",
+      "reason": "00:50–52/01:57–58/02:06–26/38–40 support goal reassessment and unfinished documentation/storage/insurance."
+    }
+  ]
+}

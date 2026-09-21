@@ -1,0 +1,2157 @@
+{
+  "schema_version": "1",
+  "new_games": [
+    {
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "reason": "Full-source review found unresolved N64-series reference absent from indexed game list.",
+      "game": {
+        "id": "cq222-review-g001",
+        "canonical_title": null,
+        "spoken_forms": [
+          "your Mario"
+        ],
+        "entity_granularity": "series_or_unspecified_title",
+        "platform": "Nintendo 64",
+        "region_edition": null,
+        "identification_confidence": "low",
+        "clarification_needed": true,
+        "occurrence_groups": [
+          {
+            "type": "PASSING_MENTION",
+            "context": "Unspecified N64 game in hypothetical set divestment; do not infer exact installment.",
+            "evidence": [
+              {
+                "location": "00:58:08",
+                "quote": "your Mario"
+              }
+            ],
+            "speaker": {
+              "candidate": "Tyler",
+              "confidence": "medium",
+              "basis": "Turn continuity, not audio verified."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "reason": "Full-source review found unresolved N64-series reference absent from indexed game list.",
+      "game": {
+        "id": "cq222-review-g002",
+        "canonical_title": null,
+        "spoken_forms": [
+          "your Zelda"
+        ],
+        "entity_granularity": "series_or_unspecified_title",
+        "platform": "Nintendo 64",
+        "region_edition": null,
+        "identification_confidence": "low",
+        "clarification_needed": true,
+        "occurrence_groups": [
+          {
+            "type": "PASSING_MENTION",
+            "context": "Unspecified N64 game in hypothetical set divestment; do not infer exact installment.",
+            "evidence": [
+              {
+                "location": "00:58:08",
+                "quote": "your Zelda"
+              }
+            ],
+            "speaker": {
+              "candidate": "Tyler",
+              "confidence": "medium",
+              "basis": "Turn continuity, not audio verified."
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "overrides": [],
+  "episodes": [
+    {
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "mapping_status": "complete",
+      "review_note": "All 118 windows reread end-to-end; all indexed references reconciled plus two unresolved N64-series additions. Complete coarse-window map, not precise speech time. Non-game subjects typed separately. Same-agent source adjudication; not blinded or audio verified.",
+      "spans": [
+        {
+          "id": "cq222-audit-span-001",
+          "entity_id": "cq222-entity-cq222-g001",
+          "title": "Horizon Forbidden West",
+          "game_refs": [
+            "cq222-g001"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "00:03:05",
+          "end_exclusive": "00:04:06",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "00:03:05",
+              "quote": "got an HGTV at home I could go play Horizon forbidden West and see some cool fantasy [ __ ] like watching that from a little boat on a ride does nothing for me cuz I get that same experience at home okay well I wouldn't call that ride all screens so we it's not all screens but there are a lot of screens kind of any screen really takes me out of it I hate I hate any any ride tha"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-002",
+          "entity_id": "cq222-entity-cq222-g002",
+          "title": "The Last of Us Part II",
+          "game_refs": [
+            "cq222-g002"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "00:17:23",
+          "end_exclusive": "00:19:26",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "00:17:23",
+              "quote": "around all the money everything everything kind of reminds me of The Last of Us two cuz I"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-003",
+          "entity_id": "cq222-entity-cq222-g003",
+          "title": "Secret of Mana",
+          "game_refs": [
+            "cq222-g003"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "00:24:30",
+          "end_exclusive": "00:25:32",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "00:24:30",
+              "quote": "translations of Japanese games uh you know uh you're you're like Secret of Mana yeah just all this [ __ ] now like number it and they're like look at what we did um number like all the time walk games and people like oh my God they only made so many and then like what will happen is people will perceive them as valuable and because they're scarce and then they start to actually"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-004",
+          "entity_id": "cq222-entity-cq222-g004",
+          "title": "The Legend of Zelda: Tears of the Kingdom",
+          "game_refs": [
+            "cq222-g004"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "00:22:30",
+          "end_exclusive": "00:23:30",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "00:22:30",
+              "quote": "provides you social proof so you're like hey you couldn't get that you couldn't get like here we go like right now Zelda limited edition like you didn't get one and it's sold out on Amazon well look at me I'm the smart guy cuz I got one that makes me a better human being Johnny true uh so like part of this The increased desire and uh then there's the intense motivation and tell"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-005",
+          "entity_id": "cq222-entity-cq222-g004",
+          "title": "The Legend of Zelda: Tears of the Kingdom",
+          "game_refs": [
+            "cq222-g004"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "00:25:32",
+          "end_exclusive": "00:28:35",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "00:25:32",
+              "quote": "kind of stuff and like then they just start going to the moon and you're just like what is happening and that's scarcity principle at work that's that's it being used against you uh Johnny there's nothing we could do about actually I don't know if there's anything we can do about any of these because these are just like psychological Concepts but uh yeah I mean it doesn't mean "
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-006",
+          "entity_id": "cq222-entity-cq222-g004",
+          "title": "The Legend of Zelda: Tears of the Kingdom",
+          "game_refs": [
+            "cq222-g004"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "01:06:16",
+          "end_exclusive": "01:07:17",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "01:06:16",
+              "quote": "I would have fixed myself a long time ago anyways Tyler what's our our last Theory we want to kind of talk about Johnny uh we did touch on it loss AV verion the tend for people to feel more pain from losing something than pleasure in gaining something uh Johnny L version the reason that casinos are in business the reason that the graded games Market is is a thing uh we don't wa"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-007",
+          "entity_id": "cq222-entity-cq222-g004",
+          "title": "The Legend of Zelda: Tears of the Kingdom",
+          "game_refs": [
+            "cq222-g004"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "01:31:44",
+          "end_exclusive": "01:32:45",
+          "reason": "Incidental or joking reference excluded from discussion duration.",
+          "evidence": [
+            {
+              "location": "01:31:44",
+              "quote": "I don't know anyone collecting the Xbox one set but that is such a weird does it count like not even just a digital code in a case it's a digital code in a mini case is this like a thing or is this a oneoff for Star Wars no there was a whole series of them I may have made a list of them about three years ago because I have a sickness um yeah anyways yeah I did buy that like a m"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-008",
+          "entity_id": "cq222-entity-cq222-g004",
+          "title": "The Legend of Zelda: Tears of the Kingdom",
+          "game_refs": [
+            "cq222-g004"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "01:33:46",
+          "end_exclusive": "01:34:47",
+          "reason": "Incidental or joking reference excluded from discussion duration.",
+          "evidence": [
+            {
+              "location": "01:33:46",
+              "quote": "could have put this game in this box next to the steelbook also uh even with Zelda like guys please stop with the steelbook like if it's a steelbook just make that the only case stop giving me like I don't know what to do with these other cases now just put it in the steelbook and put a slip cover over it or something for God's sake anyways uh I digress so I was looking at this"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-009",
+          "entity_id": "cq222-entity-cq222-g004",
+          "title": "The Legend of Zelda: Tears of the Kingdom",
+          "game_refs": [
+            "cq222-g004"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "01:41:53",
+          "end_exclusive": "01:42:55",
+          "reason": "Incidental or joking reference excluded from discussion duration.",
+          "evidence": [
+            {
+              "location": "01:41:53",
+              "quote": "very nice ceremony everything was beautiful but it didn't lend itself to playing video games Jedi Survivor came before that so I got a couple days to play that and like you know do what I could there and make some progress uh through like trying to make sure all of my work is done knowing I'm going to be gone and stuff what a sucky time for two like big games to be coming out a"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-010",
+          "entity_id": "cq222-entity-cq222-g004",
+          "title": "The Legend of Zelda: Tears of the Kingdom",
+          "game_refs": [
+            "cq222-g004"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "01:42:55",
+          "end_exclusive": "01:43:55",
+          "reason": "Incidental or joking reference excluded from discussion duration.",
+          "evidence": [
+            {
+              "location": "01:42:55",
+              "quote": "probably around this might not even be true but like 2013 2014 when I was like pretty deep into to pinball restoration and competitive pinball I I had video game collecting on the back burner but I have not bought a video game thing since April 9th which is not true because I bought Zelda not true you bought Zelda but just GNA say but I bought Zelda like the day before it came "
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-011",
+          "entity_id": "cq222-entity-cq222-g004",
+          "title": "The Legend of Zelda: Tears of the Kingdom",
+          "game_refs": [
+            "cq222-g004"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUBSTANTIAL_COVERAGE",
+          "start": "01:43:55",
+          "end_exclusive": "01:49:02",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "01:43:55",
+              "quote": "l yeah I mean I could have just bought the special edition of of tear of the Kingdom but I still need the retail tiers of the Kingdom so I have both versions of this like I don't care about breath of the wild anymore I mean I do that game's awesome aome but um Johnny this game is crazy and I've"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-012",
+          "entity_id": "cq222-entity-cq222-g004",
+          "title": "The Legend of Zelda: Tears of the Kingdom",
+          "game_refs": [
+            "cq222-g004"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "01:54:07",
+          "end_exclusive": "01:56:07",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "01:54:07",
+              "quote": "collectible Chach keis you should you should just play the game it's really good I I am going to play the game eventually uh once I finish Jedi Survivor I don't want to bounce around um all right I understand I'm just I'm so annoyed it like I can't I can't believe more people aren't annoyed by this also like everyone who like rushed out to buy the the special edition console ma"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-013",
+          "entity_id": "cq222-entity-cq222-g005",
+          "title": "The Legend of Zelda: Breath of the Wild",
+          "game_refs": [
+            "cq222-g005"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "00:27:33",
+          "end_exclusive": "00:28:35",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "00:27:33",
+              "quote": "f did with Master Edition I don't know about uh how's this Zelda breath of the wild collector's edition does that actually sell for a premium right now I have no idea again haven't since I obtained mine you stopped thinking about it I mean yeah so doesn't"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-014",
+          "entity_id": "cq222-entity-cq222-g005",
+          "title": "The Legend of Zelda: Breath of the Wild",
+          "game_refs": [
+            "cq222-g005"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "01:43:55",
+          "end_exclusive": "01:44:57",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "01:43:55",
+              "quote": " get the regular version and the special edition um because with breath of the wild the case that came in the special edition was a not for resale case and I need both versions Johnny I'm really happy there's only two and there's not three cuz that would have been just annoying to buy the same thing well the the case in the collector's edition and the master edition of breath o"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-015",
+          "entity_id": "cq222-entity-cq222-g005",
+          "title": "The Legend of Zelda: Breath of the Wild",
+          "game_refs": [
+            "cq222-g005"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "01:44:57",
+          "end_exclusive": "01:45:58",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "01:44:57",
+              "quote": "y that does not really take risks and then they took a risk with breath of the wild making it like this really good interest open world thing which is not the traditional Zelda game unless you're going back to like the NES era um and then this game instead of just completely rehashing it and doing the same thing again which everyone would have loved we're making vehicles with m"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-016",
+          "entity_id": "cq222-entity-cq222-g005",
+          "title": "The Legend of Zelda: Breath of the Wild",
+          "game_refs": [
+            "cq222-g005"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "01:48:00",
+          "end_exclusive": "01:49:02",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "01:48:00",
+              "quote": "at I mean it looks good artistically but the switch couldn't run breath of the wild the switch still can't run tears of the Kingdom someday in the future like I know there's 60 FPS mods for if you're going to emulate it on PC but it's a little bit wonky like someday they'll have it perfectly running in 60 FPS and then they'll remake it and everyone will be like oh man I thought"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-017",
+          "entity_id": "cq222-entity-cq222-g006",
+          "title": "Tetris",
+          "game_refs": [
+            "cq222-g006"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "00:30:40",
+          "end_exclusive": "00:31:41",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "00:30:40",
+              "quote": "h Tetris remember Tetris we've talked about that a million times T Tetris T yeah like oh yeah oh it's rare uh you know and then all these other games uh crop up around it we go oh I guess those are rare now too no no things things are just normalizing as more information as becoming apparent but what we do is just like oh this is uh this must be the truth and it does and you ta"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-018",
+          "entity_id": "cq222-entity-cq222-g007",
+          "title": "Tomb Raider",
+          "game_refs": [
+            "cq222-g007"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "00:31:41",
+          "end_exclusive": "00:34:42",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "00:31:41",
+              "quote": "zy sealed market and you know you'd see a [ __ ] twisted metal a Tomb Raider like an okay condition Tomb Raider on Playstation sell for $100,000 and then all of a sudden people are talking about like oh man Tomb Raider is the game this this version of Tomb Raider is the game out of [ __ ] nowhere like one sale and like and every one knows like this Market is obviously heavily m"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-019",
+          "entity_id": "cq222-entity-cq222-g008",
+          "title": "Twisted Metal",
+          "game_refs": [
+            "cq222-g008"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "00:31:41",
+          "end_exclusive": "00:32:41",
+          "reason": "Incidental or joking reference excluded from discussion duration.",
+          "evidence": [
+            {
+              "location": "00:31:41",
+              "quote": "you know new crazy sealed market and you know you'd see a [ __ ] twisted metal a Tomb Raider like an okay condition Tomb Raider on Playstation sell for $100,000 and then all of a sudden people are talking about like oh man Tomb Raider is the game this this version of Tomb Raider is the game out of [ __ ] nowhere like one sale and like and every one knows like this Market is obv"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-020",
+          "entity_id": "cq222-entity-cq222-g009",
+          "title": "Kid Klown in Night Mayor World",
+          "game_refs": [
+            "cq222-g009"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "00:35:43",
+          "end_exclusive": "00:36:44",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "00:35:43",
+              "quote": "they're putting the first price out there to Anchor it yep I mean and you will see it like even in smaller things just every time you go to eBay and there's none of them or just one of them and someone throws a crazy price out on like they'll find something that's not list on EB they'll just throw it up for a crazy price and then hope someone bites um and then people will perce"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-021",
+          "entity_id": "cq222-entity-cq222-g010",
+          "title": "Mega Man X",
+          "game_refs": [
+            "cq222-g010"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "00:38:46",
+          "end_exclusive": "00:40:49",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "00:38:46",
+              "quote": "market so the one that actually comes to mind is I am 8bit Mega Man X and spec I think Mega Man X Mega Man 2 sold out in like a few years and Mega Man X [ __ ] lingered on forever they made what was it 7,000 8,000 of these like 7,000 I think way too many considering the market for aftermarket reproductions of existing games and there were $100 each at the time so like the marke"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-022",
+          "entity_id": "cq222-entity-cq222-g010",
+          "title": "Mega Man X",
+          "game_refs": [
+            "cq222-g010"
+          ],
+          "entity_kind": "video_game",
+          "role": "JOKE_ASIDE",
+          "start": "00:40:49",
+          "end_exclusive": "00:41:51",
+          "reason": "Incidental or joking reference excluded from discussion duration.",
+          "evidence": [
+            {
+              "location": "00:40:49",
+              "quote": "games like three or four times through the length of this podcast and uh they never they never uh they never don't hit well uh they're always funny is what I'm trying to get at uh someone sent me nurse love like when I was on that whole track so and then like Mega Man people people like their jokes uh and I appreciate you guys anyways Johnny I don't know how many people work at"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-023",
+          "entity_id": "cq222-entity-cq222-g011",
+          "title": "Mega Man 2",
+          "game_refs": [
+            "cq222-g011"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "00:38:46",
+          "end_exclusive": "00:40:49",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "00:38:46",
+              "quote": "omes to mind is I am 8bit Mega Man X and spec I think Mega Man X Mega Man 2 sold out in like a few years and Mega Man X [ __ ] lingered on forever they made what was it 7,000 8,000 of these like 7,000 I think way too many considering the market for aftermarket reproductions of existing games and there were $100 each at the time so like the market could not bear the price of $10"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-024",
+          "entity_id": "cq222-entity-cq222-g012",
+          "title": "Nurse Love",
+          "game_refs": [
+            "cq222-g012"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "00:40:49",
+          "end_exclusive": "00:41:51",
+          "reason": "Incidental or joking reference excluded from discussion duration.",
+          "evidence": [
+            {
+              "location": "00:40:49",
+              "quote": "'re always funny is what I'm trying to get at uh someone sent me nurse love like when I was on that whole track so and then like Mega Man people people like their jokes uh and I appreciate you guys anyways Johnny I don't know how many people work at IM apit but if someone from IM apit listens to this podcast I have uh the perfect idea for you so these cartridges were the 30th a"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-025",
+          "entity_id": "cq222-entity-cq222-g013",
+          "title": "Garbage Pail Kids: Mad Mike and the Quest for Stale Gum",
+          "game_refs": [
+            "cq222-g013"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "00:41:51",
+          "end_exclusive": "00:42:54",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "00:41:51",
+              "quote": "don't hate im8 bit or anything like I'm I can't wait to buy this garbage pill kids game I think it came out I'm going to like I'm going to buy that eventually oh definitely wait on that Johnny you know NES Homebrew known for staying in stock forever and being frequently restocked that's a lie if you see a Homebrew you want just buy it yep I mean there's only 4,000 of them that "
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-026",
+          "entity_id": "cq222-entity-cq222-g014",
+          "title": "Super Tilt Bro.",
+          "game_refs": [
+            "cq222-g014"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "00:41:51",
+          "end_exclusive": "00:43:55",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "00:41:51",
+              "quote": "e it says NES and they'll just flip it um yep but speaking of uh super tilt bro is on Kickstarter right now that's a game I played a very old version of a few years ago but now it's like this full-fledged NES party fighting game like Super Smash Brothers and has built-in Wi-Fi in the cartridge so if you don't keep up on home RW that's like a really cool one like built-in intern"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-027",
+          "entity_id": "cq222-entity-cq222-g045",
+          "title": "Super Smash Bros.",
+          "game_refs": [
+            "cq222-g045"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "00:41:51",
+          "end_exclusive": "00:42:54",
+          "reason": "Incidental or joking reference excluded from discussion duration.",
+          "evidence": [
+            {
+              "location": "00:41:51",
+              "quote": "but now it's like this full-fledged NES party fighting game like Super Smash Brothers and has built-in Wi-Fi in the cartridge so if you don't keep up on home RW that's like a really cool one like built-in internet play NES game and it's a really good game so uh I don't"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-028",
+          "entity_id": "cq222-entity-cq222-g015",
+          "title": "Super Metroid",
+          "game_refs": [
+            "cq222-g015"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "00:43:55",
+          "end_exclusive": "00:44:56",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "00:43:55",
+              "quote": "e actual effect of the endowment effect is more like uh like say Super Metroid is worth $300 and you buy a Super Metroid and then if someone offered you $400 for it you'd be like [ __ ] no I'm never selling Super Metroid be like you it is impossible for you to part with something because you have already bought it even though you could easily buy the same thing yes I mean that "
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-029",
+          "entity_id": "cq222-entity-cq222-g015",
+          "title": "Super Metroid",
+          "game_refs": [
+            "cq222-g015"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "00:45:57",
+          "end_exclusive": "00:47:58",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "00:45:57",
+              "quote": "ike loss of version where I'm so worried about like if I sold my Super Metroid and I had to buy I don't know let's say let's forget that I'm selling Super Metroid to buy a Super Metroid let's say I wanted the Legend of Zelda I want to sell my Super Metroid and buy Legend of Zelda um I don't have the money for Zelda I have to sell my Super Metroid but I can't sell my Super"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-030",
+          "entity_id": "cq222-entity-cq222-g015",
+          "title": "Super Metroid",
+          "game_refs": [
+            "cq222-g015"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "01:06:16",
+          "end_exclusive": "01:07:17",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "01:06:16",
+              "quote": "we don't want to lose anything whether it's me having to sell my super metroid or uh missing out on on the Zelda collector's edition that just came am out if that if I missed out on that and that goes from $130 to uh you know $200 it hurts me more to have missed out on that you know quote unquote $70 than it will have been than it than it will have felt good to have got that an"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-031",
+          "entity_id": "cq222-entity-cq222-g015",
+          "title": "Super Metroid",
+          "game_refs": [
+            "cq222-g015"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "01:27:41",
+          "end_exclusive": "01:28:43",
+          "reason": "Incidental or joking reference excluded from discussion duration.",
+          "evidence": [
+            {
+              "location": "01:27:41",
+              "quote": "though I think Zelda is a better game and like Metroid is better Super Metroid um you know I still might just point them at that or like if they need time to it's it's weird because like oh the 2D era it's like oh if you really wanted to like waste some time then maybe here's a final fantasy here's like Final Fantasy 3 or something but it's Pala so Final Fantasy 6 also pal like"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-032",
+          "entity_id": "cq222-entity-cq222-g015",
+          "title": "Super Metroid",
+          "game_refs": [
+            "cq222-g015"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "01:28:43",
+          "end_exclusive": "01:29:43",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "01:28:43",
+              "quote": "no one uh no one in 200 years is going to sit down and play like super metroid I don't think people in 200 years are going to sit down and play Super Mario Brothers 3 um because like in a realistic sense it's going to take you some amount of hours I know you could blow through it in like two hours if you know what you're doing but if this is an ancient archaic 200-year old Reli"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-033",
+          "entity_id": "cq222-entity-cq222-g016",
+          "title": "The Legend of Zelda",
+          "game_refs": [
+            "cq222-g016"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "00:45:57",
+          "end_exclusive": "00:47:58",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "00:45:57",
+              "quote": "ling Super Metroid to buy a Super Metroid let's say I wanted the Legend of Zelda I want to sell my Super Metroid and buy Legend of Zelda um I don't have the money for Zelda I have to sell my Super Metroid but I can't sell my Super"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-034",
+          "entity_id": "cq222-entity-cq222-g016",
+          "title": "The Legend of Zelda",
+          "game_refs": [
+            "cq222-g016"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "01:27:41",
+          "end_exclusive": "01:28:43",
+          "reason": "Incidental or joking reference excluded from discussion duration.",
+          "evidence": [
+            {
+              "location": "01:27:41",
+              "quote": "started to fudge like 3D Graphics there I mean yes I would you're represent I you're basically representing everything from like space War up until you know Super Mario 64 or Doom something and then then then I probably do Mario World just what a wonderful game but H or like do Super Metro like again I think we just like point at our our historical document and say like here yo"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-035",
+          "entity_id": "cq222-entity-cq222-g017",
+          "title": "Super Mario Bros. 3",
+          "game_refs": [
+            "cq222-g017",
+            "cq222-g023"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "00:47:58",
+          "end_exclusive": "00:49:58",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "00:47:58",
+              "quote": "fungible items like okay if you have like your childhood copy of Super Mario Brothers 3 you're not going to sell it"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-036",
+          "entity_id": "cq222-entity-cq222-g017",
+          "title": "Super Mario Bros. 3",
+          "game_refs": [
+            "cq222-g017",
+            "cq222-g023"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "01:26:40",
+          "end_exclusive": "01:27:41",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "01:26:40",
+              "quote": "d to recommend one game to uh represent the the 2D era I'm going Mario 3 H I don't know I mean Mario 3 is like one of the best representations of the 2dr and like it's like one of the most complete with game mechanics and stuff it's really hard to think what uh what would even be playable in 200 years cuz like you can't even thinking of like books like culture has changed so mu"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-037",
+          "entity_id": "cq222-entity-cq222-g017",
+          "title": "Super Mario Bros. 3",
+          "game_refs": [
+            "cq222-g017",
+            "cq222-g023"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "01:28:43",
+          "end_exclusive": "01:29:43",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "01:28:43",
+              "quote": "all the good ones would have so yeah and we would be talking like it's not like I'm going to like be like well because it's pal region like we can only talk about days before Christmas or something all right no one uh no one in 200 years is going to sit down and play like super metroid I don't think people in 200 years are going to sit down and play Super Mario Brothers 3 um be"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-038",
+          "entity_id": "cq222-entity-cq222-g018",
+          "title": "Banjo-Kazooie",
+          "game_refs": [
+            "cq222-g018"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "00:58:08",
+          "end_exclusive": "00:59:09",
+          "reason": "Incidental or joking reference excluded from discussion duration.",
+          "evidence": [
+            {
+              "location": "00:58:08",
+              "quote": "ndo 64 set and just keep you know your Mario your Zelda and your banjo kazui or whatever I mean for us no for anyone no Tyler some people the n6 for thing yes sure but so I I'm still going to say it is easier to sell the the garbage sports games chaff from N64 than it is to even sell the garbage sports games chaff from NES cuz I just look at"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-039",
+          "entity_id": "cq222-entity-cq222-review-g001",
+          "title": "your Mario",
+          "game_refs": [
+            "cq222-review-g001"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "00:58:08",
+          "end_exclusive": "00:59:09",
+          "reason": "Incidental or joking reference excluded from discussion duration.",
+          "evidence": [
+            {
+              "location": "00:58:08",
+              "quote": "it is so easy to sell the Nintendo 64 set and just keep you know your Mario your Zelda and your banjo kazui or whatever I mean for us no for anyone no Tyler some people the n6 for thing yes sure but so I I'm still going to say it is easier to sell the the garbage sports games chaff from N64 than it is to even sell the garbage sports games chaff from NES cuz I just look at"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-040",
+          "entity_id": "cq222-entity-cq222-review-g002",
+          "title": "your Zelda",
+          "game_refs": [
+            "cq222-review-g002"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "00:58:08",
+          "end_exclusive": "00:59:09",
+          "reason": "Incidental or joking reference excluded from discussion duration.",
+          "evidence": [
+            {
+              "location": "00:58:08",
+              "quote": "sy to sell the Nintendo 64 set and just keep you know your Mario your Zelda and your banjo kazui or whatever I mean for us no for anyone no Tyler some people the n6 for thing yes sure but so I I'm still going to say it is easier to sell the the garbage sports games chaff from N64 than it is to even sell the garbage sports games chaff from NES cuz I just look at"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-041",
+          "entity_id": "cq222-entity-cq222-g019",
+          "title": "Stadium Events",
+          "game_refs": [
+            "cq222-g019"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "00:59:09",
+          "end_exclusive": "01:00:10",
+          "reason": "Incidental or joking reference excluded from discussion duration.",
+          "evidence": [
+            {
+              "location": "00:59:09",
+              "quote": "om wanting the whole set and like considering buying things like Stadium events and like you know completing box Panic restaurants and all that [ __ ] to completely selling everything off except for your favorites like there's no way that was a weekend decision like there's so much sunk cost there's so many hours years of collecting NES that you have to get over and just be lik"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-042",
+          "entity_id": "cq222-entity-cq222-g020",
+          "title": "Panic Restaurant",
+          "game_refs": [
+            "cq222-g020"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "00:59:09",
+          "end_exclusive": "01:00:10",
+          "reason": "Incidental or joking reference excluded from discussion duration.",
+          "evidence": [
+            {
+              "location": "00:59:09",
+              "quote": "ying things like Stadium events and like you know completing box Panic restaurants and all that [ __ ] to completely selling everything off except for your favorites like there's no way that was a weekend decision like there's so much sunk cost there's so many hours years of collecting NES that you have to get over and just be like like I'm not as interested in the nas Library "
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-043",
+          "entity_id": "cq222-entity-cq222-g046",
+          "title": "Magic: The Gathering",
+          "game_refs": [
+            "cq222-g046"
+          ],
+          "entity_kind": "tabletop",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "01:04:14",
+          "end_exclusive": "01:05:15",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "01:04:14",
+              "quote": " I this all came about because I used metal dice as counters and Magic the Gathering just cuz metal feels cool and I'm like man these really feel cool I want more of these and because of my brain it turned into I want all of these God our brain our brains are the worst to us yeah just the [ __ ] why why are you this way see this it was the first thing I collected where there's "
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-044",
+          "entity_id": "cq222-entity-cq222-g021",
+          "title": "Deathloop",
+          "game_refs": [
+            "cq222-g021"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "01:12:22",
+          "end_exclusive": "01:14:25",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "01:12:22",
+              "quote": "st of not just realizing a loss so if you in invested $22,000 in death Loop Deluxe editions for the PS5 which currently sell for $10 brand new uh like that that money is never coming back and it might only continue to go down so yes you will take whatever 80% loss by selling that but if you just hold on to it forever I mean this is like investing advice not that you should be i"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-045",
+          "entity_id": "cq222-entity-cq222-g022",
+          "title": "The Legend of Zelda: Oracle of Ages / Oracle of Seasons",
+          "game_refs": [
+            "cq222-g022"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "01:20:36",
+          "end_exclusive": "01:22:38",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "01:20:36",
+              "quote": " sometimes like uh one particular in my head is I bought the the Zelda Oracle games on Game Boy Color and at the time it was like probably like $300 for the pair maybe $200 like those are expensive games they're complete and box Card War Zelda games and they shipped in a bubble mailer and I specifically requested that they ship in a box because you always do that and like they "
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-046",
+          "entity_id": "cq222-entity-cq222-g024",
+          "title": "Spacewar!",
+          "game_refs": [
+            "cq222-g024"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "01:27:41",
+          "end_exclusive": "01:28:43",
+          "reason": "Incidental or joking reference excluded from discussion duration.",
+          "evidence": [
+            {
+              "location": "01:27:41",
+              "quote": "e represent I you're basically representing everything from like space War up until you know Super Mario 64 or Doom something and then then then I probably do Mario World just what a wonderful game but H or like do Super Metro like again I think we just like point at our our historical document and say like here you go also Mario was just the biggest character so even though I "
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-047",
+          "entity_id": "cq222-entity-cq222-g025",
+          "title": "Super Mario 64",
+          "game_refs": [
+            "cq222-g025"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "01:27:41",
+          "end_exclusive": "01:28:43",
+          "reason": "Incidental or joking reference excluded from discussion duration.",
+          "evidence": [
+            {
+              "location": "01:27:41",
+              "quote": "ly representing everything from like space War up until you know Super Mario 64 or Doom something and then then then I probably do Mario World just what a wonderful game but H or like do Super Metro like again I think we just like point at our our historical document and say like here you go also Mario was just the biggest character so even though I think Zelda is a better game"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-048",
+          "entity_id": "cq222-entity-cq222-g026",
+          "title": "Doom",
+          "game_refs": [
+            "cq222-g026"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "01:27:41",
+          "end_exclusive": "01:28:43",
+          "reason": "Incidental or joking reference excluded from discussion duration.",
+          "evidence": [
+            {
+              "location": "01:27:41",
+              "quote": "erything from like space War up until you know Super Mario 64 or Doom something and then then then I probably do Mario World just what a wonderful game but H or like do Super Metro like again I think we just like point at our our historical document and say like here you go also Mario was just the biggest character so even though I think Zelda is a better game and like Metroid "
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-049",
+          "entity_id": "cq222-entity-cq222-g027",
+          "title": "Super Mario World",
+          "game_refs": [
+            "cq222-g027"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "01:27:41",
+          "end_exclusive": "01:28:43",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "01:27:41",
+              "quote": "uper Mario 64 or Doom something and then then then I probably do Mario World just what a wonderful game but H or like do Super Metro like again I think we just like point at our our historical document and say like here you go also Mario was just the biggest character so even though I think Zelda is a better game and like Metroid is better Super Metroid um you know I still migh"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-050",
+          "entity_id": "cq222-entity-cq222-g027",
+          "title": "Super Mario World",
+          "game_refs": [
+            "cq222-g027"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "01:29:43",
+          "end_exclusive": "01:30:43",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "01:29:43",
+              "quote": "hen you're going to like what are they going to play in in Super Mario World they're going to play up to like the first uh switch that the the switch I don't know what they're called the exclamation point switch that's like five minutes into the game and be like all right that's enough of that I'm going to go back to VR fragfest where if you lose an arm in the game you lose an "
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-051",
+          "entity_id": "cq222-entity-cq222-g028",
+          "title": "Final Fantasy VI",
+          "game_refs": [
+            "cq222-g028"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "01:27:41",
+          "end_exclusive": "01:28:43",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "01:27:41",
+              "quote": "ke waste some time then maybe here's a final fantasy here's like Final Fantasy 3 or something but it's Pala so Final Fantasy 6 also pal like what's the weird pal restriction I don't know what the pal restriction really does for this question I I mean I guess there's games that didn't come out in Europe but like"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-052",
+          "entity_id": "cq222-entity-cq222-g029",
+          "title": "Daze Before Christmas",
+          "game_refs": [
+            "cq222-g029"
+          ],
+          "entity_kind": "video_game",
+          "role": "JOKE_ASIDE",
+          "start": "01:28:43",
+          "end_exclusive": "01:29:43",
+          "reason": "Incidental or joking reference excluded from discussion duration.",
+          "evidence": [
+            {
+              "location": "01:28:43",
+              "quote": "be like well because it's pal region like we can only talk about days before Christmas or something all right no one uh no one in 200 years is going to sit down and play like super metroid I don't think people in 200 years are going to sit down and play Super Mario Brothers 3 um because like in a realistic sense it's going to take you some amount of hours I know you could blow "
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-053",
+          "entity_id": "cq222-entity-cq222-g030",
+          "title": "Donkey Kong",
+          "game_refs": [
+            "cq222-g030"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "01:28:43",
+          "end_exclusive": "01:29:43",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "01:28:43",
+              "quote": "at they it just is meaningless to them I'm just going to go with Donkey Kong it has too many important historic firsts the platform of genre represents the 2D era the best of anything it it kicked off narratives more or less basically um boring and and you can kind of get the idea of what it is in like five minutes uh which when you're talking about kids playing a"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-054",
+          "entity_id": "cq222-entity-cq222-g031",
+          "title": "VR fragfest",
+          "game_refs": [
+            "cq222-g031"
+          ],
+          "entity_kind": "fictional_game",
+          "role": "JOKE_ASIDE",
+          "start": "01:29:43",
+          "end_exclusive": "01:30:43",
+          "reason": "Incidental or joking reference excluded from discussion duration.",
+          "evidence": [
+            {
+              "location": "01:29:43",
+              "quote": " be like all right that's enough of that I'm going to go back to VR fragfest where if you lose an arm in the game you lose an arm in real life cuz that's what all the cool kids are playing yeah I don't know this no everyone's Gonna Hate K especially kids are going to hate any video game in 200 years probably I mean it like I can't predict what the world's going to look like the"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-055",
+          "entity_id": "cq222-entity-cq222-g032",
+          "title": "Matterhorn Screamer!",
+          "game_refs": [
+            "cq222-g032"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "01:30:43",
+          "end_exclusive": "01:32:45",
+          "reason": "Incidental or joking reference excluded from discussion duration.",
+          "evidence": [
+            {
+              "location": "01:30:43",
+              "quote": "remember we did this episode on Disney stuff yeah did you get uh matter horn screamer I sure did nice and I did Mickey's uh space adventure and um hey I got a little Star Wars Jedi fall in order it's like a weird half case it's a digital download code and a coin that was only sold that Best Buy for Jedi fall in order it's like a weird V size case just about it's not a v siiz ca"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-056",
+          "entity_id": "cq222-entity-cq222-g033",
+          "title": "Mickey's Space Adventure",
+          "game_refs": [
+            "cq222-g033"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "01:30:43",
+          "end_exclusive": "01:32:45",
+          "reason": "Incidental or joking reference excluded from discussion duration.",
+          "evidence": [
+            {
+              "location": "01:30:43",
+              "quote": "what they are suddenly fails and explodes in their brain man all right those are our uh those are our questions Johnny um what are you buying and what are you playing what what am I buying and what am I playing Tyler how dare you ask me that oh how dare you um hey I bought some Disney games remember we did this episode on Disney stuff yeah did you get uh matter horn screamer I "
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-057",
+          "entity_id": "cq222-entity-cq222-g034",
+          "title": "Mickey in the Great Outdoors",
+          "game_refs": [
+            "cq222-g034"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "01:31:44",
+          "end_exclusive": "01:32:45",
+          "reason": "Incidental or joking reference excluded from discussion duration.",
+          "evidence": [
+            {
+              "location": "01:31:44",
+              "quote": " I bought um uh what's it called Mickey space adventure I bought Mickey in The Great Outdoors which may or may not be the first Mickey game who knows um I I bought Zelda like you may have heard of Zelda I also may have bought Jedi Survivor for the Xbox which I know this is something you really want to talk about last week Tyler um how and for some reason some for some God forsa"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-058",
+          "entity_id": "cq222-entity-cq222-g035",
+          "title": "Star Wars Jedi: Fallen Order",
+          "game_refs": [
+            "cq222-g035"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "01:30:43",
+          "end_exclusive": "01:32:45",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "01:30:43",
+              "quote": " Mickey's uh space adventure and um hey I got a little Star Wars Jedi fall in order it's like a weird half case it's a digital download code and a coin that was only sold that Best Buy for Jedi fall in order it's like a weird V size case just about it's not a v siiz case but it's about that so it was a download code and a coin in in a box that looks like an Xbox uh one box but "
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-059",
+          "entity_id": "cq222-entity-cq222-g036",
+          "title": "Star Wars Jedi: Survivor",
+          "game_refs": [
+            "cq222-g036"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUBSTANTIAL_COVERAGE",
+          "start": "01:31:44",
+          "end_exclusive": "01:37:49",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "01:31:44",
+              "quote": "ht Zelda like you may have heard of Zelda I also may have bought Jedi Survivor for the Xbox which I know this is something you really want to talk about last week Tyler um how and for some reason some for some God forsake and reason the collector's edition sold through limited run game for the PS3 and"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-060",
+          "entity_id": "cq222-entity-cq222-g036",
+          "title": "Star Wars Jedi: Survivor",
+          "game_refs": [
+            "cq222-g036"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUBSTANTIAL_COVERAGE",
+          "start": "01:40:52",
+          "end_exclusive": "01:42:55",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "01:40:52",
+              "quote": "w anyways um that's what I bought Tyler what did I play I played Jedi Survivor I know most people are playing Zelda but I went to this wedding and I was gone for almost a week uh because I was the best man in that and I had had stuff to do for it uh obviously it was a"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-061",
+          "entity_id": "cq222-entity-cq222-g036",
+          "title": "Star Wars Jedi: Survivor",
+          "game_refs": [
+            "cq222-g036"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "01:54:07",
+          "end_exclusive": "01:55:07",
+          "reason": "Incidental or joking reference excluded from discussion duration.",
+          "evidence": [
+            {
+              "location": "01:54:07",
+              "quote": "y good I I am going to play the game eventually uh once I finish Jedi Survivor I don't want to bounce around um all right I understand I'm just I'm so annoyed it like I can't I can't believe more people aren't annoyed by this also like everyone who like rushed out to buy the the special edition console man you can still buy that thing everywhere they made a billion of these thi"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-062",
+          "entity_id": "cq222-entity-cq222-g037",
+          "title": "Final Fantasy Pixel Remaster",
+          "game_refs": [
+            "cq222-g037"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "01:37:49",
+          "end_exclusive": "01:38:49",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "01:37:49",
+              "quote": "f a dumb thing that happened just like this hey Final Fantasy uh pixel remasters guess what if you bought the Collector's Edition all that [ __ ] one the Japanese collector's edition got two books and we didn't but we're paying the same price and they got a better book God damn it that sucks also the game's not packed in mine just came in a a bubble mailer inside of the shippin"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-063",
+          "entity_id": "cq222-entity-cq222-g037",
+          "title": "Final Fantasy Pixel Remaster",
+          "game_refs": [
+            "cq222-g037"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "01:41:53",
+          "end_exclusive": "01:42:55",
+          "reason": "Incidental or joking reference excluded from discussion duration.",
+          "evidence": [
+            {
+              "location": "01:41:53",
+              "quote": "very nice ceremony everything was beautiful but it didn't lend itself to playing video games Jedi Survivor came before that so I got a couple days to play that and like you know do what I could there and make some progress uh through like trying to make sure all of my work is done knowing I'm going to be gone and stuff what a sucky time for two like big games to be coming out a"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-064",
+          "entity_id": "cq222-entity-cq222-g038",
+          "title": "Lightening Force: Quest for the Darkstar",
+          "game_refs": [
+            "cq222-g038"
+          ],
+          "entity_kind": "accessory",
+          "role": "PASSING_MENTION",
+          "start": "01:42:55",
+          "end_exclusive": "01:43:55",
+          "reason": "Incidental or joking reference excluded from discussion duration.",
+          "evidence": [
+            {
+              "location": "01:42:55",
+              "quote": " it came out so I think from April 9th to April 9th I bought the lightning Force manual I think from April 9th to May 9th I did not buy a video game thing and that might be the first time in like a decade that's been the case then I bought hey that's crazy oh hey T before I want to just shout out to Forgotten Freshness they sold me a lawn mower man for the Genesis that I forgot"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-065",
+          "entity_id": "cq222-entity-cq222-g039",
+          "title": "The Lawnmower Man",
+          "game_refs": [
+            "cq222-g039"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "01:42:55",
+          "end_exclusive": "01:43:55",
+          "reason": "Incidental or joking reference excluded from discussion duration.",
+          "evidence": [
+            {
+              "location": "01:42:55",
+              "quote": "e I want to just shout out to Forgotten Freshness they sold me a lawn mower man for the Genesis that I forgot I also bought oh right cool yeah shout out to Forgotten fres Freshness that guy rules um yeah great love love interacting with them always real good to me um yeah that my my local going to"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-066",
+          "entity_id": "cq222-entity-cq222-g040",
+          "title": "Banjo-Kazooie: Nuts & Bolts",
+          "game_refs": [
+            "cq222-g040"
+          ],
+          "entity_kind": "video_game",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "01:44:57",
+          "end_exclusive": "01:46:59",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "01:44:57",
+              "quote": " trailers and like people analyzing things but like this game is Banjo Kazooie nuts and bolts too which is the craziest thing I think I would ever say about a Zelda game CU Nintendo is a company that does not really take risks and then they took a risk with breath of the wild making it like this really good interest open world thing which is not the traditional Zelda game unles"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-067",
+          "entity_id": "cq222-entity-cq222-g041",
+          "title": "Animal Crossing",
+          "game_refs": [
+            "cq222-g041"
+          ],
+          "entity_kind": "hardware",
+          "role": "PASSING_MENTION",
+          "start": "01:51:04",
+          "end_exclusive": "01:52:04",
+          "reason": "Incidental or joking reference excluded from discussion duration.",
+          "evidence": [
+            {
+              "location": "01:51:04",
+              "quote": "se I'm an insane person um but I didn't uh like I didn't buy the Animal Crossing one I haven't bought any of these other switches I did buy this one and I bought this controller cuz it's Zelda um and you know how I feel about Zelda but did you look at the controller it's ridiculous just one of the handles is just white PE you know yeah I don't like it but I'm not a special edit"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-068",
+          "entity_id": "cq222-entity-cq222-g042",
+          "title": "Buzz Lightyear Star Star Command shooter",
+          "game_refs": [
+            "cq222-g042"
+          ],
+          "entity_kind": "interactive_attraction",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "01:56:07",
+          "end_exclusive": "01:58:08",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "01:56:07",
+              "quote": "about this stuff but like the entire ride like whatever you know Buzz Lightyear Star Star Command shooter whatever these these rides are like that's a video game Johnny and you can't CCT it and we didn't we didn't think about y The Toy Story ride at at all the Disney parks that okay so you have one of those to That's crazy cuz that's not even like like the Buzz Lightyear one ha"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-069",
+          "entity_id": "cq222-entity-cq222-g043",
+          "title": "Toy Story ride",
+          "game_refs": [
+            "cq222-g043"
+          ],
+          "entity_kind": "interactive_attraction",
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "01:56:07",
+          "end_exclusive": "01:58:08",
+          "reason": "Source-reviewed example or focused exchange; coarse caption boundaries may share adjacent speech; generic intervening sections excluded.",
+          "evidence": [
+            {
+              "location": "01:56:07",
+              "quote": "y and you can't CCT it and we didn't we didn't think about y The Toy Story ride at at all the Disney parks that okay so you have one of those to That's crazy cuz that's not even like like the Buzz Lightyear one has like animatronic stuff and stuff moving all over like the Toy Story one"
+            }
+          ]
+        },
+        {
+          "id": "cq222-audit-span-070",
+          "entity_id": "cq222-entity-cq222-g044",
+          "title": "Club Penguin",
+          "game_refs": [
+            "cq222-g044"
+          ],
+          "entity_kind": "video_game",
+          "role": "PASSING_MENTION",
+          "start": "01:58:08",
+          "end_exclusive": "01:59:08",
+          "reason": "Incidental or joking reference excluded from discussion duration.",
+          "evidence": [
+            {
+              "location": "01:58:08",
+              "quote": " one was me talking to a member of our Discord about his time at Club Penguin so if you like stuff like that or Tyler and I rating movies and fighting um yeah that that's what you get for that extra $2 and that's at patreon.com colorquest and that's it"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "cq222-audit-action-tlou",
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "title": "The Last of Us Part II",
+      "entity_kind": "video_game",
+      "action_state": "played",
+      "summary": "Appreciation of production expenditure, not a new purchase.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Dialogue continuity/direct address; not audio verified."
+      },
+      "evidence": [
+        {
+          "location": "00:18:24",
+          "quote": "when I was playing The Last of Us two"
+        }
+      ]
+    },
+    {
+      "id": "cq222-audit-action-kidklown",
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "title": "Kid Klown in Night Mayor World",
+      "entity_kind": "video_game",
+      "action_state": "purchased",
+      "summary": "Historical purchase; first-ever-price boast not verified.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Dialogue continuity/direct address; not audio verified."
+      },
+      "evidence": [
+        {
+          "location": "00:35:43",
+          "quote": "pay $200 for a loose copy of kid clown"
+        }
+      ]
+    },
+    {
+      "id": "cq222-audit-action-megamanx",
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "title": "Mega Man X iam8bit reissue",
+      "entity_kind": "video_game",
+      "action_state": "received",
+      "summary": "Gift recalled; not evidence Johnny purchased it.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue continuity/direct address; not audio verified."
+      },
+      "evidence": [
+        {
+          "location": "00:39:49",
+          "quote": "somebody sent me one of these right"
+        }
+      ]
+    },
+    {
+      "id": "cq222-audit-action-nurselove",
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "title": "Nurse Love (unresolved)",
+      "entity_kind": "video_game",
+      "action_state": "received",
+      "summary": "Gift; installment unresolved.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue continuity/direct address; not audio verified."
+      },
+      "evidence": [
+        {
+          "location": "00:40:49",
+          "quote": "someone sent me nurse love"
+        }
+      ]
+    },
+    {
+      "id": "cq222-audit-action-gpk",
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "title": "Garbage Pail Kids: Mad Mike and the Quest for Stale Gum",
+      "entity_kind": "video_game",
+      "action_state": "wanted",
+      "summary": "Future buying intention only.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue continuity/direct address; not audio verified."
+      },
+      "evidence": [
+        {
+          "location": "00:41:51",
+          "quote": "I'm going to buy that eventually"
+        }
+      ]
+    },
+    {
+      "id": "cq222-audit-action-supertilt",
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "title": "Super Tilt Bro.",
+      "entity_kind": "video_game",
+      "action_state": "played",
+      "summary": "Earlier version played, not acquisition of current release.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Dialogue continuity/direct address; not audio verified."
+      },
+      "evidence": [
+        {
+          "location": "00:41:51",
+          "quote": "that's a game I played a very old version of a few years ago"
+        }
+      ]
+    },
+    {
+      "id": "cq222-audit-action-metroid",
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "title": "Super Metroid",
+      "entity_kind": "video_game",
+      "action_state": "owned",
+      "summary": "Own-copy hypothetical resale example, not an actual sale.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Dialogue continuity/direct address; not audio verified."
+      },
+      "evidence": [
+        {
+          "location": "00:43:55",
+          "quote": "I still wouldn't sell my Super Metroid"
+        }
+      ]
+    },
+    {
+      "id": "cq222-audit-action-homebrew",
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "title": "NES homebrew collection",
+      "entity_kind": "collection",
+      "action_state": "owned",
+      "summary": "Changing interests without divestment.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Dialogue continuity/direct address; not audio verified."
+      },
+      "evidence": [
+        {
+          "location": "00:57:07",
+          "quote": "I've still of course sold none of it"
+        }
+      ]
+    },
+    {
+      "id": "cq222-audit-action-wii",
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "title": "Wii set",
+      "entity_kind": "collection",
+      "action_state": "owned",
+      "summary": "Reported set completion without exact date or verified set definition.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue continuity/direct address; not audio verified."
+      },
+      "evidence": [
+        {
+          "location": "01:15:26",
+          "quote": "I did I did complete it"
+        }
+      ]
+    },
+    {
+      "id": "cq222-audit-action-oracle",
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "title": "Zelda Oracle games",
+      "entity_kind": "video_game",
+      "action_state": "received",
+      "summary": "Purchase and bubble-mailer delivery against box request.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Dialogue continuity/direct address; not audio verified."
+      },
+      "evidence": [
+        {
+          "location": "01:20:36",
+          "quote": "I bought the the Zelda Oracle games on Game Boy Color"
+        },
+        {
+          "location": "01:20:36",
+          "quote": "they shipped in a bubble mailer"
+        }
+      ]
+    },
+    {
+      "id": "cq222-audit-action-matterhorn",
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "title": "Matterhorn Screamer!",
+      "entity_kind": "video_game",
+      "action_state": "purchased",
+      "summary": "Reported acquisition.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue continuity/direct address; not audio verified."
+      },
+      "evidence": [
+        {
+          "location": "01:30:43",
+          "quote": "did you get uh matter horn screamer I sure did"
+        }
+      ]
+    },
+    {
+      "id": "cq222-audit-action-mickeyspace",
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "title": "Mickey's Space Adventure",
+      "entity_kind": "video_game",
+      "action_state": "purchased",
+      "summary": "Context is Johnny's Disney purchases.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue continuity/direct address; not audio verified."
+      },
+      "evidence": [
+        {
+          "location": "01:30:43",
+          "quote": "I did Mickey's uh space adventure"
+        }
+      ]
+    },
+    {
+      "id": "cq222-audit-action-mickeyoutdoors",
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "title": "Mickey in the Great Outdoors",
+      "entity_kind": "video_game",
+      "action_state": "purchased",
+      "summary": "First-Mickey speculation not verified.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue continuity/direct address; not audio verified."
+      },
+      "evidence": [
+        {
+          "location": "01:31:44",
+          "quote": "I bought Mickey in The Great Outdoors"
+        }
+      ]
+    },
+    {
+      "id": "cq222-audit-action-fallenorder",
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "title": "Star Wars Jedi: Fallen Order code/coin mini-case",
+      "entity_kind": "video_game",
+      "action_state": "purchased",
+      "summary": "Code/coin package, not a physical game disc.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue continuity/direct address; not audio verified."
+      },
+      "evidence": [
+        {
+          "location": "01:30:43",
+          "quote": "I got a little Star Wars Jedi fall in order"
+        }
+      ]
+    },
+    {
+      "id": "cq222-audit-action-survivorbuy",
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "title": "Star Wars Jedi: Survivor Xbox collector's edition",
+      "entity_kind": "video_game",
+      "action_state": "received",
+      "summary": "Unboxing observations in following windows support possession.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue continuity/direct address; not audio verified."
+      },
+      "evidence": [
+        {
+          "location": "01:31:44",
+          "quote": "I also may have bought Jedi Survivor for the Xbox"
+        },
+        {
+          "location": "01:33:46",
+          "quote": "I was looking at this"
+        }
+      ]
+    },
+    {
+      "id": "cq222-audit-action-survivorplay",
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "title": "Star Wars Jedi: Survivor",
+      "entity_kind": "video_game",
+      "action_state": "played",
+      "summary": "Positive enjoyment follows; Tyler's sarcastic YouTube-face remark is not a play review.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue continuity/direct address; not audio verified."
+      },
+      "evidence": [
+        {
+          "location": "01:40:52",
+          "quote": "I played Jedi Survivor"
+        }
+      ]
+    },
+    {
+      "id": "cq222-audit-action-pixel",
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "title": "Final Fantasy Pixel Remaster collector's edition",
+      "entity_kind": "video_game",
+      "action_state": "received",
+      "summary": "Receipt; PS5/PS4 verbal correction must be retained.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue continuity/direct address; not audio verified."
+      },
+      "evidence": [
+        {
+          "location": "01:37:49",
+          "quote": "mine just came in a a bubble mailer inside of the shipping box"
+        }
+      ]
+    },
+    {
+      "id": "cq222-audit-action-lighteningmanual",
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "title": "Lightening Force manual",
+      "entity_kind": "accessory",
+      "action_state": "purchased",
+      "summary": "Accessory, not a game purchase.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Dialogue continuity/direct address; not audio verified."
+      },
+      "evidence": [
+        {
+          "location": "01:42:55",
+          "quote": "I bought the lightning Force manual"
+        }
+      ]
+    },
+    {
+      "id": "cq222-audit-action-lawnmower",
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "title": "The Lawnmower Man (Genesis)",
+      "entity_kind": "video_game",
+      "action_state": "purchased",
+      "summary": "Johnny interrupts Tyler's buying-gap report; not Tyler's purchase.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue continuity/direct address; not audio verified."
+      },
+      "evidence": [
+        {
+          "location": "01:42:55",
+          "quote": "they sold me a lawn mower man for the Genesis that I forgot I also bought"
+        }
+      ]
+    },
+    {
+      "id": "cq222-audit-action-totktyler",
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "title": "The Legend of Zelda: Tears of the Kingdom standard/special editions",
+      "entity_kind": "video_game",
+      "action_state": "purchased",
+      "summary": "Two editions, not two distinct games.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Dialogue continuity/direct address; not audio verified."
+      },
+      "evidence": [
+        {
+          "location": "01:43:55",
+          "quote": "I bought I bought Zelda twice cuz I had to get the regular version and the special edition"
+        }
+      ]
+    },
+    {
+      "id": "cq222-audit-action-totkreceipt",
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "title": "The Legend of Zelda: Tears of the Kingdom standard edition",
+      "entity_kind": "video_game",
+      "action_state": "received",
+      "summary": "Receipt explicitly reported, exact date unknown.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Dialogue continuity/direct address; not audio verified."
+      },
+      "evidence": [
+        {
+          "location": "01:55:07",
+          "quote": "when I got the standard edition in the mail"
+        }
+      ]
+    },
+    {
+      "id": "cq222-audit-action-totkplay",
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "title": "The Legend of Zelda: Tears of the Kingdom",
+      "entity_kind": "video_game",
+      "action_state": "played",
+      "summary": "Early favorable puzzle impressions with later framerate criticism.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Dialogue continuity/direct address; not audio verified."
+      },
+      "evidence": [
+        {
+          "location": "01:44:57",
+          "quote": "only been playing it like a little bit"
+        }
+      ]
+    },
+    {
+      "id": "cq222-audit-action-totkjohnny",
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "title": "The Legend of Zelda: Tears of the Kingdom",
+      "entity_kind": "video_game",
+      "action_state": "purchased",
+      "summary": "Contextually Tears of the Kingdom; not yet a play report.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue continuity/direct address; not audio verified."
+      },
+      "evidence": [
+        {
+          "location": "01:31:44",
+          "quote": "I I bought Zelda"
+        }
+      ]
+    },
+    {
+      "id": "cq222-audit-action-totkwantplay",
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "title": "The Legend of Zelda: Tears of the Kingdom",
+      "entity_kind": "video_game",
+      "action_state": "wanted",
+      "summary": "Intention to play, not purchase intention or completed playthrough.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue continuity/direct address; not audio verified."
+      },
+      "evidence": [
+        {
+          "location": "01:54:07",
+          "quote": "I am going to play the game eventually uh once I finish Jedi Survivor"
+        }
+      ]
+    },
+    {
+      "id": "cq222-audit-action-botw",
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "title": "The Legend of Zelda: Breath of the Wild collector's edition",
+      "entity_kind": "video_game",
+      "action_state": "owned",
+      "summary": "Response to Breath of the Wild price question.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue continuity/direct address; not audio verified."
+      },
+      "evidence": [
+        {
+          "location": "00:27:33",
+          "quote": "since I obtained mine"
+        }
+      ]
+    },
+    {
+      "id": "cq222-audit-action-nutsbolts",
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "title": "Banjo-Kazooie: Nuts & Bolts",
+      "entity_kind": "video_game",
+      "action_state": "mentioned",
+      "summary": "Opinion, not evidence of purchase this episode.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Dialogue continuity/direct address; not audio verified."
+      },
+      "evidence": [
+        {
+          "location": "01:45:58",
+          "quote": "I love Banjo Kazooie nuts and bolts"
+        }
+      ]
+    },
+    {
+      "id": "cq222-audit-action-totkconsole",
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "title": "Tears of the Kingdom Switch and Pro Controller",
+      "entity_kind": "hardware",
+      "action_state": "purchased",
+      "summary": "Hardware, not game-duration credit.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue continuity/direct address; not audio verified."
+      },
+      "evidence": [
+        {
+          "location": "01:51:04",
+          "quote": "I did buy this one and I bought this controller cuz it's Zelda"
+        }
+      ]
+    },
+    {
+      "id": "cq222-audit-action-animalnegative",
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "title": "Animal Crossing Switch console",
+      "entity_kind": "hardware",
+      "action_state": "mentioned",
+      "summary": "Explicit nonpurchase, not acquired item.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue continuity/direct address; not audio verified."
+      },
+      "evidence": [
+        {
+          "location": "01:51:04",
+          "quote": "I didn't buy the Animal Crossing one"
+        }
+      ]
+    },
+    {
+      "id": "cq222-audit-action-ride",
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "title": "Theme-park shooter rides",
+      "entity_kind": "interactive_attraction",
+      "action_state": "played",
+      "summary": "Ride experience, not home-game purchase.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Dialogue continuity/direct address; not audio verified."
+      },
+      "evidence": [
+        {
+          "location": "01:56:07",
+          "quote": "playing a very rare type of video game"
+        }
+      ]
+    },
+    {
+      "id": "cq222-audit-action-beatles",
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "title": "Beatles mono CD set",
+      "entity_kind": "music",
+      "action_state": "received",
+      "summary": "Reported fake returned for refund; not proof seller knew.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Dialogue continuity/direct address; not audio verified."
+      },
+      "evidence": [
+        {
+          "location": "01:18:34",
+          "quote": "I just bought a CD set"
+        },
+        {
+          "location": "01:19:35",
+          "quote": "full refund send it back to me"
+        }
+      ]
+    },
+    {
+      "id": "cq222-audit-action-pins",
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "title": "Disney pins",
+      "entity_kind": "collectible",
+      "action_state": "purchased",
+      "summary": "Later trades reported, not videogames.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Dialogue continuity/direct address; not audio verified."
+      },
+      "evidence": [
+        {
+          "location": "00:10:15",
+          "quote": "I bought like two pins I liked"
+        }
+      ]
+    },
+    {
+      "id": "cq222-audit-action-penny",
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "title": "Replacement crushed penny",
+      "entity_kind": "collectible",
+      "action_state": "purchased",
+      "summary": "Souvenir from broken machine replaced.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Dialogue continuity/direct address; not audio verified."
+      },
+      "evidence": [
+        {
+          "location": "00:09:14",
+          "quote": "I bought a crush penny for $3 off eBay"
+        }
+      ]
+    },
+    {
+      "id": "cq222-audit-action-metal",
+      "source_key": "sc-1517354524",
+      "source_sha256": "a2820c9307babf7623071b725d9e2630efbcd9b559bc608aa9d7d83901a16fd8",
+      "title": "Metal dice collection",
+      "entity_kind": "tabletop",
+      "action_state": "owned",
+      "summary": "Attachment, not evidence of actual later sale.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Tyler",
+        "confidence": "medium",
+        "basis": "Dialogue continuity/direct address; not audio verified."
+      },
+      "evidence": [
+        {
+          "location": "01:02:11",
+          "quote": "I can never sell this collection"
+        }
+      ]
+    }
+  ]
+}

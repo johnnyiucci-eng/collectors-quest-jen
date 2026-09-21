@@ -1,0 +1,226 @@
+{
+  "review_binding": {
+    "version": "cq-review-binding-1",
+    "sha256": "19a590207ec1eccd7111551c977b6fb7eac1e418b280322628fced387fd0bc1a",
+    "reviewed_utc": "2026-09-13 11:15:39 UTC",
+    "meaning": "Exact reviewed local inputs; not independent semantic, audio or live certification"
+  },
+  "schema_version": "1",
+  "required_for": "A1–A8 are mandatory for every episode in every batch.",
+  "acceptance_scope": "Captured-text development review; no audio/live/external-history certification.",
+  "episodes": [
+    {
+      "episode": 9,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All 24 source paragraphs accounted for; VII Remake and Kickle are substantial leaders, original VII ranks on supporting context only.",
+          "evidence": [
+            "batches/003/reviews/009-audit.md",
+            "batches/003/reviews/009-annotations.json"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "Full-source reconciliation plus five frozen reference buckets; regional numbering, unidentified online game and unspecified Harvest Moon remain qualified.",
+          "evidence": [
+            "batches/003/reviews/009-audit.md",
+            "batches/003/reviews/009-annotations.json",
+            "batches/003/reviews/source-first-sample.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Johnny and Kat identified; wife is a third party and Tyler is not imported into this early roster.",
+          "evidence": [
+            "batches/003/reviews/009-audit.md",
+            "batches/003/reviews/009-annotations.json"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "Nineteen action claims distinguish original VII history, remake intent, partial XII, wife's possession and unspecified versions.",
+          "evidence": [
+            "batches/003/reviews/009-audit.md",
+            "batches/003/reviews/009-annotations.json"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Six actual composed answers manually checked against full source contexts; all required context retrieved.",
+          "evidence": [
+            "batches/003/reviews/answer-review.json",
+            "batches/003/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Written practical brief reviewed for recommendation, historical pre-release opinion, numbering correction, open loop and clearly proposed fresh angle.",
+          "evidence": [
+            "batches/003/reviews/009-audit.md",
+            "batches/003/reviews/answer-review.md"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Durable records and annotations rebuilt; exact evidence, mapping, manual-answer snapshot, retrieval, source sample and 79 regressions passed.",
+          "evidence": [
+            "batches/003/reviews/verification.md",
+            "tests/test_lore_continuation.py"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All eight checks have individual reasons and evidence; unresolved item-level qualifications remain visible.",
+          "evidence": [
+            "batches/003/PROGRESS.md",
+            "pilot/WORKFLOW.md"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 76,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All 41 paragraphs accounted for; Skylar & Plux leads with tied three-paragraph followers, not an exclusive untied top three.",
+          "evidence": [
+            "batches/003/reviews/076-audit.md",
+            "batches/003/reviews/076-annotations.json"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "Full-source reconciliation and eight frozen reference buckets preserve platform variants and unidentified Japanese title.",
+          "evidence": [
+            "batches/003/reviews/076-audit.md",
+            "batches/003/reviews/076-annotations.json",
+            "batches/003/reviews/source-first-sample.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Johnny, Kat and Tyler are present; Cat/Pat raw text preserved but person fields normalized to Kat after an actual retrieval miss.",
+          "evidence": [
+            "batches/003/reviews/076-audit.md",
+            "batches/003/reviews/076-annotations.json"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "Forty-nine action claims preserve figurine absence, insert-only Daytona need, intended play and historical purchases.",
+          "evidence": [
+            "batches/003/reviews/076-audit.md",
+            "batches/003/reviews/076-annotations.json"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Seven actual composed answers manually checked; Life Is Strange and Castlevania corrections retrieved, no fake consensus.",
+          "evidence": [
+            "batches/003/reviews/answer-review.json",
+            "batches/003/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Written practical brief reviewed for family-game versus audio-rating distinction, conflicting tastes, completeness lesson and unresolved follow-ups.",
+          "evidence": [
+            "batches/003/reviews/076-audit.md",
+            "batches/003/reviews/answer-review.md"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Durable records and annotations rebuilt; exact evidence, mapping, manual-answer snapshot, retrieval, source sample and 79 regressions passed.",
+          "evidence": [
+            "batches/003/reviews/verification.md",
+            "tests/test_lore_continuation.py"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All eight checks have individual reasons and evidence; unresolved item-level qualifications remain visible.",
+          "evidence": [
+            "batches/003/PROGRESS.md",
+            "pilot/WORKFLOW.md"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 202,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All 118 timed windows accounted for; union-of-caption-window ranking inspected, including near-tied Rage Wars and Dinosaur Rescue.",
+          "evidence": [
+            "batches/003/reviews/202-audit.md",
+            "batches/003/reviews/202-annotations.json"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "Full-source reconciliation plus eleven frozen buckets; initial Turok-series omission repaired. Separately observed Caveman gold omission disclosed without denominator change.",
+          "evidence": [
+            "batches/003/reviews/202-audit.md",
+            "batches/003/reviews/202-annotations.json",
+            "batches/003/reviews/source-first-sample.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Johnny and Tyler attribution qualified by contextual evidence; third-party Dan Gomez ownership is only an episode-dated report.",
+          "evidence": [
+            "batches/003/reviews/202-audit.md",
+            "batches/003/reviews/202-annotations.json"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "Fifty-two actions separate missed purchases, asking prices, third purchase across platforms, wants, blocked play and approaching Mythic.",
+          "evidence": [
+            "batches/003/reviews/202-audit.md",
+            "batches/003/reviews/202-annotations.json"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Nine actual answers manually source-adjudicated; Dinosaur Rescue platform/region citation gap repaired before acceptance; all required context now retrieved.",
+          "evidence": [
+            "batches/003/reviews/answer-review.json",
+            "batches/003/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Written brief desk-reviewed for contrasting host motives, edition evidence, corrected metal-cartridge joke, open bug report and fresh editorial proposals.",
+          "evidence": [
+            "batches/003/reviews/202-audit.md",
+            "batches/003/reviews/answer-review.md"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Durable records and annotations rebuilt; exact evidence, mapping, manual-answer snapshot, retrieval, source sample and 79 regressions passed.",
+          "evidence": [
+            "batches/003/reviews/verification.md",
+            "tests/test_lore_continuation.py"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All eight checks have individual reasons and evidence; unresolved item-level qualifications remain visible.",
+          "evidence": [
+            "batches/003/PROGRESS.md",
+            "pilot/WORKFLOW.md"
+          ]
+        }
+      }
+    }
+  ]
+}

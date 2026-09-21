@@ -1,0 +1,942 @@
+{
+  "schema_version": "1",
+  "reviewer": "Root coordinator: independent full-source and actual-prose review",
+  "scope": "All266sourcewindows across17/84/210 read;46actualanswers individually compared. Captured-text development review, not audio/live certification.",
+  "cases": [
+    {
+      "id": "cq017-task-roster",
+      "episode": 17,
+      "question": "Who is on CQ17, and how seriously are they taking the sports theme?",
+      "query": "Kat Johnny formal ball gown sports Super Bowl",
+      "answer": "Johnny and Kat host this episode; no guest or Tyler is introduced. The upcoming Super Bowl motivates the sports-game theme, but Kat says her sports knowledge is limited and later jokes that once a year is enough. Their formal dress and ball-gown exchange is banter, not reliable evidence of what they wore.",
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 26"
+      ],
+      "forbidden": [
+        "Tyler hosts",
+        "Nick guest present",
+        "Actually wearing stated clothing"
+      ],
+      "status": "passed",
+      "reason": "P1–2 explicitly Kat/Johnny, P26 once-a-year sports banter. NoTyler/guest/clothing literal inference."
+    },
+    {
+      "id": "cq017-task-scope",
+      "episode": 17,
+      "question": "Why aren't Stadium Events and Outback Joey among their main recommendations?",
+      "query": "stadium events fitness dance aerobics excertainment cyber bike outback",
+      "answer": "They explicitly exclude fitness or exercise games from this particular sports roundup. Stadium Events, Dance Aerobics, Exertainment Mountain Bike Rally, Cyberbike and Outback Joey are still mentioned as exclusions. The list is selected examples by system, not a complete list of the most expensive games, and the exclusion does not establish that those titles have no value.",
+      "evidence_locations": [
+        "Paragraph 3",
+        "Paragraph 4"
+      ],
+      "forbidden": [
+        "Never mentioned Stadium Events",
+        "Complete price ranking",
+        "Fitness games worthless"
+      ],
+      "status": "passed",
+      "reason": "P3 limits to selected examples;P4 explicitly mentions excluded fitness titles. Correct exclusion-versus-absence distinction."
+    },
+    {
+      "id": "cq017-task-nes",
+      "episode": 17,
+      "question": "Which NES games did Kat highlight, and had she played the tennis one?",
+      "query": "Tecmo Cup Jimmy Connors Dusty Diamonds Pro Sport Hockey",
+      "answer": "Kat names Tecmo Cup Soccer, Jimmy Connors Tennis, the caption's Dusty Diamonds, and Pro Sport Hockey. She describes getting Tecmo Cup in a good deal with other sports games, but explicitly says she has never played Jimmy Connors Tennis. Johnny distinguishes the expensive or rarer NES Pro Sport Hockey from its common SNES counterpart. These are historical episode judgments, not current valuations.",
+      "evidence_locations": [
+        "Paragraph 4",
+        "Paragraph 5"
+      ],
+      "forbidden": [
+        "Kat played Jimmy Connors",
+        "All four purchased",
+        "Current price certified"
+      ],
+      "status": "passed",
+      "reason": "P4–5 Kat's four names and Tecmo deal; explicit JimmyConnors neverplayed and NES/SNESProSport contrast. RawDusty retained."
+    },
+    {
+      "id": "cq017-task-condition",
+      "episode": 17,
+      "question": "Why wouldn't a cheap loose Golf cartridge tell you what a pristine Mattel copy is worth?",
+      "query": "black box mint golf soccer volleyball Mattel complete cart",
+      "answer": "They separate loose cartridges from complete black-box games and stress condition. Golf, Soccer and Volleyball illustrate why an average or closed-auction number may not describe a mint boxed copy. They also like the Mattel packaging and say it can command more in Canada. Those are their collecting observations, not a verified premium or an instruction to pay a particular current price.",
+      "evidence_locations": [
+        "Paragraph 5",
+        "Paragraph 6"
+      ],
+      "forbidden": [
+        "Every Mattel copy premium",
+        "Verified current appraisal"
+      ],
+      "status": "passed",
+      "reason": "P5–6 differentiates loose versus complete blackbox and condition; Mattel observation not certified currentprice/premium."
+    },
+    {
+      "id": "cq017-task-copa",
+      "episode": 17,
+      "question": "Why does Johnny count Super Copa, and does he give it one dependable price?",
+      "query": "Super Copa Brazil Playtronic regular fake boxes price",
+      "answer": "Johnny counts Super Copa within his own American-library scope because South America is geographically part of the Americas. That is his collecting definition, not proof of an official Nintendo checklist. He distinguishes Playtronic and regular-cover versions, reports widely varying boxed prices, and warns about fakes. The transcript does not support one dependable boxed valuation or authenticated copies merely from their covers.",
+      "evidence_locations": [
+        "Paragraph 7",
+        "Paragraph 8"
+      ],
+      "forbidden": [
+        "Official complete NTSC catalog",
+        "One confirmed market value",
+        "Cover authenticates"
+      ],
+      "status": "passed",
+      "reason": "P7–8 personal Americas scope, Playtronic/regularcovers, pricevolatility and fake warning. No officialcatalog/authentication leap."
+    },
+    {
+      "id": "cq017-task-portable",
+      "episode": 17,
+      "question": "What was difficult about finding International Superstar Soccer 99 complete?",
+      "query": "International Superstar 99 North American PAL Boxed Nick Game Boy Color",
+      "answer": "They distinguish the North American Game Boy Color version from PAL copies. Kat says her research turned up boxed PAL copies but only North American cartridges; she had not found a North American boxed example. Johnny tentatively recalls this being Nick's last Game Boy Color game to complete his set. That is neither proof that North American boxes do not exist nor a confirmed price for Nick's copy.",
+      "evidence_locations": [
+        "Paragraph 12",
+        "Paragraph 13",
+        "Paragraph 14"
+      ],
+      "forbidden": [
+        "No NA boxes exist",
+        "Nick speaking here",
+        "Known price Nick paid"
+      ],
+      "status": "passed",
+      "reason": "P12–14 NorthAmerican/PAL distinction, Kat's unfruitfulboxedsearch and tentative Nickcallback. Negative search isn't nonexistence."
+    },
+    {
+      "id": "cq017-task-saturn",
+      "episode": 17,
+      "question": "How could two nearly identical Daytona packages have such different collecting prices?",
+      "query": "Daytona USA Championship Net Link disc black white insert Winning Post",
+      "answer": "They describe the mail-away NetLink edition of Daytona USA Championship as the expensive target, contrasting it with the ordinary non-NetLink edition. Disc color and the black-and-white insert are the stated clues, with a reported $500–$1,000 versus roughly $10 gap. Those are dated, unverified edition and price claims, not a present appraisal or an authentication guarantee. In the same Saturn segment, Winning Post 99 is corrected to Winning Post for the American title.",
+      "evidence_locations": [
+        "Paragraph 16",
+        "Paragraph 17"
+      ],
+      "forbidden": [
+        "Any Daytona worth1000",
+        "Authenticated from one clue",
+        "American title confirmed99"
+      ],
+      "status": "passed",
+      "reason": "P16–17 NetLink versusordinary physicalclues/datedpriceclaims andWinningPost correction. Notexternaleditionauthentication."
+    },
+    {
+      "id": "cq017-task-madden",
+      "episode": 17,
+      "question": "What distinguishes the collectible Genesis Madden '93 release from ordinary Madden games?",
+      "query": "John Mann Football 93 Championship rental exclusive mail packaging gold",
+      "answer": "The discussion singles out John Madden Football '93 Championship Edition, captioned John Mann, rather than ordinary Madden stock. Johnny describes a rental version and a mail-away version, with rental marking at the lower-left front and possibly the manual. He is unsure whether that marking is a sticker or printed. The dull gold or brass-like packaging is another described clue; the rarity, distribution and price claims remain unverified episode reports.",
+      "evidence_locations": [
+        "Paragraph 11",
+        "Paragraph 12"
+      ],
+      "forbidden": [
+        "All Madden93 same value",
+        "Sticker definitely removable",
+        "Host bought either copy"
+      ],
+      "status": "passed",
+      "reason": "P11–12 JohnMann normalization, two distributionversions, sticker-versus-print uncertainty andpackaging distinction. Nohostpurchase."
+    },
+    {
+      "id": "cq017-task-tecmo",
+      "episode": 17,
+      "question": "Did Johnny and Kat both find cheap Tecmo World Golf copies, and can we calculate Johnny's exact profit?",
+      "query": "Tecmo World Golf long box duplicate traded fifty twenty cheap",
+      "answer": "Both describe cheap long-box finds, and Kat says hers sat in her game room before she recognized its value. Johnny describes finding a duplicate and moving it on, but the account mixes $2, $5 and $20 and uses both traded-out and fetching-$50 wording. It cannot safely be reduced to one exact purchase, cash sale and profit calculation. The long-box type and peeling or poorly reglued artwork are important condition details, not proof that every long-box copy is worth $100.",
+      "evidence_locations": [
+        "Paragraph 21",
+        "Paragraph 22",
+        "Paragraph 23"
+      ],
+      "forbidden": [
+        "Exact45profit",
+        "Every long box100",
+        "Cash sale certain"
+      ],
+      "status": "passed",
+      "reason": "P21–23 bothcheapfinds andJohnnyduplicate move, conflicting$2/$5/$20 andtraded/fetched wording preclude exactcashprofit."
+    },
+    {
+      "id": "cq017-task-gamecube",
+      "episode": 17,
+      "question": "Was NCAA College Basketball 2K3's production story established, and were the other GameCube games new purchases?",
+      "query": "NCAA College Basketball 2K3 production Cubivore Gotcha Force Disney",
+      "answer": "No. Johnny explicitly says he does not know whether production slowed, stopped partway through, or was simply small. He compares NCAA College Basketball 2K3 with other GameCube collectibles whose prices he says had moved past it; that list is not a pickup report. His prediction that NCAA and some Disney Sports games might rise is speculation, and he specifically warns that Disney titles are not suddenly going to fetch hundreds of dollars.",
+      "evidence_locations": [
+        "Paragraph 18",
+        "Paragraph 19",
+        "Paragraph 20"
+      ],
+      "forbidden": [
+        "Confirmed cancelled print run",
+        "Bought Cubivore this week",
+        "Guaranteed price growth"
+      ],
+      "status": "passed",
+      "reason": "P18 explicitly uncertain production,NCAA comparisonlistP19notpickups,P20conditionalDisneyforecastnotguarantee."
+    },
+    {
+      "id": "cq017-task-playing",
+      "episode": 17,
+      "question": "What had Johnny finished and started, and was Kat truly playing nothing?",
+      "query": "Metroid Fusion Zero Mission Kirby pinball send punishment playing",
+      "answer": "Johnny says he started Metroid Fusion and had just finished Zero Mission, while also playing a little unspecified pinball. Kat describes choice overload and minimal play, including briefly putting on an unspecified Kirby game, so the teasing claim that she played nothing is too strong. Johnny recommends a Wii U Sin and Punishment download; Kat welcomes the suggestion, but no purchase or subsequent play is reported.",
+      "evidence_locations": [
+        "Paragraph 27",
+        "Paragraph 28",
+        "Paragraph 29"
+      ],
+      "forbidden": [
+        "Fusion finished",
+        "Kirby exact title",
+        "Kat bought Sin",
+        "Kat zero play"
+      ],
+      "status": "passed",
+      "reason": "P27–29 Fusionstarted/ZeroMissionfinished,KatminimalKirbyplay and welcomedSinPunrecommendationnotpurchase."
+    },
+    {
+      "id": "cq017-task-delivery",
+      "episode": 17,
+      "question": "What actually arrived or was bought, and what was still just a plan?",
+      "query": "Alien Predator box cart Metal Slug mail came expo sell John",
+      "answer": "Johnny reports buying Alien vs. Predator for SNES as a cheap box and a separate cheap cartridge; no manual or complete-in-box claim follows. The Metal Slug games he had mentioned buying earlier have now arrived in the mail, but playing them is still a plan and this episode does not specify their exact editions. He hopes to buy and sell at the upcoming expo. Kat reports no new purchases, and her partner John has not found anything either; John is not Johnny.",
+      "evidence_locations": [
+        "Paragraph 27",
+        "Paragraph 28",
+        "Paragraph 29"
+      ],
+      "forbidden": [
+        "AVP CIB",
+        "Metal Slug played already",
+        "Expo attended proven",
+        "John equalsJohnny"
+      ],
+      "status": "passed",
+      "reason": "P27–29 separateAVPbox/cartwithoutmanual, MetalSlugactuallyarrivedbutplayfuture, expohope notattendance andKat'sJohnnotJohnny."
+    },
+    {
+      "id": "cq084-task-scope",
+      "episode": 84,
+      "question": "Who is talking, and what did they leave out of the console list?",
+      "query": "participants Kat absent America handheld controllers Crystal Canada scope",
+      "answer": "Tyler and Johnny are present; Kat is explicitly absent. They focus on American special-edition home consoles, leaving handhelds, overseas editions and controller collecting for possible separate episodes. The Crystal Xbox discussion treats Canada as within North America while expressing uncertainty about a US release, so this is not a rigorously US-only catalog.",
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 19"
+      ],
+      "forbidden": [
+        "Kat present",
+        "complete worldwide catalog",
+        "future episode already produced"
+      ],
+      "status": "passed",
+      "reason": "P1–2 Tyler/Johnny/absentKat, excludedhandheld/controllers/overseas;P19CanadawithinAmerica andUSuncertain, noUS-onlyrigidity."
+    },
+    {
+      "id": "cq084-task-rank",
+      "episode": 84,
+      "question": "Which three games received the most discussion, excluding all the console artwork?",
+      "query": "MUSHA Pyst Cuphead Rolo Robo Aleste Street Fighter2 Red Zone Lost Sphere meaningful game discussion hardware",
+      "answer": "MUSHA has the largest reviewed meaningful paragraph union at four, followed by Pyst at three. There is no unique third game: Cuphead, Rolo to the Rescue, Robo Aleste, the Street Fighter II anniversary cartridge, Red Zone and Lost Sphear each have two meaningful paragraphs in this map. Cuphead has two substantial discussion windows, so it is the strongest depth-qualified third pick, not a uniquely third-ranked title by coverage alone. Console editions, compilations and series references are excluded; these untimed paragraph unions are not speaking minutes.",
+      "evidence_locations": [
+        "Paragraph 17",
+        "Paragraph 18",
+        "Paragraph 32",
+        "Paragraph 33",
+        "Paragraph 34",
+        "Paragraph 35",
+        "Paragraph 36",
+        "Paragraph 37",
+        "Paragraph 38",
+        "Paragraph 39",
+        "Paragraph 40",
+        "Paragraph 45"
+      ],
+      "forbidden": [
+        "console art counted as game play",
+        "speech minutes",
+        "unique third by raw coverage"
+      ],
+      "status": "passed",
+      "reason": "Verified numeric map: MUSHA4, Pyst3; six games share2meaningfulparagraphs. Cuphead alone has2substantial; no unique coverage-only third. Fullsource review confirms hardwareNewLeaf and passingPinballArcade do not inflate leaders."
+    },
+    {
+      "id": "cq084-task-sega",
+      "episode": 84,
+      "question": "Why is Johnny playing Genesis games on an Xbox if he owns the original hardware?",
+      "query": "Johnny Shining Force Genesis collection Xbox360 modded office couch saves",
+      "answer": "Johnny uses the Xbox 360 Genesis compilation for Shining Force because of convenient saving and couch play. He corrects the implication that he has no Genesis connected: a modified Genesis with S-video is hooked up in his office. This is a preference for the setup in use, not evidence that he sold the original hardware or played an original cartridge during this session.",
+      "evidence_locations": [
+        "Paragraph 7",
+        "Paragraph 8"
+      ],
+      "forbidden": [
+        "Genesis sold",
+        "no Genesis connected",
+        "original cartridge session"
+      ],
+      "status": "passed",
+      "reason": "P7 explicitmoddedGenesisoffice correction, compilationShiningForce couch/savingconvenience. Noownershiploss orcartridgeplay inference."
+    },
+    {
+      "id": "cq084-task-design",
+      "episode": 84,
+      "question": "Does liking a special console mean they liked its game too?",
+      "query": "Final Fantasy15 moon PS4 pumping gas Minecraft dirt grass Metal Gear Solid4 favorite",
+      "answer": "No. Johnny likes the moon design of the Final Fantasy XV PS4 while disliking his early experience of the game, joking about pumping gas and saying he did not get far enough to assess its praised later sections. He also likes Minecraft but dislikes its Xbox design; Tyler is more positive about that design. Tyler's gunmetal PS3 is a different case: he links its appeal to Metal Gear Solid 4 being a favorite. None of those design comments alone establishes ownership of every edition.",
+      "evidence_locations": [
+        "Paragraph 8",
+        "Paragraph 15",
+        "Paragraph 16",
+        "Paragraph 27"
+      ],
+      "forbidden": [
+        "all pictured consoles owned",
+        "Johnny finishedFF15",
+        "Tyler hatesMinecraft"
+      ],
+      "status": "passed",
+      "reason": "P8 MGS4favorite linkedconsole;P15–16 Minecraftgame/design distinction;P27 FF15earlyexperience versusmoonconsoledesign. Noallownership."
+    },
+    {
+      "id": "cq084-task-orange",
+      "episode": 84,
+      "question": "Was that orange Halo Xbox a retail release, and how many existed?",
+      "query": "Halo translucent orange garage sale one known four shells molds retail uncertain",
+      "answer": "Tyler reports an orange translucent Halo Xbox found at a garage sale and describes one known example, with a photograph apparently showing four top shells. He says it was confirmed using Microsoft molds, but that is his reported provenance, not independent authentication here. He doubts a retail release. The source therefore cannot establish a verified production total, surviving-unit census or retail launch.",
+      "evidence_locations": [
+        "Paragraph 25",
+        "Paragraph 26"
+      ],
+      "forbidden": [
+        "exactlyone manufactured",
+        "four complete retail units",
+        "confirmed retail release"
+      ],
+      "status": "passed",
+      "reason": "P25–26 reported orangeHalooneexample/fourtop-shellphoto and retaildoubt. Answer keeps provenance/censusuncertain."
+    },
+    {
+      "id": "cq084-task-cuphead",
+      "episode": 84,
+      "question": "How far did the Cuphead co-op run get, and was a physical Switch copy already ordered?",
+      "query": "Cuphead co-op more than half friend physical release Twitter Switch1200 joke",
+      "answer": "Tyler says he and an unnamed friend restarted Cuphead and played a little more than half, after earlier random-level sessions. That is not completion. They hope for a physical release and discuss a reported Twitter assurance, while a Switch edition, $100 enthusiasm and a 1,200-copy limited-release scenario are speculative or joking. A prior 'little thing' someone bought is not identified securely enough to call it an ordered final physical Switch game.",
+      "evidence_locations": [
+        "Paragraph 32",
+        "Paragraph 33"
+      ],
+      "forbidden": [
+        "completedCuphead",
+        "physicalSwitch ordered",
+        "1200 confirmed production"
+      ],
+      "status": "passed",
+      "reason": "P32–33 namedTyler andunnamedfriend, restartmorethanhalf, priorrandomlevels. PhysicalSwitchreleasehypothesis/1200joke notorder."
+    },
+    {
+      "id": "cq084-task-pickups",
+      "episode": 84,
+      "question": "What did Tyler actually buy, and what was he more excited about than the expensive Genesis game?",
+      "query": "Tyler Pyst saved search10 dollars RedZone MUSHA Rolo30 Halo2Platinum case",
+      "answer": "Tyler reports Pyst, Red Zone, MUSHA and Rolo to the Rescue, then adds Halo 2 Platinum Hits near the end. Pyst was the approximately $10 saved-search find; Rolo was an auction win he recalls at about $30. He is especially excited by Pyst's big box and Halo 2's translucent gray case, even though he wants to play MUSHA more. The prices are dated recollections, and buying Rolo does not establish playing it—he jokes that he never will.",
+      "evidence_locations": [
+        "Paragraph 33",
+        "Paragraph 34",
+        "Paragraph 35",
+        "Paragraph 36",
+        "Paragraph 45"
+      ],
+      "forbidden": [
+        "MUSHA10",
+        "Rolo played",
+        "Halo purchaseJohnny",
+        "current price guidance"
+      ],
+      "status": "passed",
+      "reason": "P33–36 Pyst$10savedsearch/Rolo~30auction, MUSHA/RedZoneactualpickups;P45TylerHalo2case preference. NotRologameplay."
+    },
+    {
+      "id": "cq084-task-aleste",
+      "episode": 84,
+      "question": "Did Tyler really say he had never played Aleste, and was the Sega CD game Sol-Feace?",
+      "query": "never played Alist SegaCD RoboAlist SoulFeast SoulDeast correction CrusaderSenty",
+      "answer": "He initially says he has never played an Aleste game, then corrects himself by recalling the Sega CD entry. After a false start involving Sol-Feace, the conversation settles on Robo Aleste. Preserve that correction rather than recording a permanent series-wide nonplay claim or treating the mistaken guess as proof he played Sol-Feace. His request for an extra Crusader of Centy is a separate want, not an agreed purchase.",
+      "evidence_locations": [
+        "Paragraph 37",
+        "Paragraph 38"
+      ],
+      "forbidden": [
+        "never anyAleste final",
+        "SolFeace played based on guess",
+        "Crusader bought"
+      ],
+      "status": "passed",
+      "reason": "P37–38 initialnonplay correctedRoboAleste afterSolFeaceguess. Crusaderwant notpurchase."
+    },
+    {
+      "id": "cq084-task-pinball",
+      "episode": 84,
+      "question": "Which host played in the state championship, and who was talking about a pinball video game?",
+      "query": "Johnny Pinball Arcade Stern Switch vertical Zen Tyler NorthCarolina Trent first round four games",
+      "answer": "Johnny describes digital pinball and testing Stern Pinball Arcade on Switch, disliking its reported lack of handheld vertical play and preferring Zen's fantasy designs. Tyler reports actually competing in North Carolina's physical-pinball state championship and losing four first-round games to the opponent transcribed as Trent Ogonstone. Tyler thought his games were competitive and says that opponent won the state event. The opponent's motive for choosing North Carolina is speculation, and no specific physical tables or verified world ranking are established here.",
+      "evidence_locations": [
+        "Paragraph 40",
+        "Paragraph 41",
+        "Paragraph 42",
+        "Paragraph 43",
+        "Paragraph 44"
+      ],
+      "forbidden": [
+        "Johnny championship",
+        "Tyler played seventh game",
+        "verifiedrank",
+        "named physical tables invented"
+      ],
+      "status": "passed",
+      "reason": "P40–44 turnsequence separatesJohnnydigitalStern fromTylerphysicalchampionship, fourlosses andqualifiedopponentmotive."
+    },
+    {
+      "id": "cq084-task-ps1",
+      "episode": 84,
+      "question": "Did Johnny buy a hundred Xbox games, and was the gray-case Halo purchase his too?",
+      "query": "Johnny100 PS one not Xbox Rayman Spyro KellySlater Rappella SpiderMan Monopoly Cabela SpongeBob Halo2Tyler",
+      "answer": "Johnny immediately corrects 'about 100 Xbox games' to about 100 PS1 games. He says he is still several hundred away, but the unpunctuated transition into the Xbox list leaves which set that remaining count belongs to uncertain. He then lists Xbox pickups: Rayman 3, an unspecified Spyro game, Kelly Slater's Pro Surfer, Rapala Pro Fishing, Spider-Man 2, Monopoly Party, Cabela's Deer Hunt: 2005 Season and SpongeBob SquarePants: Lights, Camera, Pants!, whose title is corrected aloud. Halo 2 Platinum Hits is Tyler's separate purchase, prompted by Archon Turtle's case-color observation. The earlier 400-of-each remark is banter, not another purchase count.",
+      "evidence_locations": [
+        "Paragraph 44",
+        "Paragraph 45"
+      ],
+      "forbidden": [
+        "100Xbox",
+        "HaloJohnny",
+        "Spyroinstallment invented",
+        "PS1complete"
+      ],
+      "status": "passed",
+      "reason": "P44–45 100Xbox immediatelycorrected100PS1; remainingcounttransitionalambiguity retained; eightXboxgamesJohnny, Halo2Tyler. Spyrounspecified."
+    },
+    {
+      "id": "cq084-task-loops",
+      "episode": 84,
+      "question": "Which plans were still only plans at the end?",
+      "query": "PS4 Pro newXbox waiting specialedition controller handheld episode library bullshit NintendoLabo vertical email",
+      "answer": "Johnny still wants a new Xbox and PS4 Pro but is waiting for an appealing special edition or another reason to upgrade. Controller, handheld and library-quality episodes are proposed follow-ups, not completed episodes. Cuphead physical-release discussion and Tyler's cardboard Labo pinball idea remain hopes or hypotheticals; the joking child-email scenario is not evidence that an email was sent. These are useful follow-up questions, not outcomes to fill in.",
+      "evidence_locations": [
+        "Paragraph 2",
+        "Paragraph 5",
+        "Paragraph 29",
+        "Paragraph 30",
+        "Paragraph 33",
+        "Paragraph 38",
+        "Paragraph 39",
+        "Paragraph 44"
+      ],
+      "forbidden": [
+        "upgrades received",
+        "episodes already recorded",
+        "Labo manufactured",
+        "email actuallysent"
+      ],
+      "status": "passed",
+      "reason": "P2/P5/P29–30 futureupgrades/episodes,P33Cupheadhypothetical,P38–39librarycomparisonidea/P44unsentLaboemail. Nooutcomesinvented."
+    },
+    {
+      "id": "cq084-task-pyst",
+      "episode": 84,
+      "question": "Does Johnny definitely own and play Pyst?",
+      "query": "Pyst Myst actually played think own check PC box garage World Warcraft CityHeroes",
+      "answer": "Johnny says he thinks he owns Pyst but needs to check his PC games, so ownership is tentative. He explicitly says he loves Myst; the nearby 'actually played it' pronoun is not secure enough to force into a Pyst play event. He does confirm keeping boxed PC player copies, including World of Warcraft releases and City of Heroes. Tyler's offer to search or take games does not become an agreed sale or gift.",
+      "evidence_locations": [
+        "Paragraph 36",
+        "Paragraph 37"
+      ],
+      "forbidden": [
+        "Pyst certainly owned",
+        "Pyst certainlyplayed",
+        "games giftedTyler"
+      ],
+      "status": "passed",
+      "reason": "P36–37 JohnnytentativePystown, ambiguousplayed-it versusMyst; retainedPCboxes notagreedgift/sale."
+    },
+    {
+      "id": "cq210-set-finished",
+      "episode": 210,
+      "question": "Did Johnny finish the Wii set, and how certain was he?",
+      "query": "Did Johnny finish the Wii set, and how certain was he?",
+      "answer": "Johnny announced that he thought he had finished it, but explicitly had not audited his inventory or settled the flawed list. Near the end he said he had ordered the last game a few days earlier and other orders were still arriving. Treat this as a qualified completion announcement, not proof that every required edition was present and received.",
+      "evidence_locations": [
+        "00:40:26",
+        "00:41:27",
+        "00:42:35",
+        "03:02:48"
+      ],
+      "forbidden": [
+        "Do not certify1273 exact complete inventory.",
+        "Do not mark last order received."
+      ],
+      "status": "passed",
+      "reason": "Read40:26–42:35 and03:02:48: explicit unaudited completion plus last order/incoming deliveries. No fully received certified inventory."
+    },
+    {
+      "id": "cq210-new-buys",
+      "episode": 210,
+      "question": "Which new games did Tyler and Johnny buy at the start, and was Rainbow Billy one of them?",
+      "query": "Which new games did Tyler and Johnny buy at the start, and was Rainbow Billy one of them?",
+      "answer": "Tyler bought Monkey Island3 and4, Blake Stone and System Shock Enhanced Edition digitally on GOG for a combined9dollars; he had not played Monkey Island3/4. Johnny bought an unspecified JoJo’s Bizarre Adventure Switch game at Target for30. Rainbow Billy was in his cart and he expected to buy it, but the episode does not confirm checkout.",
+      "evidence_locations": [
+        "00:02:04",
+        "00:03:08",
+        "00:09:26",
+        "00:13:38"
+      ],
+      "forbidden": [
+        "Do not chooseJoJo subtitle withoutsource.",
+        "Do not mark RainbowBilly purchased.",
+        "Do not implynewenhancedSystemShockalreadyplayed."
+      ],
+      "status": "passed",
+      "reason": "Read02:04–03:08 and09:26/13:38: GOG9total and separate JohnnyJoJo30 purchase; RainbowBilly cart only; no JoJo subtitle invented."
+    },
+    {
+      "id": "cq210-advent",
+      "episode": 210,
+      "question": "Why did Advent Calendar look rare, and what corrected that impression?",
+      "query": "Why did Advent Calendar look rare, and what corrected that impression?",
+      "answer": "The hosts initially found few sold ESRB copies and little current stock. A broader search found GameStop, Best Buy and Target listings; the available Target listing was from a partner, so the Target-exclusive guess and60dollar MSRP inference were not established. They suggested waiting until January for unwanted gifts, which was a prediction rather than observed supply.",
+      "evidence_locations": [
+        "00:07:23",
+        "00:08:26",
+        "00:09:26",
+        "00:10:28",
+        "00:11:32",
+        "00:12:35"
+      ],
+      "forbidden": [
+        "Do not call itTargetexclusive.",
+        "Do not certify60MSRP.",
+        "Do not claimJanuarysaleoccurred."
+      ],
+      "status": "passed",
+      "reason": "Read07:23–12:35: sold-listing scarcity revised by retailer/partner search; Targetexclusive/MSRP guesses not established; Januarywait remainsforecast."
+    },
+    {
+      "id": "cq210-launch-memories",
+      "episode": 210,
+      "question": "How did Tyler and Johnny get their launch Wiis, and did they enjoy waiting?",
+      "query": "How did Tyler and Johnny get their launch Wiis, and did they enjoy waiting?",
+      "answer": "Tyler lined up at Walmart at9am expecting a midnight launch, waited another nine hours, and got one of only nine consoles with a police escort to his car. Johnny waited in another long line with his future wife after leaving an event early and also got one. Tyler remembers the excited camaraderie fondly; Johnny emphasizes the discomfort and waiting. Johnny was unsure which event he had left.",
+      "evidence_locations": [
+        "00:26:29",
+        "00:27:34",
+        "00:28:36",
+        "00:29:38",
+        "00:30:41"
+      ],
+      "forbidden": [
+        "Do not putJohnnyinTylerWalmartqueue.",
+        "Do not resolveeventtoE3orComicCon."
+      ],
+      "status": "passed",
+      "reason": "Read26:29–30:41: TylerWalmart9am/nineconsoles/escort contrastedJohnnyfuturewife/eventuncertainty and waitingdiscomfort."
+    },
+    {
+      "id": "cq210-launch-list",
+      "episode": 210,
+      "question": "What launch games did they list, and which did Tyler single out?",
+      "query": "What launch games did they list, and which did Tyler single out?",
+      "answer": "Their supplied launch-day list was Avatar: The Last Airbender, Barnyard, Call of Duty3, Cars, Dragon Ball Z: Budokai Tenkaichi2, Excite Truck, GT Pro Series, Happy Feet, Madden07, Marvel: Ultimate Alliance, Monster4x4: World Circuit, Need for Speed: Carbon, Rampage: Total Destruction, Rayman Raving Rabbids, Red Steel, SpongeBob: Creature from the Krusty Krab, Super Monkey Ball: Banana Blitz, The Grim Adventures of Billy & Mandy, Twilight Princess, Tony Hawk’s Downhill Jam, Trauma Center: Second Opinion and pack-in Wii Sports. Tyler highlighted Twilight Princess, Excite Truck, Marvel, Red Steel, Trauma Center and Wii Sports as a credible core, while Monkey Ball disappointed him. This is their list, not independent release-calendar verification.",
+      "evidence_locations": [
+        "01:13:28",
+        "01:14:28",
+        "01:15:33",
+        "01:16:35",
+        "01:17:39"
+      ],
+      "forbidden": [
+        "Do not call everylistedgameplayed.",
+        "MarvelpersonalplaywasXbox.",
+        "Do not turncoreintoorderedranking."
+      ],
+      "status": "passed",
+      "reason": "Read01:13:28–17:39: all22suppliedlaunchmembers and sixfavorablecoretitles individually verified. NegativeMonkeyBallassessment and unverifiedreleasecalendar retained."
+    },
+    {
+      "id": "cq210-last-releases",
+      "episode": 210,
+      "question": "Was Barbie Puppy Rescue really the last Wii game?",
+      "query": "Was Barbie Puppy Rescue really the last Wii game?",
+      "answer": "Only under their deliberately narrow category: the last conventional release excluding Just Dance and unusual PAL limited prints. They identified Barbie and Her Sisters: Puppy Rescue in November2015, followed by Just Dance2017–2020, and finally PAL Retro City Rampage DX and Shakedown: Hawaii in mid2020. Tyler’s owned Shakedown copy was Wii U, not the PAL Wii release.",
+      "evidence_locations": [
+        "01:21:55",
+        "01:23:01",
+        "01:24:05",
+        "01:25:11",
+        "01:26:14"
+      ],
+      "forbidden": [
+        "Do not sayBarbieabsolutelast.",
+        "Do not markWiiShakedownowned.",
+        "Do not assertNTSCRetroCityWii."
+      ],
+      "status": "passed",
+      "reason": "Read01:21:55–26:14: Barbiecategoryqualified,JustDance2017–2020/PAL2020later; ownedWiiUShakedown distinctfromPALWii."
+    },
+    {
+      "id": "cq210-camera",
+      "episode": 210,
+      "question": "What was the surprising Wii camera bundle, and was it only used by one game?",
+      "query": "What was the surprising Wii camera bundle, and was it only used by one game?",
+      "answer": "Fit in Six came with a USB webcam, which surprised Tyler. The initial implication that this was a one-game peripheral was corrected when they found the Ubisoft motion-tracking webcam also bundled with Racquet Sports. The episode does not establish a complete compatibility list.",
+      "evidence_locations": [
+        "01:00:34",
+        "01:01:37"
+      ],
+      "forbidden": [
+        "Do not claimFitInSixexclusivecamera.",
+        "Do not creditcamera minutestoallnearbygames."
+      ],
+      "status": "passed",
+      "reason": "Read01:00:34–01:01:37: FitInSixwebcamsurprise followedbyRacquetSports correction; notexclusivecompatibilityclaim."
+    },
+    {
+      "id": "cq210-edge-discs",
+      "episode": 210,
+      "question": "What Wii discs sat outside an ordinary retail set, and what remained uncertain?",
+      "query": "What Wii discs sat outside an ordinary retail set, and what remained uncertain?",
+      "answer": "They discussed Twilight Princess NFR kiosk discs, several repair-center utility discs Tyler had bought, and a Netflix streaming disc. The Club Penguin: Game Day! fifth-anniversary black-case package was another possible edge case, but employee-only distribution was unverified and TigerWolf was suggested as a source to ask. The PAL kiosk650sold and NTSC375unsold figures were not equivalent completed sales.",
+      "evidence_locations": [
+        "01:09:05",
+        "01:10:11",
+        "01:11:17",
+        "01:12:24",
+        "01:13:28"
+      ],
+      "forbidden": [
+        "Do not rankutilitiesasgames.",
+        "Do not certifyemployee-onlydistribution.",
+        "Do not compareaskandsoldasmatchedmarketprices."
+      ],
+      "status": "passed",
+      "reason": "Read01:09:05–13:28: NFR/repair/Netflixutilities distinct; ClubPenguinprovenance unverified; PALcompleted650 versusNTSCunsold375 notequivalent."
+    },
+    {
+      "id": "cq210-mexico",
+      "episode": 210,
+      "question": "Which Mexico-exclusive Wii games did they identify, and what would you need to collect them properly?",
+      "query": "Which Mexico-exclusive Wii games did they identify, and what would you need to collect them properly?",
+      "answer": "They claimed three Mexican exclusives, but the first roughly45dollar title is not identifiable in the supplied caption. Atrévete a Soñar was the karaoke release for which they stressed the microphone outer box; Lucha Libre AAA: Héroes del Ring was the wrestling game with a foil cover. These were presented as distinct releases rather than ordinary sports-cover swaps. The missing third title should remain unresolved.",
+      "evidence_locations": [
+        "01:41:04",
+        "01:42:08",
+        "01:43:12"
+      ],
+      "forbidden": [
+        "Do not inventElChavoorthirdtitle.",
+        "Do not inferTylerplayedLuchaLibrefromattendingwrestling.",
+        "Do not treatinnerkaraokeboxascompleteouterbundle."
+      ],
+      "status": "passed",
+      "reason": "Read01:41:04–43:12: microphoneouterbox andLuchafoil explicit; unnamed45thirdtitle remainsmissing notfilledfromexternalcatalog."
+    },
+    {
+      "id": "cq210-rare-versus-hyped",
+      "episode": 210,
+      "question": "Why did they resist calling expensive Wii games the rarest?",
+      "query": "Why did they resist calling expensive Wii games the rarest?",
+      "answer": "They argued that low demand and old hype can make price misleading. Cyberbike and Dokapon Kingdom were familiar hyped names; older American Mensa Academy, Lucha Libre and power-pack hype had receded. Johnny saw fewer Sprint Cars copies than Veggie World despite Veggie World’s higher price. Violetta’s unusual seller stock and Let’s Sing2016’s reported recall were interesting, but neither established a measured rarity ranking or guaranteed investment.",
+      "evidence_locations": [
+        "01:27:19",
+        "01:28:23",
+        "01:29:31",
+        "01:30:34",
+        "01:31:35",
+        "01:32:38",
+        "01:33:45",
+        "01:34:46",
+        "01:35:46",
+        "01:36:50",
+        "01:37:54",
+        "01:38:59",
+        "01:40:01"
+      ],
+      "forbidden": [
+        "Do not callmostexpensiverarest.",
+        "Do not promisepricegrowth.",
+        "Do not implyoneeBaysnapshotcompletepopulation."
+      ],
+      "status": "passed",
+      "reason": "Read01:27:19–40:01: demand/hype/availabilitydistinctions andSprintCarsversusVeggieWorld; historicallistings no measuredrarity ranking."
+    },
+    {
+      "id": "cq210-hot-list",
+      "episode": 210,
+      "question": "What was Tyler’s main popular Wii game list, and was it a ranked best-games list?",
+      "query": "What was Tyler’s main popular Wii game list, and was it a ranked best-games list?",
+      "answer": "His main group included Super Mario Galaxy1/2, Mario Kart Wii, Twilight Princess, Wii Sports with a Wii Sports Resort qualification, Xenoblade Chronicles, Zack & Wiki and No More Heroes1/2. It was a popularity-oriented group, not an ordered best-games ranking. He explicitly said that Zack & Wiki being the eighth game he mentioned did not mean it was the eighth-best Wii game he had played.",
+      "evidence_locations": [
+        "01:45:17",
+        "01:46:22",
+        "01:47:23",
+        "01:48:27",
+        "01:49:33"
+      ],
+      "forbidden": [
+        "Do not equatementionorderqualityrank.",
+        "Do not callallconsensusfavorites."
+      ],
+      "status": "passed",
+      "reason": "Read01:45:17–49:33:10mainmembersincludingqualifiedResort/NMH2; Skyward/Crossbowasideexcluded; Zack eighthmentionnotrank."
+    },
+    {
+      "id": "cq210-secondary-list",
+      "episode": 210,
+      "question": "Which secondary Wii games did they add, and where did they disagree?",
+      "query": "Which secondary Wii games did they add, and where did they disagree?",
+      "answer": "The secondary discussion included New Super Mario Bros. Wii, Super Paper Mario, Brawl, Skyward Sword, Metroid Prime3, Donkey Kong Country Returns, Punch-Out, the Wii Mario All-Stars anniversary package and Radiant Dawn. Resident Evil4 and Shattered Memories were further good-game examples rather than firmly assigned the same tier. Johnny added Metroid Prime Trilogy and Mario Party8/9. Tyler acknowledged Epic Yarn’s popularity but deliberately omitted it because he disliked it. These categories and disagreements should stay visible.",
+      "evidence_locations": [
+        "01:49:33",
+        "01:50:36",
+        "01:51:38",
+        "01:52:40",
+        "01:53:48",
+        "01:54:56",
+        "01:56:00",
+        "01:57:00",
+        "01:58:01",
+        "01:59:04",
+        "02:00:09"
+      ],
+      "forbidden": [
+        "Do not silentlyincludeEpicYarnasTylerrecommendation.",
+        "Do not rankcompilationsasindividualgames.",
+        "Do not flattenalltiers."
+      ],
+      "status": "passed",
+      "reason": "Read01:49:33–02:00:09: secondaryversusfurtherexamples andJohnnyadditions separate; EpicYarn andOtherM explicitexclusions nowtyped."
+    },
+    {
+      "id": "cq210-motion-exception",
+      "episode": 210,
+      "question": "Did Tyler dislike every Wii game’s motion controls?",
+      "query": "Did Tyler dislike every Wii game’s motion controls?",
+      "answer": "No. He broadly criticized Wii relative aiming and praised PlayStation Move, but specifically liked Resident Evil4 on Wii after playing the GameCube version, including its aiming and motion actions. He also liked Wii Sports Resort. His strong general view therefore has named exceptions, and Johnny separately defended collecting motion games if someone enjoys them.",
+      "evidence_locations": [
+        "00:31:47",
+        "00:32:51",
+        "00:33:57",
+        "01:58:01",
+        "02:00:09",
+        "02:34:15",
+        "02:35:18",
+        "02:36:23"
+      ],
+      "forbidden": [
+        "Do not sayallmotioncontrolsbad.",
+        "Do not eraseJohnnydisagreement."
+      ],
+      "status": "passed",
+      "reason": "Read31:47–33:57,01:58:01,02:34:15–36:23: TylerbroadcriticismdoesnoteraseRE4/ResortexceptionsorJohnnyconditionaldefense."
+    },
+    {
+      "id": "cq210-links-crossbow",
+      "episode": 210,
+      "question": "Who had played Link’s Crossbow Training, and why did the packaging matter?",
+      "query": "Who had played Link’s Crossbow Training, and why did the packaging matter?",
+      "answer": "Johnny said he loved it; Tyler explicitly said he had never played it despite liking Twilight Princess. Tyler thought the “training” name and cardboard sleeve made it look like a small free extra. The conversation clarified the Zapper bundle and paid sales, while later Dino Strike discussion showed that a sleeve could indicate a peripheral bundle with a separate full-case version—not a universal sign of a lesser game.",
+      "evidence_locations": [
+        "02:03:21",
+        "02:04:23",
+        "02:05:26",
+        "02:07:33",
+        "02:08:39"
+      ],
+      "forbidden": [
+        "Do not markTylerplayed.",
+        "Do not callZapperanactualopticalgun.",
+        "Do not collapseDinoStrikeversions."
+      ],
+      "status": "passed",
+      "reason": "Read02:03:21–08:39: JohnnylovedCrossbow/Tylerneverplayed; title/sleeve impressionnotuniversalqualityrule; DinoStrikebundlecorrection retained."
+    },
+    {
+      "id": "cq210-first-print",
+      "episode": 210,
+      "question": "How did they suggest finding early Wii Sports, and why was Tyler’s UAE copy a different choice?",
+      "query": "How did they suggest finding early Wii Sports, and why was Tyler’s UAE copy a different choice?",
+      "answer": "They pointed to code62002A and a2006menu copyright as clues for early Wii Sports, contrasting later codes and2006–2007; the early version’s fewer baseball animations mattered to speedrunning. Tyler separately bought a UAE white-box ESRB copy because he liked that packaging. That regional exception was not an assertion that the UAE copy was an original North American launch print.",
+      "evidence_locations": [
+        "02:14:01",
+        "02:15:07",
+        "02:16:14",
+        "02:17:21",
+        "02:22:33",
+        "02:23:34"
+      ],
+      "forbidden": [
+        "Do not callUAEcopyNAfirstprint.",
+        "Do not verifyallWiFilogosfirstprint.",
+        "Do not inventtestedserials."
+      ],
+      "status": "passed",
+      "reason": "Read02:14:01–17:21,22:33–23:34: code/menu clues andbaseballanimations historical; TylerUAEboxchoice notNAfirstprint."
+    },
+    {
+      "id": "cq210-reprints",
+      "episode": 210,
+      "question": "Why can a complete-looking Wii game still have mismatched parts?",
+      "query": "Why can a complete-looking Wii game still have mismatched parts?",
+      "answer": "The hosts described GameStop reprints such as standard-case Metroid Prime Trilogy and grayscale-disc Dokapon Kingdom. Retailers also separated discs and paperwork from cases, potentially mixing print runs. A used game’s apparently complete contents therefore do not prove an original matched edition. Whether some new reprints were sold as used remained uncertain, as did any equivalent PS2 Dokapon reprint.",
+      "evidence_locations": [
+        "02:23:34",
+        "02:24:41",
+        "02:25:43",
+        "02:26:49",
+        "02:27:51",
+        "02:28:54"
+      ],
+      "forbidden": [
+        "Do not certifyeverygrayscalereprintmapping.",
+        "Do not claimPS2reprintconfirmed.",
+        "Do not assumeusedCIBoriginalmatch."
+      ],
+      "status": "passed",
+      "reason": "Read02:23:34–28:54: matchedcontentsnotguaranteedbycompleteappearance; used-as-new andPS2reprintuncertain; noauthenticationguarantee."
+    },
+    {
+      "id": "cq210-video-output",
+      "episode": 210,
+      "question": "Did they really say the Wii has HDMI and is the best way to display GameCube games?",
+      "query": "Did they really say the Wii has HDMI and is the best way to display GameCube games?",
+      "answer": "Johnny initially presented that idea, but it was challenged and qualified. The Wii discussion shifted to component output or converters, while Wii U was the console with HDMI. Tyler then read a comparison saying GameCube output was generally better than original Wii output, with some later Wiis closer. Those are dated in-episode claims; they did not perform a hardware test.",
+      "evidence_locations": [
+        "02:28:54",
+        "02:30:01",
+        "02:31:02"
+      ],
+      "forbidden": [
+        "Do not stateWiihasnativeHDMI.",
+        "Do not erase laterWiimodelqualification.",
+        "Do not claimourbenchtest."
+      ],
+      "status": "passed",
+      "reason": "Read02:28:54–31:02: HDMIclaimchallenged/WiiUdistinguished, outputcomparisonattributed notperformedhardwaretest."
+    },
+    {
+      "id": "cq210-mozart",
+      "episode": 210,
+      "question": "What made Mozart Requiem collectible to them, and did Johnny actually buy it?",
+      "query": "What made Mozart Requiem collectible to them, and did Johnny actually buy it?",
+      "answer": "Johnny said he had already bought the Switch game. Its appeal was the unusual concept of Mozart solving a mystery, not a claim that it was good or that he would finish it. The description initially sounded like conducting or rhythm gameplay, then revealed an adventure game. The transcript’s12-ish and1.99price renderings conflict, so I would not give an exact paid amount.",
+      "evidence_locations": [
+        "02:43:45",
+        "02:44:53",
+        "02:45:57",
+        "02:47:02",
+        "03:02:48",
+        "03:03:51"
+      ],
+      "forbidden": [
+        "Do not callrhythmgameonly.",
+        "Do not certify1.99paid.",
+        "Do not assertreceivedorplayed."
+      ],
+      "status": "passed",
+      "reason": "Read02:43:45–47:02 and03:02:48–03:51: Mozartactualpurchase, mysterypremise appeal, inconsistentcaptionprices notexactpaidclaim."
+    },
+    {
+      "id": "cq210-computer-pickups",
+      "episode": 210,
+      "question": "Which early computer games did Tyler buy, and were they all first-person shooters?",
+      "query": "Which early computer games did Tyler buy, and were they all first-person shooters?",
+      "answer": "He bought the European Atari ST Alpha Waves release for50 after already owning an American version, RoboCop3 for Amiga for30, and inexpensive Dark Side and Corporation around10and9. They were not all FPS games: he called Alpha Waves a3D platformer, Dark Side an early first-person adventure, and Corporation an early FPS. Amiga RoboCop3’s polygonal shooter was distinct from the NES/SNES platformers.",
+      "evidence_locations": [
+        "03:08:01",
+        "03:09:04",
+        "03:10:05"
+      ],
+      "forbidden": [
+        "Do not callAlphaWavesFPS.",
+        "Do not assignpurchasedCorporationtoMegaDriveonlybecauseportmentioned.",
+        "Do not eraseRoboCopSNEScorrection."
+      ],
+      "status": "passed",
+      "reason": "Read03:08:01–10:05: fourcomputerpickups, priorUSAlphaownership, AmigaRoboCopnotSNES/NES, DarkSideadventure/CorporationFPS."
+    },
+    {
+      "id": "cq210-spasim",
+      "episode": 210,
+      "question": "Was Spasim multiplayer broken, and had Tyler finished his tutorial?",
+      "query": "Was Spasim multiplayer broken, and had Tyler finished his tutorial?",
+      "answer": "Tyler initially thought he could not see the other player, but after testing two logins he found that the tiny ships needed close positioning and magnification. He spent hours working out the controls because the supplied help was wrong and said he was writing a tutorial. He did not claim to have published it. His “most anyone has played in40years” line was not a verified record.",
+      "evidence_locations": [
+        "03:10:05",
+        "03:11:07",
+        "03:12:14",
+        "03:13:19"
+      ],
+      "forbidden": [
+        "Do not saybrokenmultiplayer.",
+        "Do not marktutorialpublished.",
+        "Do not certifyhistoricalplayrecord."
+      ],
+      "status": "passed",
+      "reason": "Read03:10:05–13:19: two-logintesting/proximitymagnification; tutorialbeingwritten notpublished,40yearplayboastnotverifiedrecord."
+    },
+    {
+      "id": "cq210-home-alone",
+      "episode": 210,
+      "question": "Why did Tyler call himself a Home Alone world-record holder?",
+      "query": "Why did Tyler call himself a Home Alone world-record holder?",
+      "answer": "He explained that a successful NES run ends after a fixed20minutes, so completing it puts someone at the fastest possible completion time. His strategy glitches the bandits early and then waits for the timer. The claim is therefore about a fixed-time, potentially tied completion category, not proof that he is uniquely faster than every other player.",
+      "evidence_locations": [
+        "02:52:15",
+        "02:53:16",
+        "02:54:19"
+      ],
+      "forbidden": [
+        "Do not claimuniquefastestplayer.",
+        "Do not saygameendsin30seconds."
+      ],
+      "status": "passed",
+      "reason": "Read02:52:15–54:19: fixed20minsuccess/glitchearlyandwait; notuniqueoverallfastest or30secondcompletion."
+    },
+    {
+      "id": "cq210-followups",
+      "episode": 210,
+      "question": "What follow-ups were still open at the end of the episode?",
+      "query": "What follow-ups were still open at the end of the episode?",
+      "answer": "The unresolved items included Johnny’s Wii inventory/list audit and incoming orders; checking Club Penguin’s anniversary distribution with TigerWolf; a possible dedicated Move episode or obscure-Switch segment; Tyler’s unfinished Spasim instructions; and a planned year-end look at eBay history and personal spending. These were announcements or leads, not completed outputs.",
+      "evidence_locations": [
+        "00:40:26",
+        "00:41:27",
+        "01:09:05",
+        "01:10:11",
+        "02:42:43",
+        "02:43:45",
+        "02:49:10",
+        "03:02:48",
+        "03:11:07",
+        "03:13:19"
+      ],
+      "forbidden": [
+        "Do not claimanyfollowupepisodealreadyreleased.",
+        "Do not turnshipmentpendingintoreceipt."
+      ],
+      "status": "passed",
+      "reason": "Readallfollowuplocations: inventoryaudit/shipments, TigerWolflead, Move/obscureSwitchproposals, Spasimwriting, yearendplan notcompletedoutputs."
+    }
+  ]
+}

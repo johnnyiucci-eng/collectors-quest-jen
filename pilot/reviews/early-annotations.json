@@ -1,0 +1,1746 @@
+{
+  "schema_version": "1",
+  "review_status": "source_review_same_agent_not_independent_acceptance",
+  "note": "Complete captured-source paragraph mapping for CQ6/7. No audio or external factual verification. Coarse paragraph intervals are coverage units, not exclusive speaking time.",
+  "episodes": [
+    {
+      "source_key": "sc-232561251",
+      "source_sha256": "0203c31a55faca428e36b2cadd84dd5fdaec9c8bbfeecbf17eb68838f24fe1a3",
+      "mapping_status": "complete",
+      "review_note": "All 28 captured paragraphs read end to end, then omission/identity/speaker/action/span review. Same reviewer saw draft records: not independent. All identifiable reference buckets mapped; unnamed lots and non-game exclusions separately documented. Untimed coarse boundaries include adjacent speech; no exact duration claim.",
+      "spans": [
+        {
+          "id": "cq6-review-span-01",
+          "entity_id": "cq6-entity-g-combo",
+          "title": "Speed Racer / Mountain Bike Rally",
+          "game_refs": [
+            "g-combo"
+          ],
+          "role": "SUBSTANTIAL_COVERAGE",
+          "start": "Paragraph 1",
+          "end_exclusive": "Paragraph 8",
+          "reason": "Acquisition and canceled-sale ethics, price discomfort; implicit continuing subject across paragraphs.",
+          "evidence": [
+            {
+              "location": "Paragraph 1",
+              "quote": "Speed Racer Mountain Bike Rally combo cart"
+            }
+          ]
+        },
+        {
+          "id": "cq6-review-span-02",
+          "entity_id": "cq6-entity-g-combo",
+          "title": "Speed Racer / Mountain Bike Rally",
+          "game_refs": [
+            "g-combo"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 8",
+          "end_exclusive": "Paragraph 11",
+          "reason": "Returns within comparisons to earlier purchases, character appeal and set boundaries.",
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "this it was on the world"
+            }
+          ]
+        },
+        {
+          "id": "cq6-review-span-03",
+          "entity_id": "cq6-entity-g-combo",
+          "title": "Speed Racer / Mountain Bike Rally",
+          "game_refs": [
+            "g-combo"
+          ],
+          "role": "SUBSTANTIAL_COVERAGE",
+          "start": "Paragraph 11",
+          "end_exclusive": "Paragraph 13",
+          "reason": "Specific inspection and parking-garage handover; stop before generic authentication advice.",
+          "evidence": [
+            {
+              "location": "Paragraph 11",
+              "quote": "I did verify the cart when I got there though"
+            }
+          ]
+        },
+        {
+          "id": "cq6-review-span-04",
+          "entity_id": "cq6-entity-g-combo",
+          "title": "Speed Racer / Mountain Bike Rally",
+          "game_refs": [
+            "g-combo"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 16",
+          "end_exclusive": "Paragraph 18",
+          "reason": "Brief return as set barrier and protected shelf object, not all generic authentication discussion.",
+          "evidence": [
+            {
+              "location": "Paragraph 16",
+              "quote": "games like this"
+            }
+          ]
+        },
+        {
+          "id": "cq6-review-span-05",
+          "entity_id": "cq6-entity-g-speed-racer",
+          "title": "Speed Racer",
+          "game_refs": [
+            "g-speed-racer"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 1",
+          "end_exclusive": "Paragraph 2",
+          "reason": "Standalone component comparison only; no inheritance of combo acquisition story.",
+          "evidence": [
+            {
+              "location": "Paragraph 1",
+              "quote": "It has these two games which can also be purchased individually"
+            }
+          ]
+        },
+        {
+          "id": "cq6-review-span-06",
+          "entity_id": "cq6-entity-g-mountain-bike",
+          "title": "Mountain Bike Rally",
+          "game_refs": [
+            "g-mountain-bike"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 1",
+          "end_exclusive": "Paragraph 2",
+          "reason": "Standalone component comparison only.",
+          "evidence": [
+            {
+              "location": "Paragraph 1",
+              "quote": "It has these two games which can also be purchased individually"
+            }
+          ]
+        },
+        {
+          "id": "cq6-review-span-07",
+          "entity_id": "cq6-entity-g-speed-racer",
+          "title": "Speed Racer",
+          "game_refs": [
+            "g-speed-racer"
+          ],
+          "role": "JOKE_ASIDE",
+          "start": "Paragraph 9",
+          "end_exclusive": "Paragraph 10",
+          "reason": "Character appeal aside, not standalone game analysis.",
+          "evidence": [
+            {
+              "location": "Paragraph 9",
+              "quote": "I don’t care about Speed Racer"
+            }
+          ]
+        },
+        {
+          "id": "cq6-review-span-08",
+          "entity_id": "cq6-entity-g-mountain-bike",
+          "title": "Mountain Bike Rally",
+          "game_refs": [
+            "g-mountain-bike"
+          ],
+          "role": "JOKE_ASIDE",
+          "start": "Paragraph 9",
+          "end_exclusive": "Paragraph 10",
+          "reason": "Box-character joke, not a new game named Mountain Bike Guy.",
+          "evidence": [
+            {
+              "location": "Paragraph 9",
+              "quote": "Mountain Bike Guy"
+            }
+          ]
+        },
+        {
+          "id": "cq6-review-span-09",
+          "entity_id": "cq6-entity-g-waynes-world",
+          "title": "Wayne’s World",
+          "game_refs": [
+            "g-waynes-world"
+          ],
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 5",
+          "end_exclusive": "Paragraph 6",
+          "reason": "Brief example; no individual game discussion.",
+          "evidence": [
+            {
+              "location": "Paragraph 5",
+              "quote": "harder to find titles Wayne’s World"
+            }
+          ]
+        },
+        {
+          "id": "cq6-review-span-10",
+          "entity_id": "cq6-entity-g-blockbuster",
+          "title": "blockbuster world championship 2-card (identity unresolved)",
+          "game_refs": [
+            "g-blockbuster"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 8",
+          "end_exclusive": "Paragraph 9",
+          "reason": "Prior high-priced purchase comparison; exact competition name unresolved.",
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "blockbuster world championship 2-card"
+            }
+          ]
+        },
+        {
+          "id": "cq6-review-span-11",
+          "entity_id": "cq6-entity-g-outback",
+          "title": "outback joy (identity unresolved)",
+          "game_refs": [
+            "g-outback"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 8",
+          "end_exclusive": "Paragraph 9",
+          "reason": "Prior fitness-game purchase comparison; preserve unresolved raw title.",
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "outback joy for the Sega Genesis"
+            }
+          ]
+        },
+        {
+          "id": "cq6-review-span-12",
+          "entity_id": "cq6-entity-g-little-samson",
+          "title": "Little Samson",
+          "game_refs": [
+            "g-little-samson"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 8",
+          "end_exclusive": "Paragraph 10",
+          "reason": "Purchase comparison continues into next paragraph; amount garbled.",
+          "evidence": [
+            {
+              "location": "Paragraph 8",
+              "quote": "little Samson complete box"
+            }
+          ]
+        },
+        {
+          "id": "cq6-review-span-13",
+          "entity_id": "cq6-entity-g-donkey-kong",
+          "title": "Donkey Kong competition cart (identity unresolved)",
+          "game_refs": [
+            "g-donkey-kong"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 9",
+          "end_exclusive": "Paragraph 10",
+          "reason": "Emotional appeal of competition cart compared with combo.",
+          "evidence": [
+            {
+              "location": "Paragraph 9",
+              "quote": "I have the Donkey Kong competition cart"
+            }
+          ]
+        },
+        {
+          "id": "cq6-review-span-14",
+          "entity_id": "cq6-entity-g-batman-pinball",
+          "title": "Batman pinball machine (identity unresolved)",
+          "entity_kind": "physical_pinball",
+          "game_refs": [
+            "g-batman-pinball"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 9",
+          "end_exclusive": "Paragraph 11",
+          "reason": "Physical pinball model unresolved; comparison continues into next paragraph.",
+          "evidence": [
+            {
+              "location": "Paragraph 9",
+              "quote": "my Batman pinball machine"
+            }
+          ]
+        },
+        {
+          "id": "cq6-review-span-15",
+          "entity_id": "cq6-entity-g-stadium-events",
+          "title": "Stadium Events",
+          "game_refs": [
+            "g-stadium-events"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 10",
+          "end_exclusive": "Paragraph 11",
+          "reason": "Boundary on NES completion.",
+          "evidence": [
+            {
+              "location": "Paragraph 10",
+              "quote": "stadium events I can live without"
+            }
+          ]
+        },
+        {
+          "id": "cq6-review-span-16",
+          "entity_id": "cq6-entity-g-stadium-events",
+          "title": "Stadium Events",
+          "game_refs": [
+            "g-stadium-events"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 16",
+          "end_exclusive": "Paragraph 18",
+          "reason": "Return discussing condition/price and reluctance to play; not a full game review.",
+          "evidence": [
+            {
+              "location": "Paragraph 16",
+              "quote": "stadium events which are gonna be the barriers"
+            }
+          ]
+        },
+        {
+          "id": "cq6-review-span-17",
+          "entity_id": "cq6-entity-g-alice-madness",
+          "title": "Alice: Madness Returns",
+          "game_refs": [
+            "g-alice-madness"
+          ],
+          "role": "SUBSTANTIAL_COVERAGE",
+          "start": "Paragraph 18",
+          "end_exclusive": "Paragraph 21",
+          "reason": "Repeated play, dark atmosphere, platforming and artistic appeal. Boundary paragraphs include adjacent talk.",
+          "evidence": [
+            {
+              "location": "Paragraph 18",
+              "quote": "Alice Madness Madness Returns"
+            }
+          ]
+        },
+        {
+          "id": "cq6-review-span-18",
+          "entity_id": "cq6-entity-g-original-alice",
+          "title": "the original one on the PC (identity unresolved)",
+          "game_refs": [
+            "g-original-alice"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 19",
+          "end_exclusive": "Paragraph 20",
+          "reason": "Downloaded original contrasted with sequel; formal title not spoken.",
+          "evidence": [
+            {
+              "location": "Paragraph 19",
+              "quote": "did you play the original one on the PC"
+            }
+          ]
+        },
+        {
+          "id": "cq6-review-span-19",
+          "entity_id": "cq6-entity-g-lego-harry-potter",
+          "title": "LEGO Harry Potter",
+          "game_refs": [
+            "g-lego-harry-potter"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 20",
+          "end_exclusive": "Paragraph 21",
+          "reason": "Series-level personal enjoyment/completion comparison.",
+          "evidence": [
+            {
+              "location": "Paragraph 20",
+              "quote": "I really enjoy the Lego Harry Potter games"
+            }
+          ]
+        },
+        {
+          "id": "cq6-review-span-20",
+          "entity_id": "cq6-entity-g-ultimate-ghosts",
+          "title": "Ultimate Ghosts ’n Goblins",
+          "game_refs": [
+            "g-ultimate-ghosts"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 24",
+          "end_exclusive": "Paragraph 25",
+          "reason": "PSP Halloween recommendation and audience unfamiliarity.",
+          "evidence": [
+            {
+              "location": "Paragraph 24",
+              "quote": "ultimate ghost and goblins"
+            }
+          ]
+        },
+        {
+          "id": "cq6-review-span-21",
+          "entity_id": "cq6-entity-g-fallout-4",
+          "title": "Fallout 4",
+          "game_refs": [
+            "g-fallout-4"
+          ],
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 25",
+          "end_exclusive": "Paragraph 26",
+          "reason": "Remote-play announcement reference, not Fallout gameplay discussion.",
+          "evidence": [
+            {
+              "location": "Paragraph 25",
+              "quote": "remote play for Fallout 4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source_key": "sc-234461881",
+      "source_sha256": "a8e2317b29956208f8a101c7aef0958c6bfd819e5add1a86f88c5ed43774d23f",
+      "mapping_status": "complete",
+      "review_note": "All 27 captured paragraphs read end to end, then omission/identity/speaker/action/span review. Same reviewer saw draft records: not independent. All identifiable reference buckets mapped; unnamed lots and non-game exclusions separately documented. Untimed coarse boundaries include adjacent speech; no exact duration claim.",
+      "spans": [
+        {
+          "id": "cq7-review-span-01",
+          "entity_id": "cq7-entity-g-alice",
+          "title": "Alice: Madness Returns",
+          "game_refs": [
+            "g-alice"
+          ],
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 1",
+          "end_exclusive": "Paragraph 2",
+          "reason": "Brief still-playing update only.",
+          "evidence": [
+            {
+              "location": "Paragraph 1",
+              "quote": "still working on Alice Madness Returns"
+            }
+          ]
+        },
+        {
+          "id": "cq7-review-span-02",
+          "entity_id": "cq7-entity-g-fallout",
+          "title": "Fallout (identity unresolved)",
+          "game_refs": [
+            "g-fallout"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 1",
+          "end_exclusive": "Paragraph 4",
+          "reason": "Purchases, sealed backlog and regular/Pip-Boy packaging discussion; installment unresolved.",
+          "evidence": [
+            {
+              "location": "Paragraph 1",
+              "quote": "I bought Fallout as well"
+            }
+          ]
+        },
+        {
+          "id": "cq7-review-span-03",
+          "entity_id": "cq7-entity-g-fallout",
+          "title": "Fallout (identity unresolved)",
+          "game_refs": [
+            "g-fallout"
+          ],
+          "role": "JOKE_ASIDE",
+          "start": "Paragraph 4",
+          "end_exclusive": "Paragraph 6",
+          "reason": "Hibernation, relationship and Wasteland disease jokes; no discussion-duration credit.",
+          "evidence": [
+            {
+              "location": "Paragraph 4",
+              "quote": "if there’s Fallout involved"
+            }
+          ]
+        },
+        {
+          "id": "cq7-review-span-04",
+          "entity_id": "cq7-entity-g-tomb-current",
+          "title": "Tomb Raider (identity unresolved)",
+          "game_refs": [
+            "g-tomb-current"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 2",
+          "end_exclusive": "Paragraph 3",
+          "reason": "Current play and favorable initial impression, contrasted with prior game; exact current title unresolved.",
+          "evidence": [
+            {
+              "location": "Paragraph 2",
+              "quote": "playing Tomb Raider very briefly"
+            }
+          ]
+        },
+        {
+          "id": "cq7-review-span-05",
+          "entity_id": "cq7-entity-g-tomb-reboot",
+          "title": "first Tomb Raider for the Xbox and of the last generation (identity unresolved)",
+          "game_refs": [
+            "g-tomb-reboot"
+          ],
+          "role": "SUPPORTING_EXAMPLE",
+          "start": "Paragraph 2",
+          "end_exclusive": "Paragraph 3",
+          "reason": "Specific comparative praise of prior-generation reboot; keep distinct from original/current.",
+          "evidence": [
+            {
+              "location": "Paragraph 2",
+              "quote": "best Tomb Raider game by far"
+            }
+          ]
+        },
+        {
+          "id": "cq7-review-span-06",
+          "entity_id": "cq7-entity-g-tomb-original",
+          "title": "Tomb Raider",
+          "game_refs": [
+            "g-tomb-original"
+          ],
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 2",
+          "end_exclusive": "Paragraph 3",
+          "reason": "Brief affection for original, distinct from reboot.",
+          "evidence": [
+            {
+              "location": "Paragraph 2",
+              "quote": "Obviously not the first Tomb Raider"
+            }
+          ]
+        },
+        {
+          "id": "cq7-review-span-07",
+          "entity_id": "cq7-entity-g-tomb-three",
+          "title": "three (identity unresolved)",
+          "game_refs": [
+            "g-tomb-three"
+          ],
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 2",
+          "end_exclusive": "Paragraph 3",
+          "reason": "Third installment is a boundary in series criticism; not itself called bad.",
+          "evidence": [
+            {
+              "location": "Paragraph 2",
+              "quote": "pretty bad after three"
+            }
+          ]
+        },
+        {
+          "id": "cq7-review-span-08",
+          "entity_id": "cq7-entity-g-lego-dimensions",
+          "title": "LEGO Dimensions",
+          "game_refs": [
+            "g-lego-dimensions"
+          ],
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 2",
+          "end_exclusive": "Paragraph 3",
+          "reason": "Playing with wife is brief backlog update.",
+          "evidence": [
+            {
+              "location": "Paragraph 2",
+              "quote": "Lego Dimensions"
+            }
+          ]
+        },
+        {
+          "id": "cq7-review-span-09",
+          "entity_id": "cq7-entity-g-yoshi",
+          "title": "Yoshi's Woolly World",
+          "game_refs": [
+            "g-yoshi"
+          ],
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 2",
+          "end_exclusive": "Paragraph 3",
+          "reason": "Owned/unstarted brief backlog update.",
+          "evidence": [
+            {
+              "location": "Paragraph 2",
+              "quote": "Yoshi’s Woolly World"
+            }
+          ]
+        },
+        {
+          "id": "cq7-review-span-10",
+          "entity_id": "cq7-entity-g-rodea",
+          "title": "Rodea the Sky Soldier",
+          "game_refs": [
+            "g-rodea"
+          ],
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 2",
+          "end_exclusive": "Paragraph 3",
+          "reason": "Owned brief backlog update.",
+          "evidence": [
+            {
+              "location": "Paragraph 2",
+              "quote": "Rodaea the Sky Soldier"
+            }
+          ]
+        },
+        {
+          "id": "cq7-review-span-11",
+          "entity_id": "cq7-entity-g-black-ops3",
+          "title": "Call of Duty: Black Ops III",
+          "game_refs": [
+            "g-black-ops3"
+          ],
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 2",
+          "end_exclusive": "Paragraph 4",
+          "reason": "Pickup and free-third-item fact extends into paragraph3; no sustained game analysis.",
+          "evidence": [
+            {
+              "location": "Paragraph 2",
+              "quote": "Black Ops 3"
+            }
+          ]
+        },
+        {
+          "id": "cq7-review-span-12",
+          "entity_id": "cq7-entity-g-fallout-pc",
+          "title": "PC collection (identity unresolved)",
+          "game_refs": [
+            "g-fallout-pc"
+          ],
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 3",
+          "end_exclusive": "Paragraph 4",
+          "reason": "Bomb-shaped PC collection seen but not bought.",
+          "evidence": [
+            {
+              "location": "Paragraph 3",
+              "quote": "little bomb safe"
+            }
+          ]
+        },
+        {
+          "id": "cq7-review-span-13",
+          "entity_id": "cq7-entity-g-alien-soldier",
+          "title": "Alien Soldier",
+          "game_refs": [
+            "g-alien-soldier"
+          ],
+          "role": "PASSING_MENTION",
+          "start": "Paragraph 21",
+          "end_exclusive": "Paragraph 22",
+          "reason": "Vendor sighting only; not an acquisition.",
+          "evidence": [
+            {
+              "location": "Paragraph 21",
+              "quote": "alien soldier soldier for the Mega Drive"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "cq6-review-action-01",
+      "source_key": "sc-232561251",
+      "source_sha256": "0203c31a55faca428e36b2cadd84dd5fdaec9c8bbfeecbf17eb68838f24fe1a3",
+      "title": "Speed Racer / Mountain Bike Rally",
+      "action_state": "received",
+      "summary": "Reports received boxed combo with cellophane; opened not sealed.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "I just picked up Speed Racer Mountain Bike Rally combo cart"
+        }
+      ]
+    },
+    {
+      "id": "cq6-review-action-02",
+      "source_key": "sc-232561251",
+      "source_sha256": "0203c31a55faca428e36b2cadd84dd5fdaec9c8bbfeecbf17eb68838f24fe1a3",
+      "title": "Speed Racer / Mountain Bike Rally",
+      "action_state": "purchased",
+      "summary": "Agreed purchase amount, later acquisition corroborated P11; historical self-report.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "I was gonna pay $2,300"
+        }
+      ]
+    },
+    {
+      "id": "cq6-review-action-03",
+      "source_key": "sc-232561251",
+      "source_sha256": "0203c31a55faca428e36b2cadd84dd5fdaec9c8bbfeecbf17eb68838f24fe1a3",
+      "title": "Speed Racer / Mountain Bike Rally",
+      "action_state": "owned",
+      "summary": "Stored acquired combo; does not establish current ownership.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 17",
+          "quote": "I just put it in its protective case and I set it on the shelf"
+        }
+      ]
+    },
+    {
+      "id": "cq6-review-action-04",
+      "source_key": "sc-232561251",
+      "source_sha256": "0203c31a55faca428e36b2cadd84dd5fdaec9c8bbfeecbf17eb68838f24fe1a3",
+      "title": "Speed Racer / Mountain Bike Rally",
+      "action_state": "played",
+      "summary": "Operational test at purchase only; do not imply a playthrough.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 11",
+          "quote": "to make sure it worked and played and everything"
+        }
+      ],
+      "action_qualifier": "tested"
+    },
+    {
+      "id": "cq6-review-action-05",
+      "source_key": "sc-232561251",
+      "source_sha256": "0203c31a55faca428e36b2cadd84dd5fdaec9c8bbfeecbf17eb68838f24fe1a3",
+      "title": "Wayne’s World",
+      "action_state": "purchased",
+      "summary": "Qualified harder-to-find eBay purchase example; platform unresolved.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 5",
+          "quote": "I’ve never actually purchased say a really rare game off of eBay you know maybe some harder to find titles Wayne’s World"
+        }
+      ],
+      "interpretation_confidence": "medium"
+    },
+    {
+      "id": "cq6-review-action-06",
+      "source_key": "sc-232561251",
+      "source_sha256": "0203c31a55faca428e36b2cadd84dd5fdaec9c8bbfeecbf17eb68838f24fe1a3",
+      "title": "blockbuster world championship 2-card (unresolved)",
+      "action_state": "purchased",
+      "summary": "Retrospective expense comparison, exact identity unresolved.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 8",
+          "quote": "world championship card around 1900"
+        }
+      ]
+    },
+    {
+      "id": "cq6-review-action-07",
+      "source_key": "sc-232561251",
+      "source_sha256": "0203c31a55faca428e36b2cadd84dd5fdaec9c8bbfeecbf17eb68838f24fe1a3",
+      "title": "outback joy (unresolved)",
+      "action_state": "purchased",
+      "summary": "Retrospective expense comparison; no silent fitness-title normalization.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 8",
+          "quote": "outback joy around 2000"
+        }
+      ]
+    },
+    {
+      "id": "cq6-review-action-08",
+      "source_key": "sc-232561251",
+      "source_sha256": "0203c31a55faca428e36b2cadd84dd5fdaec9c8bbfeecbf17eb68838f24fe1a3",
+      "title": "Little Samson",
+      "action_state": "purchased",
+      "summary": "Retrospective purchase following title at end P8; amount unclear, no validated numeric price.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 8",
+          "quote": "little Samson complete box"
+        },
+        {
+          "location": "Paragraph 9",
+          "quote": "I paid like 654"
+        }
+      ]
+    },
+    {
+      "id": "cq6-review-action-09",
+      "source_key": "sc-232561251",
+      "source_sha256": "0203c31a55faca428e36b2cadd84dd5fdaec9c8bbfeecbf17eb68838f24fe1a3",
+      "title": "Donkey Kong competition cart (unresolved)",
+      "action_state": "owned",
+      "summary": "Owned at recording; exact competition release unresolved.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 9",
+          "quote": "I have the Donkey Kong competition cart"
+        }
+      ]
+    },
+    {
+      "id": "cq6-review-action-10",
+      "source_key": "sc-232561251",
+      "source_sha256": "0203c31a55faca428e36b2cadd84dd5fdaec9c8bbfeecbf17eb68838f24fe1a3",
+      "title": "Donkey Kong competition cart (unresolved)",
+      "action_state": "purchased",
+      "summary": "Uncertain historical expense, not exact price.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 9",
+          "quote": "I think I paid a thousand or eleven hundred for that one"
+        }
+      ]
+    },
+    {
+      "id": "cq6-review-action-11",
+      "source_key": "sc-232561251",
+      "source_sha256": "0203c31a55faca428e36b2cadd84dd5fdaec9c8bbfeecbf17eb68838f24fe1a3",
+      "title": "Batman pinball machine (model unresolved)",
+      "action_state": "purchased",
+      "summary": "Physical pinball purchase, not an identified video-game release.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 9",
+          "quote": "my Batman pinball machine I spent $1,600 on that"
+        }
+      ],
+      "entity_type": "physical_pinball"
+    },
+    {
+      "id": "cq6-review-action-12",
+      "source_key": "sc-232561251",
+      "source_sha256": "0203c31a55faca428e36b2cadd84dd5fdaec9c8bbfeecbf17eb68838f24fe1a3",
+      "title": "Batman pinball machine (model unresolved)",
+      "action_state": "owned",
+      "summary": "Possession at recording only.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 9",
+          "quote": "my Batman pinball machine"
+        }
+      ],
+      "entity_type": "physical_pinball"
+    },
+    {
+      "id": "cq6-review-action-13",
+      "source_key": "sc-232561251",
+      "source_sha256": "0203c31a55faca428e36b2cadd84dd5fdaec9c8bbfeecbf17eb68838f24fe1a3",
+      "title": "Batman pinball machine (model unresolved)",
+      "action_state": "played",
+      "summary": "Continued play of machine, previous paragraph provides referent.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 10",
+          "quote": "I still play it and stuff and I love the way it looks"
+        }
+      ],
+      "entity_type": "physical_pinball"
+    },
+    {
+      "id": "cq6-review-action-14",
+      "source_key": "sc-232561251",
+      "source_sha256": "0203c31a55faca428e36b2cadd84dd5fdaec9c8bbfeecbf17eb68838f24fe1a3",
+      "title": "Stadium Events",
+      "action_state": "wanted",
+      "summary": "Conditional willingness only, not an active order or ownership.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 17",
+          "quote": "well under market value for me to be able to justify it"
+        }
+      ],
+      "action_qualifier": "conditional_interest"
+    },
+    {
+      "id": "cq6-review-action-15",
+      "source_key": "sc-232561251",
+      "source_sha256": "0203c31a55faca428e36b2cadd84dd5fdaec9c8bbfeecbf17eb68838f24fe1a3",
+      "title": "Stadium Events",
+      "action_state": "mentioned",
+      "summary": "Explicitly can accept incomplete NES set; no purchase.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 10",
+          "quote": "stadium events I can live without"
+        }
+      ]
+    },
+    {
+      "id": "cq6-review-action-16",
+      "source_key": "sc-232561251",
+      "source_sha256": "0203c31a55faca428e36b2cadd84dd5fdaec9c8bbfeecbf17eb68838f24fe1a3",
+      "title": "Alice: Madness Returns",
+      "action_state": "played",
+      "summary": "Reports repeated play and current PS3 play; approximate count, not verified completions.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 18",
+          "quote": "I have played it no I’m not kidding like 20 times now"
+        }
+      ]
+    },
+    {
+      "id": "cq6-review-action-17",
+      "source_key": "sc-232561251",
+      "source_sha256": "0203c31a55faca428e36b2cadd84dd5fdaec9c8bbfeecbf17eb68838f24fe1a3",
+      "title": "original Alice (formal title unresolved)",
+      "action_state": "played",
+      "summary": "Brief bundled-download trial; expressly not PC play.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 19",
+          "quote": "I get about like three four minutes into it"
+        }
+      ]
+    },
+    {
+      "id": "cq6-review-action-18",
+      "source_key": "sc-232561251",
+      "source_sha256": "0203c31a55faca428e36b2cadd84dd5fdaec9c8bbfeecbf17eb68838f24fe1a3",
+      "title": "Alice: Madness Returns",
+      "action_state": "wanted",
+      "summary": "Wanted Xbox copy; explicitly not yet acquired or played through.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 19",
+          "quote": "I was really interested in getting it for the Xbox because I wanted it with the download code and I haven’t picked up yet"
+        }
+      ]
+    },
+    {
+      "id": "cq6-review-action-19",
+      "source_key": "sc-232561251",
+      "source_sha256": "0203c31a55faca428e36b2cadd84dd5fdaec9c8bbfeecbf17eb68838f24fe1a3",
+      "title": "LEGO Harry Potter (series)",
+      "action_state": "played",
+      "summary": "Series-level self-reported completion; do not choose individual installments.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 20",
+          "quote": "I definitely 100% completed them"
+        }
+      ]
+    },
+    {
+      "id": "cq6-review-action-20",
+      "source_key": "sc-232561251",
+      "source_sha256": "0203c31a55faca428e36b2cadd84dd5fdaec9c8bbfeecbf17eb68838f24fe1a3",
+      "title": "Ultimate Ghosts ’n Goblins",
+      "action_state": "mentioned",
+      "summary": "Halloween post, not proof of purchase or completed play.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 24",
+          "quote": "today I just put up one for the PSP it was ultimate ghost and goblins"
+        }
+      ],
+      "action_qualifier": "posted_recommendation"
+    },
+    {
+      "id": "cq6-review-action-21",
+      "source_key": "sc-232561251",
+      "source_sha256": "0203c31a55faca428e36b2cadd84dd5fdaec9c8bbfeecbf17eb68838f24fe1a3",
+      "title": "Unnamed Vita items",
+      "action_state": "mentioned",
+      "summary": "Spouse's Vita items being offered/sold; no identified games or completed sales.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 25",
+          "quote": "my husband has a bunch of it and it’s actually being sold now"
+        }
+      ],
+      "entity_type": "unidentified_lot",
+      "subject": "Kat's husband",
+      "action_qualifier": "sale_in_progress"
+    },
+    {
+      "id": "cq7-review-action-01",
+      "source_key": "sc-234461881",
+      "source_sha256": "a8e2317b29956208f8a101c7aef0958c6bfd819e5add1a86f88c5ed43774d23f",
+      "title": "Alice: Madness Returns",
+      "action_state": "played",
+      "summary": "Current slow progress, not new purchase or completion.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "I am sadly still working on Alice Madness Returns"
+        }
+      ]
+    },
+    {
+      "id": "cq7-review-action-02",
+      "source_key": "sc-234461881",
+      "source_sha256": "a8e2317b29956208f8a101c7aef0958c6bfd819e5add1a86f88c5ed43774d23f",
+      "title": "Fallout (installment unresolved)",
+      "action_state": "wanted",
+      "summary": "Wants access/play, not a purchase.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "if John would let me get near the Xbox, I could probably play Fallout"
+        }
+      ],
+      "action_qualifier": "wants_to_play"
+    },
+    {
+      "id": "cq7-review-action-03",
+      "source_key": "sc-234461881",
+      "source_sha256": "a8e2317b29956208f8a101c7aef0958c6bfd819e5add1a86f88c5ed43774d23f",
+      "title": "Fallout regular edition (installment unresolved)",
+      "action_state": "purchased",
+      "summary": "Kat reports spouse John bought Fallout; not Johnny or Tyler.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "did John Bye fall out? Yes."
+        }
+      ],
+      "subject": "John (Kat's spouse)"
+    },
+    {
+      "id": "cq7-review-action-04",
+      "source_key": "sc-234461881",
+      "source_sha256": "a8e2317b29956208f8a101c7aef0958c6bfd819e5add1a86f88c5ed43774d23f",
+      "title": "Fallout regular edition (installment unresolved)",
+      "action_state": "owned",
+      "summary": "Spouse John got regular edition; speaker reports another person's possession.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "He just got the regular one"
+        }
+      ],
+      "subject": "John (Kat's spouse)"
+    },
+    {
+      "id": "cq7-review-action-05",
+      "source_key": "sc-234461881",
+      "source_sha256": "a8e2317b29956208f8a101c7aef0958c6bfd819e5add1a86f88c5ed43774d23f",
+      "title": "Fallout (installment unresolved)",
+      "action_state": "purchased",
+      "summary": "Purchase separate from spouse John.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 1",
+          "quote": "I bought Fallout as well"
+        }
+      ]
+    },
+    {
+      "id": "cq7-review-action-06",
+      "source_key": "sc-234461881",
+      "source_sha256": "a8e2317b29956208f8a101c7aef0958c6bfd819e5add1a86f88c5ed43774d23f",
+      "title": "Fallout (installment unresolved)",
+      "action_state": "owned",
+      "summary": "Sealed and unplayed at recording.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 2",
+          "quote": "It is still sealed. And I have not opened it yet."
+        }
+      ]
+    },
+    {
+      "id": "cq7-review-action-07",
+      "source_key": "sc-234461881",
+      "source_sha256": "a8e2317b29956208f8a101c7aef0958c6bfd819e5add1a86f88c5ed43774d23f",
+      "title": "Fallout (installment unresolved)",
+      "action_state": "wanted",
+      "summary": "Wanted time to play; prior P4–5 supplies referent.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 5",
+          "quote": "I wanted to, but I was gone"
+        }
+      ],
+      "action_qualifier": "wants_to_play"
+    },
+    {
+      "id": "cq7-review-action-08",
+      "source_key": "sc-234461881",
+      "source_sha256": "a8e2317b29956208f8a101c7aef0958c6bfd819e5add1a86f88c5ed43774d23f",
+      "title": "current Tomb Raider (title unresolved)",
+      "action_state": "played",
+      "summary": "Current installment explicitly distinct from earlier reboot and original.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 2",
+          "quote": "I have been playing Tomb Raider very briefly"
+        }
+      ]
+    },
+    {
+      "id": "cq7-review-action-09",
+      "source_key": "sc-234461881",
+      "source_sha256": "a8e2317b29956208f8a101c7aef0958c6bfd819e5add1a86f88c5ed43774d23f",
+      "title": "current Tomb Raider (title unresolved)",
+      "action_state": "purchased",
+      "summary": "Target buy-two-get-one group.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 2",
+          "quote": "I got Fallout Tomb Raider and Black Ops"
+        }
+      ]
+    },
+    {
+      "id": "cq7-review-action-10",
+      "source_key": "sc-234461881",
+      "source_sha256": "a8e2317b29956208f8a101c7aef0958c6bfd819e5add1a86f88c5ed43774d23f",
+      "title": "prior-generation Tomb Raider (release unresolved)",
+      "action_state": "mentioned",
+      "summary": "Praise of earlier reboot; liking alone not separate owned record.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 2",
+          "quote": "best Tomb Raider game by far"
+        }
+      ]
+    },
+    {
+      "id": "cq7-review-action-11",
+      "source_key": "sc-234461881",
+      "source_sha256": "a8e2317b29956208f8a101c7aef0958c6bfd819e5add1a86f88c5ed43774d23f",
+      "title": "original Tomb Raider",
+      "action_state": "mentioned",
+      "summary": "Past affection; no purchase claim.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 2",
+          "quote": "though I did love that one as well"
+        }
+      ]
+    },
+    {
+      "id": "cq7-review-action-12",
+      "source_key": "sc-234461881",
+      "source_sha256": "a8e2317b29956208f8a101c7aef0958c6bfd819e5add1a86f88c5ed43774d23f",
+      "title": "LEGO Dimensions",
+      "action_state": "owned",
+      "summary": "Possession at recording.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 2",
+          "quote": "I also have Lego Dimensions"
+        }
+      ]
+    },
+    {
+      "id": "cq7-review-action-13",
+      "source_key": "sc-234461881",
+      "source_sha256": "a8e2317b29956208f8a101c7aef0958c6bfd819e5add1a86f88c5ed43774d23f",
+      "title": "LEGO Dimensions",
+      "action_state": "played",
+      "summary": "Shared play, no ownership attributed to wife independently.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 2",
+          "quote": "my wife and I play that"
+        }
+      ]
+    },
+    {
+      "id": "cq7-review-action-14",
+      "source_key": "sc-234461881",
+      "source_sha256": "a8e2317b29956208f8a101c7aef0958c6bfd819e5add1a86f88c5ed43774d23f",
+      "title": "Yoshi’s Woolly World",
+      "action_state": "owned",
+      "summary": "Owned but not started.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 2",
+          "quote": "I have Yoshi’s Woolly World, which I haven’t got into"
+        }
+      ]
+    },
+    {
+      "id": "cq7-review-action-15",
+      "source_key": "sc-234461881",
+      "source_sha256": "a8e2317b29956208f8a101c7aef0958c6bfd819e5add1a86f88c5ed43774d23f",
+      "title": "Rodea the Sky Soldier",
+      "action_state": "owned",
+      "summary": "Possession; no play claim.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 2",
+          "quote": "I have Rodaea the Sky Soldier"
+        }
+      ]
+    },
+    {
+      "id": "cq7-review-action-16",
+      "source_key": "sc-234461881",
+      "source_sha256": "a8e2317b29956208f8a101c7aef0958c6bfd819e5add1a86f88c5ed43774d23f",
+      "title": "Call of Duty: Black Ops III",
+      "action_state": "purchased",
+      "summary": "Obtained as free third title in promotion; not paid standalone price.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 2",
+          "quote": "Black Ops was my third"
+        }
+      ]
+    },
+    {
+      "id": "cq7-review-action-17",
+      "source_key": "sc-234461881",
+      "source_sha256": "a8e2317b29956208f8a101c7aef0958c6bfd819e5add1a86f88c5ed43774d23f",
+      "title": "Call of Duty: Black Ops III",
+      "action_state": "played",
+      "summary": "Casual shared play.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 2",
+          "quote": "which I play very casually with friends when they want to play"
+        }
+      ]
+    },
+    {
+      "id": "cq7-review-action-18",
+      "source_key": "sc-234461881",
+      "source_sha256": "a8e2317b29956208f8a101c7aef0958c6bfd819e5add1a86f88c5ed43774d23f",
+      "title": "Fallout Pip-Boy edition (installment unresolved)",
+      "action_state": "wanted",
+      "summary": "Reports spouse's unfulfilled edition preference; not purchase.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "John had planned on getting it and it just wasn’t going to be an option"
+        }
+      ],
+      "subject": "John (Kat's spouse)"
+    },
+    {
+      "id": "cq7-review-action-19",
+      "source_key": "sc-234461881",
+      "source_sha256": "a8e2317b29956208f8a101c7aef0958c6bfd819e5add1a86f88c5ed43774d23f",
+      "title": "Fallout PC collection (identity unresolved)",
+      "action_state": "mentioned",
+      "summary": "Seen bomb-shaped PC collection, explicitly not bought; speaker left uncertain.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": null,
+        "confidence": "unknown",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 3",
+          "quote": "I didn’t pick that up"
+        }
+      ],
+      "action_qualifier": "seen_not_purchased"
+    },
+    {
+      "id": "cq7-review-action-20",
+      "source_key": "sc-234461881",
+      "source_sha256": "a8e2317b29956208f8a101c7aef0958c6bfd819e5add1a86f88c5ed43774d23f",
+      "title": "Unnamed SNES games",
+      "action_state": "purchased",
+      "summary": "About 40 SNES purchases; no invented title list.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 7",
+          "quote": "I bought about 40 Super Nintendo games"
+        }
+      ],
+      "entity_type": "unidentified_lot"
+    },
+    {
+      "id": "cq7-review-action-21",
+      "source_key": "sc-234461881",
+      "source_sha256": "a8e2317b29956208f8a101c7aef0958c6bfd819e5add1a86f88c5ed43774d23f",
+      "title": "Unnamed SNES sports games",
+      "action_state": "received",
+      "summary": "About twelve sports gaps filled; subset of SNES haul, not additional total.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 8",
+          "quote": "to pick up 12 was really good"
+        }
+      ],
+      "entity_type": "unidentified_lot"
+    },
+    {
+      "id": "cq7-review-action-22",
+      "source_key": "sc-234461881",
+      "source_sha256": "a8e2317b29956208f8a101c7aef0958c6bfd819e5add1a86f88c5ed43774d23f",
+      "title": "Unnamed homebrews",
+      "action_state": "purchased",
+      "summary": "Unnamed homebrews/early or show releases; uncertainty retained.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 9",
+          "quote": "got a few home bruise"
+        }
+      ],
+      "entity_type": "unidentified_lot"
+    },
+    {
+      "id": "cq7-review-action-23",
+      "source_key": "sc-234461881",
+      "source_sha256": "a8e2317b29956208f8a101c7aef0958c6bfd819e5add1a86f88c5ed43774d23f",
+      "title": "Unnamed games on Portland trip",
+      "action_state": "purchased",
+      "summary": "About 50 overall, versus about 40 SNES subset; three carts and mostly boxed.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 11",
+          "quote": "I think I picked up about 50 games on this trip"
+        }
+      ],
+      "entity_type": "unidentified_lot"
+    },
+    {
+      "id": "cq7-review-action-24",
+      "source_key": "sc-234461881",
+      "source_sha256": "a8e2317b29956208f8a101c7aef0958c6bfd819e5add1a86f88c5ed43774d23f",
+      "title": "Alien Soldier",
+      "action_state": "mentioned",
+      "summary": "Saw vendor item; no claim of buying it.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 21",
+          "quote": "alien soldier soldier for the Mega Drive that was being sold"
+        }
+      ],
+      "action_qualifier": "seen_for_sale"
+    },
+    {
+      "id": "cq7-review-action-25",
+      "source_key": "sc-234461881",
+      "source_sha256": "a8e2317b29956208f8a101c7aef0958c6bfd819e5add1a86f88c5ed43774d23f",
+      "title": "NES Advantage",
+      "action_state": "wanted",
+      "summary": "Missed boxed accessory; not purchased.",
+      "claim_type": "HOST_REPORT",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Johnny",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 21",
+          "quote": "I did miss out on a boxed nest advantage that sold for $10"
+        }
+      ],
+      "entity_type": "controller"
+    },
+    {
+      "id": "cq7-review-action-26",
+      "source_key": "sc-234461881",
+      "source_sha256": "a8e2317b29956208f8a101c7aef0958c6bfd819e5add1a86f88c5ed43774d23f",
+      "title": "Spouse's unnamed games",
+      "action_state": "hypothetical",
+      "summary": "Joking hypothetical inheritance, not transfer or ownership.",
+      "claim_type": "JOKE",
+      "factual_verification": "not_independently_verified",
+      "speaker": {
+        "candidate": "Kat",
+        "confidence": "medium",
+        "basis": "Named host introduction/self-identification and dialogue continuity; untimed source has no verified turn labels. John is Kat's spouse, not Johnny."
+      },
+      "evidence": [
+        {
+          "location": "Paragraph 4",
+          "quote": "If he never comes back, then I just, all the games are mine"
+        }
+      ],
+      "entity_type": "unidentified_lot"
+    }
+  ],
+  "overrides": [
+  {
+    "id": "cq7-review-depth-g-tomb-current",
+    "source_key": "sc-234461881",
+    "source_sha256": "a8e2317b29956208f8a101c7aef0958c6bfd819e5add1a86f88c5ed43774d23f",
+    "collection": "games",
+    "item_id": "g-tomb-current",
+    "reason": "Initial current-game impression and comparison with predecessor provide supporting discussion, not only title utterance.",
+    "fields": {
+      "occurrence_groups": {
+        "expected": [
+          {
+            "type": "PASSING_MENTION",
+            "context": "Current new installment not named; candidate Rise of the Tomb Raider must not be silently resolved.",
+            "evidence": [
+              {
+                "location": "Paragraph 2",
+                "quote": "playing Tomb Raider very briefly"
+              }
+            ],
+            "speaker": {
+              "candidate": "Johnny",
+              "confidence": "medium",
+              "basis": "Named introduction and dialogue continuity; untimed source has no reliable turn labels."
+            }
+          }
+        ],
+        "value": [
+          {
+            "type": "SUPPORTING_EXAMPLE",
+            "context": "Initial current-game impression and comparison with predecessor provide supporting discussion, not only title utterance. Formal release identity remains unresolved.",
+            "evidence": [
+              {
+                "location": "Paragraph 2",
+                "quote": "playing Tomb Raider very briefly"
+              }
+            ],
+            "speaker": {
+              "candidate": "Johnny",
+              "confidence": "medium",
+              "basis": "Named introduction and dialogue continuity; untimed source has no reliable turn labels."
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "cq7-review-depth-g-tomb-reboot",
+    "source_key": "sc-234461881",
+    "source_sha256": "a8e2317b29956208f8a101c7aef0958c6bfd819e5add1a86f88c5ed43774d23f",
+    "collection": "games",
+    "item_id": "g-tomb-reboot",
+    "reason": "Explicit best-of-generation/best-series comparison is supporting coverage, not only a passing name.",
+    "fields": {
+      "occurrence_groups": {
+        "expected": [
+          {
+            "type": "PASSING_MENTION",
+            "context": "Earlier reboot described favorably; exact year/release not spoken.",
+            "evidence": [
+              {
+                "location": "Paragraph 2",
+                "quote": "last one, just Tomb Raider"
+              }
+            ],
+            "speaker": {
+              "candidate": "Johnny",
+              "confidence": "medium",
+              "basis": "Named introduction and dialogue continuity; untimed source has no reliable turn labels."
+            }
+          }
+        ],
+        "value": [
+          {
+            "type": "SUPPORTING_EXAMPLE",
+            "context": "Explicit best-of-generation/best-series comparison is supporting coverage, not only a passing name. Formal release identity remains unresolved.",
+            "evidence": [
+              {
+                "location": "Paragraph 2",
+                "quote": "last one, just Tomb Raider"
+              }
+            ],
+            "speaker": {
+              "candidate": "Johnny",
+              "confidence": "medium",
+              "basis": "Named introduction and dialogue continuity; untimed source has no reliable turn labels."
+            }
+          }
+        ]
+      }
+    }
+  }
+]
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": "0.1",
+  "created": "2026-09-13",
+  "status": "captured_text_review_complete",
+  "selection_basis": "Fifth era-varied batch in requested three-hour continuation; sequential lanes, not reserved-answer driven.",
+  "budget": "Local supplied public transcript files only; no paid services/publication/private imports/persona changes.",
+  "episodes": [
+    {
+      "key": "sc-248293457",
+      "episode_number": 20,
+      "title": "Episode 20 - Interview Dain Anderson Founder Of Nintendo Age",
+      "date": "2016-02-22",
+      "path": "episodes/cq-020-sc-248293457.md",
+      "source_url": "https://soundcloud.com/collectors-quest/collectors-quest-episode-20-interview-dain-anderson-founder-of-nintendo-age",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "words": 12242,
+      "sha256": "7f4ab8057432ccd3889b91b5acdedaf18f7045f17d1f99a88c34bf0618326644",
+      "reason": "Era-varied sequential lane continuation",
+      "status": "extracted_draft",
+      "record_path": "records/sc-248293457.json"
+    },
+    {
+      "key": "sc-412882248",
+      "episode_number": 87,
+      "title": "Episode 87 - Tips to Protect Your Collection, and Things to Never Do.",
+      "date": "2018-03-13",
+      "path": "episodes/cq-087-sc-412882248.md",
+      "source_url": "https://soundcloud.com/collectors-quest/episode-87-tips-to-protect-your-collection-and-things-to-never-do",
+      "timing": "No timestamps supplied; paragraph numbers are navigation aids",
+      "words": 13344,
+      "sha256": "df9e7d8639536251c321b015a66b6efccc61434b4ad69aae5c49f034dd00df8e",
+      "reason": "Era-varied sequential lane continuation",
+      "status": "extracted_draft",
+      "record_path": "records/sc-412882248.json"
+    },
+    {
+      "key": "sc-1430232622",
+      "episode_number": 213,
+      "title": "CQ 213 - Collecting Mail Order Exclusives",
+      "date": "2023-01-23",
+      "path": "episodes/cq-213-sc-1430232622.md",
+      "source_url": "https://soundcloud.com/collectors-quest/cq-213-collecting-mail-order-exclusives",
+      "timing": "YouTube caption timestamps",
+      "words": 25328,
+      "sha256": "8c7de91e2734bd5aac1e3704eb8212264c8a9940a9cfb38dfe17a0aefa3a4ad3",
+      "reason": "Era-varied sequential lane continuation",
+      "status": "extracted_draft",
+      "record_path": "records/sc-1430232622.json"
+    }
+  ],
+  "duplicate_controls": []
+}

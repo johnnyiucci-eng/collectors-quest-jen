@@ -1,0 +1,233 @@
+{
+  "review_binding": {"version":"cq-review-binding-1","sha256":"3de90c768bfc0ace23b865309e04462537a7c443b79c5a419e16b366b7270e7c","reviewed_utc":"2026-09-13T11:45:32.317314+00:00","meaning":"Exact reviewed local inputs; not independent semantic, audio or live certification"},
+  "schema_version": "1",
+  "required_for": "A1–A8 mandatory for every episode in every batch.",
+  "acceptance_scope": "Captured-text development review only; no audio, external-history or live certification.",
+  "episodes": [
+    {
+      "episode": 17,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All30paragraphs accounted,86typedspans. TecmoWorldGolf/ISS99/NCAA2K3 tie at3meaningfulparagraphs; depthqualification preserved.",
+          "evidence": [
+            "batches/011/reviews/017-audit.md",
+            "batches/011/reviews/017-annotations.json",
+            "batches/011/reviews/017-coordinator-source-read.md"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "68referencebuckets, ninefrozenbuckets covered; sourcecontinuations and regionaledition distinctions reviewed; Disneyovercredit repaired beforeacceptance.",
+          "evidence": [
+            "batches/011/reviews/017-audit.md",
+            "batches/011/reviews/017-annotations.json",
+            "batches/011/reviews/017-coordinator-source-read.md"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Johnny/Kat identified, noTyler orguest; formalclothingbanter notliteralrosterfact.",
+          "evidence": [
+            "batches/011/reviews/017-audit.md",
+            "batches/011/reviews/017-annotations.json",
+            "batches/011/reviews/017-coordinator-source-read.md"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "34actions separate reportedpurchases, condition/completeness, play andhypotheticals; Tecmo75longbox distinctfromdiscvalue.",
+          "evidence": [
+            "batches/011/reviews/017-audit.md",
+            "batches/011/reviews/017-annotations.json",
+            "batches/011/reviews/017-coordinator-source-read.md"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Twelve actualanswers independently read againstsource; exactsnapshots/forbiddeninferences retained.",
+          "evidence": [
+            "batches/011/reviews/answer-review.json",
+            "batches/011/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Writtenbrief reviewed forcollectorcondition, regionalset scope, sportspricehype and concretefollowups, notlive.",
+          "evidence": [
+            "batches/011/reviews/017-audit.md",
+            "batches/011/reviews/017-annotations.json",
+            "batches/011/reviews/017-coordinator-source-read.md"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Recordproofs, spanmapping,17samplebucketsbatchwide and46actualanswers pass; initialfailures preserved.",
+          "evidence": [
+            "batches/011/reviews/verification.md",
+            "batches/011/reviews/integration-history.json"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All eight checks individuallyrecorded; remaininguncertainregional/historyclaims visiblyqualified.",
+          "evidence": [
+            "batches/011/reviews/verification.md",
+            "batches/011/reviews/integration-history.json"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 84,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All46paragraphs accounted,153typedspans. MUSHA4/Pyst3; sixcoverage2ties, Cuphead2substantial. Nofalseuniquecoverageonlythird.",
+          "evidence": [
+            "batches/011/reviews/084-audit.md",
+            "batches/011/reviews/084-annotations.json",
+            "batches/011/reviews/084-coordinator-source-read.md"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "95referencebuckets,threefrozenbuckets covered; NewLeafhardware andPinballArcadepassing repaired; PS1remainingcountplatformambiguous.",
+          "evidence": [
+            "batches/011/reviews/084-audit.md",
+            "batches/011/reviews/084-annotations.json",
+            "batches/011/reviews/084-coordinator-source-read.md"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Tyler/Johnny only; Kat absent; rapidturnPystplay andsourceattributionuncertainty preserved.",
+          "evidence": [
+            "batches/011/reviews/084-audit.md",
+            "batches/011/reviews/084-annotations.json",
+            "batches/011/reviews/084-coordinator-source-read.md"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "66actions separateactualpickups, digitalSternplay vsphysicaltournament, proposedupgrades andCuphead/Labohypotheticals.",
+          "evidence": [
+            "batches/011/reviews/084-audit.md",
+            "batches/011/reviews/084-annotations.json",
+            "batches/011/reviews/084-coordinator-source-read.md"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Twelve actualanswers independentlyread;6freshsource-informedwordings retrieveallrequiredwindows, notblindaccuracy.",
+          "evidence": [
+            "batches/011/reviews/answer-review.json",
+            "batches/011/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Writtenbrief useful forhardwaredesign vsbundledgamequality, cheapPystexcitement, lostpinballround andunfinishedplans.",
+          "evidence": [
+            "batches/011/reviews/084-audit.md",
+            "batches/011/reviews/084-annotations.json",
+            "batches/011/reviews/084-coordinator-source-read.md"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "AddedCupheadopenloop forretrieval; numericranking/sourceproofs verified; originalpeerPS1/Pinballdefects retained.",
+          "evidence": [
+            "batches/011/reviews/verification.md",
+            "batches/011/reviews/integration-history.json"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All eight checks recorded; peritemuncertainty notsilentlyconvertedtoverifiedhardwarehistory.",
+          "evidence": [
+            "batches/011/reviews/verification.md",
+            "batches/011/reviews/integration-history.json"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 210,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All190timestampwindows independentlyread/accounted with773typedspans; captionseconds near-tiecluster disclosed, substantialrankdifferent.",
+          "evidence": [
+            "batches/011/reviews/210-audit.md",
+            "batches/011/reviews/210-annotations.json",
+            "batches/011/reviews/210-coordinator-source-read.md"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "368referencebuckets andfivefrozenbuckets covered;68non-gamecategories aligned; source-agentinitialspaninflation androottypedlistomission retained.",
+          "evidence": [
+            "batches/011/reviews/210-audit.md",
+            "batches/011/reviews/210-annotations.json",
+            "batches/011/reviews/210-coordinator-source-read.md"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Tyler/Johnny roster; launchcompanions andREcoplayer notforcednamedidentities; reportsaboutthirdparties distinguished.",
+          "evidence": [
+            "batches/011/reviews/210-audit.md",
+            "batches/011/reviews/210-annotations.json",
+            "batches/011/reviews/210-coordinator-source-read.md"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "85actions separatecart,ordered,received,owned,played andhypothetical; unauditedWiiannouncement notcertifiedcompletion.",
+          "evidence": [
+            "batches/011/reviews/210-audit.md",
+            "batches/011/reviews/210-annotations.json",
+            "batches/011/reviews/210-coordinator-source-read.md"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "22actualanswers independentlychecked; original/tunedqueriesallpass afterinitialmisses. Five typedlists54memberships preserveowners, sixlaunchcore andnegativeexclusions.",
+          "evidence": [
+            "batches/011/reviews/answer-review.json",
+            "batches/011/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Practicalbrief reviewed forsetaudit, motioncontrolexceptions, camera/region/reprintcorrections, Mozartjoke andSpasimopenloop; notlive.",
+          "evidence": [
+            "batches/011/reviews/210-audit.md",
+            "batches/011/reviews/210-annotations.json",
+            "batches/011/reviews/210-coordinator-source-read.md"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "79topicstringsrepaired; looprecords+launchcore added; OtherMexclusionfixed.3,387batchproofsand181sharedtests pass.",
+          "evidence": [
+            "batches/011/reviews/verification.md",
+            "batches/011/reviews/integration-history.json"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All eight checks individuallyrecorded, exactinputbindingrequired; unresolvedcaptionprices/titles andhistoricalclaims retained.",
+          "evidence": [
+            "batches/011/reviews/verification.md",
+            "batches/011/reviews/integration-history.json"
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "schema_version": "1",
+  "session_start_utc": "2026-09-13 07:44:56 UTC",
+  "earliest_finish_utc": "2026-09-13 09:44:56 UTC",
+  "status": "completed",
+  "groups": [
+    {
+      "batch": "003",
+      "episodes": [
+        9,
+        76,
+        202
+      ],
+      "words": 38793,
+      "windows": 183,
+      "spans": 326,
+      "actions": 120,
+      "answers": 22,
+      "sampled_references": 24,
+      "record_quotes": 693,
+      "fragment_quotes": 706
+    },
+    {
+      "batch": "004",
+      "episodes": [
+        10,
+        77,
+        203
+      ],
+      "words": 44325,
+      "windows": 218,
+      "spans": 386,
+      "actions": 125,
+      "answers": 25,
+      "sampled_references": 14,
+      "record_quotes": 834,
+      "fragment_quotes": 914
+    },
+    {
+      "batch": "005",
+      "episodes": [
+        11,
+        78,
+        204
+      ],
+      "words": 37916,
+      "windows": 186,
+      "spans": 397,
+      "actions": 138,
+      "answers": 27,
+      "sampled_references": 21,
+      "record_quotes": 852,
+      "fragment_quotes": 843
+    },
+    {
+      "batch": "006",
+      "episodes": [
+        12,
+        79,
+        205
+      ],
+      "words": 50316,
+      "windows": 246,
+      "spans": 432,
+      "actions": 144,
+      "answers": 28,
+      "sampled_references": 22,
+      "record_quotes": 950,
+      "fragment_quotes": 996
+    },
+    {
+      "batch": "007",
+      "episodes": [
+        13,
+        80,
+        206
+      ],
+      "words": 27336,
+      "windows": 129,
+      "spans": 290,
+      "actions": 131,
+      "answers": 25,
+      "sampled_references": 26,
+      "record_quotes": 509,
+      "fragment_quotes": 662
+    },
+    {
+      "batch": "008",
+      "episodes": [
+        14,
+        81,
+        207
+      ],
+      "words": 47756,
+      "windows": 226,
+      "spans": 367,
+      "actions": 161,
+      "answers": 31,
+      "sampled_references": 8,
+      "record_quotes": 721,
+      "fragment_quotes": 912
+    },
+    {
+      "batch": "009",
+      "episodes": [
+        15,
+        82,
+        208
+      ],
+      "words": 40722,
+      "windows": 194,
+      "spans": 433,
+      "actions": 142,
+      "answers": 31,
+      "sampled_references": 6,
+      "record_quotes": 788,
+      "fragment_quotes": 967
+    }
+  ],
+  "totals": {
+    "episodes": 21,
+    "mandatory_checks": 168,
+    "words": 287164,
+    "windows": 1382,
+    "spans": 2631,
+    "actions": 961,
+    "answers": 189,
+    "sampled_references": 121,
+    "record_quotes": 5347,
+    "fragment_quotes": 6000
+  },
+  "regressions": {
+    "shared_tests": {
+      "passed": 129,
+      "total": 129
+    },
+    "fixed_pilot_answers": {
+      "passed": 19,
+      "total": 19
+    },
+    "fixed_pilot_sample": {
+      "passed": 52,
+      "total": 52
+    },
+    "continuity": {
+      "passed": 9,
+      "total": 9,
+      "source_checks": 24
+    },
+    "original_question_diagnostic": {
+      "passed": 112,
+      "total": 116,
+      "excluded_without_distinct_question": 73
+    }
+  },
+  "boundaries": "Captured-text development review, no paid processing, publication, private imports or live activation. Four original-wording retrieval gaps remain; not conversational certification.",
+  "finished_utc": "2026-09-13 09:45:17 UTC",
+  "elapsed_wall_clock_seconds": 7221
+}

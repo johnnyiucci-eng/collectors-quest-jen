@@ -1,0 +1,16 @@
+{
+  "windows": 9,
+  "total": 14,
+  "passed": 13,
+  "no_title_windows": 3,
+  "failure": {
+    "id": "cq86-sample-Paragraph21-3",
+    "episode": 86,
+    "location": "Paragraph 21",
+    "title": "Spot game family retrospective",
+    "quote": "first three spot games",
+    "reviewed_game_ids": ["cq086-g013"],
+    "spans": []
+  },
+  "meaning": "Initial frozen-source comparison before adding the omitted sarcastic family return. Denominator and original window retained."
+}

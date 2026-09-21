@@ -1,0 +1,98 @@
+{
+  "total": 10,
+  "passed": 9,
+  "cases": [
+    {
+      "id": "cq022-fresh-packaging",
+      "missing_windows": [],
+      "coverage": {
+        "returned_windows": 37,
+        "episode_windows": 52
+      },
+      "route": "lexical"
+    },
+    {
+      "id": "cq022-fresh-manufacturer",
+      "missing_windows": [],
+      "coverage": {
+        "returned_windows": 34,
+        "episode_windows": 52
+      },
+      "route": "corrections"
+    },
+    {
+      "id": "cq022-fresh-save_time",
+      "missing_windows": [],
+      "coverage": {
+        "returned_windows": 28,
+        "episode_windows": 52
+      },
+      "route": "lexical"
+    },
+    {
+      "id": "cq022-fresh-wii_actor",
+      "missing_windows": [],
+      "coverage": {
+        "returned_windows": 37,
+        "episode_windows": 52
+      },
+      "route": "lexical"
+    },
+    {
+      "id": "cq022-fresh-expo",
+      "missing_windows": [],
+      "coverage": {
+        "returned_windows": 32,
+        "episode_windows": 52
+      },
+      "route": "lexical"
+    },
+    {
+      "id": "cq022-fresh-big_screen",
+      "missing_windows": [],
+      "coverage": {
+        "returned_windows": 29,
+        "episode_windows": 52
+      },
+      "route": "lexical"
+    },
+    {
+      "id": "cq089-fresh-notgift",
+      "missing_windows": [],
+      "coverage": {
+        "returned_windows": 47,
+        "episode_windows": 81
+      },
+      "route": "lexical"
+    },
+    {
+      "id": "cq089-fresh-substitute",
+      "missing_windows": [],
+      "coverage": {
+        "returned_windows": 31,
+        "episode_windows": 81
+      },
+      "route": "lexical"
+    },
+    {
+      "id": "cq215-fresh-postscript",
+      "missing_windows": [
+        "01:20:06"
+      ],
+      "coverage": {
+        "returned_windows": 54,
+        "episode_windows": 179
+      },
+      "route": "corrections"
+    },
+    {
+      "id": "cq215-fresh-discard",
+      "missing_windows": [],
+      "coverage": {
+        "returned_windows": 36,
+        "episode_windows": 179
+      },
+      "route": "lexical"
+    }
+  ]
+}

@@ -1,0 +1,1205 @@
+{
+  "schema_version": "1",
+  "reviewer": "Root coordinator: full-source and actual-prose review",
+  "scope": "All312 supplied source windows and62 full composed answers read; typed list memberships and identity/action qualifiers checked. Captured-text development review, not audio, external verification, blind accuracy or live certification.",
+  "cases": [
+    {
+      "id": "cq022-roster",
+      "episode": 22,
+      "question": "Who was Sixteen_Bit, and did he collect complete sets?",
+      "query": "Cam Sixteen Bit Toronto collection quality quantity complete box consoles six hundred",
+      "answer": "Cam is the Toronto guest known as Sixteen_Bit, alongside hosts Kat and Johnny. He estimates about seventeen consoles and just under six hundred games, choosing games he wants to play rather than pursuing complete or uniformly boxed sets. His Instagram handle is spelled in words with an underscore. The approximate size is a dated self-report, not an audited collection count.",
+      "forbidden": [
+        "Do not identify Tyler as a participant.",
+        "Do not call the collection six hundred CIB games.",
+        "Do not claim an exact inventory or present-day location."
+      ],
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 4",
+        "Paragraph 5",
+        "Paragraph 6",
+        "Paragraph 7",
+        "Paragraph 51",
+        "Paragraph 52"
+      ],
+      "status": "passed",
+      "reason": "Cam is the guest with Kat/Johnny; approximate self-reported curated collection, not complete sets."
+    },
+    {
+      "id": "cq022-origins",
+      "episode": 22,
+      "question": "What got Cam collecting again after his childhood systems?",
+      "query": "Cam childhood Atari SNES RPG Wii Virtual Console repaired Nintendo Tetris",
+      "answer": "He remembers Atari games from early childhood, then revisited his retained SNES and RPGs around age 21–23 and bought back old favorites. Wii Virtual Console let him revisit more games, but he missed original hardware. He repaired his old NES, put in his retained Tetris cartridge and saw it work; he dates that collecting restart to roughly five years earlier.",
+      "forbidden": [
+        "Do not treat five years as an exact calendar date.",
+        "Do not turn this into a repair tutorial.",
+        "Do not say he bought his original childhood NES at the restart."
+      ],
+      "evidence_locations": [
+        "Paragraph 4",
+        "Paragraph 5",
+        "Paragraph 6"
+      ],
+      "status": "passed",
+      "reason": "Childhood Atari and retained SNES/NES lead to the adult restart; no invented exact date."
+    },
+    {
+      "id": "cq022-favorites",
+      "episode": 22,
+      "question": "Which games did Cam name as favorites, and was one definitely number one?",
+      "query": "Cam favorite Final Fantasy III VI Soul Blazer Castlevania Dr Mario NES SNES",
+      "answer": "Final Fantasy III—explicitly the game also numbered VI—is Cam's steady all-time favorite. His SNES examples include Final Fantasy II/IV, Chrono Trigger, Secret of Mana, Secret of Evermore, Soul Blazer, Super Mario World, Super Castlevania IV, Super Metroid and the SNES Mega Man group. For NES he names the three Mario games, Dr. Mario and the Mega Man games. He says the ordering below his number one can change; these examples are not a complete ranked top ten.",
+      "forbidden": [
+        "Do not count US III and VI as two separate favorites.",
+        "Do not invent individual Mega Man installments.",
+        "Do not rank every named item in speaking order."
+      ],
+      "evidence_locations": [
+        "Paragraph 16",
+        "Paragraph 17"
+      ],
+      "status": "passed",
+      "reason": "FFIII/VI identity is explicitly equated; remaining platform-scoped favorites have flexible order."
+    },
+    {
+      "id": "cq022-turbo",
+      "episode": 22,
+      "question": "Was TurboGrafx nostalgia for Cam, and who wanted a Duo?",
+      "query": "Cam Christmas TurboGrafx Genesis childhood Johnny Turbo Duo John wants",
+      "answer": "TurboGrafx was a new adult discovery for Cam: he says his first play came when he got one for Christmas three years earlier, and he acquired it before his own Genesis. Johnny recalls getting a TurboDuo years earlier and defers that acquisition story. Kat says her partner John wants a Duo. That wish is not Johnny buying another one, and the joking explosion warning is not a verified hardware outcome.",
+      "forbidden": [
+        "Do not merge John and Johnny.",
+        "Do not assert an actual explosion.",
+        "Do not certify capacitor or electrical advice."
+      ],
+      "evidence_locations": [
+        "Paragraph 9",
+        "Paragraph 10",
+        "Paragraph 11",
+        "Paragraph 12",
+        "Paragraph 13"
+      ],
+      "status": "passed",
+      "reason": "Cam adult Turbo discovery, Johnny prior Duo and partner John's wish are separate actors and states."
+    },
+    {
+      "id": "cq022-gaia",
+      "episode": 22,
+      "question": "Did Cam buy the whole cheap stack of Illusion of Gaia, and had he played Terranigma?",
+      "query": "Cam Illusion Gaia Zellers 9.97 one box lost Terranigma unplayed repro",
+      "answer": "He considered buying the whole stack but bought one sealed Illusion of Gaia, recalling about 9.97 at a local store around 1999 or 2000. The store name is transcribed unclearly; Zellers is possible but not established. He opened and played it and lost the box. He likes the game but dislikes being unable to return for missed things. He had not played Terranigma and wanted a reproduction eventually, below other priorities; Johnny's UK-copy suggestion is an alternative, not a transaction.",
+      "forbidden": [
+        "Do not record a bulk purchase.",
+        "Do not call his copy currently CIB.",
+        "Do not infer a repro order or legal certification."
+      ],
+      "evidence_locations": [
+        "Paragraph 19",
+        "Paragraph 20"
+      ],
+      "status": "passed",
+      "reason": "One Gaia copy, opened/lost box; retailer normalization now explicitly uncertain and Terranigma still unplayed."
+    },
+    {
+      "id": "cq022-survivors",
+      "episode": 22,
+      "question": "Which games were still with Cam's old NES, and why did he correct the count?",
+      "query": "Cam old NES three two Tetris Mario 3 Back Future",
+      "answer": "He initially says two games, then corrects himself to three: Tetris, Super Mario Bros. 3 and Back to the Future. He says he could not get rid of Tetris and Mario 3 and jokes that nobody wanted Back to the Future. That is a childhood-survivor story, not three new purchases.",
+      "forbidden": [
+        "Do not retain the mistaken two count.",
+        "Do not interpret the joke as a completed sale.",
+        "Do not identify unrelated hidden boxes from this list."
+      ],
+      "evidence_locations": [
+        "Paragraph 22"
+      ],
+      "status": "passed",
+      "reason": "Two survivors is corrected to three; retention is not new acquisition."
+    },
+    {
+      "id": "cq022-rpgqueue",
+      "episode": 22,
+      "question": "What was Cam actually playing, and what was waiting behind it?",
+      "query": "Cam Lufia Twilight Princess HD Skies Arcadia Blazing Lazers first beat",
+      "answer": "Cam is partway through Lufia on SNES for the first time and criticizes its translation. He received Twilight Princess HD but wants to start it after Lufia because he dislikes juggling two involved stories. Skies of Arcadia on Dreamcast is another game he strongly wants to get to when time permits. Separately, he reports his first Blazing Lazers completion on Thursday. The source does not give an exact Lufia installment subtitle or a finished Lufia/Zelda run.",
+      "forbidden": [
+        "Do not mark Cam's Twilight Princess completed or already played.",
+        "Do not force Lufia sequel identity.",
+        "Do not convert a play queue into new purchases."
+      ],
+      "evidence_locations": [
+        "Paragraph 28",
+        "Paragraph 29",
+        "Paragraph 35",
+        "Paragraph 36",
+        "Paragraph 37",
+        "Paragraph 41"
+      ],
+      "status": "passed",
+      "reason": "Current Lufia, received/future Zelda, eventual Skies and completed Blazing remain distinct; Lufia subtitle unresolved."
+    },
+    {
+      "id": "cq022-pills",
+      "episode": 22,
+      "question": "Why did Johnny's wife and friend make him play Dr. Mario?",
+      "query": "Johnny sideways pills Dr Mario Dr Luigi wife friend Cam competitive",
+      "answer": "They enjoy the games and make Johnny take a turn because his attempts to match pills sideways amuse them. He says this has been difficult for him since childhood, and describes a similar Dr. Luigi setup on Wii U. Cam, in contrast, still enjoys competitive Dr. Mario with friends. Johnny calls himself competitive but a gracious winner and loser; the story is comic self-description, not an abuse finding.",
+      "forbidden": [
+        "Do not assign Johnny's difficulty to Cam.",
+        "Do not infer a newly purchased game.",
+        "Do not turn jokes into allegations about his household."
+      ],
+      "evidence_locations": [
+        "Paragraph 16",
+        "Paragraph 31",
+        "Paragraph 32",
+        "Paragraph 33",
+        "Paragraph 34"
+      ],
+      "status": "passed",
+      "reason": "Johnny's sideways-pill difficulty and Cam competitive play are separate; comic household story is not abuse evidence."
+    },
+    {
+      "id": "cq022-pinballamiibo",
+      "episode": 22,
+      "question": "What had Johnny played, and did he really need his wife's permission to open the amiibo?",
+      "query": "Johnny Little Mermaid Pinball Frenzy twenty minutes Zelda HD amiibo opened joke",
+      "answer": "Johnny had tried his newly acquired CIB Little Mermaid II: Pinball Frenzy for about twenty minutes and was enjoying it. He was also two or three hours into Twilight Princess HD. He opened its packaged amiibo for the extra dungeon despite disliking the resulting display gap. He explicitly says the story about needing to talk to his wife was a joke. Another person's still-unopened amiibo is mentioned, but that unlabelled reply does not securely identify the owner.",
+      "forbidden": [
+        "Do not say Cam opened Johnny's amiibo.",
+        "Do not assert literal spousal permission.",
+        "Do not invent completion or precise amiibo variant."
+      ],
+      "evidence_locations": [
+        "Paragraph 37",
+        "Paragraph 38"
+      ],
+      "status": "passed",
+      "reason": "Short Mermaid/Zelda play and actual amiibo opening are supported; wife story retracted and other owner uncertain."
+    },
+    {
+      "id": "cq022-katgames",
+      "episode": 22,
+      "question": "Was Kat enjoying Paper Jam, and what was she going to play instead?",
+      "query": "Kat Paper Jam 3DS downstairs 2DS Borderlands wife Life Strange list",
+      "answer": "Kat remains on the fence about Paper Jam and is trying to reinvest in it. She still has not fetched her 3DS from downstairs, and the prospect of using the 2DS discourages her. She plans Borderlands that night to relax. Johnny reports his wife started Paper Jam and disliked it, then strongly recommends Life Is Strange; Kat adds that to her future play list. None of this establishes Kat finishing either planned game.",
+      "forbidden": [
+        "Do not call the 3DS lost or stolen.",
+        "Do not make Johnny's wife's opinion Kat's exact wording.",
+        "Do not record future play as completed."
+      ],
+      "evidence_locations": [
+        "Paragraph 39",
+        "Paragraph 40",
+        "Paragraph 41"
+      ],
+      "status": "passed",
+      "reason": "Kat's Paper Jam uncertainty and future Borderlands/Life Is Strange are not completion; partner's opinion separate."
+    },
+    {
+      "id": "cq022-bundle",
+      "episode": 22,
+      "question": "Did Cam's fourth GameCube come with a Game Boy Player?",
+      "query": "Cam fourth Gamecube bundle two controllers Prime 2 Star Fox Four Swords Game Boy Player",
+      "answer": "The stated bundle contents are the GameCube, two good first-party controllers, Metroid Prime, Prime 2, Star Fox Adventures and Four Swords Adventures. Cam wanted the extras more than a fourth console. The following remark that bundles sometimes have a Game Boy Player is a general possibility, not confirmation that this one did. Johnny's praise for the GameCube/Player combination and his wish for a Wii U DS player are separate opinions and a hypothetical product.",
+      "forbidden": [
+        "Do not add Game Boy Player to Cam's received bundle.",
+        "Do not record a gifted surplus console.",
+        "Do not treat a DS player as announced hardware."
+      ],
+      "evidence_locations": [
+        "Paragraph 41",
+        "Paragraph 42",
+        "Paragraph 43",
+        "Paragraph 44"
+      ],
+      "status": "passed",
+      "reason": "Four named games and two controllers acquired; Game Boy Player general example is not a confirmed bundle member."
+    },
+    {
+      "id": "cq022-katmilestone",
+      "episode": 22,
+      "question": "What did Kat's two-hundred milestone mean—was her N64 set complete in box?",
+      "query": "Kat N64 200 Gunstar Heroes WrestleMania Donkey Kong boxes manuals goal",
+      "answer": "Her recent local pickups include Gunstar Heroes for Genesis, WrestleMania 2000 among N64 fillers, and Donkey Kong on Game Boy. The N64 collection reached about two hundred games. She still needs more games and missing boxes or manuals, so the milestone is not a complete set or two hundred complete-in-box copies. A CIB N64 set is her long-term goal, with no deadline.",
+      "forbidden": [
+        "Do not confuse two hundred games with two hundred consoles.",
+        "Do not claim the NES set is CIB.",
+        "Do not promise a completion date."
+      ],
+      "evidence_locations": [
+        "Paragraph 44",
+        "Paragraph 45",
+        "Paragraph 46"
+      ],
+      "status": "passed",
+      "reason": "Reached roughly200 N64 milestone, future CIB completion; named local pickups preserve platforms."
+    },
+    {
+      "id": "cq022-disney",
+      "episode": 22,
+      "question": "Which of the Disney GBA games did Johnny buy, and which were still missing?",
+      "query": "Johnny bought Lizzie McGuire one two three Phil Raven Herbie Raven 2",
+      "answer": "Johnny bought Lizzie McGuire 1, 2 and 3, Phil of the Future and the first That's So Raven during his Disney GBA collecting burst. He says these were inexpensive boxed games at a local shop, with rough one-to-five-dollar examples and around fifty-to-sixty dollars spent overall—not exact prices for each named title. Herbie: Fully Loaded was unavailable there, and a follow-on Raven target still needed finding. It may be a sequel, but the supplied caption does not preserve a sequel number. He explicitly declines to test Phil despite having a Game Boy ready, so purchase must not become a played claim.",
+      "forbidden": [
+        "Do not turn the unresolved follow-on Raven target into a confirmed numbered sequel, purchase or played game.",
+        "Do not turn the spare Raven offer into a gift.",
+        "Do not infer gameplay knowledge or exact per-game prices."
+      ],
+      "evidence_locations": [
+        "Paragraph 46",
+        "Paragraph 47",
+        "Paragraph 48",
+        "Paragraph 49",
+        "Paragraph 50",
+        "Paragraph 51"
+      ],
+      "status": "passed",
+      "reason": "Five named GBA purchases supported; Herbie unavailable and later Raven identity unresolved, no Phil play."
+    },
+    {
+      "id": "cq022-lists",
+      "episode": 22,
+      "question": "How did Johnny handle Star Wars, Marvel and Sleeping Beauty in his Disney research?",
+      "query": "Johnny Disney lists GBA seventy Game Boy thirty Star Wars Marvel Sleeping Beauty DS",
+      "answer": "Johnny reports roughly ten or fifteen Game Boy Disney games, around thirty GBC games and over seventy core GBA titles. He made separate linked lists for Star Wars and Marvel after considering Disney's later acquisitions, and stopped before researching DS. His claim that he could not find a Disney Sleeping Beauty adaptation on Nintendo or older PlayStation systems is a bounded search report, not an independently verified assertion that none exists anywhere.",
+      "forbidden": [
+        "Do not count Star Wars/Marvel inside the quoted core list automatically.",
+        "Do not invent a released Sleeping Beauty game.",
+        "Do not certify a complete or current Disney catalog."
+      ],
+      "evidence_locations": [
+        "Paragraph 46",
+        "Paragraph 47",
+        "Paragraph 48",
+        "Paragraph 49"
+      ],
+      "status": "passed",
+      "reason": "Approximate core counts, separate linked Star Wars/Marvel, deferred DS and bounded Sleeping Beauty search preserved."
+    },
+    {
+      "id": "cq022-prominence",
+      "episode": 22,
+      "question": "Which three games received the most discussion in this episode?",
+      "query": "CQ22 top discussion Dr Mario Lufia Twilight Princess HD meaningful paragraphs",
+      "answer": "Using the union of substantial and supporting source paragraphs, Dr. Mario leads with four paragraphs. Lufia and Twilight Princess HD tie next with three each. That gives three names, with a tie for second rather than a strict second/third ordering. Dr. Mario has one substantial paragraph; the other two are supporting examples across these windows. These are paragraph-coverage estimates, not minutes, favorites or ownership rankings; hardware, game groups and passing names are excluded.",
+      "forbidden": [
+        "Do not count hardware discussion as individual game coverage.",
+        "Do not convert this into Cam's favorite ranking.",
+        "Do not invent timestamps or a strict order within the tie."
+      ],
+      "evidence_locations": [
+        "Paragraph 16",
+        "Paragraph 28",
+        "Paragraph 31",
+        "Paragraph 32",
+        "Paragraph 33",
+        "Paragraph 35",
+        "Paragraph 36",
+        "Paragraph 37",
+        "Paragraph 38"
+      ],
+      "status": "passed",
+      "reason": "Independent per-window recomputation confirms4/3/3 paragraph coverage with second-place tie; no seconds or favorites."
+    },
+    {
+      "id": "cq089-task-rank",
+      "episode": 89,
+      "question": "Which individual games received the most discussion, rather than the most mentions?",
+      "query": "Dino Park Tycoon Stadium Events Mind Teaser rare CIB gift boxes",
+      "answer": "DinoPark Tycoon leads with six meaningful paragraphs, Stadium Events follows with five, and Mind Teaser has four. These are untimed paragraph unions, not minutes, recommendations or evidence of play. DinoPark is largely a rarity/completeness topic; Stadium Events includes a collecting debate and a gift story; Mind Teaser includes packaging as well as a reported session. Woody Woodpecker video discs, hardware, series and passing jokes are excluded. It's a Bird's Life is educational software whose mechanics are not established here, so it is also outside this qualified individual-game ranking rather than asserted to be a video.",
+      "forbidden": [
+        "Precise minutes",
+        "Bird's Life individual-game leader",
+        "Stadium P51 inflated"
+      ],
+      "evidence_locations": [
+        "Paragraph 14",
+        "Paragraph 16",
+        "Paragraph 20",
+        "Paragraph 21",
+        "Paragraph 22",
+        "Paragraph 26",
+        "Paragraph 27",
+        "Paragraph 28",
+        "Paragraph 34",
+        "Paragraph 35",
+        "Paragraph 36",
+        "Paragraph 39",
+        "Paragraph 47",
+        "Paragraph 51",
+        "Paragraph 52",
+        "Paragraph 53"
+      ],
+      "status": "passed",
+      "reason": "Independent union recomputation confirms6/5/4 paragraphs; media/uncertain educational mechanics excluded rather than guessed."
+    },
+    {
+      "id": "cq089-task-roster",
+      "episode": 89,
+      "question": "Who was the guest, and was Kat part of this conversation?",
+      "query": "Stephan Stefan Archon 1981 pronunciation Kat Tyler Johnny",
+      "answer": "The interview participants are Tyler, Johnny and Stephan Reese. The guest gives his pronunciation as STEFIN and discusses Archon1981 and his former Archon_Turtle handle. Kat appears in the opening description of the show, not as a participant in this interview. The varying caption spellings do not represent additional guests.",
+      "forbidden": [
+        "Kat interviewed",
+        "Multiple guests from spelling",
+        "Private identities inferred"
+      ],
+      "evidence_locations": [
+        "Paragraph 1",
+        "Paragraph 2",
+        "Paragraph 3",
+        "Paragraph 80",
+        "Paragraph 81"
+      ],
+      "status": "passed",
+      "reason": "Guest Stephan with Tyler/Johnny; Kat intro mention is not interview attendance; name variants are one person."
+    },
+    {
+      "id": "cq089-task-scope",
+      "episode": 89,
+      "question": "What did completing the 3DO set actually mean here?",
+      "query": "full North American CIB 3DO 200 demos 170 172 Mental Messages",
+      "answer": "Stephan says his North American 3DO set is complete in box. His over-200 collection count includes demos and other nonretail material; the ordinary set size is only roughly 170 or 172 in the conversation. Those numbers are different scopes, not a precise reconciled census. His strict completeness discussion also includes obscure items such as the mail-in Mental Messages fourth golf disc.",
+      "forbidden": [
+        "Exactly200 retail games",
+        "Worldwide full set",
+        "Definitive catalog"
+      ],
+      "evidence_locations": [
+        "Paragraph 5",
+        "Paragraph 16",
+        "Paragraph 17",
+        "Paragraph 18"
+      ],
+      "status": "passed",
+      "reason": "Over200 inventory and170/172 ordinary set use different scopes; strict CIB includes mailed fourth golf disc."
+    },
+    {
+      "id": "cq089-task-motivation",
+      "episode": 89,
+      "question": "Why collect a system he never had as a child?",
+      "query": "Stephan wish fulfillment 700 parents Doom box art 3DO",
+      "answer": "Stephan describes wish fulfillment: he wanted a 3DO as a child but could not persuade his parents to spend the much higher price. He also enjoys the large boxes and expanded artwork, using Doom as an example of an attractive package around a port he criticizes. That is different from nostalgia for personally owning the console then. The price and release-year recollections are historical source claims, not verified specifications.",
+      "forbidden": [
+        "Childhood3DO owned",
+        "Current console pricing",
+        "All ports bad"
+      ],
+      "evidence_locations": [
+        "Paragraph 11",
+        "Paragraph 12",
+        "Paragraph 13"
+      ],
+      "status": "passed",
+      "reason": "Unfulfilled childhood desire and present box-art appeal, not childhood ownership; dated price/history claims qualified."
+    },
+    {
+      "id": "cq089-task-rarity",
+      "episode": 89,
+      "question": "Was Lucienne's Quest really the rarest because everyone knew its price?",
+      "query": "Lucien Quest Dino Park Tycoon Little Samson CIB two years rare price",
+      "answer": "No. Stephan contrasts Lucienne's Quest's fame and value with DinoPark Tycoon's much scarcer complete package. He says his DinoPark seller was especially excited about Lucienne from the same lot, and that the previous comparable DinoPark sale had been about two years earlier. The Little Samson analogy is about fame, demand and price, not proof of equal rarity. He also stresses how thin and inconsistent the 3DO market was.",
+      "forbidden": [
+        "Most expensive always rarest",
+        "Current1500 appraisal",
+        "Mail-order established"
+      ],
+      "evidence_locations": [
+        "Paragraph 14",
+        "Paragraph 15",
+        "Paragraph 16",
+        "Paragraph 26",
+        "Paragraph 27",
+        "Paragraph 28"
+      ],
+      "status": "passed",
+      "reason": "Lucienne fame/value differs from DinoPark CIB scarcity; seller anecdote and thin-market comparables not current appraisal."
+    },
+    {
+      "id": "cq089-task-golf",
+      "episode": 89,
+      "question": "Why could a boxed retail golf package still be called incomplete?",
+      "query": "ESPN golf Tom Kite Mental Messages proof purchase disc four",
+      "answer": "The described retail tutorial contains three discs, but sending proof of purchase could obtain Mental Messages, explicitly labeled disc four. Stephan therefore treats that mail-in disc as part of strict completeness even though it has no separate retail box. The conversation clarifies the Tom Kite title after a Zany Golf interjection; it is instructional media, not evidence of a conventional golf game's mechanics.",
+      "forbidden": [
+        "Host placed order now",
+        "ZanyGolf same title",
+        "Every boxed copy includes fourth"
+      ],
+      "evidence_locations": [
+        "Paragraph 17",
+        "Paragraph 18"
+      ],
+      "status": "passed",
+      "reason": "Three retail tutorial discs plus mailed fourth, Tom Kite correction and instructional-media type preserved."
+    },
+    {
+      "id": "cq089-task-controllers",
+      "episode": 89,
+      "question": "What was uncertain about the party-game controller bundle?",
+      "query": "Zad Nost Peoples Party Gold Star Panasonic controller daisy chain six buttons",
+      "answer": "Zhadnost: The People's Party is said to include a controller when complete, but the speakers are unsure which manufacturer's controller belongs in the box. Separately, Stephan describes three-button original controllers, later six-button requirements and a single console port with controllers daisy-chained together. Those general hardware comments do not resolve the bundle's precise contents or prove every controller works with every game.",
+      "forbidden": [
+        "Goldstar definitively correct",
+        "Allgames sixbuttons",
+        "New bundle purchase"
+      ],
+      "evidence_locations": [
+        "Paragraph 18",
+        "Paragraph 20"
+      ],
+      "status": "passed",
+      "reason": "Uncertain bundled controller identity is not solved by general three/six-button or daisy-chain discussion."
+    },
+    {
+      "id": "cq089-task-media",
+      "episode": 89,
+      "question": "Were the rare adult-themed discs all actual games?",
+      "query": "Mind Teaser Neuro Dancer Plumbers video Vivid Sex Woody",
+      "answer": "No. The speakers distinguish puzzle or maze-based games such as Mind Teaser and NeuroDancer from video discs, and discuss Plumbers Don't Wear Ties separately. Their collecting scope also includes non-adult Woody Woodpecker videos. A rare disc or a long box does not make the contents a game. The conversation includes partial play and watched-playthrough comments, which do not establish that everyone completed or even played each title.",
+      "forbidden": [
+        "Everydisc game",
+        "Allthree completed",
+        "Invented explicit scenes"
+      ],
+      "evidence_locations": [
+        "Paragraph 5",
+        "Paragraph 20",
+        "Paragraph 21",
+        "Paragraph 22",
+        "Paragraph 23"
+      ],
+      "status": "passed",
+      "reason": "Puzzle/maze gameplay, watched/partial play and video-disc examples stay separate; no universal completion claim."
+    },
+    {
+      "id": "cq089-task-boxes",
+      "episode": 89,
+      "question": "What packaging details could make a seemingly complete copy incomplete?",
+      "query": "Mind Teaser jewel case slip cover VHS Shelley Duvall bird life exterior flap",
+      "answer": "Stephan says Mind Teaser needs its unusual outer box, jewel case and slipcover; losing the inner slipcover leaves it incomplete under his standard. It's a Bird's Life uses a different arrangement, with the disc under an exterior flap rather than in a jewel case. He also describes cardboard and clamp-style long boxes and warns from experience about mold. Replacement cases or labels are separate from original packaging, and these are source observations rather than conservation guarantees.",
+      "forbidden": [
+        "Every3DO jewelcase",
+        "Safety guarantee",
+        "Bird software gameplay inferred"
+      ],
+      "evidence_locations": [
+        "Paragraph 22",
+        "Paragraph 38",
+        "Paragraph 39",
+        "Paragraph 40",
+        "Paragraph 42",
+        "Paragraph 43"
+      ],
+      "status": "passed",
+      "reason": "Mind Teaser nested packaging versus Bird's Life flap placement and replacement boxes; no preservation guarantee."
+    },
+    {
+      "id": "cq089-task-japan",
+      "episode": 89,
+      "question": "What Japanese 3DO examples did the guest bring up without giving a complete catalog?",
+      "query": "Virtual Cameraman police knots mouse Sailor Moon Super Famicom",
+      "answer": "He mentions the Virtual Cameraman family, a Japanese Policenauts edition associated with the 3DO mouse, and a Sailor Moon fighting game he likes. The source does not supply the fighter's subtitle. The five-title Cameraman count, mouse-use claim and Super Famicom Sailor Moon recollections remain qualified episode statements, not an externally checked import checklist or proof of host ownership.",
+      "forbidden": [
+        "All Japanese titles",
+        "Unique mouse-use verified",
+        "Purchased imports inferred"
+      ],
+      "evidence_locations": [
+        "Paragraph 24",
+        "Paragraph 25",
+        "Paragraph 26"
+      ],
+      "status": "passed",
+      "reason": "Import families and unnamed fighter remain source-specific; no invented subtitle, ownership or exhaustive checklist."
+    },
+    {
+      "id": "cq089-task-gift",
+      "episode": 89,
+      "question": "Why was Stadium Events personally meaningful to the guest?",
+      "query": "Stephan wife gift Stadium events European PAL offer eBay",
+      "answer": "Stephan says his wife bought his authentic North American Stadium Events as a gift during a difficult period they discuss publicly. He had already accepted a European/PAL copy and moved on to another set; her offer prompted him to negotiate a well-kept but heavily priced listing. That makes the item's provenance meaningful to him beyond the debate about whether it is a better collectible than Nintendo World Championships. The episode does not establish any present-day family circumstances.",
+      "forbidden": [
+        "Current prognosis",
+        "Guest paid quotedexactprice",
+        "Universalpreference"
+      ],
+      "evidence_locations": [
+        "Paragraph 34",
+        "Paragraph 35",
+        "Paragraph 51",
+        "Paragraph 52",
+        "Paragraph 53"
+      ],
+      "status": "passed",
+      "reason": "Guest's authentic Stadium gift and earlier PAL substitute distinct; historical public account not current family inference."
+    },
+    {
+      "id": "cq089-task-sixsets",
+      "episode": 89,
+      "question": "Which completed sets did he report, and which completeness claims need qualifications?",
+      "query": "six sets Virtual Boy Super Nintendo NES Turbo cards 3DO Xbox",
+      "answer": "Stephan reports six completed collections: North American SNES with extra competition/test material, North American NES, Turbo's North American card set, Virtual Boy, North American CIB 3DO and North American original Xbox. Turbo CDs are explicitly not all present. His SNES set was largely cartridge-only, with childhood favorites complete in box, so its fast completion does not mean every game was CIB. The source does not add an unstated regional scope to the Virtual Boy set.",
+      "forbidden": [
+        "Worldwide full sets",
+        "TurboallCDs",
+        "EverysetCIB"
+      ],
+      "evidence_locations": [
+        "Paragraph 47",
+        "Paragraph 50",
+        "Paragraph 51",
+        "Paragraph 52",
+        "Paragraph 53",
+        "Paragraph 54"
+      ],
+      "status": "passed",
+      "reason": "Six named sets preserve cartridge/CD/CIB/region limits and selective childhood boxed copies."
+    },
+    {
+      "id": "cq089-task-batteries",
+      "episode": 89,
+      "question": "Did the preservation segment prove the battery and cleaning tips were safe?",
+      "query": "lithium ion never leak Axe body spray Sharpie dry erase insurance",
+      "answer": "No. Stephan passes along a battery suggestion credited to My Life in Gaming, including a never-leaks assertion, but neither the chemistry wording nor the safety claim is independently verified here. Tyler says he did not try the Axe body spray tip. Johnny disputes the repeated attribution of dry-erase advice and stresses limits around old boxes and plastic. These are dated reports and disagreements, not a tested preservation procedure.",
+      "forbidden": [
+        "Neverleak guaranteed",
+        "Chemicalrecipe endorsed",
+        "Insurance bought"
+      ],
+      "evidence_locations": [
+        "Paragraph 55",
+        "Paragraph 56",
+        "Paragraph 57",
+        "Paragraph 58"
+      ],
+      "status": "passed",
+      "reason": "Never-leaks/body-spray/dry-erase reports remain unverified or disputed; no tested preservation instructions."
+    },
+    {
+      "id": "cq089-task-protection",
+      "episode": 89,
+      "question": "What did the follow-up establish about unusual box protectors?",
+      "query": "Odyssey 2 Mordorff 3DO box protectors Lethal Enforcers Justifier",
+      "answer": "Tyler repeats the correction that Odyssey 2 protectors do exist. Stephan describes buying enough 3DO protectors for his set, a run later selling out, and new orders reportedly opening. Lethal Enforcers is a separate sizing problem: Tyler wants protection because the heavy gun bundle can fall from his shelf, while Johnny questions the need. A possible group manufacturing run is only a proposal, not a completed order.",
+      "forbidden": [
+        "No protectorsexist",
+        "Newcustomrun delivered",
+        "Everyplatformsamebox"
+      ],
+      "evidence_locations": [
+        "Paragraph 58",
+        "Paragraph 59",
+        "Paragraph 60"
+      ],
+      "status": "passed",
+      "reason": "Odyssey correction, actual3DO protector purchases and proposed heavy-gun solution do not become completed group order."
+    },
+    {
+      "id": "cq089-task-tylerbuys",
+      "episode": 89,
+      "question": "Which named games did Tyler buy with the sale, and which had he played before?",
+      "query": "Tyler Harvest Moon Troubleshooter Chrono Trigger DS coupon",
+      "answer": "Tyler reports buying Harvest Moon for SNES, Trouble Shooter for Genesis and a Chrono Trigger copy, plus unnamed Genesis games. He remembers playing Harvest Moon on friends' copies as a child and says his first Chrono Trigger play was the DS version; the newly purchased Chrono copy's platform is not stated. His Trouble Shooter example later contrasts the listing price with his perceived usual price, so a coupon is not automatically evidence of a bargain.",
+      "forbidden": [
+        "SNESChronobuy certain",
+        "Allchildhoodowned",
+        "Currentmarketprice"
+      ],
+      "evidence_locations": [
+        "Paragraph 64",
+        "Paragraph 70"
+      ],
+      "status": "passed",
+      "reason": "Tyler buys named games; new Chrono platform unknown despite prior DS play; listing price not automatic bargain."
+    },
+    {
+      "id": "cq089-task-guestbuys",
+      "episode": 89,
+      "question": "What purchase led him to consider collecting Dreamcast next?",
+      "query": "Stephan Sculptors Cut Steel Battalion PS2 PS1 Dreamcast",
+      "answer": "Stephan went to acquire a complete Steel Battalion bundle and asked the seller what else was available. He left with PS2, PS1 and Dreamcast games, enough Dreamcast material to consider it as his next set. He immediately qualifies that as a thought, not a completed collection. Separately, he bought Sculptor's Cut for a little over $200 during the promotion.",
+      "forbidden": [
+        "Dreamcastcomplete",
+        "AllPS1resold",
+        "Exacttransactionprice"
+      ],
+      "evidence_locations": [
+        "Paragraph 65",
+        "Paragraph 66"
+      ],
+      "status": "passed",
+      "reason": "Steel Battalion visit leads to multiple-platform acquisitions; Dreamcast remains possible next set."
+    },
+    {
+      "id": "cq089-task-shipping",
+      "episode": 89,
+      "question": "Had Tyler finally received the game Johnny bought for him in Portland?",
+      "query": "Johnny Tyler Portland box post office Howlitt second adventure",
+      "answer": "No. Johnny says the item bought in Portland is still boxed and needs a trip to the post office. The following caption names it as Howlitt's Second Adventure, retained as an uncertain title corresponding to the ongoing Cowlitz reference. This is a purchase and pending shipment, not delivery to Tyler. The claimed remaining print-run quantity is not verified stock information.",
+      "forbidden": [
+        "Tylerreceived",
+        "Stockverified",
+        "Newpurchaseepisode"
+      ],
+      "evidence_locations": [
+        "Paragraph 66",
+        "Paragraph 67"
+      ],
+      "status": "passed",
+      "reason": "Portland item still unshipped; caption title uncertain, no delivery or verified remaining inventory."
+    },
+    {
+      "id": "cq089-task-johnnybuys",
+      "episode": 89,
+      "question": "Which pickups did Johnny single out from his bulk PlayStation buying?",
+      "query": "Johnny bulk PS1 point blank gun con Namco Museum volume 2",
+      "answer": "He highlights Point Blank's first-game big-box bundle with a GunCon and Namco Museum Volume 2, alongside bulk PS1 purchases and items obtained to help a friend. The Namco collection discussion does not say he bought all five volumes, and it is a compilation rather than one new individual game. No current price or playthrough is established.",
+      "forbidden": [
+        "Allfivebought",
+        "Playedall",
+        "Currentvaluation"
+      ],
+      "evidence_locations": [
+        "Paragraph 68",
+        "Paragraph 69"
+      ],
+      "status": "passed",
+      "reason": "Point Blank bundle and Namco2 purchased; no all-volume acquisition or play implied."
+    },
+    {
+      "id": "cq089-task-coupon",
+      "episode": 89,
+      "question": "Was the eBay-collapse discussion an informed financial prediction?",
+      "query": "eBay speculation no insider 20 percent 8 percent aggregate price",
+      "answer": "No. Johnny explicitly calls it speculation without insider information. The hosts discuss whether coupons encourage paying inflated asking prices and whether price aggregators might record the undiscounted amount. They offer Trouble Shooter as an example, but do not demonstrate a measured market-wide effect or establish that eBay was failing. These are historical opinions, not current financial guidance.",
+      "forbidden": [
+        "Insiderknowledge",
+        "CurrenteBayfinancialfinding",
+        "Measuredcausality"
+      ],
+      "evidence_locations": [
+        "Paragraph 69",
+        "Paragraph 70",
+        "Paragraph 71",
+        "Paragraph 72"
+      ],
+      "status": "passed",
+      "reason": "Market-collapse/coupon discussion explicitly speculation; no measured causal price effect or current advice."
+    },
+    {
+      "id": "cq089-task-play",
+      "episode": 89,
+      "question": "Who had actually finished a game, and who was still working toward completion?",
+      "query": "Galactic Attack beat Metroid map halfway Castlevania Frankenstein Evil Within 2",
+      "answer": "Tyler says he beat Galactic Attack; his original Metroid run is only around halfway, helped by drawing a map. Stephan is attempting his first Castlevania completion and is struggling with Frankenstein, while also reporting Horizon Zero Dawn DLC play. Johnny repeats his earlier The Evil Within completion but has only just started The Evil Within 2. None of the latter progress reports should become a completed run.",
+      "forbidden": [
+        "Allcompleted",
+        "HorizonDLCtitleinvented",
+        "Exacthours"
+      ],
+      "evidence_locations": [
+        "Paragraph 72",
+        "Paragraph 73",
+        "Paragraph 74",
+        "Paragraph 75",
+        "Paragraph 76",
+        "Paragraph 78",
+        "Paragraph 80"
+      ],
+      "status": "passed",
+      "reason": "Galactic Attack completed; Metroid/Castlevania/EvilWithin2 in progress; prior first EvilWithin completion separate."
+    },
+    {
+      "id": "cq089-task-repro",
+      "episode": 89,
+      "question": "Did Johnny say he owned an authentic complete NES set after all?",
+      "query": "Stadium Events repro complete set denies words",
+      "answer": "No. He identifies the Stadium Events on his shelf as a reproduction and explicitly denies the claim that he tells people he has a complete set in the way attributed to him. The teasing is not evidence of authentic ownership or a true boast. He also says he does not care about that missing authentic item.",
+      "forbidden": [
+        "Completeauthenticset",
+        "Admitteddeception",
+        "GuestgiftbelongsJohnny"
+      ],
+      "evidence_locations": [
+        "Paragraph 73",
+        "Paragraph 74"
+      ],
+      "status": "passed",
+      "reason": "Johnny explicitly identifies reproduction and denies attributed boast; not authentic Stadium ownership."
+    },
+    {
+      "id": "cq089-task-films",
+      "episode": 89,
+      "question": "Were the closing Dracula and Frankenstein references definite game identifications?",
+      "query": "Dracula pinball Super Nintendo Sega CD Frankenstein Shelley Duvall Churchill",
+      "answer": "Not all of them. The discussion first covers films and a Dracula pinball machine. It then proposes returning to SNES or Sega CD games but immediately confuses Dracula and Frankenstein before inventing a Shelley Duvall crossover joke. Those fragments do not securely establish an exact adaptation and platform. Johnny also admits getting the Churchill film's title wrong, so the archive keeps that title unresolved rather than guessing.",
+      "forbidden": [
+        "Everyreferencevideogame",
+        "Inventedcrossoverreal",
+        "Exacttitleguess"
+      ],
+      "evidence_locations": [
+        "Paragraph 78",
+        "Paragraph 79",
+        "Paragraph 80"
+      ],
+      "status": "passed",
+      "reason": "Films/pinball/uncertain adaptation segue and crossover joke remain distinct, no guessed Churchill title."
+    },
+    {
+      "id": "cq215-skill",
+      "episode": 215,
+      "question": "Why do they disagree about the hardest game to master?",
+      "query": "Why do they disagree about the hardest game to master?",
+      "answer": "They use different notions of mastery: StarCraft adds hidden information and demanding real-time execution, while chess rewards lifelong study and Magic includes hidden information and randomness. The conversation is a disagreement about criteria, not a demonstrated ranking of human skill ceilings.",
+      "forbidden": [
+        "Do not present opinions as measured scientific limits."
+      ],
+      "evidence_locations": [
+        "00:00:00",
+        "00:01:01",
+        "00:02:05",
+        "00:03:07",
+        "00:04:13"
+      ],
+      "status": "passed",
+      "reason": "Different mastery criteria explain debate; hidden information/randomness/execution not measured universal ceiling."
+    },
+    {
+      "id": "cq215-gift",
+      "episode": 215,
+      "question": "How did Johnny get his first GameCube, and what did Tyler like about Metroid Prime?",
+      "query": "How did Johnny get his first GameCube, and what did Tyler like about Metroid Prime?",
+      "answer": "Johnny says his then-girlfriend, now wife, gave him a GameCube with Metroid Prime for Valentine’s Day. Tyler describes Prime as a favorite and particularly enjoys scanning and filling the knowledge/collectible log. The gift is Johnny’s story, not Tyler’s purchase.",
+      "forbidden": [
+        "Do not swap recipients or infer Tyler bought that gift."
+      ],
+      "evidence_locations": [
+        "00:18:12",
+        "00:19:19"
+      ],
+      "status": "passed",
+      "reason": "Johnny received the girlfriend/wife gift; Tyler's scanning enthusiasm is separate."
+    },
+    {
+      "id": "cq215-launch",
+      "episode": 215,
+      "question": "Which games were available at US launch, and what would Tyler have chosen?",
+      "query": "Which games were available at US launch, and what would Tyler have chosen?",
+      "answer": "The twelve named launch games are Luigi’s Mansion, Super Monkey Ball, Wave Race: Blue Storm, Rogue Squadron II: Rogue Leader, All-Star Baseball 2002, Madden NFL 2002, NHL Hitz 2002, Dave Mirra Freestyle BMX 2, Tony Hawk’s Pro Skater 3, Tarzan Untamed, Crazy Taxi and Batman: Vengeance. Tyler says he would choose Luigi’s Mansion and Super Monkey Ball; that is hypothetical, not a launch-day purchase report.",
+      "forbidden": [
+        "Do not treat hypothetical choices as owned or purchased."
+      ],
+      "evidence_locations": [
+        "00:29:04",
+        "00:30:10"
+      ],
+      "status": "passed",
+      "reason": "Twelve source-named US launch titles and two hypothetical choices; no launch purchase inference."
+    },
+    {
+      "id": "cq215-sunshine",
+      "episode": 215,
+      "question": "Why is Johnny down on Super Mario Sunshine?",
+      "query": "Why is Johnny down on Super Mario Sunshine?",
+      "answer": "Johnny calls it his least favorite mainline Mario and dislikes the tropical setting. The exchange also criticizes FLUDD’s effect on jumping and fiddly hard shines, while contrasting Odyssey’s more puzzle-like difficulty. These are taste judgments, not evidence the game is objectively bad.",
+      "forbidden": [
+        "Do not convert shared unlabelled dialogue into verbatim Johnny-only quotes."
+      ],
+      "evidence_locations": [
+        "00:23:38",
+        "00:24:41",
+        "00:25:45"
+      ],
+      "status": "passed",
+      "reason": "Johnny's setting preference and shared FLUDD/difficulty discussion distinguished from objective quality or exact speaker quotes."
+    },
+    {
+      "id": "cq215-set",
+      "episode": 215,
+      "question": "What counts toward their GameCube set, and what is optional?",
+      "query": "What counts toward their GameCube set, and what is optional?",
+      "answer": "They use about 558 games while acknowledging competing counts. Duplicate-game bundles such as Metroid Prime/Wind Waker and Pure Evil do not need separate game slots. Pac-Man Vs. does count as its own release for Tyler, who prefers the standalone sleeve; demo-disc runs are optional. Their preferred big-box completeness is a collecting preference, not a universal rule.",
+      "forbidden": [
+        "Do not certify exact catalogue size or treat utility Pokemon Box as ordinary gameplay."
+      ],
+      "evidence_locations": [
+        "00:26:52",
+        "00:27:57",
+        "00:29:04",
+        "01:11:38",
+        "01:33:07",
+        "02:02:43",
+        "02:03:45",
+        "02:05:53"
+      ],
+      "status": "passed",
+      "reason": "Approximate count, duplicate bundles, PacMan standalone release and optional demos preserve personal completeness standard."
+    },
+    {
+      "id": "cq215-player",
+      "episode": 215,
+      "question": "What should a Game Boy Player buyer keep separate?",
+      "query": "What should a Game Boy Player buyer keep separate?",
+      "answer": "The Player hardware, startup disc and small case are separate collecting objects. They discuss homebrew Game Boy Interface as an alternative they prefer, while leaving Game Boy Color use untested in their own account. None of this is verified compatibility advice for every setup.",
+      "forbidden": [
+        "Do not count the startup utility as an individual game or guarantee compatibility."
+      ],
+      "evidence_locations": [
+        "00:36:31",
+        "00:37:34"
+      ],
+      "status": "passed",
+      "reason": "Player hardware/disc/case distinct; homebrew preference and untested compatibility are qualified."
+    },
+    {
+      "id": "cq215-expensive",
+      "episode": 215,
+      "question": "Which expensive GameCube items do they discuss, and are they calling them good buys?",
+      "query": "Which expensive GameCube items do they discuss, and are they calling them good buys?",
+      "answer": "Pokemon Box is the utility exception; Disney Sports Basketball is the conspicuous expensive software example, followed by discussion of Gotcha Force, Cubivore and Go! Go! Hypergrind. They question price and scarcity and soften some judgments about exclusives. They report US sales as well as regional asking prices; those sale reports are not independently verified, and asking prices are not completed sales. This is not a recommendation to invest.",
+      "forbidden": [
+        "Do not rank utility as game or quote historical prices as current market value."
+      ],
+      "evidence_locations": [
+        "00:46:05",
+        "00:49:18",
+        "00:50:22",
+        "00:52:32",
+        "00:53:35",
+        "00:54:38",
+        "00:55:39",
+        "00:57:53",
+        "00:58:59",
+        "01:01:07"
+      ],
+      "status": "passed",
+      "reason": "Costly examples and utility exception preserved; reported sales versus asks now explicitly differentiated and unverified."
+    },
+    {
+      "id": "cq215-colosseum",
+      "episode": 215,
+      "question": "What is unusual about the Pokemon Colosseum bonus-disc version?",
+      "query": "What is unusual about the Pokemon Colosseum bonus-disc version?",
+      "answer": "They distinguish the common standalone preorder bonus disc from a scarcer combined two-disc case. The combined edition’s distribution origin is unresolved, and large listings do not establish actual sales. Their tentative price discussion should not be used to authenticate or value a copy.",
+      "forbidden": [
+        "Do not assert an origin or completed $50,000/$90,000 sale."
+      ],
+      "evidence_locations": [
+        "01:02:10",
+        "01:03:12",
+        "01:04:14"
+      ],
+      "status": "passed",
+      "reason": "Standalone bonus versus combined case distinguished; distribution origin and huge asks remain uncertain."
+    },
+    {
+      "id": "cq215-uncommon",
+      "episode": 215,
+      "question": "What is their less-obvious GameCube watchlist, and did Tyler buy it?",
+      "query": "What is their less-obvious GameCube watchlist, and did Tyler buy it?",
+      "answer": "The list includes Rally Championship, Grooverider, City Racer, Virtua Striker 2002, Rave Master, Top Angler, Mystic Heroes and Harry Potter and the Sorcerer’s Stone. Some are already above the intended cheap-pick range. Tyler wants Top Angler but says he did not buy those watchlist games; Pac-Man Vs. is the explicit separate purchase.",
+      "forbidden": [
+        "Do not turn a forecast or desire into an acquisition."
+      ],
+      "evidence_locations": [
+        "01:05:14",
+        "01:06:14",
+        "01:07:17",
+        "01:08:21",
+        "01:09:27",
+        "01:10:30"
+      ],
+      "status": "passed",
+      "reason": "Tyler watchlist ownership repaired; TopAngler want versus separate actual PacMan purchase."
+    },
+    {
+      "id": "cq215-potter",
+      "episode": 215,
+      "question": "Which Sorcerer’s Stone version are they discussing?",
+      "query": "Which Sorcerer’s Stone version are they discussing?",
+      "answer": "The focal Sorcerer’s Stone is the later GameCube/PS2 adaptation, described as Zelda-like and released after Chamber of Secrets on those systems. They distinguish earlier PS1, Game Boy Color, GBA and PC versions, and qualify the PC comparison. This is dated host advice, not a verified port genealogy.",
+      "forbidden": [
+        "Do not merge the distinct adaptations or present release history as externally checked."
+      ],
+      "evidence_locations": [
+        "01:07:17",
+        "01:08:21",
+        "01:09:27",
+        "01:10:30"
+      ],
+      "status": "passed",
+      "reason": "Later console adaptation separated from earlier platform versions; host history claims not externally certified."
+    },
+    {
+      "id": "cq215-pac",
+      "episode": 215,
+      "question": "What is the CQ pick, why that version, and has Tyler received it?",
+      "query": "What is the CQ pick, why that version, and has Tyler received it?",
+      "answer": "Pac-Man Vs. is the pick. Tyler paid about $20 for the standalone paper-sleeve release because a bundle would not satisfy his individual-release checklist. He explicitly says it still has not arrived in the closing pickup segment. Johnny already owns it and reports playing the GBA-linked asymmetric game, preferring that experience to linked Crystal Chronicles.",
+      "forbidden": [
+        "Do not change purchased into received or treat speculation about seller reliability as fraud."
+      ],
+      "evidence_locations": [
+        "01:10:30",
+        "01:11:38",
+        "01:12:44",
+        "01:13:47",
+        "01:14:52",
+        "02:53:37"
+      ],
+      "status": "passed",
+      "reason": "Standalone sleeve purchase not yet received; Johnny ownership/play separate, no authoritative technical mechanics."
+    },
+    {
+      "id": "cq215-pioneer",
+      "episode": 215,
+      "question": "What makes the Animal Crossing Pioneer edition desirable to Tyler?",
+      "query": "What makes the Animal Crossing Pioneer edition desirable to Tyler?",
+      "answer": "The hosts describe a contest edition associated with 250 recipients, a special disc, calendar and letter. Tyler wants the accompanying calendar and letter rather than just the disc from an unsold roughly $1,250 listing. Those quantities and provenance are host reports, not independently verified authentication.",
+      "forbidden": [
+        "Do not say Tyler bought it or infer ordinary e-reader boosters were pack-ins."
+      ],
+      "evidence_locations": [
+        "01:22:15",
+        "01:23:22"
+      ],
+      "status": "passed",
+      "reason": "Pioneer contents and host count are reported; Tyler wants calendar/letter, no purchase or authentication."
+    },
+    {
+      "id": "cq215-boxes",
+      "episode": 215,
+      "question": "Which big boxes matter to them, and which are optional extras?",
+      "query": "Which big boxes matter to them, and which are optional extras?",
+      "answer": "They particularly want Mario Party 6/7 microphone boxes and the Four Swords box, while discussing Odama and Pokemon Box packaging too. The Final Fantasy Crystal Chronicles cable clamshell is a different package style. Pure Evil is optional duplicate-game packaging, and Batman Rise of Sin Tzu’s GameCube art insert should not be replaced by another platform’s figure.",
+      "forbidden": [
+        "Do not imply all personally preferred boxes are universal set requirements."
+      ],
+      "evidence_locations": [
+        "01:27:40",
+        "01:28:42",
+        "01:29:49",
+        "01:30:56",
+        "01:32:00",
+        "01:33:07"
+      ],
+      "status": "passed",
+      "reason": "Preferred boxes, clamshell and optional duplicate packs distinct; Batman platform-specific insert remains qualified."
+    },
+    {
+      "id": "cq215-badge",
+      "episode": 215,
+      "question": "Does a Best Seller badge mean a later GameCube print?",
+      "query": "Does a Best Seller badge mean a later GameCube print?",
+      "answer": "No: they explain that some Best Seller badges reflect preorders and can be present on launch-day stock. Johnny recalls buying The Thousand-Year Door on release day with the badge. They may prefer no badge aesthetically, but it is not a reliable blanket first-print test.",
+      "forbidden": [
+        "Do not authenticate every badge or infer every unbadged copy is first print."
+      ],
+      "evidence_locations": [
+        "01:35:11",
+        "01:36:15",
+        "01:37:19"
+      ],
+      "status": "passed",
+      "reason": "Badge can occur on launch-day stock in host account; not a blanket authentication rule."
+    },
+    {
+      "id": "cq215-comics",
+      "episode": 215,
+      "question": "What comic distinctions matter for Batman Dark Tomorrow?",
+      "query": "What comic distinctions matter for Batman Dark Tomorrow?",
+      "answer": "The GameCube issue 2 tie-in has a distinct cover, while issue 1 has several covers. They distinguish ordinary and Blockbuster guide versions, and clarify that the guide’s Batman: The 10 Cent Adventure comic is a different item from the numbered game tie-in. Platform-specific contents should not be assumed interchangeable.",
+      "forbidden": [
+        "Do not collapse every Batman comic into one pack-in or assume ownership."
+      ],
+      "evidence_locations": [
+        "01:48:01",
+        "01:49:05",
+        "01:50:06",
+        "01:51:06"
+      ],
+      "status": "passed",
+      "reason": "Numbered game comic and guide's different comic distinguished across platform/package versions."
+    },
+    {
+      "id": "cq215-bratz",
+      "episode": 215,
+      "question": "How complete is Johnny’s Bratz outfit collection?",
+      "query": "How complete is Johnny’s Bratz outfit collection?",
+      "answer": "Johnny says he has three of the four Forever Diamondz doll-outfit variants and is missing one unspecified outfit. They mention PS2 outfits and a GBA release without them. A non-sticker GameCube copy may be a case swap, so they do not establish a genuine no-outfit printing.",
+      "forbidden": [
+        "Do not name the missing outfit or certify a new printing."
+      ],
+      "evidence_locations": [
+        "01:52:11",
+        "01:53:17",
+        "01:54:20"
+      ],
+      "status": "passed",
+      "reason": "Three of four outfits, missing identity unknown; case-swap possibility prevents invented no-outfit print."
+    },
+    {
+      "id": "cq215-japan",
+      "episode": 215,
+      "question": "Are Made in Japan GameCube copies better games?",
+      "query": "Are Made in Japan GameCube copies better games?",
+      "answer": "The hosts discuss Made in Japan and USA prints of Metroid Prime, Animal Crossing and Sunshine as production/packaging variants. They do not claim better gameplay or a dependable complete-in-box premium, and allow that production may have overlapped.",
+      "forbidden": [
+        "Do not recommend a gameplay upgrade or authenticate first print from origin alone."
+      ],
+      "evidence_locations": [
+        "01:58:36",
+        "01:59:40"
+      ],
+      "status": "passed",
+      "reason": "Production origin is packaging distinction; no better gameplay or dependable CIB premium asserted."
+    },
+    {
+      "id": "cq215-controllers",
+      "episode": 215,
+      "question": "What controller tradeoffs do they raise?",
+      "query": "What controller tradeoffs do they raise?",
+      "answer": "The Hori Game Boy Player controller is praised but expensive; Johnny owns one and jokes about protecting it from his child. Tyler dislikes the WaveBird’s bulk and missing rumble. They discuss receiver loss and competitive latency concerns, but do not measure lag or prove a universal performance ranking.",
+      "forbidden": [
+        "Do not treat jokes about destroying replacement controllers as actual disposal."
+      ],
+      "evidence_locations": [
+        "02:12:21",
+        "02:13:29",
+        "02:14:32",
+        "02:15:33"
+      ],
+      "status": "passed",
+      "reason": "Johnny Hori ownership/joke and Tyler WaveBird dislike are separate; lag unmeasured."
+    },
+    {
+      "id": "cq215-console",
+      "episode": 215,
+      "question": "What special GameCube consoles are mentioned?",
+      "query": "What special GameCube consoles are mentioned?",
+      "answer": "Examples include Tales of Symphonia teal, Spice Orange with matching Player, Hanshin Tigers, MTV designs, Panasonic Q, Char red, Metal Gear and Pokemon XD, plus retail bundle boxes. The hosts’ counts, regional availability and prices are historical claims, not current authentication guidance.",
+      "forbidden": [
+        "Do not rank consoles as games or turn asking prices into verified sales."
+      ],
+      "evidence_locations": [
+        "02:18:43",
+        "02:19:48",
+        "02:20:49",
+        "02:21:52",
+        "02:22:55",
+        "02:24:01",
+        "02:25:03"
+      ],
+      "status": "passed",
+      "reason": "Hardware/box examples retain object types and dated unverified quantity/region/price status."
+    },
+    {
+      "id": "cq215-wii",
+      "episode": 215,
+      "question": "Do they still say Wii is simply a worse way to play GameCube?",
+      "query": "Do they still say Wii is simply a worse way to play GameCube?",
+      "answer": "They qualify that earlier statement: some video configurations may be worse but many are good. Tyler separately dislikes pairing and navigating with a Wii Remote and prefers the GameCube experience. That usability preference is not a measured verdict on every Wii model.",
+      "forbidden": [
+        "Do not supply unverified model-specific technical instructions."
+      ],
+      "evidence_locations": [
+        "02:28:19",
+        "02:29:21",
+        "02:30:21"
+      ],
+      "status": "passed",
+      "reason": "Earlier categorical Wii claim softened; Tyler's interface preference is not universal model-performance result."
+    },
+    {
+      "id": "cq215-offers",
+      "episode": 215,
+      "question": "Did Tyler buy the rare Famicom offer?",
+      "query": "Did Tyler buy the rare Famicom offer?",
+      "answer": "No. Tyler says a contact with All Night Nippon Super Mario Bros. and Archimendes Gradius was directed to him, but he is not in a position to buy those expensive items and did not ask the actual price. The matching Gradius insert/serial detail is discussed, not authenticated.",
+      "forbidden": [
+        "Do not treat hypothetical $2,000 as an actual asking or paid price."
+      ],
+      "evidence_locations": [
+        "02:46:10",
+        "02:47:14",
+        "02:48:19"
+      ],
+      "status": "passed",
+      "reason": "Offered rare Famicom items were not bought; hypothetical price and serial/insert detail not authentication."
+    },
+    {
+      "id": "cq215-pickups",
+      "episode": 215,
+      "question": "What variants did Tyler actually add at the end?",
+      "query": "What variants did Tyler actually add at the end?",
+      "answer": "He reports getting Heroes of Might and Magic with the desired 1995 disc rather than 1995–1996, and an earlier Link: The Faces of Evil slipcover variant. He keeps both Link variants and reports two Wand copies plus one Dutch Zelda’s Adventure, without buying its rarer variant here. He explicitly bought a fourth Tunnels of Doom for about $40, with the desired floppy and better box. Pac-Man Vs. has not yet arrived; shipment is not confirmed.",
+      "forbidden": [
+        "Do not call all got statements paid purchases, or say duplicates were sold."
+      ],
+      "evidence_locations": [
+        "02:53:37",
+        "02:54:41",
+        "02:55:43",
+        "02:56:47",
+        "02:57:47"
+      ],
+      "status": "passed",
+      "reason": "Got versus bought, retained duplicates, fourth Tunnels and unreceived PacMan preserved; shipment not confirmed."
+    },
+    {
+      "id": "cq215-monster",
+      "episode": 215,
+      "question": "How did Johnny complete Monster Rancher 4?",
+      "query": "How did Johnny complete Monster Rancher 4?",
+      "answer": "Johnny already had the case and manual and bought a nice PS2 disc for $25. He says he had the other PS2 Monster Rancher games; the transcript does not enumerate all those entries.",
+      "forbidden": [
+        "Do not infer a boxed $100 purchase or all-platform complete series."
+      ],
+      "evidence_locations": [
+        "02:57:47",
+        "02:58:51"
+      ],
+      "status": "passed",
+      "reason": "Existing case/manual completed by25-dollar disc, not a100-dollar boxed purchase or all-platform set."
+    },
+    {
+      "id": "cq215-books",
+      "episode": 215,
+      "question": "What did Johnny buy besides games, and what is uncertain?",
+      "query": "What did Johnny buy besides games, and what is uncertain?",
+      "answer": "He bought a seventh-print hardcover Scary Stories to Tell in the Dark with original art and dust jacket after a $150 counteroffer was accepted. He also got a signed Monster Mama with the reported inscription “save me a piece of cake.” He was unsure whether the first book’s price was good; neither value nor autograph authenticity is verified here.",
+      "forbidden": [
+        "Do not claim first edition, authenticated signature or proven bargain."
+      ],
+      "evidence_locations": [
+        "02:58:51",
+        "02:59:53",
+        "03:00:54"
+      ],
+      "status": "passed",
+      "reason": "Seventh print/original art/dust jacket and accepted150 counteroffer supported; signature/value unverified."
+    },
+    {
+      "id": "cq215-cards",
+      "episode": 215,
+      "question": "What was Tyler’s Magic card purchase?",
+      "query": "What was Tyler’s Magic card purchase?",
+      "answer": "Tyler says he bought the roughly $7 Pride-art Bearscape card, his only Magic-card purchase in about five years. He explicitly did not buy the entire Secret Lair bundle. This is a tabletop card purchase, not a video-game acquisition.",
+      "forbidden": [
+        "Do not attribute Johnny’s unspecified Magic purchases to this same title."
+      ],
+      "evidence_locations": [
+        "03:00:54",
+        "03:01:57"
+      ],
+      "status": "passed",
+      "reason": "Tyler's single Pride Bearscape purchase distinct from fullbundle and Johnny's unspecified Magic spending."
+    }
+  ]
+}

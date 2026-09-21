@@ -1,0 +1,5 @@
+# CQ25–26 continuity desk review
+
+Three source-paired relationships are retained in relationships.json, using literal quotations from both separately read transcripts. Johnny's Harmful Park desire becomes reported emulator play, not physical ownership. Kat continues Minecraft landscaping despite earlier reluctance, not completion. Life is Strange remains an open loop despite brief prior play; refusal to discuss it is not evidence of finishing it.
+
+These are useful callbacks with distinct people and action states. John is Kat's husband, not Johnny; no Tyler participation. They establish a bounded two-source progression, not archive-wide first/never claims or independently verified off-air chronology. The saved timeline is separate from single-episode evidence retrieval; do not pretend an episode26-only context returned episode25 quotations. New editorial angle: ask whether trying an expensive game changes the desire to own a physical copy. That question is a proposal, not recorded show history.

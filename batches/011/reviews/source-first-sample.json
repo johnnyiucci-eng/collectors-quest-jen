@@ -1,0 +1,199 @@
+{
+  "schema_version": "1",
+  "status": "frozen_before_extraction_record_comparison",
+  "frozen_utc": "2026-09-13 10:56:51 UTC",
+  "selection_rule": "Zero-based floor(N/4),floor(N/2),floor(3N/4). Root read selected primary windows and necessary neighbors before any extraction. Hardware-only windows excluded; uncertain reference identities preserved.",
+  "limits": "Bounded source-first sample, not statistical recall. Shared title variants may use one gold bucket, but extraction still must separate edition/platform claims. CQ17P23 continuation identified fromP21–22. CQ84Gears retrospective is one broad series bucket, not inferred specific play.",
+  "windows": [
+    {
+      "location": "Paragraph 8",
+      "text": "\nof American games. You’re like, well, that was, there’s no game you’re like, that was only released in Canada. So I’m not breaking that out. I count Super Copa. There are two versions of it. There’s the Playtronic and then the regular version. They do have different covers. They’re both between two and $400. I’ve seen the regular version, which is like a blue and white text on it. And it goes sometimes it’s like $400. Sometimes it’s $3,000. A lot of these can be faked so people get weird. The pricing on this game is all over the place. So be careful. But if you’re just looking for the card, it’s usually around $100. But box games vary pretty wildly on that. And then again, more soccer. So when we are talking about the big football game, it should be football because it’s all soccer here. And we have the International Super Soccer series. So International Super Star Soccer and International Super Star Soccer Deluxe. Both games, pretty expensive, kind of rare to find. And really hard to find the boxes for those. They’re always trashed. I don’t know if I’ve ever seen a nice one. So again, this is one of those games that becomes even more expensive and harder to find when you start considering the condition.\n\n",
+      "batch": "011",
+      "episode": 17,
+      "source_key": "sc-244857076",
+      "source_window_count": 30,
+      "references": [
+        {
+          "id": "cq17-sample-Paragraph8-1",
+          "title": "Super Copa (regular/Playtronic variants)",
+          "quote": "Super Copa",
+          "reviewed_game_ids": ["cq017-g016"]
+        },
+        {
+          "id": "cq17-sample-Paragraph8-2",
+          "title": "International Superstar Soccer series",
+          "quote": "International Super Soccer series",
+          "reviewed_game_ids": ["cq017-g017"]
+        },
+        {
+          "id": "cq17-sample-Paragraph8-3",
+          "title": "International Superstar Soccer",
+          "quote": "International Super Star Soccer",
+          "reviewed_game_ids": ["cq017-g018"]
+        },
+        {
+          "id": "cq17-sample-Paragraph8-4",
+          "title": "International Superstar Soccer Deluxe",
+          "quote": "International Super Star Soccer Deluxe",
+          "reviewed_game_ids": ["cq017-g019"]
+        }
+      ]
+    },
+    {
+      "location": "Paragraph 16",
+      "text": "\nwe get into the Saturn, there’s other ones on the Sega CD you could kind of get into. Sega CD, it depends. If a game is in vogue, if people are actively collecting it, it can bump the price of any of the Sega CD games. Like NFL Trivia, not really a sports game, but kind of ties into sports. I’ve seen that go from $25 all the way up to $100 when it’s in vogue. I’ve seen the ESPN NBA Hangtime go for more than $50. I think when it has the poster, people were like on a tear for it for a little while. These games do spike, but keep your eye out for them. For Sega Saturn, the games here, I’ll just put this caveat out. You may not consider them sports. I’m not going to get into the debate of whether it’s a sport or a skill. That’s up to you to decide. If you don’t consider this, whatever, just know that it’s kind of rare. Daytona USA Championship, Net Link Edition. This was male-away only. It’s by far the rarest game on the Saturn. It’s a pain in the ass to find. There’s also the same one that’s just not a Net Link Edition. The disc is a little bit different color, and it just\n\n",
+      "batch": "011",
+      "episode": 17,
+      "source_key": "sc-244857076",
+      "source_window_count": 30,
+      "references": [
+        {
+          "id": "cq17-sample-Paragraph16-1",
+          "title": "NFL Trivia",
+          "quote": "NFL Trivia",
+          "reviewed_game_ids": ["cq017-g038"]
+        },
+        {
+          "id": "cq17-sample-Paragraph16-2",
+          "title": "ESPN NBA Hangtime",
+          "quote": "ESPN NBA Hangtime",
+          "reviewed_game_ids": ["cq017-g039"]
+        },
+        {
+          "id": "cq17-sample-Paragraph16-3",
+          "title": "Daytona USA Championship Net Link Edition",
+          "quote": "Daytona USA Championship, Net Link Edition",
+          "reviewed_game_ids": ["cq017-g040"]
+        },
+        {
+          "id": "cq17-sample-Paragraph16-4",
+          "title": "Daytona USA non-Net-Link comparison",
+          "quote": "just not a Net Link Edition",
+          "reviewed_game_ids": ["cq017-g041"]
+        }
+      ]
+    },
+    {
+      "location": "Paragraph 23",
+      "text": "\nwas cheap. So I picked it up. But yeah, it was definitely one that got overlooked for a while. Yeah. A lot of collectors are. And PlayStation collecting for whatever reason hasn’t really got off to the start. I thought it would. I expected PlayStation collecting to kind of be taking off here. And maybe maybe I’m just kind of out of the loop and I don’t know. But it seems like PlayStation games have been pretty subdued for a while. They’ve been in line for what they’ve been for a while now. But I imagine that has to change. Well, I would think that the trend of everything becoming so popular. We would assume, you know, with this big retro gaming craze that we would see PS1 and PlayStation kind of take a hike at some point. Right. Well, I find like PS3 stuff, some of it like some of the weird exclusives and special edition satin collectors editions did like PS3 and some of the RPGs, of course. But I don’t feel like that middle ground has filled in yet. And I feel like it’s got you right. And one day when that starts to happen, people are going to start to discover more and more of these weird sports games that came out. And that’s the way\n\n",
+      "batch": "011",
+      "episode": 17,
+      "source_key": "sc-244857076",
+      "source_window_count": 30,
+      "references": [
+        {
+          "id": "cq17-sample-Paragraph23-1",
+          "title": "Tecmo World Golf long-box purchase continuation (P21–22 antecedent)",
+          "quote": "I picked it up",
+          "reviewed_game_ids": ["cq017-g058"]
+        }
+      ]
+    },
+    {
+      "location": "Paragraph 12",
+      "text": "\nDew points and $100 to buy this. That means you had to drink at least 550, 20 ounce Mountain Dews, and then it’s sold out in a day. So people were super hyped to get this stupid ugly Xbox. And now there’s like a subreddit dedicated specifically to this one limited edition Xbox, and people think it’s the coolest Xbox collectible. And I just hate it. You know, the only thing that would have made that thing cooler is if they paired it with an orange Cheeto Xbox to go with it. Because then you would have had all the gamer stereotypes right there in your living room. Honestly, if it got to that point where there was like a Doritos Xbox and a Mountain Dew Xbox, I would, I maybe would want both of them just to have them side by side, because I would think that’s pretty funny. That would be funny. But just Mountain Dew alone, no, no soft drinks, no fast food. This is all terrible stuff to base a video game console on. It also doesn’t speak well of the, of the group of individuals playing it, that the, the hype is real about these things. Yep. Okay. Go ahead and do a good one too. Oh, okay. So here’s the point where I’m stretching.\n\n",
+      "batch": "011",
+      "episode": 84,
+      "source_key": "sc-395702904",
+      "source_window_count": 46,
+      "references": []
+    },
+    {
+      "location": "Paragraph 24",
+      "text": "\njust, let’s not get into politics. All right, all right. All right. Okay, so aside from that, I’m going to go to what I like. And again, I’m going to do a twofer here. The Gears of War, Xbox 360, and the Xbox One version of the Gears of War. They’re very similar. I like the maroon dark like blood red thing they were going for. And I like the skull and the gear and stuff on it. The controllers look nice. I think they look nice. I mean, I don’t know if they’re for me, but I think they look cool. I don’t know if they like fit on anybody’s like mantle is like are under your TV. But I think they look cool. I just, I in like 2006 through 2008, is that when the first two Gears of War games came out? I remember Gears of War was just the hottest shit all around me. We had a Gears of War blanket in my apartment with my roommates. Like their desktop background. So I’m just fatigued of that Gears of War logo and I can’t stand to look at it. So definitely not a good one for me. Not a good one for you. I mean, I enjoyed playing the game. I played it only with friends\n\n",
+      "batch": "011",
+      "episode": 84,
+      "source_key": "sc-395702904",
+      "source_window_count": 46,
+      "references": [
+        {
+          "id": "cq84-sample-Paragraph24-1",
+          "title": "Gears of War series and first-two-game retrospective; exact played installment unresolved",
+          "quote": "first two Gears of War games",
+          "reviewed_game_ids": ["cq084-g042"]
+        }
+      ]
+    },
+    {
+      "location": "Paragraph 35",
+      "text": "\nfind a good Rollo the rescue. I don’t it was one of my things where I was just browsing every auction on eBay. I’m like, Rollo to the rescue. That’s kind of a it’s kind of hard to find, right? I’ll bet on that. And then I won it. So I must have got it for somewhat under market value. Yeah. It it’s hard. How much did you pay for it? Like 30 bucks, maybe. Now you got a good price on that game. Great. I’m never going to play it. The box art looks weird. Look, what is it? Is it a stupid children’s platform? It’s an elephant. No, I know it’s an elephant. Well, you you said what is it? So I immediately gave you an answer. It’s a video game, Tyler. Yeah. Ask silly questions, get silly answers. Great. Well, those are my wonderful games I got. I don’t know why you’re not more excited about picking up Moosa and I am. I’m excited. Those are hard. Those are hard things to pick up. Don’t undersell that. Like those are cool collection pieces for the Genesis. They’re relatively hard to get and it’s cool to tell our audience about those. Yeah. Of course, I’m way more excited about that because people are going to be more excited\n\n",
+      "batch": "011",
+      "episode": 84,
+      "source_key": "sc-395702904",
+      "source_window_count": 46,
+      "references": [
+        {
+          "id": "cq84-sample-Paragraph35-1",
+          "title": "Rolo to the Rescue",
+          "quote": "Rollo to the rescue",
+          "reviewed_game_ids": ["cq084-g061"]
+        },
+        {
+          "id": "cq84-sample-Paragraph35-2",
+          "title": "MUSHA",
+          "quote": "Moosa",
+          "reviewed_game_ids": ["cq084-g060"]
+        }
+      ]
+    },
+    {
+      "location": "00:50:02",
+      "text": "\nimportant and cool set I mean bigger library on the PS2 though so if the size is the issue which is a big barrier um anyways I mean yes yeah the physically owning 1,200 games in general for one system is just a stupid thing to do yeah now make it like 1,700 or whatever the PS2 set is how hard is it to collect for system though you know I don't I would call it super easy because even when you bring up the Advent calendars of the world I realize it's a switch game but like you bring up an obscure Wii game no one even knows it exists so the fact that it's rare doesn't matter there's probably one on eBay and it astounds me how available some of the shovelware is that I would think like no one's ever heard of this game it must not exist and there's five copies in on eBay and to be clear F if there are five or less copies on eBay that is a very rare rare air quotes for the switch game\n\n",
+      "batch": "011",
+      "episode": 210,
+      "source_key": "sc-1400207374",
+      "source_window_count": 190,
+      "references": [
+        {
+          "id": "cq210-sample-00:50:02-1",
+          "title": "Advent Calendar Switch comparison; exact edition unresolved",
+          "quote": "Advent calendars",
+          "reviewed_game_ids": ["cq210-g011"]
+        }
+      ]
+    },
+    {
+      "location": "01:41:04",
+      "text": "\nlot of them released for like $20 they were like cheap [ __ ] so a lot of people bought them even though it was garbage also yeah Veggie World is a 2d shooter so one of we's most expensive games hot shooter guys you guys who are into those shoot them UPS check out Veggie World you aim with the Wii mode looks really good yeah now play it on the DS okay let's let's talk about let's talk about games that are also a little rare but are exclusive to a region tell me about these games I know nothing so there's me there's three Mexico exclusives that's it this is it tell me the three I mean I don't know anything about the games is not rare yeah it's not rare it's like 45 bucks at TR AAR is like 300 bucks what kind of game is that uh apolog it's a singing game because it comes with a microphone so you have to watch out because a lot of times it doesn't have the big outer box um so make sure you get the one with the microphone and again uh all of my Spanish speaking listeners I know you're out there I'm I apologize I've butchered this name like 40 times I don't like\n\n",
+      "batch": "011",
+      "episode": 210,
+      "source_key": "sc-1400207374",
+      "source_window_count": 190,
+      "references": [
+        {
+          "id": "cq210-sample-01:41:04-1",
+          "title": "Veggie World Wii",
+          "quote": "Veggie World",
+          "reviewed_game_ids": ["cq210-g127"]
+        },
+        {
+          "id": "cq210-sample-01:41:04-2",
+          "title": "Veggie World DS comparison",
+          "quote": "play it on the DS",
+          "reviewed_game_ids": ["cq210-g150"]
+        },
+        {
+          "id": "cq210-sample-01:41:04-3",
+          "title": "Unclear Mexican singing game with microphone bundle",
+          "quote": "TR AAR",
+          "reviewed_game_ids": ["cq210-g128"]
+        },
+        {
+          "id": "cq210-sample-01:41:04-4",
+          "title": "Unnamed other Mexican exclusive discussed at $45",
+          "quote": "45 bucks",
+          "reviewed_game_ids": ["cq210-g151"]
+        }
+      ]
+    },
+    {
+      "location": "02:31:02",
+      "text": "\nyou're a a picky Peter you're still going to want to use a GameCube over a Wii even for GameCube games really yep sorry I'm literally on the GameCube vers Wii retro RGB article and it says GameCube outputs much uh better quality video than original Wii systems however some later Wii models output video quality close to the GameCube okay so [ __ ] your we they're garbage throw them out okay well you can just delete that whole thing cuz that who gives a [ __ ] about that I mean you could also get the Dolphin Emulator for your computer also we don't I also it doesn't matter we're not talking about that I mean and then everything is is 4K 60 FPS and you're like what the [ __ ] am I doing with a Wii I can put these games on my computer right yes absolutely Ely um also uh reprints in this system so like what is the Outlook there are lots of reprints on the system so you're saying like Johnny you mean they're still reprinting Wii games no like they're just moving them on they move some Wii games onto the Wii U and then even onto the switch you're like they can't still\n\n",
+      "batch": "011",
+      "episode": 210,
+      "source_key": "sc-1400207374",
+      "source_window_count": 190,
+      "references": []
+    }
+  ]
+}

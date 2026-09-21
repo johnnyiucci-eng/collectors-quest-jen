@@ -1,0 +1,95 @@
+{
+  "schema_version": "1",
+  "status": "source_informed_before_first_retrieval",
+  "created_utc": "2026-09-14T04:28:30Z",
+  "limits": "Root full source read, before viewing extraction records/answers; not statistical blind certification. First results retained; used cases become development regressions.",
+  "cases": [
+    {
+      "id": "cq218-fresh-baggie",
+      "episode": 218,
+      "question": "Did Tyler finally receive the boxed Ultima he was saving for?",
+      "expected": "Still seeking Ultima I baggie edition, not boxed; unpack/display routine is hypothetical, and he continues saving/searching.",
+      "forbidden": [
+        "Received Ultima",
+        "Wanted boxed edition"
+      ],
+      "required_windows": [
+        "01:02:35",
+        "01:03:43",
+        "01:04:47"
+      ]
+    },
+    {
+      "id": "cq218-fresh-price",
+      "episode": 218,
+      "question": "Was $538 what Tyler paid for his Geniac electric brain?",
+      "expected": "No. That is the stale listing he rejected, formerly $500. He bought a different one after more appeared, for an unspecified much lower amount.",
+      "forbidden": [
+        "Paid $538",
+        "Paid exactly $100"
+      ],
+      "required_windows": [
+        "01:49:34",
+        "01:50:41"
+      ]
+    },
+    {
+      "id": "cq218-fresh-arrival",
+      "episode": 218,
+      "question": "Which anniversary collection did Johnny actually say arrived, after correcting himself?",
+      "expected": "He first says Castlevania then explicitly corrects to Contra; it arrived and was scanned then shelved.",
+      "forbidden": [
+        "Confirmed Castlevania arrival from this corrected claim",
+        "Played the collection"
+      ],
+      "required_windows": [
+        "01:38:54",
+        "01:39:56"
+      ]
+    },
+    {
+      "id": "cq218-fresh-museum",
+      "episode": 218,
+      "question": "Was Game Historia already operating as the hosts' museum?",
+      "expected": "No. Tyler describes a stalled website aimed at encouraging older-game play; the museum exchange is explicitly denied, and he does not call the site his definitive ultimate end goal.",
+      "forbidden": [
+        "Museum open",
+        "Site finished",
+        "Definitive sole end goal"
+      ],
+      "required_windows": [
+        "00:50:50",
+        "00:51:56"
+      ]
+    },
+    {
+      "id": "cq218-fresh-vocals",
+      "episode": 218,
+      "question": "Why did Johnny warm to Phase Shift after initially objecting about singing?",
+      "expected": "Clarification: it supports singing but does not judge vocals. Initial no-vocal-support phrasing is qualified, and Johnny likes freedom from scoring.",
+      "forbidden": [
+        "No vocals at all",
+        "Johnny purchased Phase Shift"
+      ],
+      "required_windows": [
+        "00:49:47",
+        "00:50:50"
+      ]
+    },
+    {
+      "id": "cq218-fresh-guides",
+      "episode": 218,
+      "question": "Did the hosts dismiss every part of the Wata guide as useless?",
+      "expected": "No. They find it useful process documentation for grading customers but less useful for ordinary collecting than the CGC guide; this is their episode-time judgment.",
+      "forbidden": [
+        "No value to anyone",
+        "Independently verified current guide comparison"
+      ],
+      "required_windows": [
+        "00:08:28",
+        "00:09:32",
+        "00:10:36"
+      ]
+    }
+  ]
+}

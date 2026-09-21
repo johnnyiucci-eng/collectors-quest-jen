@@ -1,0 +1,479 @@
+{
+  "schema_version": "1",
+  "status": "frozen_before_extraction_record_comparison",
+  "frozen_utc": "2026-09-13 18:02:26 UTC",
+  "selection_rule": "Zero-based floor(N/4), floor(N/2), floor(3N/4); primary windows and immediate neighbors read before extraction comparison.",
+  "limits": "Bounded source-first reference sample, not statistical archive recall. Films, packaging, hypothetical games and uncertain raw continuations remain typed rather than game credit.",
+  "windows": [
+    {
+      "batch": "017",
+      "episode": 23,
+      "source_key": "sc-251774783",
+      "source_window_count": 29,
+      "index": 7,
+      "location": "Paragraph 8",
+      "text": "\non them, but for some reason the price sticker is on the actual label of the game, not the plastic. That is very annoying. And we, what I hate too is, I don’t know if it’s just me, but I’ve got a lot of games that people had when they were younger and they put their, like, they have their name sticker on them, like, and their mom made a label, and they’re like next to impossible to get off. Also, the video game rental stickers, like the SKU stickers. We had a few boxes that have them, but I have a lot of games that have them, and I absolutely hate it, because it’s kind of a, like, if it’s a cheaper game, you’re like, okay, well, I’ll take the risk. If it doesn’t come off, whatever, who cares? It’s not the end of the world. But when it’s a more expensive game, it’s, do I try and take it off, or do I just leave it there? And if I leave it there, how much is it going to bother me? Right. In the sticker world, the one that I hate is, like, those metallic stickers that if you try to peel them off, they leave the void on there. Have you seen those ones? Yes. Come on.\n\n",
+      "references": []
+    },
+    {
+      "batch": "017",
+      "episode": 23,
+      "source_key": "sc-251774783",
+      "source_window_count": 29,
+      "index": 14,
+      "location": "Paragraph 15",
+      "text": "\nYeah, I just don’t understand what’s going on in the world today where people think a stock photo is fine. Like I said, it doesn’t drive me as crazy because I pretty much control my own destiny in that arena. Yeah, like a bubble mailer. Like I don’t, if you do that to me, I can’t forgive you. And I can’t, you know, I’ve sent my message. I’ve given you my spiel please send it in a box. Nothing I can do there. When it’s a blank picture like that, that’s on me. You know, if I pull the trigger, then that’s my fault. I have to take responsibility. Yeah, because you could have bought more wisely. Right. All right. You know, and sometimes, you know, it’s just like the cheapest price one, you’re like, well, I’m just going to gamble and hope that this one is going to be fine. And hope that this looks good because, you know, that’s what I’ve done that on like things like half.com and Amazon. I roll the dice sometimes. I’ve won quite a few times. Lost pretty hard a few times too. And again, but I’m never mad at anyone for that. That’s my fault. That’s on me. Yeah, and I think that’s a good point, but still something that, you know,\n\n",
+      "references": []
+    },
+    {
+      "batch": "017",
+      "episode": 23,
+      "source_key": "sc-251774783",
+      "source_window_count": 29,
+      "index": 21,
+      "location": "Paragraph 22",
+      "text": "\nit’s easier just to spend a little bit more money now to get a nice one, especially on a common game. Why, why, like when the difference is like a dollar. You know, you might as well. The only time I can even see justifying it when it’s something like super rare and you’re like, oh, well, it was Flintstones and it was like $200. So I bought it. Yeah, I know that’s fair. And I think if we didn’t have the terrible exchange rate and eBay crap that we have, like we talked about, I think I would feel the same way. Like if I had a bunch of copies in front of me and it was like, well, I’m just gonna, you know, like you said, 50 cents or a dollar in the difference and obviously pick the nicer one. But my lot of mine comes from what can I find that is actually physically already here? That’s a good point because I’m looking at things more like Amazon and eBay and you’re hunting a little more locally where you don’t have the same kind of choices. So that makes sense to me. Yeah, but no, I totally agree. If you can be online and buy it, definitely save yourself the hassle and get the better copy right\n\n",
+      "references": [
+        {
+          "id": "cq23-sample-21-1",
+          "title": "Flintstones hypothetical rare-game example; installment unresolved",
+          "quote": "Flintstones",
+          "reviewed_game_ids": [
+            "cq023-g009"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Unresolved hypothetical title stays qualified; passing span is sufficient reference coverage, not discussion credit."
+        }
+      ]
+    },
+    {
+      "batch": "017",
+      "episode": 90,
+      "source_key": "sc-423296268",
+      "source_window_count": 89,
+      "index": 22,
+      "location": "Paragraph 23",
+      "text": "\nthe middle of the play field. It’s unplayable basically. I mean, it’s super easy. It’s like 20 minutes old. Sounds great. Yeah, it sounds great. Yeah, I’m not weeping for the death of WiiWare because I went through the entire WiiWare channel and I found very little I actually wanted to buy. So can we talk about do we do we think that these games are truly lost? Is this it? Is it over? Are these games never coming back? So the funny thing is that obviously everyone wants the rebirth games. I know Konami is probably the company that cares the least about giving anyone what they want, which is 100% true. But everyone just bought these games. You know, Konami is probably getting a tiny check for these freaking Wii games they haven’t thought about in 10 years. They’re like, Oh, do people want these? Put this on a PS4 disk. Just put this out there. 30 bucks. Let’s see what we can do. That would be super funny if that if that happened now. Yeah. Well, the weird thing is because these games only came out on Nintendo systems, do you think that they might wind up on the PS4? Do you think maybe we could see a switch compilation? Yeah, you know, switch PS4. Same thing,\n\n",
+      "references": [
+        {
+          "id": "cq90-sample-22-1",
+          "title": "Alien Crush Returns continuation",
+          "quote": "the middle of the play field",
+          "reviewed_game_ids": [
+            "cq090-g027"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Contextual identity checked against full supplied text and extraction map."
+        },
+        {
+          "id": "cq90-sample-22-2",
+          "title": "Konami ReBirth game family",
+          "quote": "rebirth games",
+          "reviewed_game_ids": [
+            "cq090-g019",
+            "cq090-g020",
+            "cq090-g021"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Contextual identity checked against full supplied text and extraction map."
+        },
+        {
+          "id": "cq90-sample-22-3",
+          "title": "Hypothetical physical ReBirth compilation",
+          "quote": "switch compilation",
+          "reviewed_game_ids": [
+            "cq090-g019",
+            "cq090-g020",
+            "cq090-g021"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Proposed compilation mapped to its explicitly discussed three constituents, not an announced or purchased separate product."
+        }
+      ]
+    },
+    {
+      "batch": "017",
+      "episode": 90,
+      "source_key": "sc-423296268",
+      "source_window_count": 89,
+      "index": 44,
+      "location": "Paragraph 45",
+      "text": "\nbox. The jewel case is loose inside of it. Oh good. I think it’s the only big box game that I have. There’s like, there’s not even like a cardboard thing in there and it comes up with a folded up poster that is so folded up that you like it’s totally unusable because it’s a folded up poster. What are you going to do with it? And I don’t think it comes with a manual in the jewel case. I think it’s just like a paper slip. That is, it’s nonsense. Yep. I paid for the get everything night trap bundle. I paid like $170 or something for all this night trap garbage because I’m an idiot. Yeah. You know, looking in the notes too, I think one of the things you could do is like if they were made to order two, then you could say the number it was out of. So then if you have low numbers, make the low number ones be the things that are collectible. That’s not what people want, Johnny. Or incentivize. Incentivize. Like do it and be like the first thousand people who order get this other special thing or the first thousand people get the special edition. I’m into that. That’s some thunder domed shit. I’m all about that. Yeah.\n\n",
+      "references": [
+        {
+          "id": "cq90-sample-44-1",
+          "title": "Night Trap PC/bundle packaging",
+          "quote": "night trap",
+          "reviewed_game_ids": [
+            "cq090-g047"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Contextual identity checked against full supplied text and extraction map."
+        }
+      ]
+    },
+    {
+      "batch": "017",
+      "episode": 90,
+      "source_key": "sc-423296268",
+      "source_window_count": 89,
+      "index": 66,
+      "location": "Paragraph 67",
+      "text": "\neveryone was getting 15% off that day. They’re just going to see that it’s sold for that price. Oh, you would be, you’d be so mad at my last cart because on the last one, it was up to $100 off 15% off. So that means you can spend, you had to spend like $666 to max the benefit and I didn’t have $600 worth of stuff because I’ve been buying stuff all month. So I just started buying like, all right, this game is 12% overpriced, what I want to pay, 15% off, good for me. So I, I have all these terrible things. Terrible buy it now prices that I just added to eBay completed listings. I also think it’s interesting that people get different amounts because the last two I got was like, dude, only up to $50. That’s it. You’re good. I’m like, we’ll only give you $50 back. Oh yeah. No, I, it’s, we’re talking about two different 15% off sales in the past week, I think, Johnny. Yeah. Well, no, both of my last ones have been $50 back. All right. There was a flash sale like two days ago. It was only for like three hours. I told you, you were getting your dental work done. Oh, was that Friday? Yeah. Oh yeah.\n\n",
+      "references": []
+    },
+    {
+      "batch": "017",
+      "episode": 216,
+      "source_key": "sc-1466430109",
+      "source_window_count": 164,
+      "index": 41,
+      "location": "00:43:23",
+      "text": "\nright 1978 Johnny uh there's only one game and it's Space Invaders and it wasn't even a huge year for games Atari football is a cool black and white RK game no one's going to remember it computer aell I think is Nintendo's first first arcade game no one's going to remember it Space Invaders is obviously going to be remembered forever forever yeah I think if we have to pick like I I think I think there's a chance Space Invaders falls off what what are you talking about I think there's a chance there a chance Space Invaders falls off yeah yeah I do man I don't who's talking to you about that isn't that aren't collectors or old people I mean kind of the same thing with some of these old movies like all right Sunset Boulevard Johnny like that is not like I'm not going to talk to the random person on the street of it but you don't need to be like an absolute cynophile to know and have seen Sunset Boulevard it is like one of those really popular movies that everyone like aing film seen also had a very strong\n\n",
+      "references": [
+        {
+          "id": "cq216-sample-41-1",
+          "title": "Space Invaders",
+          "quote": "Space Invaders",
+          "reviewed_game_ids": [
+            "cq216-g109"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Full-source contextual mapping checked; non-game kinds stay outside game ranking. Raw uncertain film identity requires qualifier."
+        },
+        {
+          "id": "cq216-sample-41-2",
+          "title": "Atari Football",
+          "quote": "Atari football",
+          "reviewed_game_ids": [
+            "cq216-g110"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Full-source contextual mapping checked; non-game kinds stay outside game ranking. Raw uncertain film identity requires qualifier."
+        },
+        {
+          "id": "cq216-sample-41-3",
+          "title": "Uncertain Nintendo arcade title raw computer aell",
+          "quote": "computer aell",
+          "reviewed_game_ids": [
+            "cq216-g111"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Full-source contextual mapping checked; non-game kinds stay outside game ranking. Raw uncertain film identity requires qualifier."
+        },
+        {
+          "id": "cq216-sample-41-4",
+          "title": "Sunset Boulevard film",
+          "quote": "Sunset Boulevard",
+          "reviewed_game_ids": [
+            "cq216-g046"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Full-source contextual mapping checked; non-game kinds stay outside game ranking. Raw uncertain film identity requires qualifier."
+        }
+      ]
+    },
+    {
+      "batch": "017",
+      "episode": 216,
+      "source_key": "sc-1466430109",
+      "source_window_count": 164,
+      "index": 82,
+      "location": "01:26:45",
+      "text": "\nthree like he's great like I think I think there's a world where I'm wrong and secret of Monkey Island is remembered but if if I I didn't put Castlevania in there okay that's yep Super Mario like I mean yes Super Mario World will obviously be remembered like how much bias is there going to be for Mario like I guess like going back to like Mario 13 and world will be like going back to the Star Wars Trilogy Where yeah there three movies in the same franchise but everyone kind of knows them cuz it's [ __ ] Star Wars all right yeah we didn't put Mario 2 on there Mario 2 Mario 2 doesn't count Mario 2 is the Star Wars holiday special sorry everyone game's like an eight out of 10 this [ __ ] 1991 so we got uh Street Fighter 2 so I've got a lot of f bombs in this episode sorry guys like Angry Sonic the Hedgehog a link to the past Super Castlevania 4 which isn't going to\n\n",
+      "references": [
+        {
+          "id": "cq216-sample-82-1",
+          "title": "Unresolved gush/three continuation",
+          "quote": "three like he's great",
+          "reviewed_game_ids": [
+            "cq216-g401"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Actual initial omission repaired as an unresolved passing character/media reference, not a forced game identity. Initial failure retained in initial-source-comparison.json."
+        },
+        {
+          "id": "cq216-sample-82-2",
+          "title": "The Secret of Monkey Island",
+          "quote": "secret of Monkey Island",
+          "reviewed_game_ids": [
+            "cq216-g237"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Full-source contextual mapping checked; non-game kinds stay outside game ranking. Raw uncertain film identity requires qualifier."
+        },
+        {
+          "id": "cq216-sample-82-3",
+          "title": "Castlevania reference; scope from surrounding discussion",
+          "quote": "Castlevania",
+          "reviewed_game_ids": [
+            "cq216-g132"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Full-source contextual mapping checked; non-game kinds stay outside game ranking. Raw uncertain film identity requires qualifier."
+        },
+        {
+          "id": "cq216-sample-82-4",
+          "title": "Super Mario World",
+          "quote": "Super Mario World",
+          "reviewed_game_ids": [
+            "cq216-g232"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Full-source contextual mapping checked; non-game kinds stay outside game ranking. Raw uncertain film identity requires qualifier."
+        },
+        {
+          "id": "cq216-sample-82-5",
+          "title": "Super Mario Bros. 1 in compressed group",
+          "quote": "Mario 13",
+          "reviewed_game_ids": [
+            "cq216-g012"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Full-source contextual mapping checked; non-game kinds stay outside game ranking. Raw uncertain film identity requires qualifier."
+        },
+        {
+          "id": "cq216-sample-82-6",
+          "title": "Super Mario Bros. 3 in compressed group",
+          "quote": "Mario 13",
+          "reviewed_game_ids": [
+            "cq216-g162"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Full-source contextual mapping checked; non-game kinds stay outside game ranking. Raw uncertain film identity requires qualifier."
+        },
+        {
+          "id": "cq216-sample-82-7",
+          "title": "Star Wars film trilogy",
+          "quote": "Star Wars Trilogy",
+          "reviewed_game_ids": [
+            "cq216-g223"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Full-source contextual mapping checked; non-game kinds stay outside game ranking. Raw uncertain film identity requires qualifier."
+        },
+        {
+          "id": "cq216-sample-82-8",
+          "title": "Super Mario Bros. 2",
+          "quote": "Mario 2",
+          "reviewed_game_ids": [
+            "cq216-g239"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Full-source contextual mapping checked; non-game kinds stay outside game ranking. Raw uncertain film identity requires qualifier."
+        },
+        {
+          "id": "cq216-sample-82-9",
+          "title": "Star Wars Holiday Special",
+          "quote": "Star Wars holiday special",
+          "reviewed_game_ids": [
+            "cq216-g240"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Full-source contextual mapping checked; non-game kinds stay outside game ranking. Raw uncertain film identity requires qualifier."
+        },
+        {
+          "id": "cq216-sample-82-10",
+          "title": "Street Fighter II",
+          "quote": "Street Fighter 2",
+          "reviewed_game_ids": [
+            "cq216-g016"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Full-source contextual mapping checked; non-game kinds stay outside game ranking. Raw uncertain film identity requires qualifier."
+        },
+        {
+          "id": "cq216-sample-82-11",
+          "title": "Sonic the Hedgehog",
+          "quote": "Sonic the Hedgehog",
+          "reviewed_game_ids": [
+            "cq216-g241"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Full-source contextual mapping checked; non-game kinds stay outside game ranking. Raw uncertain film identity requires qualifier."
+        },
+        {
+          "id": "cq216-sample-82-12",
+          "title": "The Legend of Zelda: A Link to the Past",
+          "quote": "a link to the past",
+          "reviewed_game_ids": [
+            "cq216-g036"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Full-source contextual mapping checked; non-game kinds stay outside game ranking. Raw uncertain film identity requires qualifier."
+        },
+        {
+          "id": "cq216-sample-82-13",
+          "title": "Super Castlevania IV",
+          "quote": "Super Castlevania 4",
+          "reviewed_game_ids": [
+            "cq216-g242"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Full-source contextual mapping checked; non-game kinds stay outside game ranking. Raw uncertain film identity requires qualifier."
+        }
+      ]
+    },
+    {
+      "batch": "017",
+      "episode": 216,
+      "source_key": "sc-1466430109",
+      "source_window_count": 164,
+      "index": 123,
+      "location": "02:09:56",
+      "text": "\ndefinitely there's more than 10 that I I'm going to recognize then I'll let you put in all of them so let's see okay uh all right so akiru Shore vertigo Shore North by Northwest Singing in the Rain pass of Glory witness for a prosecution Sunset Boulevard rear window Seven Samurai and 12 Angry Men I have seen or I know literally all of those movies okay so maybe we can have a decade that's so good let me pick many games let me add some movies from the 50s Cinderella Alison Wonderland Peter Pan lady in the [ __ ] Sleeping Beauty all right yeah all right all right maybe two games per per year is a some decades are bangers some decades are bangers turns out the '90s are good but also we have the recency bias and the Nostalgia bias of course the90s pretty it's like it's impossible for me I grew up then in some of my my favorite system is the Super Nintendo like what do you\n\n",
+      "references": [
+        {
+          "id": "cq216-sample-123-1",
+          "title": "Ikiru film tentative raw akiru",
+          "quote": "akiru",
+          "reviewed_game_ids": [
+            "cq216-g326"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Full-source contextual mapping checked; non-game kinds stay outside game ranking. Raw uncertain film identity requires qualifier."
+        },
+        {
+          "id": "cq216-sample-123-2",
+          "title": "Vertigo film",
+          "quote": "vertigo",
+          "reviewed_game_ids": [
+            "cq216-g327"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Full-source contextual mapping checked; non-game kinds stay outside game ranking. Raw uncertain film identity requires qualifier."
+        },
+        {
+          "id": "cq216-sample-123-3",
+          "title": "North by Northwest film",
+          "quote": "North by Northwest",
+          "reviewed_game_ids": [
+            "cq216-g328"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Full-source contextual mapping checked; non-game kinds stay outside game ranking. Raw uncertain film identity requires qualifier."
+        },
+        {
+          "id": "cq216-sample-123-4",
+          "title": "Singin in the Rain film",
+          "quote": "Singing in the Rain",
+          "reviewed_game_ids": [
+            "cq216-g329"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Full-source contextual mapping checked; non-game kinds stay outside game ranking. Raw uncertain film identity requires qualifier."
+        },
+        {
+          "id": "cq216-sample-123-5",
+          "title": "Paths of Glory film raw pass of Glory",
+          "quote": "pass of Glory",
+          "reviewed_game_ids": [
+            "cq216-g330"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Full-source contextual mapping checked; non-game kinds stay outside game ranking. Raw uncertain film identity requires qualifier."
+        },
+        {
+          "id": "cq216-sample-123-6",
+          "title": "Witness for the Prosecution film",
+          "quote": "witness for a prosecution",
+          "reviewed_game_ids": [
+            "cq216-g331"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Full-source contextual mapping checked; non-game kinds stay outside game ranking. Raw uncertain film identity requires qualifier."
+        },
+        {
+          "id": "cq216-sample-123-7",
+          "title": "Sunset Boulevard film",
+          "quote": "Sunset Boulevard",
+          "reviewed_game_ids": [
+            "cq216-g046"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Full-source contextual mapping checked; non-game kinds stay outside game ranking. Raw uncertain film identity requires qualifier."
+        },
+        {
+          "id": "cq216-sample-123-8",
+          "title": "Rear Window film",
+          "quote": "rear window",
+          "reviewed_game_ids": [
+            "cq216-g332"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Full-source contextual mapping checked; non-game kinds stay outside game ranking. Raw uncertain film identity requires qualifier."
+        },
+        {
+          "id": "cq216-sample-123-9",
+          "title": "Seven Samurai film",
+          "quote": "Seven Samurai",
+          "reviewed_game_ids": [
+            "cq216-g119"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Full-source contextual mapping checked; non-game kinds stay outside game ranking. Raw uncertain film identity requires qualifier."
+        },
+        {
+          "id": "cq216-sample-123-10",
+          "title": "12 Angry Men film",
+          "quote": "12 Angry Men",
+          "reviewed_game_ids": [
+            "cq216-g333"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Full-source contextual mapping checked; non-game kinds stay outside game ranking. Raw uncertain film identity requires qualifier."
+        },
+        {
+          "id": "cq216-sample-123-11",
+          "title": "Cinderella film",
+          "quote": "Cinderella",
+          "reviewed_game_ids": [
+            "cq216-g334"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Full-source contextual mapping checked; non-game kinds stay outside game ranking. Raw uncertain film identity requires qualifier."
+        },
+        {
+          "id": "cq216-sample-123-12",
+          "title": "Alice in Wonderland film",
+          "quote": "Alison Wonderland",
+          "reviewed_game_ids": [
+            "cq216-g335"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Full-source contextual mapping checked; non-game kinds stay outside game ranking. Raw uncertain film identity requires qualifier."
+        },
+        {
+          "id": "cq216-sample-123-13",
+          "title": "Peter Pan film",
+          "quote": "Peter Pan",
+          "reviewed_game_ids": [
+            "cq216-g336"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Full-source contextual mapping checked; non-game kinds stay outside game ranking. Raw uncertain film identity requires qualifier."
+        },
+        {
+          "id": "cq216-sample-123-14",
+          "title": "Unresolved Lady-in-the film reference",
+          "quote": "lady in the",
+          "reviewed_game_ids": [
+            "cq216-g337"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Full-source contextual mapping checked; non-game kinds stay outside game ranking. Raw uncertain film identity requires qualifier."
+        },
+        {
+          "id": "cq216-sample-123-15",
+          "title": "Sleeping Beauty film",
+          "quote": "Sleeping Beauty",
+          "reviewed_game_ids": [
+            "cq216-g338"
+          ],
+          "comparison_status": "mapped",
+          "comparison_note": "Full-source contextual mapping checked; non-game kinds stay outside game ranking. Raw uncertain film identity requires qualifier."
+        }
+      ]
+    }
+  ]
+}

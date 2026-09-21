@@ -1,0 +1,226 @@
+{
+  "review_binding": {
+    "version": "cq-review-binding-1",
+    "sha256": "50f43353e23a8a48de3bab8b690a993698e4d4ccdd84dac6308216aa81286fff",
+    "reviewed_utc": "2026-09-13 11:15:39 UTC",
+    "meaning": "Exact reviewed local inputs; not independent semantic, audio or live certification"
+  },
+  "schema_version": "1",
+  "required_for": "A1–A8 mandatory for every episode in every batch.",
+  "acceptance_scope": "Captured-text development review only; no audio, external-history or live certification.",
+  "episodes": [
+    {
+      "episode": 10,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All34paragraphs fully read/accounted; four one-paragraph supporting leaders are tied, not three dominant games.",
+          "evidence": [
+            "batches/004/reviews/010-audit.md",
+            "batches/004/reviews/010-annotations.json"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "Thirty source buckets reconciled; independent peer31references and four frozen reference buckets checked, including separate NWC colors.",
+          "evidence": [
+            "batches/004/reviews/010-audit.md",
+            "batches/004/reviews/010-annotations.json",
+            "batches/004/reviews/source-first-sample.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Johnny, Kat and guest Nick Morgan distinguished; no Tyler in this early roster.",
+          "evidence": [
+            "batches/004/reviews/010-audit.md",
+            "batches/004/reviews/010-annotations.json"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "Fifty-one actions retain Nick's collection, joint ownership, trade rather than cash sale, future plans and actual play; peer errors repaired.",
+          "evidence": [
+            "batches/004/reviews/010-audit.md",
+            "batches/004/reviews/010-annotations.json"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Seven actual answers source-adjudicated by coordinator and peer, then required runtime contexts and exact snapshots pass.",
+          "evidence": [
+            "batches/004/reviews/answer-review.json",
+            "batches/004/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Written brief offers collecting-origin, signed-item and conditional-disposition hooks; reported database features not current verification.",
+          "evidence": [
+            "batches/004/reviews/010-audit.md",
+            "batches/004/reviews/010-annotations.json"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Durable rebuild, exact quotes, explicit types, complete section/reference maps, runtime/manual snapshots, frozen sample and99regressions pass after recorded repairs.",
+          "evidence": [
+            "batches/004/reviews/verification.md",
+            "tests/test_lore_continuation.py"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All eight mandatory checks have episode-specific evidence/reasons; open item-level uncertainty remains visible.",
+          "evidence": [
+            "batches/004/PROGRESS.md",
+            "pilot/WORKFLOW.md"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 77,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All19paragraphs read/accounted; Spooky Swamp editions unioned, five Scooby-series paragraphs kept separately, no unique three-game lead.",
+          "evidence": [
+            "batches/004/reviews/077-audit.md",
+            "batches/004/reviews/077-annotations.json"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "Twenty-eight record buckets plus peer25named/twounnamed review and two frozen references reconciled; compilations/addon distinct.",
+          "evidence": [
+            "batches/004/reviews/077-audit.md",
+            "batches/004/reviews/077-annotations.json",
+            "batches/004/reviews/source-first-sample.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Only Johnny/Tyler introduced; first intro not first appearance; manual actor left unknown after Tyler handoff.",
+          "evidence": [
+            "batches/004/reviews/077-audit.md",
+            "batches/004/reviews/077-annotations.json"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "Thirteen actions; Maze Chase willingness not purchase, manual receipt actor unresolved, reporter Johnny not Kat's play subject.",
+          "evidence": [
+            "batches/004/reviews/077-audit.md",
+            "batches/004/reviews/077-annotations.json"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Seven fresh actual answers pass after purchase/actor overclaims repaired; initial24/25context result becomes25/25batch without deletingP1.",
+          "evidence": [
+            "batches/004/reviews/answer-review.json",
+            "batches/004/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Brief revised to remove false Maze purchase and definite manual actor, retains version questions, actual pack price and unknown PC gaps.",
+          "evidence": [
+            "batches/004/reviews/077-audit.md",
+            "batches/004/reviews/077-annotations.json"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Durable rebuild, exact quotes, explicit types, complete section/reference maps, runtime/manual snapshots, frozen sample and99regressions pass after recorded repairs.",
+          "evidence": [
+            "batches/004/reviews/verification.md",
+            "tests/test_lore_continuation.py"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All eight mandatory checks have episode-specific evidence/reasons; open item-level uncertainty remains visible.",
+          "evidence": [
+            "batches/004/PROGRESS.md",
+            "pilot/WORKFLOW.md"
+          ]
+        }
+      }
+    },
+    {
+      "episode": 203,
+      "review_stage": "captured_text_review_complete",
+      "checks": {
+        "A1": {
+          "status": "passed",
+          "reason": "All165windows read/accounted; StarWars635/Akalabeth579 lead, Underworld458 versus SpacePanic455 is a near tie.",
+          "evidence": [
+            "batches/004/reviews/203-audit.md",
+            "batches/004/reviews/203-annotations.json"
+          ]
+        },
+        "A2": {
+          "status": "passed",
+          "reason": "195reference buckets; eight frozen refs, explicit SNESStarFox and title-versus-series splits included without changing gold.",
+          "evidence": [
+            "batches/004/reviews/203-audit.md",
+            "batches/004/reviews/203-annotations.json",
+            "batches/004/reviews/source-first-sample.json"
+          ]
+        },
+        "A3": {
+          "status": "passed",
+          "reason": "Johnny/Tyler turn context qualified; Dan Gomez is a reported third party, not automatically purchasing on the show.",
+          "evidence": [
+            "batches/004/reviews/203-audit.md",
+            "batches/004/reviews/203-annotations.json"
+          ]
+        },
+        "A4": {
+          "status": "passed",
+          "reason": "Sixty-one actions distinguish on-air SpacePanic buy, lost FDSGolf bid, dated acquisitions, game completion and ownership correction.",
+          "evidence": [
+            "batches/004/reviews/203-audit.md",
+            "batches/004/reviews/203-annotations.json"
+          ]
+        },
+        "A5": {
+          "status": "passed",
+          "reason": "Eleven complete answers manually checked against full source; runtime all required windows present, including late errata.",
+          "evidence": [
+            "batches/004/reviews/answer-review.json",
+            "batches/004/reviews/answer-review.md"
+          ]
+        },
+        "A6": {
+          "status": "passed",
+          "reason": "Brief/source memo gives genre criteria, baggie/inserts, changed play state and corrected ownership; no externally verified first-release claims.",
+          "evidence": [
+            "batches/004/reviews/203-audit.md",
+            "batches/004/reviews/203-annotations.json"
+          ]
+        },
+        "A7": {
+          "status": "passed",
+          "reason": "Durable rebuild, exact quotes, explicit types, complete section/reference maps, runtime/manual snapshots, frozen sample and99regressions pass after recorded repairs.",
+          "evidence": [
+            "batches/004/reviews/verification.md",
+            "tests/test_lore_continuation.py"
+          ]
+        },
+        "A8": {
+          "status": "passed",
+          "reason": "All eight mandatory checks have episode-specific evidence/reasons; open item-level uncertainty remains visible.",
+          "evidence": [
+            "batches/004/PROGRESS.md",
+            "pilot/WORKFLOW.md"
+          ]
+        }
+      }
+    }
+  ]
+}

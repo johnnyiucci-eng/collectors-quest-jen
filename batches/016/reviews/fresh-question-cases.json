@@ -1,0 +1,113 @@
+{
+  "schema_version": "1",
+  "scope": "Six source-informed extractor questions and four coordinator wordings across the three episodes. Existing source/answers seen; not blind. Frozen before first retrieval and become development cases after use.",
+  "cases": [
+    {
+      "id": "cq022-fresh-packaging",
+      "episode": 22,
+      "question": "Why did Cam recognize Kat as Canadian, and did that mean her NES boxes were PAL?",
+      "required_windows": [
+        "Paragraph 17",
+        "Paragraph 18"
+      ],
+      "expected": "Her French/English box text tipped him off; the hosts distinguish Canadian bilingual/Mattel packaging from automatic PAL identification. Cam says he has no boxed NES games, and Johnny's Canadian black-box subset is only a future low-priority wish."
+    },
+    {
+      "id": "cq022-fresh-manufacturer",
+      "episode": 22,
+      "question": "Which manufacturer did Johnny accidentally attach to the CD-i, and how was he corrected?",
+      "required_windows": [
+        "Paragraph 14",
+        "Paragraph 15"
+      ],
+      "expected": "He says Panasonic and is corrected to Philips, rendered Phillips in the transcript. Preserve this as an in-episode correction, not confirmation that the hosts performed a catalog audit or that all games on either criticized system are worthless."
+    },
+    {
+      "id": "cq022-fresh-save_time",
+      "episode": 22,
+      "question": "Does Johnny's ninety-hour Dragon Warrior VII save tell us how long he actively played?",
+      "required_windows": [
+        "Paragraph 29",
+        "Paragraph 30"
+      ],
+      "expected": "No. He gives an approximate save-file figure and explains he sometimes fell asleep with the game running during illness. It is not a completion time, benchmark, diagnosis or verified account of illness causation."
+    },
+    {
+      "id": "cq022-fresh-wii_actor",
+      "episode": 22,
+      "question": "Can we tell from this episode who owned Blazing Lazers on Wii Virtual Console?",
+      "required_windows": [
+        "Paragraph 35",
+        "Paragraph 36",
+        "Paragraph 37"
+      ],
+      "expected": "The Wii ownership remark is unlabelled and should remain actor-uncertain. Cam is clearly the speaker reporting first completion on Thursday, but that does not automatically assign the separate Wii copy to him. No audio verification was performed."
+    },
+    {
+      "id": "cq022-fresh-expo",
+      "episode": 22,
+      "question": "What was Johnny's workaround for Canadian import costs, and did Cam really book an expo trip?",
+      "required_windows": [
+        "Paragraph 25",
+        "Paragraph 26",
+        "Paragraph 27"
+      ],
+      "expected": "Johnny proposes saving avoided fees toward a Portland trip and wants an Instagram meetup. Cam's supposed commitment emerges in teasing banter; no booking or attendance is reported. Customs and price statements are historical host claims, not present travel/tax advice."
+    },
+    {
+      "id": "cq022-fresh-big_screen",
+      "episode": 22,
+      "question": "What would Johnny's ideal big-screen handheld setup look like, and what limits did he acknowledge?",
+      "required_windows": [
+        "Paragraph 42",
+        "Paragraph 43",
+        "Paragraph 44"
+      ],
+      "expected": "He praises GameCube with Game Boy Player and a SNES-style Hori controller, and wishes for a Wii U DS player using its two screens. He acknowledges touch-heavy DS games would not all fit the idea, and EarthBound is an RPG-library exception. This is preference and a hypothetical accessory, not proof of an announced product, universal compatibility or legal approval."
+    },
+    {
+      "id": "cq089-fresh-notgift",
+      "episode": 89,
+      "question": "Was Tyler's Portland game already on its way to him?",
+      "required_windows": [
+        "Paragraph 66",
+        "Paragraph 67"
+      ],
+      "expected": "No; Johnny still had the boxed purchase and needed to go to the post office. No shipment or delivery established; title caption uncertain."
+    },
+    {
+      "id": "cq089-fresh-substitute",
+      "episode": 89,
+      "question": "Was the Stadium Events on Johnny's shelf the same authentic collectible Stephan received?",
+      "required_windows": [
+        "Paragraph 35",
+        "Paragraph 52",
+        "Paragraph 53",
+        "Paragraph 73",
+        "Paragraph 74"
+      ],
+      "expected": "No; guest received authentic North American copy as wife-funded gift, whereas Johnny identifies a reproduction. No current family or ownership inference beyond source."
+    },
+    {
+      "id": "cq215-fresh-postscript",
+      "episode": 215,
+      "question": "What did the outro correct about Animal Crossing card packs?",
+      "required_windows": [
+        "01:20:08",
+        "01:21:10",
+        "03:04:01"
+      ],
+      "expected": "Original retail price corrected to2.99; earlier higher remembered amounts associated with resale, not a present price or a standard game pack-in."
+    },
+    {
+      "id": "cq215-fresh-discard",
+      "episode": 215,
+      "question": "Did Tyler keep his little GameCube gum cases or replace them?",
+      "required_windows": [
+        "02:16:35",
+        "02:17:39"
+      ],
+      "expected": "Threw them away in a memorabilia purge, later regrets it and wants them back but refuses imagined high replacement price. No replacement purchased."
+    }
+  ]
+}
